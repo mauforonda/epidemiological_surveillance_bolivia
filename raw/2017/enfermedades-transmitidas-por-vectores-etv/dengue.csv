@@ -1,0 +1,696 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,TOTAL-M,TOTAL-F,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+ALTO BENI,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2
+ASCENCION DE GUARAYOS,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,2,1,4,5
+BELLA FLOR,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,1,3,4
+BOLPEBRA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,1,0,0,0,0,2,3,2,0,1,0,0,0,0,4,5,9
+BUENA VISTA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+CAMIRI,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,1,0,0,0,2,4,6
+CARMEN RIVERO TORREZ,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,2,4
+CHIMORE,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,1,0,1,0,2,0,2,0,1,0,0,0,0,0,7,0,7
+COBIJA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,2,0,1,3,7,5,5,4,3,3,2,0,14,11,7,1,1,0,1,0,43,27,70
+COCHABAMBA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,1,1,0,0,5,1,6
+CONCEPCION,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,1,0,0,0,0,1,0,0,1,0,3,0,0,0,0,1,0,2,5,7
+COTOCA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+EL PUENTE(STC),enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,1,0,1,0,1,2,1,1,0,0,1,1,1,1,6,5,11
+EL TORNO,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,1,0,1,0,4,2,3,4,2,3,9,20,2,3,0,0,3,3,25,35,60
+FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+FILADELFIA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GUANAY,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,1,0,10,8,17,7,9,10,4,11,14,27,6,9,12,11,11,8,84,91,175
+HUACARETA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+HUARACAJE,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,5,0,1,0,0,0,0,2,6,8
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,1,0,0,2,3,5
+LA ASUNTA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,1,0,3,1,4
+LA GUARDIA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,2,1,3
+LA PAZ,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+LAGUNILLAS,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MACHARETI,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,1,2,3
+MAGDALENA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,2,1,0,0,0,1,0,0,4,1,0,2,0,0,0,5,6,11
+MAIRANA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+MAPIRI,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,2
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,2,2,4
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+PAILON,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,1,0,2,1,2,0,0,1,2,1,1,4,0,0,0,0,0,1,8,8,16
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PAMPA GRANDE,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+PORVENIR,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,1,1,2,2,0,0,0,0,0,1,3,4,7
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,2,1,3
+PUERTO RICO,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,1,0,1,1,0,1,1,2,1,2,0,0,0,0,0,0,4,6,10
+PUERTO SILES,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,1,0,2,0,0,1,1,1,0,3,2,2,3,1,0,2,2,1,11,11,22
+PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,2,2,4
+REYES,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,2,2,4
+RIBERALTA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,3,1,3,0,4,5,4,9,1,1,3,7,27,19,4,11,8,5,6,5,63,63,126
+ROBORE,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,1,0,2,2,0,0,0,2,0,0,0,0,0,0,0,4,3,7
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,2,3,1,2,1,0,0,2,4,5,0,0,0,0,2,1,10,13,23
+SACABA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAMAIPATA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN ANDRES,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,1,1,4,4,8
+SAN BORJA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,2,0,0,0,0,0,0,6,3,4,1,3,0,5,2,0,8,18,26
+SAN CARLOS,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN JAVIER(BNI),enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN JOAQUIN,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,4,0,4
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN JUAN DE YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,3,1,4
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),dengue,2017-01-01,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+SAN MATIAS,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+SAN RAMON BENI,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,1,1,1,0,0,1,1,1,1,7,0,0,0,0,0,1,4,11,15
+SANTA ANA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,2,0,1,0,5,6,3,5,4,3,5,6,33,35,6,15,2,5,7,0,68,75,143
+SANTA ROSA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SANTA ROSA DEL SARA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SENA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,1,0,1,0,1,1,0,2,0,1,0,0,2,0,5,4,9
+SHINAOTA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SUCRE,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1,0,0,2,3,5
+TRINIDAD,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,1,0,4,2,5,3,6,7,9,13,18,22,6,3,2,4,2,3,53,57,110
+URUBICHA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+VALLEGRANDE,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,1,1,0,0,4,2,6
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,1,0,0,0,1,0,0,0,2,1,0,1,0,0,0,1,0,3,4,7
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,1,0,2,0,1,1,0,0,0,0,0,1,0,2,4,6
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+WARNES,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,1,0,1,1,0,1,0,6,0,1,0,1,3,9,0,0,0,0,1,2,6,21,27
+YACUIBA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,1,0,0,1,1,1,1,1,2,3,1,1,2,1,0,0,2,8,10,18
+YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,1,1,0,0,0,0,2,2,1,0,1,0,1,1,0,4,6,10
+ALTO BENI,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,2,2,4
+ASCENCION DE GUARAYOS,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,1,0,2,2,0,0,1,1,0,0,0,0,0,0,4,3,7
+BAURES,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,2,2,4
+BERMEJO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2,3
+BOYUIBE,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,1,0,0,2,1,2,3,1,1,1,1,0,0,6,7,13
+BUENA VISTA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,1,0,1,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,5,1,6
+CABEZAS,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CAMIRI,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,1,3
+CARANAVI,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,1,0,0,0,1,0,1,0,2,3,3,5,7,7,1,1,3,2,4,1,23,19,42
+CARMEN RIVERO TORREZ,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CHARAGUA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHIMORE,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+COBIJA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,1,3,3,1,2,0,3,4,4,5,2,4,1,2,0,0,16,19,35
+COCHABAMBA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,1,1,1,0,0,0,0,0,0,0,1,0,1,3,0,2,3,1,2,1,9,8,17
+COLPA BELGICA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CONCEPCION,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,2,0,0,0,0,0,1,3,2,0,0,0,0,1,5,4,9
+COTOCA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,1,0,1,3,1,0,0,0,0,0,3,3,6
+CUATRO CAÑADAS,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL PUENTE(STC),enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,1,1,0,4,1,5
+EL TORNO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,1,0,1,3,5,3,2,4,7,11,1,0,2,1,3,2,22,24,46
+ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,2,3
+GUANAY,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,1,2,2,0,0,1,2,6,2,3,2,1,1,0,10,13,23
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,2,2,4,3,2,8,5,4,7,4,18,21,4,13,6,8,3,8,51,71,122
+HUACARETA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+HUARACAJE,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,1,0,0,0,0,1,2,1,0,2,0,0,0,0,3,4,7
+LA ASUNTA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,0,0,1,0,0,2,4,6
+LA GUARDIA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+LORETO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,1,0,0,1,0,0,2,0,1,0,1,1,1,0,0,0,6,2,8
+MAGDALENA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,2,0,0,0,2,6,3,7,10,4,4,2,13,20,1,11,5,4,8,9,48,63,111
+MAIRANA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MAPIRI,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,1,0,0,0,1,3,0,0,1,0,1,0,4,3,7
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,3,5,1,1,0,0,0,0,4,6,10
+MONTERO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1,2,3
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,2
+PAILON,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,1,3,1,2,1,3,8,2,0,1,0,1,0,12,11,23
+PORTACHUELO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+PORVENIR,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,2,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,2,3,5
+PUERTO QUIJARRO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,1,1,0,3,2,4,0,1,4,2,0,1,2,0,2,0,11,12,23
+PUERTO RICO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+PUERTO SILES,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,1,0,1,0,0,2,0,2,1,2,2,0,0,0,0,1,0,7,5,12
+PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,1,1,1,0,1,0,2,0,0,0,1,0,0,1,6,7
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,2,0,0,0,0,1,0,0,0,1,1,2,4,16,1,1,1,0,2,0,11,21,32
+QUILLACOLLO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+REYES,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,1,0,2,1,1,1,0,6,2,3,2,2,2,2,1,15,11,26
+RIBERALTA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,1,2,3,1,3,3,1,3,3,1,5,8,1,3,2,1,1,1,20,23,43
+ROBORE,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,1,2,3,2,4,2,1,1,7,6,0,2,2,2,6,3,24,20,44
+SAN ANDRES,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,4,0,2,0,0,0,3,0,0,0,0,0,0,0,9,0,9
+SAN BORJA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,1,0,0,0,1,0,3,4,4,5,0,0,1,1,2,5,12,15,27
+SAN CARLOS,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,1,0,0,0,1,1,0,1,0,3,0,1,1,0,0,0,0,0,0,6,3,9
+SAN IGNACIO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,1,0,0,3,3,1,2,1,0,0,0,5,6,11
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,1,0,0,0,0,2,0,1,1,0,1,1,0,0,2,4,5,9
+SAN JAVIER(BNI),enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,2,1,3
+SAN JOAQUIN,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,1,1,0,1,0,3,4,7
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN JUAN DE YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,2,0,0,0,1,0,0,2,1,2,0,0,0,0,0,0,4,4,8
+SAN JULIAN,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN MATIAS,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+SAN PEDRO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN RAMON BENI,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,1,0,1,0,1,1,2,0,3,2,7,2,2,0,0,1,6,6,23,29
+SANTA ANA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,1,0,0,0,0,0,0,0,5,6,0,1,0,1,1,2,7,10,17
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,1,0,0,0,8,7,7,11,5,10,6,11,32,36,4,5,7,10,10,5,80,95,175
+SANTA ROSA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,3
+SENA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,2,0,0,0,0,0,1,1,1,0,0,0,0,0,4,1,5
+SUCRE,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,3,2,5
+TEOPONTE,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,2,0,2,2,1,0,3,2,0,0,8,4,12
+TIPUANI,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+TRINIDAD,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,1,1,0,11,8,16,9,24,14,12,26,54,106,17,25,9,14,8,9,152,212,364
+URUBICHA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,1,0,0,1,1,1,3,1,2,1,0,0,0,1,7,5,12
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,0,2
+WARNES,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,2,0,0,0,1,0,4,1,3,2,0,0,0,0,0,0,10,3,13
+YACUIBA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,3,0,0,1,1,1,0,1,3,2,0,2,0,0,0,0,7,7,14
+YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,2,1,3,1,2,1,2,0,5,1,0,0,0,1,1,0,15,5,20
+ALTO BENI,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,1,3,4
+ASCENCION DE GUARAYOS,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,2,2,4
+BAURES,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,2,2,2,1,0,0,0,1,0,4,4,8
+BERMEJO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,1,0,0,1,0,0,0,1,2,0,0,0,0,1,1,0,4,3,7
+BOYUIBE,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,1,1,4,2,9,12,6,9,6,27,5,7,3,8,3,7,37,73,110
+BUENA VISTA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,1,0,0,0,0,1,1,0,1,0,1,1,0,2,0,0,0,0,0,0,4,4,8
+CAMIRI,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,1,0,1,2,1,2,3,1,1,4,0,4,0,0,1,0,8,13,21
+CARANAVI,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,2,4,1,0,1,1,0,1,0,6,4,10
+CARMEN RIVERO TORREZ,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+CHARAGUA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+CHIMORE,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,1,1,0,0,0,5,0,3,2,0,1,0,0,0,1,9,5,14
+COBIJA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,1,0,0,1,2,1,2,1,0,0,1,2,3,4,2,0,1,1,2,1,14,11,25
+COCHABAMBA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,1,0,0,0,0,0,0,5,3,1,2,2,0,1,1,9,7,16
+CONCEPCION,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,1,1,1,0,5,3,8
+COTOCA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,3,0,0,1,5,0,1,2,3,1,0,2,0,0,0,0,12,6,18
+CUATRO CAÑADAS,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CUEVO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+EL ALTO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+EL PUENTE(STC),enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,1,0,2,0,3,4,0,1,1,0,1,0,8,5,13
+EL TORNO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,4,3,0,7,6,10,13,15,15,3,7,2,1,7,1,47,47,94
+ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,3
+EXALTACION,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,2,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,2,3,5
+GUANAY,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,2,0,1,2,1,2,9,11
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,8,6,5,1,5,4,4,6,15,20,6,7,5,6,2,6,50,56,106
+HUACARETA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+HUARACAJE,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,1,0,0,1,0,0,0,0,2,0,2,3,0,0,0,0,0,1,5,5,10
+LA ASUNTA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,3,0,0,1,0,0,0,0,2,1,2,0,0,0,0,2,7,9
+LA GUARDIA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,3,1,0,1,4,2,0,0,0,0,0,0,7,4,11
+LA PAZ,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+LAGUNILLAS,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,2,1,3
+LORETO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,3,2,5
+MACHARETI,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,1,0,0,0,0,0,3,4,1,4,2,5,3,0,1,2,2,0,0,15,13,28
+MAGDALENA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,1,0,1,9,2,2,4,7,5,0,0,7,15,2,3,4,3,6,3,37,37,74
+MAPIRI,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,2,3
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,1,0,0,1,0,0,0,0,2,1,2,3,0,0,0,1,2,0,7,6,13
+MONTERO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,1,0,0,0,1,2,1,0,0,1,0,0,0,0,3,3,6
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PAILON,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,1,0,0,1,0,0,1,2,1,0,0,0,0,0,0,3,3,6
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,1,0,2,2,7,0,2,2,9,16,2,5,0,3,5,6,28,34,62
+PORVENIR,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PUERTO QUIJARRO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,1,0,0,0,0,0,1,1,1,1,4,0,2,4,0,1,0,0,0,0,9,7,16
+PUERTO SILES,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,1,0,0,2,0,0,1,0,1,2,1,1,0,0,0,0,0,5,4,9
+PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,1,0,1,0,0,2,1,0,1,0,2,0,0,2,0,4,6,10
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,1,1,0,0,0,0,0,4,4,11,3,3,0,0,1,3,9,22,31
+QUILLACOLLO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+REYES,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,1,1,0,4,3,1,1,4,6,8,2,6,7,3,1,4,21,31,52
+RIBERALTA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,1,3,1,1,7,6,6,7,2,3,2,2,4,6,1,2,0,0,1,0,25,30,55
+ROBORE,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,1,2,5,5,3,4,3,3,6,4,12,16,5,9,2,6,7,3,44,52,96
+SACABA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,2
+SAMAIPATA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SAN ANDRES,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,1,0,4,1,7,3,5,5,2,3,3,9,3,1,1,3,3,2,29,27,56
+SAN BORJA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,1,0,0,2,1,0,1,1,2,0,5,0,1,0,2,3,13,16
+SAN CARLOS,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,4,0,4
+SAN IGNACIO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,4,1,4,3,2,2,3,4,1,3,1,0,0,0,15,13,28
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,2,2,4
+SAN JAVIER(BNI),enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,1,0,0,0,2,3,0,1,0,0,0,0,3,4,7
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,2,1,3
+SAN JUAN DE YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,3,4,3,1,4,1,1,3,2,1,1,0,0,2,4,12,18,30
+SAN JULIAN,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+SAN MATIAS,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,1,2,4,6
+SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+SAN RAMON BENI,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,1,0,0,0,0,0,2,3,2,0,1,2,7,6,1,1,1,0,2,4,17,16,33
+SANTA ANA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,4,0,2,0,3,1,2,8,0,2,0,0,1,6,12,17,29
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,1,0,1,1,14,12,26,21,20,18,25,22,53,62,12,18,4,16,15,17,171,187,358
+SANTA ROSA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,4,0,1,1,7,8
+SANTA ROSA DEL SARA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,2,0,0,1,1,0,1,0,1,2,0,0,0,1,1,1,6,5,11
+SHINAOTA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,1,0,0,1,3,4
+SUCRE,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,2,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,2,0,1,0,7,2,9
+TARABUCO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TARIJA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+TEOPONTE,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,1,0,0,0,0,1,1,3,0,0,2,1,0,0,4,5,9
+TIPUANI,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+TRINIDAD,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,1,1,1,1,25,25,46,40,38,39,31,24,61,87,29,37,18,24,8,21,258,299,557
+URUBICHA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3,3
+VILLA MONTES,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,1,1,3,5,6,4,7,4,4,14,36,4,16,5,0,4,2,41,75,116
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,2,1,3
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,1,0,1,0,0,0,0,2,1,0,0,0,0,1,0,0,3,3,6
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,3,0,3
+WARNES,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,1,1,2,0,0,0,2,1,1,1,0,2,0,0,0,5,6,11
+YACUIBA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,1,2,0,0,2,1,3,3,10,9,8,8,18,32,6,9,10,10,6,7,64,81,145
+YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,1,1,0,1,0,1,0,4,0,0,1,0,0,0,0,7,2,9
+ALTO BENI,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ASCENCION DE GUARAYOS,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,1,0,0,0,0,0,0,0,0,1,0,0,1,2,1,0,0,0,0,0,3,3,6
+BAURES,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+BERMEJO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,1,0,0,0,0,3,3,1,3,1,1,0,0,5,8,13
+BOLPEBRA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BOYUIBE,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,1,1,2,3,0,6,3,1,9,15,2,1,1,6,0,3,18,36,54
+BUENA VISTA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CABEZAS,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,1,0,2,0,3,0,1,0,0,0,0,0,7,0,7
+CAMIRI,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,1,0,0,0,3,0,2,1,3,3,3,3,1,6,1,1,1,3,1,0,16,17,33
+CARANAVI,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,1,0,3,3,1,0,0,1,1,1,6,5,11
+CHARAGUA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,1,0,0,0,1,2,4,6
+COBIJA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,2,1,0,3,0,0,2,1,1,3,3,3,1,0,0,0,1,0,10,11,21
+COCHABAMBA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,1,6,4,0,1,1,2,1,0,8,8,16
+COLPA BELGICA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,2,2,4
+CONCEPCION,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,1,0,0,0,1,0,0,2,0,1,1,0,0,0,0,1,3,4,7
+COTOCA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,1,2,0,1,1,2,2,2,6,7,0,0,0,3,3,2,13,19,32
+EL PUENTE(STC),enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,1,1,0,1,2,0,4,1,1,0,2,0,0,0,10,3,13
+EL TORNO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,1,0,3,0,3,3,4,3,3,5,10,10,0,2,1,1,3,1,28,25,53
+EXALTACION,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+GUANAY,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,1,0,2,3,5
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,3,2,4,3,4,2,4,5,12,15,7,3,0,4,3,2,37,36,73
+HUACARETA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+IXIAMAS,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+LA ASUNTA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,3,1,4
+LA GUARDIA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,2,0,3,2,2,0,6,10,3,0,0,1,0,0,16,13,29
+LAGUNILLAS,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,2,2,4
+LORETO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+MACHARETI,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,1,0,0,0,0,0,3,3,6,5,0,2,0,3,0,2,10,15,25
+MAGDALENA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,2,0,4,5,4,4,4,2,4,3,6,13,3,5,0,5,1,2,28,39,67
+MAPIRI,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,1,0,1,0,2,2,3,1,1,0,0,0,8,3,11
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,3,0,0,0,1,1,0,1,5,1,1,1,1,0,0,0,11,4,15
+MONTERO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2,3
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+PAILON,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,1,2,7,6,5,4,5,2,3,7,7,15,5,1,2,2,2,1,37,40,77
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,2,0,1,0,2,1,1,3,1,1,0,0,7,5,12
+PORONGO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+PORTACHUELO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+PUERTO QUIJARRO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2
+PUERTO SILES,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,1,0,0,1,2,0,0,0,2,0,1,0,2,0,2,2,10,3,13
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,0,1,0,0,0,4,2,6
+REYES,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,1,0,0,0,0,2,1,3,6,0,3,2,4,1,5,8,20,28
+RIBERALTA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,2,0,0,0,0,1,0,1,0,2,1,2,0,1,1,0,4,7,11
+ROBORE,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,2,0,0,0,2,5,1,1,2,0,1,4,8,10,18
+SAN ANDRES,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,1,0,2,1,1,1,0,0,1,1,0,3,5,8
+SAN BORJA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN CARLOS,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,2,3
+SAN IGNACIO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,1,0,0,0,0,1,2,0,1,0,1,0,0,1,5,6
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SAN JOAQUIN,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2,1,3
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,1,0,0,0,0,0,0,0,1,3,0,1,0,0,2,0,4,4,8
+SAN JUAN DE YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,1,0,2,1,1,1,0,3,0,0,0,0,0,0,4,5,9
+SAN JULIAN,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,1,0,0,1,0,0,0,1,1,2,0,0,0,0,0,0,2,4,6
+SAN MATIAS,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2,1,3,4
+SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,1,3,4
+SAN PEDRO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN RAMON BENI,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,1,0,5,6,5,8,4,2,2,2,1,5,3,4,2,4,1,1,24,32,56
+SANTA ANA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,2,0,0,1,2,2,7,9
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,1,2,2,2,17,20,16,22,21,19,16,24,47,76,11,28,10,13,9,20,150,226,376
+SANTA ROSA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,2,4,6
+SANTA ROSA DEL SARA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,2,3
+SUCRE,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,1,0,0,0,0,0,0,1,2,0,2,0,1,0,1,0,7,1,8
+TARIJA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,2,1,3
+TEOPONTE,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,0,1,1,0,3,3,6
+TRINIDAD,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,1,0,0,8,4,2,0,8,7,4,5,15,24,4,10,1,3,5,8,47,62,109
+URUBICHA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+VILLA MONTES,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,2,0,0,1,3,9,9,15,10,11,10,15,37,67,17,17,5,9,4,14,97,158,255
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0,1,3,4
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,2,0,0,0,5,1,6
+WARNES,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,1,0,0,0,3,2,1,0,3,2,0,1,6,0,0,0,0,0,0,5,14,19
+YACUIBA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,2,4,6,3,8,6,4,5,22,38,6,24,3,8,4,2,55,90,145
+YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,2,1,0,0,0,4,4,8
+ASCENCION DE GUARAYOS,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,2,1,0,0,0,0,0,2,0,3,0,0,0,0,0,0,2,6,8
+BERMEJO,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+BOLPEBRA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BOYUIBE,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,2,0,0,3,2,5
+BUENA VISTA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+CABEZAS,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,4,1,5
+CAMIRI,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,1,0,2,1,4,1,0,0,2,2,0,3,0,2,1,0,0,0,10,9,19
+CARANAVI,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,1,0,0,0,1,0,2,0,1,1,0,0,0,0,5,1,6
+CARAPARI,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CARMEN RIVERO TORREZ,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COBIJA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,2,0,2,0,0,1,0,2,2,0,2,0,0,0,0,0,8,3,11
+COCHABAMBA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,1,0,0,0,0,0,0,2,2,0,0,0,0,0,1,2,4,6
+COLPA BELGICA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,2,3
+CONCEPCION,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,1,0,1,0,2,1,1,4,0,1,0,0,1,1,6,7,13
+COTOCA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,1,1,0,3,1,0,1,2,1,1,0,0,0,1,1,8,5,13
+CUATRO CAÑADAS,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+EL ALTO,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+EL PUENTE(STC),enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,1,0,2,0,3,0,0,0,1,1,0,1,7,8
+EL TORNO,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,1,1,3,4,1,4,5,6,8,3,1,4,1,2,0,24,20,44
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,1,3,4,1,2,1,1,4,0,5,8,2,4,1,2,0,1,17,23,40
+HUACARETA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+LA ASUNTA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,3
+LA GUARDIA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,2,1,5,2,7
+LA PAZ,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+LAGUNILLAS,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,2,3
+LORETO,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+MACHARETI,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,1,0,2,0,2,0,2,0,1,0,0,0,1,0,9,9
+MAGDALENA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,1,2,0,1,1,0,2,3,5,0,2,0,3,1,0,7,14,21
+MAPIRI,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,1,2,0,0,5,2,7
+MONTERO,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PAILON,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,1,2,1,3,3,6,4,6,0,1,0,0,1,1,10,19,29
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,2,0,0,0,0,0,0,2,2,4
+PAMPA GRANDE,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PORONGO,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2
+PORVENIR,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+PUERTO QUIJARRO,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+PUERTO RICO,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO SILES,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,1,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,5,0,5
+PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+REYES,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,2,0,0,0,0,0,2,3,0,5,0,0,0,0,4,8,12
+RIBERALTA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,1,0,1,0,0,2,3,0,0,1,2,0,0,1,0,1,0,0,7,5,12
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,1,2,1,1,1,3,0,2,1,9,0,0,0,0,1,0,5,17,22
+SACABA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN ANDRES,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+SAN CARLOS,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+SAN IGNACIO,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,3,3
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,3,0,3
+SAN JOAQUIN,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,2,4
+SAN JUAN DE YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN MATIAS,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,1,0,0,1,0,0,0,2,2,0,1,2,0,0,0,0,0,0,0,5,4,9
+SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,1,3
+SAN RAFAEL,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN RAMON BENI,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,1,1,0,1,1,2,0,0,0,0,1,0,0,4,1,2,0,1,1,4,5,15,20
+SAN RAMON SCZ,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+SANTA ANA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,1,3,2,5
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,1,1,0,9,10,10,14,5,10,6,10,29,53,11,9,4,8,7,12,82,127,209
+SANTA ROSA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA ROSA DEL SARA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+SHINAOTA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,1,3
+SUCRE,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,3
+TEOPONTE,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,1,0,0,0,0,6,0,0,0,0,1,1,1,7,3,10
+TIPUANI,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+TRINIDAD,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,1,0,3,0,5,1,2,10,8,1,2,2,0,2,1,16,22,38
+URUBICHA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,1,0,1,0,0,0,1,0,2,0,1,0,0,0,0,1,0,1,6,7
+VILLA MONTES,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,1,0,0,0,1,0,0,4,2,1,2,0,5,17,1,0,6,3,0,1,18,26,44
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,2,2,4
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+WARNES,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,1,0,0,0,0,0,0,0,2,0,1,0,2,0,1,0,0,1,2,1,9,10
+YACUIBA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,3,0,1,1,0,0,2,8,1,4,3,1,4,2,14,16,30
+YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+BAURES,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+BUENA VISTA,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CABEZAS,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+CAMIRI,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,3,0,3
+CARANAVI,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+CARMEN RIVERO TORREZ,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COBIJA,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,3,4
+COCHABAMBA,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,1,0,2,1,3,0,2,0,0,0,8,1,9
+CONCEPCION,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+COTOCA,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,1,0,0,0,0,2,0,1,0,0,0,0,0,0,1,3,4
+EL PUENTE(STC),enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,1,0,0,0,0,1,0,2,0,0,0,0,0,0,1,3,4
+EL TORNO,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,1,0,2,0,0,2,3,1,2,0,1,0,0,3,9,12
+GUANAY,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,2,1,2,2,1,3,4,1,3,3,4,4,2,1,0,0,18,15,33
+LA ASUNTA,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+LA GUARDIA,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+LA PAZ,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,1,0,4,0,4
+MACHARETI,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+MAGDALENA,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,2,2,4
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+PAILON,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,1,0,0,0,0,1,4,5
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PAMPA GRANDE,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO SILES,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+REYES,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+RIBERALTA,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,1,1,0,2,1,0,0,1,1,5,1,0,0,1,0,0,4,10,14
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,1,0,1,0,0,0,0,0,0,2,0,0,0,0,0,1,2,3,5
+SAN ANDRES,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+SAN JUAN DE YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,1,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,1,3,4
+SAN JULIAN,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,3,1,4
+SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,3,0,2,4,1,2,4,2,4,3,4,12,8,4,3,5,1,1,3,33,33,66
+SUCRE,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+TEOPONTE,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+TRINIDAD,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,1,2,0,0,1,4,1,1,1,1,0,2,4,10,14
+URUBICHA,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+VALLEGRANDE,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+VILLA MONTES,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,2,3,5
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+WARNES,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+YACUIBA,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,3,2,5
+YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2,3
+CABEZAS,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CAMIRI,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COBIJA,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,2,1,0,0,1,2,0,1,1,0,0,0,4,4,8
+COCHABAMBA,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,1,0,0,1,0,0,0,0,0,1,1,1,2,0,0,0,0,0,4,3,7
+CONCEPCION,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+COTOCA,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,3,3
+CUATRO CAÑADAS,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL TORNO,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,1,0,0,0,1,0,0,0,0,1,1,1,4,4,0,1,2,0,0,1,9,8,17
+GUANAY,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,1,0,0,2,0,0,0,1,2,3,0,0,1,1,0,0,4,7,11
+HUACARETA,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LORETO,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+MACHARETI,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+MAGDALENA,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MONTERO,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PAILON,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,2,0,0,1,2,1,0,0,0,0,0,2,4,6
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PUCARANI,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PUERTO SILES,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+REYES,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3
+RIBERALTA,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,1,0,0,0,0,1,0,0,3,4,1,0,0,0,0,0,5,5,10
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,4,0,4
+SAN ANDRES,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN BORJA,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN JUAN DE YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,1,1,1,0,0,2,0,1,1,0,0,0,0,0,0,4,3,7
+SAN JULIAN,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,1,3
+SAN PEDRO,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA ANA,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,1,2,0,2,0,2,1,1,5,6,7,2,1,0,2,4,0,19,17,36
+SUCRE,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TARIJA,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+TEOPONTE,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,1,0,0,0,0,0,1,1,2,0,1,1,0,1,0,3,5,8
+TRINIDAD,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,1,0,1,0,0,2,5,1,0,1,1,2,1,6,9,15
+VILLA MONTES,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+WARNES,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,1,3,4
+YACUIBA,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,1,0,0,0,0,0,2,2,0,1,0,0,0,0,3,3,6
+ASCENCION DE GUARAYOS,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BAURES,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+BERMEJO,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+CARANAVI,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,2,0,0,0,4,1,5
+CHARAGUA,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+COBIJA,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,1,0,0,1,0,0,0,0,0,1,2,0,0,0,1,0,0,0,0,2,4,4,8
+COCHABAMBA,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,1,0,0,0,2,0,0,0,0,0,3,1,1,0,0,0,1,0,8,1,9
+CONCEPCION,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,3
+COTOCA,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+EL TORNO,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,1,1,2,1,0,1,4,4,0,1,0,0,0,1,7,9,16
+EXALTACION,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+GUANAY,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,2,5,3,3,1,3,0,0,0,6,4,1,1,2,3,3,4,23,18,41
+LA GUARDIA,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA PAZ,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MACHARETI,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,1,2,2,4
+MAGDALENA,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,1,1,0,1,1,0,0,0,1,2,0,1,0,0,0,0,0,5,3,8
+MAPIRI,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+OCURI,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+PAILON,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+REYES,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+RIBERALTA,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,1,0,0,2,2,1,2,0,0,4,1,0,1,2,1,0,0,2,0,0,8,11,19
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0,0,2,2,4
+SAN CARLOS,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SAN JAVIER(BNI),enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAN JUAN DE YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SAN JULIAN,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SAN MATIAS,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2
+SANTA ANA,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,2,1,1,0,3,0,2,2,5,0,2,1,10,10,3,3,2,1,0,5,30,23,53
+SUCRE,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+TARIJA,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,2
+TEOPONTE,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,2,0,1,0,0,3,0,0,1,0,3,0,7,3,10
+TRINIDAD,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,1,0,2,0,1,1,1,1,1,1,0,2,0,1,6,6,12
+VILLA MONTES,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+WARNES,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+YACUIBA,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,2,1,0,0,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,2,5,7
+YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,2,3
+ALTO BENI,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ASCENCION DE GUARAYOS,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+AZURDUY,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+BAURES,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CABEZAS,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CAMIRI,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,2
+COBIJA,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,4,5
+COCHABAMBA,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+CONCEPCION,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,4,4
+COTOCA,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+EL PUENTE(STC),enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL TORNO,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+GUANAY,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,2,2,4
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,1,3,1,0,1,0,2,3,1,2,0,0,0,2,6,10,16
+LA ASUNTA,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,3,1,4
+LA GUARDIA,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+LA PAZ,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MACHARETI,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+MAPIRI,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,2,2,4
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PAILON,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,1,0,0,0,0,0,0,3,0,0,1,0,0,0,1,0,3,3,6
+PUERTO SILES,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,3,0,3
+PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+RIBERALTA,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,1,0,0,0,0,2,3,0,0,0,0,0,2,1,0,0,0,1,0,0,6,4,10
+ROBORE,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+SAN JUAN DE YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN JULIAN,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN MATIAS,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,1,3,4
+SAN RAMON SCZ,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,2,0,1,2,4,2,2,1,3,5,9,9,1,4,2,0,1,4,25,27,52
+SANTA ROSA DEL SARA,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SUCRE,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+TARIJA,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,1,0,0,3,1,5,1,0,4,0,4,0,1,8,12,20
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+WARNES,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+YACUIBA,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+BAURES,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BELLA FLOR,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BOYUIBE,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+CHIMORE,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,1,1,0,0,0,0,1,2,2,0,0,0,0,0,0,3,4,7
+COBIJA,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,1,1,1,1,3,1,0,0,1,0,0,2,1,0,0,0,0,1,0,6,7,13
+COCHABAMBA,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,2
+EL PUENTE(STC),enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+EL TORNO,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,1,1,0,0,1,1,6,7
+ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+GUANAY,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,1,2,0,0,2,0,2,1,4,1,2,1,2,0,0,5,13,18
+HUACARETA,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+IXIAMAS,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+LA ASUNTA,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+MACHARETI,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MAGDALENA,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1,0,1,1,0,3,4,7
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+PAILON,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,1,3
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,1,0,0,1,0,0,0,1,2,0,0,0,0,0,0,2,3,5
+RIBERALTA,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,1,0,1,1,1,0,2,2,0,0,1,0,0,0,6,3,9
+SAN BORJA,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN IGNACIO,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN JUAN DE YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA ANA,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,1,0,0,2,1,3,0,1,2,2,2,1,7,6,2,1,1,1,1,3,17,20,37
+SUCRE,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TEOPONTE,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+TRINIDAD,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,0,0,0,1,0,4,2,6
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+YACUIBA,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,2,0,0,1,5,2,7
+YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,2
+BAURES,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2,2
+BELLA FLOR,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+BERMEJO,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+BUENA VISTA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+CABEZAS,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,3,0,3
+CAMIRI,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,2
+CARANAVI,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CARMEN RIVERO TORREZ,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,2
+CHARAGUA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+CHIMORE,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COBIJA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,1,2,0,1,1,1,2,0,1,0,1,4,0,0,0,0,0,0,6,8,14
+COCHABAMBA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+COLPA BELGICA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COTOCA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CUATRO CAÑADAS,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+EL PUENTE(STC),enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,1,0,2,3,5
+EL TORNO,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,1,0,0,3,0,2,1,1,3,6,0,1,0,0,1,0,6,13,19
+GENERAL SAAVEDRA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,1,1,0,0,0,0,1,2,1,0,0,0,0,1,3,4,7
+HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA ASUNTA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,1,0,0,3,2,5
+LA GUARDIA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA PAZ,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+MACHARETI,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,2,1,3
+MAGDALENA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,1,3,4
+MAIRANA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,1,0,0,2,3,5
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+OMEREQUE,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PADILLA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PAILON,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2,1,3
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PUERTO RICO,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,1,0,0,0,0,3,0,0,1,0,0,0,1,3,3,6
+QUIRUSILLAS,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+RIBERALTA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,1,0,1,2,2,2,1,2,1,1,6,9,2,0,0,0,0,2,14,18,32
+ROBORE,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+SAN ANDRES,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SAN IGNACIO,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,2,2,4
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,1,1,0,1,2,5,7
+SAN JUAN DE YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,1,0,6,1,0,0,0,0,0,0,7,1,8
+SAN JULIAN,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN RAMON BENI,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,2,0,1,0,4,6,4,4,3,2,2,7,20,17,3,5,4,5,3,3,46,49,95
+SUCRE,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+TRINIDAD,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,1,0,0,1,1,1,3,5,4,0,2,1,2,0,0,8,13,21
+VILLA MONTES,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,1,3,1,1,0,0,0,0,0,4,2,6
+WARNES,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,2,1,3
+YACUIBA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,1,0,0,3,0,0,1,0,5,1,0,0,0,0,0,4,7,11
+YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,1,1,1,0,1,0,1,4,0,0,0,0,0,0,4,5,9
+BAURES,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+BERMEJO,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+BOLPEBRA,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CABEZAS,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2,3
+CAMIRI,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,2,2,4
+CARAPARI,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CHARAGUA,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHIMORE,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,1,0,0,0,0,0,2,0,0,1,2,3,1,0,0,0,1,1,7,5,12
+COBIJA,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,1,1,0,1,0,0,0,2,2,2,0,1,0,0,0,7,3,10
+COCHABAMBA,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,3,1,4
+EL TORNO,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,1,0,0,1,0,0,0,0,2,0,3,7,0,0,2,0,2,0,10,8,18
+ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,1,0,0,0,0,1,0,0,0,1,1,1,2,2,2,0,0,1,0,0,6,6,12
+HUACARETA,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+LA ASUNTA,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,3,1,0,1,0,0,0,3,3,6
+LA GUARDIA,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,3,2,5
+MACHARETI,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,1,0,1,0,1,0,0,2,0,0,1,0,0,1,1,3,5,8
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+PAILON,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,1,0,0,0,0,2,1,1,0,1,0,1,3,1,1,0,0,0,0,0,6,6,12
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PAMPA GRANDE,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+POJO (CBBA),enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+PORVENIR,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PUERTO SILES,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2
+PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,3,1,4
+RIBERALTA,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,1,0,0,0,4,2,0,1,0,0,0,1,5,8,0,2,0,1,4,1,14,16,30
+ROBORE,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,2,0,2,3,5
+SAN ANDRES,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+SAN JAVIER(BNI),enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SAN JUAN DE YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+SAN RAMON BENI,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,1,4,3,1,1,1,1,6,8,8,9,2,5,1,5,7,2,30,35,65
+SANTA ROSA DEL SARA,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+SUCRE,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,1,0,0,0,0,1,0,0,0,0,1,4,0,0,0,0,0,0,0,5,2,7
+TRINIDAD,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,1,0,0,0,2,0,1,1,0,2,1,4,0,2,2,3,0,0,7,12,19
+VILLA MONTES,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,2,0,0,0,0,0,3,1,4
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,2,1,3
+YACUIBA,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,1,1,0,0,0,1,0,1,3,2,0,0,0,0,0,5,4,9
+YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,2,0,0,1,0,0,0,0,2,2,3,1,0,0,4,1,11,5,16

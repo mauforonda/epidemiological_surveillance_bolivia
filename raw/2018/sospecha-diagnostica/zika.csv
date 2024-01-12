@@ -1,0 +1,128 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+CHIMORE,sospecha diagnostica,zika,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COCHABAMBA,sospecha diagnostica,zika,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL TORNO,sospecha diagnostica,zika,2018-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,2,2,4
+ENTRE RIOS CBBA,sospecha diagnostica,zika,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+LA GUARDIA,sospecha diagnostica,zika,2018-01-01,0,0,0,0,3,2,0,0,2,2,2,1,2,5,0,2,1,1,0,0,10,13,23
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,zika,2018-01-01,3,2,0,0,1,2,0,1,0,0,0,0,3,8,2,1,1,0,1,1,11,15,26
+SUCRE,sospecha diagnostica,zika,2018-01-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,2
+TRINIDAD,sospecha diagnostica,zika,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,sospecha diagnostica,zika,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,1,0,0,1,1,5,6
+CARANAVI,sospecha diagnostica,zika,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COTOCA,sospecha diagnostica,zika,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+EL TORNO,sospecha diagnostica,zika,2018-02-01,0,0,0,0,1,1,1,0,2,0,0,0,0,2,1,0,0,0,0,0,5,3,8
+LA GUARDIA,sospecha diagnostica,zika,2018-02-01,0,0,0,1,3,0,1,2,3,1,1,5,4,9,0,1,0,1,0,0,12,20,32
+SAN MIGUEL DE VELASCO,sospecha diagnostica,zika,2018-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN RAFAEL,sospecha diagnostica,zika,2018-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,zika,2018-02-01,0,1,0,0,2,0,0,1,0,1,0,2,4,7,0,3,0,3,1,0,7,18,25
+TARIJA,sospecha diagnostica,zika,2018-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+TRINIDAD,sospecha diagnostica,zika,2018-02-01,0,1,0,0,0,0,0,0,0,0,0,0,0,13,0,0,1,0,0,0,1,14,15
+VILLA MONTES,sospecha diagnostica,zika,2018-02-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+VILLA TUNARI,sospecha diagnostica,zika,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,zika,2018-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,2,2,4
+CHIMORE,sospecha diagnostica,zika,2018-03-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+COCHABAMBA,sospecha diagnostica,zika,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CONCEPCION,sospecha diagnostica,zika,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+EL TORNO,sospecha diagnostica,zika,2018-03-01,1,0,0,1,2,4,2,4,1,2,1,8,4,16,0,4,1,0,0,2,12,41,53
+ENTRE RIOS CBBA,sospecha diagnostica,zika,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,4,4
+LA GUARDIA,sospecha diagnostica,zika,2018-03-01,0,0,0,1,2,2,4,4,4,2,0,6,3,11,0,6,1,1,0,2,14,35,49
+MACHARETI,sospecha diagnostica,zika,2018-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+RURRENABAQUE,sospecha diagnostica,zika,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SAN MIGUEL DE VELASCO,sospecha diagnostica,zika,2018-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,zika,2018-03-01,0,2,1,0,1,2,2,3,2,0,1,0,12,30,3,7,1,4,2,4,25,52,77
+SUCRE,sospecha diagnostica,zika,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,zika,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA TUNARI,sospecha diagnostica,zika,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,1,3,4
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,zika,2018-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,2,2,4
+WARNES,sospecha diagnostica,zika,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+YACUIBA,sospecha diagnostica,zika,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CABEZAS,sospecha diagnostica,zika,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COCHABAMBA,sospecha diagnostica,zika,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,4,0,4
+COTOCA,sospecha diagnostica,zika,2018-04-01,0,0,0,0,0,0,0,1,0,1,0,2,1,4,0,0,0,0,0,0,1,8,9
+EL TORNO,sospecha diagnostica,zika,2018-04-01,0,1,1,0,6,6,3,5,0,8,5,8,7,17,2,3,0,1,0,3,24,52,76
+ENTRE RIOS CBBA,sospecha diagnostica,zika,2018-04-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+HUACARETA,sospecha diagnostica,zika,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+LA GUARDIA,sospecha diagnostica,zika,2018-04-01,0,0,1,0,5,1,2,2,2,1,1,4,5,9,4,1,1,0,0,1,21,19,40
+MACHARETI,sospecha diagnostica,zika,2018-04-01,0,0,0,0,0,1,1,0,0,0,0,0,1,3,0,1,1,1,1,1,4,7,11
+PALOS BLANCOS,sospecha diagnostica,zika,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PORTACHUELO,sospecha diagnostica,zika,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+RURRENABAQUE,sospecha diagnostica,zika,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SACABA,sospecha diagnostica,zika,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN MIGUEL DE VELASCO,sospecha diagnostica,zika,2018-04-01,0,0,1,0,1,0,1,1,0,0,1,2,0,6,0,0,0,0,0,0,4,9,13
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,zika,2018-04-01,0,0,0,0,2,1,3,3,3,3,1,7,23,47,2,10,4,8,3,2,41,81,122
+SUCRE,sospecha diagnostica,zika,2018-04-01,0,3,0,0,0,0,0,0,0,0,0,0,2,3,0,1,0,0,0,0,2,7,9
+TRINIDAD,sospecha diagnostica,zika,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,sospecha diagnostica,zika,2018-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,2
+VILLA TUNARI,sospecha diagnostica,zika,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,2,3
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,zika,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,3,2,5
+WARNES,sospecha diagnostica,zika,2018-04-01,0,0,0,1,0,1,1,1,0,0,0,2,0,1,0,0,0,0,0,1,1,7,8
+YACUIBA,sospecha diagnostica,zika,2018-04-01,0,0,0,0,1,1,1,0,1,0,0,1,1,1,0,0,0,1,1,0,5,4,9
+CAMIRI,sospecha diagnostica,zika,2018-05-01,0,0,0,0,0,0,0,1,0,0,0,2,0,2,0,1,0,0,0,0,0,6,6
+CHIMORE,sospecha diagnostica,zika,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COBIJA,sospecha diagnostica,zika,2018-05-01,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,2,1,3
+COCHABAMBA,sospecha diagnostica,zika,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,2,1,3
+COTOCA,sospecha diagnostica,zika,2018-05-01,0,0,0,0,0,0,0,0,0,2,0,0,2,4,0,1,0,0,0,0,2,7,9
+EL TORNO,sospecha diagnostica,zika,2018-05-01,0,0,0,2,2,1,1,5,3,0,0,5,7,18,1,4,0,1,0,2,14,38,52
+ENTRE RIOS CBBA,sospecha diagnostica,zika,2018-05-01,0,0,0,0,0,0,1,0,0,0,0,0,1,2,0,0,0,0,0,0,2,2,4
+LA GUARDIA,sospecha diagnostica,zika,2018-05-01,0,0,0,0,2,0,0,3,2,0,2,0,0,8,0,1,1,0,0,0,7,12,19
+MACHARETI,sospecha diagnostica,zika,2018-05-01,0,1,0,0,0,0,2,0,0,0,1,0,2,2,1,1,3,0,2,0,11,4,15
+MONTERO,sospecha diagnostica,zika,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PALOS BLANCOS,sospecha diagnostica,zika,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+RURRENABAQUE,sospecha diagnostica,zika,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN MIGUEL DE VELASCO,sospecha diagnostica,zika,2018-05-01,0,0,0,0,0,1,0,1,0,1,0,2,0,0,0,0,0,0,1,1,1,6,7
+SAN RAMON BENI,sospecha diagnostica,zika,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,zika,2018-05-01,5,1,1,0,4,1,9,5,6,7,8,4,16,59,8,10,2,7,5,2,64,96,160
+SUCRE,sospecha diagnostica,zika,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+TARIJA,sospecha diagnostica,zika,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+TRINIDAD,sospecha diagnostica,zika,2018-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+VILLA MONTES,sospecha diagnostica,zika,2018-05-01,0,0,0,0,0,0,1,0,0,1,0,0,0,2,0,2,0,0,0,0,1,5,6
+VILLA TUNARI,sospecha diagnostica,zika,2018-05-01,0,0,0,0,0,0,1,0,0,0,0,2,0,3,0,0,0,0,0,0,1,5,6
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,zika,2018-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,1,1,4,5
+WARNES,sospecha diagnostica,zika,2018-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+YACUIBA,sospecha diagnostica,zika,2018-05-01,0,0,0,0,1,0,1,0,2,1,1,1,0,2,0,0,0,0,0,0,5,4,9
+YAPACANI,sospecha diagnostica,zika,2018-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,3,3
+EL TORNO,sospecha diagnostica,zika,2018-06-01,0,0,0,0,0,3,0,0,0,0,0,2,1,7,0,0,1,0,0,0,2,12,14
+LA GUARDIA,sospecha diagnostica,zika,2018-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,2,2,0,1,0,0,0,4,2,6
+MONTERO,sospecha diagnostica,zika,2018-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,zika,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,zika,2018-06-01,3,1,1,0,1,1,0,1,2,1,1,1,2,8,3,3,1,1,3,0,17,17,34
+SUCRE,sospecha diagnostica,zika,2018-06-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA TUNARI,sospecha diagnostica,zika,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,zika,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+WARNES,sospecha diagnostica,zika,2018-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+YACUIBA,sospecha diagnostica,zika,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL TORNO,sospecha diagnostica,zika,2018-07-01,0,3,0,0,0,0,0,0,0,0,2,1,1,3,0,0,0,1,0,0,3,8,11
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,zika,2018-07-01,2,1,0,3,1,0,0,0,2,0,0,0,1,2,1,2,0,1,1,0,8,9,17
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,zika,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+EL TORNO,sospecha diagnostica,zika,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,zika,2018-08-01,3,4,0,1,1,0,0,0,0,0,0,2,1,2,0,0,0,0,1,1,6,10,16
+BELLA FLOR,sospecha diagnostica,zika,2018-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+COBIJA,sospecha diagnostica,zika,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL TORNO,sospecha diagnostica,zika,2018-09-01,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,3,4
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,zika,2018-09-01,9,5,0,0,0,2,0,0,0,0,0,0,1,5,1,1,0,0,0,2,11,15,26
+SUCRE,sospecha diagnostica,zika,2018-09-01,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+TARIJA,sospecha diagnostica,zika,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+TRINIDAD,sospecha diagnostica,zika,2018-09-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA TUNARI,sospecha diagnostica,zika,2018-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+YAPACANI,sospecha diagnostica,zika,2018-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL TORNO,sospecha diagnostica,zika,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,4,4
+SAN IGNACIO DE VELASCO,sospecha diagnostica,zika,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN PEDRO,sospecha diagnostica,zika,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,zika,2018-10-01,3,0,1,3,1,2,0,0,0,0,2,0,3,7,0,0,0,0,0,2,10,14,24
+SUCRE,sospecha diagnostica,zika,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COTOCA,sospecha diagnostica,zika,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL TORNO,sospecha diagnostica,zika,2018-11-01,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+PALOS BLANCOS,sospecha diagnostica,zika,2018-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,zika,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+SAN JUAN DE YAPACANI,sospecha diagnostica,zika,2018-11-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,zika,2018-11-01,4,2,0,2,0,0,0,0,0,0,2,1,4,4,1,0,1,0,2,0,14,9,23
+SUCRE,sospecha diagnostica,zika,2018-11-01,1,1,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,2,3,5
+TRINIDAD,sospecha diagnostica,zika,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+COCHABAMBA,sospecha diagnostica,zika,2018-12-01,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,3,1,4
+EL TORNO,sospecha diagnostica,zika,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+GUAYARAMERIN,sospecha diagnostica,zika,2018-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,zika,2018-12-01,1,1,0,0,1,2,0,0,0,3,1,1,0,0,1,0,0,0,1,0,5,7,12
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,zika,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+YACUIBA,sospecha diagnostica,zika,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1

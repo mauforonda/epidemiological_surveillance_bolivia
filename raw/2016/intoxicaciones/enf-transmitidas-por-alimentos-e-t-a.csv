@@ -1,0 +1,641 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 m a menor de 1 año,b. 6 m a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,TOTAL-M,TOTAL-F,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+ARANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CABEZAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,1,1,0,3,1,4,2,3,7,4,2,2,3,1,4,3,20,21,41
+CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CHARAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,2,3
+CHIMORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,1,3,4
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,3,0,2,2,0,0,4,1,10,9,4,1,2,4,2,7,27,24,51
+COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+COLQUIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CULPINA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,1,3,3,0,1,1,0,0,0,1,1,1,0,2,0,8,6,14
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,0,0,0,6,9,20,17,9,12,11,9,5,4,51,51,102
+GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,1,0,3,0,2,0,1,2,0,1,0,0,0,0,7,3,10
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,1,0,3,3,1,4,0,0,3,3,0,13,0,2,2,3,3,4,13,32,45
+MINEROS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,0,0,0,1,1,1,3,0,0,0,0,1,0,3,4,7
+MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,1,0,1,0,1,0,0,2,1,0,0,1,0,1,0,4,4,8
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,3,2,5
+PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,1,0,1,1,1,1,0,1,2,4,2,2,2,2,0,1,9,12,21
+PUCARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PUERTO SUAREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,2,2,4
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+SAMAIPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,1,0,0,0,0,0,2,0,1,1,1,1,0,0,0,1,0,3,5,8
+SAN IGNACIO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,0,0,0,1,2,1,4,0,0,0,0,0,3,2,9,11
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,1,0,4,11,16,14,17,6,3,3,12,21,11,17,11,2,3,0,2,74,80,154
+SICAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,2,1,23,14,10,8,12,5,3,3,7,10,3,4,2,2,2,3,64,50,114
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,1,0,0,2,5,2,1,6,3,2,0,2,0,6,0,1,1,0,1,1,12,22,34
+TOLATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+TOTORA(CBBA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2,0,0,0,1,0,4,1,5
+VACAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+VILLA SERRANO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,1,0,1,0,0,0,0,0,2,0,0,0,1,0,0,1,5,1,6
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-01-01,0,0,0,0,1,1,1,1,2,0,2,3,1,0,0,1,2,1,0,0,9,7,16
+ACHACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,1,4,5
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+BUENA VISTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CAJUATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,1,0,0,1,0,2,8,0,0,1,0,2,1,0,0,0,0,2,3,8,13,21
+CHARAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,4
+CHIMORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,1,0,1,2,1,3,0,3,0,0,5,8,5,1,3,1,3,1,19,19,38
+COLOMI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CONCEPCION,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,4,5
+COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,5,2,4,0,1,2,1,0,3,2,0,0,1,0,0,0,15,6,21
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,1,0,0,1,0,2,3,1,2,0,0,1,0,5,6,11
+ESCOMA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+FERNANDEZ ALONSO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+JESUS DE MACHACA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+LA ASUNTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,2,0,0,0,0,0,2,1,2,0,0,1,0,0,6,2,8
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,3,2,4,3,4,3,0,2,6,12,3,4,0,5,3,4,23,35,58
+MINEROS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2,3
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+OMEREQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,2,2,3,5
+PALOS BLANCOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,2,0,0,1,0,2,1,3,3,1,2,0,1,0,3,7,12,19
+PUERTO SUAREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,3,1,4
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,2
+SAMAIPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,2,1,3
+SAN ANDRES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,2,3
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN RAFAEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,3,12,10,22,13,4,8,6,8,16,17,7,7,2,2,4,2,73,70,143
+SANTA ROSA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SORATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,1,0,6,14,13,8,11,4,4,4,11,9,5,4,0,2,2,6,53,51,104
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,1,0,3,4,6,1,1,0,1,2,2,2,1,2,1,1,2,0,18,12,30
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA SERRANO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2
+WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,3,1,4
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,2,0,0,0,0,0,3,6,1,3,0,0,2,5,0,0,0,0,1,1,9,15,24
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2,2,4
+YOTALA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,1,3,4
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,1,0,0,3,0,0,0,0,2,0,1,0,1,0,5,3,8
+BOYUIBE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CAJUATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,0,2
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,2,0,0,1,4,4,4,1,1,1,1,4,4,7,1,2,0,3,0,3,17,26,43
+CHARAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,2,1,3
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,2,1,6,2,5,3,1,1,2,3,4,1,0,3,5,6,3,20,28,48
+COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CORQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,2,1,3
+COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,2,1,3
+DESAGUADERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,1,1,4,2,0,2,0,2,5,6,0,1,0,1,2,0,12,15,27
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,1,0,1,0,0,0,0,0,0,2,2,2,1,2,0,0,5,6,11
+GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,3,0,9,4,5,4,0,0,1,0,1,0,0,0,0,0,19,8,27
+HUACARETA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+LA ASUNTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,5,4,6,5,11
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,2,5,12,6,3,6,3,3,1,7,16,1,2,4,5,5,2,37,46,83
+MINEROS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,2,1,3
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,2,1,4,0,0,0,0,1,1,0,0,0,0,0,0,2,7,9
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,2,2,4
+PORONGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,0,1,2,1,1,4,2,2,1,4,0,0,0,1,6,13,19
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,4
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,1,1,0,0,1,0,1,2,4,7,0,2,0,2,1,2,8,16,24
+ROBORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+RURRENABAQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,1,1,0,0,0,0,0,1,2,0,0,1,0,0,0,3,3,6
+SAMAIPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,1,2,1,0,0,0,1,1,2,0,0,0,0,0,5,3,8
+SAN ANTONIO DE ESMORUCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN IGNACIO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,4,1,5
+SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SANTA ANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,2,0,0,3,20,19,32,23,8,9,15,16,4,10,7,11,2,4,5,4,95,99,194
+SANTA ROSA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,3,3
+SHINAOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,6,4,13,11,8,6,3,4,14,14,5,4,1,1,2,3,52,47,99
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,1,0,3,3,6,2,2,4,1,2,3,2,0,0,1,4,0,0,17,17,34
+TOLATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,3,3
+TRIGAL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,1,0,0,0,3,3,6
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2,1,3
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,1,0,1,1,2,0,1,2,0,0,0,2,1,2,0,0,0,0,6,7,13
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ACHACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,0,0,0,1,3,4
+CALAMARCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,2,1,1,0,1,4,2,3,3,1,0,4,1,3,2,1,3,1,0,0,15,18,33
+CAPINOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHARAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,0,3
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,1,1,4,5,1,4,4,1,2,2,3,1,0,1,1,1,0,16,16,32
+COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,3,0,3
+COMARAPA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,2,1,3
+CORQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,1,1,0,0,1,1,1,2,1,0,0,0,1,0,0,0,5,4,9
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,3,0,1,0,0,5,5,10
+GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ICLA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA ASUNTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,4,4
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,1,1,0,7,4,3,1,2,0,1,6,12,3,1,0,4,3,9,18,40,58
+MACHACAMARCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,2,3
+MAIRANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MINEROS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,1,0,1,1,0,1,0,1,0,0,1,0,0,0,0,1,0,4,3,7
+MORO MORO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,1,0,0,1,0,0,0,0,3,0,0,0,0,0,1,1,5,6
+PORONGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,2,3
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,3,0,0,3,0,0,0,0,4,2,2,0,0,0,2,4,11,9,20
+PUERTO SUAREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,2,0,1,0,0,1,0,1,1,0,0,0,0,0,0,2,4,6
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,1,2,0,0,0,0,1,0,3,2,1,3,2,0,1,1,9,8,17
+RURRENABAQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SAMAIPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,3,3
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,1,0,0,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,2,3,5
+SAN JULIAN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,1,1,2,38,25,18,27,13,15,6,0,14,11,7,4,2,2,1,6,100,93,193
+SANTA ROSA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,2,2,4
+SHINAOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SORACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,1,11,6,7,4,3,3,2,3,13,10,1,3,1,0,2,3,40,33,73
+TARACO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,2,1,1,1,0,1,0,1,0,3,0,0,1,1,0,0,4,8,12
+TOLATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA SERRANO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,1,0,0,0,0,0,0,0,0,7,0,5,0,2,0,0,0,0,1,14,15
+WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,2,0,0,0,0,0,1,1,7,0,0,0,1,0,0,1,11,12
+YAMPARAEZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+YOTALA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-04-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,1,0,2,2,0,1,0,0,0,0,0,2,0,1,0,0,3,6,9
+CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,2,1,3,4,7
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,2,1,2,2,2,5,0,3,3,2,2,0,1,4,3,1,15,18,33
+CHARAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,0,0,0,0,1,0,0,1,2,1,0,0,0,0,0,2,3,5
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,1,0,3,2,3,1,2,2,0,1,4,4,1,3,2,3,4,2,20,18,38
+COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,0,2,2,0,0,0,0,0,1,0,0,0,0,0,0,2,3,5
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,1,2,0,1,2,0,0,1,1,1,1,0,0,0,0,0,5,5,10
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+IRUPANA (VILLA DE LANZA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,1,1,2,3,5
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,1,0,0,0,7,1,6,7,3,1,4,3,6,8,2,5,1,3,3,3,33,31,64
+MAIRANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,1,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,1,1,4,3,7
+MINEROS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,1,0,0,2,3,5
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,3,3,6
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,3,1,4
+PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0,2,3,5
+PALOS BLANCOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PORONGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,1,0,0,1,1,1,2,0,0,5,1,1,0,0,0,0,1,8,6,14
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,4
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,0,1,0,0,0,0,0,2,2,0,0,0,0,1,0,4,2,6
+ROBORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+RURRENABAQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,2,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,4,1,5
+SAMAIPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,1,0,1,0,0,1,0,2,0,1,0,0,1,0,0,4,3,7
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,2,1,2,2,17,24,34,25,9,15,9,12,14,15,11,11,8,5,2,3,108,113,221
+SANTA ROSA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,1,3,4
+SANTIAGO DE CALLAPA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SHINAOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+SORATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,1,0,0,2,13,9,10,5,4,4,1,2,11,10,3,3,0,1,2,2,45,38,83
+TARABUCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,0,0,0,0,3,1,4
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,3,0,3,1,1,0,0,1,3,0,1,1,1,0,1,3,13,16
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+VILLA SERRANO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,0,2,3,1,0,1,0,2,2,1,3,0,2,0,0,7,10,17
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ACHOCALLA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+AYO AYO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,1,0,1,1,0,1,1,0,0,0,1,1,1,0,1,1,0,0,6,4,10
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,1,1,1,3,3,4,0,4,1,1,1,5,1,2,2,1,5,2,15,23,38
+CHARAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,1,2,10,6,14,7,9,8,2,1,5,3,2,3,2,1,4,3,49,34,83
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+COMARAPA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CORQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,3,0,3
+COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,4,0,0,2,0,0,0,2,0,0,0,0,0,1,0,0,4,5,9
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+IRUPANA (VILLA DE LANZA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+LA ASUNTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,3,0,3
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,1,0,4,7,3,6,5,3,2,3,7,14,1,3,2,4,5,4,30,44,74
+LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+MAIRANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,3,2,5
+MINEROS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,3,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,6,6
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,1,2,2,1,0,1,0,0,1,3,3,0,1,0,0,0,1,7,9,16
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,3,4
+PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+POSTRER VALLE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,2,1,0,0,1,1,2,5,2,0,2,1,2,0,3,8,14,22
+PUERTO SUAREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,2,0,4,1,5
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,1,3,4
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,2,0,0,0,0,0,0,3,2,1,1,2,1,1,2,7,8,15
+RURRENABAQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,1,0,1,0,1,0,0,0,0,0,4,7,0,1,0,1,0,0,7,9,16
+SAMAIPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,1,0,1,2,0,0,0,0,1,0,0,0,1,0,2,0,6,2,8
+SAN BENITO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN BORJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,2
+SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN IGNACIO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1,4,5
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAN RAMON BENI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,1,1,3,3,29,40,25,22,19,26,11,19,40,29,20,19,16,15,4,3,168,177,345
+SANTA ROSA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,0,0,0,0,1,2,3,0,0,0,1,0,0,2,5,7
+SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SHINAOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,3,0,3
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,1,22,23,20,12,8,8,5,0,12,11,4,6,2,1,1,2,74,64,138
+TARACO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,1,0,0,2,1,1,3,1,0,2,0,1,2,3,1,1,0,5,1,0,9,16,25
+TIPUANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,0,0,0,0,0,0,4,4
+TOLATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,1,0,0,1,2,1,3,1,0,0,0,0,0,3,6,9
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+YOTALA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-06-01,0,0,0,0,0,0,1,0,0,2,0,0,1,1,0,0,0,0,0,0,2,3,5
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,2,2,4
+BETANZOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,3,5,13,1,3,1,4,3,4,0,4,3,0,2,2,4,2,19,35,54
+CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CHIMORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,1,1,7,8,7,7,6,9,1,2,10,3,3,1,0,3,5,1,40,35,75
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+COMARAPA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,2,3
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,0,1,1,0,0,2,2,1,4,5,2,2,3,1,0,0,12,12,24
+EL PUENTE(STC),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+LA ASUNTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,1,1,8,1,7,7,7,2,1,3,9,10,7,6,1,1,2,4,43,35,78
+MACHACAMARCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+MINEROS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,1,1,2,1,2,1,0,0,0,2,1,0,0,0,0,0,0,5,6,11
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,1,0,0,0,1,0,1,0,1,0,3,0,0,0,0,1,1,0,8,1,9
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,1,4
+PORONGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,1,0,0,1,0,0,0,1,0,1,3,0,0,1,0,0,1,3,5,7,12
+PUERTO SUAREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,1,2,3
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,1,0,0,4,1,1,0,0,1,0,0,1,0,1,0,1,0,1,1,9,4,13
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,2,3
+SAMAIPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SAN ANDRES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+SAN IGNACIO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,2
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+SAN JOSE DE CHIQUITOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,3,3
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,3,1,5,7,38,25,26,15,15,9,5,9,21,19,5,7,2,5,2,2,122,99,221
+SANTA ROSA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,0,0,1,1,0,0,0,0,2,2,0,1,0,2,0,1,3,7,10
+SORATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,1,0,1,1,18,9,11,11,4,7,2,1,9,14,4,3,0,0,0,0,50,46,96
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,1,7,3,1,1,2,4,0,0,1,3,3,1,1,1,0,0,15,14,29
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA RIVERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,1,0,1,0,0,1,0,0,0,1,2,2,0,0,0,0,0,1,4,5,9
+WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2,0,0,1,3,4
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,2,0,0,1,2,2,3,1,3,1,1,4,6,2,1,0,3,0,2,11,23,34
+YOTALA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,2,1,3
+ACHACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ASCENCION DE GUARAYOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,1,1,0,1,0,0,0,0,2,2,0,0,0,0,0,0,3,4,7
+CAJUATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,2,0,0,1,0,0,0,0,0,2,0,2,0,1,1,0,3,6,9
+CALAMARCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,1,7,7,4,3,2,5,0,2,3,2,3,2,3,1,3,9,25,32,57
+CHARAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,3,1,0,2,0,0,0,0,2,1,0,0,1,1,0,0,6,5,11
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,3
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,2,0,5,4,10,3,6,3,1,2,3,3,1,2,0,0,1,4,29,21,50
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+COLQUIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CONCEPCION,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,2,3
+CORQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,1,2,4,7,1,0,0,0,0,4,5,0,0,0,3,1,4,14,18,32
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,1,1,0,0,2,0,0,0,0,1,0,0,2,0,0,0,5,2,7
+LA ASUNTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,1,0,0,1,4,7,6,8,8,8,5,4,16,19,5,9,8,10,5,7,58,73,131
+LAJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+MACHACAMARCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,3,1,4
+MINEROS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,1,2,3,0,1,0,0,1,0,0,0,0,0,0,0,3,5,8
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,2,1,1,0,1,0,0,3,0,1,0,0,1,0,5,5,10
+PORONGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,1,0,0,2,1,1,0,1,1,0,3,6,5,1,2,0,0,0,1,11,14,25
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,1,3,0,1,0,0,0,1,2,0,0,0,0,0,0,5,3,8
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,1,0,0,0,2,0,1,0,0,1,0,1,3,3,0,2,0,18,1,1,8,26,34
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+SAMAIPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAN IGNACIO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,3
+SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,2
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN RAFAEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+SAN RAMON BENI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,3,4,35,30,40,18,7,9,4,4,13,14,0,5,2,0,1,6,105,90,195
+SANTA ROSA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,1,1,0,0,1,0,1,3,0,2,0,1,0,1,3,8,11
+SHINAOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,3,0,21,22,19,13,8,5,1,3,10,10,3,1,2,2,0,2,67,58,125
+TACACOMA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,2,1,6,2,6,1,4,1,1,1,2,4,0,0,1,2,0,0,22,12,34
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,3
+TOLATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA RIVERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,0,0,0,0,0,2,2,4
+WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,3,0,3
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,1,0,7,3,3,2,1,1,4,5,3,14,0,2,1,4,2,3,22,34,56
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+YOTALA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-08-01,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,2,2,4
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+CAJUATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,1,0,0,4,1,4,2,1,3,1,3,6,4,2,2,3,5,6,3,27,24,51
+CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+CHARAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,1,1,3,4
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,2,2,9,8,5,10,14,18,0,1,4,4,2,0,1,2,0,4,37,49,86
+COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+CORQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,1,3
+CULPINA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,2,4,2,1,0,1,1,3,4,6,3,4,1,2,2,5,15,26,41
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,1,3
+GENERAL SAAVEDRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,3,3
+GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+IRUPANA (VILLA DE LANZA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,1,6,3,2,1,3,3,3,8,15,10,5,1,4,7,9,34,47,81
+LLICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,3,1,4
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,1,0,1,2,0,0,0,1,0,2,0,0,0,0,0,0,2,5,7
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,4
+PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PORONGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,4,0,4
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,1,1,1,1,0,1,0,0,0,1,2,1,1,0,0,0,0,5,5,10
+PUERTO SUAREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,4
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ROBORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,2,0,0,1,0,2,0,0,1,0,0,0,0,0,0,0,3,3,6
+SAMAIPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,1,2,3
+SAN IGNACIO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,10,1,11,12
+SAN PEDRO DE TIQUINA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN RAMON BENI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,1,2,2,2,21,14,23,21,12,16,5,3,10,20,9,6,10,8,6,4,99,96,195
+SANTA ROSA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,3,3
+SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SICA SICA (VILLA AROMA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,1,0,4,9,9,15,5,2,1,1,12,5,2,2,1,1,1,2,36,37,73
+TARABUCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,4,0,3,3,1,0,0,2,0,6,1,0,1,0,0,0,10,11,21
+TARVITA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+TIPUANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3
+TOLATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,1,1,4,5
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+VILLA SERRANO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,5,5
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,4,3,3,1,3,1,2,1,4,0,0,1,0,0,0,7,16,23
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-09-01,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,3,4
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+BOYUIBE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,1,0,3,1,1,1,1,1,1,5,1,1,1,1,3,6,12,16,28
+CARANAVI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CHARAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,3,1,4
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,3,3
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,1,0,3,1,1,0,1,0,4,1,35,7,7,4,2,4,2,5,56,22,78
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,3,1,4
+COMARAPA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CONCEPCION,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,1,4,4,0,1,1,2,1,9,11,1,1,0,1,3,1,21,20,41
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,1,0,0,0,0,1,0,0,0,0,0,2,2,0,1,0,0,0,4,3,7
+GENERAL SAAVEDRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,1,0,0,0,0,2,1,0,0,0,1,0,0,1,0,0,0,0,0,0,3,3,6
+LA ASUNTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,4,3,2,0,0,0,2,4,0,0,1,0,0,0,9,7,16
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,1,2,3
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,1,0,0,0,3,2,7,4,2,1,1,2,6,15,1,2,2,1,6,4,29,31,60
+LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+MINEROS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1,4,2,6
+MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,4,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,4,4,8
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+PAPEL PAMPA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PELECHUCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+PORONGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,3,1,4
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,1,0,0,0,0,0,0,2,0,0,0,0,2,0,1,1,0,0,0,0,4,3,7
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,2,1,0,0,0,0,1,1,1,2,1,1,1,0,0,1,6,6,12
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,3,4
+SAMAIPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN IGNACIO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,2
+SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,2,3
+SAN MIGUEL DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN RAFAEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,1,0,0,0,26,23,19,21,16,11,9,16,14,30,11,3,3,9,7,13,106,126,232
+SANTA ROSA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,3,2,13,15,17,20,5,4,2,2,6,8,1,1,1,1,1,1,49,54,103
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,3,0,1,0,2,1,1,0,1,3,1,0,2,1,2,0,13,5,18
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,2,17,0,0,0,0,8,1,0,0,9,1,0,0,0,0,19,19,38
+TOLATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+URIONDO (A. CONCEPCION),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+VILLA SERRANO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,1,0,0,0,2,0,2,1,0,1,1,2,3,6,1,1,0,2,0,0,10,13,23
+YAMPARAEZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,1,0,0,0,3,1,4
+YOTALA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-10-01,1,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,1,0,3,2,5
+ACHACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BUENA VISTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CALAMARCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,1,0,5,3,6,13,11,9,0,8,3,14,0,6,5,6,11,19,42,78,120
+CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,2,0,3,3,6
+CHARAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,4,0,4
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,1,0,3,2,5
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,2,0,16,15,24,31,20,14,0,4,6,7,1,4,1,2,0,3,70,80,150
+COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,1,2,3
+CONCEPCION,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,2
+COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,2,3
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,1,0,0,3,3,6,1,0,0,1,0,3,4,0,4,0,6,0,7,13,26,39
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,0,0,1,0,5,0,5
+GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+LA ASUNTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,1,1,4,5,2,2,1,1,3,3,7,11,1,3,3,1,5,4,27,31,58
+LURIBAY,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,2,1,3
+MAIRANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,3,3,2,2,1,1,0,0,1,0,0,0,1,0,0,0,8,6,14
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,2,4
+PORONGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,1,2,3
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+POSTRER VALLE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,2,0,0,0,0,0,0,0,2,1,4,2,0,0,0,0,8,3,11
+PUERTO SUAREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,4,2,6
+QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,5,5
+RURRENABAQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,2,0,0,0,0,2,3,5
+SAMAIPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+SAN IGNACIO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+SAN JOSE DE CHIQUITOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,1,0,0,0,2,0,2,0,1,0,2,0,1,0,0,0,0,0,0,0,9,9
+SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO DE TIQUINA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN RAFAEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,1,2,3
+SAN RAMON BENI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,2,1,2,24,17,24,26,14,13,9,9,13,23,7,7,1,3,5,3,98,105,203
+SANTA ROSA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,1,0,0,3,1,1,0,0,1,0,1,0,1,0,0,0,0,1,5,5,10
+SORACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,3,1,4
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,3,2,24,8,17,7,5,3,3,3,9,12,2,4,1,3,0,1,64,43,107
+TACACOMA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,2,0,6,3,6,2,1,1,1,1,2,1,1,2,0,1,1,0,20,11,31
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TOLATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+TRIGAL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+VILLA SERRANO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,1,0,0,2,3,5
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,2,0,1,3,3,1,0,1,2,1,1,7,0,1,0,1,0,0,9,15,24
+YOTALA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-11-01,0,0,0,0,0,0,0,3,1,0,0,0,0,2,0,0,0,0,0,1,1,6,7
+ALALAY,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ANCORAIMES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BETANZOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+BUENA VISTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,1,0,1,3,3,6
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,1,0,2,1,0,2,0,2,3,2,1,12,1,3,1,2,4,7,13,31,44
+CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,3,0,3
+CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CHARAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,2,3
+CHUA COCANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2,2
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,1,1,0,2,2,1,5,2,0,0,4,4,5,2,1,2,0,1,0,15,18,33
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,1,0,0,1,0,1,2,0,0,0,1,0,2,1,1,1,0,0,0,4,7,11
+COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COMARAPA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,2,3
+CONCEPCION,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,1,3
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,4,2,5,1,1,2,2,1,2,8,1,9,2,5,0,6,17,34,51
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+FERNANDEZ ALONSO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+GENERAL SAAVEDRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,1,3,0,0,0,0,0,1,0,0,0,0,1,0,2,4,6
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+LA ASUNTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,1,1,2,0,1,0,1,1,1,8,8,1,1,0,4,1,7,12,26,38
+LAJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+MINEROS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,1,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,2,3,5
+OMEREQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,2
+PORONGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+POSTRER VALLE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+PUERTO SUAREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,2,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,5,0,5
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,2
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,3
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,1,0,3,2,8,3,0,3,2,0,2,1,16,9,25
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+SAMAIPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,1,2,1,0,0,0,1,0,0,0,1,0,1,0,5,2,7
+SAN JOSE DE CHIQUITOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SAN RAFAEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,1,4,1,18,16,25,17,23,15,20,35,42,55,18,30,10,9,6,2,166,181,347
+SANTA ROSA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,1,0,16,14,14,16,5,5,2,6,14,28,2,4,3,3,1,1,58,77,135
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,4,0,8,10,7,3,3,0,0,2,3,3,1,1,1,2,0,0,27,21,48
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TOLATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA SERRANO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,1,0,0,0,1,1,2,1,0,1,2,5,4,0,0,1,0,1,10,10,20
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2
+YOTALA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2016-12-01,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3

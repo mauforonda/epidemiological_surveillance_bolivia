@@ -1,0 +1,42 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,TOTAL-M,TOTAL-F,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2017-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+EL ALTO,sospecha diagnostica,sarampion / rubeola,2017-01-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+POTOSI,sospecha diagnostica,sarampion / rubeola,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+TARIJA,sospecha diagnostica,sarampion / rubeola,2017-01-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VILLAZON,sospecha diagnostica,sarampion / rubeola,2017-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+"COLCHA ""K""",sospecha diagnostica,sarampion / rubeola,2017-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+MACHARETI,sospecha diagnostica,sarampion / rubeola,2017-03-01,0,0,0,0,0,0,0,2,0,0,0,1,2,4,0,0,0,0,0,0,2,7,9
+ORURO,sospecha diagnostica,sarampion / rubeola,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PADCAYA,sospecha diagnostica,sarampion / rubeola,2017-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+VILLAZON,sospecha diagnostica,sarampion / rubeola,2017-03-01,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2017-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LA PAZ,sospecha diagnostica,sarampion / rubeola,2017-04-01,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TARIJA,sospecha diagnostica,sarampion / rubeola,2017-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TRINIDAD,sospecha diagnostica,sarampion / rubeola,2017-04-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+POTOSI,sospecha diagnostica,sarampion / rubeola,2017-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+QUILLACOLLO,sospecha diagnostica,sarampion / rubeola,2017-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN JULIAN,sospecha diagnostica,sarampion / rubeola,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ORURO,sospecha diagnostica,sarampion / rubeola,2017-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VILLAZON,sospecha diagnostica,sarampion / rubeola,2017-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN MIGUEL DE VELASCO,sospecha diagnostica,sarampion / rubeola,2017-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TARIJA,sospecha diagnostica,sarampion / rubeola,2017-07-01,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+TRINIDAD,sospecha diagnostica,sarampion / rubeola,2017-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL ALTO,sospecha diagnostica,sarampion / rubeola,2017-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+POTOSI,sospecha diagnostica,sarampion / rubeola,2017-08-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN MIGUEL DE VELASCO,sospecha diagnostica,sarampion / rubeola,2017-08-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+TARIJA,sospecha diagnostica,sarampion / rubeola,2017-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+URIONDO (A. CONCEPCION),sospecha diagnostica,sarampion / rubeola,2017-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2017-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+VILLA MONTES,sospecha diagnostica,sarampion / rubeola,2017-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL ALTO,sospecha diagnostica,sarampion / rubeola,2017-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,sospecha diagnostica,sarampion / rubeola,2017-10-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TARIJA,sospecha diagnostica,sarampion / rubeola,2017-10-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+EL ALTO,sospecha diagnostica,sarampion / rubeola,2017-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+URIONDO (A. CONCEPCION),sospecha diagnostica,sarampion / rubeola,2017-11-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2017-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ORURO,sospecha diagnostica,sarampion / rubeola,2017-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1

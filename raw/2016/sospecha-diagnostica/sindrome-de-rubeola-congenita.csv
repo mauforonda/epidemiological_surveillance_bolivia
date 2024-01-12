@@ -1,0 +1,23 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,TOTAL-M,TOTAL-F,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sindrome de rubeola congenita,2016-01-01,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+TARIJA,sospecha diagnostica,sindrome de rubeola congenita,2016-01-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sindrome de rubeola congenita,2016-02-01,14,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,9,23
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sindrome de rubeola congenita,2016-03-01,32,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,20,52
+EL ALTO,sospecha diagnostica,sindrome de rubeola congenita,2016-04-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sindrome de rubeola congenita,2016-04-01,14,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,10,24
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sindrome de rubeola congenita,2016-05-01,14,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,11,25
+EL ALTO,sospecha diagnostica,sindrome de rubeola congenita,2016-06-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sindrome de rubeola congenita,2016-06-01,13,16,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,21,38
+EL ALTO,sospecha diagnostica,sindrome de rubeola congenita,2016-07-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sindrome de rubeola congenita,2016-07-01,14,13,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,14,31
+SUCRE,sospecha diagnostica,sindrome de rubeola congenita,2016-07-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+EL ALTO,sospecha diagnostica,sindrome de rubeola congenita,2016-08-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sindrome de rubeola congenita,2016-08-01,14,10,6,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,24,44
+SUCRE,sospecha diagnostica,sindrome de rubeola congenita,2016-08-01,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+POTOSI,sospecha diagnostica,sindrome de rubeola congenita,2016-09-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sindrome de rubeola congenita,2016-09-01,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,7
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sindrome de rubeola congenita,2016-10-01,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,8
+SUCRE,sospecha diagnostica,sindrome de rubeola congenita,2016-11-01,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+SUCRE,sospecha diagnostica,sindrome de rubeola congenita,2016-12-01,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2

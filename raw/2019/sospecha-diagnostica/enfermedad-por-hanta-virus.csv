@@ -1,0 +1,85 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+CARANAVI,sospecha diagnostica,enfermedad por hanta virus,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,2
+COCHABAMBA,sospecha diagnostica,enfermedad por hanta virus,2019-01-01,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,4,0,4
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+TARIJA,sospecha diagnostica,enfermedad por hanta virus,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+YACUIBA,sospecha diagnostica,enfermedad por hanta virus,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+YAPACANI,sospecha diagnostica,enfermedad por hanta virus,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+CARANAVI,sospecha diagnostica,enfermedad por hanta virus,2019-02-01,0,0,0,0,0,0,0,0,0,0,4,0,6,0,0,0,0,0,0,0,10,0,10
+COCHABAMBA,sospecha diagnostica,enfermedad por hanta virus,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+LA ASUNTA,sospecha diagnostica,enfermedad por hanta virus,2019-02-01,0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,5,0,5
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+TARIJA,sospecha diagnostica,enfermedad por hanta virus,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,sospecha diagnostica,enfermedad por hanta virus,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA TUNARI,sospecha diagnostica,enfermedad por hanta virus,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+CARANAVI,sospecha diagnostica,enfermedad por hanta virus,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+CARAPARI,sospecha diagnostica,enfermedad por hanta virus,2019-03-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+COCHABAMBA,sospecha diagnostica,enfermedad por hanta virus,2019-03-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,0,0,2,0,6,0,6
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2,2,4
+SUCRE,sospecha diagnostica,enfermedad por hanta virus,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TARIJA,sospecha diagnostica,enfermedad por hanta virus,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA TUNARI,sospecha diagnostica,enfermedad por hanta virus,2019-03-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,0,3
+YACUIBA,sospecha diagnostica,enfermedad por hanta virus,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CARAPARI,sospecha diagnostica,enfermedad por hanta virus,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+COCHABAMBA,sospecha diagnostica,enfermedad por hanta virus,2019-04-01,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,2,1,3
+PADCAYA,sospecha diagnostica,enfermedad por hanta virus,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,41,4,0,0,0,1,0,0,41,5,46
+SUCRE,sospecha diagnostica,enfermedad por hanta virus,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,3,2,5
+TARIJA,sospecha diagnostica,enfermedad por hanta virus,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,enfermedad por hanta virus,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+VALLEGRANDE,sospecha diagnostica,enfermedad por hanta virus,2019-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,sospecha diagnostica,enfermedad por hanta virus,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA TUNARI,sospecha diagnostica,enfermedad por hanta virus,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+YACUIBA,sospecha diagnostica,enfermedad por hanta virus,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+BERMEJO,sospecha diagnostica,enfermedad por hanta virus,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,3,0,3
+CARAPARI,sospecha diagnostica,enfermedad por hanta virus,2019-05-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,2,0,0,0,3,1,4
+COCHABAMBA,sospecha diagnostica,enfermedad por hanta virus,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,3,0,3
+PADCAYA,sospecha diagnostica,enfermedad por hanta virus,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO VILLARROEL,sospecha diagnostica,enfermedad por hanta virus,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO,sospecha diagnostica,enfermedad por hanta virus,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,0,0,4,0,4
+TARIJA,sospecha diagnostica,enfermedad por hanta virus,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+TRINIDAD,sospecha diagnostica,enfermedad por hanta virus,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+VILLA MONTES,sospecha diagnostica,enfermedad por hanta virus,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+YACUIBA,sospecha diagnostica,enfermedad por hanta virus,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,3,1,4
+YAPACANI,sospecha diagnostica,enfermedad por hanta virus,2019-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CARANAVI,sospecha diagnostica,enfermedad por hanta virus,2019-06-01,0,0,0,0,0,1,0,0,1,1,0,0,0,2,0,0,1,0,1,0,3,4,7
+COCHABAMBA,sospecha diagnostica,enfermedad por hanta virus,2019-06-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,3,0,3
+PORTACHUELO,sospecha diagnostica,enfermedad por hanta virus,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+RURRENABAQUE,sospecha diagnostica,enfermedad por hanta virus,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAN PEDRO,sospecha diagnostica,enfermedad por hanta virus,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,4,0,4
+TARIJA,sospecha diagnostica,enfermedad por hanta virus,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+TRINIDAD,sospecha diagnostica,enfermedad por hanta virus,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA MONTES,sospecha diagnostica,enfermedad por hanta virus,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA TUNARI,sospecha diagnostica,enfermedad por hanta virus,2019-06-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+EL ALTO,sospecha diagnostica,enfermedad por hanta virus,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PORTACHUELO,sospecha diagnostica,enfermedad por hanta virus,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,2,0,2,0,7,1,8
+SHINAOTA,sospecha diagnostica,enfermedad por hanta virus,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+YACUIBA,sospecha diagnostica,enfermedad por hanta virus,2019-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+YAPACANI,sospecha diagnostica,enfermedad por hanta virus,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,2
+BERMEJO,sospecha diagnostica,enfermedad por hanta virus,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,2
+SAN PEDRO,sospecha diagnostica,enfermedad por hanta virus,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VALLEGRANDE,sospecha diagnostica,enfermedad por hanta virus,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+VILLA MONTES,sospecha diagnostica,enfermedad por hanta virus,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+YACUIBA,sospecha diagnostica,enfermedad por hanta virus,2019-08-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,3,0,3
+POTOSI,sospecha diagnostica,enfermedad por hanta virus,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,1,3,1,4
+VILLA MONTES,sospecha diagnostica,enfermedad por hanta virus,2019-09-01,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,1,0,0,0,0,2,3,5
+BERMEJO,sospecha diagnostica,enfermedad por hanta virus,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,2,1,3
+MONTERO,sospecha diagnostica,enfermedad por hanta virus,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN PEDRO,sospecha diagnostica,enfermedad por hanta virus,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,3,0,3
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2019-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+BERMEJO,sospecha diagnostica,enfermedad por hanta virus,2019-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+CARANAVI,sospecha diagnostica,enfermedad por hanta virus,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+PALOS BLANCOS,sospecha diagnostica,enfermedad por hanta virus,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,4,2,6
+SAN PEDRO DE TIQUINA,sospecha diagnostica,enfermedad por hanta virus,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,1,0,4,0,4
+TARIJA,sospecha diagnostica,enfermedad por hanta virus,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA TUNARI,sospecha diagnostica,enfermedad por hanta virus,2019-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+YACUIBA,sospecha diagnostica,enfermedad por hanta virus,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1

@@ -1,0 +1,892 @@
+municipality,group,variable,month,< de 1 año-H,< de 1 año-M,1 a 4 años-H,1 a 4 años-M,5 a 14 años-H,5 a 14 años-M,15 a 59 años-H,15 a 59 años-M,60 y más-H,60 y más-M,TOTAL-H,TOTAL-M,TOTAL
+AIQUILE,otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,5,3,3,0,8,3,11
+ALCALA,otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+AZURDUY,otras infecciones,malaria,2007-01-01,0,0,0,6,3,6,6,11,0,1,9,24,33
+BAURES,otras infecciones,malaria,2007-01-01,0,1,0,0,5,3,5,2,0,0,10,6,16
+BELLA FLOR,otras infecciones,malaria,2007-01-01,0,0,1,1,1,1,1,1,1,0,4,3,7
+BERMEJO,otras infecciones,malaria,2007-01-01,2,0,3,7,16,9,32,26,7,2,60,44,104
+BUENA VISTA,otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,2,2,0,0,2,2,4
+CABEZAS,otras infecciones,malaria,2007-01-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+CAMIRI,otras infecciones,malaria,2007-01-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+CARANAVI,otras infecciones,malaria,2007-01-01,0,0,0,0,2,3,22,24,2,0,26,27,53
+CARAPARI,otras infecciones,malaria,2007-01-01,0,1,1,0,5,1,8,6,0,1,14,9,23
+CHIMORE,otras infecciones,malaria,2007-01-01,1,0,0,0,1,0,4,0,0,0,6,0,6
+COBIJA,otras infecciones,malaria,2007-01-01,0,0,1,0,4,0,11,4,0,0,16,4,20
+COCHABAMBA,otras infecciones,malaria,2007-01-01,0,0,0,0,0,1,0,1,0,0,0,2,2
+COLOMI,otras infecciones,malaria,2007-01-01,0,0,0,0,1,0,5,0,0,1,6,1,7
+CUCHUMUELA (V. G. VILLARROEL),otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+CULPINA,otras infecciones,malaria,2007-01-01,0,0,0,0,2,2,2,4,0,0,4,6,10
+EL PUENTE(TJA),otras infecciones,malaria,2007-01-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+EL TORNO,otras infecciones,malaria,2007-01-01,0,0,2,2,3,3,8,5,4,1,17,11,28
+ENTRE RIOS,otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+ENTRE RIOS,otras infecciones,malaria,2007-01-01,0,0,4,0,0,0,2,1,0,0,6,1,7
+EUREKA (SANTOS MERCADO),otras infecciones,malaria,2007-01-01,0,0,0,1,2,2,2,2,0,0,4,5,9
+FILADELFIA,otras infecciones,malaria,2007-01-01,0,0,0,0,2,0,4,0,1,0,7,0,7
+GUANAY,otras infecciones,malaria,2007-01-01,3,2,4,5,20,17,36,33,7,5,70,62,132
+GUAYARAMERIN,otras infecciones,malaria,2007-01-01,44,30,242,219,588,539,987,737,194,93,2055,1618,3673
+HUACARETA,otras infecciones,malaria,2007-01-01,0,0,0,2,2,6,3,7,0,0,5,15,20
+INGAVI (HUMAITA),otras infecciones,malaria,2007-01-01,0,0,0,0,1,1,2,0,1,0,4,1,5
+IXIAMAS,otras infecciones,malaria,2007-01-01,0,1,0,1,0,0,3,2,0,0,3,4,7
+LA ASUNTA,otras infecciones,malaria,2007-01-01,0,0,0,0,3,0,16,10,2,0,21,10,31
+LA GUARDIA,otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+LA PAZ,otras infecciones,malaria,2007-01-01,0,0,4,3,1,1,32,29,3,1,40,34,74
+LAGUNILLAS,otras infecciones,malaria,2007-01-01,0,0,0,0,1,1,1,1,0,0,2,2,4
+MACHARETI,otras infecciones,malaria,2007-01-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+MAGDALENA,otras infecciones,malaria,2007-01-01,0,0,0,0,0,2,1,0,0,0,1,2,3
+MAIRANA,otras infecciones,malaria,2007-01-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+MAPIRI,otras infecciones,malaria,2007-01-01,1,1,2,2,12,12,25,27,6,2,46,44,90
+MIZQUE,otras infecciones,malaria,2007-01-01,0,1,1,1,5,3,3,7,0,0,9,12,21
+MOJOCOYA,otras infecciones,malaria,2007-01-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+MONTEAGUDO,otras infecciones,malaria,2007-01-01,3,1,9,10,53,38,66,59,7,20,138,128,266
+MOROCHATA,otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+NUEVO MANOA (NUEVA ESPERANZA),otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+OMEREQUE,otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,4,4,0,0,4,4,8
+PADCAYA,otras infecciones,malaria,2007-01-01,0,0,2,2,4,5,4,4,0,1,10,12,22
+PADILLA,otras infecciones,malaria,2007-01-01,0,0,0,2,1,0,9,1,1,0,11,3,14
+PALOS BLANCOS,otras infecciones,malaria,2007-01-01,1,0,1,2,12,12,23,12,2,0,39,26,65
+PAMPA GRANDE,otras infecciones,malaria,2007-01-01,1,0,0,0,1,0,3,0,1,0,6,0,6
+POCONA,otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+POROMA,otras infecciones,malaria,2007-01-01,0,0,0,2,3,4,7,5,0,0,10,11,21
+PORONGO,otras infecciones,malaria,2007-01-01,0,0,0,0,2,0,3,1,0,0,5,1,6
+PORVENIR,otras infecciones,malaria,2007-01-01,0,0,1,0,3,0,8,2,0,0,12,2,14
+PUERTO GONZALO MORENO,otras infecciones,malaria,2007-01-01,1,1,0,0,1,0,0,1,0,0,2,2,4
+PUERTO RICO,otras infecciones,malaria,2007-01-01,0,0,1,0,8,2,15,8,5,1,29,11,40
+PUERTO VILLARROEL,otras infecciones,malaria,2007-01-01,0,0,1,0,0,0,2,0,0,0,3,0,3
+PUNA,otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+RAVELO,otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+REYES,otras infecciones,malaria,2007-01-01,0,0,1,0,5,3,4,3,0,0,10,6,16
+RIBERALTA,otras infecciones,malaria,2007-01-01,58,54,309,278,727,642,1814,1199,161,58,3069,2231,5300
+RURRENABAQUE,otras infecciones,malaria,2007-01-01,0,0,0,0,1,0,2,0,0,0,3,0,3
+SACABA,otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+SAMAIPATA,otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAN BORJA,otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAN BUENA VENTURA,otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+SAN IGNACIO DE VELASCO,otras infecciones,malaria,2007-01-01,0,0,0,0,2,0,11,3,0,0,13,3,16
+SAN LORENZO(PND),otras infecciones,malaria,2007-01-01,0,0,0,0,3,0,2,0,0,0,5,0,5
+SAN LUCAS,otras infecciones,malaria,2007-01-01,0,0,1,0,0,0,1,0,0,0,2,0,2
+SAN PEDRO DE BUENA VISTA,otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,3,1,0,0,3,1,4
+SAN RAMON,otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+SANTA ANA,otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+SANTA CRUZ DE LA SIERRA,otras infecciones,malaria,2007-01-01,0,0,0,0,0,1,0,1,0,0,0,2,2
+SANTA ROSA,otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+SENA,otras infecciones,malaria,2007-01-01,3,2,13,12,6,3,47,27,4,3,73,47,120
+SOPACHUY,otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+TARIJA,otras infecciones,malaria,2007-01-01,0,0,0,0,2,0,5,2,1,0,8,2,10
+TARVITA,otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,0,2,0,0,0,2,2
+TEOPONTE,otras infecciones,malaria,2007-01-01,1,1,6,8,10,14,23,26,8,1,48,50,98
+TINGUIPAYA,otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+TIRAQUE (CBBA),otras infecciones,malaria,2007-01-01,0,0,0,0,4,2,12,6,0,0,16,8,24
+TOMINA,otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+TORO TORO,otras infecciones,malaria,2007-01-01,0,0,1,0,2,3,3,3,1,1,7,7,14
+TOTORA(CBBA),otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,3,1,0,0,3,1,4
+VACAS,otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+VALLEGRANDE,otras infecciones,malaria,2007-01-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+VILA VILA,otras infecciones,malaria,2007-01-01,0,0,0,0,1,0,2,0,0,0,3,0,3
+VILLA NUEVA (LOMA ALTA),otras infecciones,malaria,2007-01-01,1,0,1,0,0,0,0,0,0,0,2,0,2
+VILLA SERRANO,otras infecciones,malaria,2007-01-01,0,0,0,1,1,1,0,0,0,0,1,2,3
+VILLA TUNARI,otras infecciones,malaria,2007-01-01,0,0,1,5,45,33,156,107,28,7,230,152,382
+VILLA VACA GUZMAN (MUYUPAMPA),otras infecciones,malaria,2007-01-01,1,0,4,4,6,2,6,9,0,2,17,17,34
+YACUIBA,otras infecciones,malaria,2007-01-01,0,0,1,2,6,8,6,7,2,0,15,17,32
+AIQUILE,otras infecciones,malaria,2007-02-01,0,0,0,0,1,0,2,2,0,0,3,2,5
+ALCALA,otras infecciones,malaria,2007-02-01,0,0,0,0,0,0,0,2,0,0,0,2,2
+AZURDUY,otras infecciones,malaria,2007-02-01,0,2,0,0,2,2,3,9,2,1,7,14,21
+BAURES,otras infecciones,malaria,2007-02-01,0,0,0,3,3,1,3,1,0,1,6,6,12
+BELLA FLOR,otras infecciones,malaria,2007-02-01,1,0,0,0,0,0,3,2,0,0,4,2,6
+BERMEJO,otras infecciones,malaria,2007-02-01,0,0,2,3,4,3,12,0,0,0,18,6,24
+BUENA VISTA,otras infecciones,malaria,2007-02-01,0,0,0,0,1,0,0,2,0,0,1,2,3
+CABEZAS,otras infecciones,malaria,2007-02-01,0,0,0,0,1,0,6,2,0,0,7,2,9
+CAMIRI,otras infecciones,malaria,2007-02-01,0,0,1,0,0,0,2,2,0,0,3,2,5
+CARANAVI,otras infecciones,malaria,2007-02-01,0,0,1,3,6,7,40,28,2,0,49,38,87
+CARAPARI,otras infecciones,malaria,2007-02-01,0,0,2,2,10,5,10,8,1,1,23,16,39
+CHIMORE,otras infecciones,malaria,2007-02-01,0,0,4,0,3,0,12,0,2,0,21,0,21
+COBIJA,otras infecciones,malaria,2007-02-01,0,0,0,0,1,0,14,2,0,0,15,2,17
+CULPINA,otras infecciones,malaria,2007-02-01,0,0,0,0,0,2,2,5,0,1,2,8,10
+EL TORNO,otras infecciones,malaria,2007-02-01,0,0,1,0,1,1,0,0,0,0,2,1,3
+ENTRE RIOS,otras infecciones,malaria,2007-02-01,0,0,0,1,3,0,0,2,0,0,3,3,6
+ENTRE RIOS,otras infecciones,malaria,2007-02-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+EUREKA (SANTOS MERCADO),otras infecciones,malaria,2007-02-01,0,0,0,0,0,0,2,2,0,0,2,2,4
+FILADELFIA,otras infecciones,malaria,2007-02-01,0,0,0,1,0,0,5,0,0,0,5,1,6
+GUANAY,otras infecciones,malaria,2007-02-01,1,1,7,6,13,9,34,23,8,1,63,40,103
+GUAYARAMERIN,otras infecciones,malaria,2007-02-01,31,29,139,120,328,287,645,537,61,45,1204,1018,2222
+HUACARETA,otras infecciones,malaria,2007-02-01,1,0,3,2,5,3,5,4,0,0,14,9,23
+INGAVI (HUMAITA),otras infecciones,malaria,2007-02-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+IXIAMAS,otras infecciones,malaria,2007-02-01,0,0,0,1,0,6,5,5,0,0,5,12,17
+LA ASUNTA,otras infecciones,malaria,2007-02-01,0,0,1,0,5,2,43,16,0,0,49,18,67
+LA PAZ,otras infecciones,malaria,2007-02-01,0,0,0,0,1,1,16,14,1,1,18,16,34
+LAGUNILLAS,otras infecciones,malaria,2007-02-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+MAGDALENA,otras infecciones,malaria,2007-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+MAIRANA,otras infecciones,malaria,2007-02-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+MAPIRI,otras infecciones,malaria,2007-02-01,0,1,1,3,17,11,37,24,10,4,65,43,108
+MOJOCOYA,otras infecciones,malaria,2007-02-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+MONTEAGUDO,otras infecciones,malaria,2007-02-01,3,2,16,7,49,38,90,80,26,19,184,146,330
+NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,malaria,2007-02-01,1,0,0,1,2,0,7,1,0,0,10,2,12
+PADCAYA,otras infecciones,malaria,2007-02-01,0,0,0,0,1,0,0,3,0,0,1,3,4
+PADILLA,otras infecciones,malaria,2007-02-01,0,0,0,0,1,3,8,3,0,0,9,6,15
+PALOS BLANCOS,otras infecciones,malaria,2007-02-01,0,0,2,1,8,2,30,13,2,0,42,16,58
+PAMPA GRANDE,otras infecciones,malaria,2007-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+POROMA,otras infecciones,malaria,2007-02-01,0,0,2,0,0,0,1,1,1,1,4,2,6
+PORONGO,otras infecciones,malaria,2007-02-01,0,1,1,0,1,1,0,0,0,0,2,2,4
+PORVENIR,otras infecciones,malaria,2007-02-01,0,0,0,0,1,1,1,1,0,0,2,2,4
+PRESTO,otras infecciones,malaria,2007-02-01,0,0,0,0,0,0,1,3,0,0,1,3,4
+PUERTO GONZALO MORENO,otras infecciones,malaria,2007-02-01,0,0,0,1,1,1,3,2,0,0,4,4,8
+PUERTO RICO,otras infecciones,malaria,2007-02-01,0,0,0,0,2,1,8,4,0,0,10,5,15
+PUERTO VILLARROEL,otras infecciones,malaria,2007-02-01,0,0,0,0,3,0,8,2,0,0,11,2,13
+REYES,otras infecciones,malaria,2007-02-01,0,0,1,2,2,1,2,2,0,1,5,6,11
+RIBERALTA,otras infecciones,malaria,2007-02-01,35,26,163,179,454,423,1280,849,97,53,2029,1530,3559
+RURRENABAQUE,otras infecciones,malaria,2007-02-01,0,0,0,0,0,0,0,2,0,0,0,2,2
+SAMAIPATA,otras infecciones,malaria,2007-02-01,0,0,0,0,3,0,2,0,0,0,5,0,5
+SAN BORJA,otras infecciones,malaria,2007-02-01,0,0,0,0,0,1,5,2,0,0,5,3,8
+SAN BUENA VENTURA,otras infecciones,malaria,2007-02-01,0,0,0,0,0,0,4,2,0,0,4,2,6
+SAN IGNACIO DE VELASCO,otras infecciones,malaria,2007-02-01,0,0,2,0,1,1,3,0,0,0,6,1,7
+SAN JOAQUIN,otras infecciones,malaria,2007-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAN JULIAN,otras infecciones,malaria,2007-02-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN LORENZO(PND),otras infecciones,malaria,2007-02-01,1,0,0,0,1,1,1,3,0,0,3,4,7
+SAN LUCAS,otras infecciones,malaria,2007-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAN PEDRO DE BUENA VISTA,otras infecciones,malaria,2007-02-01,0,0,0,0,0,1,0,1,0,0,0,2,2
+SAN PEDRO(PND),otras infecciones,malaria,2007-02-01,0,0,0,1,0,0,0,0,1,0,1,1,2
+SANTA ANA,otras infecciones,malaria,2007-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,otras infecciones,malaria,2007-02-01,0,0,1,1,1,0,3,1,0,0,5,2,7
+SENA,otras infecciones,malaria,2007-02-01,0,0,2,0,10,2,14,5,1,0,27,7,34
+SUCRE,otras infecciones,malaria,2007-02-01,0,0,0,0,0,0,1,0,1,1,2,1,3
+TARIJA,otras infecciones,malaria,2007-02-01,0,0,0,0,1,0,1,1,0,0,2,1,3
+TARVITA,otras infecciones,malaria,2007-02-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+TEOPONTE,otras infecciones,malaria,2007-02-01,3,1,1,2,4,11,12,3,4,3,24,20,44
+TIRAQUE (CBBA),otras infecciones,malaria,2007-02-01,0,0,0,0,0,2,13,9,0,0,13,11,24
+TOMINA,otras infecciones,malaria,2007-02-01,0,0,0,0,0,0,1,0,0,1,1,1,2
+TORO TORO,otras infecciones,malaria,2007-02-01,0,0,0,1,1,0,4,2,0,1,5,4,9
+VALLEGRANDE,otras infecciones,malaria,2007-02-01,0,0,0,0,0,2,0,0,0,0,0,2,2
+VILA VILA,otras infecciones,malaria,2007-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+VILLA TUNARI,otras infecciones,malaria,2007-02-01,0,2,6,12,19,92,170,92,40,22,235,220,455
+VILLA VACA GUZMAN (MUYUPAMPA),otras infecciones,malaria,2007-02-01,0,2,2,0,5,4,12,9,1,2,20,17,37
+YACUIBA,otras infecciones,malaria,2007-02-01,0,0,3,2,1,5,9,5,0,0,13,12,25
+AIQUILE,otras infecciones,malaria,2007-03-01,0,0,0,0,0,0,4,0,1,2,5,2,7
+ALCALA,otras infecciones,malaria,2007-03-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+AZURDUY,otras infecciones,malaria,2007-03-01,0,0,0,3,0,3,1,9,0,1,1,16,17
+BAURES,otras infecciones,malaria,2007-03-01,0,0,0,0,1,5,3,1,0,0,4,6,10
+BELLA FLOR,otras infecciones,malaria,2007-03-01,0,0,1,1,1,2,4,2,3,0,9,5,14
+BERMEJO,otras infecciones,malaria,2007-03-01,1,0,0,1,8,2,1,6,1,0,11,9,20
+BUENA VISTA,otras infecciones,malaria,2007-03-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+CABEZAS,otras infecciones,malaria,2007-03-01,0,0,1,0,4,2,4,0,0,0,9,2,11
+CARANAVI,otras infecciones,malaria,2007-03-01,1,1,0,0,3,4,35,28,0,0,39,33,72
+CARAPARI,otras infecciones,malaria,2007-03-01,0,0,2,0,6,3,12,10,1,2,21,15,36
+CHIMORE,otras infecciones,malaria,2007-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+COBIJA,otras infecciones,malaria,2007-03-01,0,0,0,0,1,0,19,5,0,0,20,5,25
+COLOMI,otras infecciones,malaria,2007-03-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+CULPINA,otras infecciones,malaria,2007-03-01,0,0,1,0,0,0,5,3,0,0,6,3,9
+EL ALTO,otras infecciones,malaria,2007-03-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+EL PUENTE(TJA),otras infecciones,malaria,2007-03-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+EL TORNO,otras infecciones,malaria,2007-03-01,0,0,1,0,1,0,0,0,0,0,2,0,2
+ENTRE RIOS,otras infecciones,malaria,2007-03-01,0,0,1,3,2,2,12,6,0,0,15,11,26
+ENTRE RIOS,otras infecciones,malaria,2007-03-01,0,0,0,0,1,0,8,0,0,0,9,0,9
+EUREKA (SANTOS MERCADO),otras infecciones,malaria,2007-03-01,0,0,1,1,2,3,9,6,0,0,12,10,22
+EXALTACION,otras infecciones,malaria,2007-03-01,0,0,0,0,0,1,1,2,0,0,1,3,4
+FILADELFIA,otras infecciones,malaria,2007-03-01,0,0,0,0,1,0,5,1,0,0,6,1,7
+GUANAY,otras infecciones,malaria,2007-03-01,0,1,4,5,6,15,21,29,4,0,35,50,85
+GUAYARAMERIN,otras infecciones,malaria,2007-03-01,24,29,153,146,398,330,651,622,70,49,1296,1176,2472
+HUACARETA,otras infecciones,malaria,2007-03-01,0,0,2,4,13,7,9,6,1,0,25,17,42
+INGAVI (HUMAITA),otras infecciones,malaria,2007-03-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+IXIAMAS,otras infecciones,malaria,2007-03-01,0,0,1,1,2,1,6,4,1,0,10,6,16
+LA ASUNTA,otras infecciones,malaria,2007-03-01,0,0,0,0,5,1,46,31,2,0,53,32,85
+LA PAZ,otras infecciones,malaria,2007-03-01,0,0,0,1,0,2,17,16,1,1,18,20,38
+LAGUNILLAS,otras infecciones,malaria,2007-03-01,0,0,0,0,1,0,3,0,0,0,4,0,4
+MACHARETI,otras infecciones,malaria,2007-03-01,0,0,0,1,1,0,1,0,0,0,2,1,3
+MAIRANA,otras infecciones,malaria,2007-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+MAPIRI,otras infecciones,malaria,2007-03-01,0,0,4,0,15,8,33,31,5,2,57,41,98
+MINEROS,otras infecciones,malaria,2007-03-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+MIZQUE,otras infecciones,malaria,2007-03-01,0,0,0,0,2,1,3,0,0,0,5,1,6
+MOJOCOYA,otras infecciones,malaria,2007-03-01,0,0,0,0,0,0,0,2,1,1,1,3,4
+MONTEAGUDO,otras infecciones,malaria,2007-03-01,4,4,11,8,19,18,81,61,7,10,122,101,223
+MOROCHATA,otras infecciones,malaria,2007-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,malaria,2007-03-01,0,0,0,0,1,0,5,0,0,0,6,0,6
+NUEVO MANOA (NUEVA ESPERANZA),otras infecciones,malaria,2007-03-01,0,0,0,0,1,0,2,3,0,0,3,3,6
+OMEREQUE,otras infecciones,malaria,2007-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+PADCAYA,otras infecciones,malaria,2007-03-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+PADILLA,otras infecciones,malaria,2007-03-01,0,0,0,0,0,0,1,1,2,0,3,1,4
+PALOS BLANCOS,otras infecciones,malaria,2007-03-01,1,0,1,2,5,2,20,14,1,1,28,19,47
+PAMPA GRANDE,otras infecciones,malaria,2007-03-01,0,0,0,0,1,0,2,1,0,0,3,1,4
+POCONA,otras infecciones,malaria,2007-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+POROMA,otras infecciones,malaria,2007-03-01,0,0,1,0,5,5,5,4,3,0,14,9,23
+PORONGO,otras infecciones,malaria,2007-03-01,0,0,0,0,2,2,4,5,1,0,7,7,14
+PORVENIR,otras infecciones,malaria,2007-03-01,1,0,1,1,3,1,5,0,2,0,12,2,14
+PRESTO,otras infecciones,malaria,2007-03-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+PUERTO GONZALO MORENO,otras infecciones,malaria,2007-03-01,0,0,0,0,1,3,1,2,0,1,2,6,8
+PUERTO RICO,otras infecciones,malaria,2007-03-01,0,0,2,0,3,1,2,0,0,1,7,2,9
+PUERTO VILLARROEL,otras infecciones,malaria,2007-03-01,0,0,0,0,0,0,12,0,0,0,12,0,12
+REYES,otras infecciones,malaria,2007-03-01,0,0,1,0,1,0,11,4,0,0,13,4,17
+RIBERALTA,otras infecciones,malaria,2007-03-01,73,58,248,242,593,560,1456,1135,110,49,2480,2044,4524
+RURRENABAQUE,otras infecciones,malaria,2007-03-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+SAMAIPATA,otras infecciones,malaria,2007-03-01,0,0,0,0,1,0,2,0,0,0,3,0,3
+SAN BORJA,otras infecciones,malaria,2007-03-01,0,0,0,0,0,0,3,2,0,0,3,2,5
+SAN IGNACIO DE VELASCO,otras infecciones,malaria,2007-03-01,0,0,1,0,1,1,1,1,1,0,4,2,6
+SAN LORENZO(PND),otras infecciones,malaria,2007-03-01,0,1,0,1,2,1,6,4,1,0,9,7,16
+SAN LUCAS,otras infecciones,malaria,2007-03-01,0,1,0,0,1,3,0,2,0,0,1,6,7
+SAN PEDRO DE BUENA VISTA,otras infecciones,malaria,2007-03-01,0,0,1,0,0,0,1,0,2,0,4,0,4
+SANTA ANA,otras infecciones,malaria,2007-03-01,0,0,0,0,0,0,1,2,0,0,1,2,3
+SANTA CRUZ DE LA SIERRA,otras infecciones,malaria,2007-03-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+SANTA ROSA,otras infecciones,malaria,2007-03-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+SENA,otras infecciones,malaria,2007-03-01,0,0,2,3,13,1,25,1,0,0,40,5,45
+SIPE SIPE,otras infecciones,malaria,2007-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+SOPACHUY,otras infecciones,malaria,2007-03-01,0,0,0,0,0,0,0,4,0,1,0,5,5
+SUCRE,otras infecciones,malaria,2007-03-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+TARIJA,otras infecciones,malaria,2007-03-01,0,0,0,0,0,0,2,1,0,0,2,1,3
+TARVITA,otras infecciones,malaria,2007-03-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+TEOPONTE,otras infecciones,malaria,2007-03-01,0,0,1,0,10,2,17,8,1,0,29,10,39
+TIRAQUE (CBBA),otras infecciones,malaria,2007-03-01,0,0,5,0,2,0,0,0,0,0,7,0,7
+TOMINA,otras infecciones,malaria,2007-03-01,1,0,0,1,1,0,1,0,0,0,3,1,4
+TORO TORO,otras infecciones,malaria,2007-03-01,0,0,3,0,0,3,7,8,1,2,11,13,24
+TOTORA(CBBA),otras infecciones,malaria,2007-03-01,0,0,1,1,2,1,4,3,1,2,8,7,15
+VALLEGRANDE,otras infecciones,malaria,2007-03-01,0,0,0,0,1,1,1,0,0,0,2,1,3
+VILA VILA,otras infecciones,malaria,2007-03-01,0,0,1,0,2,1,1,0,0,0,4,1,5
+VILLA NUEVA (LOMA ALTA),otras infecciones,malaria,2007-03-01,0,0,0,0,2,0,1,1,0,0,3,1,4
+VILLA SERRANO,otras infecciones,malaria,2007-03-01,0,0,0,0,0,1,2,1,0,0,2,2,4
+VILLA TUNARI,otras infecciones,malaria,2007-03-01,0,0,0,0,2,0,20,8,0,0,22,8,30
+VILLA VACA GUZMAN (MUYUPAMPA),otras infecciones,malaria,2007-03-01,0,0,8,10,51,30,68,92,30,33,157,165,322
+YACUIBA,otras infecciones,malaria,2007-03-01,0,0,2,2,5,3,8,8,0,1,15,14,29
+AIQUILE,otras infecciones,malaria,2007-04-01,0,0,4,2,4,6,12,6,4,2,24,16,40
+AZURDUY,otras infecciones,malaria,2007-04-01,0,0,1,2,7,2,14,7,6,1,28,12,40
+BAURES,otras infecciones,malaria,2007-04-01,0,0,0,0,2,3,7,4,0,0,9,7,16
+BELLA FLOR,otras infecciones,malaria,2007-04-01,0,0,1,0,1,0,4,0,0,0,6,0,6
+BERMEJO,otras infecciones,malaria,2007-04-01,0,0,0,0,0,2,1,0,0,0,1,2,3
+BOLPEBRA,otras infecciones,malaria,2007-04-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+BUENA VISTA,otras infecciones,malaria,2007-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+CABEZAS,otras infecciones,malaria,2007-04-01,0,0,0,2,3,3,4,0,0,0,7,5,12
+CAMIRI,otras infecciones,malaria,2007-04-01,1,0,0,0,0,0,2,0,0,0,3,0,3
+CARANAVI,otras infecciones,malaria,2007-04-01,1,1,1,0,1,2,15,7,1,1,19,11,30
+CARAPARI,otras infecciones,malaria,2007-04-01,0,1,1,1,1,2,12,7,0,1,14,12,26
+COBIJA,otras infecciones,malaria,2007-04-01,0,0,2,1,1,2,16,6,0,0,19,9,28
+COLOMI,otras infecciones,malaria,2007-04-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+CULPINA,otras infecciones,malaria,2007-04-01,0,2,2,2,0,0,9,2,0,0,11,6,17
+EL TORNO,otras infecciones,malaria,2007-04-01,1,0,1,0,1,1,1,1,0,0,4,2,6
+ENTRE RIOS,otras infecciones,malaria,2007-04-01,0,0,0,0,1,0,2,1,0,0,3,1,4
+EUREKA (SANTOS MERCADO),otras infecciones,malaria,2007-04-01,0,0,0,0,3,3,1,1,0,0,4,4,8
+FILADELFIA,otras infecciones,malaria,2007-04-01,0,0,2,0,1,0,2,0,0,0,5,0,5
+GUANAY,otras infecciones,malaria,2007-04-01,1,0,0,2,7,6,15,18,1,4,24,30,54
+GUAYARAMERIN,otras infecciones,malaria,2007-04-01,28,21,129,105,288,308,566,557,45,34,1056,1025,2081
+HUACARETA,otras infecciones,malaria,2007-04-01,0,0,2,0,0,3,2,1,1,0,5,4,9
+INGAVI (HUMAITA),otras infecciones,malaria,2007-04-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+IXIAMAS,otras infecciones,malaria,2007-04-01,0,0,0,1,1,1,4,3,0,0,5,5,10
+LA ASUNTA,otras infecciones,malaria,2007-04-01,0,0,0,1,2,0,31,8,0,0,33,9,42
+LA PAZ,otras infecciones,malaria,2007-04-01,0,0,1,0,9,9,322,194,5,4,337,207,544
+LORETO,otras infecciones,malaria,2007-04-01,0,1,0,0,0,0,0,0,0,0,0,1,1
+MACHARETI,otras infecciones,malaria,2007-04-01,0,0,0,1,1,0,4,1,0,0,5,2,7
+MAGDALENA,otras infecciones,malaria,2007-04-01,0,0,0,0,0,2,1,0,0,0,1,2,3
+MAPIRI,otras infecciones,malaria,2007-04-01,2,0,1,0,8,7,25,16,4,2,40,25,65
+MIZQUE,otras infecciones,malaria,2007-04-01,0,0,0,0,1,1,4,1,0,0,5,2,7
+MOJOCOYA,otras infecciones,malaria,2007-04-01,0,0,0,0,1,1,0,0,0,0,1,1,2
+MONTEAGUDO,otras infecciones,malaria,2007-04-01,2,0,1,7,14,10,37,26,11,7,65,50,115
+MONTERO,otras infecciones,malaria,2007-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,malaria,2007-04-01,0,0,0,1,5,1,7,1,0,0,12,3,15
+NUEVO MANOA (NUEVA ESPERANZA),otras infecciones,malaria,2007-04-01,0,0,0,0,0,0,2,2,0,0,2,2,4
+OMEREQUE,otras infecciones,malaria,2007-04-01,0,0,0,0,2,1,4,1,3,2,9,4,13
+PADCAYA,otras infecciones,malaria,2007-04-01,0,0,0,1,0,0,1,0,0,0,1,1,2
+PADILLA,otras infecciones,malaria,2007-04-01,0,0,0,0,1,0,5,0,0,0,6,0,6
+PALOS BLANCOS,otras infecciones,malaria,2007-04-01,0,0,2,0,6,9,9,1,2,1,19,11,30
+PAMPA GRANDE,otras infecciones,malaria,2007-04-01,0,0,0,0,0,0,1,2,2,0,3,2,5
+POROMA,otras infecciones,malaria,2007-04-01,0,0,0,1,0,0,2,0,0,1,2,2,4
+PORONGO,otras infecciones,malaria,2007-04-01,0,0,0,0,0,1,4,2,0,0,4,3,7
+PORVENIR,otras infecciones,malaria,2007-04-01,0,0,0,0,2,1,4,0,0,0,6,1,7
+PRESTO,otras infecciones,malaria,2007-04-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+PUERTO GONZALO MORENO,otras infecciones,malaria,2007-04-01,0,0,0,0,1,1,3,3,1,0,5,4,9
+PUERTO RICO,otras infecciones,malaria,2007-04-01,0,0,0,0,2,1,5,1,0,0,7,2,9
+PUNA,otras infecciones,malaria,2007-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+REYES,otras infecciones,malaria,2007-04-01,0,1,0,0,2,0,4,4,0,0,6,5,11
+RIBERALTA,otras infecciones,malaria,2007-04-01,52,55,200,198,519,480,1339,1000,103,42,2213,1775,3988
+RURRENABAQUE,otras infecciones,malaria,2007-04-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+SACABA,otras infecciones,malaria,2007-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAMAIPATA,otras infecciones,malaria,2007-04-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+SAN BORJA,otras infecciones,malaria,2007-04-01,0,0,0,0,0,0,1,2,0,0,1,2,3
+SAN BUENA VENTURA,otras infecciones,malaria,2007-04-01,0,0,0,0,0,0,1,2,0,0,1,2,3
+SAN IGNACIO DE VELASCO,otras infecciones,malaria,2007-04-01,0,0,0,0,2,0,1,2,0,0,3,2,5
+SAN JULIAN,otras infecciones,malaria,2007-04-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN LORENZO(PND),otras infecciones,malaria,2007-04-01,0,1,3,2,2,0,5,0,0,0,10,3,13
+SAN LUCAS,otras infecciones,malaria,2007-04-01,1,0,0,0,2,2,5,3,0,0,8,5,13
+SAN MIGUEL DE VELASCO,otras infecciones,malaria,2007-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAN PEDRO DE BUENA VISTA,otras infecciones,malaria,2007-04-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+SANTA ANA,otras infecciones,malaria,2007-04-01,0,0,0,0,0,0,1,2,1,0,2,2,4
+SANTA CRUZ DE LA SIERRA,otras infecciones,malaria,2007-04-01,1,0,0,0,0,0,1,0,0,0,2,0,2
+SANTA ROSA,otras infecciones,malaria,2007-04-01,0,0,0,0,1,0,5,0,0,0,6,0,6
+SENA,otras infecciones,malaria,2007-04-01,0,0,4,2,12,3,29,9,0,0,45,14,59
+SOPACHUY,otras infecciones,malaria,2007-04-01,0,0,0,0,0,0,1,4,0,1,1,5,6
+SUCRE,otras infecciones,malaria,2007-04-01,0,0,0,0,1,2,1,0,0,0,2,2,4
+TARIJA,otras infecciones,malaria,2007-04-01,0,0,0,0,0,0,0,1,1,0,1,1,2
+TARVITA,otras infecciones,malaria,2007-04-01,0,0,0,0,0,0,2,1,0,0,2,1,3
+TEOPONTE,otras infecciones,malaria,2007-04-01,1,0,3,0,17,13,26,16,1,0,48,29,77
+TORO TORO,otras infecciones,malaria,2007-04-01,0,0,1,0,4,4,8,9,0,1,13,14,27
+VILLA NUEVA (LOMA ALTA),otras infecciones,malaria,2007-04-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+VILLA SERRANO,otras infecciones,malaria,2007-04-01,0,0,0,0,0,0,4,0,1,0,5,0,5
+VILLA TUNARI,otras infecciones,malaria,2007-04-01,0,0,0,0,1,0,2,2,0,0,3,2,5
+VILLA VACA GUZMAN (MUYUPAMPA),otras infecciones,malaria,2007-04-01,0,0,1,0,8,2,12,9,2,0,23,11,34
+YACUIBA,otras infecciones,malaria,2007-04-01,0,0,5,0,14,10,13,9,1,3,33,22,55
+ACACIO,otras infecciones,malaria,2007-05-01,1,0,1,1,0,0,2,0,0,0,4,1,5
+AIQUILE,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,4,1,1,0,5,1,6
+AZURDUY,otras infecciones,malaria,2007-05-01,0,0,0,1,5,4,8,9,1,0,14,14,28
+BAURES,otras infecciones,malaria,2007-05-01,0,0,1,0,1,0,3,6,1,3,6,9,15
+BELEN DE URMIRI,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+BELLA FLOR,otras infecciones,malaria,2007-05-01,0,0,0,3,1,0,2,1,0,0,3,4,7
+BERMEJO,otras infecciones,malaria,2007-05-01,1,0,1,0,2,2,6,3,1,0,11,5,16
+BUENA VISTA,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+CABEZAS,otras infecciones,malaria,2007-05-01,0,0,0,0,1,0,0,0,1,0,2,0,2
+CAMIRI,otras infecciones,malaria,2007-05-01,0,0,3,0,1,0,1,0,2,0,7,0,7
+CARANAVI,otras infecciones,malaria,2007-05-01,0,0,0,0,1,2,20,9,3,1,24,12,36
+CARAPARI,otras infecciones,malaria,2007-05-01,1,0,0,0,5,2,7,4,1,0,14,6,20
+CARMEN RIVERO TORREZ,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+COBIJA,otras infecciones,malaria,2007-05-01,0,0,0,0,0,1,11,11,0,0,11,12,23
+COCHABAMBA,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+CUATRO CAÑADAS,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+CULPINA,otras infecciones,malaria,2007-05-01,1,1,0,1,2,0,5,3,2,1,10,6,16
+EL TORNO,otras infecciones,malaria,2007-05-01,1,0,4,0,3,5,2,3,0,0,10,8,18
+ENTRE RIOS,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,1,1,1,0,2,1,3
+ENTRE RIOS,otras infecciones,malaria,2007-05-01,0,0,0,0,2,0,1,1,0,0,3,1,4
+EUREKA (SANTOS MERCADO),otras infecciones,malaria,2007-05-01,0,0,0,0,1,1,0,2,0,0,1,3,4
+FILADELFIA,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+GUANAY,otras infecciones,malaria,2007-05-01,0,0,0,1,5,5,18,13,2,2,25,21,46
+GUAYARAMERIN,otras infecciones,malaria,2007-05-01,15,6,57,49,170,187,311,332,30,19,583,593,1176
+HUACARETA,otras infecciones,malaria,2007-05-01,2,0,1,7,4,3,5,1,0,0,12,11,23
+INGAVI (HUMAITA),otras infecciones,malaria,2007-05-01,0,0,0,0,2,0,0,0,0,0,2,0,2
+IXIAMAS,otras infecciones,malaria,2007-05-01,0,1,2,1,1,1,1,3,0,0,4,6,10
+LA ASUNTA,otras infecciones,malaria,2007-05-01,0,0,0,0,1,1,37,23,0,0,38,24,62
+LA PAZ,otras infecciones,malaria,2007-05-01,0,0,2,0,5,6,43,13,2,1,52,20,72
+LAGUNILLAS,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+MACHARETI,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+MAGDALENA,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+MAPIRI,otras infecciones,malaria,2007-05-01,0,0,2,2,18,10,40,65,8,9,68,86,154
+MIZQUE,otras infecciones,malaria,2007-05-01,0,0,0,0,1,10,10,0,0,0,11,10,21
+MONTEAGUDO,otras infecciones,malaria,2007-05-01,0,2,4,2,5,3,17,11,2,6,28,24,52
+MOROCHATA,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,malaria,2007-05-01,0,0,1,0,4,3,5,6,0,0,10,9,19
+NUEVO MANOA (NUEVA ESPERANZA),otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,0,11,0,0,0,11,11
+OCURI,otras infecciones,malaria,2007-05-01,0,1,0,0,0,0,0,0,0,0,0,1,1
+PADCAYA,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,1,2,0,0,1,2,3
+PADILLA,otras infecciones,malaria,2007-05-01,0,0,1,1,2,0,4,2,0,0,7,3,10
+PALOS BLANCOS,otras infecciones,malaria,2007-05-01,0,0,0,1,0,0,7,3,0,0,7,4,11
+PAMPA GRANDE,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,3,1,0,1,3,2,5
+POROMA,otras infecciones,malaria,2007-05-01,0,0,0,2,15,8,10,7,0,1,25,18,43
+PORONGO,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+PORVENIR,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+PRESTO,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,2,1,0,0,2,1,3
+PUERTO GONZALO MORENO,otras infecciones,malaria,2007-05-01,0,0,0,2,1,3,5,7,0,0,6,12,18
+PUERTO RICO,otras infecciones,malaria,2007-05-01,0,0,0,0,2,0,5,2,0,0,7,2,9
+PUNA,otras infecciones,malaria,2007-05-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+REYES,otras infecciones,malaria,2007-05-01,0,0,0,0,0,3,11,4,0,0,11,7,18
+RIBERALTA,otras infecciones,malaria,2007-05-01,31,24,196,173,445,408,1273,870,93,49,2038,1524,3562
+RURRENABAQUE,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAMAIPATA,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAN BUENA VENTURA,otras infecciones,malaria,2007-05-01,2,0,0,0,0,0,1,0,1,0,4,0,4
+SAN IGNACIO DE VELASCO,otras infecciones,malaria,2007-05-01,1,0,0,0,0,0,0,0,1,0,2,0,2
+SAN JAVIER(STC),otras infecciones,malaria,2007-05-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN JOAQUIN,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+SAN JULIAN,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAN LORENZO(PND),otras infecciones,malaria,2007-05-01,0,0,1,0,2,1,4,2,0,0,7,3,10
+SAN LORENZO(TJA),otras infecciones,malaria,2007-05-01,0,0,0,0,0,1,0,1,0,0,0,2,2
+SAN LUCAS,otras infecciones,malaria,2007-05-01,0,0,0,0,0,1,3,1,0,0,3,2,5
+SAN PEDRO DE BUENA VISTA,otras infecciones,malaria,2007-05-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO(PND),otras infecciones,malaria,2007-05-01,0,0,0,0,0,2,1,1,0,0,1,3,4
+SANTA CRUZ DE LA SIERRA,otras infecciones,malaria,2007-05-01,1,0,0,0,0,0,0,0,1,1,2,1,3
+SENA,otras infecciones,malaria,2007-05-01,0,0,0,0,2,2,7,6,1,0,10,8,18
+SOPACHUY,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,0,2,0,0,0,2,2
+SUCRE,otras infecciones,malaria,2007-05-01,0,0,0,0,0,1,4,0,0,0,4,1,5
+TARIJA,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,4,1,0,0,4,1,5
+TARVITA,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,1,4,0,0,1,4,5
+TEOPONTE,otras infecciones,malaria,2007-05-01,0,0,6,4,26,20,8,18,2,0,42,42,84
+TIPUANI,otras infecciones,malaria,2007-05-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+TIQUIPAYA,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+TIRAQUE (CBBA),otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+TOMINA,otras infecciones,malaria,2007-05-01,0,0,0,0,1,1,2,0,0,0,3,1,4
+TORO TORO,otras infecciones,malaria,2007-05-01,0,0,1,1,1,2,3,3,0,0,5,6,11
+VILA VILA,otras infecciones,malaria,2007-05-01,0,0,0,2,0,1,1,0,0,0,1,3,4
+VILLA NUEVA (LOMA ALTA),otras infecciones,malaria,2007-05-01,0,0,0,0,0,1,8,6,0,0,8,7,15
+VILLA SERRANO,otras infecciones,malaria,2007-05-01,0,0,0,0,0,1,2,0,0,0,2,1,3
+VILLA TUNARI,otras infecciones,malaria,2007-05-01,0,0,0,0,0,0,0,3,0,0,0,3,3
+VILLA VACA GUZMAN (MUYUPAMPA),otras infecciones,malaria,2007-05-01,0,0,2,0,1,1,5,2,0,2,8,5,13
+YACUIBA,otras infecciones,malaria,2007-05-01,0,2,10,3,19,14,20,27,2,6,51,52,103
+AIQUILE,otras infecciones,malaria,2007-06-01,0,0,1,0,4,4,9,7,4,5,18,16,34
+ANZALDO,otras infecciones,malaria,2007-06-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+AZURDUY,otras infecciones,malaria,2007-06-01,0,0,0,2,2,2,8,5,0,1,10,10,20
+BAURES,otras infecciones,malaria,2007-06-01,0,0,0,0,3,2,5,6,1,2,9,10,19
+BELEN DE URMIRI,otras infecciones,malaria,2007-06-01,0,0,1,0,1,1,0,0,0,0,2,1,3
+BELLA FLOR,otras infecciones,malaria,2007-06-01,0,0,2,1,0,2,0,1,0,0,2,4,6
+BERMEJO,otras infecciones,malaria,2007-06-01,0,0,2,2,1,2,3,4,1,0,7,8,15
+CABEZAS,otras infecciones,malaria,2007-06-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+CAMIRI,otras infecciones,malaria,2007-06-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+CARANAVI,otras infecciones,malaria,2007-06-01,0,0,0,0,0,0,7,7,0,0,7,7,14
+CARAPARI,otras infecciones,malaria,2007-06-01,0,0,0,0,2,1,2,1,0,0,4,2,6
+COBIJA,otras infecciones,malaria,2007-06-01,0,0,0,0,1,0,5,7,0,0,6,7,13
+COCHABAMBA,otras infecciones,malaria,2007-06-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+CUEVO,otras infecciones,malaria,2007-06-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+CULPINA,otras infecciones,malaria,2007-06-01,0,0,0,0,1,2,1,6,1,0,3,8,11
+EL TORNO,otras infecciones,malaria,2007-06-01,0,0,0,0,1,0,1,1,0,1,2,2,4
+ENTRE RIOS,otras infecciones,malaria,2007-06-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+EUREKA (SANTOS MERCADO),otras infecciones,malaria,2007-06-01,0,0,1,0,5,1,4,2,1,0,11,3,14
+FILADELFIA,otras infecciones,malaria,2007-06-01,0,0,0,0,1,0,0,2,0,0,1,2,3
+GUANAY,otras infecciones,malaria,2007-06-01,1,0,0,0,4,2,17,7,3,0,25,9,34
+GUAYARAMERIN,otras infecciones,malaria,2007-06-01,27,21,155,161,435,428,505,577,45,34,1167,1221,2388
+HUACARETA,otras infecciones,malaria,2007-06-01,0,0,1,0,1,1,4,2,0,0,6,3,9
+ICLA,otras infecciones,malaria,2007-06-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+INCAHUASI,otras infecciones,malaria,2007-06-01,0,0,0,0,0,0,0,0,0,2,0,2,2
+INGAVI (HUMAITA),otras infecciones,malaria,2007-06-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+IXIAMAS,otras infecciones,malaria,2007-06-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+LA ASUNTA,otras infecciones,malaria,2007-06-01,0,0,0,0,0,0,43,21,1,0,44,21,65
+LA PAZ,otras infecciones,malaria,2007-06-01,0,0,0,0,0,0,16,5,0,0,16,5,21
+MACHARETI,otras infecciones,malaria,2007-06-01,0,0,0,0,0,0,0,0,0,1,0,1,1
+MAPIRI,otras infecciones,malaria,2007-06-01,2,1,5,6,14,16,31,22,4,6,56,51,107
+MIZQUE,otras infecciones,malaria,2007-06-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+MOJOCOYA,otras infecciones,malaria,2007-06-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+MONTEAGUDO,otras infecciones,malaria,2007-06-01,1,0,2,2,4,2,14,3,2,1,23,8,31
+MOROCHATA,otras infecciones,malaria,2007-06-01,0,0,1,0,6,14,20,12,4,2,31,28,59
+NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,malaria,2007-06-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+NUEVO MANOA (NUEVA ESPERANZA),otras infecciones,malaria,2007-06-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+OMEREQUE,otras infecciones,malaria,2007-06-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+PADCAYA,otras infecciones,malaria,2007-06-01,0,0,1,0,0,0,3,1,0,0,4,1,5
+PADILLA,otras infecciones,malaria,2007-06-01,0,0,0,1,1,0,1,1,0,0,2,2,4
+PALOS BLANCOS,otras infecciones,malaria,2007-06-01,1,0,1,2,5,2,15,10,2,4,24,18,42
+PAMPA GRANDE,otras infecciones,malaria,2007-06-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+POJO (CBBA),otras infecciones,malaria,2007-06-01,0,0,0,0,0,1,1,1,1,0,2,2,4
+POROMA,otras infecciones,malaria,2007-06-01,0,1,1,0,1,0,1,0,0,0,3,1,4
+PORONGO,otras infecciones,malaria,2007-06-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+PORVENIR,otras infecciones,malaria,2007-06-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+PUERTO GONZALO MORENO,otras infecciones,malaria,2007-06-01,0,0,1,1,2,0,5,1,1,0,9,2,11
+PUERTO RICO,otras infecciones,malaria,2007-06-01,1,0,1,0,0,1,2,5,1,0,5,6,11
+REYES,otras infecciones,malaria,2007-06-01,0,0,2,1,1,3,2,1,0,0,5,5,10
+RIBERALTA,otras infecciones,malaria,2007-06-01,52,30,156,154,300,296,838,643,66,42,1412,1165,2577
+RURRENABAQUE,otras infecciones,malaria,2007-06-01,0,0,0,0,0,0,0,2,0,0,0,2,2
+SAMAIPATA,otras infecciones,malaria,2007-06-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN BUENA VENTURA,otras infecciones,malaria,2007-06-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+SAN IGNACIO DE VELASCO,otras infecciones,malaria,2007-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAN LORENZO(PND),otras infecciones,malaria,2007-06-01,0,0,1,1,1,0,3,1,0,0,5,2,7
+SAN LORENZO(TJA),otras infecciones,malaria,2007-06-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+SAN LUCAS,otras infecciones,malaria,2007-06-01,0,0,0,0,0,0,2,1,0,0,2,1,3
+SAN PEDRO DE BUENA VISTA,otras infecciones,malaria,2007-06-01,0,0,0,0,1,1,2,0,0,0,3,1,4
+SANTA ROSA,otras infecciones,malaria,2007-06-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+SANTIVAÑES,otras infecciones,malaria,2007-06-01,2,0,0,0,0,0,0,0,0,0,2,0,2
+SENA,otras infecciones,malaria,2007-06-01,0,0,3,2,4,6,12,8,3,0,22,16,38
+TACOPAYA,otras infecciones,malaria,2007-06-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+TEOPONTE,otras infecciones,malaria,2007-06-01,0,0,0,0,1,1,0,0,1,0,2,1,3
+TOMINA,otras infecciones,malaria,2007-06-01,0,0,0,0,1,0,0,1,0,0,1,1,2
+TORO TORO,otras infecciones,malaria,2007-06-01,0,0,0,1,0,0,3,1,0,0,3,2,5
+VILA VILA,otras infecciones,malaria,2007-06-01,0,0,0,0,4,4,27,6,1,0,32,10,42
+VILLA NUEVA (LOMA ALTA),otras infecciones,malaria,2007-06-01,0,0,0,0,0,1,1,0,0,0,1,1,2
+VILLA SERRANO,otras infecciones,malaria,2007-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+VILLA TUNARI,otras infecciones,malaria,2007-06-01,2,1,1,4,0,1,11,3,2,0,16,9,25
+VILLA VACA GUZMAN (MUYUPAMPA),otras infecciones,malaria,2007-06-01,0,0,1,1,3,4,13,6,0,3,17,14,31
+YACUIBA,otras infecciones,malaria,2007-06-01,0,0,0,2,1,1,3,1,0,1,4,5,9
+YAPACANI,otras infecciones,malaria,2007-06-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+AIQUILE,otras infecciones,malaria,2007-07-01,0,0,0,1,2,3,10,8,1,2,13,14,27
+ARQUE,otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+AZURDUY,otras infecciones,malaria,2007-07-01,0,0,2,4,1,1,3,4,0,0,6,9,15
+BAURES,otras infecciones,malaria,2007-07-01,0,0,0,0,4,5,5,3,1,0,10,8,18
+BELLA FLOR,otras infecciones,malaria,2007-07-01,0,0,0,0,0,2,2,0,0,0,2,2,4
+BERMEJO,otras infecciones,malaria,2007-07-01,0,0,2,0,2,1,3,2,1,0,8,3,11
+CABEZAS,otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+CARANAVI,otras infecciones,malaria,2007-07-01,0,0,0,0,0,1,2,5,1,1,3,7,10
+CARAPARI,otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+CARIPUYO,otras infecciones,malaria,2007-07-01,0,0,2,0,0,0,0,0,0,0,2,0,2
+COBIJA,otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,11,6,0,1,11,7,18
+COCHABAMBA,otras infecciones,malaria,2007-07-01,0,0,0,1,0,0,0,1,0,0,0,2,2
+CONCEPCION,otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+CULPINA,otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,2,0,0,1,2,1,3
+EL PUENTE(TJA),otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+EL TORNO,otras infecciones,malaria,2007-07-01,0,0,0,0,2,0,0,3,0,0,2,3,5
+ENTRE RIOS,otras infecciones,malaria,2007-07-01,0,0,1,4,0,0,2,2,0,0,3,6,9
+EUREKA (SANTOS MERCADO),otras infecciones,malaria,2007-07-01,1,1,0,0,1,3,12,6,0,0,14,10,24
+FILADELFIA,otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+GUANAY,otras infecciones,malaria,2007-07-01,0,0,1,2,2,2,3,6,0,1,6,11,17
+GUAYARAMERIN,otras infecciones,malaria,2007-07-01,38,24,116,143,230,261,435,396,159,158,978,982,1960
+HUACARETA,otras infecciones,malaria,2007-07-01,0,0,0,4,10,6,12,12,2,9,24,31,55
+IXIAMAS,otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+LA ASUNTA,otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,13,6,0,0,13,6,19
+LA PAZ,otras infecciones,malaria,2007-07-01,0,0,0,0,1,1,15,3,1,1,17,5,22
+MACHARETI,otras infecciones,malaria,2007-07-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+MAPIRI,otras infecciones,malaria,2007-07-01,0,1,1,1,10,10,27,21,9,13,47,46,93
+MIZQUE,otras infecciones,malaria,2007-07-01,0,0,5,3,10,15,25,30,3,0,43,48,91
+MOJOCOYA,otras infecciones,malaria,2007-07-01,0,0,1,0,1,0,0,2,1,0,3,2,5
+MONTEAGUDO,otras infecciones,malaria,2007-07-01,0,2,2,0,6,6,14,15,2,1,24,24,48
+MOROCHATA,otras infecciones,malaria,2007-07-01,0,0,3,3,6,12,14,11,3,0,26,26,52
+NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,malaria,2007-07-01,0,0,0,0,2,0,1,2,0,0,3,2,5
+NUEVO MANOA (NUEVA ESPERANZA),otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+OMEREQUE,otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+PADCAYA,otras infecciones,malaria,2007-07-01,0,0,0,0,1,0,0,0,1,0,2,0,2
+PADILLA,otras infecciones,malaria,2007-07-01,0,2,1,2,0,1,0,3,1,0,2,8,10
+PALOS BLANCOS,otras infecciones,malaria,2007-07-01,0,0,0,2,0,0,5,9,0,1,5,12,17
+PASORAPA,otras infecciones,malaria,2007-07-01,0,0,1,2,3,1,4,4,1,4,9,11,20
+POCONA,otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+POJO (CBBA),otras infecciones,malaria,2007-07-01,0,0,0,0,1,2,3,4,4,2,8,8,16
+POROMA,otras infecciones,malaria,2007-07-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+PORVENIR,otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,2,1,0,0,2,1,3
+PUERTO GONZALO MORENO,otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,2,0,1,0,3,0,3
+PUERTO RICO,otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,1,2,0,0,1,2,3
+PUERTO SILES,otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+PUNATA,otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+REYES,otras infecciones,malaria,2007-07-01,0,0,1,0,3,3,2,5,0,0,6,8,14
+RIBERALTA,otras infecciones,malaria,2007-07-01,47,31,266,233,666,661,1191,935,98,46,2268,1906,4174
+SAN BORJA,otras infecciones,malaria,2007-07-01,0,0,1,0,0,0,2,1,0,0,3,1,4
+SAN IGNACIO DE VELASCO,otras infecciones,malaria,2007-07-01,1,0,0,0,1,0,0,0,0,0,2,0,2
+SAN JOSE DE CHIQUITOS,otras infecciones,malaria,2007-07-01,0,1,0,0,0,0,0,0,0,0,0,1,1
+SAN LORENZO(PND),otras infecciones,malaria,2007-07-01,0,0,1,0,3,0,5,4,0,0,9,4,13
+SAN LUCAS,otras infecciones,malaria,2007-07-01,0,0,0,0,1,0,2,0,0,0,3,0,3
+SAN PEDRO DE BUENA VISTA,otras infecciones,malaria,2007-07-01,0,0,1,0,0,0,1,0,4,1,6,1,7
+SANTA ANA,otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,otras infecciones,malaria,2007-07-01,0,0,0,1,0,1,0,0,0,0,0,2,2
+SENA,otras infecciones,malaria,2007-07-01,0,2,1,3,3,4,4,7,0,0,8,16,24
+SUCRE,otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+TARIJA,otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,1,2,0,0,1,2,3
+TARVITA,otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+TEOPONTE,otras infecciones,malaria,2007-07-01,0,0,0,0,1,2,8,6,0,0,9,8,17
+TIQUIPAYA,otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+TIRAQUE (CBBA),otras infecciones,malaria,2007-07-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+TOMINA,otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+TORO TORO,otras infecciones,malaria,2007-07-01,0,0,0,0,0,1,3,1,1,0,4,2,6
+VALLEGRANDE,otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,1,1,0,1,1,2,3
+VILA VILA,otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+VILLA NUEVA (LOMA ALTA),otras infecciones,malaria,2007-07-01,0,0,0,1,0,1,2,1,0,0,2,3,5
+VILLA TUNARI,otras infecciones,malaria,2007-07-01,0,0,0,0,0,0,4,6,0,0,4,6,10
+VILLA VACA GUZMAN (MUYUPAMPA),otras infecciones,malaria,2007-07-01,0,0,0,3,1,3,2,2,0,1,3,9,12
+YACUIBA,otras infecciones,malaria,2007-07-01,0,0,0,0,2,0,5,1,0,0,7,1,8
+AIQUILE,otras infecciones,malaria,2007-08-01,0,0,3,2,12,11,13,18,11,12,39,43,82
+ARAMPAMPA,otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+ARQUE,otras infecciones,malaria,2007-08-01,3,2,0,0,0,0,0,0,0,0,3,2,5
+AZURDUY,otras infecciones,malaria,2007-08-01,0,0,1,0,1,0,4,3,0,1,6,4,10
+BAURES,otras infecciones,malaria,2007-08-01,0,0,1,1,4,9,10,9,2,0,17,19,36
+BERMEJO,otras infecciones,malaria,2007-08-01,0,0,4,1,1,1,4,1,1,0,10,3,13
+CABEZAS,otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+CAMARGO,otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+CAPINOTA,otras infecciones,malaria,2007-08-01,0,1,2,1,0,0,0,0,0,0,2,2,4
+CARANAVI,otras infecciones,malaria,2007-08-01,0,0,0,0,1,0,4,4,0,2,5,6,11
+CARAPARI,otras infecciones,malaria,2007-08-01,0,0,0,0,1,1,1,1,0,0,2,2,4
+COBIJA,otras infecciones,malaria,2007-08-01,0,0,0,0,1,1,9,2,0,0,10,3,13
+COCHABAMBA,otras infecciones,malaria,2007-08-01,1,1,0,0,0,0,0,0,0,0,1,1,2
+CULPINA,otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,3,2,1,0,4,2,6
+EL TORNO,otras infecciones,malaria,2007-08-01,0,0,2,1,1,1,0,3,0,0,3,5,8
+ENTRE RIOS,otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+EUREKA (SANTOS MERCADO),otras infecciones,malaria,2007-08-01,0,0,0,0,4,4,4,3,0,0,8,7,15
+FILADELFIA,otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+GUANAY,otras infecciones,malaria,2007-08-01,1,0,2,1,2,1,10,12,2,0,17,14,31
+GUAYARAMERIN,otras infecciones,malaria,2007-08-01,18,13,119,92,226,264,426,481,40,43,829,893,1722
+HUACARETA,otras infecciones,malaria,2007-08-01,0,0,0,0,0,2,1,2,2,1,3,5,8
+INCAHUASI,otras infecciones,malaria,2007-08-01,0,0,1,0,0,0,4,1,0,0,5,1,6
+IXIAMAS,otras infecciones,malaria,2007-08-01,0,0,0,1,0,0,4,0,0,0,4,1,5
+LA ASUNTA,otras infecciones,malaria,2007-08-01,1,0,0,0,0,2,21,11,1,0,23,13,36
+LA GUARDIA,otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+LA PAZ,otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,12,5,0,0,12,5,17
+MACHARETI,otras infecciones,malaria,2007-08-01,0,0,0,0,0,2,0,1,0,0,0,3,3
+MAPIRI,otras infecciones,malaria,2007-08-01,2,3,11,13,38,50,62,85,19,14,132,165,297
+MIZQUE,otras infecciones,malaria,2007-08-01,0,0,2,1,12,8,38,40,4,6,56,55,111
+MOJOCOYA,otras infecciones,malaria,2007-08-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+MONTEAGUDO,otras infecciones,malaria,2007-08-01,0,0,2,0,3,6,21,8,6,0,32,14,46
+NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+NUEVO MANOA (NUEVA ESPERANZA),otras infecciones,malaria,2007-08-01,1,0,0,0,1,1,0,0,0,0,2,1,3
+OMEREQUE,otras infecciones,malaria,2007-08-01,0,1,8,17,24,32,34,29,34,29,100,108,208
+PADCAYA,otras infecciones,malaria,2007-08-01,0,0,1,0,0,0,1,0,0,0,2,0,2
+PADILLA,otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,0,0,0,2,0,2,2
+PALOS BLANCOS,otras infecciones,malaria,2007-08-01,0,0,1,0,0,0,6,7,1,1,8,8,16
+PAMPA GRANDE,otras infecciones,malaria,2007-08-01,0,0,0,1,1,0,0,2,0,0,1,3,4
+PASORAPA,otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+POJO (CBBA),otras infecciones,malaria,2007-08-01,0,0,0,0,3,17,36,25,17,7,56,49,105
+POROMA,otras infecciones,malaria,2007-08-01,0,0,0,1,0,0,0,0,1,0,1,1,2
+PORONGO,otras infecciones,malaria,2007-08-01,0,0,0,0,1,0,0,1,0,0,1,1,2
+PORVENIR,otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+PUERTO GONZALO MORENO,otras infecciones,malaria,2007-08-01,0,0,0,0,1,0,0,3,0,0,1,3,4
+PUERTO RICO,otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+REYES,otras infecciones,malaria,2007-08-01,0,0,0,0,0,1,3,4,0,0,3,5,8
+RIBERALTA,otras infecciones,malaria,2007-08-01,46,29,199,173,421,402,1067,831,109,39,1842,1474,3316
+RURRENABAQUE,otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+SAN BORJA,otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+SAN IGNACIO DE VELASCO,otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,2,0,0,1,2,1,3
+SAN JULIAN,otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+SAN LORENZO(PND),otras infecciones,malaria,2007-08-01,0,0,0,1,0,1,0,1,0,0,0,3,3
+SAN LUCAS,otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,1,2,0,0,1,2,3
+SAN PEDRO DE BUENA VISTA,otras infecciones,malaria,2007-08-01,0,0,0,2,0,0,4,3,0,1,4,6,10
+SAN PEDRO(PND),otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+SANTA CRUZ DE LA SIERRA,otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,0,0,0,6,0,6,6
+SENA,otras infecciones,malaria,2007-08-01,0,0,0,0,2,2,2,1,1,1,5,4,9
+SOPACHUY,otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+SUCRE,otras infecciones,malaria,2007-08-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+TACOPAYA,otras infecciones,malaria,2007-08-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+TARIJA,otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+TEOPONTE,otras infecciones,malaria,2007-08-01,0,0,2,0,2,0,7,8,1,0,12,8,20
+TOMINA,otras infecciones,malaria,2007-08-01,0,0,0,0,0,1,0,0,1,0,1,1,2
+TORO TORO,otras infecciones,malaria,2007-08-01,1,2,0,1,1,0,1,1,0,0,3,4,7
+VALLEGRANDE,otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+VILLA NUEVA (LOMA ALTA),otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+VILLA SERRANO,otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+VILLA TUNARI,otras infecciones,malaria,2007-08-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+VILLA VACA GUZMAN (MUYUPAMPA),otras infecciones,malaria,2007-08-01,0,0,0,0,2,3,5,4,0,0,7,7,14
+YACUIBA,otras infecciones,malaria,2007-08-01,0,0,0,0,4,2,8,6,0,0,12,8,20
+AIQUILE,otras infecciones,malaria,2007-09-01,0,0,1,1,2,3,8,7,3,2,14,13,27
+ALCALA,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+APOLO,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+AZURDUY,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,0,1,0,1,0,2,2
+BAURES,otras infecciones,malaria,2007-09-01,0,0,2,2,5,9,8,8,0,0,15,19,34
+BELLA FLOR,otras infecciones,malaria,2007-09-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+BERMEJO,otras infecciones,malaria,2007-09-01,0,0,0,0,0,2,1,2,1,0,2,4,6
+CABEZAS,otras infecciones,malaria,2007-09-01,0,0,0,0,1,0,2,0,0,0,3,0,3
+CAMIRI,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+CARANAVI,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+CARAPARI,otras infecciones,malaria,2007-09-01,0,0,0,0,0,2,2,4,0,0,2,6,8
+COBIJA,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,7,2,0,0,7,2,9
+COROICO,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+CULPINA,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+EL TORNO,otras infecciones,malaria,2007-09-01,0,0,0,1,0,0,3,2,0,0,3,3,6
+EL VILLAR,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+EUREKA (SANTOS MERCADO),otras infecciones,malaria,2007-09-01,0,0,0,0,1,0,4,3,2,0,7,3,10
+GUANAY,otras infecciones,malaria,2007-09-01,0,0,3,4,3,3,5,8,1,2,12,17,29
+GUAYARAMERIN,otras infecciones,malaria,2007-09-01,20,12,78,74,188,182,306,311,38,21,630,600,1230
+HUACARETA,otras infecciones,malaria,2007-09-01,0,0,1,2,2,3,1,2,0,0,4,7,11
+ICLA,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,1,0,0,1,1,1,2
+INCAHUASI,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+IXIAMAS,otras infecciones,malaria,2007-09-01,0,0,1,2,0,0,5,6,0,0,6,8,14
+LA ASUNTA,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,11,11,0,0,11,11,22
+LA PAZ,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,15,5,1,0,16,5,21
+MAPIRI,otras infecciones,malaria,2007-09-01,0,0,7,1,14,11,33,44,4,8,58,64,122
+MIZQUE,otras infecciones,malaria,2007-09-01,0,0,0,0,9,4,21,21,6,2,36,27,63
+MONTEAGUDO,otras infecciones,malaria,2007-09-01,0,1,4,1,5,4,18,12,2,7,29,25,54
+NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,7,0,0,0,7,0,7
+NUEVO MANOA (NUEVA ESPERANZA),otras infecciones,malaria,2007-09-01,0,0,0,1,1,2,5,0,2,0,8,3,11
+OMEREQUE,otras infecciones,malaria,2007-09-01,0,0,1,0,2,2,2,2,2,1,7,5,12
+PADCAYA,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+PADILLA,otras infecciones,malaria,2007-09-01,2,0,3,4,4,6,3,6,0,0,12,16,28
+PALOS BLANCOS,otras infecciones,malaria,2007-09-01,0,0,1,0,3,4,6,4,0,5,10,13,23
+PAMPA GRANDE,otras infecciones,malaria,2007-09-01,0,0,0,0,0,1,1,0,0,1,1,2,3
+PASORAPA,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+POROMA,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+PORVENIR,otras infecciones,malaria,2007-09-01,0,0,0,0,1,1,1,1,0,0,2,2,4
+PUERTO GONZALO MORENO,otras infecciones,malaria,2007-09-01,1,3,0,4,3,3,14,12,1,1,19,23,42
+PUERTO RICO,otras infecciones,malaria,2007-09-01,1,0,3,4,1,0,1,2,1,0,7,6,13
+PUNATA,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+REYES,otras infecciones,malaria,2007-09-01,0,0,1,0,0,2,4,3,0,0,5,5,10
+RIBERALTA,otras infecciones,malaria,2007-09-01,57,28,197,176,440,364,922,732,80,39,1696,1339,3035
+RURRENABAQUE,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAN BORJA,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,2,5,1,0,3,5,8
+SAN CARLOS,otras infecciones,malaria,2007-09-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,1,2,0,0,1,2,3
+SAN LORENZO(PND),otras infecciones,malaria,2007-09-01,0,1,0,0,1,0,1,0,0,0,2,1,3
+SAN LUCAS,otras infecciones,malaria,2007-09-01,0,0,1,0,1,1,1,2,0,2,3,5,8
+SAN PEDRO,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,0,0,0,1,0,1,1
+SAN PEDRO DE BUENA VISTA,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,0,2,0,0,0,2,2
+SAN PEDRO(PND),otras infecciones,malaria,2007-09-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,otras infecciones,malaria,2007-09-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+SENA,otras infecciones,malaria,2007-09-01,0,0,0,0,2,2,4,1,0,0,6,3,9
+SOPACHUY,otras infecciones,malaria,2007-09-01,0,0,0,0,0,2,0,0,0,0,0,2,2
+TARIJA,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+TEOPONTE,otras infecciones,malaria,2007-09-01,0,0,2,0,4,2,2,5,1,0,9,7,16
+TOMINA,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+TORO TORO,otras infecciones,malaria,2007-09-01,0,0,0,0,0,1,1,1,0,1,1,3,4
+TOTORA(CBBA),otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,0,0,1,1,1,1,2
+VILA VILA,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+VILLA NUEVA (LOMA ALTA),otras infecciones,malaria,2007-09-01,0,0,0,0,3,0,3,1,0,0,6,1,7
+VILLA SERRANO,otras infecciones,malaria,2007-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+VILLA TUNARI,otras infecciones,malaria,2007-09-01,0,0,0,0,0,1,11,13,6,0,17,14,31
+VILLA VACA GUZMAN (MUYUPAMPA),otras infecciones,malaria,2007-09-01,0,0,0,1,0,0,2,2,0,0,2,3,5
+YACUIBA,otras infecciones,malaria,2007-09-01,0,1,0,0,3,1,2,1,2,0,7,3,10
+AIQUILE,otras infecciones,malaria,2007-10-01,0,0,0,0,13,4,11,12,2,0,26,16,42
+ALCALA,otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+AZURDUY,otras infecciones,malaria,2007-10-01,0,0,1,0,7,3,7,3,1,0,16,6,22
+BAURES,otras infecciones,malaria,2007-10-01,0,1,1,1,4,4,9,6,0,2,14,14,28
+BELLA FLOR,otras infecciones,malaria,2007-10-01,0,0,0,1,0,0,1,0,0,0,1,1,2
+BERMEJO,otras infecciones,malaria,2007-10-01,0,0,1,0,3,0,3,2,1,1,8,3,11
+CABEZAS,otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+CARANAVI,otras infecciones,malaria,2007-10-01,0,0,0,1,0,0,8,7,0,0,8,8,16
+CARAPARI,otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+COBIJA,otras infecciones,malaria,2007-10-01,0,0,0,0,3,1,17,6,0,0,20,7,27
+COCHABAMBA,otras infecciones,malaria,2007-10-01,1,0,0,0,0,0,0,0,0,0,1,0,1
+COLOMI,otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+CULPINA,otras infecciones,malaria,2007-10-01,0,0,1,0,1,0,1,1,0,0,3,1,4
+EL ALTO,otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+EL TORNO,otras infecciones,malaria,2007-10-01,0,0,1,0,2,2,6,4,1,0,10,6,16
+ENTRE RIOS,otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+ENTRE RIOS,otras infecciones,malaria,2007-10-01,0,0,1,0,1,0,2,1,0,1,4,2,6
+EUREKA (SANTOS MERCADO),otras infecciones,malaria,2007-10-01,1,0,0,1,0,1,5,1,0,0,6,3,9
+FILADELFIA,otras infecciones,malaria,2007-10-01,0,0,0,0,1,1,3,1,0,0,4,2,6
+GUANAY,otras infecciones,malaria,2007-10-01,0,0,2,0,2,0,5,1,0,0,9,1,10
+GUAYARAMERIN,otras infecciones,malaria,2007-10-01,22,12,125,79,246,261,405,432,49,30,847,814,1661
+HUACARETA,otras infecciones,malaria,2007-10-01,0,0,0,0,1,1,2,0,0,0,3,1,4
+INCAHUASI,otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+INGAVI (HUMAITA),otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+IXIAMAS,otras infecciones,malaria,2007-10-01,0,0,2,0,0,2,4,3,0,0,6,5,11
+LA ASUNTA,otras infecciones,malaria,2007-10-01,1,1,0,0,0,1,31,21,0,0,32,23,55
+LA PAZ,otras infecciones,malaria,2007-10-01,0,0,0,0,2,3,33,9,1,1,36,13,49
+MAGDALENA,otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+MAPIRI,otras infecciones,malaria,2007-10-01,1,0,2,1,7,3,54,33,9,5,73,42,115
+MIZQUE,otras infecciones,malaria,2007-10-01,0,0,0,0,2,1,9,5,1,0,12,6,18
+MONTEAGUDO,otras infecciones,malaria,2007-10-01,2,0,4,6,51,39,4,17,1,1,62,63,125
+MOROCHATA,otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+NUEVO MANOA (NUEVA ESPERANZA),otras infecciones,malaria,2007-10-01,0,0,0,0,4,0,1,3,0,0,5,3,8
+OMEREQUE,otras infecciones,malaria,2007-10-01,0,0,0,1,0,0,2,3,2,0,4,4,8
+PADCAYA,otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,2,1,0,0,2,1,3
+PADILLA,otras infecciones,malaria,2007-10-01,0,0,2,1,3,1,2,3,0,0,7,5,12
+PALOS BLANCOS,otras infecciones,malaria,2007-10-01,0,0,0,1,1,0,10,4,1,1,12,6,18
+PAMPA GRANDE,otras infecciones,malaria,2007-10-01,0,0,0,1,1,0,2,1,0,0,3,2,5
+PASORAPA,otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,72,22,3,1,75,23,98
+POJO (CBBA),otras infecciones,malaria,2007-10-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+POROMA,otras infecciones,malaria,2007-10-01,0,2,0,1,0,0,0,1,0,0,0,4,4
+PORVENIR,otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,2,4,0,0,2,4,6
+PRESTO,otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+PUERTO GONZALO MORENO,otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+PUERTO RICO,otras infecciones,malaria,2007-10-01,0,0,1,0,2,0,4,2,0,0,7,2,9
+REYES,otras infecciones,malaria,2007-10-01,0,0,0,2,3,2,4,2,0,0,7,6,13
+RIBERALTA,otras infecciones,malaria,2007-10-01,68,60,244,215,584,572,1296,961,95,52,2287,1860,4147
+SAN BORJA,otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,3,2,0,0,3,2,5
+SAN BUENA VENTURA,otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,otras infecciones,malaria,2007-10-01,0,0,0,1,0,0,2,3,2,0,4,4,8
+SAN LORENZO(PND),otras infecciones,malaria,2007-10-01,0,1,0,0,0,0,0,1,1,0,1,2,3
+SAN LORENZO(TJA),otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+SAN LUCAS,otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,0,2,0,0,0,2,2
+SAN PEDRO DE BUENA VISTA,otras infecciones,malaria,2007-10-01,0,0,0,1,0,1,0,0,0,2,0,4,4
+SANTA ANA,otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+SENA,otras infecciones,malaria,2007-10-01,0,0,1,0,2,1,6,0,2,0,11,1,12
+SOPACHUY,otras infecciones,malaria,2007-10-01,0,2,0,0,0,0,5,3,2,2,7,7,14
+TARVITA,otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,2,2,0,1,2,3,5
+TEOPONTE,otras infecciones,malaria,2007-10-01,0,0,1,0,0,0,5,8,0,0,6,8,14
+TINGUIPAYA,otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+TOMINA,otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+TORO TORO,otras infecciones,malaria,2007-10-01,1,0,0,2,0,0,2,0,0,0,3,2,5
+TOTORA(CBBA),otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+VILA VILA,otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,2,1,0,0,2,1,3
+VILLA NUEVA (LOMA ALTA),otras infecciones,malaria,2007-10-01,0,0,1,2,0,0,2,1,0,0,3,3,6
+VILLA SERRANO,otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+VILLA TUNARI,otras infecciones,malaria,2007-10-01,0,0,0,0,0,0,5,5,1,0,6,5,11
+VILLA VACA GUZMAN (MUYUPAMPA),otras infecciones,malaria,2007-10-01,0,0,1,1,4,3,6,6,0,2,11,12,23
+YACUIBA,otras infecciones,malaria,2007-10-01,0,0,2,3,5,6,3,0,0,0,10,9,19
+ACACIO,otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+AIQUILE,otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,2,1,1,0,3,1,4
+AZURDUY,otras infecciones,malaria,2007-11-01,0,0,0,1,0,1,0,3,0,3,0,8,8
+BAURES,otras infecciones,malaria,2007-11-01,1,0,0,1,3,0,3,6,1,0,8,7,15
+BERMEJO,otras infecciones,malaria,2007-11-01,0,0,0,0,2,1,2,1,0,0,4,2,6
+BUENA VISTA,otras infecciones,malaria,2007-11-01,0,0,2,2,1,0,0,1,0,0,3,3,6
+CABEZAS,otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,2,2,0,0,2,2,4
+CAIROMA,otras infecciones,malaria,2007-11-01,0,1,0,0,0,0,0,0,0,0,0,1,1
+CARANAVI,otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+CARAPARI,otras infecciones,malaria,2007-11-01,0,0,0,0,1,1,1,2,0,1,2,4,6
+COBIJA,otras infecciones,malaria,2007-11-01,0,0,1,1,2,5,15,9,0,1,18,16,34
+COCHABAMBA,otras infecciones,malaria,2007-11-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+EL TORNO,otras infecciones,malaria,2007-11-01,1,0,4,3,10,5,11,5,0,1,26,14,40
+ENTRE RIOS,otras infecciones,malaria,2007-11-01,0,0,0,0,0,1,3,2,0,0,3,3,6
+EUREKA (SANTOS MERCADO),otras infecciones,malaria,2007-11-01,0,0,0,0,0,4,1,4,0,0,1,8,9
+FILADELFIA,otras infecciones,malaria,2007-11-01,0,0,2,1,3,0,2,0,0,0,7,1,8
+GUANAY,otras infecciones,malaria,2007-11-01,3,2,0,4,11,4,14,11,2,3,30,24,54
+GUAYARAMERIN,otras infecciones,malaria,2007-11-01,21,13,88,97,222,238,499,450,34,28,864,826,1690
+HUACARETA,otras infecciones,malaria,2007-11-01,0,0,1,0,0,2,6,2,0,0,7,4,11
+INCAHUASI,otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,2,1,0,1,2,2,4
+INGAVI (HUMAITA),otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+IXIAMAS,otras infecciones,malaria,2007-11-01,0,0,1,0,0,3,1,3,0,0,2,6,8
+LA ASUNTA,otras infecciones,malaria,2007-11-01,0,0,0,0,7,10,6,14,0,0,13,24,37
+LA GUARDIA,otras infecciones,malaria,2007-11-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+LA PAZ,otras infecciones,malaria,2007-11-01,10,7,38,30,55,75,115,70,18,9,236,191,427
+MAGDALENA,otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+MAPIRI,otras infecciones,malaria,2007-11-01,0,1,1,2,1,5,37,14,9,5,48,27,75
+MIZQUE,otras infecciones,malaria,2007-11-01,0,0,0,0,1,1,5,3,1,0,7,4,11
+MOJOCOYA,otras infecciones,malaria,2007-11-01,0,0,1,0,0,0,1,0,0,0,2,0,2
+MONTEAGUDO,otras infecciones,malaria,2007-11-01,1,2,2,3,12,5,8,15,2,2,25,27,52
+NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,malaria,2007-11-01,0,0,0,0,2,0,0,0,0,0,2,0,2
+NUEVO MANOA (NUEVA ESPERANZA),otras infecciones,malaria,2007-11-01,0,0,0,0,3,0,4,2,0,0,7,2,9
+OMEREQUE,otras infecciones,malaria,2007-11-01,0,0,0,0,0,1,1,0,0,0,1,1,2
+PADCAYA,otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+PADILLA,otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,0,3,0,0,0,3,3
+PALOS BLANCOS,otras infecciones,malaria,2007-11-01,0,0,1,0,3,2,13,4,1,0,18,6,24
+PASORAPA,otras infecciones,malaria,2007-11-01,0,0,0,0,1,0,0,1,0,0,1,1,2
+POROMA,otras infecciones,malaria,2007-11-01,0,0,0,0,1,0,0,2,0,0,1,2,3
+PORONGO,otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,2,2,0,0,2,2,4
+PORVENIR,otras infecciones,malaria,2007-11-01,0,0,0,0,1,0,2,1,0,0,3,1,4
+POTOSI,otras infecciones,malaria,2007-11-01,1,1,0,0,0,0,0,0,0,0,1,1,2
+PUERTO GONZALO MORENO,otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+REYES,otras infecciones,malaria,2007-11-01,0,0,0,0,1,3,2,0,0,0,3,3,6
+RIBERALTA,otras infecciones,malaria,2007-11-01,80,49,318,249,688,653,1757,1190,154,52,2997,2193,5190
+RURRENABAQUE,otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+SACACA,otras infecciones,malaria,2007-11-01,0,0,2,0,0,0,0,0,0,0,2,0,2
+SAMAIPATA,otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+SAN BORJA,otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,4,1,0,0,4,1,5
+SAN BUENA VENTURA,otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+SAN CARLOS,otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,2,0,1,0,3,0,3
+SAN IGNACIO DE VELASCO,otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,2,1,1,0,3,1,4
+SAN JOAQUIN,otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAN JULIAN,otras infecciones,malaria,2007-11-01,0,0,0,0,1,0,4,3,1,0,6,3,9
+SAN LORENZO(PND),otras infecciones,malaria,2007-11-01,0,0,1,0,0,0,1,1,0,0,2,1,3
+SAN LUCAS,otras infecciones,malaria,2007-11-01,0,4,7,4,0,2,0,4,0,1,7,15,22
+SAN PEDRO DE BUENA VISTA,otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,1,2,0,0,1,2,3
+SANTA CRUZ DE LA SIERRA,otras infecciones,malaria,2007-11-01,0,0,0,0,1,0,2,0,0,0,3,0,3
+SANTA ROSA,otras infecciones,malaria,2007-11-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+SENA,otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,1,2,0,0,1,2,3
+SICAYA,otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,0,0,0,1,0,1,1
+SOPACHUY,otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,10,5,1,1,11,6,17
+TEOPONTE,otras infecciones,malaria,2007-11-01,0,0,2,2,20,11,10,11,5,1,37,25,62
+TIRAQUE (CBBA),otras infecciones,malaria,2007-11-01,0,0,0,1,0,0,0,1,0,0,0,2,2
+TOMINA,otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,3,2,0,0,3,2,5
+TORO TORO,otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+VILLA NUEVA (LOMA ALTA),otras infecciones,malaria,2007-11-01,0,0,2,0,0,0,3,0,1,0,6,0,6
+VILLA SERRANO,otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,2,2,0,0,2,2,4
+VILLA TUNARI,otras infecciones,malaria,2007-11-01,0,0,0,0,0,0,5,4,1,0,6,4,10
+VILLA VACA GUZMAN (MUYUPAMPA),otras infecciones,malaria,2007-11-01,2,0,0,1,0,1,2,2,0,1,4,5,9
+VINTO,otras infecciones,malaria,2007-11-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+YACUIBA,otras infecciones,malaria,2007-11-01,0,0,1,0,1,1,3,3,0,0,5,4,9
+AIQUILE,otras infecciones,malaria,2007-12-01,1,0,0,0,1,0,3,4,0,1,5,5,10
+ARANI,otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,0,0,0,1,0,1,1
+AYOPAYA (V. DE INDEPENDENCIA),otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+AZURDUY,otras infecciones,malaria,2007-12-01,0,0,0,0,1,1,1,6,0,1,2,8,10
+BAURES,otras infecciones,malaria,2007-12-01,0,0,0,0,1,1,0,2,0,0,1,3,4
+BERMEJO,otras infecciones,malaria,2007-12-01,0,0,3,3,8,7,18,10,1,0,30,20,50
+BUENA VISTA,otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,3,2,0,0,3,2,5
+CARANAVI,otras infecciones,malaria,2007-12-01,0,0,0,0,6,2,29,18,2,1,37,21,58
+CARAPARI,otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,3,1,1,0,4,1,5
+COBIJA,otras infecciones,malaria,2007-12-01,1,0,1,0,0,0,5,5,0,0,7,5,12
+COCHABAMBA,otras infecciones,malaria,2007-12-01,1,0,0,0,0,0,2,0,0,0,3,0,3
+COLOMI,otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+COLQUECHACA,otras infecciones,malaria,2007-12-01,0,1,0,0,0,0,0,0,0,0,0,1,1
+CUEVO,otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+CULPINA,otras infecciones,malaria,2007-12-01,0,0,0,0,2,0,3,1,0,0,5,1,6
+EL TORNO,otras infecciones,malaria,2007-12-01,1,0,5,3,11,5,12,9,3,0,32,17,49
+ENTRE RIOS,otras infecciones,malaria,2007-12-01,2,0,1,0,0,0,3,0,0,0,6,0,6
+EUREKA (SANTOS MERCADO),otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,1,2,0,0,1,2,3
+FILADELFIA,otras infecciones,malaria,2007-12-01,0,0,0,0,0,1,0,1,0,0,0,2,2
+GUANAY,otras infecciones,malaria,2007-12-01,0,1,1,0,8,4,9,9,0,0,18,14,32
+GUAYARAMERIN,otras infecciones,malaria,2007-12-01,21,18,95,100,323,271,605,503,36,24,1080,916,1996
+HUACARETA,otras infecciones,malaria,2007-12-01,0,0,0,1,0,2,0,2,0,0,0,5,5
+INCAHUASI,otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,2,3,0,1,2,4,6
+IXIAMAS,otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+LA ASUNTA,otras infecciones,malaria,2007-12-01,0,0,1,0,0,0,5,1,0,1,6,2,8
+LA PAZ,otras infecciones,malaria,2007-12-01,0,0,0,0,1,2,25,7,2,1,28,10,38
+MAPIRI,otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,16,8,1,2,17,10,27
+MOJOCOYA,otras infecciones,malaria,2007-12-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+MONTEAGUDO,otras infecciones,malaria,2007-12-01,0,0,1,1,2,1,3,2,0,0,6,4,10
+NUEVO MANOA (NUEVA ESPERANZA),otras infecciones,malaria,2007-12-01,0,0,0,1,1,1,1,1,0,0,2,3,5
+OMEREQUE,otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+PADCAYA,otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+PADILLA,otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,2,1,2,2,4,3,7
+PALOS BLANCOS,otras infecciones,malaria,2007-12-01,0,0,2,1,2,5,17,4,0,1,21,11,32
+PAMPA GRANDE,otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+POROMA,otras infecciones,malaria,2007-12-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+PORONGO,otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,0,3,0,0,0,3,3
+PORVENIR,otras infecciones,malaria,2007-12-01,0,0,0,0,0,1,4,0,0,0,4,1,5
+PUERTO GONZALO MORENO,otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,1,2,0,0,1,2,3
+PUERTO RICO,otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+REYES,otras infecciones,malaria,2007-12-01,0,0,0,0,0,2,0,0,0,0,0,2,2
+RIBERALTA,otras infecciones,malaria,2007-12-01,91,69,438,399,1280,1147,3494,2063,248,76,5551,3754,9305
+SAMAIPATA,otras infecciones,malaria,2007-12-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN BORJA,otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,10,0,0,0,10,0,10
+SAN BUENA VENTURA,otras infecciones,malaria,2007-12-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN CARLOS,otras infecciones,malaria,2007-12-01,1,0,1,1,0,0,4,4,1,0,7,5,12
+SAN IGNACIO DE VELASCO,otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+SAN JOAQUIN,otras infecciones,malaria,2007-12-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN LORENZO(PND),otras infecciones,malaria,2007-12-01,0,0,0,0,3,0,5,3,1,1,9,4,13
+SAN LUCAS,otras infecciones,malaria,2007-12-01,0,0,1,0,0,1,2,5,0,0,3,6,9
+SAN PEDRO DE BUENA VISTA,otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+SANTA ANA,otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,otras infecciones,malaria,2007-12-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+SANTA ROSA,otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+SENA,otras infecciones,malaria,2007-12-01,0,0,0,0,1,1,2,1,0,0,3,2,5
+SORATA,otras infecciones,malaria,2007-12-01,1,0,0,0,0,0,0,0,0,0,1,0,1
+TACOPAYA,otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+TARIJA,otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+TARVITA,otras infecciones,malaria,2007-12-01,0,0,0,0,0,1,1,1,0,0,1,2,3
+TEOPONTE,otras infecciones,malaria,2007-12-01,1,1,9,7,26,34,37,45,3,1,76,88,164
+TIRAQUE (CBBA),otras infecciones,malaria,2007-12-01,0,0,0,2,0,2,0,0,0,0,0,4,4
+TOMINA,otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+TORO TORO,otras infecciones,malaria,2007-12-01,0,0,0,0,3,1,1,2,0,0,4,3,7
+TOTORA(CBBA),otras infecciones,malaria,2007-12-01,0,0,0,0,1,0,0,0,1,0,2,0,2
+VALLEGRANDE,otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+VILA VILA,otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+VILLA NUEVA (LOMA ALTA),otras infecciones,malaria,2007-12-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+VILLA TUNARI,otras infecciones,malaria,2007-12-01,0,0,1,3,3,5,28,33,8,2,40,43,83
+VILLA VACA GUZMAN (MUYUPAMPA),otras infecciones,malaria,2007-12-01,0,0,1,1,2,5,3,5,0,0,6,11,17
+YACUIBA,otras infecciones,malaria,2007-12-01,0,0,0,0,1,1,5,1,0,0,6,2,8
+YAPACANI,otras infecciones,malaria,2007-12-01,0,0,1,0,3,1,1,2,0,0,5,3,8

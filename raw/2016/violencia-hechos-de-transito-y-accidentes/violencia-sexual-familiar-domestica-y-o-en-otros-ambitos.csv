@@ -1,0 +1,514 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 m a menor de 1 año,b. 6 m a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,TOTAL-M,TOTAL-F,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+"CAIZA ""D""","violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+CAMIRI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,1,2,1,1,1,0,1,0,0,0,0,3,4,7
+CARAPARI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+CLIZA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COCHABAMBA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+"COLCHA ""K""","violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+COLQUECHACA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+COMARAPA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+EL ALTO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,1,2,2,0,0,6,0,6,2,11,0,2,0,2,0,0,5,29,34
+GUAYARAMERIN,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,1,3,4
+INCAHUASI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+LA GUARDIA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LA PAZ,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,2,2,4,6
+LAJA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+LAS CARRERAS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MAPIRI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2,2
+MONTEAGUDO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+MOROCHATA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+OMEREQUE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ORURO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+PALOS BLANCOS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+POCONA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+POTOSI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,1,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,5,5
+PUERTO VILLARROEL,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,4,4
+PUNATA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,3,3
+QUILLACOLLO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+RURRENABAQUE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SACABA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN MATIAS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA ANA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,3,1,3,1,5,0,2,0,1,0,0,2,14,16
+SUCRE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,2,3
+TARIJA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+TIPUANI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+TOTORA(CBBA),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+TOTORA(ORR),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+TUPIZA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VIACHA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+VILLA MONTES,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+VILLA RIVERO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+VILLA VACA GUZMAN (MUYUPAMPA),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+WARNES,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+YAPACANI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-01-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+APOLO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+BOLPEBRA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BUENA VISTA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+CAMARGO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,2,3
+CAMIRI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,1,1,0,1,2,0,0,0,0,0,0,2,3,5
+CHULUMANI (V. DE LA LIBERTAD),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+CLIZA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+COCHABAMBA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+COMARAPA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,1,0,0,0,1,4,5
+CONCEPCION,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+EL ALTO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,1,0,0,2,1,0,1,0,2,7,0,1,1,0,0,1,0,0,6,11,17
+EL TORNO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+GUAYARAMERIN,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,1,0,1,7,8
+INCAHUASI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+LA PAZ,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,2,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,6,6
+LAGUNILLAS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+LAS CARRERAS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+MAIRANA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+MONTEAGUDO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MOROCHATA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+ORURO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+POCONA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+POTOSI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,3,3
+PUERTO VILLARROEL,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+PUNA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,1,3
+PUNATA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+RIBERALTA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,1,4,5
+ROBORE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SACACA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+SAN LORENZO(PND),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,1,0,3,0,0,1,9,0,16,0,0,0,0,0,0,1,29,30
+SIPE SIPE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SUCRE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,1,0,0,0,0,6,1,19,8,3,0,0,2,2,1,30,13,43
+TOTORA(ORR),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+TUPIZA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+UNCIA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2,3
+URUBICHA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+UYUNI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+VILLA VACA GUZMAN (MUYUPAMPA),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+WARNES,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,2,4
+YAPACANI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+AIQUILE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,1,2,3,5
+ANDAMARCA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ASCENCION DE GUARAYOS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+BATALLAS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BUENA VISTA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+CAMARGO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CAMIRI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+CHARAGUA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COBIJA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCAPATA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+COCHABAMBA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,1,0,2,3,1,0,0,0,0,1,4,4,8
+COLPA BELGICA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+COMARAPA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+EL ALTO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,1,0,0,0,1,2,0,2,0,1,0,9,2,6,0,1,0,1,1,1,5,23,28
+GUAYARAMERIN,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,3,0,2,1,1,1,1,0,0,0,7,2,9
+HUACARETA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+INCAHUASI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+JESUS DE MACHACA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+LA GUARDIA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+LA PAZ,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,1,0,1,1,0,0,0,0,12,1,4,0,0,0,0,0,0,2,18,20
+MAIRANA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+MONTEAGUDO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+OCURI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+ORURO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+POCONA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,1,0,1,3,4
+POTOSI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,1,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,5,5
+PUERTO VILLARROEL,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1,0,0,0,0,1,3,4
+SACABA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SACACA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAMAIPATA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN IGNACIO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2
+SAN JUAN DE YAPACANI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN MATIAS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN MIGUEL DE VELASCO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,13,0,3,0,0,0,0,0,0,0,16,16
+SENA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SICA SICA (VILLA AROMA),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+SUCRE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,1,0,2,4,4,35,6,13,1,1,2,1,0,54,16,70
+TOTORA(ORR),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TUPIZA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+UMALA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+UYUNI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VALLEGRANDE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+VILLA MONTES,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA TUNARI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+WARNES,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,0,2
+YAPACANI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+AIQUILE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,0,0,0,0,0,0,4,4
+BAURES,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CAMIRI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+CHALLAPATA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CHULUMANI (V. DE LA LIBERTAD),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+COCHABAMBA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COMARAPA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,2,0,0,0,1,1,5,6
+COTOCA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+DESAGUADERO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+EL ALTO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,1,2,0,0,0,0,0,2,0,14,3,6,1,1,0,1,0,0,5,26,31
+ENTRE RIOS CBBA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,1,3,4
+EUREKA (SANTOS MERCADO),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+GUAYARAMERIN,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,1,1,0,0,4,2,6
+HUANUNI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+LA PAZ,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,6,0,6
+LAGUNILLAS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+LLALLAGUA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MAPIRI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+MIZQUE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+MONTEAGUDO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MONTERO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+POCONA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,1,1,4,5
+POTOSI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,3,3
+PUERTO ACOSTA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+PUERTO QUIJARRO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO VILLARROEL,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,1,1,0,2,1,0,0,0,0,1,0,4,2,6
+RIBERALTA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SACABA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+SAN LUCAS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,3,3
+SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,1,0,0,0,1,3,0,4,0,1,0,0,0,0,2,8,10
+SUCRE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,1,1,2,2,8,8,0,0,1,1,5,3,24,27,3,2,0,1,0,3,44,48,92
+TINGUIPAYA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+TOMAVE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+TUPIZA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+UNCIA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+UYUNI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+VALLEGRANDE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA SERRANO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,2
+WARNES,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,1,1,0,0,3,2,0,0,0,0,0,0,1,0,0,0,0,0,2,1,7,4,11
+YAPACANI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+AIQUILE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,1,0,0,0,0,0,5,5
+ATOCHA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CAMIRI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CHULUMANI (V. DE LA LIBERTAD),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+COCHABAMBA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,0,0,4,1,1,0,0,0,0,0,0,1,5,6
+COMARAPA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,1,0,0,0,5,5
+COROICO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL ALTO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,1,1,0,6,1,7,0,0,0,0,0,0,2,14,16
+EUREKA (SANTOS MERCADO),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+FILADELFIA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+INQUISIVI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+IRUPANA (VILLA DE LANZA),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+LA GUARDIA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA PAZ,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,1,0,16,2,1,0,0,0,2,0,0,2,20,22
+MAPIRI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+MINEROS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+MONTERO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+MOROCHATA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+ORURO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+PAILON,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+POTOSI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1,3,4
+PUERTO RICO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+PUERTO VILLARROEL,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1,0,1,0,0,0,3,5,8
+PUNATA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+RIBERALTA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,2,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,2,3,5
+SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+SAN JAVIER(STC),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,0,0,8,0,3,0,2,0,0,0,0,0,13,13
+SENA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SUCRE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+TARVITA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+TEOPONTE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+TRINIDAD,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TUPIZA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+UNCIA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VIACHA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,3
+VILLA TUNARI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+AIQUILE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,0,0,0,2,2,4
+ASCENCION DE GUARAYOS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,4,0,4
+BETANZOS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+CABEZAS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CAMIRI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,1,0,1,1,4,0,0,0,0,0,0,1,6,7
+CHUMA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COCHABAMBA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,2,2,4
+COMARAPA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,4,0,4
+EL ALTO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,1,0,0,0,0,0,0,0,0,1,1,4,0,7,0,2,0,0,1,0,3,14,17
+EL PUENTE(STC),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+GUAYARAMERIN,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,1,2,3
+LA PAZ,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,0,0,27,2,1,1,0,0,0,0,0,3,28,31
+MAPIRI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,0,2
+MOROCHATA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+NACEBE (SANTA ROSA DEL ABUNA),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+POROMA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+PORONGO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+PORVENIR,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+POTOSI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,1,0,0,0,0,0,0,7,1,2,1,0,0,0,0,0,3,9,12
+PUERTO SUAREZ,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+PUERTO VILLARROEL,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,1,0,0,0,0,1,5,6
+PUNA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+RIBERALTA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,3,3
+SACACA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,0,0,1,0,5,5
+SAN BORJA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN JAVIER(STC),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,2
+SAN LORENZO(PND),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN MATIAS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAN PEDRO DE BUENA VISTA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,1,0,0,0,0,0,4,0,5,0,1,0,0,0,0,0,11,11
+SUCRE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TARVITA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+TIPUANI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+UNCIA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+UYUNI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+VILLA TUNARI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+WARNES,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+YOTALA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ACHACACHI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+AIQUILE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,2,1,0,0,3,3,6
+ASCENCION DE GUARAYOS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BETANZOS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CAMIRI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CLIZA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COCHABAMBA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,0,0,0,1,5,1,1,0,0,0,0,0,6,2,8
+COMARAPA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,4,4
+EL ALTO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,1,2,1,0,4,0,4,1,7,0,1,0,0,0,0,3,18,21
+EL TORNO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+GUAYARAMERIN,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,1,3,3,6
+HUACARETA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+HUANUNI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,1,0,0,0,0,1,4,5
+LA PAZ,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,1,4,0,11,0,7,0,2,0,0,0,0,1,24,25
+MACHARETI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MONTERO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ORURO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+POCONA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+POTOSI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+PUERTO VILLARROEL,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,0,0,1,3,3,5,0,0,0,0,0,0,4,8,12
+RIBERALTA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,5,5
+RURRENABAQUE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+SACACA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN LORENZO(PND),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN LUCAS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SAN PEDRO DE BUENA VISTA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,1,0,0,3,2,5
+SAN RAMON BENI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,1,0,0,0,0,0,10,0,8,0,0,0,0,1,0,1,19,20
+SICA SICA (VILLA AROMA),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+SUCRE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+TINGUIPAYA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+UNCIA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+UYUNI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA VACA GUZMAN (MUYUPAMPA),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,2
+AIQUILE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,2,2,1,1,1,1,0,0,0,4,4,8
+APOLO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+ARAMPAMPA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BOLPEBRA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,2,3
+CAMIRI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+CARANAVI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CHIMORE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CLIZA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+COCHABAMBA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+COMARAPA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,1,0,1,0,0,0,4,0,0,0,0,0,0,0,6,6
+CORIPATA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+COROICO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+EL ALTO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,3,3,0,0,0,0,2,3,0,7,1,7,1,7,1,2,0,1,0,0,8,30,38
+ESCOMA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+FILADELFIA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+GUAYARAMERIN,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,3,3,1,7,1,2,2,1,0,0,7,13,20
+LA GUARDIA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA PAZ,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,3,0,21,0,0,0,0,0,0,0,0,0,24,24
+MAIRANA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+MIZQUE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+MOJOCOYA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+OMEREQUE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PALOS BLANCOS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,3,3
+PATACAMAYA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,1,8,8,1,16,3,1,8,9,9,8,1,43,30,73
+POCONA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PORVENIR,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+POTOSI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,1,1,1,1,3,6,0,2,0,2,0,0,0,1,5,13,18
+PUERTO VILLARROEL,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+RIBERALTA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,4,4
+ROBORE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SACABA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,1,2,2,2,1,0,3,0,21,3,2,0,1,0,3,2,34,9,43
+SAN ANDRES,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SAN BORJA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3,3
+SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,1,0,0,0,1,2,0,16,0,11,0,4,0,2,0,5,2,40,42
+SANTA ROSA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SICA SICA (VILLA AROMA),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SUCRE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,2
+TAPACARI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TITO YUPANQUI (PARQUIPUJIO),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+TOLATA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TUPIZA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+UNCIA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,1,0,2,2,1,0,2,0,1,0,7,2,9
+UYUNI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+VILLA CHARCAS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+VILLA MONTES,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+VILLA SERRANO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+VILLA VACA GUZMAN (MUYUPAMPA),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+YACUIBA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+YOTALA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+YUNCHARA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+AIQUILE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1,1,0,0,0,0,5,1,6
+ASCENCION DE GUARAYOS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+CAMIRI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CAPINOTA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CARACOLLO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CHALLAPATA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+COCHABAMBA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COLCAPIRHUA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COLQUECHACA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+COMARAPA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,1,3,4
+CORQUE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL ALTO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,3,3,0,1,1,0,2,3,0,9,2,10,0,5,0,2,0,0,0,0,8,33,41
+EL TORNO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,1,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,4,4
+EL VILLAR,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+GUAYARAMERIN,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,3,1,4
+LA ASUNTA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+LA GUARDIA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+LA PAZ,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,1,0,1,0,0,2,0,23,0,3,0,0,0,0,1,0,3,28,31
+MAPIRI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PATACAMAYA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+POCONA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,0,1,0,0,0,7,7
+POTOSI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,3,0,10,0,0,0,0,0,0,0,0,0,13,13
+PUERTO VILLARROEL,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1,0,0,0,0,0,5,5
+PUNATA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+RAVELO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,2,4
+RIBERALTA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2
+ROBORE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,2
+RURRENABAQUE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SACACA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+SAN LUCAS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,8,0,6,0,10,0,9,0,4,0,0,0,37,37
+SANTIAGO DE CALLAPA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SENA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SHINAOTA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SOPACHUY,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+TARIJA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TARVITA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+TOTORA(ORR),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+TUPIZA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2,2
+UNCIA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,2,1,5,6
+UYUNI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA MONTES,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+AIQUILE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,2,1,1,0,3,6,9
+ASCENCION DE GUARAYOS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+ATOCHA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+BATALLAS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+CAMARGO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+CAMIRI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CARANAVI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CHALLAPATA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CHARAGUA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CLIZA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+COMARAPA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,3,3
+EL ALTO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,2,0,0,0,1,0,1,3,1,0,1,8,0,10,0,1,0,0,0,1,6,23,29
+EL TORNO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+ENTRE RIOS CBBA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+GUAYARAMERIN,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,0,1,3,3,4,0,0,0,0,0,0,4,7,11
+LA PAZ,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,1,0,0,0,1,0,8,0,1,0,0,0,0,0,0,0,11,11
+MAGDALENA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+MONTEAGUDO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+MOROCHATA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+PATACAMAYA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+POCONA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,2,1,3
+PORVENIR,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+POTOSI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,0,0,1,1,2,4,6
+PUNATA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+RIBERALTA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2
+SACABAMBA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAMAIPATA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN BORJA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN LUCAS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,1,0,3,1,8,2,9,0,9,0,3,0,0,3,33,36
+SUCRE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+TARVITA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TOMINA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,2,3
+VIACHA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+VILLA MONTES,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+YOTALA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ZUDAÑEZ,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+AIQUILE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,1,1,0,1,0,5,0,0,0,0,0,2,1,9,10
+ARANI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ATOCHA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2
+CABEZAS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+CAMIRI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,2
+CARANAVI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,3,3
+CHALLAPATA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+CHULUMANI (V. DE LA LIBERTAD),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CLIZA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,1,0,0,3,4,7
+COCHABAMBA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+COLCAPIRHUA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+COMARAPA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,1,0,0,1,2,1,0,0,0,0,0,2,3,5
+CORIPATA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL ALTO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,3,1,0,0,0,2,0,1,0,1,0,4,1,5,0,1,0,0,0,1,4,16,20
+EL PUENTE(STC),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+EL TORNO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+EL VILLAR,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+EXALTACION,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+GUAYARAMERIN,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,2,0,1,1,0,5,6,11
+HUARINA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA PAZ,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,21,2,3,2,0,0,0,2,1,6,25,31
+MAGDALENA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+MAIRANA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MAPIRI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,2,3
+MIZQUE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+MONTERO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PATACAMAYA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+POCONA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,3,1,4
+PORVENIR,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+POTOSI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+PUCARANI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+PUERTO VILLARROEL,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+PUNA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,1,3
+PUNATA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+RIBERALTA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,1,0,2,1,0,0,0,0,1,0,0,0,0,1,4,5
+ROBORE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SACABA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SAMAIPATA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN BORJA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,2,4,6
+SAN LORENZO(PND),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN PEDRO DE BUENA VISTA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+SANTA ANA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,1,0,10,0,10,0,15,0,13,0,5,0,0,0,54,54
+SENA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SICA SICA (VILLA AROMA),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+SUCRE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5,3,0,1,0,0,7,5,12
+TARABUCO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+TARVITA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TIQUIPAYA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,1,4,0,5,0,10,0,4,0,0,0,0,1,23,24
+TUPIZA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+UNCIA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,4,4
+VILA VILA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+VILLA MONTES,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+VILLA VACA GUZMAN (MUYUPAMPA),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-11-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+AIQUILE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,1,0,0,3,3,2,1,1,1,0,0,6,6,12
+ANTEQUERA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ASCENCION DE GUARAYOS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+BETANZOS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+CAMIRI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+CHIPAYA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+CHULUMANI (V. DE LA LIBERTAD),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CHUQUIHUTA AYLLU JUCUMANI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CLIZA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+COCHABAMBA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+COLQUECHACA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+COMARAPA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,2,2,4
+COTOCA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL ALTO,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,1,0,0,0,2,0,0,0,0,1,0,4,0,10,0,1,0,1,0,0,3,17,20
+GUAQUI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+GUAYARAMERIN,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,1,0,0,0,3,2,5
+LA PAZ,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,0,0,0,0,1,1,5,6
+MIZQUE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,2
+POCONA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+POTOSI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO VILLARROEL,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,1,0,3,1,2,2,1,2,0,0,0,0,7,5,12
+PUNA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUNATA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+ROBORE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+RURRENABAQUE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SAN BUENA VENTURA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SAN LUCAS,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,1,1,0,0,4,1,8,2,8,0,4,0,2,0,0,4,27,31
+SICA SICA (VILLA AROMA),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+SORATA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SUCRE,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TACOPAYA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TARVITA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+TIQUIPAYA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,4,4
+TRINIDAD,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+UNCIA,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+UYUNI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+VILLA MONTES,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA TUNARI,"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+VILLA VACA GUZMAN (MUYUPAMPA),"violencia, hechos de transito y accidentes","violencia sexual (familiar, domestica y/o en otros ambitos)",2016-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1

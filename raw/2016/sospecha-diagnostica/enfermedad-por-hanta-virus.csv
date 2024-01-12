@@ -1,0 +1,41 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,TOTAL-M,TOTAL-F,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+MACHARETI,sospecha diagnostica,enfermedad por hanta virus,2016-01-01,0,0,0,0,0,0,0,0,1,2,1,0,4,5,0,0,1,0,1,0,8,7,15
+SAN JULIAN,sospecha diagnostica,enfermedad por hanta virus,2016-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2016-01-01,0,0,0,0,0,0,0,0,0,0,2,1,2,2,0,0,0,0,0,0,4,3,7
+TARIJA,sospecha diagnostica,enfermedad por hanta virus,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+YACUIBA,sospecha diagnostica,enfermedad por hanta virus,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+BERMEJO,sospecha diagnostica,enfermedad por hanta virus,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MACHARETI,sospecha diagnostica,enfermedad por hanta virus,2016-02-01,0,0,0,0,1,0,1,1,1,5,2,4,9,10,2,3,1,2,3,0,20,25,45
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+EL TORNO,sospecha diagnostica,enfermedad por hanta virus,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MACHARETI,sospecha diagnostica,enfermedad por hanta virus,2016-03-01,0,0,0,0,0,0,2,0,0,0,4,1,3,6,2,1,1,1,0,4,12,13,25
+SAN JULIAN,sospecha diagnostica,enfermedad por hanta virus,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2016-03-01,0,0,0,0,0,0,0,1,2,0,0,0,0,1,1,2,0,1,1,2,4,7,11
+WARNES,sospecha diagnostica,enfermedad por hanta virus,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MACHARETI,sospecha diagnostica,enfermedad por hanta virus,2016-04-01,0,0,0,0,0,0,0,0,1,3,2,0,2,3,1,0,2,0,1,0,9,6,15
+MONTEAGUDO,sospecha diagnostica,enfermedad por hanta virus,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN JULIAN,sospecha diagnostica,enfermedad por hanta virus,2016-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2016-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,2,1,3
+MACHARETI,sospecha diagnostica,enfermedad por hanta virus,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0,2,1,5,2,7
+BERMEJO,sospecha diagnostica,enfermedad por hanta virus,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MACHARETI,sospecha diagnostica,enfermedad por hanta virus,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+PADCAYA,sospecha diagnostica,enfermedad por hanta virus,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+SAN PEDRO,sospecha diagnostica,enfermedad por hanta virus,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,2,1,0,3,3,6
+CARANAVI,sospecha diagnostica,enfermedad por hanta virus,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2016-08-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,2,2,4
+YACUIBA,sospecha diagnostica,enfermedad por hanta virus,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+SUCRE,sospecha diagnostica,enfermedad por hanta virus,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BERMEJO,sospecha diagnostica,enfermedad por hanta virus,2016-10-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+PADCAYA,sospecha diagnostica,enfermedad por hanta virus,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,1,3,4
+TARIJA,sospecha diagnostica,enfermedad por hanta virus,2016-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,3
+BERMEJO,sospecha diagnostica,enfermedad por hanta virus,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN JULIAN,sospecha diagnostica,enfermedad por hanta virus,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TARIJA,sospecha diagnostica,enfermedad por hanta virus,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1

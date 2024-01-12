@@ -1,0 +1,391 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,TOTAL-M,TOTAL-F,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+BOLPEBRA,sospecha diagnostica,chikungunya,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+BUENA VISTA,sospecha diagnostica,chikungunya,2016-01-01,0,0,0,0,0,0,0,0,0,0,1,0,2,3,1,1,0,0,0,0,4,4,8
+CAMIRI,sospecha diagnostica,chikungunya,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CARAPARI,sospecha diagnostica,chikungunya,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CHARAGUA,sospecha diagnostica,chikungunya,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CHIMORE,sospecha diagnostica,chikungunya,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+COBIJA,sospecha diagnostica,chikungunya,2016-01-01,0,2,1,0,3,6,12,8,8,11,6,5,20,53,4,16,6,10,5,15,65,126,191
+COCHABAMBA,sospecha diagnostica,chikungunya,2016-01-01,0,0,1,0,2,1,0,2,7,2,4,3,10,18,10,3,3,13,3,5,40,47,87
+CUEVO,sospecha diagnostica,chikungunya,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+EL TORNO,sospecha diagnostica,chikungunya,2016-01-01,1,0,1,0,2,2,3,4,3,3,4,9,15,16,2,6,2,5,2,0,35,45,80
+FILADELFIA,sospecha diagnostica,chikungunya,2016-01-01,0,0,0,0,0,0,1,0,0,1,0,1,1,3,0,1,0,0,0,0,2,6,8
+LA GUARDIA,sospecha diagnostica,chikungunya,2016-01-01,0,1,0,0,4,10,5,6,3,8,3,9,4,22,2,6,0,1,1,2,22,65,87
+LA PAZ,sospecha diagnostica,chikungunya,2016-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+MACHARETI,sospecha diagnostica,chikungunya,2016-01-01,0,0,0,0,0,0,0,0,1,2,1,0,3,4,0,0,0,0,0,0,5,6,11
+MONTERO,sospecha diagnostica,chikungunya,2016-01-01,1,0,0,0,2,1,1,0,2,1,0,4,8,9,0,4,1,2,2,0,17,21,38
+PORVENIR,sospecha diagnostica,chikungunya,2016-01-01,0,0,0,0,0,0,1,1,0,1,2,1,0,2,0,1,0,0,0,0,3,6,9
+PUERTO RICO,sospecha diagnostica,chikungunya,2016-01-01,0,0,0,0,0,0,1,0,1,0,1,2,3,2,1,0,0,0,0,0,7,4,11
+PUERTO VILLARROEL,sospecha diagnostica,chikungunya,2016-01-01,0,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,2,3,5
+QUILLACOLLO,sospecha diagnostica,chikungunya,2016-01-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,2,3
+RIBERALTA,sospecha diagnostica,chikungunya,2016-01-01,5,5,6,9,37,33,43,47,30,41,27,36,78,103,27,29,17,21,7,17,277,341,618
+ROBORE,sospecha diagnostica,chikungunya,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,0,0,0,0,2,3,5
+SACABA,sospecha diagnostica,chikungunya,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+SAN ANDRES,sospecha diagnostica,chikungunya,2016-01-01,0,0,0,0,0,0,0,0,0,0,1,0,1,4,0,1,1,0,2,0,5,5,10
+SAN BORJA,sospecha diagnostica,chikungunya,2016-01-01,0,0,0,0,5,3,1,1,1,2,0,4,0,9,0,1,0,4,1,8,8,32,40
+SAN CARLOS,sospecha diagnostica,chikungunya,2016-01-01,1,0,0,1,1,6,0,3,5,4,5,0,9,12,0,4,0,2,3,1,24,33,57
+SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2016-01-01,0,0,0,0,1,1,0,1,1,2,1,3,4,6,0,0,0,0,0,1,7,14,21
+SAN MIGUEL DE VELASCO,sospecha diagnostica,chikungunya,2016-01-01,0,0,0,0,0,0,0,0,1,0,1,1,1,2,0,0,1,0,0,1,4,4,8
+SAN RAMON SCZ,sospecha diagnostica,chikungunya,2016-01-01,0,2,0,0,0,2,2,0,4,0,3,3,2,2,3,1,0,0,0,0,14,10,24
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2016-01-01,1,3,3,1,8,7,7,3,8,9,3,7,22,21,2,7,0,3,1,4,55,65,120
+SUCRE,sospecha diagnostica,chikungunya,2016-01-01,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+TARIJA,sospecha diagnostica,chikungunya,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,chikungunya,2016-01-01,0,0,0,0,0,0,0,0,5,2,7,6,35,38,8,18,8,18,2,7,65,89,154
+VILLA TUNARI,sospecha diagnostica,chikungunya,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,1,0,0,0,1,4,5,9
+WARNES,sospecha diagnostica,chikungunya,2016-01-01,0,0,0,0,0,0,2,1,7,0,1,4,1,8,1,2,0,0,0,0,12,15,27
+YACUIBA,sospecha diagnostica,chikungunya,2016-01-01,0,1,0,0,3,0,3,1,1,2,5,5,15,16,8,5,2,4,1,2,38,36,74
+YAPACANI,sospecha diagnostica,chikungunya,2016-01-01,3,2,1,2,13,17,25,22,28,24,16,36,38,63,24,18,9,16,7,11,164,211,375
+BUENA VISTA,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,1,3,2,1,0,1,1,2,3,11,1,1,1,0,2,1,11,20,31
+CAMIRI,sospecha diagnostica,chikungunya,2016-02-01,0,0,2,0,1,1,3,8,11,8,4,8,14,34,6,7,1,2,5,18,47,86,133
+CARAPARI,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,3,3
+CHARAGUA,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,2
+COBIJA,sospecha diagnostica,chikungunya,2016-02-01,0,2,0,3,9,8,13,12,13,19,15,32,50,91,19,34,17,22,15,22,151,245,396
+COCHABAMBA,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,1,0,0,2,0,1,3,2,2,13,20,6,0,2,3,0,1,26,30,56
+COLPA BELGICA,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,0,0,2,0,1,0,2,0,5,0,0,0,0,1,1,1,11,12
+COTOCA,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,1,0,0,2,3,4,7
+CUEVO,sospecha diagnostica,chikungunya,2016-02-01,0,0,1,0,1,0,4,1,2,2,0,0,1,8,1,6,5,6,3,3,18,26,44
+EL TORNO,sospecha diagnostica,chikungunya,2016-02-01,2,1,1,0,16,13,20,25,24,30,43,54,65,135,12,22,7,20,14,19,204,319,523
+ENTRE RIOS CBBA,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+LA GUARDIA,sospecha diagnostica,chikungunya,2016-02-01,1,3,0,1,18,12,19,25,19,20,9,12,38,71,6,7,7,9,5,7,122,167,289
+MACHARETI,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,1,0,1,0,0,1,1,1,2,0,0,0,0,0,0,0,5,2,7
+MAIRANA,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,0,1,0,1,0,0,1,2,0,0,0,1,0,0,0,5,1,6
+MONTERO,sospecha diagnostica,chikungunya,2016-02-01,0,1,0,0,0,1,0,3,5,3,5,4,7,18,2,7,1,3,1,2,21,42,63
+NUEVO MANOA (NUEVA ESPERANZA),sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+PORTACHUELO,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PORVENIR,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,2,0,2,4,2,4,4,2,10,18,1,2,1,3,3,5,25,38,63
+PUERTO GONZALO MORENO,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,0,1,0,0,2,0,0,1,0,0,1,0,0,2,0,4,3,7
+PUERTO RICO,sospecha diagnostica,chikungunya,2016-02-01,0,1,0,0,2,8,2,9,9,7,10,8,23,25,4,10,3,1,0,3,53,72,125
+PUERTO VILLARROEL,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+QUILLACOLLO,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,0,0,0,0,0,1,1,2,5,1,2,0,0,0,0,4,8,12
+REYES,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,0,1,0,1,0,0,0,2,0,0,0,0,0,2,1,6,1,7
+RIBERALTA,sospecha diagnostica,chikungunya,2016-02-01,6,1,11,4,17,18,35,82,22,30,17,24,30,44,18,26,3,10,7,18,166,257,423
+ROBORE,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,0,1,0,4,2,6
+SACABA,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,2,4
+SAMAIPATA,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+SAN ANDRES,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,0,2,0,1,1,0,6,2,4,0,1,0,2,2,0,7,14,21
+SAN BORJA,sospecha diagnostica,chikungunya,2016-02-01,0,0,1,0,0,3,1,3,1,0,5,3,4,8,2,6,0,4,1,3,15,30,45
+SAN CARLOS,sospecha diagnostica,chikungunya,2016-02-01,2,2,0,1,10,2,3,2,3,9,4,9,8,23,2,4,2,2,3,2,37,56,93
+SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,1,3,3,2,3,0,2,5,4,10,0,2,1,3,2,1,16,26,42
+SAN JAVIER(BNI),sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN JOAQUIN,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+SAN JUAN DE YAPACANI,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,0,0,0,0,0,1,2,2,2,0,0,0,0,0,0,3,4,7
+SAN LORENZO(PND),sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,3,2,5
+SAN MIGUEL DE VELASCO,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,4,2,1,0,1,2,0,2,1,12,2,5,0,2,0,3,9,28,37
+SAN PEDRO,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,0,4,2,6
+SAN RAFAEL,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,0,1,0,0,0,0,1,0,2,1,0,0,0,0,1,2,4,6
+SAN RAMON SCZ,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,1,0,2,3,5
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2016-02-01,7,6,7,6,14,29,21,22,29,26,30,37,55,147,18,32,11,26,18,29,210,360,570
+SANTA ROSA DEL SARA,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,0,0,0,1,2,0,1,0,1,0,0,1,0,0,0,2,4,6
+SHINAOTA,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,1,0,0,1,2,1,2,6,6,2,10,1,0,1,0,12,21,33
+SUCRE,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,1,3,1,1,1,1,0,1,1,6,4,10
+TAPACARI,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+TARIJA,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,6,3,5,4,6,4,20,11,66,86,17,31,13,25,18,9,151,173,324
+VILLA TUNARI,sospecha diagnostica,chikungunya,2016-02-01,1,0,1,1,15,13,16,11,20,26,21,25,43,61,11,10,15,17,7,7,150,171,321
+WARNES,sospecha diagnostica,chikungunya,2016-02-01,0,0,0,0,0,0,6,4,9,6,6,21,21,27,6,4,2,1,3,4,53,67,120
+YACUIBA,sospecha diagnostica,chikungunya,2016-02-01,0,2,0,0,10,4,10,25,26,23,13,28,69,119,16,37,26,24,18,24,188,286,474
+YAPACANI,sospecha diagnostica,chikungunya,2016-02-01,0,2,2,2,9,6,23,13,13,14,18,22,32,65,12,10,6,10,2,9,117,153,270
+BUENA VISTA,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,5,1,4,4,2,6,2,5,7,23,3,3,1,2,2,4,26,48,74
+CABEZAS,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+CAMIRI,sospecha diagnostica,chikungunya,2016-03-01,5,1,5,1,38,30,33,26,42,33,34,49,86,128,32,41,14,37,32,46,321,392,713
+CARAPARI,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,1,1,0,0,0,1,1,1,5,0,1,0,0,0,0,3,8,11
+CHARAGUA,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,2,0,1,1,1,3,2,0,2,9,0,0,0,1,2,0,10,14,24
+CHIMORE,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+COBIJA,sospecha diagnostica,chikungunya,2016-03-01,3,1,0,2,6,7,9,14,17,17,13,13,65,89,21,30,5,13,14,8,153,194,347
+COCHABAMBA,sospecha diagnostica,chikungunya,2016-03-01,0,0,1,0,0,0,2,0,2,1,2,0,18,15,5,2,4,0,1,3,35,21,56
+COLPA BELGICA,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,0,2,0,5,5,3,4,14,1,5,0,3,0,0,10,32,42
+COTOCA,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,2,7,3,1,3,3,3,9,20,1,6,0,1,3,1,24,39,63
+CUEVO,sospecha diagnostica,chikungunya,2016-03-01,0,1,0,1,3,0,1,1,4,4,6,5,7,13,2,4,2,5,7,8,32,42,74
+EL TORNO,sospecha diagnostica,chikungunya,2016-03-01,9,7,4,2,30,30,40,51,51,58,64,66,138,229,24,56,20,34,30,34,410,567,977
+ENTRE RIOS CBBA,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,0,0,1,1,2,3,0,2,0,0,0,0,0,0,3,6,9
+FERNANDEZ ALONSO,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+FILADELFIA,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,1,0,3,0,4,1,8,3,1,0,2,0,1,1,20,5,25
+GUAYARAMERIN,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,1,0,0,0,0,0,2,10,0,4,1,0,0,2,4,16,20
+GUTIERREZ,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,2,1,3
+LA GUARDIA,sospecha diagnostica,chikungunya,2016-03-01,2,2,1,1,28,17,34,25,30,23,19,29,52,82,10,15,13,13,12,14,201,221,422
+MACHARETI,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,1,0,1,0,0,0,4,1,4,5,2,1,2,1,0,4,14,12,26
+MAIRANA,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,1,1,0,0,1,1,4,2,1,1,0,1,1,0,8,6,14
+MINEROS,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,1,1,1,3,1,1,1,2,3,5,0,0,0,0,0,0,7,12,19
+MONTERO,sospecha diagnostica,chikungunya,2016-03-01,0,1,1,0,0,0,2,1,2,5,1,3,5,11,1,1,0,2,1,1,13,25,38
+NUEVO MANOA (NUEVA ESPERANZA),sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,0,0,2,0,0,0,3,2,1,0,1,1,0,0,7,3,10
+PORONGO,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,1,0,0,0,0,0,1,0,0,4,0,0,0,0,0,0,2,4,6
+PORTACHUELO,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,0,0,1,1,0,1,3,6,1,2,1,2,0,0,6,12,18
+PORVENIR,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+POTOSI,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+PUERTO GONZALO MORENO,sospecha diagnostica,chikungunya,2016-03-01,1,0,0,0,2,0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,6,2,8
+PUERTO RICO,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,1,2,0,3,3,6,5,5,17,10,1,4,1,1,2,2,30,33,63
+PUERTO VILLARROEL,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+QUILLACOLLO,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,1,3,2,1,0,1,0,1,0,6,3,9
+QUIRUSILLAS,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+REYES,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,0,0,2,0,1,0,3,3,0,0,0,0,1,5,7,8,15
+RIBERALTA,sospecha diagnostica,chikungunya,2016-03-01,1,3,5,8,31,24,22,21,42,27,23,35,44,53,6,41,21,15,12,12,207,239,446
+ROBORE,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,0,0,1,0,0,1,3,5,1,2,0,0,1,1,6,9,15
+SACABA,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+SAMAIPATA,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+SAN ANDRES,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,1,0,0,1,2,0,1,0,3,0,2,0,0,0,0,1,9,10
+SAN BORJA,sospecha diagnostica,chikungunya,2016-03-01,0,0,1,0,0,0,0,0,2,0,0,0,1,2,1,0,0,0,3,0,8,2,10
+SAN CARLOS,sospecha diagnostica,chikungunya,2016-03-01,2,1,3,1,16,4,1,3,5,2,5,6,5,15,0,3,1,2,2,1,40,38,78
+SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2016-03-01,0,0,1,0,1,2,2,1,1,3,2,0,3,7,0,3,2,3,2,0,14,19,33
+SAN JAVIER(BNI),sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,3,0,3
+SAN JUAN DE YAPACANI,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,2,1,1,2,2,4,2,2,3,6,1,0,1,2,0,0,12,17,29
+SAN JULIAN,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,1,1,0,1,0,1,0,3,1,2,2,0,0,1,0,9,4,13
+SAN LORENZO(PND),sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+SAN MIGUEL DE VELASCO,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,1,2,0,1,1,0,0,0,2,1,0,1,0,1,1,2,5,8,13
+SAN PEDRO,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,0,0,0,1,1,0,2,2,0,0,0,0,0,0,3,3,6
+SAN PEDRO(PND),sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,3,0,6,1,7
+SAN RAFAEL,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,1,1,0,0,2,1,2,2,1,0,0,0,0,0,6,4,10
+SAN RAMON SCZ,sospecha diagnostica,chikungunya,2016-03-01,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2,1,3
+SANTA ANA,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2016-03-01,8,16,8,12,83,88,97,87,98,98,78,114,218,381,72,80,38,57,49,65,749,998,1747
+SANTA ROSA DEL SARA,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,2,1,2,2,5,4,3,2,5,12,3,1,0,2,2,0,22,24,46
+SENA,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+SHINAOTA,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,3,8,0,2,0,1,0,1,3,12,15
+SUCRE,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,1,0,1,0,0,0,1,0,8,5,2,1,2,0,1,0,16,6,22
+TRINIDAD,sospecha diagnostica,chikungunya,2016-03-01,1,0,3,2,3,1,9,6,9,7,10,13,48,56,23,24,13,13,17,17,136,139,275
+VILLA TUNARI,sospecha diagnostica,chikungunya,2016-03-01,1,2,2,1,17,7,11,6,5,6,6,6,15,22,1,6,3,4,5,5,66,65,131
+VILLAZON,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+WARNES,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,1,5,5,8,9,10,11,27,27,61,45,7,9,5,11,10,8,133,126,259
+YACUIBA,sospecha diagnostica,chikungunya,2016-03-01,5,3,3,6,25,27,50,42,45,59,51,63,134,210,43,91,25,70,24,40,405,611,1016
+YAPACANI,sospecha diagnostica,chikungunya,2016-03-01,0,0,0,0,1,0,3,3,1,3,0,2,2,8,3,3,1,0,0,1,11,20,31
+BELLA FLOR,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+BOLPEBRA,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+BUENA VISTA,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,1,0,0,0,0,0,2,1,0,1,0,0,0,0,3,2,5
+CABEZAS,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,1,1,2,0,1,1,6,3,1,0,0,0,1,5,12,17
+CAMIRI,sospecha diagnostica,chikungunya,2016-04-01,3,3,1,1,18,17,24,20,23,22,22,21,64,64,17,32,9,21,12,18,193,219,412
+CARAPARI,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,3
+CHARAGUA,sospecha diagnostica,chikungunya,2016-04-01,1,0,0,0,0,2,0,3,2,5,9,6,11,11,2,10,4,2,1,3,30,42,72
+COBIJA,sospecha diagnostica,chikungunya,2016-04-01,1,0,1,0,0,1,3,3,4,2,3,2,21,18,6,5,6,2,4,2,49,35,84
+COCHABAMBA,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,1,1,0,0,0,0,1,5,4,5,4,2,2,2,2,15,14,29
+COLCAPIRHUA,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+COLPA BELGICA,sospecha diagnostica,chikungunya,2016-04-01,1,0,0,0,1,2,1,0,0,3,4,1,3,8,2,2,0,2,0,0,12,18,30
+COTOCA,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,2,5,7,2,4,9,9,5,14,10,25,4,6,1,6,3,0,39,73,112
+CUATRO CAÑADAS,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,2,1,0,0,2,3,0,2,0,1,0,0,4,7,11
+CUEVO,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,1,0,0,4,6,3,1,6,7,5,2,3,0,3,1,1,18,25,43
+EL PUENTE(TJA),sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL TORNO,sospecha diagnostica,chikungunya,2016-04-01,2,1,2,1,25,20,25,26,44,31,44,48,98,143,15,28,11,25,16,20,282,343,625
+EUREKA (SANTOS MERCADO),sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+FERNANDEZ ALONSO,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,5,5
+FILADELFIA,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,0,0,0,4,1,5
+GUAYARAMERIN,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,1,0,1,1,5,6
+GUTIERREZ,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,1,0,0,1,1,2,1,0,0,2,0,0,0,0,3,5,8
+LA GUARDIA,sospecha diagnostica,chikungunya,2016-04-01,0,3,0,0,17,8,14,12,19,18,19,25,47,97,5,20,4,11,10,9,135,203,338
+LA PAZ,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+MACHARETI,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,1,4,4,1,3,4,1,0,3,1,1,0,13,10,23
+MAGDALENA,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MAIRANA,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,1,2,2,2,4,6,2,2,0,2,2,0,11,14,25
+MINEROS,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,3,1,3,0,1,4,2,0,0,1,2,0,1,6,12,18
+MONTERO,sospecha diagnostica,chikungunya,2016-04-01,0,0,1,0,0,0,0,0,2,0,0,2,2,6,0,0,0,0,0,0,5,8,13
+NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+NUEVO MANOA (NUEVA ESPERANZA),sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+OKINAWA,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PAMPA GRANDE,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,2,0,0,1,0,2,1,2,0,0,0,1,0,0,3,6,9
+PASORAPA,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PORONGO,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,1,0,3,4,1,6,4,7,4,18,4,3,0,1,2,4,19,43,62
+PORTACHUELO,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,2,0,0,1,4,5
+PORVENIR,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+PUERTO GONZALO MORENO,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,3,2,5
+PUERTO RICO,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,3,1,4
+QUILLACOLLO,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+QUIRUSILLAS,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,2,1,3
+REYES,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,2,3,5
+RIBERALTA,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,1,1,0,1,1,1,1,0,2,4,0,0,0,1,0,0,5,8,13
+ROBORE,sospecha diagnostica,chikungunya,2016-04-01,0,1,0,0,1,0,0,1,2,0,0,2,1,3,0,1,2,0,1,1,7,9,16
+SAN ANDRES,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+SAN BORJA,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+SAN CARLOS,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,0,1,2,0,5,0,1,0,0,0,1,1,9,10
+SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,3,2,2,3,4,2,6,2,10,12,1,1,3,6,4,1,33,29,62
+SAN JAVIER(STC),sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,1,2,0,2,0,2,0,0,3,6,0,0,0,2,1,0,5,14,19
+SAN JOAQUIN,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,2
+SAN JUAN DE YAPACANI,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,1,0,1,0,2,3,0,1,0,3,0,1,0,0,1,0,5,8,13
+SAN JULIAN,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,2,2,0,1,0,10,11,5,2,2,1,2,1,22,17,39
+SAN LORENZO(PND),sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+SAN MIGUEL DE VELASCO,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,0,4,4
+SAN PEDRO,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN RAFAEL,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,1,0,0,0,0,3,0,0,0,2,0,0,0,0,0,0,1,5,6
+SANTA ANA,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2016-04-01,11,11,12,15,99,94,129,122,122,113,91,132,293,575,64,140,53,82,53,67,927,1351,2278
+SANTA ROSA DEL SARA,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,1,1,3,4,4,8,1,4,3,3,0,1,12,21,33
+SENA,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+SHINAOTA,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,0,0,1,0,1,6,7
+SUCRE,sospecha diagnostica,chikungunya,2016-04-01,0,1,0,0,0,0,0,0,0,0,0,0,6,4,1,0,2,2,2,0,11,7,18
+TARATA,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+TRINIDAD,sospecha diagnostica,chikungunya,2016-04-01,0,0,1,0,2,2,0,1,3,2,5,3,4,4,5,4,5,2,3,3,28,21,49
+VILLA TUNARI,sospecha diagnostica,chikungunya,2016-04-01,2,0,0,1,1,1,0,0,0,5,1,1,7,8,0,2,0,1,1,0,12,19,31
+VINTO,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+WARNES,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,3,7,6,5,8,16,20,20,26,24,5,9,8,3,2,6,78,90,168
+YACUIBA,sospecha diagnostica,chikungunya,2016-04-01,1,0,0,1,4,6,14,8,12,11,9,14,27,39,8,17,13,14,6,3,94,113,207
+YAPACANI,sospecha diagnostica,chikungunya,2016-04-01,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,2,2,4
+BUENA VISTA,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,2
+CAMIRI,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,4,4,2,2,5,4,4,5,11,14,2,4,3,4,6,5,37,42,79
+CARMEN RIVERO TORREZ,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+CHARAGUA,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,1,1,0,0,2,0,0,1,2,1,0,0,0,0,1,0,6,3,9
+COBIJA,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,1,0,0,2,0,0,0,1,1,2,0,1,0,0,0,0,2,6,8
+COCHABAMBA,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,1,0,0,0,0,0,0,4,2,1,1,1,3,0,2,6,9,15
+COLPA BELGICA,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,1,3,4
+COTOCA,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,1,0,2,3,2,3,1,3,5,10,0,3,0,0,0,0,11,22,33
+CUEVO,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+EL PUENTE(STC),sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL TORNO,sospecha diagnostica,chikungunya,2016-05-01,1,0,0,0,1,3,3,8,3,11,7,16,21,30,8,10,2,2,2,4,48,84,132
+EUREKA (SANTOS MERCADO),sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+GUAYARAMERIN,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,2,1,0,0,0,2,4,6
+LA GUARDIA,sospecha diagnostica,chikungunya,2016-05-01,1,0,0,0,5,0,1,2,5,2,2,1,6,20,3,0,1,3,2,3,26,31,57
+MACHARETI,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,2
+MAIRANA,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,1,0,0,0,5,5
+MONTERO,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,1,0,0,0,1,0,0,0,0,2,0,1,0,0,0,0,2,3,5
+NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+NUEVO MANOA (NUEVA ESPERANZA),sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PAMPA GRANDE,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,1,0,1,0,5,5
+PORONGO,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,2,0,1,0,0,1,2,0,0,0,0,0,1,1,6,7
+PUERTO RICO,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO SUAREZ,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+QUILLACOLLO,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+QUIRUSILLAS,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,1,2,3
+RIBERALTA,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,1,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,5,6
+ROBORE,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+SACABA,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SAN ANDRES,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN CARLOS,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1,0,0,1,0,3,3,6
+SAN JAVIER(STC),sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN JULIAN,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SAN LORENZO(PND),sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN MIGUEL DE VELASCO,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SAN RAFAEL,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,1,3,4
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2016-05-01,5,2,3,3,31,33,35,28,31,24,24,42,77,173,23,46,22,28,14,21,265,400,665
+SANTA ROSA DEL SARA,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,2,0,1,0,2,0,0,1,1,2,2,2,1,2,0,0,9,7,16
+SENA,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+SUCRE,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,2,1,3
+TARATA,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,2,2,1,1,1,1,2,3,2,3,2,2,0,0,2,2,12,14,26
+VILLA NUEVA (LOMA ALTA),sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+VILLA TUNARI,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,2,1,3
+WARNES,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,2,1,0,0,1,4,7,1,2,1,0,0,0,7,12,19
+YACUIBA,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,2,1,0,5,5,1,1,0,2,1,1,8,11,19
+YAPACANI,sospecha diagnostica,chikungunya,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,1,0,0,0,1,3,4
+BUENA VISTA,sospecha diagnostica,chikungunya,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CAMIRI,sospecha diagnostica,chikungunya,2016-06-01,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,4,4
+CHARAGUA,sospecha diagnostica,chikungunya,2016-06-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+COBIJA,sospecha diagnostica,chikungunya,2016-06-01,0,1,0,0,0,0,1,1,0,1,0,1,0,1,0,1,0,0,0,1,1,7,8
+COCHABAMBA,sospecha diagnostica,chikungunya,2016-06-01,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,1,0,0,0,2,3,5
+COLPA BELGICA,sospecha diagnostica,chikungunya,2016-06-01,0,0,0,0,0,0,1,0,0,0,1,1,5,2,0,0,0,0,0,1,7,4,11
+COTOCA,sospecha diagnostica,chikungunya,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,3,2,5
+EL TORNO,sospecha diagnostica,chikungunya,2016-06-01,0,0,0,0,1,0,1,1,2,2,2,1,3,4,2,0,1,1,1,0,13,9,22
+GUAYARAMERIN,sospecha diagnostica,chikungunya,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,0,1,0,1,4,5
+MACHARETI,sospecha diagnostica,chikungunya,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+PUERTO RICO,sospecha diagnostica,chikungunya,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+ROBORE,sospecha diagnostica,chikungunya,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN BORJA,sospecha diagnostica,chikungunya,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAN CARLOS,sospecha diagnostica,chikungunya,2016-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+SAN JAVIER(STC),sospecha diagnostica,chikungunya,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN MIGUEL DE VELASCO,sospecha diagnostica,chikungunya,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2016-06-01,0,1,1,0,4,4,4,6,6,4,0,18,21,28,6,9,5,15,3,12,50,97,147
+SANTA ROSA,sospecha diagnostica,chikungunya,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA ROSA DEL SARA,sospecha diagnostica,chikungunya,2016-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,2,1,4,2,6
+SUCRE,sospecha diagnostica,chikungunya,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,1,2,3,5
+YACUIBA,sospecha diagnostica,chikungunya,2016-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2,2
+YAPACANI,sospecha diagnostica,chikungunya,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COBIJA,sospecha diagnostica,chikungunya,2016-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,2,2,0,0,0,0,1,3,3,6
+COCHABAMBA,sospecha diagnostica,chikungunya,2016-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,1,0,2,2,4
+COLPA BELGICA,sospecha diagnostica,chikungunya,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,3,3
+COTOCA,sospecha diagnostica,chikungunya,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL TORNO,sospecha diagnostica,chikungunya,2016-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,1,0,0,0,1,1,4,5
+EUREKA (SANTOS MERCADO),sospecha diagnostica,chikungunya,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+GUAYARAMERIN,sospecha diagnostica,chikungunya,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,2
+INGAVI (HUMAITA),sospecha diagnostica,chikungunya,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+LA PAZ,sospecha diagnostica,chikungunya,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,chikungunya,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+PORONGO,sospecha diagnostica,chikungunya,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+PUERTO RICO,sospecha diagnostica,chikungunya,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+QUIRUSILLAS,sospecha diagnostica,chikungunya,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN CARLOS,sospecha diagnostica,chikungunya,2016-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2016-07-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,1,3
+SAN JOAQUIN,sospecha diagnostica,chikungunya,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN LORENZO(PND),sospecha diagnostica,chikungunya,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2016-07-01,1,0,0,0,1,0,0,1,0,3,0,2,10,6,2,0,2,4,3,1,19,17,36
+SANTA ROSA DEL SARA,sospecha diagnostica,chikungunya,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,chikungunya,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TRINIDAD,sospecha diagnostica,chikungunya,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CAMIRI,sospecha diagnostica,chikungunya,2016-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,3,3
+COBIJA,sospecha diagnostica,chikungunya,2016-08-01,0,0,0,0,0,0,0,1,0,0,0,3,0,2,0,0,0,0,0,0,0,6,6
+COCHABAMBA,sospecha diagnostica,chikungunya,2016-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2,0,0,0,3,1,4
+COLPA BELGICA,sospecha diagnostica,chikungunya,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL TORNO,sospecha diagnostica,chikungunya,2016-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,3,4
+NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,chikungunya,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAMAIPATA,sospecha diagnostica,chikungunya,2016-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA ANA,sospecha diagnostica,chikungunya,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2016-08-01,0,0,0,1,0,2,1,1,1,1,0,0,4,6,0,0,0,1,0,2,6,14,20
+TRINIDAD,sospecha diagnostica,chikungunya,2016-08-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,2,1,3
+YACUIBA,sospecha diagnostica,chikungunya,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CAMIRI,sospecha diagnostica,chikungunya,2016-09-01,0,0,0,0,1,0,0,0,0,0,2,0,1,0,1,0,0,0,0,0,5,0,5
+COBIJA,sospecha diagnostica,chikungunya,2016-09-01,0,0,0,0,0,0,0,1,0,0,0,1,2,3,1,2,0,1,0,0,3,8,11
+COCHABAMBA,sospecha diagnostica,chikungunya,2016-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,2,2,4
+EL TORNO,sospecha diagnostica,chikungunya,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN CARLOS,sospecha diagnostica,chikungunya,2016-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN MIGUEL DE VELASCO,sospecha diagnostica,chikungunya,2016-09-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2016-09-01,0,0,0,0,0,0,0,0,1,1,1,1,3,4,0,2,0,0,1,1,6,9,15
+SUCRE,sospecha diagnostica,chikungunya,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BUENA VISTA,sospecha diagnostica,chikungunya,2016-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CAMIRI,sospecha diagnostica,chikungunya,2016-10-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+CARMEN RIVERO TORREZ,sospecha diagnostica,chikungunya,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COBIJA,sospecha diagnostica,chikungunya,2016-10-01,0,0,0,0,0,0,0,3,0,0,1,0,1,3,0,1,1,1,0,0,3,8,11
+COCHABAMBA,sospecha diagnostica,chikungunya,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2
+EL TORNO,sospecha diagnostica,chikungunya,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,2,1,3
+GUAYARAMERIN,sospecha diagnostica,chikungunya,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+MAIRANA,sospecha diagnostica,chikungunya,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,chikungunya,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+RIBERALTA,sospecha diagnostica,chikungunya,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN RAMON SCZ,sospecha diagnostica,chikungunya,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2016-10-01,0,0,0,0,3,0,0,0,1,0,0,2,1,5,3,1,0,1,1,1,9,10,19
+SUCRE,sospecha diagnostica,chikungunya,2016-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1,2,3
+YAPACANI,sospecha diagnostica,chikungunya,2016-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,3,3
+BELLA FLOR,sospecha diagnostica,chikungunya,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,0,0,0,0,4,4
+BUENA VISTA,sospecha diagnostica,chikungunya,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CAMIRI,sospecha diagnostica,chikungunya,2016-11-01,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+CARMEN RIVERO TORREZ,sospecha diagnostica,chikungunya,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,1,3,4
+COBIJA,sospecha diagnostica,chikungunya,2016-11-01,0,0,0,0,3,5,3,2,3,3,2,3,6,26,4,8,2,4,1,2,24,53,77
+COCHABAMBA,sospecha diagnostica,chikungunya,2016-11-01,0,0,0,0,0,0,0,0,1,0,1,0,3,0,2,0,0,1,0,0,7,1,8
+COTOCA,sospecha diagnostica,chikungunya,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,2
+EL TORNO,sospecha diagnostica,chikungunya,2016-11-01,0,1,0,0,0,0,0,0,0,1,0,2,4,3,0,0,0,1,2,0,6,8,14
+GUAYARAMERIN,sospecha diagnostica,chikungunya,2016-11-01,0,0,0,0,0,0,0,0,0,0,1,1,4,5,1,4,0,0,0,0,6,10,16
+MAIRANA,sospecha diagnostica,chikungunya,2016-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+PUERTO GONZALO MORENO,sospecha diagnostica,chikungunya,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO RICO,sospecha diagnostica,chikungunya,2016-11-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3,0,3
+PUERTO SUAREZ,sospecha diagnostica,chikungunya,2016-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+QUILLACOLLO,sospecha diagnostica,chikungunya,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+ROBORE,sospecha diagnostica,chikungunya,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2016-11-01,0,3,0,0,3,3,1,4,4,2,0,1,4,7,0,1,0,1,3,0,15,22,37
+SUCRE,sospecha diagnostica,chikungunya,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,0,2,2,4
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,chikungunya,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+YACUIBA,sospecha diagnostica,chikungunya,2016-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+YAPACANI,sospecha diagnostica,chikungunya,2016-11-01,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,2,0,0,1,0,3,3,6
+BOLPEBRA,sospecha diagnostica,chikungunya,2016-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+CAMIRI,sospecha diagnostica,chikungunya,2016-12-01,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,1,3
+CARMEN RIVERO TORREZ,sospecha diagnostica,chikungunya,2016-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+COBIJA,sospecha diagnostica,chikungunya,2016-12-01,0,0,0,0,3,2,0,6,1,1,9,8,15,43,0,10,4,3,4,8,36,81,117
+COCHABAMBA,sospecha diagnostica,chikungunya,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,4,0,4
+EL ALTO,sospecha diagnostica,chikungunya,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL TORNO,sospecha diagnostica,chikungunya,2016-12-01,0,0,0,0,0,0,1,0,1,0,0,1,3,6,0,1,0,1,1,1,6,10,16
+EUREKA (SANTOS MERCADO),sospecha diagnostica,chikungunya,2016-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,2
+GUAYARAMERIN,sospecha diagnostica,chikungunya,2016-12-01,0,0,0,0,1,0,0,0,1,2,0,4,10,13,3,9,7,10,2,1,24,39,63
+MACHARETI,sospecha diagnostica,chikungunya,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,chikungunya,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PORVENIR,sospecha diagnostica,chikungunya,2016-12-01,0,0,0,0,0,0,0,1,0,0,2,1,1,0,2,1,1,0,0,0,6,3,9
+PUERTO GONZALO MORENO,sospecha diagnostica,chikungunya,2016-12-01,0,0,0,0,0,0,0,0,0,1,1,1,3,0,0,0,0,0,0,0,4,2,6
+PUERTO RICO,sospecha diagnostica,chikungunya,2016-12-01,0,0,0,0,3,0,1,2,3,3,3,6,7,16,3,5,2,2,1,4,23,38,61
+ROBORE,sospecha diagnostica,chikungunya,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,4,4
+SAN BORJA,sospecha diagnostica,chikungunya,2016-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,2,2,4
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2016-12-01,0,0,2,2,1,1,5,1,1,0,2,1,0,8,3,4,0,5,1,2,15,24,39
+SANTA ROSA DEL SARA,sospecha diagnostica,chikungunya,2016-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+SENA,sospecha diagnostica,chikungunya,2016-12-01,0,0,0,0,0,0,1,1,1,0,1,1,2,4,1,2,2,0,0,2,8,10,18
+SHINAOTA,sospecha diagnostica,chikungunya,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,0,0,2,2,4
+SUCRE,sospecha diagnostica,chikungunya,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,3,1,4
+TRINIDAD,sospecha diagnostica,chikungunya,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+URUBICHA,sospecha diagnostica,chikungunya,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA TUNARI,sospecha diagnostica,chikungunya,2016-12-01,2,4,1,3,8,10,8,9,6,6,3,9,12,33,2,7,3,5,4,5,49,91,140
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,chikungunya,2016-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,2,3
+YAPACANI,sospecha diagnostica,chikungunya,2016-12-01,0,0,0,0,0,1,0,0,0,0,1,0,0,2,0,0,0,0,0,1,1,4,5

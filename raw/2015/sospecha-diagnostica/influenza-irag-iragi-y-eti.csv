@@ -1,0 +1,87 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,TOTAL-M,TOTAL-F,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+CAMIRI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,2,1,4,3,7
+EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-01-01,1,2,0,1,2,0,0,0,0,0,1,0,0,0,1,0,0,1,2,2,7,6,13
+POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-01-01,1,1,2,1,4,1,2,1,0,0,0,0,0,0,0,0,1,0,1,1,11,5,16
+SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,2,1,3
+EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-02-01,1,3,1,1,5,3,1,1,2,0,2,0,0,0,1,1,1,0,2,4,16,13,29
+POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+RURRENABAQUE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-02-01,4,2,3,3,6,8,1,0,0,1,0,1,1,0,0,0,0,0,0,0,15,15,30
+COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-03-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,4,2,4,6
+EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-03-01,1,2,4,1,4,5,1,1,0,0,0,0,1,0,0,0,0,0,0,0,11,9,20
+LA ASUNTA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-03-01,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+RURRENABAQUE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-03-01,6,2,8,4,15,10,1,3,0,0,1,0,5,3,4,0,1,0,0,1,41,23,64
+YACUIBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-04-01,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,2,4,6
+EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-04-01,2,3,4,3,7,5,0,1,0,0,0,0,0,0,0,0,0,0,5,3,18,15,33
+LA ASUNTA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-04-01,0,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,3,4
+ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-04-01,6,3,2,3,2,3,1,0,0,0,1,0,1,3,0,1,0,0,1,0,14,13,27
+SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-04-01,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,0,0,0,0,1,0,5,5
+COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,2,3
+EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-05-01,6,0,3,2,3,1,1,0,0,1,0,0,0,1,0,0,0,0,4,3,17,8,25
+LA ASUNTA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-05-01,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5
+POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-05-01,0,3,2,0,4,2,3,2,1,0,1,1,3,3,1,0,2,3,0,1,17,15,32
+ARQUE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,1,1,2,1,2,3,7,10
+EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-06-01,5,2,4,3,5,5,0,2,0,1,0,0,3,2,1,1,0,2,3,1,21,19,40
+LA ASUNTA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-06-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,2,1,4,5
+ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-06-01,1,0,2,1,2,12,4,3,3,3,2,1,2,2,0,1,2,0,0,0,18,23,41
+SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-07-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CHULUMANI (V. DE LA LIBERTAD),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2
+COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-07-01,0,0,0,0,2,0,0,0,0,0,0,1,0,1,0,1,2,0,1,1,5,4,9
+EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-07-01,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,2,2,4,5,9
+LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-07-01,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,2,3,5
+ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,0,4,2,6
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-07-01,2,2,0,1,6,6,3,3,0,1,1,1,1,5,4,1,1,0,0,0,18,20,38
+SICA SICA (VILLA AROMA),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TARABUCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+URIONDO (A. CONCEPCION),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-08-01,0,0,0,0,2,0,1,0,0,1,1,0,0,4,1,0,2,0,0,1,7,6,13
+EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-08-01,0,2,3,3,0,2,0,1,0,0,1,0,0,4,0,0,2,2,5,5,11,19,30
+POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-08-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,4,0,4
+PRESTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-08-01,0,0,3,1,2,11,2,0,2,0,0,2,2,3,2,0,3,0,0,1,16,18,34
+SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+TEOPONTE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+YACUIBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-08-01,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-09-01,0,0,2,0,1,1,0,0,0,0,0,0,1,1,1,1,0,1,2,2,7,6,13
+EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-09-01,4,0,1,1,4,2,1,2,0,2,0,1,3,0,1,0,2,3,4,2,20,13,33
+POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,3,4
+PRESTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-09-01,0,0,2,0,12,8,3,7,0,2,2,1,1,7,2,1,0,3,4,3,26,32,58
+SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+UMALA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,2
+BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-10-01,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-10-01,0,0,1,1,0,0,3,1,1,1,1,1,2,3,4,1,3,4,1,2,16,14,30
+EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-10-01,3,1,0,4,3,7,0,0,0,0,0,0,0,0,0,0,1,1,7,6,14,19,33
+LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,2,1,3
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-10-01,0,1,5,1,11,3,1,2,3,1,1,0,2,4,1,1,0,1,2,3,26,17,43
+SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-10-01,0,0,0,0,2,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,3,2,5
+VINTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-10-01,0,0,0,0,1,0,0,0,0,0,1,2,1,0,0,1,0,0,0,0,3,3,6
+BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-11-01,0,0,1,0,1,0,1,1,1,0,0,0,2,1,0,1,0,0,0,1,6,4,10
+EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-11-01,4,2,1,0,5,3,0,1,2,0,1,0,0,1,2,0,0,2,6,3,21,12,33
+LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-11-01,0,1,0,0,0,0,3,0,0,0,1,0,1,1,0,0,0,0,0,0,5,2,7
+POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,2,1,3
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-11-01,1,0,2,5,16,7,6,3,5,0,1,0,8,9,2,4,1,4,4,2,46,34,80
+SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-11-01,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+CAMIRI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-12-01,1,1,0,2,3,1,1,1,0,0,0,0,1,0,1,0,0,0,1,0,8,5,13
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2015-12-01,2,0,2,6,5,9,4,3,0,1,2,0,5,2,0,2,2,0,1,2,23,25,48

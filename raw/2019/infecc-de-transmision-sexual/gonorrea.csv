@@ -1,0 +1,831 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 m a menor de 1 año,b. 6 m a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+ACHACACHI,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+BERMEJO,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+BETANZOS,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CAJUATA,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,4,0,4
+CAMIRI,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CARANAVI,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHIMORE,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+COBIJA,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,0,4
+COCHABAMBA,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,5,1,10,3,1,0,2,1,0,0,18,5,23
+COLCAPIRHUA,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COLOMI,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CONCEPCION,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COROICO,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+COTAGAITA,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CUEVO,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL ALTO,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1,0,0,0,0,1,3,4
+EL VILLAR,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ENTRE RIOS CBBA,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+GUAYARAMERIN,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA PAZ,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,1,0,0,0,0,0,0,2,3,0,0,0,0,1,0,3,4,7
+LLALLAGUA,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+MAPIRI,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+MINEROS,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+MONTERO,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,3,10,12,12,8,12,8,4,2,1,0,39,33,72
+OCURI,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ORURO,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0,0,0,0,2,2,4
+PALCA,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PATACAMAYA,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+POCONA,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+POROMA,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+PORONGO,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+POTOSI,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,6,4,10,24,1,8,4,4,8,20,29,60,89
+PUERTO QUIJARRO,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,3,1,4
+PUERTO VILLARROEL,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PUNA,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+RAQAYPAMPA(ETA),infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2
+RAVELO,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+RURRENABAQUE,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,2,1,3
+SACABA,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,5,2,2,1,0,0,0,0,8,3,11
+SAN JAVIER(BNI),infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SAN PEDRO(PND),infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,1,4,17,75,3,6,2,1,0,1,23,87,110
+SENA,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SHINAOTA,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SIPE SIPE,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SORATA,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,3,0,2,3,0,2,0,3,0,0,5,8,13
+TACOPAYA,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,4,4
+TAPACARI,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TEOPONTE,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+TORO TORO,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+TRINIDAD,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,3,1,4
+TUPIZA,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA CHARCAS,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+VILLA MONTES,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+VILLA RIVERO,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA TUNARI,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+VINTO,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,3,3
+YACUIBA,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,2,1,3,0,0,0,0,0,0,0,5,1,6
+ZUDAÑEZ,infecc. de transmision sexual,gonorrea,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+AIQUILE,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CARIPUYO,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CHALLAPATA,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHULUMANI (V. DE LA LIBERTAD),infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+COBIJA,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,3
+COCHABAMBA,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,5,1,7,0,2,0,0,0,0,0,14,1,15
+COLCAPIRHUA,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CORIPATA,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+COROICO,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+COTAGAITA,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+EL ALTO,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,6,15,0,5,0,5,0,0,6,25,31
+EL TORNO,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+GUAYARAMERIN,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+IRUPANA (VILLA DE LANZA),infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+LA ASUNTA,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+LA PAZ,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,2,0,4,2,0,0,0,0,0,0,6,2,8
+MACHARETI,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MAGDALENA,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+MINEROS,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+MIZQUE,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MOCOMOCO,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MONTERO,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,2,9,9,16,15,8,16,2,4,0,0,35,46,81
+MORO MORO,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,2,3
+ORURO,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+PAMPA GRANDE,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+POROMA,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,5,5
+POTOSI,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,3,2,15,13,1,5,2,2,6,17,27,39,66
+PUERTO QUIJARRO,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PUERTO VILLARROEL,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+QUILLACOLLO,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+ROBORE,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,4,4
+SABAYA,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SACABA,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,4,0,4
+SAN CARLOS,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+SAN PEDRO,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,2,0,0,4,3,8,38,5,4,0,1,0,1,17,49,66
+SHINAOTA,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SORATA,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+SUCRE,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,1,3,0,1,0,1,0,0,2,5,7
+TACOPAYA,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TARIJA,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TIQUIPAYA,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,4,0,4
+TUPIZA,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,3,1,4
+UMALA,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VIACHA,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA MONTES,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,2,3,5
+VILLA RIVERO,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA TUNARI,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLAZON,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,2
+YACUIBA,infecc. de transmision sexual,gonorrea,2019-02-01,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,0,0,0,0,4,0,4
+APOLO,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+BERMEJO,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+BETANZOS,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+BUENA VISTA,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CAJUATA,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,0,3
+CARANAVI,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHALLAPATA,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CHAQUI,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CLIZA,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+COBIJA,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,5,0,5
+COCAPATA,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+COCHABAMBA,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,1,0,0,0,0,3,0,9,0,0,0,0,0,1,1,13,2,15
+COLQUECHACA,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CORIPATA,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+EL ALTO,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,1,3,4
+EL PUENTE(TJA),infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+ENTRE RIOS CBBA,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+GENERAL SAAVEDRA,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+GUAYARAMERIN,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+INQUISIVI,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+LA ASUNTA,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA PAZ,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,1,0,1,0,8,2,0,0,0,0,0,0,10,2,12
+MAGDALENA,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+MINEROS,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MIZQUE,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MONTERO,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,4,12,16,20,11,19,7,16,1,2,39,69,108
+ORURO,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,2,3,5
+PADCAYA,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+PASORAPA,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,2
+POROMA,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0,0,0,6,6
+POTOSI,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,10,15,1,3,1,2,3,13,15,33,48
+PUCARANI,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PUERTO GONZALO MORENO,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+PUERTO QUIJARRO,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,1,3,3,0,0,0,0,0,0,3,4,7
+PUERTO VILLARROEL,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,1,0,3,1,4
+QUILLACOLLO,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+RAQAYPAMPA(ETA),infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+RIBERALTA,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,3,0,3
+RURRENABAQUE,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SACABA,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,3,1,4
+SAN CARLOS,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,1,7,15,21,5,1,2,1,0,0,23,30,53
+SICA SICA (VILLA AROMA),infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+SUCRE,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,1,3,4,0,1,0,2,0,2,3,10,13
+TACOPAYA,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+TARABUCO,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TARIJA,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+TEOPONTE,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+TIQUIPAYA,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+TOLATA,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+TUPIZA,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,2,1,3
+URIONDO (A. CONCEPCION),infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VALLEGRANDE,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA CHARCAS,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA RIVERO,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA SERRANO,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+VILLA TUNARI,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,2,1,3,1,0,0,0,0,0,0,5,2,7
+VILLAZON,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VINTO,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+YACUIBA,infecc. de transmision sexual,gonorrea,2019-03-01,0,0,0,0,0,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,3,2,5
+ACHACACHI,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+APOLO,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,2,3
+ARANI,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+BELLA FLOR,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+BERMEJO,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BETANZOS,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CAIROMA,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CAJUATA,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CAMIRI,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+CARACOLLO,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CARANAVI,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COBIJA,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,4,0,4
+COCHABAMBA,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,3,0,6,1,3,0,1,0,0,0,13,1,14
+CORIPATA,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CORQUE,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL ALTO,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1,1,0,0,0,3,3,6
+EL TORNO,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+FILADELFIA,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+GUAYARAMERIN,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+INQUISIVI,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+IXIAMAS,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+JESUS DE MACHACA,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+LA GUARDIA,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+LA PAZ,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,1,0,0,1,1,5,0,0,1,0,0,0,0,6,3,9
+MIZQUE,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MONTERO,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+NUEVO MANOA (NUEVA ESPERANZA),infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+ORURO,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,5,0,5
+PAMPA AULLAGAS,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+POROMA,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+POTOSI,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,4,1,14,22,2,14,0,7,9,31,29,75,104
+PRESTO,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO GONZALO MORENO,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PUERTO QUIJARRO,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,4,1,5
+PUERTO VILLARROEL,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+QUILLACOLLO,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,2,3
+QUIME,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+RIBERALTA,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SACABA,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,6,0,6
+SAMAIPATA,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN ANDRES,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN BORJA,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+SAN PEDRO DE BUENA VISTA,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SANTA ANA,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,3,4,7,17,3,2,0,0,1,0,14,23,37
+SUCRE,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,1,2,3,6,1,1,0,3,0,0,5,12,17
+TACOPAYA,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+TOCO,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TORO TORO,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,1,0,0,0,5,5
+TRINIDAD,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,1,0,0,2,3,5
+TUPIZA,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,8,0,1,0,0,0,0,1,9,10
+VILLA CHARCAS,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+VILLA MONTES,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0,3,1,4
+VILLA VACA GUZMAN (MUYUPAMPA),infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+VILLAZON,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3,0,3
+YACUIBA,infecc. de transmision sexual,gonorrea,2019-04-01,0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,3,2,5
+ACHACACHI,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+ACHOCALLA,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+AIQUILE,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+APOLO,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,3,1,1,0,0,0,1,0,6,1,7
+BELLA FLOR,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+BERMEJO,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+CAMIRI,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CARACOLLO,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CARANAVI,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CARAPARI,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COBIJA,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1,0,0,0,0,0,5,0,5
+COCHABAMBA,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,2,2,9,5,0,0,1,0,0,0,12,7,19
+CONCEPCION,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+COPACABANA,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COTOCA,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,3,1,4
+EL ALTO,infecc. de transmision sexual,gonorrea,2019-05-01,0,1,0,0,0,0,0,0,0,0,0,0,2,2,1,2,0,0,0,0,3,5,8
+EL TORNO,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+FILADELFIA,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GUAYARAMERIN,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+HUANUNI,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+INCAHUASI,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+INQUISIVI,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+IRUPANA (VILLA DE LANZA),infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA GUARDIA,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,5,5
+LA PAZ,infecc. de transmision sexual,gonorrea,2019-05-01,1,0,0,0,0,0,0,0,0,0,1,0,5,3,0,0,0,1,1,1,8,5,13
+LLALLAGUA,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LLICA,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LORETO,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MAGDALENA,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+MINEROS,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+MIZQUE,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MONTERO,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,2,6,5,9,15,5,8,0,0,0,0,20,30,50
+NACEBE (SANTA ROSA DEL ABUNA),infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ORURO,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,2,0,12,2,3,3,0,0,0,0,17,5,22
+PADCAYA,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+PALOS BLANCOS,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+PAMPA AULLAGAS,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PATACAMAYA,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PORCO,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+POROMA,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+PORONGO,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+POTOSI,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,4,0,17,20,3,4,3,3,7,7,34,34,68
+PUERTO GONZALO MORENO,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+PUERTO VILLARROEL,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+PUNATA,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+QUILLACOLLO,infecc. de transmision sexual,gonorrea,2019-05-01,0,1,0,1,0,1,1,0,0,0,2,0,3,0,0,0,0,0,0,0,6,3,9
+RAQAYPAMPA(ETA),infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+RAVELO,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+REYES,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+RIBERALTA,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ROBORE,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SACABA,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,1,3,0,2,0,0,0,0,0,5,1,6
+SACABAMBA,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAN ANDRES,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SAN IGNACIO,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,3,0,3
+SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,1,6,3,21,30,4,3,4,0,2,0,37,37,74
+SUCRE,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,1,0,0,0,0,0,0,3,11,6,0,3,0,2,0,0,12,14,26
+TACOPAYA,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+TAPACARI,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+TARIJA,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+TEOPONTE,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,4
+TIQUIPAYA,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,3,1,0,0,0,0,0,0,0,2,3,5
+TUPIZA,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+UMALA,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+URIONDO (A. CONCEPCION),infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA CHARCAS,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+VILLA RIVERO,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+VILLA TUNARI,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,2,1,3,2,5
+VILLAZON,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+YACUIBA,infecc. de transmision sexual,gonorrea,2019-05-01,0,0,0,0,0,0,0,0,0,0,2,0,3,1,0,0,0,0,0,0,5,1,6
+AIQUILE,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+APOLO,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+ARANI,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BERMEJO,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BETANZOS,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+CABEZAS,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+"CAIZA ""D""",infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CAMIRI,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+CARACOLLO,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CARANAVI,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,0,3
+COBIJA,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,1,1,2,2,1,0,0,0,0,0,4,3,7
+COCHABAMBA,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,2,0,16,4,0,0,0,1,0,0,18,5,23
+COROICO,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CURAHUARA DE CARANGAS,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+EL ALTO,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,1,0,0,0,2,6,8
+ENTRE RIOS CBBA,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+GENERAL SAAVEDRA,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GUANAY,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+INQUISIVI,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+IRUPANA (VILLA DE LANZA),infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+LA GUARDIA,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2,3
+LA PAZ,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,1,1,2,1,1,0,1,1,0,0,1,3,6,9
+MONTEAGUDO,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MONTERO,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,4,10,13,5,9,0,2,0,0,15,28,43
+OCURI,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+OMEREQUE,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+ORURO,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,1,0,2,3,0,0,0,0,0,0,3,3,6
+PADCAYA,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PALOS BLANCOS,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,2,1,3
+POTOSI,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,3,0,10,4,2,6,0,0,5,8,20,18,38
+PUERTO RICO,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+QUILLACOLLO,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+RAQAYPAMPA(ETA),infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+RAVELO,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+RIBERALTA,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+SACABA,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+SAN BORJA,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+SAN CARLOS,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+SAN IGNACIO DE VELASCO,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,1,0,0,0,0,2,1,13,26,4,2,3,2,1,1,23,33,56
+SHINAOTA,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SORATA,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,2,1,3
+SUCRE,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,1,14,3,1,0,0,0,0,1,15,5,20
+TACOPAYA,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2
+TARIJA,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TARVITA,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TINGUIPAYA,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TORO TORO,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,1,0,0,3,2,5
+TUPIZA,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+UMALA,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+UNCIA,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+VIACHA,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,2,4
+VILLA CHARCAS,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,2,3,5
+VILLA TUNARI,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+VILLAZON,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+WARNES,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+YACUIBA,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,1,0,3,1,0,0,1,0,0,0,5,1,6
+YAMPARAEZ,infecc. de transmision sexual,gonorrea,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+ACHACACHI,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,4,4
+AIQUILE,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+ANDAMARCA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+APOLO,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,3,0,5,1,6
+ARBIETO,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BERMEJO,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BETANZOS,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+"CAIZA ""D""",infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CAPINOTA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+CARACOLLO,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CARAPARI,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CLIZA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COBIJA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,2,2,4
+COCHABAMBA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,2,0,9,5,1,0,0,0,1,1,13,6,19
+COTAGAITA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+COTOCA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,1,3
+CULPINA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+EL ALTO,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,2,0,1,7,0,1,1,0,0,0,4,8,12
+EL PUENTE(STC),infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+EL TORNO,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+EUCALIPTUS,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+FERNANDEZ ALONSO,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+GUAYARAMERIN,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+HUANUNI,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+HUARACAJE,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+INQUISIVI,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,3
+IRUPANA (VILLA DE LANZA),infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+LA GUARDIA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA PAZ,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,1,0,3,24,0,2,1,1,0,0,5,27,32
+LLICA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+MINEROS,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,5,1,6
+MONTERO,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,3,0,10,13,3,11,0,1,0,0,16,25,41
+OCURI,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+ORURO,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,1,0,14,5,2,0,0,0,0,0,17,5,22
+PADCAYA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PALOS BLANCOS,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,0,1,0,0,0,4,3,7
+POTOSI,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,5,9,1,4,1,4,4,8,11,25,36
+PUERTO GONZALO MORENO,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PUERTO QUIJARRO,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,1,0,3,1,0,0,0,0,0,0,4,1,5
+PUERTO VILLARROEL,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,3,0,1,1,0,0,0,0,0,0,4,1,5
+PUNATA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+QUIABAYA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+QUILLACOLLO,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,0,3
+RAQAYPAMPA(ETA),infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,3,3
+RIBERALTA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+ROBORE,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SACABA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,2,0,5,2,0,1,0,0,0,0,7,3,10
+SACABAMBA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAMAIPATA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN BORJA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN PEDRO DE BUENA VISTA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,6,0,10,16,2,1,0,3,0,0,18,20,38
+SENA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SIPE SIPE,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+SORATA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SUCRE,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,1,1,4,12,0,1,0,0,0,0,5,14,19
+TACOPAYA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+TARVITA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TIPUANI,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+TOLATA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+TORO TORO,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,0,4,1,5
+TUPIZA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+UNCIA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+VIACHA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+VILLA MONTES,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,2,3
+VILLA TUNARI,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,3,0,1,0,1,0,0,0,0,0,5,0,5
+VILLAZON,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+WARNES,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,2,1,3
+YACUIBA,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,1,0,0,0,8,0,8
+ZUDAÑEZ,infecc. de transmision sexual,gonorrea,2019-07-01,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,0,3
+APOLO,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,3,0,3
+BERMEJO,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+BOYUIBE,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+"CAIZA ""D""",infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CAMARGO,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+CAMIRI,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,0,2
+CARANAVI,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CARAPARI,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHALLAPATA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHAQUI,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+CHARAGUA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHIMORE,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+COBIJA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,1,0,2,1,2,1,1,0,0,0,6,2,8
+COCHABAMBA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,2,0,5,2,3,0,1,0,1,0,12,2,14
+COLCAPIRHUA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+COLQUECHACA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COLQUIRI,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+COMANCHE,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CONCEPCION,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+EL ALTO,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+ENTRE RIOS CBBA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ESCOMA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+FILADELFIA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GRAL. J.J. PEREZ (CHARAZANI),infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+GUAYARAMERIN,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+HUACARETA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+INQUISIVI,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+IRUPANA (VILLA DE LANZA),infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA GUARDIA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+LA PAZ,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,2,0,0,2,0,4,5,9
+LLALLAGUA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+LLICA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MONTERO,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,1,4,5,10,1,4,0,0,0,0,7,18,25
+ORURO,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,2,0,5,2,0,0,3,0,1,0,11,2,13
+PALCA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PALOS BLANCOS,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+PELECHUCO,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+POCONA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+POTOSI,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,2,0,7,12,2,4,1,3,3,4,15,23,38
+PUERTO VILLARROEL,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0,0,0,4,2,6
+QUILLACOLLO,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+RAQAYPAMPA(ETA),infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,3,3
+RAVELO,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+RIBERALTA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+RURRENABAQUE,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+SACABA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+SACABAMBA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAMAIPATA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN BORJA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+SAN BUENA VENTURA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO DE BUENA VISTA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,2,3,11,7,1,1,2,1,0,0,16,12,28
+SHINAOTA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SORATA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SUCRE,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,1,0,0,0,0,2,1,4,6,1,5,0,1,0,1,7,15,22
+TACOPAYA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+TIPUANI,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TIQUIPAYA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,3,1,4
+TORO TORO,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,2,1,2,2,1,0,0,0,0,0,5,3,8
+TUPIZA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+URIONDO (A. CONCEPCION),infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+UYUNI,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILA VILA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+VILLA MONTES,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,0,0,4,0,4
+VILLA TUNARI,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,1,0,0,1,0,2,0,0,0,0,0,0,0,3,1,4
+YACUIBA,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,1,0,3,3,0,0,0,0,1,0,5,3,8
+YANACACHI,infecc. de transmision sexual,gonorrea,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ACHACACHI,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+AIQUILE,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+ALCALA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+APOLO,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ATOCHA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BERMEJO,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,1,0,0,1,0,2,0,0,0,0,0,0,0,3,1,4
+"CAIZA ""D""",infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+CARACOLLO,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CARANAVI,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CARIPUYO,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CHIMORE,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CLIZA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COBIJA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+COCHABAMBA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,2,0,9,3,3,3,0,0,0,0,14,6,20
+COLCAPIRHUA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,3,3
+"COLCHA ""K""",infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,0,3
+COLOMI,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+COTOCA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL ALTO,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,2,1,1,0,1,0,0,0,3,0,7,1,8
+EL CHORO,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL PUENTE(STC),infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+EL TORNO,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ENTRE RIOS CBBA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ESCOMA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+EUCALIPTUS,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+FILADELFIA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+HUANUNI,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+HUARACAJE,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+HUARINA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+IRUPANA (VILLA DE LANZA),infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+LA ASUNTA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+LA GUARDIA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+LA PAZ,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2,6,2,8
+LLALLAGUA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+MAGDALENA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+MAIRANA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+MONTERO,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,1,2,1,10,1,5,1,2,0,0,4,19,23
+MORO MORO,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+OCURI,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ORURO,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,6,3,0,1,0,0,0,1,7,5,12
+PAILON,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PALOS BLANCOS,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,3,1,4
+PELECHUCO,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+POCOATA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+POTOSI,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,7,1,10,5,0,2,0,1,0,1,17,10,27
+PUERTO GONZALO MORENO,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+PUERTO QUIJARRO,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+PUERTO RICO,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+PUERTO VILLARROEL,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,1,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,4,0,4
+PUNA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,0,0,5,5
+PUNATA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+QUILLACOLLO,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,2,2,4
+RAQAYPAMPA(ETA),infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,3,3
+RAVELO,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+RIBERALTA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SABAYA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SACABA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,2,1,4,0,2,0,0,0,0,0,8,1,9
+SAN LORENZO(TJA),infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN PEDRO DE BUENA VISTA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,0,0,0,0,2,4,6
+SANTA ANA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,11,0,0,0,0,0,0,2,11,13
+SIPE SIPE,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+SORATA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SUCRE,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,2,1,10,6,2,1,0,2,0,0,14,10,24
+TACACOMA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+TACOBAMBA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TACOPAYA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,1,1,1,2,0,4,0,0,0,0,2,7,9
+TARIJA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+TIQUIPAYA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+TRINIDAD,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,2,2,3,7,0,0,0,0,0,0,5,9,14
+UYUNI,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+VIACHA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+VILLA CHARCAS,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA SERRANO,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA TUNARI,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+VILLAZON,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+WARNES,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+YACUIBA,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,3,1,4
+ZUDAÑEZ,infecc. de transmision sexual,gonorrea,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ACHACACHI,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,2,1,3
+ACHOCALLA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+AIQUILE,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+ALTO BENI,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+APOLO,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+ARAMPAMPA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ASCENCION DE GUARAYOS,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BERMEJO,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,3,0,3
+BETANZOS,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,2,3
+CARACOLLO,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CLIZA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COBIJA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,1,0,4,1,1,0,0,0,0,0,6,1,7
+COCHABAMBA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,1,0,6,1,8,9,2,5,3,0,2,0,22,15,37
+COLCAPIRHUA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+COLOMI,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COLQUIRI,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CORIPATA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+COTAGAITA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL ALTO,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,3,0,0,2,0,0,0,0,1,0,4,2,6
+EL PUENTE(STC),infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+EL TORNO,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+ENTRE RIOS TRJ,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,3,0,8,8
+ENTRE RIOS CBBA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,0,3
+FERNANDEZ ALONSO,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+GUAYARAMERIN,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+INGAVI (HUMAITA),infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA ASUNTA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+LA PAZ,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,6,1,2,0,0,0,0,0,8,1,9
+LA RIVERA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+LLICA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+MACHARETI,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MINEROS,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MOJOCOYA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+MONTEAGUDO,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,0,2,2,4
+MONTERO,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,6,5,2,5,0,1,0,0,8,11,19
+OCURI,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ORURO,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,1,1,5,1,0,0,0,0,0,0,6,2,8
+PADCAYA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,0,2
+PALOS BLANCOS,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PELECHUCO,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+POROMA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PORTACHUELO,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+POTOSI,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,1,2,0,3,4,7
+PUERTO QUIJARRO,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PUERTO RICO,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+PUERTO VILLARROEL,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,3,1,1,1,0,0,0,0,1,0,5,2,7
+PUNA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2,3
+QUILLACOLLO,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+RAQAYPAMPA(ETA),infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,1,0,1,2,5,7
+RAVELO,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+RIBERALTA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+SACABA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,0,6,0,6
+SAIPINA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN BORJA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+SAN IGNACIO,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN JUAN DE YAPACANI,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN JULIAN,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+SAN PEDRO,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO DE BUENA VISTA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,1,0,0,0,7,31,1,1,0,1,0,3,9,36,45
+SANTIAGO DE HUATA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAPAHAQUI,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SENA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SIPE SIPE,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SORATA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+SUCRE,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,1,1,8,6,1,0,0,0,0,0,10,7,17
+TACOPAYA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,2,3
+TARATA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TARIJA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TARVITA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+TIQUIPAYA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,1,0,0,0,1,2,0,0,0,0,0,0,0,0,2,2,4
+TIRAQUE (CBBA),infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,1,0,0,3,1,4
+TUPIZA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+UMALA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+UNCIA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+VALLEGRANDE,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VIACHA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+VILLA MONTES,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,3,1,4
+VILLA TUNARI,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,4,0,4
+VILLAZON,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VINTO,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+YACUIBA,infecc. de transmision sexual,gonorrea,2019-10-01,0,0,0,0,0,0,0,1,0,0,2,1,2,1,0,0,0,0,0,0,4,3,7
+ACACIO,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+APOLO,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+BERMEJO,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BETANZOS,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+BUENA VISTA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+"CAIZA ""D""",infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CARACOLLO,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,2
+CARANAVI,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHIMORE,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CLIZA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COBIJA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+COCHABAMBA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,6,0,12,6,4,1,2,0,0,0,24,7,31
+COLQUECHACA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+COTOCA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+EL ALTO,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,2,1,3
+EL TORNO,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ENTRE RIOS CBBA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,0,3
+GENERAL SAAVEDRA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+GRAL. J.J. PEREZ (CHARAZANI),infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GUAYARAMERIN,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ICLA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+LA ASUNTA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,0,3
+LA GUARDIA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,3,1,4
+LA PAZ,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,2,0,9,0,1,1,0,0,0,0,12,1,13
+LLALLAGUA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MAGDALENA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+MECAPACA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+MINEROS,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MONTEAGUDO,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+MONTERO,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,1,0,0,0,0,3,2,2,5,0,0,0,0,0,0,5,8,13
+ORURO,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,9,3,1,0,1,0,0,1,12,4,16
+PADCAYA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+PAILON,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PALOS BLANCOS,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PELECHUCO,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+POROMA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+POTOSI,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,4,0,5,7,1,7,0,0,0,2,10,16,26
+PUERTO GONZALO MORENO,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+PUERTO VILLARROEL,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PUNA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+QUILLACOLLO,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+RAQAYPAMPA(ETA),infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+RIBERALTA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,2,1,3
+SACABA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,3,1,4
+SAN ANDRES,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN BORJA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN BUENA VENTURA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+SAN CARLOS,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+SAN IGNACIO DE VELASCO,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,0,2
+SAN LORENZO(TJA),infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+SAN PEDRO DE BUENA VISTA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,2,3
+SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,11,12,3,0,0,0,0,1,14,13,27
+SIPE SIPE,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SORATA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SUCRE,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,1,4,4,0,0,0,0,0,0,4,5,9
+TACOPAYA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TARIJA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,2,0,0,0,0,0,6,0,6
+TARVITA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+TEOPONTE,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+TOLATA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,2,4
+TUPIZA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+UNCIA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,0,2
+UYUNI,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+VIACHA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+VILLA MONTES,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA TUNARI,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,2,1,3
+VILLAZON,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,1,0,0,0,0,4,1,5
+VINTO,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+WARNES,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+YACUIBA,infecc. de transmision sexual,gonorrea,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,6,0,6
+ACHACACHI,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ANZALDO,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+ARQUE,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+BATALLAS,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BERMEJO,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CAJUATA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CAMIRI,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CARANAVI,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHULUMANI (V. DE LA LIBERTAD),infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+COBIJA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,9,0,0,0,0,0,0,1,9,10
+COCAPATA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,2,0,0,0,0,3,1,15,3,0,1,1,0,0,0,19,7,26
+COLCAPIRHUA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COLQUECHACA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+CULPINA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL ALTO,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,10,0,1,0,1,0,0,1,12,13
+EL PUENTE(TJA),infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+EL TORNO,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+ENTRE RIOS TRJ,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+ENTRE RIOS CBBA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,4,0,4
+FILADELFIA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+HUANUNI,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ICLA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA PAZ,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2,4,2,6
+LLICA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+MAIRANA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MINEROS,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,2,3
+MIZQUE,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MONTERO,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,2,3,5
+ORURO,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,1,5,2,1,0,0,0,0,1,7,4,11
+PAILON,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PALOS BLANCOS,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,2,1,3
+PELECHUCO,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+POTOSI,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,2,8,6,2,4,0,2,3,11,14,25,39
+PUERTO GONZALO MORENO,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PUERTO QUIJARRO,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,0,4
+PUERTO VILLARROEL,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,2,1,3
+PUNATA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+QUILLACOLLO,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,1,0,4,1,5
+RAQAYPAMPA(ETA),infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+RIBERALTA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+SACABA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,0,3
+SAN AGUSTIN,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN ANDRES,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN BORJA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+SAN BUENA VENTURA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN CARLOS,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN IGNACIO,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+SAN JUAN DE YAPACANI,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN LORENZO(PND),infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN LUCAS,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,2,1,3
+SAN PEDRO,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO DE BUENA VISTA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,2,11,7,19,17,1,5,0,0,0,2,31,33,64
+SICA SICA (VILLA AROMA),infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SICAYA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SORATA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SUCRE,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,1,0,0,3,10,1,0,0,0,0,0,4,11,15
+TACOBAMBA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,3,3
+TACOPAYA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,2,1,3
+TAPACARI,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TARIJA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+TEOPONTE,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TIPUANI,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,2
+TIQUIPAYA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+TOLATA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TOLEDO,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TOTORA(ORR),infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+TRINIDAD,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,4,0,4
+TUPIZA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+UNCIA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+UYUNI,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+VIACHA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+VILLA TUNARI,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+VILLAZON,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+VINTO,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+WARNES,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,0,3
+YACUIBA,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,3,1,0,1,0,0,0,0,4,2,6
+YAMPARAEZ,infecc. de transmision sexual,gonorrea,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2

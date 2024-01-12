@@ -1,0 +1,80 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+EL ALTO,sospecha diagnostica,sarampion / rubeola,2019-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+POTOSI,sospecha diagnostica,sarampion / rubeola,2019-01-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SACABA,sospecha diagnostica,sarampion / rubeola,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,1,2,3
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2019-01-01,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+YACUIBA,sospecha diagnostica,sarampion / rubeola,2019-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+BERMEJO,sospecha diagnostica,sarampion / rubeola,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SACABA,sospecha diagnostica,sarampion / rubeola,2019-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2019-02-01,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+BERMEJO,sospecha diagnostica,sarampion / rubeola,2019-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2019-03-01,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+ENTRE RIOS TRJ,sospecha diagnostica,sarampion / rubeola,2019-03-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2019-03-01,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,3
+SUCRE,sospecha diagnostica,sarampion / rubeola,2019-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TARIJA,sospecha diagnostica,sarampion / rubeola,2019-03-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2019-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+MONTERO,sospecha diagnostica,sarampion / rubeola,2019-04-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+PUNATA,sospecha diagnostica,sarampion / rubeola,2019-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,sarampion / rubeola,2019-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2019-04-01,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+SUCRE,sospecha diagnostica,sarampion / rubeola,2019-04-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TARIJA,sospecha diagnostica,sarampion / rubeola,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TRINIDAD,sospecha diagnostica,sarampion / rubeola,2019-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+VINTO,sospecha diagnostica,sarampion / rubeola,2019-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COTAGAITA,sospecha diagnostica,sarampion / rubeola,2019-05-01,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+LA PAZ,sospecha diagnostica,sarampion / rubeola,2019-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MONTERO,sospecha diagnostica,sarampion / rubeola,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,2,1,3
+POTOSI,sospecha diagnostica,sarampion / rubeola,2019-05-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2019-05-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TRIGAL,sospecha diagnostica,sarampion / rubeola,2019-05-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VILLAZON,sospecha diagnostica,sarampion / rubeola,2019-05-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COBIJA,sospecha diagnostica,sarampion / rubeola,2019-06-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,3
+EL ALTO,sospecha diagnostica,sarampion / rubeola,2019-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MONTERO,sospecha diagnostica,sarampion / rubeola,2019-06-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2019-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SUCRE,sospecha diagnostica,sarampion / rubeola,2019-06-01,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+VALLEGRANDE,sospecha diagnostica,sarampion / rubeola,2019-06-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+MONTERO,sospecha diagnostica,sarampion / rubeola,2019-07-01,0,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,3,3,6
+ORURO,sospecha diagnostica,sarampion / rubeola,2019-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,sarampion / rubeola,2019-07-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TARIJA,sospecha diagnostica,sarampion / rubeola,2019-07-01,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+TRINIDAD,sospecha diagnostica,sarampion / rubeola,2019-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL ALTO,sospecha diagnostica,sarampion / rubeola,2019-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LA GUARDIA,sospecha diagnostica,sarampion / rubeola,2019-08-01,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+MONTERO,sospecha diagnostica,sarampion / rubeola,2019-08-01,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2019-08-01,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+WARNES,sospecha diagnostica,sarampion / rubeola,2019-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CAMATAQUI (C. VILLA ABECIA),sospecha diagnostica,sarampion / rubeola,2019-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2019-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MONTERO,sospecha diagnostica,sarampion / rubeola,2019-09-01,0,0,0,0,1,1,2,0,1,0,0,0,2,0,0,0,0,0,0,0,6,1,7
+PORTACHUELO,sospecha diagnostica,sarampion / rubeola,2019-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2019-09-01,0,2,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5
+SUCRE,sospecha diagnostica,sarampion / rubeola,2019-09-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TARIJA,sospecha diagnostica,sarampion / rubeola,2019-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VILLAZON,sospecha diagnostica,sarampion / rubeola,2019-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+WARNES,sospecha diagnostica,sarampion / rubeola,2019-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2019-10-01,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,3
+EL ALTO,sospecha diagnostica,sarampion / rubeola,2019-10-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+MONTERO,sospecha diagnostica,sarampion / rubeola,2019-10-01,0,0,1,0,0,0,2,0,0,1,0,0,2,1,0,0,0,2,0,0,5,4,9
+POTOSI,sospecha diagnostica,sarampion / rubeola,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+QUILLACOLLO,sospecha diagnostica,sarampion / rubeola,2019-10-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2019-10-01,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+TARIJA,sospecha diagnostica,sarampion / rubeola,2019-10-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+VILLA MONTES,sospecha diagnostica,sarampion / rubeola,2019-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2019-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA PAZ,sospecha diagnostica,sarampion / rubeola,2019-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2019-11-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,sarampion / rubeola,2019-11-01,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+TARIJA,sospecha diagnostica,sarampion / rubeola,2019-11-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+VILLAZON,sospecha diagnostica,sarampion / rubeola,2019-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MONTERO,sospecha diagnostica,sarampion / rubeola,2019-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ORURO,sospecha diagnostica,sarampion / rubeola,2019-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ROBORE,sospecha diagnostica,sarampion / rubeola,2019-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SABAYA,sospecha diagnostica,sarampion / rubeola,2019-12-01,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,2,3
+SACABA,sospecha diagnostica,sarampion / rubeola,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN CARLOS,sospecha diagnostica,sarampion / rubeola,2019-12-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2019-12-01,0,0,2,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,3,3,6
+TARIJA,sospecha diagnostica,sarampion / rubeola,2019-12-01,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2

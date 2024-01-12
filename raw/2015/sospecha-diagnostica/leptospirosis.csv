@@ -1,0 +1,65 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,TOTAL-M,TOTAL-F,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+CARAPARI,sospecha diagnostica,leptospirosis,2015-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COBIJA,sospecha diagnostica,leptospirosis,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,leptospirosis,2015-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,2
+GUAYARAMERIN,sospecha diagnostica,leptospirosis,2015-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+MAPIRI,sospecha diagnostica,leptospirosis,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MONTEAGUDO,sospecha diagnostica,leptospirosis,2015-01-01,0,0,0,0,1,0,0,0,0,2,0,1,3,4,0,0,1,0,2,1,7,8,15
+SAN CARLOS,sospecha diagnostica,leptospirosis,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO,sospecha diagnostica,leptospirosis,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,sospecha diagnostica,leptospirosis,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA TUNARI,sospecha diagnostica,leptospirosis,2015-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,leptospirosis,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+MONTEAGUDO,sospecha diagnostica,leptospirosis,2015-02-01,2,0,2,0,2,1,1,1,5,0,3,2,1,11,2,1,3,0,5,1,26,17,43
+PADCAYA,sospecha diagnostica,leptospirosis,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+TARIJA,sospecha diagnostica,leptospirosis,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+VILLA MONTES,sospecha diagnostica,leptospirosis,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+COBIJA,sospecha diagnostica,leptospirosis,2015-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,3,0,3
+COCHABAMBA,sospecha diagnostica,leptospirosis,2015-03-01,0,0,0,0,1,0,0,0,0,0,0,0,2,0,1,0,0,2,0,0,4,2,6
+MAPIRI,sospecha diagnostica,leptospirosis,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MONTEAGUDO,sospecha diagnostica,leptospirosis,2015-03-01,0,0,1,0,1,4,1,0,3,1,5,4,7,2,1,4,1,1,2,2,22,18,40
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2015-03-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,2,1,3
+CARANAVI,sospecha diagnostica,leptospirosis,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+COCHABAMBA,sospecha diagnostica,leptospirosis,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+ENTRE RIOS TRJ,sospecha diagnostica,leptospirosis,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA PAZ,sospecha diagnostica,leptospirosis,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+MONTEAGUDO,sospecha diagnostica,leptospirosis,2015-04-01,0,0,0,0,0,0,0,1,1,2,4,3,5,6,2,1,2,2,4,4,18,19,37
+SAN IGNACIO,sospecha diagnostica,leptospirosis,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,4
+SUCRE,sospecha diagnostica,leptospirosis,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+VILLA MONTES,sospecha diagnostica,leptospirosis,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+YACUIBA,sospecha diagnostica,leptospirosis,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CARAPARI,sospecha diagnostica,leptospirosis,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,1,3
+COCHABAMBA,sospecha diagnostica,leptospirosis,2015-05-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,2,3
+MONTEAGUDO,sospecha diagnostica,leptospirosis,2015-05-01,0,0,0,0,2,1,0,1,0,3,3,4,7,5,3,3,1,3,4,7,20,27,47
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,1,0,3,2,5
+SUCRE,sospecha diagnostica,leptospirosis,2015-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+VILLA MONTES,sospecha diagnostica,leptospirosis,2015-05-01,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,3,4
+MONTEAGUDO,sospecha diagnostica,leptospirosis,2015-06-01,0,0,0,0,1,0,0,1,1,1,1,2,2,5,3,5,3,1,2,2,13,17,30
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+SUCRE,sospecha diagnostica,leptospirosis,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA MONTES,sospecha diagnostica,leptospirosis,2015-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+BERMEJO,sospecha diagnostica,leptospirosis,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,leptospirosis,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+MONTEAGUDO,sospecha diagnostica,leptospirosis,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,2,1,3
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2,0,3,1,4
+COCHABAMBA,sospecha diagnostica,leptospirosis,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL PUENTE(STC),sospecha diagnostica,leptospirosis,2015-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,sospecha diagnostica,leptospirosis,2015-08-01,0,0,0,0,0,1,0,0,0,0,2,1,1,2,1,1,0,3,0,1,4,9,13
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+VILLA MONTES,sospecha diagnostica,leptospirosis,2015-08-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+COBIJA,sospecha diagnostica,leptospirosis,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+MONTEAGUDO,sospecha diagnostica,leptospirosis,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,0,0,2,3,5
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,3,0,3
+TARIJA,sospecha diagnostica,leptospirosis,2015-09-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,leptospirosis,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,sospecha diagnostica,leptospirosis,2015-10-01,0,0,0,0,0,0,0,0,1,0,2,0,3,0,0,1,1,0,2,0,9,1,10
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2015-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,2,3
+MONTEAGUDO,sospecha diagnostica,leptospirosis,2015-11-01,0,0,1,0,0,0,0,0,0,0,3,0,4,2,0,0,1,0,1,0,10,2,12
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+MONTEAGUDO,sospecha diagnostica,leptospirosis,2015-12-01,0,0,0,0,2,0,2,1,1,0,0,0,3,2,1,2,0,0,0,2,9,7,16
+SAN IGNACIO,sospecha diagnostica,leptospirosis,2015-12-01,0,0,0,0,0,0,1,0,1,0,2,0,3,2,3,2,1,0,0,0,11,4,15
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,leptospirosis,2015-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TARIJA,sospecha diagnostica,leptospirosis,2015-12-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1

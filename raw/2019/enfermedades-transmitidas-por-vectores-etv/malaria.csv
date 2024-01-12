@@ -1,0 +1,635 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+ALCALA,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,1,1,0,2,0,3,0,1,0,0,0,0,1,7,8
+BAURES,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,1,1,0,0,2,1,5,2,0,0,0,1,2,1,10,6,16
+BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,1,1,2,2,6,8
+CHARAGUA,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,6,3,7,6,13
+COBIJA,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COLPA BELGICA,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CONCEPCION,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,2,5,1,0,4,1,0,2,3,0,1,0,0,0,3,8,14,22
+EL ALTO,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,3,0,4,5,6,0,1,3,1,5,5,9,1,2,0,4,4,3,25,31,56
+EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,1,0,1,0,0,0,0,0,1,0,2,1,0,0,0,1,0,2,5,7
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,1,1,1,0,0,0,1,4,2,0,0,1,0,0,0,6,5,11
+FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,3,0,4,1,45,48,64,74,67,64,70,122,91,208,41,43,15,39,106,98,506,697,1203
+HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,1,2,1,4,1,1,1,1,9,9,2,2,2,4,14,10,31,33,64
+HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,1,0,2,2,5,7
+ICLA,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,0,2,0,0,0,3,1,1,0,0,0,0,1,6,7
+IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,1,1,3,1,2,1,0,1,4,3,0,1,1,1,0,0,11,9,20
+LA PAZ,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,2
+MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,1,2,0,0,0,1,0,2,0,3,1,0,0,1,1,0,3,9,12
+MAGDALENA,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,2,1,6,1,0,2,1,4,1,8,10,18
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,3,2,0,4,3,11,11,4,9,2,5,7,6,30,37,67
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,2,0,4,0,5,1,1,0,0,0,1,0,13,1,14
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,1,0,2,1,0,0,0,0,5,2,0,0,1,1,0,0,9,4,13
+PRESTO,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,2,1,0,0,0,1,1,0,0,0,1,0,0,2,4,6
+REYES,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,1,1,0,0,0,1,1,3,2,0,0,0,1,0,0,0,5,5,10
+RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,3,3,3,0,3,2,9,6,13,10,3,2,2,3,1,2,37,28,65
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SACABA,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,1,0,0,1,0,0,0,0,1,0,1,7,1,3,0,1,0,2,1,4,5,18,23
+SAN BORJA,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,2,0,2,3,0,0,4,1,1,5,2,0,1,2,3,0,15,11,26
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,1,1,2,0,1,2,1,11,0,1,0,1,2,2,7,18,25
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,1,0,2,3,1,3,1,2,0,3,1,0,0,0,0,0,6,11,17
+SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,3,0,2,5,5,2,2,3,6,5,4,6,3,1,0,4,25,26,51
+SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,1,1,1,2,6,2,5,3,6,9,3,6,0,3,5,4,27,30,57
+SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SENA,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,1,2,1,4,4,7,3,4,3,16,4,2,1,1,0,1,1,37,18,55
+SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,2,0,0,3,0,12,1,0,0,0,0,2,3,17,20
+SORATA,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SUCRE,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,1,2,5,0,1,2,0,4,2,6,1,1,1,1,4,0,15,16,31
+TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,2,3,9,0,1,0,0,0,1,3,13,16
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,3,0,3
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,2,0,2,2,1,0,1,4,1,7,1,2,2,3,0,2,10,20,30
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,2,0,0,0,2,0,1,3,2,0,0,1,0,1,1,5,8,13
+YACUIBA,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,1,1,3,1,2,2,1,2,2,5,2,2,1,0,1,0,13,13,26
+YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,4,4
+ZUDAÑEZ,enfermedades transmitidas por vectores (etv),malaria,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ALCALA,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,4,5
+BAURES,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,1,0,0,1,1,0,0,3,2,0,0,1,0,1,1,6,5,11
+BUENA VISTA,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,1,0,0,0,0,0,0,2,1,5,0,1,1,2,1,4,4,14,18
+CHALLAPATA,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+COBIJA,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+CONCEPCION,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,13,7,0,2,0,0,0,0,0,0,0,1,0,0,13,10,23
+COROICO,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,1,1,0,0,1,1,0,0,0,2,1,0,0,0,1,0,4,4,8
+EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,1,0,0,0,2,6,0,4,1,5,0,2,1,4,5,21,26
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,1,3,0,0,2,0,1,2,0,1,0,0,0,0,0,6,4,10
+FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,1,4,9,59,42,68,64,100,101,83,110,129,218,53,50,19,40,99,84,614,719,1333
+HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,1,1,0,2,3,5,2,3,1,2,1,2,5,6,13,21,34
+HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,1,1,1,0,0,0,0,1,1,3,1,1,0,0,0,0,4,6,10
+ICLA,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,1,0,0,0,6,6
+INCAHUASI,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,2,1,6,7,6,11,7,6,1,22,17,19,3,7,2,2,2,2,46,77,123
+IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,2,3,1,4,5,2,15,1,20,7,6,1,2,1,1,1,52,20,72
+LA GUARDIA,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,2,0,3,2,1,1,3,7,3,13,2,8,2,7,7,7,23,45,68
+MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,3,0,4,2,0,0,1,4,1,9,0,1,0,0,0,1,9,17,26
+MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,3,4,16,1,2,1,3,1,2,7,26,33
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,1,4,2,6,3,4,3,1,6,10,25,7,16,8,17,25,31,65,104,169
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,0,0,2,0,1,0,4,0,0,0,0,0,0,0,7,0,7
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,1,0,1,3,0,0,1,2,2,0,0,1,1,0,0,6,6,12
+PAILON,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PORVENIR,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+PRESTO,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,0,0,1,0,1,1,6,7
+PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,2,0,0,0,0,2,1,1,1,0,0,0,0,0,4,3,7
+REYES,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,1,1,0,1,0,0,2,1,2,0,0,0,0,0,0,3,5,8
+RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,4,3,7,16,10,9,18,12,37,24,10,9,14,8,6,2,106,83,189
+SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,2,1,2,0,2,2,1,3,0,4,1,11,7,33,23,11,3,5,17,34,58,104,162
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,2,5,6,5,3,0,2,8,8,2,6,1,2,5,9,26,38,64
+SAN JOAQUIN,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,0,1,1,0,2,5,4,16,1,3,2,3,7,2,17,30,47
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,1,0,3,3,0,4,0,0,4,3,0,0,2,0,0,1,10,11,21
+SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,0,0,0,3,3,1,1,0,0,1,2,0,0,1,6,6,12
+SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,1,0,0,0,0,0,2,1,0,0,2,1,0,0,5,2,7
+SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,5,0,0,0,0,0,3,0,0,1,0,0,0,0,8,1,9
+SENA,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,2,5,3,3,6,2,19,5,2,0,2,1,0,0,34,16,50
+SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,2,1,12,0,2,0,0,2,3,4,19,23
+SORATA,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SUCRE,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,3,6,2,3,1,3,0,2,4,8,3,2,2,5,4,8,19,37,56
+TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,3,0,13,0,1,0,0,0,0,0,17,17
+TOMINA,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,5,5
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,1,0,0,0,4,1,5
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,1,0,1,0,0,0,1,4,10,0,1,0,0,0,2,4,16,20
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,1,2,0,0,0,2,1,3,1,9,0,1,0,0,4,2,7,19,26
+YACUIBA,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,1,1,1,0,1,0,2,3,2,0,0,0,2,2,9,6,15
+YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,1,0,0,1,3,1,9,10
+ZUDAÑEZ,enfermedades transmitidas por vectores (etv),malaria,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+ALCALA,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,2,1,0,0,0,2,4,6
+BAURES,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,2,0,0,3,1,1,1,4,0,0,1,0,0,0,5,8,13
+BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,0,0,0,1,1,0,5,2,0,0,0,0,1,3,7,10
+CARANAVI,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,2,1,3
+COBIJA,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,1,1,2,2,5,3,6,2,4,0,1,0,0,8,19,27
+EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,1,0,0,0,4,5,0,2,0,0,2,4,0,1,2,2,9,14,23
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,3,3,2,1,0,0,2,3,1,1,2,0,0,0,10,8,18
+FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,1,5,9,63,59,94,81,105,99,84,132,125,274,59,57,35,38,86,55,656,805,1461
+HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,5,1,13,15,2,3,12,38,13,10,16,14,17,12,78,93,171
+HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,1,3,2,3,0,0,0,1,2,4,0,1,1,1,1,2,7,15,22
+ICLA,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,4,0,5,0,0,0,0,0,0,0,9,9
+INCAHUASI,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,10,5,5,4,0,1,2,4,1,5,2,2,16,21,36,42,78
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2
+IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,2,1,2,1,1,0,1,0,13,3,0,1,2,1,0,0,21,7,28
+LA GUARDIA,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,0,3,1,2,3,1,4,1,2,1,0,3,3,11,13,24
+LA PAZ,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,1,0,0,2,1,0,2,3,12,1,0,2,0,1,1,9,17,26
+MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,1,0,0,0,0,0,3,6,19,3,5,1,2,7,4,17,34,51
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,1,2,6,1,4,5,4,3,7,28,6,15,7,9,16,24,51,87,138
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,0,1,0,0,0,3,0,1,0,0,0,0,0,5,0,5
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,1,2,1,1,1,4,2,0,0,1,0,0,0,8,5,13
+POROMA,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2,0,0,1,3,4
+PRESTO,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,8,8,5,4,1,3,0,5,0,1,0,0,3,1,17,22,39
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,5,2,7
+PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+REYES,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,3,0,3
+RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,5,4,17,13,11,8,20,13,64,35,29,12,18,8,9,2,173,95,268
+ROBORE,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,2,3,3,13,4,0,0,0,0,0,0,0,0,0,0,16,9,25
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,1,1,0,0,5,5,5,10,3,4,1,9,9,54,3,12,1,7,8,13,36,115,151
+SAN BUENA VENTURA,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,1,0,3,0,1,5,2,19,1,5,2,1,2,8,12,38,50
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,1,1,3,4,0,6,0,0,8,3,0,0,0,2,0,0,12,16,28
+SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,3,2,1,1,2,0,2,0,0,0,1,2,3,5,12,17
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,1,0,2,2,0,1,2,8,0,1,0,0,0,1,0,13,5,18
+SENA,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,9,6,12,15,16,9,8,7,25,16,3,3,2,1,3,1,78,58,136
+SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,0,0,1,2,3,1,8,1,3,0,0,3,0,7,15,22
+SORATA,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SUCRE,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,1,0,2,4,2,1,3,1,1,3,2,8,3,4,0,2,8,7,22,30,52
+TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,0,0,1,0,7,0,6,0,0,0,0,0,0,0,14,14
+TARIJA,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2,1,3
+TOMINA,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TRINIDAD,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,1,0,0,0,0,3,1,2,0,0,0,0,0,5,2,7
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,1,0,0,0,2,2,7,2,3,1,0,2,1,7,14,21
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,3,0,10,1,0,0,0,3,0,4,13,17
+YACUIBA,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,3,0,3
+YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,1,0,0,0,0,0,4,0,7,0,0,0,1,1,0,1,13,14
+ZUDAÑEZ,enfermedades transmitidas por vectores (etv),malaria,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+ALCALA,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+BAURES,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,2,2,4
+CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+COBIJA,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+COCHABAMBA,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CONCEPCION,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,9,4,11,5,11,2,0,0,0,0,0,0,0,0,31,11,42
+EL ALTO,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,1,1,1,2,1,1,0,5,5,2,1,0,3,3,4,14,16,30
+EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,1,0,1,0,0,0,1,1,1,0,0,0,0,0,0,1,4,5
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,2,0,6,2,3,3,1,1,7,1,0,0,4,0,1,0,24,7,31
+FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,3,3,14,10,69,64,92,84,85,92,101,144,200,335,82,83,49,56,73,71,768,942,1710
+HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,2,3,6,9,3,5,3,4,0,8,3,0,4,3,2,5,23,37,60
+HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,1,1,3,4
+ICLA,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,0,0,0,8,7,0,9,0,1,0,0,0,0,8,17,25
+INCAHUASI,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,7,2,11,8,0,0,0,0,2,2,0,0,1,0,21,12,33
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,1,0,1,1,0,2,0,2,1,0,0,1,0,0,0,6,3,9
+IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,1,2,1,1,0,0,1,0,2,1,1,0,0,0,0,0,6,4,10
+LA GUARDIA,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,0,0,2,15,15,17,17,16,15,15,12,10,10,73,71,144
+MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,1,0,0,2,1,2,0,1,1,1,2,4,0,1,0,0,1,0,6,11,17
+MAGDALENA,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,1,0,0,0,0,3,0,1,0,0,0,0,0,0,1,4,5
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,1,2,5,2,1,2,6,3,6,11,6,5,11,11,10,23,46,59,105
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,0,0,0,1,2,4,0,1,0,0,0,1,1,7,3,10
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,2,3,1,1,2,9,5,1,2,2,1,0,0,16,13,29
+PORTACHUELO,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,7,0,14,5,5,7,6,3,8,9,2,5,4,2,11,1,57,32,89
+POTOSI,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+PRESTO,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,4,0,1,0,0,0,3,2,8,10
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,2,0,1,0,8,0,8
+PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,2,2,4
+REYES,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,0,2,2,2,1,6,0,2,1,0,0,1,0,13,4,17
+RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,4,3,8,11,11,9,22,11,31,24,17,4,6,1,1,2,100,65,165
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,2
+SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,2,5,17,10,9,4,3,7,8,49,2,21,5,6,7,15,53,117,170
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,1,0,2,2,4,7,1,6,0,2,1,0,0,0,0,1,9,18,27
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,2,2,2,4,4,5,1,1,3,1,2,1,0,0,0,0,14,14,28
+SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,7,2,3,1,1,2,6,17,3,3,5,3,4,8,29,36,65
+SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,1,2,4,3,2,2,3,5,12,23,4,8,5,10,5,4,36,57,93
+SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,2,4,1,0,1,2,0,5,3,1,1,1,0,0,0,13,8,21
+SANTA ROSA DEL SARA,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,5,2,30,25,23,29,13,10,11,11,6,7,7,3,5,1,100,88,188
+SENA,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,4,2,10,3,13,4,6,5,24,8,8,2,0,1,2,0,67,25,92
+SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,0,0,0,2,5,0,4,0,3,0,2,0,2,2,16,18
+SORATA,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SUCRE,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,4,3,1,1,1,2,5,4,2,2,2,1,5,1,20,14,34
+TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,0,0,1,0,4,0,13,0,1,0,0,0,0,0,19,19
+TOMINA,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+VALLEGRANDE,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,1,0,1,1,1,0,1,0,2,1,2,0,0,1,0,0,8,3,11
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,2,3,2,1,2,1,1,9,1,1,3,4,3,2,14,21,35
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,1,0,0,1,0,1,6,3,12,2,2,0,1,1,2,8,24,32
+YACUIBA,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2,0,1,0,6,6
+ZUDAÑEZ,enfermedades transmitidas por vectores (etv),malaria,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+ALCALA,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,0,1,2,0,1,0,1,0,0,0,0,0,0,1,4,5
+BAURES,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,4,2,6
+BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,1,0,1,1,1,3,3,0,1,0,1,4,3,8,11,19
+CARANAVI,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+CHIMORE,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COBIJA,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,0,1,0,0,0,2,0,1,0,0,0,0,0,4,0,4
+CONCEPCION,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,9,4,11,5,11,2,0,0,0,0,0,0,0,0,31,11,42
+CUATRO CAÑADAS,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,1,3,2,6,0,5,14,20,12,8,3,3,3,0,35,45,80
+EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,5,5
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,4,2,4,2,7,5,9,3,13,6,6,1,8,0,0,0,51,19,70
+FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,3,1,4
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,4,2,10,7,86,62,124,140,113,135,119,169,267,369,65,98,59,51,82,84,929,1117,2046
+HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,1,0,0,1,3,0,0,0,3,0,1,0,0,1,0,2,8,10
+HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+ICLA,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+INCAHUASI,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,1,0,0,1,25,17,11,9,1,2,1,5,1,2,0,0,0,2,40,38,78
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,2,2,0,0,0,2,3,1,0,0,1,0,0,5,6,11
+IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,6,4,10,3,5,2,11,1,21,6,4,1,5,1,0,0,62,18,80
+MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,2,2,2,2,0,0,0,1,0,10,0,2,0,0,2,3,6,20,26
+MAGDALENA,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,3,1,4
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,2,0,1,2,3,0,1,1,3,10,1,4,1,4,4,2,16,23,39
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,1,1,1,0,1,0,1,0,8,3,1,1,1,0,1,0,15,5,20
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2019-05-01,1,0,0,0,0,1,2,2,2,1,3,1,10,2,3,1,0,1,0,1,21,10,31
+PORVENIR,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+PRESTO,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,4,1,0,1,0,3,0,1,0,0,0,1,0,2,4,9,13
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,5,3,0,0,0,0,0,0,6,3,9
+PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,2,0,2,0,4,0,7,2,7,2,0,0,0,0,0,0,22,4,26
+REYES,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,2,1,1,1,1,0,0,0,5,2,7
+RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,1,7,6,10,11,20,12,30,21,81,39,30,12,14,7,5,1,197,110,307
+ROBORE,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,1,0,1,2,6,5,7,4,4,2,3,2,0,0,1,2,23,17,40
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,1,0,2,5,10,17,26,21,2,12,6,39,6,17,4,9,20,20,77,140,217
+SAN ANTONIO DE LOMERIO,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,1,0,0,0,137,121,101,98,6,12,6,2,6,2,4,3,261,238,499
+SAN BORJA,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,1,0,3,0,6,2,24,0,5,2,3,4,7,8,49,57
+SAN JOAQUIN,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,0,2,0,1,0,2,2,0,0,1,0,1,0,7,2,9
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,1,0,0,0,0,2,0,8,5,26,3,5,1,5,3,6,13,52,65
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,1,1,6,2,7,7,3,5,8,4,3,3,3,1,0,0,31,23,54
+SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,1,4,4,2,5,1,5,4,10,2,3,2,4,0,5,15,37,52
+SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,2,2,1,0,0,0,1,0,6,6,1,3,2,4,0,6,13,21,34
+SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,3,3,8,0,0,1,1,2,3,1,1,0,0,0,0,7,16,23
+SENA,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,6,3,17,15,10,13,9,7,24,17,7,4,3,2,2,0,78,61,139
+SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,0,0,2,0,4,4,3,0,1,1,1,2,2,7,13,20
+SUCRE,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,2,0,2,4,2,2,2,6,2,1,3,0,2,0,15,13,28
+TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,6,0,15,0,0,0,0,0,1,0,22,22
+TRINIDAD,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,0,1,1,0,0,5,0,0,0,1,1,0,0,7,2,9
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,1,0,0,1,1,0,2,0,1,1,1,2,1,4,7,11
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,4,0,0,1,0,0,0,1,5,6
+YACUIBA,enfermedades transmitidas por vectores (etv),malaria,2019-05-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,3
+ALCALA,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+BUENA VISTA,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0,2,1,0,1,8,9
+COBIJA,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,1,0,0,1,1,0,1,0,1,0,0,1,1,0,1,0,6,2,8
+COCHABAMBA,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CONCEPCION,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,1,0,10,11,1,1,0,0,0,0,0,0,0,0,0,0,12,12,24
+EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,3,0,0,0,6,25,11,8,0,1,1,1,0,0,0,0,21,35,56
+EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,0,0,1,2,1,3,0,0,0,0,0,0,2,5,7
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,2,1,2,2,4,4,5,2,9,4,2,3,3,1,1,1,28,18,46
+FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,0,3,4,7
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,4,2,9,12,91,83,117,113,132,129,105,139,228,250,69,92,57,67,72,69,884,956,1840
+HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,1,4,5
+HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ICLA,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,1,0,0,1,1,4,0,0,0,0,0,0,2,5,7
+INCAHUASI,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,2,3
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,0,3,1,4
+IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,8,2,10,7,6,4,5,5,21,12,7,1,3,2,2,0,62,33,95
+MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,1,0,0,2,0,0,0,0,0,10,1,1,0,2,0,0,2,15,17
+MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,1,0,1,3,4
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,1,0,1,0,2,0,0,0,2,0,1,8,1,5,4,2,6,2,18,17,35
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,1,3,0,1,2,2,0,0,1,1,1,0,0,1,0,8,5,13
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,2,0,2,1,7,2,5,1,4,4,0,1,2,2,0,0,22,11,33
+OKINAWA,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PRESTO,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,4,0,5,0,0,1,0,1,1,2,10,12
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,1,0,0,0,5,0,0,0,0,1,0,0,6,1,7
+PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,5,0,0,5,3,2,2,1,2,2,1,1,13,11,24
+REYES,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,1,1,1,2,1,0,1,0,1,2,3,1,0,0,0,0,0,6,8,14
+RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,4,3,14,9,10,12,11,11,50,17,9,10,5,4,2,2,105,68,173
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,1,1,0,0,4,4,4,3,3,8,8,22,6,38,4,15,10,4,7,12,47,107,154
+SAN BORJA,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,1,0,0,13,19,3,9,1,7,3,17,3,6,0,5,8,8,31,72,103
+SAN JOAQUIN,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,1,0,3,2,3,2,1,1,6,3,2,2,3,1,2,2,21,13,34
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,1,1,2,1,4,7,21,7,6,4,6,3,5,23,45,68
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,2,2,6,6,6,4,2,0,7,1,1,3,0,0,0,0,24,16,40
+SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,2,0,3,3,0,2,0,4,0,3,1,1,0,1,6,14,20
+SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,3,0,3
+SAN RAMON BENI,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,2,1,3
+SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,1,1,0,3,0,1,0,0,0,1,1,0,0,0,0,0,2,6,8
+SENA,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,1,0,0,7,8,12,17,17,12,10,4,20,14,3,2,3,2,2,1,74,61,135
+SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SORATA,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SUCRE,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2,0,0,0,0,0,4,2,6
+TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,1,1,0,8,1,11,0,2,0,0,1,0,3,22,25
+TRINIDAD,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,2
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,1,0,0,1,0,2,1,1,2,1,0,0,0,0,4,5,9
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,1,0,0,0,1,0,0,0,1,0,0,0,3,0,0,0,0,2,0,2,6,8
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+YACUIBA,enfermedades transmitidas por vectores (etv),malaria,2019-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ALCALA,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,4,4
+BAURES,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,1,2,0,0,3,2,1,0,0,0,0,1,5,5,10
+BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,7,3,3,1,1,2,4,1,11,0,1,1,1,6,6,14,34,48
+COBIJA,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,3,1,4
+COCHABAMBA,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CONCEPCION,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,11,19,4,5,1,0,0,0,0,0,0,0,16,24,40
+EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,2,0,0,0,0,0,0,0,0,0,4,3,0,3,2,7,8,6,16,19,35
+EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1,0,0,1,0,1,5,6
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,4,1,1,3,3,3,3,1,6,4,3,3,2,0,0,2,22,17,39
+FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,1,0,0,0,1,0,0,0,2,0,0,1,0,0,0,0,4,1,5
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,4,3,4,6,125,76,157,157,151,123,273,156,263,295,94,88,68,72,71,65,1210,1041,2251
+HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0,0,0,0,0,0,1,6,7
+HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,3,2,5
+ICLA,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1,0,0,0,0,0,5,5
+INCAHUASI,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,2,0,0,0,0,0,0,3,1,4,0,1,3,10,6,18,24
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,1,0,2,3,0,1,0,1,0,1,0,0,0,0,0,6,3,9
+IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,1,0,5,12,7,4,7,9,4,9,12,9,8,2,4,0,0,0,48,45,93
+LA PAZ,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,2,0,0,1,1,2,7,0,1,0,2,0,0,3,13,16
+MAGDALENA,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,0,1,1,0,3,5,8
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,0,1,0,2,2,6,1,2,1,0,1,0,5,11,16
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,1,2,2,1,0,3,1,9,5,3,1,0,0,0,0,18,10,28
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2019-07-01,1,0,0,0,0,0,1,1,1,2,4,0,10,4,1,1,0,1,2,1,20,10,30
+PRESTO,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,1,0,0,2,0,4,0,2,0,0,1,0,2,8,10
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,5,3,3,0,1,0,0,0,9,3,12
+PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,1,0,4,0,2,0,0,2,7,6,1,0,2,1,1,2,18,11,29
+QUILLACOLLO,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+REYES,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,5,4,19,13,11,14,29,18,65,37,16,7,7,6,8,6,160,105,265
+ROBORE,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,3,2,5,3,4,3,3,2,2,3,0,0,17,13,30
+SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,1,0,0,0,3,3,4,5,2,2,0,8,8,44,2,17,8,7,7,12,35,98,133
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,1,0,2,1,12,14,13,10,8,12,5,21,3,9,2,3,10,7,56,77,133
+SAN JOAQUIN,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,1,2,1,1,0,2,0,3,2,0,0,0,0,0,0,8,4,12
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,1,0,0,0,0,0,1,1,18,0,5,1,0,1,5,3,30,33
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,2,5,2,4,1,2,1,11,1,0,4,0,0,0,0,22,11,33
+SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,1,0,4,3,4,2,1,3,2,3,0,1,0,1,0,1,12,14,26
+SAN PEDRO,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,1,0,0,1,0,0,0,1,7,9,6,0,11,6,3,1,28,18,46
+SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,3,2,2,1,2,4,3,1,0,2,0,0,0,0,10,10,20
+SENA,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,10,4,9,8,5,1,8,7,12,7,13,2,3,1,3,1,63,31,94
+SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,0,0,1,1,0,6,0,2,0,1,0,2,1,12,13
+SORATA,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SUCRE,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,1,0,0,0,2,1,2,1,0,0,1,1,6,3,9
+TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,0,1,0,6,0,11,0,0,0,0,0,0,0,18,18
+TARIJA,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+TRINIDAD,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,4,0,4
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,1,0,0,0,3,2,5
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,1,0,1,0,0,0,1,1,4,0,0,0,0,1,2,2,9,11
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+YACUIBA,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ZUDAÑEZ,enfermedades transmitidas por vectores (etv),malaria,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+ALCALA,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,3,3
+BAURES,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,1,1,0,0,1,1,0,0,1,2,0,0,0,0,0,0,3,4,7
+BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+COBIJA,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,3,1,4
+CONCEPCION,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,8,8,19,14,0,2,0,1,1,0,0,0,0,0,28,25,53
+EL ALTO,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,2,5,3,0,2,4,1,0,4,5,1,3,4,0,2,0,19,17,36
+FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,3,0,2,1,69,52,106,98,90,101,97,69,180,292,76,79,73,52,73,60,769,804,1573
+HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,1,0,0,0,0,3,2,1,0,0,1,1,1,5,5,10
+ICLA,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,5,5
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,1,2,1,2,3,2,0,0,3,0,1,0,9,6,15
+IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,2,1,3,3,1,1,3,1,6,6,1,0,2,0,0,0,18,12,30
+LA PAZ,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,2,2,0,0,1,1,14,0,1,0,1,0,2,3,21,24
+MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,4,0,0,0,0,0,0,1,4,5
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,1,2,2,1,1,1,1,10,1,0,1,2,1,1,0,17,8,25
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,1,0,3,0,1,3,2,2,3,1,10,5,2,1,1,2,1,3,24,17,41
+PRESTO,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,5,0,0,2,1,3,1,0,0,0,0,0,7,5,12
+REYES,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,1,1,0,0,1,0,2,1,0,0,0,0,0,2,4,6
+RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,4,5,13,8,7,4,10,6,25,24,9,7,5,6,3,2,76,62,138
+ROBORE,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,1,2,2,0,1,0,0,3,3,5,0,0,0,1,0,2,7,13,20
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,2,0,7,4,2,2,1,1,4,9,6,51,4,14,5,8,13,12,44,101,145
+SAN BUENA VENTURA,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN JOAQUIN,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,2,0,0,1,6,1,2,0,0,0,1,0,11,2,13
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,1,1,1,0,4,1,11,0,2,1,5,0,3,3,27,30
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,1,3,1,6,2,2,4,6,3,4,2,1,1,2,1,0,15,24,39
+SAN MATIAS,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,13,9,46,47,68,70,78,61,50,83,14,28,16,14,18,36,303,348,651
+SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,2,0,2,3,0,1,0,0,4,6,4,1,0,2,0,1,12,14,26
+SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,1,0,0,1,0,3,1,0,1,0,0,0,0,0,3,4,7
+SAN RAMON BENI,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,1,0,2,2,1,1,4,5,7,11,6,5,0,4,4,3,25,31,56
+SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,2,1,0,1,0,5,1,0,1,0,0,0,0,7,4,11
+SENA,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,1,4,6,11,5,5,10,9,2,14,4,5,6,0,0,0,0,48,34,82
+SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,1,0,0,0,2,0,3,1,0,0,0,0,0,1,6,7
+SORATA,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SUCRE,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,3,2,5
+TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,9,0,13,0,1,0,0,0,0,0,23,23
+TRINIDAD,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,4,0,4
+URIONDO (A. CONCEPCION),enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,1,0,0,0,0,0,6,6
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,1,1,1,1,8,9
+YACUIBA,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+ALCALA,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+ANZALDO,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,1,3,0,0,0,0,2,1,1,3,0,1,0,0,0,4,4,12,16
+COBIJA,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+COCHABAMBA,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CONCEPCION,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,0,0,6,0,16,4,0,0,0,0,0,0,22,4,26
+EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,2,0,2,4,1,0,1,4,19,0,1,0,2,3,1,11,29,40
+EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,1,0,0,2,4,6
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,3,2,4,7,7,8,2,1,14,7,4,0,3,0,3,1,40,26,66
+FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,3,1,4
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,3,3,10,5,86,58,111,141,102,103,104,103,169,227,60,64,46,46,44,49,735,799,1534
+HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0,1,0,0,1,0,2,7,9
+ICLA,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,6,6
+INCAHUASI,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,1,0,4,6,5,9,0,1,4,6,2,2,0,4,0,1,16,29,45
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,3,0,1,5,1,4,2,0,8,8,0,0,0,0,0,0,15,17,32
+IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,1,5,1,4,3,1,1,5,0,0,0,1,0,0,0,16,6,22
+MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,3,2,5,0,3,0,1,1,0,3,12,15
+MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,2,0,4,0,1,0,0,0,0,0,7,7
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,2,3
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,1,0,2,1,1,1,0,0,8,3,1,0,0,0,2,1,15,6,21
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,2,2,5,4,4,8,7,2,11,9,7,3,2,1,0,0,38,29,67
+PORVENIR,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+PRESTO,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,2,0,1,1,0,0,0,1,0,1,0,0,0,0,3,3,6
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,3,0,3
+PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,1,0,1,0,1,0,0,2,2,4,3,2,1,0,0,0,9,8,17
+REYES,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,3,2,5
+RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,6,3,14,18,17,10,28,8,41,38,18,9,7,6,3,3,134,95,229
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SACABA,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,1,0,0,1,0,2,1,1,2,5,4,8,38,5,20,3,4,6,20,31,90,121
+SAN BORJA,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,1,0,4,1,1,3,1,1,2,0,4,3,1,0,1,0,1,2,16,10,26
+SAN JOAQUIN,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,1,0,0,0,3,8,3,17,0,7,2,2,1,1,10,35,45
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,1,1,2,1,3,3,1,3,0,4,4,0,0,1,0,0,0,13,11,24
+SAN MATIAS,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,1,5,1,2,4,0,0,3,4,0,2,1,2,1,3,12,17,29
+SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,1,1,4,5
+SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,2,6,0,0,5,1,1,0,0,0,0,0,1,0,9,7,16
+SENA,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,7,2,9,8,6,5,4,4,12,7,4,1,1,0,1,0,44,27,71
+SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,1,0,0,0,0,0,9,9
+SORATA,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SUCRE,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,4,3,12,0,0,0,0,0,0,3,16,19
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,1,3,0,5,1,0,0,2,1,0,1,0,0,0,0,10,4,14
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,2,3,0,0,0,0,1,0,4,3,7
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,2,3
+YACUIBA,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,0,1,0,3,1,4,0,0,1,0,0,1,2,9,11
+ZUDAÑEZ,enfermedades transmitidas por vectores (etv),malaria,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+ALCALA,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+BAURES,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,1,1,0,0,0,0,3,2,0,0,0,0,0,0,4,3,7
+BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,1,0,1,0,2,1,0,0,0,0,0,0,4,1,5
+BERMEJO,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,1,0,2,0,0,1,1,1,2,0,0,0,0,0,4,2,10,12
+CHARAGUA,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,0,0,2,5,0,8,5,13
+CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+COBIJA,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3,0,3
+CONCEPCION,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,2,0,1,0,0,0,1,0,2,1,0,0,0,0,4,0,10,1,11
+CUATRO CAÑADAS,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,0,5,3,2,20,1,1,0,1,0,0,8,25,33
+EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2019-10-01,1,0,0,0,4,3,11,10,4,8,7,1,23,9,6,7,4,0,1,0,61,38,99
+FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,1,0,0,0,3,2,0,0,0,0,0,0,4,2,6
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,3,4,8,10,110,85,181,194,157,146,150,114,221,290,61,84,43,53,59,70,993,1050,2043
+HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,2,0,4,1,1,1,0,0,0,2,7,9
+HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+ICLA,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+INCAHUASI,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,17,18,1,2,0,8,0,0,0,4,0,0,0,0,0,0,18,32,50
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,2,0,2,1,2,1,0,0,3,8,0,1,0,0,0,0,9,11,20
+IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,1,1,0,2,4,1,5,0,1,0,0,0,0,4,11,15
+LA PAZ,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,1,0,0,1,1,1,4,0,2,1,2,0,0,3,10,13
+MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,1,0,0,0,1,0,3,4,1,0,1,1,0,3,7,8,15
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,1,0,2,4,0,3,1,1,1,1,0,0,0,9,5,14
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2019-10-01,1,0,1,0,3,2,3,5,4,7,6,3,20,15,7,2,7,3,0,2,52,39,91
+PORVENIR,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,3,1,4
+PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,1,2,2,0,0,2,3,2,2,0,2,1,1,1,11,8,19
+QUILLACOLLO,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+REYES,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,2,0,1,0,1,0,2,0,0,0,0,1,0,1,6,7
+RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,1,0,10,5,15,11,17,22,36,11,88,48,22,15,14,8,4,2,207,122,329
+ROBORE,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,3,1,1,0,1,2,1,0,11,0,1,1,0,0,2,4,20,24
+SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,1,4,7,1,1,1,3,5,5,58,8,23,3,16,11,18,39,126,165
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,1,0,6,3,9,13,7,6,5,4,6,20,8,4,3,7,14,10,59,67,126
+SAN JOAQUIN,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,1,0,2,0,1,0,4,3,2,0,0,0,0,0,10,3,13
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,1,4,0,1,0,6,1,17,0,4,0,1,0,0,2,33,35
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,1,3,4,3,3,7,1,1,7,6,2,1,0,0,0,0,18,21,39
+SAN MATIAS,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,15,7,17,12,0,0,0,0,0,1,0,0,0,2,32,22,54
+SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+SAN RAMON BENI,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,1,6,1,1,1,0,0,0,0,7,3,10
+SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,4,2,2,1,2,2,2,0,1,0,1,0,1,0,0,0,13,5,18
+SENA,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,1,0,0,3,10,13,9,10,6,6,7,19,14,7,4,0,3,1,0,59,54,113
+SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,2,1,3,0,0,0,0,0,0,1,5,6
+SORATA,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SUCRE,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,1,0,4,1,12,0,2,0,0,0,0,1,19,20
+TRINIDAD,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,1,0,0,0,1,0,4,0,0,0,0,0,1,0,7,0,7
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,2,0,0,0,0,0,1,6,0,2,0,0,2,0,5,8,13
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,3,0,7,0,0,0,0,0,0,0,10,10
+VINTO,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+YACUIBA,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,3,0,3
+YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+ALCALA,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+BAURES,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,1,2,1,0,4,3,0,0,0,0,0,0,6,5,11
+BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,2,2,1,1,1,0,2,3,1,6,2,1,2,0,3,3,14,16,30
+CHARAGUA,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,1,0,1,3,1,2,0,1,3,5,10,7,16,18,34
+COBIJA,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,1,0,0,1,2,0,2,0,0,0,0,0,5,1,6
+COCHABAMBA,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COLCAPIRHUA,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CONCEPCION,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,3,3,3,0,2,6,17,1,6,3,5,6,7,19,43,62
+COTOCA,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,1,5,12,0,2,1,2,2,5,8,22,30
+EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,1,0,4,1,4,2,4,3,7,2,12,5,3,0,2,0,0,0,37,13,50
+FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,2,0,0,0,3,1,0,0,1,0,0,1,6,2,8
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,2,6,16,10,107,85,148,175,111,139,101,132,230,316,57,84,59,53,50,50,881,1050,1931
+HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,2,0,0,0,0,1,0,1,0,0,1,1,0,0,3,3,6
+HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,2,1,3
+ICLA,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,1,0,0,0,0,0,5,5
+INCAHUASI,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,8,1,0,0,0,1,1,0,0,0,0,0,9,2,11
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,1,2,1,0,1,3,0,0,0,0,0,0,3,5,8
+IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,1,0,1,9,4,2,1,3,7,3,1,2,0,0,0,0,15,19,34
+LA PAZ,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,1,0,0,0,0,0,0,3,0,5,0,1,0,1,0,0,1,10,11
+MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1,0,0,1,0,0,3,2,5
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,2,0,0,0,1,2,1,1,10,4,3,0,1,0,0,1,18,8,26
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2019-11-01,1,0,0,0,3,3,6,7,5,9,15,2,15,12,8,0,7,2,2,0,62,35,97
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,2,0,2,2,9,1,17,6,3,4,1,4,4,0,38,17,55
+QUILLACOLLO,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+REYES,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,9,4,7,3,14,12,27,12,70,30,10,9,4,5,8,3,149,78,227
+ROBORE,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,2,3,1,2,1,2,2,2,1,2,1,1,8,12,20
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,1,0,1,0,2,5,5,4,3,2,3,6,2,40,6,9,4,8,14,11,41,85,126
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,10,5,9,11,7,7,0,0,0,0,0,0,0,0,26,23,49
+SAN JOAQUIN,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,2,0,1,0,0,0,7,0,7
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,1,0,0,0,0,2,4,1,12,2,1,0,3,2,7,7,28,35
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,1,1,2,0,3,5,7,3,5,8,2,4,1,2,0,0,21,23,44
+SAN MATIAS,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,5,4,3,0,1,0,1,2,1,7,11,18
+SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,3,0,3
+SAN RAMON BENI,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA ANA,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,3,3,13,5,8,2,4,3,12,18,4,3,5,7,3,7,52,48,100
+SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,3,2,0,0,0,0,1,0,0,0,0,0,0,0,4,2,6
+SENA,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,1,5,6,10,9,5,5,9,13,20,12,11,3,3,0,1,1,64,50,114
+SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,3,1,7,0,0,0,0,0,0,2,10,12
+SUCRE,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,5,0,13,0,0,0,0,0,0,1,18,19
+URIONDO (A. CONCEPCION),enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,2,2,0,2,0,0,4,1,0,0,0,0,0,0,6,5,11
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,0,1,0,5,0,9,0,0,0,0,0,0,0,15,15
+YACUIBA,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+ALCALA,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+BAURES,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,3,2,5
+BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,1,3,0,0,0,1,0,0,0,5,1,6
+CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,2,2,0,2,0,0,1,4,3,0,1,0,0,1,3,9,10,19
+CARANAVI,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+COBIJA,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,3,1,0,0,0,0,0,0,4,1,5
+COLCAPIRHUA,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CONCEPCION,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,1,0,0,0,0,0,0,0,0,4,0,5,1,0,0,0,1,0,3,9,12
+EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,2,7,22,2,2,0,3,5,4,14,33,47
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,1,1,1,3,2,5,0,6,2,2,1,1,0,1,0,19,7,26
+FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,3,2,0,1,0,0,0,0,4,3,7
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,1,0,5,8,71,69,108,105,118,113,109,114,202,232,71,82,51,37,51,51,787,811,1598
+HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+INCAHUASI,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,1,2,3
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,3
+IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,3,2,6,4,4,7,4,6,7,7,1,2,1,0,0,0,26,28,54
+MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,0,0,0,2,0,0,3,0,0,0,0,0,0,2,3,5
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,1,1,0,0,0,2,1,0,1,0,0,0,0,3,3,6
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,3,2,3,1,4,4,6,3,13,2,2,0,0,0,1,1,32,13,45
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,1,2,0,0,1,2,2,1,5,6,3,1,1,0,1,0,14,12,26
+PORONGO,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,1,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,4,0,4
+PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,2,1,3,1,16,1,17,1,4,1,1,2,1,1,44,8,52
+REYES,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,1,2,1,0,0,0,0,3,0,0,0,0,0,0,2,5,7
+RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,1,0,0,0,11,3,9,16,21,19,26,16,65,32,20,10,7,8,8,3,168,107,275
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,2,3,3,5,3,5,5,9,4,39,4,11,4,11,6,8,31,91,122
+SAN BUENA VENTURA,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAN IGNACIO,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAN JOAQUIN,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,1,0,0,2,0,1,0,1,0,6,0,4,0,0,2,3,3,17,20
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,1,1,3,2,5,5,1,5,9,2,2,2,1,1,0,0,22,18,40
+SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,4,1,4,3,4,3,5,4,6,10,0,5,1,1,3,2,27,29,56
+SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,1,0,1,2,4,2,4,3,5,5,1,3,3,1,0,1,19,17,36
+SENA,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,1,0,1,2,4,7,8,7,6,6,7,20,7,1,1,2,0,1,0,46,35,81
+SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,2,1,3,0,1,0,0,0,0,1,6,7
+SUCRE,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,1,3
+TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,7,0,8,1,0,0,1,0,0,1,16,17
+TRINIDAD,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,2,1,3
+VALLEGRANDE,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,1,1,0,4,1,4,1,3,1,7,0,0,0,0,2,0,0,19,6,25
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,1,0,0,0,0,5,2,2,4,0,0,0,0,1,0,8,7,15
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,1,0,0,0,2,0,6,0,3,1,0,1,0,2,12,14
+WARNES,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1

@@ -1,0 +1,68 @@
+municipality,group,variable,month,< de 1 año,1 a 4 años,5 a 9 años,10 a 20 años,21 a 59 años,60 y más,TOTAL
+ALALAY,sospecha diagnostica,dengue hemorragico,2014-01-01,0,0,0,0,0,0,0
+MIZQUE,sospecha diagnostica,dengue hemorragico,2014-01-01,0,0,0,0,0,0,0
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2014-01-01,0,1,3,12,15,1,32
+VILLA TUNARI,sospecha diagnostica,dengue hemorragico,2014-01-01,0,0,2,6,9,2,19
+ALALAY,sospecha diagnostica,dengue hemorragico,2014-02-01,0,0,0,0,0,0,0
+CABEZAS,sospecha diagnostica,dengue hemorragico,2014-02-01,0,0,0,2,0,0,2
+MIZQUE,sospecha diagnostica,dengue hemorragico,2014-02-01,0,0,0,0,0,0,0
+SAN RAMON BENI,sospecha diagnostica,dengue hemorragico,2014-02-01,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2014-02-01,2,2,2,13,23,5,47
+VILA VILA,sospecha diagnostica,dengue hemorragico,2014-02-01,0,0,0,0,0,0,0
+ALALAY,sospecha diagnostica,dengue hemorragico,2014-03-01,0,0,0,0,0,0,0
+MIZQUE,sospecha diagnostica,dengue hemorragico,2014-03-01,0,0,0,0,0,0,0
+PALOS BLANCOS,sospecha diagnostica,dengue hemorragico,2014-03-01,0,0,0,0,1,0,1
+SAN MATIAS,sospecha diagnostica,dengue hemorragico,2014-03-01,0,0,0,1,0,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2014-03-01,0,1,2,29,43,5,80
+TARIJA,sospecha diagnostica,dengue hemorragico,2014-03-01,0,0,0,1,1,0,2
+TRINIDAD,sospecha diagnostica,dengue hemorragico,2014-03-01,3,3,0,0,3,3,12
+VILA VILA,sospecha diagnostica,dengue hemorragico,2014-03-01,0,0,0,0,0,0,0
+BOYUIBE,sospecha diagnostica,dengue hemorragico,2014-04-01,0,0,0,3,2,0,5
+COCHABAMBA,sospecha diagnostica,dengue hemorragico,2014-04-01,0,0,0,0,1,0,1
+MIZQUE,sospecha diagnostica,dengue hemorragico,2014-04-01,0,0,0,0,0,0,0
+SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue hemorragico,2014-04-01,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2014-04-01,1,4,9,14,50,11,89
+SHINAOTA,sospecha diagnostica,dengue hemorragico,2014-04-01,0,0,0,1,0,0,1
+TARIJA,sospecha diagnostica,dengue hemorragico,2014-04-01,0,0,0,0,2,0,2
+VILA VILA,sospecha diagnostica,dengue hemorragico,2014-04-01,0,0,0,0,0,0,0
+BOYUIBE,sospecha diagnostica,dengue hemorragico,2014-05-01,0,0,0,0,1,0,1
+MIZQUE,sospecha diagnostica,dengue hemorragico,2014-05-01,0,0,0,0,0,0,0
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2014-05-01,0,2,3,3,24,3,35
+TIRAQUE (CBBA),sospecha diagnostica,dengue hemorragico,2014-05-01,0,0,0,0,0,0,0
+VILLA TUNARI,sospecha diagnostica,dengue hemorragico,2014-05-01,0,0,0,0,0,0,0
+YAPACANI,sospecha diagnostica,dengue hemorragico,2014-05-01,0,1,0,0,0,0,1
+MIZQUE,sospecha diagnostica,dengue hemorragico,2014-06-01,0,0,0,0,0,0,0
+SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue hemorragico,2014-06-01,0,1,0,1,4,0,6
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2014-06-01,0,0,0,0,3,3,6
+TIPUANI,sospecha diagnostica,dengue hemorragico,2014-06-01,0,0,0,1,1,0,2
+VILA VILA,sospecha diagnostica,dengue hemorragico,2014-06-01,0,0,0,0,0,0,0
+VILLA TUNARI,sospecha diagnostica,dengue hemorragico,2014-06-01,0,0,0,0,0,0,0
+CUCHUMUELA (V. G. VILLARROEL),sospecha diagnostica,dengue hemorragico,2014-07-01,0,0,0,0,0,0,0
+MIZQUE,sospecha diagnostica,dengue hemorragico,2014-07-01,0,0,0,0,0,0,0
+PUNATA,sospecha diagnostica,dengue hemorragico,2014-07-01,0,0,0,0,0,0,0
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2014-07-01,0,0,1,1,3,0,5
+VILA VILA,sospecha diagnostica,dengue hemorragico,2014-07-01,0,0,0,0,0,0,0
+VILLA TUNARI,sospecha diagnostica,dengue hemorragico,2014-07-01,0,0,0,0,0,0,0
+CUCHUMUELA (V. G. VILLARROEL),sospecha diagnostica,dengue hemorragico,2014-08-01,0,0,0,0,0,0,0
+MIZQUE,sospecha diagnostica,dengue hemorragico,2014-08-01,0,0,0,0,0,0,0
+PUNATA,sospecha diagnostica,dengue hemorragico,2014-08-01,0,0,0,0,0,0,0
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2014-08-01,0,0,0,1,2,2,5
+VILA VILA,sospecha diagnostica,dengue hemorragico,2014-08-01,0,0,0,0,0,0,0
+VILLA TUNARI,sospecha diagnostica,dengue hemorragico,2014-08-01,0,0,0,0,0,0,0
+CUCHUMUELA (V. G. VILLARROEL),sospecha diagnostica,dengue hemorragico,2014-09-01,0,0,0,0,0,0,0
+MIZQUE,sospecha diagnostica,dengue hemorragico,2014-09-01,0,0,0,0,0,0,0
+PUNATA,sospecha diagnostica,dengue hemorragico,2014-09-01,0,0,0,0,0,0,0
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2014-09-01,0,0,1,0,0,0,1
+VILA VILA,sospecha diagnostica,dengue hemorragico,2014-09-01,0,0,0,0,0,0,0
+VILLA TUNARI,sospecha diagnostica,dengue hemorragico,2014-09-01,0,0,0,0,0,0,0
+SAN BORJA,sospecha diagnostica,dengue hemorragico,2014-10-01,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue hemorragico,2014-10-01,1,1,0,0,0,0,2
+SAN MATIAS,sospecha diagnostica,dengue hemorragico,2014-10-01,0,0,0,0,2,0,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2014-10-01,0,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,dengue hemorragico,2014-10-01,0,0,0,0,1,0,1
+TARIJA,sospecha diagnostica,dengue hemorragico,2014-10-01,0,0,0,0,1,0,1
+SAN MATIAS,sospecha diagnostica,dengue hemorragico,2014-11-01,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,dengue hemorragico,2014-11-01,1,0,0,1,1,0,3
+SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue hemorragico,2014-12-01,0,2,0,0,1,0,3
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2014-12-01,0,1,2,0,1,1,5
+TRINIDAD,sospecha diagnostica,dengue hemorragico,2014-12-01,0,0,0,0,2,0,2

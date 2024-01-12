@@ -1,0 +1,32 @@
+{
+    "cookie": "es15y505g3h0e14ooob5ebns",
+    "pages": {
+        "2001": "Form_Vigi_2001.aspx",
+        "2002": "Form_Vigi_2001.aspx",
+        "2003": "Form_Vigi_2001.aspx",
+        "2004": "Form_Vigi_2001.aspx",
+        "2005": "Form_Vigi_2007.aspx",
+        "2006": "Form_Vigi_2007.aspx",
+        "2007": "Form_Vigi_2007.aspx",
+        "2008": "Form_Vigi_2008.aspx",
+        "2009": "Form_Vigi_2009.aspx",
+        "2010": "Form_Vigi_2010.aspx",
+        "2011": "Form_Vigi_2011.aspx",
+        "2012": "Form_Vigi_2012.aspx",
+        "2013": "Form_Vigi_2013.aspx",
+        "2014": "Form_Vigi_2014_2.aspx",
+        "2015": "Form_Vigi_2015_302a.aspx",
+        "2016": "Form_Vigi_2016_302a.aspx",
+        "2017": "Form_Vigi_2017_302a.aspx",
+        "2018": "Form_Vigi_2018_302a.aspx",
+        "2019": "Form_Vigi_2019_302a.aspx",
+        "2020": "Form_Vigi_2020_302a.aspx",
+        "2021": "Form_Vigi_2021_302a.aspx",
+        "2022": "Form_Vigi_2022_302a.aspx"
+    },
+    "filenames": {
+        "variables": "indexes/variables.csv",
+        "raw": "indexes/raw.csv",
+        "download_errors": "errors"
+    }
+}

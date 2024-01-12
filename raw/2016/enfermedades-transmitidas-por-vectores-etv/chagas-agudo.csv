@@ -1,0 +1,750 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,TOTAL-M,TOTAL-F,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+AIQUILE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ARQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+ATOCHA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,2,0,1,4,1,1,1,1,0,0,0,1,2,0,0,0,0,2,2,9,9,18
+BERMEJO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,2,0,0,0,0,1,0,1,0,0,1,0,1,3,0,0,0,2,1,2,5,9,14
+CAMIRI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+CARAPARI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,4,0,4
+CARIPUYO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+CHIMORE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,1,0,2,0,1,2,9,12,7,5,1,10,20,24,41,53,94
+COLCAPIRHUA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COTAGAITA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,1,0,1,2,4,5,7,12
+COTOCA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CUEVO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CULPINA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2,3
+EL PUENTE(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+EL TORNO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+LA ASUNTA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,2,0,0,0,0,2,6,8
+LA PAZ,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2,1,3,4
+MACHARETI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2
+MONTERO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,2,3,2,25,8,30,15,45
+OMEREQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,5,3,0,1,2,2,0,0,7,6,13
+PADCAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,1,3,4
+POROMA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,4,0,6,6
+POTOSI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,4,1,0,1,1,4,3,8,8,16
+QUILLACOLLO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,2,1,0,2,0,1,0,0,1,1,1,0,0,0,0,0,4,5,9
+SACABA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,3
+SAN JOAQUIN,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,1,0,1,0,0,0,1,1,1,0,0,1,1,0,0,0,5,2,7
+SAN JULIAN,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,2,1,3
+SANTA ANA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,3,4,10,0,5,0,0,7,13,9,0,25,115,122,45,88,100,89,56,124,347,468,815
+SANTA ROSA DEL SARA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,2
+SANTIVAÑES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SICAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,3,3,1,2,1,0,0,1,5,6,11
+SOPACHUY,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,3,1,4
+SUCRE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,1,1,0,3,2,0,0,0,0,0,1,6,2,3,4,3,0,0,8,16,18,34
+TARIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,1,0,0,2,3,2,2,2,4,5,2,6,12,17,29
+TIQUIPAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TOTORA(CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,3,6,0,0,0,1,1,0,4,7,11
+TRINIDAD,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,1,2,3
+TUPIZA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+URIONDO (A. CONCEPCION),enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,4,4
+VALLEGRANDE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA CHARCAS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA RIVERO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1,1,1,1,1,2,5,5,10
+VILLAZON,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,2,3
+WARNES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,1,0,0,0,0,0,0,0,2,0,8,0,0,0,0,3,6,3,17,20
+YACUIBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,2,0,0,0,1,0,0,0,1,0,2,2,9,1,4,7,7,8,9,18,35,53
+YANACACHI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+YAPACANI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,4,0,2,2,0,2,0,5,6,11
+ACACIO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,2,3,4,7
+ANZALDO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,2
+ARANI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+BERMEJO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,2,3,4,1,1,1,2,2,0,7,9,16
+CHALLAPATA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CHIMORE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+COCHABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,1,0,1,1,0,5,3,25,3,8,3,11,24,49,35,99,134
+COROICO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COTOCA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL ALTO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+EL PUENTE(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,3,0,0,0,0,9,3,12
+EL TORNO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,1,2,3
+ENTRE RIOS TRJ,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+ICLA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+LA ASUNTA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1,4,5
+LA GUARDIA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,1,1,0,2,4,6
+LA PAZ,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,3,0,3,2,7,9
+LORETO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,1,3,4
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,1,0,0,0,1,2,0,1,1,0,0,0,0,0,0,1,0,0,0,0,3,4,7
+MONTERO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,4,2,3,0,3,7,17,10,27,19,46
+OMEREQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,1,1,0,0,3,3,6
+PADCAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,1,2,3
+POROMA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,1,0,0,3,3,5,6,11
+POTOSI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,1,0,2,4,6
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+QUILLACOLLO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+SACABA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+SAN BENITO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,1,3,0,0,1,0,0,0,0,1,0,0,0,0,2,0,4,4,8
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,1,0,1,0,1,0,0,0,0,0,2,2,1,3,2,1,1,6,9,15
+SAN JULIAN,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,1,0,0,1,0,2,0,0,0,0,2,0,3,3,6
+SAN LORENZO(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,3,6,8,3,0,3,3,1,12,3,6,13,131,118,60,133,52,125,126,147,401,552,953
+SANTA ROSA DEL SARA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SANTIVAÑES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,1,4,5
+SHINAOTA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2,3
+SICAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,1,0,0,0,0,2,5,0,0,3,0,0,0,5,6,11
+SUCRE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,8,2,0,1,0,0,0,2,8,5,13
+TACOBAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,1,2,1,1,3,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,6,11
+TARIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0,5,3,3,0,5,6,18,24
+TINGUIPAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+TIQUIPAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,1,3,5,0,0,2,1,0,1,5,8,13
+TOTORA(CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,3,1,2,4,3,7,11,18
+TRINIDAD,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,1,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,6,3,9
+VILLA RIVERO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2,3
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,1,0,0,1,0,0,2,2,1,2,2,0,2,2,8,7,15
+VILLAZON,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,2,3
+VINTO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,3,2,0,1,0,0,0,0,0,1,0,0,0,0,1,1,4,5,9
+WARNES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,1,0,2,1,21,1,1,0,1,3,4,5,30,35
+YACUIBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,1,0,0,0,0,0,4,0,2,0,4,3,1,2,5,5,17,22
+YAMPARAEZ,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+YAPACANI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,1,0,2,3,5
+YUNCHARA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+AIQUILE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,0,3
+ALCALA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,2,0,0,0,6,8,3,3,1,3,1,2,0,2,0,0,1,1,0,0,14,19,33
+ANZALDO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+ARANI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,3,3
+ARBIETO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+BERMEJO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,1,4,6,2,3,4,2,6,2,16,14,30
+"CAIZA ""D""",enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,1,3,3,9,7,2,2,1,1,0,0,5,3,1,1,0,0,8,4,29,22,51
+CHAYANTA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+CHIMORE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,1,4
+CKOCHAS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,2,1,0,0,0,0,4,4,0,3,0,0,0,0,0,0,6,8,14
+CLIZA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+COCHABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,2,0,2,3,3,0,0,0,1,6,10,29,9,8,8,12,36,41,71,99,170
+COLCAPIRHUA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,3
+CONCEPCION,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CORIPATA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+COROICO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COTAGAITA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,4,3,1,1,3,5,12,17
+COTOCA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,2,3
+CUCHUMUELA (V. G. VILLARROEL),enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CULPINA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL ALTO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,2,0,1,0,0,0,0,2,3,5
+EL PUENTE(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,1,0,0,5,2,7
+EL TORNO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,1,0,0,0,5,5
+ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,1,0,1,3,0,0,0,0,0,0,2,3,5
+FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+LA ASUNTA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,2,1,1,0,0,0,1,1,1,0,1,0,0,0,6,2,8
+LA GUARDIA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,2,1,0,0,0,0,0,2,3,0,1,0,1,1,0,4,7,11
+LA PAZ,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+LORETO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,2,3
+MOJOCOYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+MONTERO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,3,8,1,11,20,22,27,49
+OMEREQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,4,10,0,1,2,3,0,1,6,15,21
+PADCAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+PADILLA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+PASORAPA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+POTOSI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,1,2,0,0,3,5,8
+PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,2,1,3
+PUNATA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SACABA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,3,1,4
+SAN BENITO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,1,0,0,1,1,3,4,7
+SAN JULIAN,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,1,1,0,1,0,1,0,2,0,0,4,6,1,1,0,0,0,2,6,14,20
+SAN LORENZO(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+SAN LUCAS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,1,1,3,1,0,0,0,0,1,2,5,7
+SAN PEDRO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+SANTA ANA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,10,11,5,2,5,4,1,0,6,0,12,5,151,148,110,112,111,150,152,182,563,614,1177
+SANTIVAÑES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,2,0,0,2,0,0,0,0,1,1,1,0,3,0,0,0,0,1,7,4,11
+SHINAOTA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,1,0,0,0,3,1,0,1,0,0,0,0,4,2,6
+SICAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,0,0,0,1,1,3,3,6
+SOPACHUY,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SUCRE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,1,0,0,3,0,0,0,0,0,1,2,7,1,1,2,0,0,5,6,17,23
+TARIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,9,14,2,6,7,8,4,8,22,36,58
+TIQUIPAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+TIRAQUE (CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TOMAVE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+TOTORA(CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,5,0,2,0,1,4,3,6,11,17
+TRINIDAD,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+URIONDO (A. CONCEPCION),enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+VILLA RIVERO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,2,1,3
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,2,3,3,6
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,2,3,0,1,1,6,4,10
+VILLAZON,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,2,0,1,0,6,1,7
+VINTO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+WARNES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,1,0,0,1,2,3,26,0,3,0,2,1,1,5,35,40
+YACUIBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,9,2,1,3,7,2,6,8,23,31
+YAPACANI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,1,0,2,3,5
+ARANI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+AYOPAYA (V. DE INDEPENDENCIA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,1,0,1,3,0,0,0,0,0,0,0,0,0,1,1,2,6,6,9,12,21
+BERMEJO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,4,5,9
+CABEZAS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+"CAIZA ""D""",enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,2,0,2,1,2,0,0,0,0,0,0,0,1,0,0,0,1,3,4,4,12,16
+CHAYANTA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,2,3,10,6,0,1,1,0,0,0,0,2,0,0,0,0,0,0,13,12,25
+CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+COCHABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,1,0,0,5,6,27,9,16,11,11,29,42,56,101,157
+COLCAPIRHUA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,1,2,3
+COTAGAITA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,1,2,1,6,7
+COTOCA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,1,3
+CUCHUMUELA (V. G. VILLARROEL),enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+EL PUENTE(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,1,1,2,0,0,4,6,10
+EL TORNO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,3
+FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,3,0,3
+GUTIERREZ,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,0,2,2,4
+INCAHUASI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,1,0,2,0,6,1,7
+LA GUARDIA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,1,0,0,0,0,2,4,6
+LA PAZ,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,1,1,2,3,5
+MACHARETI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+MONTERO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,1,2,0,2,1,3,4,3,4,13,2,7,2,10,29,10,43,50,93
+ORURO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,2,3,5
+PADCAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,1,2,3
+POTOSI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,2,1,1,0,2,5,6,11
+PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,1,0,0,0,0,0,0,0,1,0,0,4,8,0,6,1,2,0,1,5,19,24
+SACABA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,2,3,4,7
+SAMAIPATA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,2,1,0,0,0,0,0,1,0,0,1,1,0,0,3,3,6
+SAN JOAQUIN,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+SAN JULIAN,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,1,0,0,0,1,0,0,0,4,0,0,0,1,3,0,0,7,3,10
+SAN LORENZO(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,0,1,0,0,2,4,6
+SAN LUCAS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,1,0,0,1,4,2,0,0,0,0,0,0,0,0,0,0,0,0,2,1,7,4,11
+SAN PEDRO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+SAN RAFAEL,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,16,7,3,3,4,5,3,1,0,0,8,2,56,48,31,47,53,63,103,116,277,292,569
+SHINAOTA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,2
+SICAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,2,0,0,0,0,2,4,6
+SOPACHUY,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,2,3
+SUCRE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,2,0,0,1,2,0,1,0,0,1,1,2,3,3,3,3,4,1,5,11,21,32
+TAPACARI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,6
+TARIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,4,4,0,3,3,2,9,12,21
+TOLATA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,1,0,1,1,2,2,2,2,2,0,2,5,10,10,20
+TOTORA(CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,2,2,3,1,8,3,11
+TUPIZA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,2,1,0,2,0,0,0,0,0,1,1,1,0,0,0,1,3,6,9
+URIONDO (A. CONCEPCION),enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+URUBICHA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+VILLA RIVERO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,1,0,0,0,0,0,0,0,0,0,0,1,1,5,2,2,2,0,7,1,13,9,22
+VILLAZON,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+WARNES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,1,1,0,0,0,0,9,2,34,0,0,0,1,4,2,7,47,54
+YACUIBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,1,0,1,0,1,7,5,4,7,8,4,9,8,28,27,55
+YAMPARAEZ,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,1,2,3,5
+YAPACANI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,1,0,2,3,5
+ANZALDO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+ARANI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+AYOPAYA (V. DE INDEPENDENCIA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,5,3,7,6,13
+BELLA FLOR,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+BERMEJO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,3,1,1,2,1,7,7,14
+CAMARGO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,1,0,0,4,12,6,16,22
+COCHABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,1,3,6,9,34,5,22,12,12,39,38,68,113,181
+COTAGAITA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,3,0,3,0,0,1,0,1,0,0,0,2,2,1,1,0,8,2,17,7,24
+COTOCA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,1,0,0,0,5,2,7
+CUATRO CAÑADAS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,2,2,0,0,1,0,0,0,1,1,0,0,0,1,0,0,4,4,8
+CUCHUMUELA (V. G. VILLARROEL),enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+EL ALTO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+EL PUENTE(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ICLA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,0,1,0,4,1,5
+IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+LA ASUNTA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA GUARDIA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,3,0,0,0,1,4,4,8
+LA PAZ,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,2,1,3
+MOJOCOYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,3,4
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+MONTERO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,1,5,27,4,16,3,4,24,21,36,69,105
+OMEREQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,1,4,5
+ORURO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+PADCAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,2,2,4
+PASORAPA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+POTOSI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,1,0,0,1,2,4,6
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,1,0,0,0,0,0,0,0,0,0,0,3,1,0,0,3,0,0,1,6,3,9
+QUILLACOLLO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SACABA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+SAN BENITO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,1,0,0,0,0,1,4,5
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,2,3,5
+SAN LORENZO(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,2,4,6
+SAN PEDRO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2,3
+SAN PEDRO DE BUENA VISTA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,2,4,0,0,0,0,1,0,1,0,1,0,0,0,0,2,5,6,11
+SAN RAFAEL,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,3,3,2,0,0,0,0,0,0,0,3,1,57,45,27,43,33,39,102,101,227,232,459
+SANTA ROSA DEL SARA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTIVAÑES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2,3
+SHINAOTA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,0,2,2,4
+SICAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,0,0,0,4,1,5
+SUCRE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,3,0,0,1,2,1,0,0,1,2,1,4,7,11
+TARIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,1,0,0,0,0,0,0,1,1,5,5,1,4,0,1,7,12,19
+TINGUIPAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+TIQUIPAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,3,0,2,1,16,19,2,1,0,1,2,1,1,4,1,2,1,1,0,3,28,33,61
+TIRAQUE (CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,4,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,5,1,6
+TOTORA(CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,1,1,11,4,0,0,0,0,0,1,2,8,3,1,2,3,3,6,22,24,46
+TUPIZA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+URIONDO (A. CONCEPCION),enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+VILA VILA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+VILLA RIVERO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,2,1,3
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,1,0,0,0,0,0,0,0,2,3,2,0,2,0,2,2,9,5,14
+VILLAZON,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,4,4
+WARNES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,1,1,1,0,4,5,0,1,1,2,0,10,3,24,0,1,1,0,7,6,18,50,68
+YACUIBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,2,0,0,0,0,0,1,1,1,2,0,7,7,6,5,2,3,2,1,20,20,40
+YOTALA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0,0,2,4,6
+ANZALDO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,4,0,0,2,7,9
+ARANI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,1,4,2,7,9
+ARBIETO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,1,1,0,0,1,1,1,2,0,0,0,2,2,1,5,7,12
+BELLA FLOR,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BERMEJO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2,1,4,1,2,4,10,7,17
+"CAIZA ""D""",enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,0,0,0,2,5,6,5,11
+CAMARGO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,5,2,0,2,1,2,4,2,10,8,18
+CAMIRI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+CARAPARI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CHAQUI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,2,2,5,4,0,1,0,1,1,0,1,1,0,0,1,2,9,7,19,18,37
+CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+CLIZA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+COCAPATA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+COCHABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,11,8,13,18,64,54,55,40,26,16,1,0,11,33,10,22,8,10,24,46,223,247,470
+COLCAPIRHUA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+COTAGAITA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,2,2,3,5,8
+CUCHUMUELA (V. G. VILLARROEL),enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+CULPINA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,2
+EL PUENTE(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+EL TORNO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,4,4
+ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,2
+FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,3
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,2
+ICLA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,1,0,2,2,2,5,1,0,0,0,6,7,13
+LA ASUNTA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,1,8,9
+LA GUARDIA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,4,0,1,1,0,6,5,11
+LA PAZ,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,1,1,1,1,3,5,8
+MAGDALENA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+MOJOCOYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,3,3,6
+MONTERO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,3,0,0,1,0,1,0,2,0,0,2,2,33,2,14,3,4,26,19,37,75,112
+OMEREQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,2,3
+ORURO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,3
+PADCAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+PASORAPA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+POTOSI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,1,6,2,6,6,14,11,25
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,1,1,0,0,0,0,0,0,0,0,0,0,2,1,0,1,2,3,1,0,6,6,12
+SACABA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,2,3,5
+SAN JOAQUIN,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN LORENZO(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,4,2,0,1,1,0,0,5,5,10
+SAN PEDRO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,11,8,1,0,5,2,0,0,3,6,7,2,142,150,75,145,112,144,178,224,534,681,1215
+SANTIVAÑES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+SHINAOTA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,1,3,4
+SICAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,0,0,0,1,0,4,2,6
+SOPACHUY,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,3,0,3
+SUCRE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,1,0,0,0,0,0,0,2,2,2,1,0,1,4,7,8,12,20
+TACOPAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+TARIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,3,4,3,1,4,2,1,3,11,10,21
+TINGUIPAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,1,0,3,1,1,2,0,0,0,0,0,0,0,1,0,0,0,0,1,1,6,5,11
+TIQUIPAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+TOLATA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+TOTORA(CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,2,3,2,2,8,5,13
+URIONDO (A. CONCEPCION),enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,1,0,2,2,4
+VILA VILA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,2,3
+VILLA RIVERO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,4,4
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,3,6,3,3,2,1,1,0,9,10,19
+VILLAZON,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+WARNES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,2,1,27,0,5,0,0,7,5,8,39,47
+YACUIBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-06-01,0,0,0,0,0,0,0,0,3,0,0,0,1,2,3,3,10,5,6,12,23,22,45
+ACACIO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,4,1,7,8
+ANZALDO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,1,0,0,2,3,5
+ARANI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,4,1,5
+ARBIETO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,1,1,0,0,0,2,4,6
+ATOCHA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,2,1,2,0,0,0,1,0,1,0,0,1,1,2,0,4,7,11
+BAURES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,1,0,1,0,0,0,4,0,0,0,1,0,3,0,10,10
+BERMEJO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,3,0,0,1,6,7
+CAMIRI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CHIMORE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+COCHABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,1,3,4,5,3,7,27,10,15,4,9,21,32,50,91,141
+COLCAPIRHUA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CONCEPCION,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,1,0,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4,2,6
+COTAGAITA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+COTOCA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,1,1,0,2,3,5
+CUCHUMUELA (V. G. VILLARROEL),enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+CULPINA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+EL ALTO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL TORNO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,2,4
+ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+ICLA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,3,0,0,0,1,2,6,8
+LA ASUNTA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,0,0,0,1,4,5
+LA GUARDIA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,2,1,4,5
+LA PAZ,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,2,2,4,6
+MIZQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,1,3,2,3,21,10,2,3,0,0,1,0,3,5,0,2,0,0,3,3,33,29,62
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,1,0,0,2,4,6
+MONTERO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,1,0,2,0,0,0,0,2,3,6,2,9,2,2,16,19,26,38,64
+OMEREQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+ORURO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+PADCAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,0,0,0,1,4,5
+POROMA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,1,0,0,2,5,0,0,0,0,0,0,0,1,0,0,0,0,1,3,3,10,13
+POTOSI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,1,0,1,0,0,2,0,0,6,8,0,4,2,4,2,6,12,24,36
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,1,0,0,0,4,2,2,2,4,3,1,1,12,8,20
+QUILLACOLLO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SACABA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+SAMAIPATA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN JULIAN,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,2
+SAN LORENZO(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2,0,1,0,0,1,5,2,7
+SAN LUCAS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+SAN PEDRO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,3
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,7,1,0,2,0,3,1,0,5,5,5,10,71,130,59,91,83,143,136,123,367,508,875
+SANTIVAÑES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,2,1,3
+SHINAOTA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,1,0,0,1,0,1,5,6
+SICAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,2,3,0,2,9,0,0,0,0,0,0,1,4,1,1,0,0,0,6,7,22,29
+SUCRE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,1,0,3,2,3,2,2,0,1,1,10,5,15
+TACOPAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+TAPACARI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,1,1,1,2,0,0,1,0,1,2,0,1,0,0,0,1,4,7,11
+TARIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,2,6,8
+TOCO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,2,0,1,0,2,2,1,0,0,0,0,0,0,0,0,0,0,0,3,0,9,2,11
+TOTORA(CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2,4,3,3,5,1,11,11,22
+TRINIDAD,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,11,9,5,8,22,12,5,1,1,1,0,0,0,0,0,0,0,0,0,0,44,31,75
+URIONDO (A. CONCEPCION),enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,1,0,0,0,1,3,0,3,1,0,0,2,0,3,0,1,0,0,1,4,4,16,20
+VILLA RIVERO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,1,0,1,6,7
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,2,0,1,2,11,9,1,1,0,0,3,0,3,3,1,2,1,1,0,3,23,21,44
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,4,4,1,1,0,1,2,0,5,4,2,2,0,0,0,1,14,13,27
+VILLAZON,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,1,2,2,5,4,9
+WARNES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,27,1,4,3,1,7,13,11,46,57
+YACUIBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,2,0,0,1,4,6,7,2,13,4,2,9,18,22,46,68
+YAMPARAEZ,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+YUNCHARA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+AIQUILE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+ANZALDO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,3,1,4
+ARANI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,3,2,5,7
+ARBIETO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2,0,0,2,1,3,5,8
+ARQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+BERMEJO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,1,2,2,1,1,2,1,2,0,1,2,3,3,1,10,12,22
+"CAIZA ""D""",enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,3,1,0,1,0,0,1,1,3,4,1,0,1,0,9,6,18,13,31
+CAMIRI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,0,0,0,0,4,1,5
+CHAYANTA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,2,3,5
+CHIMORE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,2,0,3,2,5
+CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+CKOCHAS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1,1,0,0,1,0,6,1,7
+COBIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+COCHABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,1,0,0,3,4,0,9,12,35,15,20,8,21,43,56,81,146,227
+COLCAPIRHUA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+CORIPATA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COTAGAITA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,2,1,1,0,1,0,0,0,2,1,1,1,2,1,9,4,13
+COTOCA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,1,4,2,6
+CUCHUMUELA (V. G. VILLARROEL),enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,3
+CULPINA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+EL PUENTE(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+EL TORNO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2,1,0,1,0,5,3,8
+ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,1,2,0,4,2,6
+ICLA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,1,2,1,0,3,7,10
+INCAHUASI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LA ASUNTA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0,8,2,1,1,0,6,14,20
+LA GUARDIA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,2,3,5
+LA PAZ,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0,1,3,1,0,1,4,8,12
+MIZQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MOJOCOYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,2,0,0,0,0,0,0,0,0,0,0,5,6,4,1,0,1,0,0,9,10,19
+MONTERO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,1,0,0,0,0,1,0,0,0,0,1,0,3,6,0,5,6,6,49,36,60,54,114
+OMEREQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,2,2,4
+ORURO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,3,3
+PADCAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,2,2,4
+POTOSI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,1,0,8,0,11,3,14
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,1,0,0,0,0,0,0,0,0,0,0,0,2,3,3,2,6,2,1,0,13,7,20
+QUILLACOLLO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,1,0,1,1,13,6,17,17,6,6,2,2,12,17,3,9,6,17,15,21,76,96,172
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SACABA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,1,1,4,2,6
+SACABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+SAMAIPATA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+SAN BENITO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,3,0,3
+SAN JULIAN,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,5,2,6,3,9
+SAN LORENZO(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2,0,1,3,0,0,6,4,10
+SAN PEDRO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,3,4,3,7
+SAN RAFAEL,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,8,9,2,2,1,2,1,0,4,0,3,14,48,92,48,47,42,73,107,133,264,372,636
+SANTIVAÑES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,2,2,3,5,6,3,5,1,1,1,3,4,6,0,1,0,1,1,3,17,31,48
+SHINAOTA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,1,0,0,0,1,2,0,1,0,0,1,0,3,3,6
+SICAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,2,0,0,0,0,1,0,0,0,0,0,0,2,1,0,2,1,0,1,2,6,6,12
+SOPACHUY,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SUCRE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,1,0,0,0,0,1,0,0,0,2,0,2,1,1,0,0,6,3,5,9,13,22
+TARIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,2,1,0,0,0,0,0,0,0,0,0,2,3,2,0,0,2,0,0,5,7,12
+TIRAQUE (CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+TOMAVE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,2,0,1,1,0,1,1,3,1,0,0,0,0,0,2,2,7,7,14
+TOMINA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,1,0,1,1,4,0,0,0,0,0,1,0,1,1,2,0,0,0,1,2,11,13
+TOTORA(CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,2,2,4,3,1,8,9,17
+URIONDO (A. CONCEPCION),enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+VILLA MONTES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA RIVERO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,1,1,2,0,0,0,0,0,0,0,1,0,0,0,0,1,2,1,6,3,9
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,1,0,6,5,0,1,2,0,0,3,9,9,18
+VILLAZON,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,2,1,3,4,7
+WARNES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,5,0,34,0,2,0,2,6,5,6,48,54
+YACUIBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,0,1,6,5,9,9,15,8,27,8,15,31,72,103
+YAMPARAEZ,enfermedades transmitidas por vectores (etv),chagas agudo,2016-08-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+ANZALDO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,2,3
+ARANI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,2,3,3,4,7
+ARBIETO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+BERMEJO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,1,3,3,7,5,2,0,1,1,4,5,4,15,21,36
+BETANZOS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+BOLIVAR,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,1,0,0,7,3,0,0,0,0,0,1,0,1,0,0,0,0,4,1,11,7,18
+CAMARGO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,4,7
+CAMIRI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+CARANAVI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CHIMORE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,2,3
+COBIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,3,3,6
+COCHABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,3,1,2,1,0,8,17,28,8,21,7,12,30,46,67,117,184
+COLCAPIRHUA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,3,3
+CONCEPCION,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+CORIPATA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,2,1,2,3,2,7,7,14
+COTAGAITA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,4,2,5,1,1,1,0,1,7,4,5,2,0,1,1,4,23,16,39
+COTOCA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,1,0,0,0,4,2,0,0,0,0,0,0,0,1,0,0,0,0,1,3,6,6,12
+CULPINA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL TORNO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,3,0,3,2,5
+ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+GENERAL SAAVEDRA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HUACARETA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,1,1,5,3,0,0,0,0,0,0,0,0,0,1,0,0,3,0,9,5,14
+ICLA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,1,3,2,5,1,1,1,0,0,1,1,0,0,0,6,10,16
+LA GUARDIA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+LA PAZ,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+MAGDALENA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,1,1,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,9
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,1,0,0,0,0,0,0,0,0,0,5,5,4,3,0,2,0,0,10,10,20
+MONTERO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,1,0,1,0,0,4,5,3,4,6,17,17,28,30,58
+ORURO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+PADCAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,2,1,3
+PADILLA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,3,1,4
+POTOSI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,8,5,4,2,3,3,6,12,21,33
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,1,1,3,3,1,0,4,5,5,9,14,23
+SACABA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,2
+SAN BENITO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,1,0,0,0,0,0,0,0,1,2,0,1,0,1,0,0,2,4,6
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,1,0,2,1,5,0,1,0,0,1,0,2,9,11
+SAN JULIAN,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,2,2,4
+SAN LORENZO(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+SAN PABLO DE LIPEZ,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,1,5,2,2,0,1,0,0,0,0,1,0,0,0,0,1,2,9,6,15
+SAN PEDRO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+SAN PEDRO DE BUENA VISTA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,2,2,5,4,0,0,0,0,0,0,1,0,1,0,0,0,0,0,9,6,15
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,6,5,1,1,3,2,1,0,1,2,1,10,31,88,43,49,29,84,75,89,191,330,521
+SANTIVAÑES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,4,4
+SHINAOTA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,1,3,4
+SICAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,1,3
+SIPE SIPE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+SOPACHUY,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+SUCRE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,1,0,4,2,0,0,0,0,2,0,0,3,3,5,3,4,6,6,19,20,39
+TARATA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+TARIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,1,1,0,5,5,2,1,2,0,1,7,11,18
+TIQUIPAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,1,1,0,1,1,9,3,3,0,1,1,1,6,16,22
+TOLEDO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TOTORA(CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2,3,3,4,7
+TUPIZA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+URIONDO (A. CONCEPCION),enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+VILA VILA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,2,2,11,7,3,0,2,1,2,0,0,0,1,0,21,10,31
+VILLA RIVERO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,3,3
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,1,0,0,0,0,0,0,0,1,3,1,2,1,0,1,0,5,5,10
+VILLAZON,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,2,1,4,5
+VITICHI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+WARNES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,4,0,14,0,5,0,0,3,5,3,28,31
+YACUIBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,1,0,0,0,0,1,1,2,8,4,6,1,7,12,7,20,30,50
+YAMPARAEZ,enfermedades transmitidas por vectores (etv),chagas agudo,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,2,3
+ACACIO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,3
+AIQUILE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+ALTO BENI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+ARANI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,3
+ARBIETO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,1,1,1,1,6,7
+AYOPAYA (V. DE INDEPENDENCIA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,5,5,7,7,14
+BAURES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+BERMEJO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,1,0,0,5,4,0,2,1,5,2,4,8,16,24
+BOYUIBE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,2,5
+"CAIZA ""D""",enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,1,0,3,4,0,1,1,0,1,0,0,1,0,0,0,0,2,3,8,9,17
+CAMIRI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CHAYANTA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+CHIMORE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,3,3
+CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,3
+CKOCHAS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,3,0,4,3,7
+COBIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COCAPATA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,3
+COCHABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,1,0,0,0,0,0,0,0,1,2,9,18,8,12,8,12,36,53,63,97,160
+COLCAPIRHUA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,1,4,2,7,9
+COTAGAITA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,2,2,0,1,3,7,10
+COTOCA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+CUCHUMUELA (V. G. VILLARROEL),enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CULPINA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+EL TORNO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,4,4
+ICLA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,2,1,3
+IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,1,0,0,1,0,3,4,7
+LA PAZ,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,3,0,0,0,0,0,0,0,0,0,1,0,2,0,0,1,2,2,0,3,8,11
+MINEROS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+MOJOCOYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,6,2,4,3,4,5,0,0,14,10,24
+MONTERO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,2,0,0,0,0,0,0,0,0,0,0,0,3,1,1,4,0,3,15,15,21,23,44
+OMEREQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PADCAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+PADILLA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PASORAPA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+POTOSI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,1,2,9,9,3,4,2,1,4,7,19,23,42
+QUILLACOLLO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SACABA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,5,5
+SACABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+SAMAIPATA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAN BENITO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+SAN BORJA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,0,0,1,1,0,1,9,10
+SAN JULIAN,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,2,3
+SAN LORENZO(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAN PEDRO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,2,3
+SANTA ANA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,3,3,0,4,0,0,0,1,1,0,0,0,0,0,1,1,5,9,14
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,8,10,0,2,2,1,0,1,1,1,2,2,54,86,22,59,32,59,82,97,203,318,521
+SANTIVAÑES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1,2,3
+SHINAOTA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SICAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,2
+SOPACHUY,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2,0,0,0,6,6
+SUCRE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,1,1,1,0,0,2,1,0,0,0,2,2,0,0,2,5,1,3,8,13,21
+TACOPAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,1,2,3
+TARIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2,1,1,1,1,0,7,4,11
+TIQUIPAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,1,6,0,0,0,0,0,0,0,0,0,1,3,11,0,0,17,11,12,15,33,44,77
+TOMAVE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,3
+TOTORA(CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,5,2,6,8
+URIONDO (A. CONCEPCION),enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,2,2,4
+VILA VILA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+VILLA RIVERO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,1,0,0,0,0,1,9,0,0,1,2,2,0,4,12,16
+VILLAZON,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,1,2,1,4,4,8
+VINTO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,1,3,4
+VITICHI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+WARNES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,1,0,0,0,0,0,2,0,15,1,3,0,2,4,9,5,32,37
+YACUIBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,2,0,0,0,6,11,5,4,4,12,15,6,32,33,65
+YAMPARAEZ,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,3,3
+YOCALLA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-10-01,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2,3,5
+ACACIO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,2,3,5
+AIQUILE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+ANZALDO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+ARANI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,2
+ARBIETO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+ARQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+BERMEJO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,1,0,0,5,6,2,2,1,4,3,7,11,20,31
+BETANZOS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CHIMORE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,1,3,4
+CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CKOCHAS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+CLIZA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+COCHABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,1,0,1,0,0,3,10,30,2,13,10,15,39,50,63,111,174
+COLCAPIRHUA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,3,5,5,7,12
+COLQUECHACA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CORIPATA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,3,3
+COTAGAITA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+CULPINA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,1,1,0,1,0,0,0,1,4,0,1,0,0,1,3,4,9,13
+EL ALTO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL PUENTE(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL TORNO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,1,0,1,1,1,1,0,2,1,0,0,0,0,0,4,4,8
+ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,4
+GENERAL SAAVEDRA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ICLA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+LA GUARDIA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,4,0,1,0,1,2,1,2,8,10
+LA PAZ,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,3,0,2,2,7,4,11
+MACHARETI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,1,0,0,4,2,4,3,0,0,0,0,0,6,0,3,0,0,0,2,8,17,25
+MINEROS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,7,5,1,5,0,1,0,0,8,11,19
+MONTERO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,3,1,0,0,0,0,0,0,0,0,1,0,2,3,1,2,1,0,15,11,23,17,40
+OMEREQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+ORURO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2
+PADCAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+PADILLA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,1,1,0,0,0,0,0,2,0,1,0,1,0,0,1,5,6
+PASORAPA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,5,0,5
+POROMA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,1,3,0,3,0,0,1,0,2,0,0,1,0,0,0,1,0,1,4,9,13
+PORONGO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,2
+POTOSI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,1,2,2,1,7,6,13,19
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,1,0,0,0,0,0,0,0,0,0,0,1,7,3,1,1,1,3,2,1,12,9,21
+QUILLACOLLO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SACABA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,3,0,4,0,0,0,0,2,2,2,9,11
+SAN BENITO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,3,1,4
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,3,0,4,0,0,0,1,0,1,0,9,9
+SAN JULIAN,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,1,0,1,1,0,0,0,0,0,0,1,1,2,1,0,2,1,0,2,5,8,13
+SAN LORENZO(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,4,1,0,0,3,1,0,4,7,11
+SAN PEDRO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,2,0,4,2,6
+SAN RAFAEL,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,2,3
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,6,10,3,0,1,1,1,0,3,4,3,3,63,104,31,73,47,62,75,83,233,340,573
+SANTIVAÑES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,0,0,0,1,3,4
+SHINAOTA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,2,0,0,0,1,2,4,6
+SIPE SIPE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,1,0,0,2,5,7
+SUCRE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,6,2,3,0,2,6,5,9,16,25
+TARIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,5,4,0,4,2,7,0,0,7,15,22
+TIQUIPAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,1,0,1,6,9,0,6,0,1,5,9,11,27,38
+TOTORA(CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,1,1,0,0,0,3,2,2,0,1,1,1,3,8,7,15
+TRINIDAD,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+URIONDO (A. CONCEPCION),enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+VILA VILA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+VILLA RIVERO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2,3,3,4,7
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,2,2,2,4
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,3,1,1,1,0,0,0,3,4,7
+VILLAZON,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,0,0,1,0,2,4,6
+VINTO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,4,2,5,6,4,6,0,0,0,0,0,0,0,0,0,0,0,0,0,3,13,17,30
+WARNES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,1,4,2,35,0,2,1,0,4,2,8,43,51
+YACUIBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-11-01,0,0,0,0,0,0,0,0,0,0,13,1,4,12,2,6,3,8,9,10,31,37,68
+AIQUILE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ANZALDO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ARBIETO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ATOCHA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+BAURES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+CAMIRI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+CAPINOTA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4
+CARANAVI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CARIPUYO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+CHIMORE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,2,1,3
+CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,1,1,1,0,1,0,0,0,1,0,1,0,0,1,0,2,5,7
+CKOCHAS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,1,1,0,1,2,1,0,1,1,0,0,0,1,4,0,2,0,1,1,0,6,11,17
+COCHABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,1,1,1,0,4,3,5,9,4,9,0,8,10,29,6,10,10,7,12,35,53,111,164
+COLQUECHACA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,3,2,6,4,10
+COMARAPA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CORIPATA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+COTAGAITA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,2,1,3
+CUATRO CAÑADAS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CULPINA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,1,1,1,1,0,0,0,0,0,0,0,6,0,0,0,0,1,0,3,8,11
+EL ALTO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL PUENTE(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+EL TORNO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,2,0,5,5
+ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,2
+FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2
+LA GUARDIA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,3,1,0,0,0,0,0,1,4,5
+LA PAZ,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,1,0,4,1,5
+MINEROS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,7
+MIZQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+MOJINETE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MONTERO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,3,0,7,4,11,6,17
+OMEREQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ORURO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PALCA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,3,6
+PASORAPA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+POROMA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,6,5,0,0,0,1,0,0,1,7,1,3,0,1,2,2,10,19,29
+PORONGO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,2,1,3
+POTOSI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,4,3,4,1,3,8,15,23
+SACABA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,2,2,3,5
+SAN BENITO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,2,3,4,7
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,3,3
+SAN JULIAN,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+SAN LORENZO(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,1,0,0,1,0,3,0,0,0,2,0,0,1,6,7
+SAN PEDRO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,6,0,0,0,1,0,1,0,1,5,3,16,37,12,20,19,24,38,61,90,154,244
+SANTIVAÑES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+SHINAOTA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,1,1,0,2,5,7
+SICAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SIPE SIPE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,2,1,3
+SUCRE,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,1,0,0,1,4,0,0,1,2,0,0,2,7,9
+TARIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,1,2,0,4,1,0,0,1,1,0,0,7,3,10
+TIQUIPAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,6,2,3,1,1,3,4,8,14,22
+TOTORA(CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,2,2,3,4,7
+URIONDO (A. CONCEPCION),enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+VILLA MONTES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+VILLA RIVERO,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,1,0,2,4,6
+VILLAZON,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+WARNES,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,1,0,0,0,0,7,0,18,0,2,0,0,4,1,5,28,33
+YACUIBA,enfermedades transmitidas por vectores (etv),chagas agudo,2016-12-01,0,0,0,0,0,0,0,0,1,0,6,2,6,13,1,7,1,7,10,7,25,36,61

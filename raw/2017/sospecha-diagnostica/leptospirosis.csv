@@ -1,0 +1,56 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,TOTAL-M,TOTAL-F,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+COCHABAMBA,sospecha diagnostica,leptospirosis,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2017-01-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,2,1,0,0,0,5,2,7
+VILLA MONTES,sospecha diagnostica,leptospirosis,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CARANAVI,sospecha diagnostica,leptospirosis,2017-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+COBIJA,sospecha diagnostica,leptospirosis,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+COCHABAMBA,sospecha diagnostica,leptospirosis,2017-02-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,sospecha diagnostica,leptospirosis,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,1,0,0,0,0,2,5,7
+SAN IGNACIO,sospecha diagnostica,leptospirosis,2017-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2,0,0,0,5,0,5
+TARIJA,sospecha diagnostica,leptospirosis,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+EL TORNO,sospecha diagnostica,leptospirosis,2017-03-01,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,3,0,3
+MONTEAGUDO,sospecha diagnostica,leptospirosis,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+SAN JULIAN,sospecha diagnostica,leptospirosis,2017-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,1,0,3,2,5
+SAN JULIAN,sospecha diagnostica,leptospirosis,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+TARIJA,sospecha diagnostica,leptospirosis,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,leptospirosis,2017-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3,0,3
+CARANAVI,sospecha diagnostica,leptospirosis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+COBIJA,sospecha diagnostica,leptospirosis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,3,0,3
+MACHARETI,sospecha diagnostica,leptospirosis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,0,1,0,2,0,7,1,8
+CARANAVI,sospecha diagnostica,leptospirosis,2017-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+SAN IGNACIO,sospecha diagnostica,leptospirosis,2017-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN JAVIER(STC),sospecha diagnostica,leptospirosis,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2017-06-01,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,1,2,3,5
+TARIJA,sospecha diagnostica,leptospirosis,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+TRINIDAD,sospecha diagnostica,leptospirosis,2017-06-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,1,3
+SUCRE,sospecha diagnostica,leptospirosis,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+TARIJA,sospecha diagnostica,leptospirosis,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,leptospirosis,2017-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2
+ASCENCION DE GUARAYOS,sospecha diagnostica,leptospirosis,2017-08-01,0,0,0,0,0,0,1,0,0,0,0,0,5,0,0,1,2,0,0,0,8,1,9
+CARANAVI,sospecha diagnostica,leptospirosis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+LA GUARDIA,sospecha diagnostica,leptospirosis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+TARIJA,sospecha diagnostica,leptospirosis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,2,3
+TRINIDAD,sospecha diagnostica,leptospirosis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,0,3
+SANTA ANA,sospecha diagnostica,leptospirosis,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2017-09-01,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,1,3,1,4
+TARIJA,sospecha diagnostica,leptospirosis,2017-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,leptospirosis,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+COCHABAMBA,sospecha diagnostica,leptospirosis,2017-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,sospecha diagnostica,leptospirosis,2017-10-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+WARNES,sospecha diagnostica,leptospirosis,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COBIJA,sospecha diagnostica,leptospirosis,2017-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2017-11-01,0,0,0,0,0,1,0,0,0,0,0,0,2,0,2,0,3,1,1,0,8,2,10
+TRINIDAD,sospecha diagnostica,leptospirosis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,leptospirosis,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL TORNO,sospecha diagnostica,leptospirosis,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+TRINIDAD,sospecha diagnostica,leptospirosis,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1

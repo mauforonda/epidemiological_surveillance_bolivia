@@ -1,0 +1,245 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+CAMIRI,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CHIMORE,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,1,0,1,0,1,2,0,0,0,0,0,1,3,3,6
+COBIJA,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,4,5
+COCHABAMBA,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COLPA BELGICA,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,3,3
+EL TORNO,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,1,1,0,2,0,1,2,2,5,1,2,0,1,0,1,7,12,19
+ENTRE RIOS CBBA,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+GUAYARAMERIN,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,2,3
+LA GUARDIA,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,2,2,4
+PUERTO VILLARROEL,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SACABA,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN CARLOS,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,2,1,3
+SAN LORENZO(PND),sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN RAMON BENI,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,5,14,3,1,1,4,1,4,11,23,34
+SANTA ROSA,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SANTA ROSA DEL SARA,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+SENA,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,1,4,1,7,2,1,3,2,1,4,10,3,2,1,0,2,2,24,22,46
+SUCRE,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,4,1,5
+TRINIDAD,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,2,2,4
+VILLA MONTES,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA TUNARI,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,1,3,4
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+YACUIBA,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,4,4
+YAPACANI,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,1,0,0,0,1,0,0,3,3,0,0,0,1,1,1,4,7,11
+CAMIRI,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COBIJA,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,1,0,0,0,0,0,0,1,4,0,0,1,0,2,0,4,5,9
+COCHABAMBA,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COLPA BELGICA,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+EL TORNO,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,1,2,1,4,4,0,0,0,1,1,0,7,7,14
+ENTRE RIOS CBBA,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+GUAYARAMERIN,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+LA GUARDIA,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,1,0,3,0,0,0,0,1,0,2,4,6
+NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PORTACHUELO,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO RICO,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SACABA,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN BORJA,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN PEDRO,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,1,0,0,1,0,1,1,1,6,8,2,2,1,0,1,2,12,15,27
+SENA,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SUCRE,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,3,1,4
+TRINIDAD,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,3,1,4
+VILLA MONTES,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,1,3
+VILLA TUNARI,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+WARNES,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,1,1,0,0,0,0,0,2,0,0,0,2,0,0,0,5,1,6
+YACUIBA,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+CHIMORE,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+COBIJA,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,1,0,2,0,0,1,1,1,1,1,0,2,0,1,0,0,5,6,11
+COCHABAMBA,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+EL TORNO,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,1,0,0,0,1,1,6,7
+ENTRE RIOS CBBA,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,2,2,4
+GUAYARAMERIN,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,2,2,4
+LA GUARDIA,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+MAIRANA,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MONTERO,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,1,1,0,1,0,0,1,2,0,0,0,0,0,0,2,4,6
+PAILON,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+PORVENIR,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PUERTO QUIJARRO,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+PUERTO RICO,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+RURRENABAQUE,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2019-03-01,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2019-03-01,1,0,0,0,1,1,3,2,0,2,0,1,2,11,1,1,0,1,2,0,10,19,29
+SENA,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+TARIJA,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,3,1,4
+VILLA MONTES,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+VILLA NUEVA (LOMA ALTA),sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+YACUIBA,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+YAPACANI,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+BUENA VISTA,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+COBIJA,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,1,0,1,0,0,1,3,0,2,1,1,0,0,2,8,10
+COCHABAMBA,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COTOCA,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+EL TORNO,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ENTRE RIOS CBBA,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,1,2,0,1,0,0,2,0,0,0,0,0,0,0,3,3,6
+MAIRANA,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+MONTERO,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+PUERTO RICO,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN ANDRES,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,1,1,1,2,1,1,1,2,0,6,5,0,1,1,3,3,2,16,15,31
+SANTA ROSA DEL SARA,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,3,1,4
+TARIJA,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TRINIDAD,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,2,0,0,0,1,1,0,1,0,0,1,0,0,2,1,4,5,9
+VALLEGRANDE,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+VILLA MONTES,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,2,1,3
+WARNES,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+YACUIBA,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+YAPACANI,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+CHIMORE,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,2,1,3
+COBIJA,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,1,0,0,0,0,1,1,2,0,1,0,0,1,0,3,4,7
+COCHABAMBA,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+COLPA BELGICA,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+EL TORNO,sospecha diagnostica,chikungunya,2019-05-01,0,0,1,0,0,0,0,0,0,1,0,0,2,3,0,0,0,0,1,0,4,4,8
+ENTRE RIOS CBBA,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,2,0,0,0,0,4,2,6
+LA GUARDIA,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+MACHARETI,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MONTERO,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAMAIPATA,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN CARLOS,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,2,0,0,0,0,0,0,2,2,4
+SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,3
+SAN JOSE DE CHIQUITOS,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN LORENZO(PND),sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,1,1,0,6,1,0,2,1,7,9,1,1,1,0,0,1,13,19,32
+SANTA ROSA DEL SARA,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SUCRE,sospecha diagnostica,chikungunya,2019-05-01,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+TRINIDAD,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2,3
+VALLEGRANDE,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+VILLA NUEVA (LOMA ALTA),sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+WARNES,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,2
+YACUIBA,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+YAPACANI,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,chikungunya,2019-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,3,3
+COTOCA,sospecha diagnostica,chikungunya,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL PUENTE(STC),sospecha diagnostica,chikungunya,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+EL TORNO,sospecha diagnostica,chikungunya,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+ENTRE RIOS CBBA,sospecha diagnostica,chikungunya,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+LA GUARDIA,sospecha diagnostica,chikungunya,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2019-06-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,2,2,4
+SAN PEDRO,sospecha diagnostica,chikungunya,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2019-06-01,0,0,0,0,1,0,0,1,1,0,0,0,4,4,1,2,1,0,0,0,8,7,15
+TRINIDAD,sospecha diagnostica,chikungunya,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+WARNES,sospecha diagnostica,chikungunya,2019-06-01,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,1,3,4
+YAPACANI,sospecha diagnostica,chikungunya,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COBIJA,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0,0,2,2,4
+COCHABAMBA,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,2,2,4
+EL TORNO,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+GUAYARAMERIN,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,3,3
+HUARACAJE,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+LA GUARDIA,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2
+MONTEAGUDO,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+PORVENIR,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+PUERTO VILLARROEL,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+REYES,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+ROBORE,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2019-07-01,0,1,0,0,0,0,0,1,1,1,1,0,4,7,4,3,1,0,3,0,14,13,27
+SANTA ROSA DEL SARA,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+SUCRE,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TRINIDAD,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,2,2,4
+WARNES,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,0,3
+YACUIBA,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+YAPACANI,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COBIJA,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,1,0,0,0,1,4,0,0,0,0,0,0,2,4,6
+COCHABAMBA,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2
+EL PUENTE(STC),sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+EL TORNO,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GUAYARAMERIN,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+MAIRANA,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,2
+SAN LORENZO(PND),sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN PEDRO,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2019-08-01,0,1,1,0,2,0,1,1,0,0,0,0,1,3,0,0,0,2,0,1,5,8,13
+SANTA ROSA DEL SARA,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SUCRE,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VALLEGRANDE,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA TUNARI,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,2
+WARNES,sospecha diagnostica,chikungunya,2019-08-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+YAPACANI,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COBIJA,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+COCHABAMBA,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+EL TORNO,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,4,4
+ENTRE RIOS CBBA,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+GUAYARAMERIN,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+LA GUARDIA,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+MAIRANA,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN JUAN DE YAPACANI,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN LORENZO(PND),sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,1,0,1,2,0,5,3,8
+TRINIDAD,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA TUNARI,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2
+WARNES,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+BUENA VISTA,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHIMORE,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+COBIJA,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,1,1,0,2,4,6
+COTOCA,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+EL PUENTE(STC),sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+EL TORNO,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,1,0,0,0,0,0,2,2,0,1,0,1,0,0,3,4,7
+ENTRE RIOS CBBA,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,2,3
+LA GUARDIA,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MAIRANA,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,1,0,0,0,3,2,5
+ORURO,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+PUERTO VILLARROEL,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,2,3
+REYES,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+SAN PEDRO,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,2,0,2,1,0,0,1,0,4,2,0,2,2,0,0,0,11,5,16
+SANTA ROSA DEL SARA,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2
+TRINIDAD,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COBIJA,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,0,0,0,1,0,0,2,5,0,1,0,0,0,0,2,7,9
+COCHABAMBA,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+COTOCA,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL TORNO,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,1,2,3
+ENTRE RIOS CBBA,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,3,3
+LA GUARDIA,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MAIRANA,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PUERTO VILLARROEL,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,1,0,0,0,0,1,1,2,0,0,0,0,0,0,2,3,5
+SAN BORJA,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+SAN CARLOS,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN JOSE DE CHIQUITOS,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2019-11-01,1,0,0,0,0,0,0,2,2,0,1,6,0,1,0,1,0,0,3,0,7,10,17
+SUCRE,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+VILLA TUNARI,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,5,5
+YAPACANI,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CAMIRI,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+COBIJA,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,2,0,1,0,2,2,0,0,5,5,1,1,0,0,0,0,11,8,19
+COCHABAMBA,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CONCEPCION,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+COTOCA,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL PUENTE(STC),sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL TORNO,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,1,2,3,5
+ENTRE RIOS CBBA,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,3,3
+LA GUARDIA,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,0,3,3,6
+MONTEAGUDO,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,1,0,0,0,1,0,0,0,1,2,0,0,0,0,0,1,3,3,6
+MONTERO,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,2
+PUERTO VILLARROEL,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+REYES,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+RIBERALTA,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN ANDRES,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,1,0,0,0,0,2,0,3,0,0,0,0,0,0,1,5,6
+SAN CARLOS,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,3
+SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,1,0,1,0,0,1,1,1,0,0,0,0,0,0,0,2,3,5
+SAN PEDRO DE TIQUINA,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2019-12-01,1,1,0,0,4,2,6,3,5,3,1,3,7,5,1,3,0,1,4,1,29,22,51
+TRINIDAD,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,2,3
+VILLA TUNARI,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,2
+WARNES,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,2,3
+YACUIBA,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,3,1,4
+YAPACANI,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,2,1,3

@@ -1,0 +1,536 @@
+,group,variable,month,Dentro,Dentro,Fuera,Fuera,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,TOTAL-M,TOTAL-F,TOTAL
+municipality,,,,,,,,,,
+ARAMPAMPA,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,1,0,1,0,1
+AZURDUY,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,0,1,0,1,1
+BERMEJO,mortalidad,muerte menor de 1 ano,2011-01-01,0,2,0,0,0,2,2
+BETANZOS,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,0,1,0,1,1
+CARACOLLO,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,0,1,0,1,1
+CARANAVI,mortalidad,muerte menor de 1 ano,2011-01-01,0,1,0,0,0,1,1
+CHARAÑA,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,1,0,1,0,1
+COBIJA,mortalidad,muerte menor de 1 ano,2011-01-01,0,2,0,0,0,2,2
+COCHABAMBA,mortalidad,muerte menor de 1 ano,2011-01-01,3,2,0,0,3,2,5
+COLQUECHACA,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,2,0,2,0,2
+CONCEPCION,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,1,0,1,0,1
+COROICO,mortalidad,muerte menor de 1 ano,2011-01-01,1,0,0,0,1,0,1
+EL ALTO,mortalidad,muerte menor de 1 ano,2011-01-01,4,6,2,4,6,10,16
+EL TORNO,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,0,1,0,1,1
+HUANUNI,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,2,1,2,1,3
+LA PAZ,mortalidad,muerte menor de 1 ano,2011-01-01,14,6,2,2,16,8,24
+LAGUNILLAS,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,0,1,0,1,1
+LLALLAGUA,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,1,0,1,0,1
+MONTERO,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,1,0,1,0,1
+MORO MORO,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,0,1,0,1,1
+OCURI,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,1,1,1,1,2
+ORURO,mortalidad,muerte menor de 1 ano,2011-01-01,1,0,0,0,1,0,1
+POCOATA,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,1,0,1,0,1
+POOPO,mortalidad,muerte menor de 1 ano,2011-01-01,1,0,0,0,1,0,1
+PUERTO SUAREZ,mortalidad,muerte menor de 1 ano,2011-01-01,0,1,0,0,0,1,1
+PUERTO VILLARROEL,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,1,0,1,0,1
+QUILLACOLLO,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,1,0,1,0,1
+RIBERALTA,mortalidad,muerte menor de 1 ano,2011-01-01,6,2,0,0,6,2,8
+ROBORE,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,1,0,1,0,1
+SACABA,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,1,0,1,0,1
+SAMAIPATA,mortalidad,muerte menor de 1 ano,2011-01-01,0,1,0,0,0,1,1
+SAN ANDRES,mortalidad,muerte menor de 1 ano,2011-01-01,0,1,0,0,0,1,1
+SAN BUENA VENTURA,mortalidad,muerte menor de 1 ano,2011-01-01,2,0,1,0,3,0,3
+SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2011-01-01,1,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2011-01-01,6,5,0,0,6,5,11
+SUCRE,mortalidad,muerte menor de 1 ano,2011-01-01,5,6,1,0,6,6,12
+TARABUCO,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,2,0,2,0,2
+TARATA,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,1,0,1,0,1
+TARIJA,mortalidad,muerte menor de 1 ano,2011-01-01,2,1,0,0,2,1,3
+TINGUIPAYA,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,1,0,1,0,1
+TOMAVE,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,0,1,0,1,1
+TRINIDAD,mortalidad,muerte menor de 1 ano,2011-01-01,0,1,0,0,0,1,1
+VILLA TUNARI,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,0,1,0,1,1
+YACO,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,0,1,0,1,1
+YANACACHI,mortalidad,muerte menor de 1 ano,2011-01-01,0,0,1,0,1,0,1
+APOLO,mortalidad,muerte menor de 1 ano,2011-02-01,1,0,0,0,1,0,1
+BETANZOS,mortalidad,muerte menor de 1 ano,2011-02-01,0,0,2,1,2,1,3
+CABEZAS,mortalidad,muerte menor de 1 ano,2011-02-01,0,0,4,0,4,0,4
+CAIROMA,mortalidad,muerte menor de 1 ano,2011-02-01,0,1,0,0,0,1,1
+CAPINOTA,mortalidad,muerte menor de 1 ano,2011-02-01,0,0,2,0,2,0,2
+CHALLAPATA,mortalidad,muerte menor de 1 ano,2011-02-01,0,0,1,0,1,0,1
+CHULUMANI (V. DE LA LIBERTAD),mortalidad,muerte menor de 1 ano,2011-02-01,0,1,0,0,0,1,1
+COCHABAMBA,mortalidad,muerte menor de 1 ano,2011-02-01,6,7,0,0,6,7,13
+COLCAPIRHUA,mortalidad,muerte menor de 1 ano,2011-02-01,0,0,0,2,0,2,2
+"COLCHA ""K""",mortalidad,muerte menor de 1 ano,2011-02-01,0,0,1,0,1,0,1
+COLLANA,mortalidad,muerte menor de 1 ano,2011-02-01,0,0,0,1,0,1,1
+EL ALTO,mortalidad,muerte menor de 1 ano,2011-02-01,6,9,6,9,12,18,30
+GUAYARAMERIN,mortalidad,muerte menor de 1 ano,2011-02-01,2,1,0,0,2,1,3
+GUTIERREZ,mortalidad,muerte menor de 1 ano,2011-02-01,1,0,1,0,2,0,2
+HUMANATA,mortalidad,muerte menor de 1 ano,2011-02-01,0,0,1,0,1,0,1
+LA PAZ,mortalidad,muerte menor de 1 ano,2011-02-01,15,16,4,3,19,19,38
+MONTERO,mortalidad,muerte menor de 1 ano,2011-02-01,0,0,1,0,1,0,1
+ORURO,mortalidad,muerte menor de 1 ano,2011-02-01,2,0,0,0,2,0,2
+PATACAMAYA,mortalidad,muerte menor de 1 ano,2011-02-01,0,0,0,1,0,1,1
+POCOATA,mortalidad,muerte menor de 1 ano,2011-02-01,0,0,1,0,1,0,1
+POTOSI,mortalidad,muerte menor de 1 ano,2011-02-01,3,1,0,0,3,1,4
+PUNATA,mortalidad,muerte menor de 1 ano,2011-02-01,0,0,1,0,1,0,1
+QUILLACOLLO,mortalidad,muerte menor de 1 ano,2011-02-01,0,0,0,2,0,2,2
+QUIME,mortalidad,muerte menor de 1 ano,2011-02-01,0,0,0,1,0,1,1
+RIBERALTA,mortalidad,muerte menor de 1 ano,2011-02-01,3,4,0,0,3,4,7
+SACABA,mortalidad,muerte menor de 1 ano,2011-02-01,0,0,0,1,0,1,1
+SACACA,mortalidad,muerte menor de 1 ano,2011-02-01,0,0,0,1,0,1,1
+SAN BUENA VENTURA,mortalidad,muerte menor de 1 ano,2011-02-01,1,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2011-02-01,3,2,1,0,4,2,6
+SAN LUCAS,mortalidad,muerte menor de 1 ano,2011-02-01,1,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2011-02-01,3,6,0,0,3,6,9
+SICA SICA (VILLA AROMA),mortalidad,muerte menor de 1 ano,2011-02-01,1,0,0,0,1,0,1
+SOPACHUY,mortalidad,muerte menor de 1 ano,2011-02-01,0,0,1,0,1,0,1
+SUCRE,mortalidad,muerte menor de 1 ano,2011-02-01,3,3,0,0,3,3,6
+TARIJA,mortalidad,muerte menor de 1 ano,2011-02-01,1,4,1,0,2,4,6
+TARVITA,mortalidad,muerte menor de 1 ano,2011-02-01,0,0,1,0,1,0,1
+TIRAQUE (CBBA),mortalidad,muerte menor de 1 ano,2011-02-01,0,0,1,1,1,1,2
+TUPIZA,mortalidad,muerte menor de 1 ano,2011-02-01,0,0,1,0,1,0,1
+WALDO BALLIVIAN,mortalidad,muerte menor de 1 ano,2011-02-01,0,0,1,0,1,0,1
+YUNCHARA,mortalidad,muerte menor de 1 ano,2011-02-01,0,0,0,1,0,1,1
+AYO AYO,mortalidad,muerte menor de 1 ano,2011-03-01,0,0,1,0,1,0,1
+CALAMARCA,mortalidad,muerte menor de 1 ano,2011-03-01,0,0,0,2,0,2,2
+CARANAVI,mortalidad,muerte menor de 1 ano,2011-03-01,0,1,0,1,0,2,2
+COBIJA,mortalidad,muerte menor de 1 ano,2011-03-01,1,0,0,0,1,0,1
+COCHABAMBA,mortalidad,muerte menor de 1 ano,2011-03-01,5,6,0,0,5,6,11
+COLLANA,mortalidad,muerte menor de 1 ano,2011-03-01,0,0,1,0,1,0,1
+COLOMI,mortalidad,muerte menor de 1 ano,2011-03-01,0,0,1,0,1,0,1
+COLPA BELGICA,mortalidad,muerte menor de 1 ano,2011-03-01,0,0,1,0,1,0,1
+COMARAPA,mortalidad,muerte menor de 1 ano,2011-03-01,0,0,1,0,1,0,1
+EL ALTO,mortalidad,muerte menor de 1 ano,2011-03-01,8,2,11,2,19,4,23
+GUAYARAMERIN,mortalidad,muerte menor de 1 ano,2011-03-01,1,0,0,0,1,0,1
+ICLA,mortalidad,muerte menor de 1 ano,2011-03-01,0,1,0,0,0,1,1
+LA PAZ,mortalidad,muerte menor de 1 ano,2011-03-01,6,11,1,1,7,12,19
+MONTEAGUDO,mortalidad,muerte menor de 1 ano,2011-03-01,1,0,0,0,1,0,1
+ORURO,mortalidad,muerte menor de 1 ano,2011-03-01,1,0,0,0,1,0,1
+POTOSI,mortalidad,muerte menor de 1 ano,2011-03-01,5,1,0,0,5,1,6
+PUNA,mortalidad,muerte menor de 1 ano,2011-03-01,0,0,1,0,1,0,1
+PUNATA,mortalidad,muerte menor de 1 ano,2011-03-01,0,0,0,1,0,1,1
+QUILLACOLLO,mortalidad,muerte menor de 1 ano,2011-03-01,0,0,0,2,0,2,2
+REYES,mortalidad,muerte menor de 1 ano,2011-03-01,1,0,0,0,1,0,1
+RIBERALTA,mortalidad,muerte menor de 1 ano,2011-03-01,1,3,0,0,1,3,4
+SACABA,mortalidad,muerte menor de 1 ano,2011-03-01,0,0,1,1,1,1,2
+SAN ANTONIO DE LOMERIO,mortalidad,muerte menor de 1 ano,2011-03-01,0,0,1,0,1,0,1
+SAN BORJA,mortalidad,muerte menor de 1 ano,2011-03-01,0,0,1,0,1,0,1
+SAN BUENA VENTURA,mortalidad,muerte menor de 1 ano,2011-03-01,0,2,0,0,0,2,2
+SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2011-03-01,1,1,0,0,1,1,2
+SAN PEDRO DE BUENA VISTA,mortalidad,muerte menor de 1 ano,2011-03-01,0,0,0,1,0,1,1
+SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2011-03-01,11,8,1,0,12,8,20
+SANTIAGO DE CALLAPA,mortalidad,muerte menor de 1 ano,2011-03-01,0,0,2,0,2,0,2
+SHINAOTA,mortalidad,muerte menor de 1 ano,2011-03-01,2,0,0,0,2,0,2
+SUCRE,mortalidad,muerte menor de 1 ano,2011-03-01,5,4,0,0,5,4,9
+TARIJA,mortalidad,muerte menor de 1 ano,2011-03-01,3,2,0,0,3,2,5
+TINGUIPAYA,mortalidad,muerte menor de 1 ano,2011-03-01,1,0,0,0,1,0,1
+VILA VILA,mortalidad,muerte menor de 1 ano,2011-03-01,0,0,0,2,0,2,2
+VILLA MONTES,mortalidad,muerte menor de 1 ano,2011-03-01,1,0,0,0,1,0,1
+VILLA TUNARI,mortalidad,muerte menor de 1 ano,2011-03-01,0,0,2,0,2,0,2
+ACHACACHI,mortalidad,muerte menor de 1 ano,2011-04-01,3,0,0,0,3,0,3
+APOLO,mortalidad,muerte menor de 1 ano,2011-04-01,0,0,1,0,1,0,1
+ARAMPAMPA,mortalidad,muerte menor de 1 ano,2011-04-01,0,0,1,0,1,0,1
+BETANZOS,mortalidad,muerte menor de 1 ano,2011-04-01,0,0,0,1,0,1,1
+CALACOTO,mortalidad,muerte menor de 1 ano,2011-04-01,0,1,0,0,0,1,1
+CALAMARCA,mortalidad,muerte menor de 1 ano,2011-04-01,0,0,1,0,1,0,1
+CAPINOTA,mortalidad,muerte menor de 1 ano,2011-04-01,0,0,0,1,0,1,1
+CARANAVI,mortalidad,muerte menor de 1 ano,2011-04-01,1,0,0,1,1,1,2
+CHULUMANI (V. DE LA LIBERTAD),mortalidad,muerte menor de 1 ano,2011-04-01,0,1,0,0,0,1,1
+CHUMA,mortalidad,muerte menor de 1 ano,2011-04-01,0,0,0,1,0,1,1
+COCHABAMBA,mortalidad,muerte menor de 1 ano,2011-04-01,10,10,0,0,10,10,20
+COLLANA,mortalidad,muerte menor de 1 ano,2011-04-01,0,0,1,0,1,0,1
+COPACABANA,mortalidad,muerte menor de 1 ano,2011-04-01,0,0,0,1,0,1,1
+CORIPATA,mortalidad,muerte menor de 1 ano,2011-04-01,1,0,0,0,1,0,1
+COROICO,mortalidad,muerte menor de 1 ano,2011-04-01,0,0,1,0,1,0,1
+EL ALTO,mortalidad,muerte menor de 1 ano,2011-04-01,8,6,7,3,15,9,24
+GUAYARAMERIN,mortalidad,muerte menor de 1 ano,2011-04-01,0,2,0,0,0,2,2
+GUTIERREZ,mortalidad,muerte menor de 1 ano,2011-04-01,0,0,1,0,1,0,1
+HUANUNI,mortalidad,muerte menor de 1 ano,2011-04-01,0,0,1,0,1,0,1
+LA PAZ,mortalidad,muerte menor de 1 ano,2011-04-01,17,10,4,6,21,16,37
+MAPIRI,mortalidad,muerte menor de 1 ano,2011-04-01,0,0,1,0,1,0,1
+MIZQUE,mortalidad,muerte menor de 1 ano,2011-04-01,0,0,0,1,0,1,1
+MOROCHATA,mortalidad,muerte menor de 1 ano,2011-04-01,0,0,0,1,0,1,1
+PALOS BLANCOS,mortalidad,muerte menor de 1 ano,2011-04-01,0,1,0,0,0,1,1
+POTOSI,mortalidad,muerte menor de 1 ano,2011-04-01,2,0,0,0,2,0,2
+RIBERALTA,mortalidad,muerte menor de 1 ano,2011-04-01,5,0,0,0,5,0,5
+SACABA,mortalidad,muerte menor de 1 ano,2011-04-01,0,0,1,0,1,0,1
+SAN CARLOS,mortalidad,muerte menor de 1 ano,2011-04-01,1,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2011-04-01,3,1,0,1,3,2,5
+SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2011-04-01,5,7,0,0,5,7,12
+SUCRE,mortalidad,muerte menor de 1 ano,2011-04-01,8,2,0,0,8,2,10
+TAPACARI,mortalidad,muerte menor de 1 ano,2011-04-01,0,0,0,1,0,1,1
+TARABUCO,mortalidad,muerte menor de 1 ano,2011-04-01,0,0,1,0,1,0,1
+TARIJA,mortalidad,muerte menor de 1 ano,2011-04-01,1,1,0,0,1,1,2
+VILLA MONTES,mortalidad,muerte menor de 1 ano,2011-04-01,1,0,1,1,2,1,3
+VILLA TUNARI,mortalidad,muerte menor de 1 ano,2011-04-01,0,0,0,1,0,1,1
+YACUIBA,mortalidad,muerte menor de 1 ano,2011-04-01,1,0,0,0,1,0,1
+YOTALA,mortalidad,muerte menor de 1 ano,2011-04-01,0,0,1,0,1,0,1
+AYO AYO,mortalidad,muerte menor de 1 ano,2011-05-01,0,0,1,0,1,0,1
+CAMIRI,mortalidad,muerte menor de 1 ano,2011-05-01,1,0,0,0,1,0,1
+CHALLAPATA,mortalidad,muerte menor de 1 ano,2011-05-01,1,0,1,0,2,0,2
+CHARAGUA,mortalidad,muerte menor de 1 ano,2011-05-01,1,1,1,0,2,1,3
+CHAYANTA,mortalidad,muerte menor de 1 ano,2011-05-01,0,0,0,1,0,1,1
+CHUQUIHUTA AYLLU JUCUMANI,mortalidad,muerte menor de 1 ano,2011-05-01,0,0,1,0,1,0,1
+COCHABAMBA,mortalidad,muerte menor de 1 ano,2011-05-01,11,8,1,2,12,10,22
+COLQUECHACA,mortalidad,muerte menor de 1 ano,2011-05-01,0,0,1,0,1,0,1
+COTAGAITA,mortalidad,muerte menor de 1 ano,2011-05-01,0,0,0,1,0,1,1
+CURVA,mortalidad,muerte menor de 1 ano,2011-05-01,0,0,0,1,0,1,1
+EL ALTO,mortalidad,muerte menor de 1 ano,2011-05-01,8,7,3,3,11,10,21
+GUAYARAMERIN,mortalidad,muerte menor de 1 ano,2011-05-01,1,0,0,0,1,0,1
+HUANUNI,mortalidad,muerte menor de 1 ano,2011-05-01,0,0,1,0,1,0,1
+INCAHUASI,mortalidad,muerte menor de 1 ano,2011-05-01,0,0,1,1,1,1,2
+LA GUARDIA,mortalidad,muerte menor de 1 ano,2011-05-01,1,0,1,0,2,0,2
+LA PAZ,mortalidad,muerte menor de 1 ano,2011-05-01,14,8,1,3,15,11,26
+LLALLAGUA,mortalidad,muerte menor de 1 ano,2011-05-01,1,0,0,0,1,0,1
+POTOSI,mortalidad,muerte menor de 1 ano,2011-05-01,1,2,1,1,2,3,5
+PUERTO ACOSTA,mortalidad,muerte menor de 1 ano,2011-05-01,0,0,0,1,0,1,1
+PUERTO VILLARROEL,mortalidad,muerte menor de 1 ano,2011-05-01,1,0,1,0,2,0,2
+RIBERALTA,mortalidad,muerte menor de 1 ano,2011-05-01,2,3,0,0,2,3,5
+ROBORE,mortalidad,muerte menor de 1 ano,2011-05-01,1,0,0,0,1,0,1
+SACABA,mortalidad,muerte menor de 1 ano,2011-05-01,0,0,2,1,2,1,3
+SACACA,mortalidad,muerte menor de 1 ano,2011-05-01,1,0,0,0,1,0,1
+SAN BORJA,mortalidad,muerte menor de 1 ano,2011-05-01,1,0,0,0,1,0,1
+SAN BUENA VENTURA,mortalidad,muerte menor de 1 ano,2011-05-01,1,0,0,0,1,0,1
+SAN JOSE DE CHIQUITOS,mortalidad,muerte menor de 1 ano,2011-05-01,0,0,1,0,1,0,1
+SAN MIGUEL DE VELASCO,mortalidad,muerte menor de 1 ano,2011-05-01,0,0,0,1,0,1,1
+SAN PEDRO DE BUENA VISTA,mortalidad,muerte menor de 1 ano,2011-05-01,0,0,0,1,0,1,1
+SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2011-05-01,6,4,0,0,6,4,10
+SHINAOTA,mortalidad,muerte menor de 1 ano,2011-05-01,1,0,0,0,1,0,1
+SUCRE,mortalidad,muerte menor de 1 ano,2011-05-01,3,5,0,0,3,5,8
+TARIJA,mortalidad,muerte menor de 1 ano,2011-05-01,1,1,0,0,1,1,2
+TINGUIPAYA,mortalidad,muerte menor de 1 ano,2011-05-01,0,0,1,0,1,0,1
+TORO TORO,mortalidad,muerte menor de 1 ano,2011-05-01,0,0,0,1,0,1,1
+TUPIZA,mortalidad,muerte menor de 1 ano,2011-05-01,0,0,1,1,1,1,2
+UNCIA,mortalidad,muerte menor de 1 ano,2011-05-01,0,0,1,1,1,1,2
+UYUNI,mortalidad,muerte menor de 1 ano,2011-05-01,0,0,1,0,1,0,1
+VILLA MONTES,mortalidad,muerte menor de 1 ano,2011-05-01,0,0,1,0,1,0,1
+YACUIBA,mortalidad,muerte menor de 1 ano,2011-05-01,2,0,1,0,3,0,3
+YOCALLA,mortalidad,muerte menor de 1 ano,2011-05-01,0,0,1,1,1,1,2
+YOTALA,mortalidad,muerte menor de 1 ano,2011-05-01,0,0,0,1,0,1,1
+YUNCHARA,mortalidad,muerte menor de 1 ano,2011-05-01,0,0,0,1,0,1,1
+ALTO BENI,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,1,1,1,1,2
+AYO AYO,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,0,1,0,1,1
+BETANZOS,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,1,0,1,0,1
+BOLIVAR,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,0,1,0,1,1
+CAMARGO,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,0,1,0,1,1
+CARANAVI,mortalidad,muerte menor de 1 ano,2011-06-01,1,0,0,0,1,0,1
+CHALLAPATA,mortalidad,muerte menor de 1 ano,2011-06-01,2,0,0,0,2,0,2
+CHAYANTA,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,1,0,1,0,1
+COCHABAMBA,mortalidad,muerte menor de 1 ano,2011-06-01,1,5,0,0,1,5,6
+COLQUECHACA,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,0,1,0,1,1
+COMARAPA,mortalidad,muerte menor de 1 ano,2011-06-01,1,0,0,0,1,0,1
+COPACABANA,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,0,1,0,1,1
+COTOCA,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,0,2,0,2,2
+CULPINA,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,1,0,1,0,1
+EL ALTO,mortalidad,muerte menor de 1 ano,2011-06-01,11,6,7,2,18,8,26
+EL PUENTE(STC),mortalidad,muerte menor de 1 ano,2011-06-01,0,0,0,1,0,1,1
+EL TORNO,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,0,1,0,1,1
+EUCALIPTUS,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,1,0,1,0,1
+HUACARETA,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,0,1,0,1,1
+HUANUNI,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,0,1,0,1,1
+ICLA,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,2,1,2,1,3
+LA PAZ,mortalidad,muerte menor de 1 ano,2011-06-01,18,17,2,2,20,19,39
+MOCOMOCO,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,1,1,1,1,2
+OCURI,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,1,1,1,1,2
+PADILLA,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,0,1,0,1,1
+PALOS BLANCOS,mortalidad,muerte menor de 1 ano,2011-06-01,0,1,0,0,0,1,1
+POCOATA,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,2,0,2,0,2
+POTOSI,mortalidad,muerte menor de 1 ano,2011-06-01,3,1,0,0,3,1,4
+PUCARANI,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,1,1,1,1,2
+PUERTO SUAREZ,mortalidad,muerte menor de 1 ano,2011-06-01,1,2,0,0,1,2,3
+PUERTO VILLARROEL,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,1,0,1,0,1
+QUILLACOLLO,mortalidad,muerte menor de 1 ano,2011-06-01,1,0,3,0,4,0,4
+RIBERALTA,mortalidad,muerte menor de 1 ano,2011-06-01,1,0,0,0,1,0,1
+ROBORE,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,0,1,0,1,1
+SACABA,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,1,0,1,0,1
+SACACA,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,1,0,1,0,1
+SAN BUENA VENTURA,mortalidad,muerte menor de 1 ano,2011-06-01,2,0,0,0,2,0,2
+SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2011-06-01,1,0,0,0,1,0,1
+SAN PEDRO DE BUENA VISTA,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,1,0,1,0,1
+SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2011-06-01,5,6,1,0,6,6,12
+SORACACHI,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,1,0,1,0,1
+SUCRE,mortalidad,muerte menor de 1 ano,2011-06-01,3,7,2,0,5,7,12
+TAHUA,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,1,0,1,0,1
+TARIJA,mortalidad,muerte menor de 1 ano,2011-06-01,5,0,1,1,6,1,7
+TARVITA,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,1,0,1,0,1
+TIPUANI,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,1,0,1,0,1
+TORO TORO,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,0,1,0,1,1
+UYUNI,mortalidad,muerte menor de 1 ano,2011-06-01,1,1,0,0,1,1,2
+VACAS,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,1,0,1,0,1
+VILLA MONTES,mortalidad,muerte menor de 1 ano,2011-06-01,2,0,1,0,3,0,3
+VILLA SERRANO,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,1,0,1,0,1
+WARNES,mortalidad,muerte menor de 1 ano,2011-06-01,0,0,1,0,1,0,1
+ACHACACHI,mortalidad,muerte menor de 1 ano,2011-07-01,0,1,0,0,0,1,1
+AYO AYO,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,1,0,1,0,1
+BERMEJO,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,0,1,0,1,1
+CARACOLLO,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,1,0,1,0,1
+CARIPUYO,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,1,1,1,1,2
+CHAYANTA,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,1,0,1,0,1
+CHIMORE,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,2,0,2,0,2
+CHIPAYA,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,0,1,0,1,1
+CHUMA,mortalidad,muerte menor de 1 ano,2011-07-01,1,0,1,0,2,0,2
+CHUQUIHUTA AYLLU JUCUMANI,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,1,0,1,0,1
+COBIJA,mortalidad,muerte menor de 1 ano,2011-07-01,1,1,0,0,1,1,2
+COCHABAMBA,mortalidad,muerte menor de 1 ano,2011-07-01,11,10,0,0,11,10,21
+"COLCHA ""K""",mortalidad,muerte menor de 1 ano,2011-07-01,0,0,1,0,1,0,1
+COLQUECHACA,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,1,0,1,0,1
+CUATRO CAÑADAS,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,0,1,0,1,1
+EL ALTO,mortalidad,muerte menor de 1 ano,2011-07-01,5,3,5,5,10,8,18
+EL TORNO,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,0,1,0,1,1
+EL VILLAR,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,1,0,1,0,1
+GUAYARAMERIN,mortalidad,muerte menor de 1 ano,2011-07-01,1,0,0,0,1,0,1
+HUANUNI,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,1,0,1,0,1
+INCAHUASI,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,1,0,1,0,1
+IXIAMAS,mortalidad,muerte menor de 1 ano,2011-07-01,1,0,0,0,1,0,1
+LA PAZ,mortalidad,muerte menor de 1 ano,2011-07-01,12,12,1,1,13,13,26
+MONTERO,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,1,0,1,0,1
+ORURO,mortalidad,muerte menor de 1 ano,2011-07-01,1,0,0,0,1,0,1
+PATACAMAYA,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,1,0,1,0,1
+POCOATA,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,0,1,0,1,1
+POTOSI,mortalidad,muerte menor de 1 ano,2011-07-01,0,1,0,0,0,1,1
+PUERTO VILLARROEL,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,1,0,1,0,1
+SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2011-07-01,0,2,0,0,0,2,2
+SAN LUCAS,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,0,1,0,1,1
+SAN PEDRO DE BUENA VISTA,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,1,0,1,0,1
+SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2011-07-01,7,5,1,1,8,6,14
+SANTUARIO DE QUILLACAS,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,1,0,1,0,1
+SIPE SIPE,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,0,1,0,1,1
+SUCRE,mortalidad,muerte menor de 1 ano,2011-07-01,6,3,0,0,6,3,9
+TARIJA,mortalidad,muerte menor de 1 ano,2011-07-01,3,1,0,0,3,1,4
+TINGUIPAYA,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,1,1,1,1,2
+TIRAQUE (CBBA),mortalidad,muerte menor de 1 ano,2011-07-01,0,0,2,0,2,0,2
+TRIGAL,mortalidad,muerte menor de 1 ano,2011-07-01,1,0,0,0,1,0,1
+TRINIDAD,mortalidad,muerte menor de 1 ano,2011-07-01,0,1,0,0,0,1,1
+TUPIZA,mortalidad,muerte menor de 1 ano,2011-07-01,2,1,0,1,2,2,4
+UNCIA,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,0,2,0,2,2
+UYUNI,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,2,1,2,1,3
+VILLAZON,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,0,1,0,1,1
+VITICHI,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,0,1,0,1,1
+WARNES,mortalidad,muerte menor de 1 ano,2011-07-01,0,0,0,1,0,1,1
+ACHACACHI,mortalidad,muerte menor de 1 ano,2011-08-01,0,0,2,1,2,1,3
+AIQUILE,mortalidad,muerte menor de 1 ano,2011-08-01,0,0,2,0,2,0,2
+APOLO,mortalidad,muerte menor de 1 ano,2011-08-01,1,0,0,0,1,0,1
+ARAMPAMPA,mortalidad,muerte menor de 1 ano,2011-08-01,0,0,1,0,1,0,1
+AYOPAYA (V. DE INDEPENDENCIA),mortalidad,muerte menor de 1 ano,2011-08-01,0,0,1,0,1,0,1
+CAMIRI,mortalidad,muerte menor de 1 ano,2011-08-01,0,0,0,1,0,1,1
+CHIMORE,mortalidad,muerte menor de 1 ano,2011-08-01,0,0,1,0,1,0,1
+CKOCHAS,mortalidad,muerte menor de 1 ano,2011-08-01,0,0,1,0,1,0,1
+COCHABAMBA,mortalidad,muerte menor de 1 ano,2011-08-01,16,7,0,0,16,7,23
+COLQUENCHA,mortalidad,muerte menor de 1 ano,2011-08-01,0,0,1,0,1,0,1
+CONCEPCION,mortalidad,muerte menor de 1 ano,2011-08-01,0,0,1,0,1,0,1
+CORO CORO,mortalidad,muerte menor de 1 ano,2011-08-01,0,0,1,0,1,0,1
+CORQUE,mortalidad,muerte menor de 1 ano,2011-08-01,0,0,1,0,1,0,1
+EL ALTO,mortalidad,muerte menor de 1 ano,2011-08-01,3,2,5,3,8,5,13
+GRAL. J.J. PEREZ (CHARAZANI),mortalidad,muerte menor de 1 ano,2011-08-01,0,0,0,1,0,1,1
+GUAYARAMERIN,mortalidad,muerte menor de 1 ano,2011-08-01,1,1,0,0,1,1,2
+GUTIERREZ,mortalidad,muerte menor de 1 ano,2011-08-01,1,0,0,0,1,0,1
+LA GUARDIA,mortalidad,muerte menor de 1 ano,2011-08-01,0,0,1,0,1,0,1
+LA PAZ,mortalidad,muerte menor de 1 ano,2011-08-01,21,10,2,0,23,10,33
+LLALLAGUA,mortalidad,muerte menor de 1 ano,2011-08-01,0,0,1,0,1,0,1
+MONTEAGUDO,mortalidad,muerte menor de 1 ano,2011-08-01,0,1,0,0,0,1,1
+MONTERO,mortalidad,muerte menor de 1 ano,2011-08-01,1,0,0,0,1,0,1
+MOROCHATA,mortalidad,muerte menor de 1 ano,2011-08-01,0,0,1,1,1,1,2
+ORURO,mortalidad,muerte menor de 1 ano,2011-08-01,1,0,0,0,1,0,1
+PAMPA GRANDE,mortalidad,muerte menor de 1 ano,2011-08-01,0,0,1,0,1,0,1
+POCONA,mortalidad,muerte menor de 1 ano,2011-08-01,0,0,0,1,0,1,1
+POTOSI,mortalidad,muerte menor de 1 ano,2011-08-01,3,3,0,0,3,3,6
+PUERTO SUAREZ,mortalidad,muerte menor de 1 ano,2011-08-01,1,0,0,0,1,0,1
+QUILLACOLLO,mortalidad,muerte menor de 1 ano,2011-08-01,0,0,0,2,0,2,2
+RAVELO,mortalidad,muerte menor de 1 ano,2011-08-01,0,0,1,0,1,0,1
+RIBERALTA,mortalidad,muerte menor de 1 ano,2011-08-01,2,2,0,0,2,2,4
+ROBORE,mortalidad,muerte menor de 1 ano,2011-08-01,0,1,0,0,0,1,1
+SAN BUENA VENTURA,mortalidad,muerte menor de 1 ano,2011-08-01,1,0,1,0,2,0,2
+SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2011-08-01,1,1,1,0,2,1,3
+SAN LUCAS,mortalidad,muerte menor de 1 ano,2011-08-01,0,0,1,1,1,1,2
+SAN MATIAS,mortalidad,muerte menor de 1 ano,2011-08-01,0,0,0,1,0,1,1
+SAN PEDRO DE BUENA VISTA,mortalidad,muerte menor de 1 ano,2011-08-01,0,0,0,1,0,1,1
+SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2011-08-01,13,5,3,1,16,6,22
+SHINAOTA,mortalidad,muerte menor de 1 ano,2011-08-01,0,0,1,0,1,0,1
+SUCRE,mortalidad,muerte menor de 1 ano,2011-08-01,4,7,0,0,4,7,11
+TAPACARI,mortalidad,muerte menor de 1 ano,2011-08-01,0,0,0,1,0,1,1
+TARIJA,mortalidad,muerte menor de 1 ano,2011-08-01,0,2,0,0,0,2,2
+TINGUIPAYA,mortalidad,muerte menor de 1 ano,2011-08-01,0,1,1,0,1,1,2
+TRINIDAD,mortalidad,muerte menor de 1 ano,2011-08-01,1,3,0,0,1,3,4
+UYUNI,mortalidad,muerte menor de 1 ano,2011-08-01,0,0,0,1,0,1,1
+VILA VILA,mortalidad,muerte menor de 1 ano,2011-08-01,0,0,2,0,2,0,2
+VILLA MONTES,mortalidad,muerte menor de 1 ano,2011-08-01,1,0,0,0,1,0,1
+VILLAZON,mortalidad,muerte menor de 1 ano,2011-08-01,0,0,3,0,3,0,3
+APOLO,mortalidad,muerte menor de 1 ano,2011-09-01,0,1,0,0,0,1,1
+BETANZOS,mortalidad,muerte menor de 1 ano,2011-09-01,0,0,1,1,1,1,2
+CALAMARCA,mortalidad,muerte menor de 1 ano,2011-09-01,0,0,1,0,1,0,1
+CARACOLLO,mortalidad,muerte menor de 1 ano,2011-09-01,0,0,1,0,1,0,1
+CARIPUYO,mortalidad,muerte menor de 1 ano,2011-09-01,0,0,1,1,1,1,2
+CHALLAPATA,mortalidad,muerte menor de 1 ano,2011-09-01,0,0,0,1,0,1,1
+CHIPAYA,mortalidad,muerte menor de 1 ano,2011-09-01,0,0,0,1,0,1,1
+CHULUMANI (V. DE LA LIBERTAD),mortalidad,muerte menor de 1 ano,2011-09-01,1,0,0,0,1,0,1
+COBIJA,mortalidad,muerte menor de 1 ano,2011-09-01,1,0,0,0,1,0,1
+COCHABAMBA,mortalidad,muerte menor de 1 ano,2011-09-01,9,10,0,0,9,10,19
+COLOMI,mortalidad,muerte menor de 1 ano,2011-09-01,0,0,1,0,1,0,1
+COLQUENCHA,mortalidad,muerte menor de 1 ano,2011-09-01,0,0,1,0,1,0,1
+COPACABANA,mortalidad,muerte menor de 1 ano,2011-09-01,0,0,1,0,1,0,1
+COROICO,mortalidad,muerte menor de 1 ano,2011-09-01,0,0,0,1,0,1,1
+EL ALTO,mortalidad,muerte menor de 1 ano,2011-09-01,8,4,3,5,11,9,20
+GUAYARAMERIN,mortalidad,muerte menor de 1 ano,2011-09-01,2,2,0,0,2,2,4
+ICLA,mortalidad,muerte menor de 1 ano,2011-09-01,0,0,0,1,0,1,1
+LA PAZ,mortalidad,muerte menor de 1 ano,2011-09-01,8,11,0,4,8,15,23
+MONTERO,mortalidad,muerte menor de 1 ano,2011-09-01,0,0,1,1,1,1,2
+OCURI,mortalidad,muerte menor de 1 ano,2011-09-01,0,0,0,1,0,1,1
+ORURO,mortalidad,muerte menor de 1 ano,2011-09-01,0,1,0,0,0,1,1
+POTOSI,mortalidad,muerte menor de 1 ano,2011-09-01,3,1,0,0,3,1,4
+PUERTO CARABUCO,mortalidad,muerte menor de 1 ano,2011-09-01,0,0,1,0,1,0,1
+RIBERALTA,mortalidad,muerte menor de 1 ano,2011-09-01,0,2,0,0,0,2,2
+SAN ANDRES,mortalidad,muerte menor de 1 ano,2011-09-01,0,0,1,0,1,0,1
+SAN BORJA,mortalidad,muerte menor de 1 ano,2011-09-01,1,0,0,0,1,0,1
+SAN IGNACIO,mortalidad,muerte menor de 1 ano,2011-09-01,0,0,1,0,1,0,1
+SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2011-09-01,3,3,0,0,3,3,6
+SAN JAVIER(BNI),mortalidad,muerte menor de 1 ano,2011-09-01,0,0,0,1,0,1,1
+SAN LUCAS,mortalidad,muerte menor de 1 ano,2011-09-01,0,0,0,1,0,1,1
+SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2011-09-01,6,4,0,1,6,5,11
+SUCRE,mortalidad,muerte menor de 1 ano,2011-09-01,2,5,0,0,2,5,7
+TAPACARI,mortalidad,muerte menor de 1 ano,2011-09-01,1,0,0,1,1,1,2
+TINGUIPAYA,mortalidad,muerte menor de 1 ano,2011-09-01,0,0,0,1,0,1,1
+TOMAVE,mortalidad,muerte menor de 1 ano,2011-09-01,0,0,1,1,1,1,2
+TRINIDAD,mortalidad,muerte menor de 1 ano,2011-09-01,0,1,0,0,0,1,1
+TUPIZA,mortalidad,muerte menor de 1 ano,2011-09-01,0,0,1,0,1,0,1
+TURCO,mortalidad,muerte menor de 1 ano,2011-09-01,0,0,1,0,1,0,1
+UNCIA,mortalidad,muerte menor de 1 ano,2011-09-01,0,0,1,0,1,0,1
+VILA VILA,mortalidad,muerte menor de 1 ano,2011-09-01,0,0,1,0,1,0,1
+VILLA MONTES,mortalidad,muerte menor de 1 ano,2011-09-01,1,0,0,0,1,0,1
+VILLAZON,mortalidad,muerte menor de 1 ano,2011-09-01,1,0,0,0,1,0,1
+WARNES,mortalidad,muerte menor de 1 ano,2011-09-01,0,1,0,0,0,1,1
+YACO,mortalidad,muerte menor de 1 ano,2011-09-01,0,0,0,2,0,2,2
+YACUIBA,mortalidad,muerte menor de 1 ano,2011-09-01,0,1,0,0,0,1,1
+ACHACACHI,mortalidad,muerte menor de 1 ano,2011-10-01,1,0,2,0,3,0,3
+ALTO BENI,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,0,1,0,1,1
+AYO AYO,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,1,0,1,0,1
+BETANZOS,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,1,0,1,0,1
+CARACOLLO,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,1,0,1,0,1
+CARANAVI,mortalidad,muerte menor de 1 ano,2011-10-01,0,1,0,0,0,1,1
+COBIJA,mortalidad,muerte menor de 1 ano,2011-10-01,1,1,0,0,1,1,2
+COCHABAMBA,mortalidad,muerte menor de 1 ano,2011-10-01,11,7,0,0,11,7,18
+COLOMI,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,1,0,1,0,1
+COLPA BELGICA,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,1,0,1,0,1
+COLQUENCHA,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,1,0,1,0,1
+CONCEPCION,mortalidad,muerte menor de 1 ano,2011-10-01,1,0,0,0,1,0,1
+EL ALTO,mortalidad,muerte menor de 1 ano,2011-10-01,4,3,6,3,10,6,16
+GRAL. J.J. PEREZ (CHARAZANI),mortalidad,muerte menor de 1 ano,2011-10-01,1,0,0,0,1,0,1
+GUAYARAMERIN,mortalidad,muerte menor de 1 ano,2011-10-01,1,1,0,0,1,1,2
+ICLA,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,0,1,0,1,1
+LA PAZ,mortalidad,muerte menor de 1 ano,2011-10-01,13,15,0,0,13,15,28
+LLALLAGUA,mortalidad,muerte menor de 1 ano,2011-10-01,0,1,0,0,0,1,1
+POJO (CBBA),mortalidad,muerte menor de 1 ano,2011-10-01,0,0,0,1,0,1,1
+POROMA,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,0,1,0,1,1
+POTOSI,mortalidad,muerte menor de 1 ano,2011-10-01,2,0,0,0,2,0,2
+PUERTO SUAREZ,mortalidad,muerte menor de 1 ano,2011-10-01,1,1,0,1,1,2,3
+PUERTO VILLARROEL,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,0,1,0,1,1
+PUNATA,mortalidad,muerte menor de 1 ano,2011-10-01,0,1,0,0,0,1,1
+RAVELO,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,2,0,2,0,2
+RIBERALTA,mortalidad,muerte menor de 1 ano,2011-10-01,0,1,0,0,0,1,1
+ROBORE,mortalidad,muerte menor de 1 ano,2011-10-01,0,1,0,1,0,2,2
+RURRENABAQUE,mortalidad,muerte menor de 1 ano,2011-10-01,1,0,0,0,1,0,1
+SACABA,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,0,1,0,1,1
+SACACA,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,0,1,0,1,1
+SAN BUENA VENTURA,mortalidad,muerte menor de 1 ano,2011-10-01,0,1,0,0,0,1,1
+SAN CARLOS,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,0,1,0,1,1
+SAN LUCAS,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,1,0,1,0,1
+SAN PABLO DE LIPEZ,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,1,0,1,0,1
+SAN PEDRO DE CURAHUARA,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,0,1,0,1,1
+SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2011-10-01,6,5,0,0,6,5,11
+SENA,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,1,0,1,0,1
+SUCRE,mortalidad,muerte menor de 1 ano,2011-10-01,6,0,2,2,8,2,10
+TACOPAYA,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,1,1,1,1,2
+TARVITA,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,1,0,1,0,1
+TEOPONTE,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,0,1,0,1,1
+TINGUIPAYA,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,1,1,1,1,2
+TIRAQUE (CBBA),mortalidad,muerte menor de 1 ano,2011-10-01,0,0,1,0,1,0,1
+TRINIDAD,mortalidad,muerte menor de 1 ano,2011-10-01,1,0,0,0,1,0,1
+TUPIZA,mortalidad,muerte menor de 1 ano,2011-10-01,2,1,0,0,2,1,3
+UYUNI,mortalidad,muerte menor de 1 ano,2011-10-01,0,1,0,0,0,1,1
+VIACHA,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,1,0,1,0,1
+VILLA MONTES,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,1,0,1,0,1
+VILLA TUNARI,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,1,0,1,0,1
+VILLAZON,mortalidad,muerte menor de 1 ano,2011-10-01,0,0,0,1,0,1,1
+YACUIBA,mortalidad,muerte menor de 1 ano,2011-10-01,0,1,0,0,0,1,1
+ACHACACHI,mortalidad,muerte menor de 1 ano,2011-11-01,1,0,0,0,1,0,1
+BOYUIBE,mortalidad,muerte menor de 1 ano,2011-11-01,0,0,1,0,1,0,1
+CAJUATA,mortalidad,muerte menor de 1 ano,2011-11-01,0,0,1,0,1,0,1
+CAMIRI,mortalidad,muerte menor de 1 ano,2011-11-01,0,0,1,0,1,0,1
+CHAYANTA,mortalidad,muerte menor de 1 ano,2011-11-01,0,0,1,0,1,0,1
+CHIPAYA,mortalidad,muerte menor de 1 ano,2011-11-01,0,0,0,1,0,1,1
+CHULUMANI (V. DE LA LIBERTAD),mortalidad,muerte menor de 1 ano,2011-11-01,0,2,0,0,0,2,2
+COBIJA,mortalidad,muerte menor de 1 ano,2011-11-01,0,1,0,0,0,1,1
+COCHABAMBA,mortalidad,muerte menor de 1 ano,2011-11-01,5,9,0,0,5,9,14
+COLOMI,mortalidad,muerte menor de 1 ano,2011-11-01,0,0,1,0,1,0,1
+COLQUECHACA,mortalidad,muerte menor de 1 ano,2011-11-01,0,0,1,0,1,0,1
+CONCEPCION,mortalidad,muerte menor de 1 ano,2011-11-01,0,1,1,1,1,2,3
+COTAGAITA,mortalidad,muerte menor de 1 ano,2011-11-01,0,0,0,1,0,1,1
+EL ALTO,mortalidad,muerte menor de 1 ano,2011-11-01,5,4,8,2,13,6,19
+EL TORNO,mortalidad,muerte menor de 1 ano,2011-11-01,0,0,1,0,1,0,1
+ESCOMA,mortalidad,muerte menor de 1 ano,2011-11-01,0,0,0,1,0,1,1
+FILADELFIA,mortalidad,muerte menor de 1 ano,2011-11-01,0,0,1,0,1,0,1
+GUAYARAMERIN,mortalidad,muerte menor de 1 ano,2011-11-01,1,0,0,0,1,0,1
+IXIAMAS,mortalidad,muerte menor de 1 ano,2011-11-01,1,0,0,0,1,0,1
+LA PAZ,mortalidad,muerte menor de 1 ano,2011-11-01,16,13,5,1,21,14,35
+MINEROS,mortalidad,muerte menor de 1 ano,2011-11-01,0,0,1,0,1,0,1
+MONTERO,mortalidad,muerte menor de 1 ano,2011-11-01,1,2,0,0,1,2,3
+NAZACARA DE PACAJES,mortalidad,muerte menor de 1 ano,2011-11-01,0,0,1,0,1,0,1
+OCURI,mortalidad,muerte menor de 1 ano,2011-11-01,0,0,0,1,0,1,1
+ORURO,mortalidad,muerte menor de 1 ano,2011-11-01,0,1,0,0,0,1,1
+POTOSI,mortalidad,muerte menor de 1 ano,2011-11-01,4,0,0,0,4,0,4
+PUERTO SUAREZ,mortalidad,muerte menor de 1 ano,2011-11-01,2,0,0,0,2,0,2
+PUERTO VILLARROEL,mortalidad,muerte menor de 1 ano,2011-11-01,2,0,0,0,2,0,2
+RIBERALTA,mortalidad,muerte menor de 1 ano,2011-11-01,1,4,0,0,1,4,5
+RURRENABAQUE,mortalidad,muerte menor de 1 ano,2011-11-01,1,0,0,0,1,0,1
+SACABA,mortalidad,muerte menor de 1 ano,2011-11-01,0,0,0,2,0,2,2
+SACACA,mortalidad,muerte menor de 1 ano,2011-11-01,0,0,1,0,1,0,1
+SAN BENITO,mortalidad,muerte menor de 1 ano,2011-11-01,0,0,1,0,1,0,1
+SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2011-11-01,1,0,1,0,2,0,2
+SAN LORENZO(PND),mortalidad,muerte menor de 1 ano,2011-11-01,1,0,0,0,1,0,1
+SAN LUCAS,mortalidad,muerte menor de 1 ano,2011-11-01,0,0,0,1,0,1,1
+SAN PEDRO,mortalidad,muerte menor de 1 ano,2011-11-01,0,0,1,0,1,0,1
+SAN RAFAEL,mortalidad,muerte menor de 1 ano,2011-11-01,0,1,1,0,1,1,2
+SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2011-11-01,11,1,0,0,11,1,12
+SUCRE,mortalidad,muerte menor de 1 ano,2011-11-01,6,7,0,2,6,9,15
+TARABUCO,mortalidad,muerte menor de 1 ano,2011-11-01,0,0,1,1,1,1,2
+TARIJA,mortalidad,muerte menor de 1 ano,2011-11-01,2,3,0,0,2,3,5
+TINGUIPAYA,mortalidad,muerte menor de 1 ano,2011-11-01,0,0,1,0,1,0,1
+TRINIDAD,mortalidad,muerte menor de 1 ano,2011-11-01,0,1,0,0,0,1,1
+TUPIZA,mortalidad,muerte menor de 1 ano,2011-11-01,0,1,0,1,0,2,2
+UNCIA,mortalidad,muerte menor de 1 ano,2011-11-01,0,0,1,0,1,0,1
+VILLA MONTES,mortalidad,muerte menor de 1 ano,2011-11-01,1,1,0,0,1,1,2
+VILLAZON,mortalidad,muerte menor de 1 ano,2011-11-01,0,0,1,1,1,1,2
+YACUIBA,mortalidad,muerte menor de 1 ano,2011-11-01,1,0,0,0,1,0,1
+ACHACACHI,mortalidad,muerte menor de 1 ano,2011-12-01,0,0,1,0,1,0,1
+AYATA,mortalidad,muerte menor de 1 ano,2011-12-01,0,0,1,0,1,0,1
+AYOPAYA (V. DE INDEPENDENCIA),mortalidad,muerte menor de 1 ano,2011-12-01,0,0,0,1,0,1,1
+CARIPUYO,mortalidad,muerte menor de 1 ano,2011-12-01,0,0,1,0,1,0,1
+CHALLAPATA,mortalidad,muerte menor de 1 ano,2011-12-01,0,0,0,2,0,2,2
+CHULUMANI (V. DE LA LIBERTAD),mortalidad,muerte menor de 1 ano,2011-12-01,0,1,0,0,0,1,1
+CHUQUIHUTA AYLLU JUCUMANI,mortalidad,muerte menor de 1 ano,2011-12-01,0,0,1,0,1,0,1
+COCHABAMBA,mortalidad,muerte menor de 1 ano,2011-12-01,13,4,0,0,13,4,17
+COLOMI,mortalidad,muerte menor de 1 ano,2011-12-01,0,0,1,0,1,0,1
+COROICO,mortalidad,muerte menor de 1 ano,2011-12-01,0,1,0,0,0,1,1
+EL ALTO,mortalidad,muerte menor de 1 ano,2011-12-01,5,4,7,4,12,8,20
+EUCALIPTUS,mortalidad,muerte menor de 1 ano,2011-12-01,0,0,1,1,1,1,2
+GUAYARAMERIN,mortalidad,muerte menor de 1 ano,2011-12-01,3,1,0,0,3,1,4
+HUANUNI,mortalidad,muerte menor de 1 ano,2011-12-01,0,0,0,1,0,1,1
+LA ASUNTA,mortalidad,muerte menor de 1 ano,2011-12-01,0,1,0,0,0,1,1
+LA PAZ,mortalidad,muerte menor de 1 ano,2011-12-01,18,11,1,0,19,11,30
+LLALLAGUA,mortalidad,muerte menor de 1 ano,2011-12-01,0,0,0,1,0,1,1
+MONTEAGUDO,mortalidad,muerte menor de 1 ano,2011-12-01,0,0,1,0,1,0,1
+MONTERO,mortalidad,muerte menor de 1 ano,2011-12-01,1,0,1,0,2,0,2
+OCURI,mortalidad,muerte menor de 1 ano,2011-12-01,0,0,0,2,0,2,2
+ORURO,mortalidad,muerte menor de 1 ano,2011-12-01,0,1,0,0,0,1,1
+POCOATA,mortalidad,muerte menor de 1 ano,2011-12-01,0,0,0,1,0,1,1
+PORTACHUELO,mortalidad,muerte menor de 1 ano,2011-12-01,1,0,1,0,2,0,2
+POTOSI,mortalidad,muerte menor de 1 ano,2011-12-01,5,0,0,0,5,0,5
+PUCARANI,mortalidad,muerte menor de 1 ano,2011-12-01,0,0,0,1,0,1,1
+QUILLACOLLO,mortalidad,muerte menor de 1 ano,2011-12-01,0,0,1,0,1,0,1
+RIBERALTA,mortalidad,muerte menor de 1 ano,2011-12-01,2,0,0,0,2,0,2
+SACACA,mortalidad,muerte menor de 1 ano,2011-12-01,0,0,1,0,1,0,1
+SAN BUENA VENTURA,mortalidad,muerte menor de 1 ano,2011-12-01,1,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2011-12-01,0,0,1,0,1,0,1
+SAN LUCAS,mortalidad,muerte menor de 1 ano,2011-12-01,0,0,0,1,0,1,1
+SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2011-12-01,6,5,0,0,6,5,11
+SUCRE,mortalidad,muerte menor de 1 ano,2011-12-01,6,5,0,0,6,5,11
+TARABUCO,mortalidad,muerte menor de 1 ano,2011-12-01,0,0,1,0,1,0,1
+TARIJA,mortalidad,muerte menor de 1 ano,2011-12-01,0,1,0,0,0,1,1
+TINGUIPAYA,mortalidad,muerte menor de 1 ano,2011-12-01,0,0,1,0,1,0,1
+TRINIDAD,mortalidad,muerte menor de 1 ano,2011-12-01,0,1,0,0,0,1,1
+VILLAZON,mortalidad,muerte menor de 1 ano,2011-12-01,0,0,0,1,0,1,1
+ZUDAÑEZ,mortalidad,muerte menor de 1 ano,2011-12-01,0,0,1,0,1,0,1

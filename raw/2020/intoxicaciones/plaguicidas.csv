@@ -1,0 +1,518 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 m a menor de 1 año,b. 6 m a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+ALCALA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+ANCORAIMES,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+CARANAVI,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+CHUMA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+COCHABAMBA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,1,1,1,2,1,0,0,0,0,0,0,3,3,6
+COLQUECHACA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+COMARAPA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+COPACABANA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CORIPATA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COROICO,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CULPINA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL ALTO,intoxicaciones,plaguicidas,2020-01-01,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,3,4
+EL PUENTE(TJA),intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+EL TORNO,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+ENTRE RIOS TRJ,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,3,3
+ENTRE RIOS CBBA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,1,3
+GUANAY,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+INCAHUASI,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+IRUPANA (VILLA DE LANZA),intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA ASUNTA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,1,0,0,0,0,0,2,1,0,0,0,0,1,0,4,1,5
+LA PAZ,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,2,2,4
+MAIRANA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,1,0,0,0,0,0,0,2,0,1,0,2,0,1,1,6,2,8
+MIZQUE,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+OCURI,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1,1,3,2,5
+ORURO,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+PAMPA GRANDE,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+PATACAMAYA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+POROMA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+PORTACHUELO,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+POTOSI,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PUERTO CARABUCO,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO VILLARROEL,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,1,3,1,3,1,0,0,1,0,1,0,8,3,11
+PUNA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+PUNATA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,3,3
+QUILLACOLLO,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SABAYA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SACABA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+SAN CARLOS,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO DE CURAHUARA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,1,2,2,1,0,0,0,1,0,4,3,7
+SAPAHAQUI,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SHINAOTA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SIPE SIPE,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,1,1,0,0,0,0,0,2,0,3,0,0,0,1,0,0,1,7,8
+TAPACARI,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TARIJA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+TARVITA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+TIQUIPAYA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TITO YUPANQUI (PARQUIPUJIO),intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TOTORA(CBBA),intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+VALLEGRANDE,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,2
+VIACHA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+VILLA SERRANO,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+VILLA TUNARI,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+VILLAZON,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+YACUIBA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,2,3
+YAMPARAEZ,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+YAPACANI,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+YOTALA,intoxicaciones,plaguicidas,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+ACACIO,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ACHACACHI,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+ANCORAIMES,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ARQUE,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+AUCAPATA,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BERMEJO,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+BETANZOS,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CAJUATA,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+CARANAVI,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CARAPARI,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CHALLAPATA,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CHIMORE,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CHUMA,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,2,0,0,0,4,4,8
+COIPASA,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COMARAPA,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COPACABANA,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+COTAGAITA,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+CULPINA,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+EL ALTO,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+ENTRE RIOS TRJ,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ESCOMA,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HUAYLLAMARCA,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+INCAHUASI,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA ASUNTA,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1,0,0,0,0,1,3,4
+LA PAZ,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1,0,1,0,0,3,3,6
+LLALLAGUA,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MAIRANA,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,2,0,4,1,0,0,0,0,0,0,6,1,7
+MIZQUE,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+OMEREQUE,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+ORURO,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,0,0,0,0,2,2,4
+PALOS BLANCOS,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+PAMPA GRANDE,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+PORTACHUELO,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+POTOSI,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,2
+PUERTO VILLARROEL,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,0,0,0,0,8,0,8
+PUNA,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+PUNATA,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SACABA,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+SALINAS DE GARCI MENDOZA,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN LUCAS,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SUCRE,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,2
+TARABUCO,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TARIJA,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,3,0,3
+TIRAQUE (CBBA),intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TOTORA(CBBA),intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+TUPIZA,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+VALLEGRANDE,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA TUNARI,intoxicaciones,plaguicidas,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,2,0,2,0,7,2,9
+ALTO BENI,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ANCORAIMES,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+AUCAPATA,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+CAJUATA,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CAPINOTA,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,2
+CARAPARI,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CHIMORE,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,2,2,4
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,2,3,5
+COROICO,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,2,3
+EL ALTO,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+EL TORNO,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ENTRE RIOS TRJ,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ENTRE RIOS CBBA,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+IRUPANA (VILLA DE LANZA),intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+LA ASUNTA,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA PAZ,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+LURIBAY,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MAIRANA,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,4,0,4
+MIZQUE,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PATACAMAYA,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+POCOATA,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+POJO (CBBA),intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,3
+POTOSI,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0,1,3,4
+PUERTO VILLARROEL,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,2,6,0,1,0,0,0,0,0,7,2,9
+PUNATA,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+QUIABAYA,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,2,1,3
+SAN PEDRO,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO DE CURAHUARA,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,0,4,1,5
+SHINAOTA,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SORATA,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2
+TRINIDAD,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,2,0,5,0,3,1,1,0,5,1,1,4,5,2,2,4,24,12,36
+VILLA TUNARI,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,1,2,3,2,0,7,6,13
+YACUIBA,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,4,0,4
+YAPACANI,intoxicaciones,plaguicidas,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+AIQUILE,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CALAMARCA,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+CAPINOTA,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CARANAVI,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CARAPARI,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCAPATA,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COCHABAMBA,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,3,2,5
+COLQUECHACA,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+COLQUENCHA,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+COROICO,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,2,1,3
+EL ALTO,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+EL TORNO,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+ENTRE RIOS CBBA,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+LA ASUNTA,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+LURIBAY,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MAIRANA,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,3,0,3
+MIZQUE,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+OCURI,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,2,1,3
+PALOS BLANCOS,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+PORTACHUELO,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+POTOSI,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+PUERTO CARABUCO,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PUERTO PEREZ,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PUERTO VILLARROEL,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,1,0,0,1,0,0,0,2,2,0,0,0,0,0,0,3,3,6
+PUNATA,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+QUILLACOLLO,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SACABA,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN BUENA VENTURA,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN PEDRO DE TIQUINA,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAPAHAQUI,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SICA SICA (VILLA AROMA),intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SORATA,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TARIJA,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+TEOPONTE,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+TINGUIPAYA,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VALLEGRANDE,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VIACHA,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA CHARCAS,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,3,3
+VILLA MONTES,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+VILLA TUNARI,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,1,1,0,0,0,4,2,6
+YAMPARAEZ,intoxicaciones,plaguicidas,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BERMEJO,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CAJUATA,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,2,1,3
+CAMARGO,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,2
+CLIZA,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+COCHABAMBA,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0,1,3,4
+DESAGUADERO,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL PUENTE(TJA),intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+ENTRE RIOS CBBA,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+IRUPANA (VILLA DE LANZA),intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA ASUNTA,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0,0,0,0,1,0,2,5,7
+LA PAZ,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2
+MAPIRI,intoxicaciones,plaguicidas,2020-05-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+MONTEAGUDO,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+MORO MORO,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+OCURI,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+OMEREQUE,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,2,1,3
+PADCAYA,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+POJO (CBBA),intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+POTOSI,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+PUERTO VILLARROEL,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,3,0,3
+QUILLACOLLO,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,2,1,3
+SAPAHAQUI,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SIPE SIPE,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SORATA,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SUCRE,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TARACO,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TARVITA,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TOMINA,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+TOTORA(CBBA),intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VALLEGRANDE,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILA VILA,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA TUNARI,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3,0,3
+VINTO,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VITICHI,intoxicaciones,plaguicidas,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ALCALA,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+ANCORAIMES,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+AYATA,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+"CAIZA ""D""",intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CAMARGO,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CHIMORE,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,0,3
+COCHABAMBA,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,3,4
+COLOMI,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COROICO,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COTAGAITA,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,2,3
+EL ALTO,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+ENTRE RIOS TRJ,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ENTRE RIOS CBBA,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+IRUPANA (VILLA DE LANZA),intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA ASUNTA,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3,3
+LA PAZ,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LAS CARRERAS,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+MAIRANA,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+ORURO,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+PADCAYA,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+PADILLA,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PALCA,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+PALOS BLANCOS,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PATACAMAYA,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PORTACHUELO,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO VILLARROEL,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,1,3,4
+PUNA,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+PUNATA,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+QUILLACOLLO,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+RAVELO,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAN BENITO,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN BUENA VENTURA,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN LORENZO(TJA),intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SUCRE,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TARIJA,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,2,1,3
+URIONDO (A. CONCEPCION),intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+VACAS,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+VILLA CHARCAS,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+VILLA TUNARI,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+YAMPARAEZ,intoxicaciones,plaguicidas,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+ALCALA,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+APOLO,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BERMEJO,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+BETANZOS,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+CARACOLLO,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CARANAVI,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CARAPARI,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CHIMORE,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+CKOCHAS,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,3,3
+COCAPATA,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2,2,4
+COTAGAITA,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+EL PUENTE(TJA),intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+LA ASUNTA,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,3,3,3,2,0,2,10,9,0,2,0,0,4,0,20,18,38
+LA PAZ,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,5,5
+LURIBAY,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+MONTERO,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PADCAYA,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO CARABUCO,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+PUERTO VILLARROEL,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,1,4,5
+SALINAS DE GARCI MENDOZA,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN PEDRO,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,1,0,0,0,0,0,0,11,0,0,0,0,0,0,0,11,1,12
+SANTIAGO DE HUARI,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAPAHAQUI,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SOPACHUY,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SUCRE,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+TITO YUPANQUI (PARQUIPUJIO),intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TUPIZA,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+VILLA TUNARI,intoxicaciones,plaguicidas,2020-07-01,0,0,0,0,1,0,0,0,0,1,2,0,1,1,0,0,0,0,0,0,4,2,6
+ANZALDO,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+BETANZOS,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CAJUATA,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+CARACOLLO,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CHIMORE,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,2
+CHUMA,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+COCHABAMBA,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,1,3,4
+COLQUECHACA,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CORIPATA,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+COROICO,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+COTAGAITA,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,2,3
+EL ALTO,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL TORNO,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+LA ASUNTA,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,0,3,1,4
+PAPEL PAMPA,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+POCOATA,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+PORTACHUELO,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+POTOSI,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,2,0,0,0,0,1,3,4
+PUERTO CARABUCO,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+PUERTO VILLARROEL,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,3,1,4
+PUNATA,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,4,0,4
+SACABA,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+SAN CARLOS,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SANTA ROSA DEL SARA,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TARIJA,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+TOTORA(CBBA),intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2,1,3
+VILLA TUNARI,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0,0,3,2,5
+VINTO,intoxicaciones,plaguicidas,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+AIQUILE,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+AZURDUY,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BERMEJO,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+"CAIZA ""D""",intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CAJUATA,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+CAPINOTA,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CARANAVI,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,1,2,4,0,0,0,0,0,0,2,5,7
+CHALLAPATA,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,3,3
+CHIMORE,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,4,2,6
+COLOMI,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+COMARAPA,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CORIPATA,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,0,2
+COROICO,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ENTRE RIOS CBBA,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+EUCALIPTUS,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+HUARINA,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+INCAHUASI,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA ASUNTA,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,1,1,2,2,1,0,0,0,0,0,4,3,7
+LA PAZ,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+LLICA,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LURIBAY,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MAIRANA,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MECAPACA,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+MONTERO,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+OCURI,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+OMEREQUE,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PALOS BLANCOS,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+POTOSI,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,2,3
+PUCARANI,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PUERTO VILLARROEL,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,1,0,1,0,1,0,2,0,2,3,0,0,1,0,0,0,8,3,11
+PUNATA,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,3,0,3
+QUIABAYA,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+QUILLACOLLO,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+RAQAYPAMPA(ETA),intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SACABA,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SAN LORENZO(TJA),intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,2
+SAN LUCAS,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,1,0,0,0,0,0,6,6
+SHINAOTA,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TARIJA,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+URUBICHA,intoxicaciones,plaguicidas,2020-09-01,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4
+VILLA TUNARI,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,2,3,5
+YACUIBA,intoxicaciones,plaguicidas,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CAIROMA,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+CAJUATA,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+CHALLAPATA,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CHIMORE,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+COCHABAMBA,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,1,0,0,2,1,0,3,1,1,1,0,0,2,0,2,0,10,4,14
+COLOMI,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+COPACABANA,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CORIPATA,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+CULPINA,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL ALTO,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,1,0,0,0,0,1,5,6
+EL TORNO,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ENTRE RIOS TRJ,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+ENTRE RIOS CBBA,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,2,2,4
+EUCALIPTUS,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+IRUPANA (VILLA DE LANZA),intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA ASUNTA,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA PAZ,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,3,3
+LURIBAY,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,2,2,4
+MAIRANA,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MONTEAGUDO,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PADCAYA,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+PALCA,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+PALOS BLANCOS,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+POCONA,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+POTOSI,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,2,3
+PUERTO CARABUCO,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PUERTO VILLARROEL,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,1,1,0,0,0,0,1,0,4,0,0,0,0,0,0,0,6,1,7
+PUNATA,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+QUILLACOLLO,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+RAQAYPAMPA(ETA),intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SACABA,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,4,4
+SANTA CRUZ DE LA SIERRA,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTIAGO DE HUARI,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SAPAHAQUI,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SHINAOTA,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+SUCRE,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,1,1,0,0,2,0,0,1,1,3,0,0,0,1,0,6,4,10
+TARIJA,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+UMALA,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+VILLA TUNARI,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+VINTO,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+VITICHI,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+YACUIBA,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+YAMPARAEZ,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,3
+YAPACANI,intoxicaciones,plaguicidas,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,3,0,3
+ACHACACHI,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ANCORAIMES,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ARBIETO,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ARQUE,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CARANAVI,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,2,2,4
+CHALLAPATA,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CHIMORE,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,4
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+CHUMA,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,2,1,3
+COCAPATA,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+COCHABAMBA,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,2,0,2,5,2,0,0,0,1,0,1,5,8,13
+COLOMI,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+COLQUECHACA,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+COLQUIRI,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COMARAPA,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CORIPATA,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+COROICO,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,1,0,0,0,0,0,1,4,0,0,0,0,0,0,0,4,2,6
+EL ALTO,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+EL TORNO,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2,2,4
+ICHOCA,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ICLA,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+LA ASUNTA,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA PAZ,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2,4
+LURIBAY,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+MAIRANA,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+OCURI,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ORURO,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PADCAYA,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+PADILLA,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PALCA,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+POCONA,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+POTOSI,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+PUERTO VILLARROEL,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,3,2,3,1,0,1,0,0,0,0,6,4,10
+QUILLACOLLO,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+RAVELO,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SACABA,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,1,0,0,0,0,0,1,0,4,0,0,0,0,1,0,1,6,7
+SAN IGNACIO DE VELASCO,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+SAN LORENZO(TJA),intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+SAN PEDRO,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SANTIVAÑES,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SICA SICA (VILLA AROMA),intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,2,1,3
+SUCRE,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2
+TACACOMA,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+TACOBAMBA,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+TARIJA,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TIQUIPAYA,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+TOTORA(CBBA),intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA TUNARI,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,3,3
+YACUIBA,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+YANACACHI,intoxicaciones,plaguicidas,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ACHACACHI,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+ALTO BENI,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ARBIETO,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+BATALLAS,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+BERMEJO,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CAJUATA,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CAMARGO,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CAPINOTA,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CARANAVI,intoxicaciones,plaguicidas,2020-12-01,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+COCAPATA,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,1,0,0,0,0,4,0,2,4,4,0,0,0,0,0,0,5,10,15
+COMARAPA,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CUCHUMUELA (V. G. VILLARROEL),intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+EL PUENTE(TJA),intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ENTRE RIOS CBBA,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,1,2,1,3,0,0,1,0,0,0,3,5,8
+HUMANATA,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ICLA,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+LA ASUNTA,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,2,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,5,2,7
+LA PAZ,intoxicaciones,plaguicidas,2020-12-01,6,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,10,0,10
+MAIRANA,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,1,0,0,0,8,0,8
+MOCOMOCO,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+ORURO,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PADCAYA,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PAMPA GRANDE,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+POTOSI,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PUERTO VILLARROEL,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,1,0,0,0,0,0,1,3,2,2,1,0,0,0,1,0,6,5,11
+PUNATA,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,3,3
+SACABA,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN LUCAS,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,0,3
+SANTA CRUZ DE LA SIERRA,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,2,2,4
+SHINAOTA,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+SUCRE,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2
+TARIJA,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+TIRAQUE (CBBA),intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+TOTORA(CBBA),intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+URIONDO (A. CONCEPCION),intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA CHARCAS,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+VILLA SERRANO,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,2
+VILLA TUNARI,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,2,2,4,2,0,0,0,1,0,0,6,5,11
+VILLA VACA GUZMAN (MUYUPAMPA),intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+VINTO,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+YACUIBA,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+YANACACHI,intoxicaciones,plaguicidas,2020-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1

@@ -1,0 +1,70 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+COCHABAMBA,sospecha diagnostica,leptospirosis,2019-01-01,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,3,0,3
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,2,1,3
+TARIJA,sospecha diagnostica,leptospirosis,2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+VILLA MONTES,sospecha diagnostica,leptospirosis,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+YACUIBA,sospecha diagnostica,leptospirosis,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+YAPACANI,sospecha diagnostica,leptospirosis,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+CARAPARI,sospecha diagnostica,leptospirosis,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+COCHABAMBA,sospecha diagnostica,leptospirosis,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SAN RAMON BENI,sospecha diagnostica,leptospirosis,2019-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TARIJA,sospecha diagnostica,leptospirosis,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,leptospirosis,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,sospecha diagnostica,leptospirosis,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+YACUIBA,sospecha diagnostica,leptospirosis,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,1,0,5,0,5
+TARIJA,sospecha diagnostica,leptospirosis,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,leptospirosis,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+YAPACANI,sospecha diagnostica,leptospirosis,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CARAPARI,sospecha diagnostica,leptospirosis,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,leptospirosis,2019-04-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+TARIJA,sospecha diagnostica,leptospirosis,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+TRINIDAD,sospecha diagnostica,leptospirosis,2019-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,3,0,3
+YAPACANI,sospecha diagnostica,leptospirosis,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CARAPARI,sospecha diagnostica,leptospirosis,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,leptospirosis,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,2,3
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,2
+TARIJA,sospecha diagnostica,leptospirosis,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,leptospirosis,2019-05-01,0,0,0,0,0,0,0,0,1,0,1,0,3,1,0,0,0,0,0,1,5,2,7
+YACUIBA,sospecha diagnostica,leptospirosis,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+BERMEJO,sospecha diagnostica,leptospirosis,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CARANAVI,sospecha diagnostica,leptospirosis,2019-06-01,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,3,4
+COCHABAMBA,sospecha diagnostica,leptospirosis,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+RURRENABAQUE,sospecha diagnostica,leptospirosis,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,1,3,2,5
+VILLA MONTES,sospecha diagnostica,leptospirosis,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+YAPACANI,sospecha diagnostica,leptospirosis,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+BERMEJO,sospecha diagnostica,leptospirosis,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+CHULUMANI (V. DE LA LIBERTAD),sospecha diagnostica,leptospirosis,2019-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,leptospirosis,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+PORTACHUELO,sospecha diagnostica,leptospirosis,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO,sospecha diagnostica,leptospirosis,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,1,0,1,0,5,2,7
+SUCRE,sospecha diagnostica,leptospirosis,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,leptospirosis,2019-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,2,2,4
+YAPACANI,sospecha diagnostica,leptospirosis,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+BERMEJO,sospecha diagnostica,leptospirosis,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CARAPARI,sospecha diagnostica,leptospirosis,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHULUMANI (V. DE LA LIBERTAD),sospecha diagnostica,leptospirosis,2019-08-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO,sospecha diagnostica,leptospirosis,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SAN PEDRO,sospecha diagnostica,leptospirosis,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2019-08-01,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,2,3,5
+SUCRE,sospecha diagnostica,leptospirosis,2019-08-01,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+VILLA MONTES,sospecha diagnostica,leptospirosis,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+YACUIBA,sospecha diagnostica,leptospirosis,2019-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2019-09-01,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,3,1,4
+TRINIDAD,sospecha diagnostica,leptospirosis,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA MONTES,sospecha diagnostica,leptospirosis,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+COCHABAMBA,sospecha diagnostica,leptospirosis,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2019-11-01,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,1,2,3
+YACUIBA,sospecha diagnostica,leptospirosis,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,leptospirosis,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+SAN PEDRO DE TIQUINA,sospecha diagnostica,leptospirosis,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,2,0,5,1,6
+TRINIDAD,sospecha diagnostica,leptospirosis,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+YACUIBA,sospecha diagnostica,leptospirosis,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1

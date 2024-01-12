@@ -1,0 +1,808 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 m a menor de 1 año,b. 6 m a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+ACHACACHI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+ARAMPAMPA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+ARBIETO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+BERMEJO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+BETANZOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+BOYUIBE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CAMIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,1,0,0,0,0,0,0,1,0,2,0,0,0,1,0,1,0,5,1,6
+CHAQUI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+CHARAGUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CHAYANTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,2,1,3
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,1,0,0,0,3,2,2,1,1,1,2,1,12,10,3,1,0,0,4,1,28,17,45
+COLCAPIRHUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,1,0,0,0,0,0,0,1,4,0,1,0,0,0,1,0,7,1,8
+COLOMI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,2,3,5
+COLPA BELGICA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,1,0,0,0,0,5,1,6
+CONCEPCION,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+CORIPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+EL ALTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,2,0,2,0,0,1,2,2,22,3,8,2,0,0,0,1,36,9,45
+EL PUENTE(STC),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL TORNO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,1,2,2,1,0,1,0,1,0,5,3,8
+ENTRE RIOS CBBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ESCOMA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+GUAYARAMERIN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+HUARINA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+HUMANATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,2,1,3
+LA ASUNTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+LA PAZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,1,0,2,2,0,3,7,63,26,3,7,0,2,4,3,75,48,123
+LAGUNILLAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+MAIRANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,2,0,0,0,1,0,0,1,0,0,0,0,0,0,3,1,4
+MIZQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MONTEAGUDO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,2
+OCURI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+ORURO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PADILLA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PORONGO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+PORTACHUELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+POTOSI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,6,0,0,0,0,0,0,0,0,0,0,5,4,2,1,1,0,0,0,0,11,8,19
+PUERTO SUAREZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,6,6
+PUERTO VILLARROEL,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+PUNATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,2,2,4
+QUILLACOLLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,2,0,0,0,7,1,0,0,0,0,1,0,10,1,11
+RAQAYPAMPA(ETA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+RIBERALTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+ROBORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+RURRENABAQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SACABA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,1,2,1,2,0,1,1,0,1,0,4,5,9
+SAMAIPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN BENITO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,2
+SAN IGNACIO DE VELASCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SAN LORENZO(TJA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN MATIAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN RAMON BENI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,1,0,5,2,2,1,2,0,26,16,59,32,21,6,10,2,3,3,129,62,191
+SANTA ROSA DEL SARA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+SENA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+SHINAOTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,2,0,0,1,0,0,1,5,25,15,5,0,2,0,0,0,35,21,56
+TACACHI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+TARIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,1,4,5,3,6,9,35,28,205,185,70,95,59,84,28,37,409,445,854
+TIPUANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TIQUIPAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+TOLEDO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,1,0,0,0,1,10,3,3,1,2,0,2,0,17,6,23
+VALLEGRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+VIACHA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+VILLA SERRANO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLAZON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VINTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,1,0,0,4,3,7
+WARNES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+YACUIBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,1,0,0,1,0,5,2,7
+YAPACANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+YOTALA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+BAURES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+BERMEJO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,1,0,1,0,4,2,6
+BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,0,0,0,0,3,1,4
+CAMIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,1,0,5,2,7
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COBIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+COCHABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,2,1,2,2,6,7,6,1,0,0,0,1,16,12,28
+COLCAPIRHUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,2
+COLOMI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,1,0,0,0,0,0,0,1,2,3,0,0,0,0,0,0,3,4,7
+COLPA BELGICA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COMARAPA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CONCEPCION,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,3,1,4
+DESAGUADERO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL ALTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,1,1,0,1,11,3,11,34,27,10,10,7,0,2,2,58,62,120
+EL TORNO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,1,0,0,0,0,5,1,6
+ENTRE RIOS CBBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+GUAYARAMERIN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,2,0,5,0,5
+HUANUNI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+INCAHUASI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+LA ASUNTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+LA PAZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,1,2,1,1,1,1,1,3,11,60,28,9,4,3,2,2,4,81,53,134
+LLALLAGUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,2
+MAIRANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,1,0,1,0,5,1,6
+ORURO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PADILLA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+PAMPA GRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+PORTACHUELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+POTOSI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,6,2,4,0,0,1,0,0,10,3,13
+PUERTO SUAREZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,3,3,6
+PUERTO VILLARROEL,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,1,3,3,1,1,0,0,0,0,4,5,9
+PUNATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,2,3
+QUILLACOLLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,2,2,7,8,1,0,0,1,0,0,10,11,21
+QUIRUSILLAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+RIBERALTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+RURRENABAQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+SACABA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,1,0,0,0,4,0,4
+SAMAIPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,1,4,2,0,0,0,0,1,0,5,3,8
+SAN BENITO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SAN CARLOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+SAN IGNACIO DE VELASCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAN JULIAN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN LORENZO(TJA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN MATIAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+SAN PEDRO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,1,3,2,0,1,1,0,9,6,48,20,16,4,9,4,2,1,88,39,127
+SANTA ROSA DEL SARA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,0,0,0,0,0,3,3,6
+SENA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SHINAOTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SIPE SIPE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+SORATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SUCRE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,1,0,0,0,0,0,2,1,29,10,8,3,1,1,0,1,41,16,57
+TARIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,3,12,10,13,10,7,47,32,235,225,107,104,67,105,48,52,527,550,1077
+TEOPONTE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+TIAWANACU,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TIQUIPAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+TRINIDAD,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,1,0,0,0,0,0,1,4,2,1,1,0,0,1,0,6,5,11
+VALLEGRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,1,0,2,4,1,0,1,1,0,0,5,5,10
+VILLA MONTES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA VACA GUZMAN (MUYUPAMPA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLAZON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+VINTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,0,1,0,0,0,4,2,6
+WARNES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+YACUIBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,1,0,0,0,0,1,0,0,5,4,3,0,1,0,0,0,10,5,15
+YAPACANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ACHACACHI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+ANDAMARCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BOLIVAR,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CABEZAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CAMIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,2,3
+CARAPARI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+CHIMORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+COBIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COCHABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,3,4,6,2,1,1,0,1,2,8,12,20
+COLCAPIRHUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,1,3,1,4
+COLOMI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,2,1,3
+COMARAPA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CONCEPCION,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2
+EL ALTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,1,1,0,0,0,12,10,8,6,16,2,3,1,1,0,0,20,41,61
+EL TORNO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,0,0,0,0,0,2,2,4
+ESCOMA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+EUCALIPTUS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GUAYARAMERIN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+HUACARETA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+HUAYLLAMARCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+LA GUARDIA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,1,0,1,0,0,0,2,4,4,2,0,0,0,0,2,1,10,7,17
+LA PAZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,2,0,0,4,2,0,0,0,1,5,64,20,4,5,3,2,3,1,79,37,116
+MAIRANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+MIZQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+NACEBE (SANTA ROSA DEL ABUNA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+ORURO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,1,0,0,1,1,1,0,1,0,0,2,1,1,0,0,0,0,1,5,5,10
+PAILON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PAMPA GRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PORTACHUELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,1,0,0,0,5,0,5
+POTOSI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,1,4,1,2,0,2,0,0,0,8,2,10
+PUERTO CARABUCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+PUERTO SUAREZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+PUNATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,1,3
+QUILLACOLLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,1,3,4,4,3,0,0,1,2,1,10,9,19
+QUIRUSILLAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+RIBERALTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+SACABA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,0,1,0,0,1,1,5,6
+SAMAIPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+SAN CARLOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SAN PEDRO DE TIQUINA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,1,0,1,0,6,1,1,3,0,1,10,6,22,13,17,2,5,0,0,2,63,28,91
+SANTA ROSA DEL SARA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SORATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+SUCRE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,1,9,3,5,0,3,0,1,4,18,8,26
+TACACOMA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TARABUCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,1,1,0,0,0,1,0,1,1,1,2,1,1,1,1,6,6,12
+TARIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,5,3,17,10,23,3,42,26,244,231,122,107,87,90,35,80,575,550,1125
+TOTORA(CBBA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+TRINIDAD,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,3,2,5
+VALLEGRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+VIACHA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+VILLA VACA GUZMAN (MUYUPAMPA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VINTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,3,1,4
+WARNES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+YACUIBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,3,1,4
+YAPACANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-03-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,3
+ACHOCALLA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+AYO AYO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+BERMEJO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CABEZAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CAMIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,1,0,0,0,1,1,2,1,0,0,0,1,0,0,4,3,7
+CHAYANTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+COBIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+COCHABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,1,1,4,5,2,1,0,0,1,0,8,7,15
+COLCAPIRHUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2,0,0,0,0,1,4,3,7
+COLOMI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+COLPA BELGICA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CONCEPCION,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+COROICO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+EL ALTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,1,0,0,0,1,4,3,7,11,12,2,8,6,5,1,0,25,36,61
+EL TORNO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,1,0,0,0,0,0,0,3,1,0,0,0,1,2,0,1,3,6,9
+GUAYARAMERIN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+HUANUNI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ICLA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+INCAHUASI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,2,1,3
+LA ASUNTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA GUARDIA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+LA PAZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,1,3,0,1,0,1,2,5,53,25,3,3,3,3,4,2,66,43,109
+LAJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+MAGDALENA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+MIZQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+MOCOMOCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+MONTERO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+NACEBE (SANTA ROSA DEL ABUNA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+ORURO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,1,1,0,0,0,1,2,2,0,10,3,2,1,3,1,0,1,19,9,28
+PAMPA GRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+PASORAPA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+POJO (CBBA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PORONGO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+PORTACHUELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+POTOSI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,1,0,0,0,0,0,0,0,2,2,0,0,1,0,0,0,4,2,6
+PUERTO SUAREZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,1,3
+PUERTO VILLARROEL,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,3,1,4
+PUNATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,2,2,3,5
+QUILLACOLLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,1,3,0,2,0,0,1,1,0,1,2,7,9
+ROBORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+RURRENABAQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SACABA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,1,4,5
+SAMAIPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAN BENITO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SAN IGNACIO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+SAN MATIAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,2,1,3
+SANTA CRUZ DE LA SIERRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,6,1,1,0,0,0,6,4,25,15,11,2,6,4,0,0,55,26,81
+SICA SICA (VILLA AROMA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SUCRE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,1,0,0,0,1,4,2,8,3,2,0,0,1,1,0,15,8,23
+TARIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,1,4,32,11,34,12,66,36,286,283,100,150,59,143,52,77,630,716,1346
+TOTORA(CBBA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+TRINIDAD,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,2,0,9,4,0,0,1,0,0,1,12,5,17
+VALLEGRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+VILLA CHARCAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+VINTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,1,3
+WARNES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,2
+YACUIBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,2,0,0,0,0,0,0,0,1,3,0,0,0,1,0,0,3,4,7
+YAMPARAEZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+YANACACHI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+YAPACANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,1,4,1,2,0,0,0,0,0,6,2,8
+ACHACACHI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+ALALAY,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+BOYUIBE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,4,0,4
+BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CAMARGO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+CAMIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,3
+CHALLAPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+CHAQUI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CHAYANTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+COBIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,2,1,3
+COCHABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,1,1,3,2,6,5,0,0,1,0,2,0,13,8,21
+COLCAPIRHUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,0,0,0,0,3,2,5
+COLOMI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+COLPA BELGICA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,1,1,3,3,6
+CORIPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+COROICO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+COTOCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL ALTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,1,0,0,1,1,0,1,0,0,1,5,7,18,18,7,2,1,1,1,1,35,31,66
+EL PUENTE(STC),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+EL PUENTE(TJA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+EL TORNO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,1,1,0,0,0,0,0,0,2,2,0,1,1,0,1,0,5,4,9
+ENTRE RIOS CBBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,1,0,1,3,4
+GUAYARAMERIN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,0,0,2,2,4
+LA PAZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,1,6,0,1,0,0,2,4,56,26,8,3,1,1,1,3,69,44,113
+LAS CARRERAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MAIRANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ORURO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,2,6,1,0,0,0,0,0,0,6,3,9
+PAILON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PAMPA GRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+POCOATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PORTACHUELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+POTOSI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,1,0,1,2,6,1,3,0,0,0,0,0,11,3,14
+PRESTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PUERTO SUAREZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+PUERTO VILLARROEL,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,1,0,1,0,4,4,8
+PUNATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0,1,0,0,0,7,0,7
+QUILLACOLLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,1,0,3,1,6,6,2,0,0,0,0,0,12,7,19
+RIBERALTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+SACABA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,1,0,2,0,0,0,0,0,1,6,2,2,2,0,0,0,1,8,9,17
+SAMAIPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN CARLOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,2,0,0,0,4,1,5
+SAN IGNACIO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,4,0,4
+SAN LORENZO(TJA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SAN MATIAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN MIGUEL DE VELASCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN PEDRO DE TIQUINA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SANTA CRUZ DE LA SIERRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,1,2,3,2,8,4,2,5,1,3,8,6,42,21,21,7,4,1,2,3,92,54,146
+SANTA ROSA DEL SARA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+SENA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SHINAOTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SICA SICA (VILLA AROMA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SORATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+SUCRE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,11,4,3,1,2,0,2,1,18,7,25
+TARIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,8,4,31,13,34,10,73,34,293,373,103,169,71,134,59,103,672,840,1512
+TIQUIPAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+TOTORA(CBBA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+TRINIDAD,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,1,0,0,0,0,0,1,0,2,1,0,0,2,0,0,0,6,1,7
+VALLEGRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+VILLAZON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+VINTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,1,0,0,0,0,1,0,1,2,1,0,0,1,0,0,1,4,4,8
+WARNES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+YACUIBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,1,0,0,0,0,0,0,0,0,2,2,0,1,1,0,0,0,0,0,1,4,4,8
+YAPACANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CAJUATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+CAMIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,2,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,3,3,6
+CHALLAPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CHARAGUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,0,4
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+COBIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,1,0,0,0,2,0,8,6,0,2,1,0,1,0,13,8,21
+COLCAPIRHUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,1,0,0,0,3,2,5
+COLOMI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+COLPA BELGICA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CONCEPCION,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,2,1,3
+CORIPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CORQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+EL ALTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,1,0,0,0,0,0,1,0,1,3,2,19,4,12,0,2,1,0,0,36,10,46
+EL TORNO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+ENTRE RIOS TRJ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ENTRE RIOS CBBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+GUANAY,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,2,1,3
+GUAYARAMERIN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3,0,3
+GUTIERREZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+HUANUNI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA PAZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,2,1,0,0,0,5,2,61,19,3,5,3,0,1,5,74,33,107
+MAIRANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,0,3,1,4
+MONTEAGUDO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+ORURO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,6,4,1,0,0,1,0,0,7,5,12
+PAMPA GRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+PORTACHUELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+POTOSI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PUERTO SUAREZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,2,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,2,6
+PUERTO VILLARROEL,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PUNATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,2
+QUIABAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+QUILLACOLLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,1,4,8,1,0,0,0,0,3,0,12,5,17
+RAVELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+RIBERALTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+ROBORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+RURRENABAQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+SACABA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,1,0,2,1,2,0,1,0,0,0,0,1,6,7
+SACABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAMAIPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+SAN CARLOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,2,3
+SANTA CRUZ DE LA SIERRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,2,0,0,2,3,2,0,0,0,6,5,26,13,7,2,6,3,1,3,50,31,81
+SANTIAGO DE HUATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SOPACHUY,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SORATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SUCRE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,1,0,0,0,0,0,0,1,5,5,1,1,1,0,0,0,8,7,15
+TACACOMA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+TARIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,11,4,20,11,24,8,58,19,277,287,109,154,65,102,44,84,608,669,1277
+TIPUANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,2,1,3
+URIONDO (A. CONCEPCION),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+UYUNI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,2
+VALLEGRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+VILLA TUNARI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+VILLAZON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+VINTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,1,0,0,0,0,1,4,5
+WARNES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,2,3
+YACUIBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,2,2,0,0,0,3,5,8
+YANACACHI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+YAPACANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ACHACACHI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,2,1,3
+CABEZAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CAMIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,1,0,2,2,0,1,0,0,1,0,4,3,7
+CARAPARI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+CHAYANTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+COBIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COCHABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,5,4,2,1,1,3,1,5,9,7,3,2,0,3,3,0,24,25,49
+COLCAPIRHUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,2,1,4,0,2,0,0,0,0,0,8,1,9
+COLPA BELGICA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COMARAPA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+COTOCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+EL ALTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,1,0,0,0,3,1,0,0,0,1,3,1,20,10,12,1,3,3,0,2,42,19,61
+EL TORNO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,1,0,1,3,0,0,1,0,0,0,3,3,6
+ENTRE RIOS CBBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+GUAYARAMERIN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,0,3
+HUANUNI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+HUAYLLAMARCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+INCAHUASI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+LA PAZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,3,1,2,0,1,1,3,4,56,29,4,2,3,1,4,2,76,40,116
+LLALLAGUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+MAGDALENA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+MAIRANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,0,0,5,0,5
+MAPIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+MIZQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+ORURO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,1,3
+PAMPA GRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+PASORAPA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+POCONA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,2,0,5,5
+PORTACHUELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+POTOSI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,0,0,0,0,0,3,2,5
+PUERTO SUAREZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PUERTO VILLARROEL,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+PUNA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PUNATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,1,1,0,0,0,2,4,6
+QUIABAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+QUILLACOLLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,2,0,0,0,0,2,3,5
+RAVELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+RIBERALTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+ROBORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+RURRENABAQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+SACABA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,1,0,0,0,0,0,0,0,0,0,1,2,6,3,1,0,1,1,1,0,11,6,17
+SACACA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAMAIPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,0,2
+SAN IGNACIO DE VELASCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,2
+SAN PEDRO DE QUEMES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,1,0,1,0,8,2,0,0,1,1,6,6,32,14,17,3,1,1,3,0,70,27,97
+SANTA ROSA DEL SARA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,1,3
+SHINAOTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SICA SICA (VILLA AROMA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SUCRE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,1,0,0,0,0,0,1,1,9,3,3,2,0,0,1,0,15,6,21
+TACOPAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TAPACARI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,1,3
+TARIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,7,1,32,4,30,14,40,27,288,307,80,118,53,90,49,74,579,635,1214
+TARVITA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+TOTORA(CBBA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+UYUNI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+VILLA MONTES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+VILLA TUNARI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA VACA GUZMAN (MUYUPAMPA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,3,0,3
+VILLAZON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+VINTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,4,2,6
+YACUIBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,2,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,4,1,5
+YAPACANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+ACACIO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ALTO BENI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+CAMIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,2,2,4
+CHIMORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,2,2,4
+COCHABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,9,7,88,65,65,39,27,13,2,0,8,8,3,2,2,0,1,0,205,134,339
+COLCAPIRHUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,1,0,0,0,0,0,1,0,6,2,3,1,0,0,0,0,11,3,14
+COLPA BELGICA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,0,4
+COLQUIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CONCEPCION,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+CORIPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+COROICO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COTAGAITA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COTOCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+EL ALTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,3,0,1,0,0,2,13,8,20,8,15,5,4,4,0,1,56,28,84
+EL PUENTE(TJA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+EL TORNO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,1,1,0,2,4,6
+ENTRE RIOS CBBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,3,1,4
+GUAYARAMERIN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0,3,2,5
+INCAHUASI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA PAZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,2,0,0,0,1,4,0,0,2,1,3,10,30,25,29,4,2,4,5,2,74,50,124
+MAGDALENA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+MAIRANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,1,0,0,1,2,0,1,0,2,0,0,0,6,1,7
+MAPIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+MIZQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+MONTEAGUDO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ORURO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PAILON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PAMPA AULLAGAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+PAMPA GRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+PORCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PORVENIR,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+POTOSI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,1,0,0,0,4,1,5
+PUERTO SUAREZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PUERTO VILLARROEL,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,3,3,6
+PUNATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,3,0,3
+QUILLACOLLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,1,0,0,3,0,1,0,0,0,0,0,1,1,5,6
+RIBERALTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,3,3
+ROBORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+RURRENABAQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,2,3
+SACABA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,1,0,1,0,0,0,3,5,7,3,1,1,1,2,0,11,14,25
+SAMAIPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2,3
+SAN IGNACIO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2
+SAN IGNACIO DE VELASCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN JAVIER(BNI),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN JOSE DE CHIQUITOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SAN MATIAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,2,2,4
+SANTA CRUZ DE LA SIERRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,1,2,0,0,3,3,3,0,0,1,3,5,51,30,19,9,1,2,1,1,82,53,135
+SANTA ROSA DEL SARA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,3,1,4
+SHINAOTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SOPACHUY,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SUCRE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,1,0,0,1,0,0,0,1,1,2,12,2,3,0,0,1,2,0,19,7,26
+TAPACARI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+TARIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,7,0,34,13,29,23,60,25,320,367,106,154,83,97,63,90,702,769,1471
+TRINIDAD,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+UYUNI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VINTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,2,0,1,0,5,2,7
+WARNES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,0,0,0,2,0,6,1,7
+YACUIBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+YAPACANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ACHACACHI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+ANDAMARCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,2
+ARANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+ARQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ASCENCION DE GUARAYOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,4,1,5
+BERMEJO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CALAMARCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CAMIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,1,0,1,0,4,3,7
+CHAYANTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+COBIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+COCHABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,3,0,0,1,0,1,2,3,3,10,5,6,0,0,0,0,3,21,16,37
+COLCAPIRHUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,1,1,5,0,0,0,1,0,0,1,7,2,9
+COLPA BELGICA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+CONCEPCION,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CUCHUMUELA (V. G. VILLARROEL),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+EL ALTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,2,0,0,0,0,0,6,2,5,11,5,1,1,0,1,0,20,14,34
+EL TORNO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,2,0,0,2,3,5
+GUAYARAMERIN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,1,0,0,0,5,0,5
+HUANUNI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+LA PAZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,2,0,1,1,0,0,0,8,57,15,7,3,4,0,2,3,73,30,103
+LAS CARRERAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+MAGDALENA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MAPIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+MIZQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+MONTERO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+OMEREQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+ORURO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+PALOS BLANCOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PAMPA GRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,7,2,1,0,0,0,0,0,8,2,10
+PAPEL PAMPA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+PAZÑA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+PORCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PORTACHUELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,4,0,4
+PORVENIR,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+POTOSI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,5,1,6
+PUERTO VILLARROEL,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,1,2,0,0,1,0,1,2,0,1,1,0,0,0,0,0,4,5,9
+PUNATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,0,2
+QUILLACOLLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,1,0,0,1,1,5,1,0,0,0,0,1,0,7,3,10
+RIBERALTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ROBORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2
+RURRENABAQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,2,3
+SACABA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,3,0,0,0,0,0,1,2,1,4,0,0,0,0,0,1,5,7,12
+SALINAS DE GARCI MENDOZA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+SAMAIPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,3
+SAN CARLOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+SAN IGNACIO DE VELASCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,1,2,2,1,1,1,0,0,0,0,4,4,8
+SAN JOSE DE CHIQUITOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SAN PEDRO DE BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,1,0,0,1,6,3,1,4,1,1,6,4,50,29,13,6,7,2,7,3,92,53,145
+SANTA ROSA DEL SARA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SUCRE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,1,0,0,0,2,9,3,0,0,0,0,1,0,10,6,16
+TACACHI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TARIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,7,0,32,5,29,15,56,26,294,287,116,133,65,95,39,75,638,636,1274
+TIPUANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+TORO TORO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+TOTORA(CBBA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,0,2
+TRINIDAD,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+UYUNI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+VIACHA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+VILLA TUNARI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+VILLA VACA GUZMAN (MUYUPAMPA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+VINTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,0,0,0,0,0,0,2,2,1,3,1,0,0,0,0,0,4,5,9
+YACUIBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-09-01,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,3,4
+ARBIETO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ASCENCION DE GUARAYOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+BERMEJO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,3
+BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CAMARGO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CAMIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,5,2,1,1,1,0,0,0,7,4,11
+CARAPARI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHAYANTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,2,1,3
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,1,0,1,0,0,1,2,0,1,1,0,0,0,2,5,7
+COBIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,1,0,3,2,5
+COCHABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,1,0,2,0,0,1,0,1,2,3,10,5,4,1,0,0,1,0,20,11,31
+COLCAPIRHUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,1,1,0,0,1,0,7,3,1,0,1,0,0,1,11,5,16
+COLOMI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+COLPA BELGICA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,1,3,4
+COMARAPA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CONCEPCION,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COROICO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+COTOCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CUCHUMUELA (V. G. VILLARROEL),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CULPINA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+EL ALTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,1,0,1,0,0,1,4,9,21,10,6,4,3,1,0,0,36,25,61
+EL TORNO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,2,1,3
+GUAYARAMERIN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,2,0,5,0,5
+HUAYLLAMARCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+LA PAZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,1,0,0,0,2,1,0,0,1,2,3,5,70,22,4,3,4,1,1,2,86,36,122
+LAS CARRERAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LLALLAGUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+MAIRANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,1,3,4
+MAPIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MECAPACA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MIZQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,1,0,0,0,6,0,6
+MOJOCOYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+MONTEAGUDO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+ORURO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,2,2,4
+PADCAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PAILON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+PAMPA AULLAGAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PASORAPA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+POCOATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+POJO (CBBA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+PORONGO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PORTACHUELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,2,0,0,0,4,1,5
+PORVENIR,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+POTOSI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,5,0,5
+PUERTO SUAREZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,2,1,3
+PUERTO VILLARROEL,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+PUNATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,1,0,0,0,0,0,1,1,0,2,0,0,0,0,0,0,2,3,5
+QUILLACOLLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,1,0,0,0,0,0,0,2,4,0,0,0,0,0,0,2,5,7
+RAVELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,2
+RIBERALTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+ROBORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,0,2
+RURRENABAQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,1,2,3
+SACABA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,2,2,0,0,0,0,2,3,5,3,0,0,0,0,1,1,10,9,19
+SAMAIPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN CARLOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,4,5
+SAN IGNACIO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+SAN IGNACIO DE VELASCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,1,0,0,0,2,0,0,2,0,0,0,0,0,1,0,3,3,6
+SAN LORENZO(TJA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN LUCAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,3,1,4
+SAN MATIAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+SAN PEDRO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN PEDRO DE TIQUINA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SAN RAMON BENI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,2,1,3
+SANTA ANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,2,1,1,0,5,4,2,1,2,3,4,10,44,17,14,8,2,2,2,2,78,48,126
+SANTA ROSA DEL SARA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,4,4
+SHINAOTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SICA SICA (VILLA AROMA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,2
+SIPE SIPE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SORATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,1,0,0,2,0,2,0,0,0,0,0,0,1,4,5
+SUCRE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,1,1,1,2,0,0,3,1,14,8,3,1,0,0,0,0,22,13,35
+TACOPAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+TARIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,1,0,0,0,6,0,28,5,26,22,38,32,292,318,118,150,68,100,57,113,634,740,1374
+TARVITA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2
+TIQUIPAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+TORO TORO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TOTORA(CBBA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,2,3
+TRINIDAD,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+UMALA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+UYUNI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+VACAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+VALLEGRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VIACHA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,0,3,1,4
+VILLA MONTES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA TUNARI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,1,0,0,0,0,1,3,0,0,0,0,0,0,0,0,1,4,5
+VILLAZON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VINTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,4,1,5
+WARNES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+YACUIBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,0,1,0,0,0,4,2,6
+YAMPARAEZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+YANACACHI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+YAPACANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,0,2,2,4
+YOTALA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+ARAMPAMPA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+CAMARGO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CAMIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,3,0,3
+CARIPUYO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+CHALLAPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CHARAGUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,4,0,4
+COBIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,3,3
+COCHABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,5,6,6,2,2,2,0,2,1,0,14,12,26
+COLCAPIRHUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,1,3,3,9,1,1,0,0,0,3,2,16,7,23
+COLOMI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COLPA BELGICA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,1,0,4,1,5
+COLQUIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CONCEPCION,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CORIPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+EL ALTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,1,2,0,0,1,0,1,6,9,6,6,1,2,0,0,0,20,15,35
+EL TORNO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+ENTRE RIOS CBBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+FERNANDEZ ALONSO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GUAYARAMERIN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+HUAYLLAMARCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+INCAHUASI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+LA GUARDIA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA PAZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,2,1,1,0,2,0,3,4,76,14,6,10,2,1,3,1,95,31,126
+LAGUNILLAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,1,3
+MAIRANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+MINEROS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+MIZQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+MONTERO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+OMEREQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+ORURO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,1,1,11,5,0,0,0,0,0,0,12,6,18
+PAILON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+PALOS BLANCOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PAMPA GRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,2,3
+PORCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PORONGO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+PORTACHUELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,2
+POTOSI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,3,0,0,0,0,0,6,1,7
+PUERTO VILLARROEL,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,3,3
+PUNATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,3,1,4
+QUILLACOLLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,2,2,4
+QUIME,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,2,1,3
+ROBORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+SABAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SACABA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,2,7,3,0,0,0,0,0,1,7,6,13
+SAN IGNACIO DE VELASCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN JOSE DE CHIQUITOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,1,0,0,0,0,6,1,7
+SAN MATIAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN PEDRO DE CURAHUARA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,1,3,6,0,1,0,0,9,7,40,21,11,8,2,3,3,1,68,48,116
+SANTA ROSA DEL SARA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+SENA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+SHINAOTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+SUCRE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,1,0,0,0,1,0,1,15,8,1,1,0,2,1,0,17,14,31
+TARIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,6,1,17,7,31,14,46,49,264,335,99,149,70,98,41,102,574,755,1329
+TEOPONTE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TIQUIPAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+TRINIDAD,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,3,1,4
+URIONDO (A. CONCEPCION),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+UYUNI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+VALLEGRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,0,3
+VIACHA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLAZON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+VINTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,1,0,3,2,5
+WARNES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+YACUIBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,3,3
+YAPACANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+YOTALA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,2
+ACHACACHI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,2,3
+APOLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+ARBIETO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+BERMEJO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,3,0,0,2,0,0,0,4,3,7
+CALACOTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+CAMIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,1,0,4,3,0,0,1,0,0,0,6,3,9
+CHALLAPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CHAYANTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+COBIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,3,2,5
+COCHABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,2,0,0,0,0,1,2,3,5,7,3,1,1,0,0,0,13,12,25
+COLCAPIRHUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,1,1,0,0,0,0,1,0,2,5,0,0,0,0,0,0,4,6,10
+COLPA BELGICA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,1,0,0,0,4,1,5
+CONCEPCION,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+COPACABANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+CORO CORO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+COROICO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COTAGAITA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,2
+COTOCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL ALTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,2,1,0,1,5,5,1,9,17,18,3,2,5,2,1,0,34,38,72
+EL TORNO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1,0,0,1,0,0,3,2,5
+ENTRE RIOS CBBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+GUAYARAMERIN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+INCAHUASI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA ASUNTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2
+LA GUARDIA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+LA PAZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,1,2,0,0,2,0,4,4,48,13,9,2,1,1,4,4,69,26,95
+MAIRANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2,0,1,1,0,0,6,1,7
+MIZQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2
+MONTEAGUDO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+OCURI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2,1,3
+ORURO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,0,3
+PADCAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PALOS BLANCOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+PAMPA AULLAGAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+PORTACHUELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,3,1,4
+PUERTO CARABUCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PUERTO SUAREZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,1,0,4,0,8,1,9
+PUERTO VILLARROEL,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,1,1,2,2,0,0,1,0,1,0,5,3,8
+PUNATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,3
+QUILLACOLLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,1,0,0,1,7,0,0,0,1,0,0,0,9,1,10
+RAVELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+RIBERALTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ROBORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,3,0,3
+SACABA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,1,0,1,0,0,2,2,4,2,0,1,0,0,1,7,7,14
+SACACA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAMAIPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN CARLOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,1,0,1,2,0,0,0,1,2,0,0,0,0,0,0,0,4,3,7
+SAN JAVIER(BNI),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN JOSE DE CHIQUITOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,1,1,4,1,2,0,0,0,1,0,8,2,10
+SAN LUCAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,1,1,0,0,1,4,0,1,0,0,19,9,50,20,15,6,1,4,2,1,89,46,135
+SANTA ROSA DEL SARA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,2,2,4
+SHINAOTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SUCRE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,12,3,1,1,0,0,0,0,13,4,17
+TARIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,4,0,15,4,12,10,39,18,189,234,67,93,48,96,49,69,423,524,947
+TOTORA(CBBA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2
+TUPIZA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+UMALA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,3
+VALLEGRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+VIACHA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,3
+VILLAZON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,2,3
+VINTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,1,0,0,0,0,0,1,2,2,1,0,0,0,0,0,0,4,3,7
+WARNES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,1,1,2,2,0,0,1,0,1,0,5,3,8
+YACUIBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,2,3
+YAPACANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1

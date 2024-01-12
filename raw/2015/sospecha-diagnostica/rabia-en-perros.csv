@@ -1,0 +1,148 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,TOTAL-M,TOTAL-F,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+CABEZAS,sospecha diagnostica,rabia en perros,2015-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,rabia en perros,2015-01-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+COMARAPA,sospecha diagnostica,rabia en perros,2015-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL TORNO,sospecha diagnostica,rabia en perros,2015-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LLALLAGUA,sospecha diagnostica,rabia en perros,2015-01-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+OMEREQUE,sospecha diagnostica,rabia en perros,2015-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ORURO,sospecha diagnostica,rabia en perros,2015-01-01,0,0,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5
+POTOSI,sospecha diagnostica,rabia en perros,2015-01-01,1,0,0,0,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,9
+PUNA,sospecha diagnostica,rabia en perros,2015-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+QUILLACOLLO,sospecha diagnostica,rabia en perros,2015-01-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+SACABA,sospecha diagnostica,rabia en perros,2015-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN CARLOS,sospecha diagnostica,rabia en perros,2015-01-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SUCRE,sospecha diagnostica,rabia en perros,2015-01-01,0,0,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5
+AIQUILE,sospecha diagnostica,rabia en perros,2015-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CLIZA,sospecha diagnostica,rabia en perros,2015-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,rabia en perros,2015-02-01,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+ORURO,sospecha diagnostica,rabia en perros,2015-02-01,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+POTOSI,sospecha diagnostica,rabia en perros,2015-02-01,0,0,0,0,2,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,6
+PUNA,sospecha diagnostica,rabia en perros,2015-02-01,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+ROBORE,sospecha diagnostica,rabia en perros,2015-02-01,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+SAN CARLOS,sospecha diagnostica,rabia en perros,2015-02-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,rabia en perros,2015-02-01,0,0,0,0,6,7,1,2,0,0,0,0,0,0,0,0,0,0,0,0,7,9,16
+AIQUILE,sospecha diagnostica,rabia en perros,2015-03-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+CHALLAPATA,sospecha diagnostica,rabia en perros,2015-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,rabia en perros,2015-03-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+HUACARETA,sospecha diagnostica,rabia en perros,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA PAZ,sospecha diagnostica,rabia en perros,2015-03-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ORURO,sospecha diagnostica,rabia en perros,2015-03-01,3,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,6
+POCOATA,sospecha diagnostica,rabia en perros,2015-03-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+POTOSI,sospecha diagnostica,rabia en perros,2015-03-01,1,0,1,0,12,3,7,2,0,0,0,0,0,0,0,0,0,0,0,0,21,5,26
+PUNA,sospecha diagnostica,rabia en perros,2015-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN CARLOS,sospecha diagnostica,rabia en perros,2015-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,rabia en perros,2015-03-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+VILLA MONTES,sospecha diagnostica,rabia en perros,2015-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VILLAZON,sospecha diagnostica,rabia en perros,2015-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+AIQUILE,sospecha diagnostica,rabia en perros,2015-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,rabia en perros,2015-04-01,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+LA PAZ,sospecha diagnostica,rabia en perros,2015-04-01,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+LLALLAGUA,sospecha diagnostica,rabia en perros,2015-04-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ORURO,sospecha diagnostica,rabia en perros,2015-04-01,1,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,5
+POTOSI,sospecha diagnostica,rabia en perros,2015-04-01,0,0,1,0,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,8
+QUILLACOLLO,sospecha diagnostica,rabia en perros,2015-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,rabia en perros,2015-04-01,0,1,0,0,12,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,13,4,17
+TACOBAMBA,sospecha diagnostica,rabia en perros,2015-04-01,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+VILLAZON,sospecha diagnostica,rabia en perros,2015-04-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+AIQUILE,sospecha diagnostica,rabia en perros,2015-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,rabia en perros,2015-05-01,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+LA PAZ,sospecha diagnostica,rabia en perros,2015-05-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ORURO,sospecha diagnostica,rabia en perros,2015-05-01,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,6
+POTOSI,sospecha diagnostica,rabia en perros,2015-05-01,0,0,0,1,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,8
+QUILLACOLLO,sospecha diagnostica,rabia en perros,2015-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ROBORE,sospecha diagnostica,rabia en perros,2015-05-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SIPE SIPE,sospecha diagnostica,rabia en perros,2015-05-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,rabia en perros,2015-05-01,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+VILLAZON,sospecha diagnostica,rabia en perros,2015-05-01,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+VITICHI,sospecha diagnostica,rabia en perros,2015-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+WARNES,sospecha diagnostica,rabia en perros,2015-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+AIQUILE,sospecha diagnostica,rabia en perros,2015-06-01,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+COCHABAMBA,sospecha diagnostica,rabia en perros,2015-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+COMARAPA,sospecha diagnostica,rabia en perros,2015-06-01,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+COTOCA,sospecha diagnostica,rabia en perros,2015-06-01,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,4,0,4
+EL TORNO,sospecha diagnostica,rabia en perros,2015-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA PAZ,sospecha diagnostica,rabia en perros,2015-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ORURO,sospecha diagnostica,rabia en perros,2015-06-01,5,0,1,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,16
+POTOSI,sospecha diagnostica,rabia en perros,2015-06-01,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+QUILLACOLLO,sospecha diagnostica,rabia en perros,2015-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SORACACHI,sospecha diagnostica,rabia en perros,2015-06-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,rabia en perros,2015-06-01,1,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,6
+TIQUIPAYA,sospecha diagnostica,rabia en perros,2015-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TORO TORO,sospecha diagnostica,rabia en perros,2015-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+YACUIBA,sospecha diagnostica,rabia en perros,2015-06-01,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+AIQUILE,sospecha diagnostica,rabia en perros,2015-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,rabia en perros,2015-07-01,2,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,5
+COLCAPIRHUA,sospecha diagnostica,rabia en perros,2015-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COMARAPA,sospecha diagnostica,rabia en perros,2015-07-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LLALLAGUA,sospecha diagnostica,rabia en perros,2015-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ORURO,sospecha diagnostica,rabia en perros,2015-07-01,1,0,1,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,23
+POTOSI,sospecha diagnostica,rabia en perros,2015-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+QUILLACOLLO,sospecha diagnostica,rabia en perros,2015-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,rabia en perros,2015-07-01,0,0,0,0,2,1,5,1,0,0,0,0,0,0,0,0,0,0,0,0,7,2,9
+TRINIDAD,sospecha diagnostica,rabia en perros,2015-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+YACUIBA,sospecha diagnostica,rabia en perros,2015-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CARANAVI,sospecha diagnostica,rabia en perros,2015-08-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,rabia en perros,2015-08-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL ALTO,sospecha diagnostica,rabia en perros,2015-08-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ORURO,sospecha diagnostica,rabia en perros,2015-08-01,6,0,2,0,12,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,21,1,22
+POTOSI,sospecha diagnostica,rabia en perros,2015-08-01,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4
+SACABA,sospecha diagnostica,rabia en perros,2015-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,rabia en perros,2015-08-01,1,0,0,0,9,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,11,5,16
+TARIJA,sospecha diagnostica,rabia en perros,2015-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+VILLAZON,sospecha diagnostica,rabia en perros,2015-08-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+WARNES,sospecha diagnostica,rabia en perros,2015-08-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+YACUIBA,sospecha diagnostica,rabia en perros,2015-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ATOCHA,sospecha diagnostica,rabia en perros,2015-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CHALLAPATA,sospecha diagnostica,rabia en perros,2015-09-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,rabia en perros,2015-09-01,2,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,8
+EL CHORO,sospecha diagnostica,rabia en perros,2015-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MACHACAMARCA,sospecha diagnostica,rabia en perros,2015-09-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+ORURO,sospecha diagnostica,rabia en perros,2015-09-01,0,0,3,0,8,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,13
+POTOSI,sospecha diagnostica,rabia en perros,2015-09-01,1,0,0,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,8
+QUILLACOLLO,sospecha diagnostica,rabia en perros,2015-09-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+ROBORE,sospecha diagnostica,rabia en perros,2015-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SIPE SIPE,sospecha diagnostica,rabia en perros,2015-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SORACACHI,sospecha diagnostica,rabia en perros,2015-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,rabia en perros,2015-09-01,1,0,0,0,6,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,9,3,12
+UYUNI,sospecha diagnostica,rabia en perros,2015-09-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+VILLAZON,sospecha diagnostica,rabia en perros,2015-09-01,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+WARNES,sospecha diagnostica,rabia en perros,2015-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ARBIETO,sospecha diagnostica,rabia en perros,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+CHALLAPATA,sospecha diagnostica,rabia en perros,2015-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+COCHABAMBA,sospecha diagnostica,rabia en perros,2015-10-01,2,3,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,3,11
+COLCAPIRHUA,sospecha diagnostica,rabia en perros,2015-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,sospecha diagnostica,rabia en perros,2015-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LA PAZ,sospecha diagnostica,rabia en perros,2015-10-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ORURO,sospecha diagnostica,rabia en perros,2015-10-01,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,6
+POCOATA,sospecha diagnostica,rabia en perros,2015-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+POTOSI,sospecha diagnostica,rabia en perros,2015-10-01,1,1,2,1,3,6,4,1,0,0,0,0,0,0,0,0,0,0,0,0,10,9,19
+QUILLACOLLO,sospecha diagnostica,rabia en perros,2015-10-01,2,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,6
+SACABA,sospecha diagnostica,rabia en perros,2015-10-01,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+SUCRE,sospecha diagnostica,rabia en perros,2015-10-01,1,0,0,0,6,7,0,2,0,0,0,0,0,0,0,0,0,0,0,0,7,9,16
+TRINIDAD,sospecha diagnostica,rabia en perros,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+UYUNI,sospecha diagnostica,rabia en perros,2015-10-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CHALLAPATA,sospecha diagnostica,rabia en perros,2015-11-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,rabia en perros,2015-11-01,2,1,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,8
+LA GUARDIA,sospecha diagnostica,rabia en perros,2015-11-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MACHACAMARCA,sospecha diagnostica,rabia en perros,2015-11-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ORURO,sospecha diagnostica,rabia en perros,2015-11-01,0,0,1,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5
+POTOSI,sospecha diagnostica,rabia en perros,2015-11-01,0,1,0,0,5,2,1,4,0,0,0,0,0,0,0,0,0,0,0,0,6,7,13
+QUILLACOLLO,sospecha diagnostica,rabia en perros,2015-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,rabia en perros,2015-11-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TOMAVE,sospecha diagnostica,rabia en perros,2015-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,sospecha diagnostica,rabia en perros,2015-11-01,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+VINTO,sospecha diagnostica,rabia en perros,2015-11-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+COCHABAMBA,sospecha diagnostica,rabia en perros,2015-12-01,1,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,5
+EL ALTO,sospecha diagnostica,rabia en perros,2015-12-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,sospecha diagnostica,rabia en perros,2015-12-01,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+LA PAZ,sospecha diagnostica,rabia en perros,2015-12-01,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+ORURO,sospecha diagnostica,rabia en perros,2015-12-01,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+POCOATA,sospecha diagnostica,rabia en perros,2015-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+POTOSI,sospecha diagnostica,rabia en perros,2015-12-01,1,0,0,0,12,9,3,0,0,0,0,0,0,0,0,0,0,0,0,0,16,9,25
+PUERTO RICO,sospecha diagnostica,rabia en perros,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+PUNATA,sospecha diagnostica,rabia en perros,2015-12-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+QUILLACOLLO,sospecha diagnostica,rabia en perros,2015-12-01,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+ROBORE,sospecha diagnostica,rabia en perros,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+SUCRE,sospecha diagnostica,rabia en perros,2015-12-01,0,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,4

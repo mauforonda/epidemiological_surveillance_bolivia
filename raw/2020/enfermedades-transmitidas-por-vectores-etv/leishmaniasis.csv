@@ -1,0 +1,539 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+ALTO BENI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+AYOPAYA (V. DE INDEPENDENCIA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BELLA FLOR,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2
+BERMEJO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CAJUATA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,2,2,4
+CAPINOTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CARANAVI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2,3
+CHIMORE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,0,4,0,4
+CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,4,1,5
+COBIJA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,2,1,2,1,0,0,5,1,1,0,0,0,1,0,11,3,14
+COCHABAMBA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,0,1,0,1,3,3,0,1,1,2,0,8,4,12
+CONCEPCION,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+COROICO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+EL TORNO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,1,2,0,3,1,4,1,5,0,3,0,17,3,20
+ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,4,0,4
+FILADELFIA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+GUANAY,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,3,2,5,3,8
+IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,3,0,3
+IXIAMAS,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+LA ASUNTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,2,1,0,1,1,0,2,1,0,0,0,0,1,3,6,9
+LA PAZ,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,1,1,0,1,0,0,0,0,2,3,0,1,1,0,4,1,8,7,15
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ORURO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,1,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,3,1,4
+PORCO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,1,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3,6
+POTOSI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PUERTO RICO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,2,0,0,0,0,0,0,3,0,1,0,0,0,0,0,4,2,6
+QUILLACOLLO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,12,0,1,0,0,0,0,0,13,0,13
+REYES,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,2
+RIBERALTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,2,1,7,1,1,0,0,0,1,0,0,1,11,3,14
+SACABA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN BORJA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+SAN BUENA VENTURA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SHINAOTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+TEOPONTE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TIQUIPAYA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,1,0,2,0,3,2,0,3,3,2,0,3,2,3,0,13,11,24
+YACUIBA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+ALCALA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ALTO BENI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+APOLO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+AYATA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+BELLA FLOR,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,2
+BERMEJO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CAJUATA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+CAPINOTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CARANAVI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+COBIJA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,2,1,2,0,2,2,1,0,1,0,1,0,9,3,12
+COCHABAMBA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,1,0,4,1,5
+CORIPATA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,2
+EL ALTO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+EL TORNO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,3,0,0,0,9,0,9
+ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+FILADELFIA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,1,0,0,0,3,2,0,1,0,1,1,1,0,5,5,10
+IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,1,0,2,0,1,0,0,0,0,0,0,0,1,2,2,1,7,3,10
+IXIAMAS,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+LA ASUNTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+LA GUARDIA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+LA PAZ,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,1,0,1,0,1,2,1,5,2,2,7,0,2,4,2,1,2,1,1,0,20,15,35
+MAGDALENA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+MAPIRI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+MIZQUE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+ORURO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,1,0,0,1,0,0,0,3,0,0,0,1,0,0,0,5,1,6
+PATACAMAYA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,1,0,3,1,4
+REYES,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+RIBERALTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,0,3
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,1,0,0,0,10,0,4,0,1,0,0,0,1,0,17,0,17
+SAN BUENA VENTURA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,4,0,4
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SHINAOTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,1,0,0,0,5,0,5
+TARIJA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TIPUANI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-02-01,0,0,0,0,0,1,1,0,0,0,1,0,4,2,2,0,1,0,0,0,9,3,12
+AIQUILE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ALTO BENI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BELLA FLOR,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,1,0,2,0,2,0,0,0,0,0,0,0,5,0,5
+BERMEJO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+"CAIZA ""D""",enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+CAJUATA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,2,1,3
+CARANAVI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0,2,4,4,8
+CARAPARI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+COBIJA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,1,0,3,1,6,2,6,3,4,0,3,1,1,0,24,7,31
+COCHABAMBA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,3,0,3
+COLOMI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CORIPATA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+EL TORNO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,0,1,0,3,0,2,0,0,0,2,0,8,0,8
+FILADELFIA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,1,0,1,0,2,0,2,0,0,0,0,0,0,0,6,0,6
+GUANAY,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,1,2,2,5,0,0,0,0,0,1,0,8,3,11
+IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+IXIAMAS,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2
+LA ASUNTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+LA GUARDIA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA PAZ,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,1,0,0,0,5,0,11,2,2,1,1,0,2,0,22,3,25
+ORURO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,1,3
+PUERTO RICO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,3,3
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+REYES,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+RIBERALTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,0,2,0,3,2,0,0,0,0,0,0,5,2,7
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,1,0,9,0,0,0,0,0,1,0,0,0,11,0,11
+SAN BORJA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN BUENA VENTURA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+SAN IGNACIO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SHINAOTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,2
+SIPE SIPE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TARATA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+TIQUIPAYA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,1,0,0,4,0,8,3,11
+YACUIBA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ALTO BENI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+APOLO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+BELLA FLOR,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,1,0,2,0,1,0,6,1,1,0,0,1,0,0,11,2,13
+BERMEJO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BOLPEBRA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CAJUATA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+CARANAVI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CARAPARI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+CHIMORE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+COBIJA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,2,1,7,2,13,1,5,1,0,1,0,1,27,7,34
+COCHABAMBA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CORIPATA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COROICO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+CULPINA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,3,0,3
+GUANAY,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,1,0,0,0,5,0,0,0,0,0,0,0,6,0,6
+HUANUNI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,0,0,1,0,5,0,5
+IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+IXIAMAS,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,2
+LA ASUNTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,2,0,0,1,0,0,0,0,3,1,0,0,0,0,0,0,5,2,7
+LA PAZ,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,3,0,0,0,0,0,0,2,0,4,0,2,0,0,0,8,3,11
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,2,3
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,2,0,0,0,0,1,0,1,0,0,1,0,0,0,0,2,3,5
+PORVENIR,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+PUERTO RICO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,4,0,2,0,0,1,1,0,0,0,0,0,7,1,8
+QUILLACOLLO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,16,2,0,0,0,0,0,0,16,2,18
+REYES,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+RIBERALTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,7,3,1,0,0,0,0,0,8,3,11
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,1,0,1,0,0,2,1,2,0,1,0,1,0,0,0,6,3,9
+SAN BUENA VENTURA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SAN IGNACIO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,2,0,4,2,12,3,3,2,1,2,4,0,26,9,35
+SAN JULIAN,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TACACOMA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TEOPONTE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-04-01,0,0,0,0,0,0,1,2,0,1,3,0,8,1,2,2,0,0,2,0,16,6,22
+ALTO BENI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+APOLO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+AYOPAYA (V. DE INDEPENDENCIA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BELLA FLOR,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,5,0,1,1,1,2,0,0,1,0,0,0,8,3,11
+CAJUATA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,2,3,5
+CARANAVI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+CARAPARI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+CHIMORE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,0,2
+CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,2,0,0,0,3,2,5
+COBIJA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,2,0,2,0,5,3,3,1,0,1,0,0,12,5,17
+COLQUENCHA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CORIPATA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+COROICO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+FILADELFIA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,1,0,2,0,2,0,1,1,0,0,0,0,1,0,7,1,8
+GUANAY,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,1,0,2,0,2,1,0,0,0,0,0,0,5,1,6
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+IXIAMAS,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,3,1,4
+LA ASUNTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,1,0,0,1,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,3,4,7
+LA PAZ,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,3,0,0,0,9,0,9
+LLALLAGUA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MAPIRI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,1,1,0,2,1,0,0,0,1,0,0,3,3,6
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,2,1,3
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,1,2,0,1,4,0,2,2,1,0,0,1,0,0,8,6,14
+PORVENIR,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,2,3
+POTOSI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,3,1,4
+PUERTO RICO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0,0,3,1,4
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+QUILLACOLLO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+REYES,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+RIBERALTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,1,1,1,3,0,5,0,0,0,1,0,0,0,10,2,12
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,0,6,0,0,1,1,0,0,0,3,0,10,1,11
+SAN BUENA VENTURA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+SAN IGNACIO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+TEOPONTE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,1,2,0,1,1,0,0,0,0,0,0,0,0,0,2,3,5
+TIRAQUE (CBBA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TUPIZA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,2
+UNCIA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,2,3,5
+YAPACANI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+ALTO BENI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2
+APOLO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BELLA FLOR,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,2,2,4
+BOLPEBRA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,1,0,0,0,2,0,1,0,0,0,0,0,0,0,4,0,4
+CAJUATA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CARANAVI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,0,0,1,0,0,3,2,1,1,0,0,0,0,0,4,4,8
+CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,3,0,3
+COBIJA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,0,0,1,0,4,2,2,2,3,0,0,0,0,0,10,4,14
+COCHABAMBA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CONCEPCION,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+EL TORNO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+GUANAY,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2
+IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,3,2,5
+IXIAMAS,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+LA ASUNTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,2,0,0,0,1,3,0,1,1,0,1,1,0,0,0,0,0,0,5,5,10
+LA PAZ,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,1,0,1,0,1,0,1,0,3,0,0,0,0,0,0,0,7,0,7
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ORURO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,2,0,1,0,2,0,0,0,2,0,0,0,1,1,0,0,8,1,9
+PUERTO RICO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,0,0,4,0,2,0,2,0,0,0,0,0,0,0,8,0,8
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+QUILLACOLLO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+RIBERALTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,0,0,2,0,2,0,9,1,2,0,0,0,1,0,16,1,17
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,1,1,0,0,2,0,2,1,0,0,0,0,0,0,5,2,7
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TARVITA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TIQUIPAYA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,0,0,3,0,1,0,6,0,0,0,1,0,0,0,11,0,11
+YAPACANI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+ALTO BENI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+APOLO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,0,3
+AYOPAYA (V. DE INDEPENDENCIA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+BELLA FLOR,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+CAIROMA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,2,3
+CAJUATA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+CARANAVI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,1,0,2,1,0,1,0,2,0,1,0,0,0,0,0,5,3,8
+CARAPARI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CHIMORE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CLIZA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COBIJA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,0,1,1,7,2,8,3,1,0,1,0,0,0,18,6,24
+CORIPATA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,2,2,4
+COROICO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+EL TORNO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,0,0,0,2,0,3,0,1,0,0,0,0,0,6,0,6
+ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,4,0,4
+FILADELFIA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+GUANAY,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,1,0,0,0,3,0,3,1,0,0,0,0,0,0,7,1,8
+INQUISIVI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,1,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0,5,5
+IXIAMAS,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA ASUNTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,1,0,0,0,0,2,2,0,1,0,0,0,0,2,4,6
+LA PAZ,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,3
+MAGDALENA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,3
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,2,0,0,0,2,0,0,0,2,0,0,0,0,0,6,0,6
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,2,1,3
+ORURO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,1,0,0,0,0,1,1,0,2,1,1,0,0,0,1,0,6,2,8
+PORVENIR,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+REYES,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+RIBERALTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,0,1,1,1,0,2,0,0,0,0,0,0,0,4,1,5
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,3,2,5
+SAN BORJA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,2,2,4
+SAN BUENA VENTURA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,4,0,4
+SAN IGNACIO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,1,1,2,1,2,3,0,2,2,3,0,0,1,0,0,0,8,10,18
+SHINAOTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TEOPONTE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,1,0,0,0,0,0,1,2,0,1,0,0,0,0,2,3,5
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,1,0,0,0,0,0,0,0,8,0,1,0,1,0,0,0,11,0,11
+VINTO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+ALCALA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+ALTO BENI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+APOLO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+AYATA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BERMEJO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+BOLPEBRA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,1,0,0,1,2,1,0,0,0,0,0,0,3,2,5
+CAIROMA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+CAJUATA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,1,0,1,0,2,2,0,1,2,0,0,1,0,0,0,4,6,10
+CAPINOTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CARANAVI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,2,3,5
+CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COBIJA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,5,0,2,1,4,0,13,3,3,0,0,0,0,0,27,4,31
+COCHABAMBA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,1,0,0,0,0,1,0,1,4,0,0,0,0,0,0,0,5,2,7
+EL TORNO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,6,0,3,1,1,0,0,0,10,1,11
+ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,2,3
+GUANAY,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,2,0,0,0,2,0,2,5,1,0,0,0,0,0,7,5,12
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,4,0,4
+IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+IXIAMAS,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,2,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,3,2,5
+LA ASUNTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,1,0,0,2,2,4,0,0,1,0,1,0,5,6,11
+LA PAZ,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,1,3
+MAPIRI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+ORURO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,2,1,3
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+QUILLACOLLO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+REYES,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+RIBERALTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,1,1,0,3,1,2,1,5,3,1,1,0,0,0,0,12,7,19
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,0,3,0,5,0,2,0,1,0,0,0,11,0,11
+SAN BUENA VENTURA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1,0,0,0,0,0,5,0,5
+SAN IGNACIO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,0,3
+SHINAOTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,3,0,3
+TAPACARI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+VALLEGRANDE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+VILLA MONTES,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,1,2,0,5,1,0,0,1,1,3,0,11,3,14
+YACUIBA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ALTO BENI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,4,0,4
+ANZALDO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+APOLO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+AYATA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BELLA FLOR,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+BERMEJO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BOLPEBRA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,2,2,4
+CAIROMA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CARANAVI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,1,0,0,1,2,0,1,0,0,1,0,0,1,3,0,5,5,10
+CARAPARI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CHIMORE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,2,1,0,1,0,3,1,0,1,1,0,0,0,6,4,10
+CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+COBIJA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,1,0,0,3,4,3,3,0,12,3,3,1,2,0,1,0,26,10,36
+COCAPATA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+COCHABAMBA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,5,4,0,2,0,0,0,6,6,12
+COROICO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,1,3
+CUEVO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,2,1,3
+EL TORNO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,1,0,0,0,0,5,2,7
+ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,1,0,0,0,0,3,2,5
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,0,2
+GUANAY,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,1,0,0,0,5,0,4,7,0,0,0,0,0,0,10,7,17
+IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,1,0,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0,1,5,6
+IXIAMAS,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,1,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,4,1,5
+LA ASUNTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,1,0,0,2,1,1,2,4,0,1,5,0,2,2,2,2,0,12,13,25
+LA PAZ,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,1,0,0,1,1,0,2,2,0,1,0,0,1,1,1,0,0,1,0,6,6,12
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+MONTERO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,3,1,4
+ORURO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+PALCA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,1,0,0,2,2,0,2,4,1,1,1,8,4,1,0,0,2,0,1,16,14,30
+PORVENIR,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+QUILLACOLLO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,2,1,0,0,0,0,0,3,2,5
+RIBERALTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,1,2,2,5,2,1,0,2,0,1,0,11,5,16
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,1,0,2,0,4,1,0,0,1,0,2,0,10,1,11
+SACABA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN BUENA VENTURA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,2,0,5,0,0,0,0,0,0,0,7,0,7
+SAN RAMON SCZ,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,1,1,1,4,2,6
+SANTA ROSA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SENA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SHINAOTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,2,2,4
+TARIJA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TEOPONTE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,3,1,4
+TOTORA(CBBA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+UNCIA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+VILLA MONTES,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,5,0,7,0,2,0,0,1,2,0,16,1,17
+YACUIBA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+ALTO BENI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,3,1,4
+BELLA FLOR,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+BERMEJO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+BOLPEBRA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,2,1,3
+CAIROMA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+CAJUATA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+CARANAVI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,1,0,0,1,0,1,0,1,0,1,0,0,0,0,0,4,1,5
+CHIMORE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,2,2,4
+CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+COBIJA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,1,1,13,0,14,3,5,0,0,1,1,0,34,5,39
+COCHABAMBA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+CORIPATA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+COROICO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+EL TORNO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,5,0,5
+ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,1,0,5,1,0,0,0,0,0,0,6,1,7
+FILADELFIA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+GUANAY,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,2,1,0,0,3,0,0,0,0,0,0,0,5,1,6
+IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,1,0,0,3,0,0,0,0,0,0,2,0,0,0,0,0,0,1,3,4,7
+IXIAMAS,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,3,0,3
+LA ASUNTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,1,2,2,1,1,0,4,1,1,7,4,2,1,1,2,0,0,14,16,30
+LA PAZ,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,1,1,1,1,0,2,0,0,0,0,5,0,1,0,0,0,0,0,8,4,12
+LORETO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+MAIRANA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+MAPIRI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+MIZQUE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+MONTERO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,3,0,3
+ORURO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,2,3,5
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,1,2,0,0,2,1,2,1,3,4,0,1,1,0,0,1,9,10,19
+PORVENIR,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,0,3
+QUILLACOLLO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,1,0,1,14,0,0,0,0,0,0,2,14,16
+RIBERALTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,1,0,4,1,0,0,0,0,0,0,5,1,6
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,1,0,0,0,0,0,1,1,5,2,0,0,0,0,0,0,7,3,10
+SACABA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+SAN BORJA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,4,0,4
+SAN BUENA VENTURA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,1,3,0,1,3,0,0,0,0,0,0,4,4,8
+SAN IGNACIO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,1,3,1,4
+SHINAOTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+TAPACARI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TARIJA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,3
+TEOPONTE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,1,0,1,2,2,2,0,0,4,0,1,0,0,0,1,0,10,4,14
+TINGUIPAYA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VIACHA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-10-01,0,0,0,0,1,0,0,0,1,0,5,3,5,3,4,0,1,1,0,0,17,7,24
+ALTO BENI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,2,3,5
+AYOPAYA (V. DE INDEPENDENCIA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+BELLA FLOR,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,2,0,0,0,0,1,2,1,0,0,0,0,0,0,4,2,6
+BERMEJO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,3,2,5
+BOLPEBRA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CAJUATA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CARANAVI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,4,1,5
+CHIMORE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2
+COBIJA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,1,0,1,0,3,0,2,1,7,2,3,0,0,3,0,0,17,6,23
+COCAPATA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+COCHABAMBA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,2,1,0,0,4,2,6
+CORIPATA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COROICO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+COTAGAITA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+EL ALTO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL TORNO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,2,0,1,2,6,4,10
+ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,2,0,0,0,4,1,5
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EXALTACION,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+FILADELFIA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2
+GUANAY,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,2,1,3
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,1,2,1,0,2,2,1,0,0,1,0,0,5,5,10
+IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,2,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,3,3,6
+IXIAMAS,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,1,0,2,0,2,0,0,0,1,0,1,0,0,0,7,0,7
+LA ASUNTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,1,4,0,1,3,0,0,0,5,5,1,1,0,0,0,0,10,11,21
+LA PAZ,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,2,1,1,1,0,3,1,2,6,3,1,0,2,0,1,1,14,11,25
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,1,1,0,0,0,1,0,2,0,0,0,0,0,4,1,5
+ORURO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,1,1,3,1,1,2,5,0,2,1,2,3,3,0,0,0,17,8,25
+PORVENIR,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,1,0,2,1,1,0,0,0,1,0,5,1,6
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,1,0,0,0,4,1,5
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,1,3,2,5
+QUILLACOLLO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,6,0,0,1,0,0,0,3,6,9
+REYES,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+RIBERALTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,3,3,2,1,0,0,0,0,5,4,9
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,3,0,1,0,8,3,0,1,0,2,0,1,12,7,19
+SAN BUENA VENTURA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,1,0,0,0,2,1,0,0,1,0,0,1,0,0,0,0,4,2,6
+SAN IGNACIO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,1,1,0,2,3,0,9,4,6,6,2,0,0,0,2,1,23,14,37
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2
+SENA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SIPE SIPE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+TAPACARI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+TARIJA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,3,0,3
+TEOPONTE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+TIQUIPAYA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TUPIZA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,1,0,0,1,3,1,4,0,9,1,3,0,1,3,0,0,21,6,27
+YACUIBA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,2
+YOCALLA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ALTO BENI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,3,1,4
+APOLO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+AYOPAYA (V. DE INDEPENDENCIA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+BELLA FLOR,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,2,0,1,0,1,1,0,0,0,0,1,0,5,1,6
+BERMEJO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,2,0,4,1,5
+BOLPEBRA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,2,1,3
+CAJUATA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,2,2,4
+CARANAVI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,1,0,1,2,0,1,1,0,0,1,3,0,0,0,6,4,10
+CARAPARI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CHAYANTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CHIMORE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,2,1,3
+CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COBIJA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,1,0,5,3,3,1,5,3,1,3,1,1,5,0,21,11,32
+COCAPATA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+COCHABAMBA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,2,0,0,0,5,0,5
+COROICO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+EL TORNO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,2,0,0,0,1,0,4,1,3,0,7,0,5,4,22,5,27
+ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,3,0,3
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+FILADELFIA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GUANAY,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,2,1,3
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,3,1,4
+IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,3,4
+IXIAMAS,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,1,4
+LA ASUNTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,1,0,0,0,0,0,1,1,2,0,1,2,2,0,0,0,0,0,0,3,7,10
+LA GUARDIA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,3,1,1,3,1,1,0,0,0,0,0,1,0,0,0,0,0,1,5,7,12
+LA PAZ,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,8,1,2,3,0,0,1,0,4,4,1,0,1,0,3,0,20,8,28
+MAGDALENA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+MIZQUE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,0,0,0,0,2,3,5
+ORURO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2,1,0,3,1,8,3,11
+PORVENIR,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,3,3
+POTOSI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,1,0,0,1,3,1,0,1,0,1,0,4,4,8
+PUNA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+QUILLACOLLO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+REYES,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+RIBERALTA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,2,1,0,1,0,2,1,0,0,1,0,0,0,5,3,8
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,1,0,0,0,4,1,1,0,1,0,0,1,7,2,9
+SACABA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN BORJA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN BUENA VENTURA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,3,2,0,0,1,1,1,0,0,1,0,0,5,4,9
+SAN IGNACIO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,1,0,0,1,0,0,0,4,0,2,0,0,0,1,0,8,1,9
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,2,1,3
+SANTIVAÑES,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,3,0,3
+TARIJA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+TEOPONTE,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,1,0,0,0,0,1,1,0,8,1,1,1,3,1,2,0,16,4,20
+VINTO,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+YANACACHI,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+YOCALLA,enfermedades transmitidas por vectores (etv),leishmaniasis,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1

@@ -1,0 +1,561 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+ALCALA,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+AZURDUY,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,1,3,3,0,0,0,1,0,0,3,5,8
+CAMARGO,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,1,0,0,0,0,2,3,3,0,0,1,1,5,6,10,16
+COBIJA,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,3,1,4
+COCHABAMBA,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+CONCEPCION,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,1,0,2,7,0,3,0,2,6,3,9,15,24
+COTOCA,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,3,0,4,0,1,0,0,0,0,0,8,8
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,2,0,2,0,1,2,2,0,0,0,0,0,0,2,7,9
+FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,5,3,4,0,4,3,11,12,1,4,8,7,3,6,36,35,71
+HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2,0,3,1,4
+INCAHUASI,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,2,2,4
+IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,3,3,1,4,1,4,0,1,5,2,2,3,1,2,0,0,13,19,32
+MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+MIZQUE,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,1,3,3,1,0,1,5,2,11,3,1,2,2,0,0,0,23,12,35
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,2,4,2,7,7,7,0,12,6,3,1,2,1,0,0,35,19,54
+PADILLA,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,3,0,11,0,0,0,0,0,0,0,14,14
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+POROMA,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,5,5
+PORVENIR,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+PRESTO,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,1,0,0,0,0,2,0,3,0,0,0,0,0,0,0,5,1,6
+PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,2,1,5,9,11,6,17,8,29,14,6,9,4,1,8,1,82,49,131
+PUNATA,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+REYES,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0,1,3,4
+RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,6,5,14,18,19,27,23,28,61,55,27,13,9,9,1,4,160,159,319
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,2,2,2,5,0,3,4,9,11,28,10,12,1,8,7,6,37,73,110
+SAN BORJA,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,3,1,12,0,0,0,0,5,6,6,21,27
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,1,0,0,0,1,0,0,0,0,4,1,0,0,0,1,2,4,6,10
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,4,5,1,2,2,4,3,8,7,3,1,1,0,1,0,24,18,42
+SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,1,0,1,2,2,3,1,0,0,2,1,7,6,13
+SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,1,1,1,0,0,0,1,0,4,4,2,0,1,0,1,1,11,6,17
+SENA,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,1,0,0,1,7,5,5,6,5,2,7,3,19,15,1,2,2,1,0,1,47,36,83
+SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,1,0,0,0,0,0,6,6
+SUCRE,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,1,1,0,0,1,0,5,0,1,0,0,0,0,1,8,9
+TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,3,0,11,0,1,0,0,0,0,0,15,15
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,2,0,0,1,0,0,1,0,0,0,0,0,0,0,3,1,4
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,1,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,4,4
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,4,0,11,0,0,0,0,0,1,0,16,16
+YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+YOTALA,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ZUDAÑEZ,enfermedades transmitidas por vectores (etv),malaria,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ALCALA,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,3,3
+BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,0,0,1,1,0,0,0,6,0,1,0,1,0,1,1,10,2,12
+CAMATAQUI (C. VILLA ABECIA),enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,1,1,4,0,0,0,0,0,0,1,5,6
+CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+COBIJA,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,1,0,4,0,4
+CONCEPCION,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,1,3,1,0,0,3,1,2,2,13,3,1,1,5,9,8,18,35,53
+EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,2,2,4
+FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,0,2
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,0,0,2,0,1,6,2,13,10,4,4,1,2,1,3,25,24,49
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,1,0,1,0,0,2,0,0,3,1,0,0,0,0,0,0,5,3,8
+IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,2,2,7,3,11,4,9,8,18,2,5,2,3,2,3,0,58,23,81
+MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,10,0,1,2,0,1,0,4,11,15
+MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,1,1,1,1,1,0,0,0,0,9,0,2,2,2,1,1,6,16,22
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,2,3
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,1,0,1,0,0,0,2,0,2,1,1,0,0,1,0,0,7,2,9
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,0,3,1,4,4,2,0,8,4,2,0,0,1,0,0,19,10,29
+PADILLA,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,1,1,1,5,2,3,6,6,19,4,3,2,2,0,2,21,36,57
+PALOS BLANCOS,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+POROMA,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+PRESTO,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,3,2,5
+PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,1,0,4,2,8,10,11,6,28,16,15,2,4,1,3,3,74,40,114
+REYES,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,1,1,3,1,3,0,2,0,2,0,0,0,1,0,0,0,12,2,14
+RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,1,0,0,7,5,16,14,20,13,14,23,43,29,11,2,8,5,7,5,126,97,223
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,1,0,0,0,0,0,1,1,1,4,1,1,2,3,4,1,10,10,20
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,0,0,0,0,1,0,5,4,18,0,1,0,0,5,12,9,37,46
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,1,2,0,1,2,4,13,17,34,10,13,6,9,1,12,41,84,125
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,1,2,2,3,4,1,1,5,11,9,2,0,0,0,0,0,21,20,41
+SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,4,8,3,2,2,2,0,0,9,12,21
+SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,1,2,3,1,3,2,1,2,5,2,0,0,0,0,0,0,13,9,22
+SENA,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,8,2,8,9,6,2,5,3,10,9,4,4,4,2,1,0,46,31,77
+SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,1,3,4
+SUCRE,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,5,0,11,0,0,0,0,0,0,0,16,16
+VILLA MONTES,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,0,1,0,0,1,1,0,0,1,1,0,0,0,0,0,3,2,5
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,2,0,6,0,0,1,0,0,0,1,8,9
+ALCALA,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,1,1,0,2,0,2,1,4,2,6,1,1,2,5,1,2,8,23,31
+AZURDUY,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,1,2,2,0,1,1,0,0,0,0,0,1,0,7,0,1,0,2,2,1,6,15,21
+BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,1,1,0,2,0,0,1,4,3,0,1,2,2,1,0,10,8,18
+CAMARGO,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,1,0,0,1,0,0,0,2,2,1,0,0,1,0,1,4,5,9
+CAMATAQUI (C. VILLA ABECIA),enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,8,17,1,6,2,0,0,1,11,24,35
+CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,1,2,1,1,3,1,4,2,2,1,0,1,0,3,4,11,15,26
+CHARAGUA,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,3,10,0,0,0,0,0,0,0,3,0,2,3,5,6,20,26
+COBIJA,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,2,3,5
+COCHABAMBA,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CONCEPCION,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,1,0,0,0,0,0,2,3,2,6,0,4,2,2,5,3,12,18,30
+CULPINA,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,5,5
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,0,1,1,1,0,0,0,1,2,0,0,0,1,0,4,3,7
+FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,1,0,3,2,1,2,1,7,15,26,9,7,4,4,9,8,43,56,99
+HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ICLA,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,1,1,0,0,1,0,2,1,3,0,0,0,0,0,7,2,9
+IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,4,1,5,5,8,4,13,3,20,11,8,1,6,2,0,0,64,27,91
+MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,6,6
+MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,6,6
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,2,3,5
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,1,1,1,3,2,0,1,1,6,1,1,0,0,0,0,1,12,7,19
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,1,3,8,0,2,2,14,6,3,2,0,2,0,0,28,15,43
+OMEREQUE,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+PADILLA,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,0,0,0,1,0,1,0,7,1,0,0,0,0,0,1,9,10
+POROMA,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,1,4,5
+PRESTO,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,0,0,0,4,0,1,0,4,0,1,0,0,0,0,0,10,10
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,1,0,1,0,1,0,2,1,0,0,1,0,0,0,6,1,7
+PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,4,2,6,7,12,8,21,17,7,4,2,2,3,2,55,42,97
+REYES,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,1,0,1,2,0,1,3,2,1,0,0,0,0,0,6,5,11
+RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,1,1,0,7,5,16,10,26,11,17,16,68,31,18,12,15,7,6,5,174,98,272
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,6,2,3,5,8,4,1,18,13,78,9,20,8,16,12,26,60,169,229
+SAN BUENA VENTURA,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,4,0,16,15,10,15,8,16,28,54,6,16,7,5,7,11,86,132,218
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,2,4,5,4,6,2,5,2,6,5,1,2,1,2,0,1,26,22,48
+SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,0,0,1,2,1,0,4,0,6,2,5,2,6,1,23,7,30
+SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+SAN RAMON BENI,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,1,3
+SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,0,1,0,1,0,1,5,1,0,1,0,0,0,0,5,5,10
+SENA,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,5,1,12,7,1,5,7,2,17,12,5,3,2,0,0,3,49,33,82
+SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,0,0,1,0,0,1,0,4,0,1,0,2,0,0,1,8,9
+SUCRE,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,1,0,0,0,0,0,0,3,0,7,0,0,0,0,0,0,1,10,11
+TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,5,0,17,0,1,0,0,0,0,0,23,23
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,0,1,1,1,0,1,1,4,0,0,0,0,1,1,3,8,11
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,1,2,0,0,0,0,0,1,2,7,0,0,0,1,2,2,5,13,18
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2021-03-01,0,0,0,0,0,0,0,0,1,0,0,4,0,12,1,0,0,1,0,0,2,17,19
+ALCALA,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,1,0,0,0,0,0,1,1,1,2,1,2,1,0,1,5,6,11
+BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,1,0,0,0,0,0,3,0,1,0,0,0,2,0,7,0,7
+CAMARGO,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,1,1,0,2,1,4,5,9
+CAMATAQUI (C. VILLA ABECIA),enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,4,1,7,8
+CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,1,1,0,1,0,0,1,2,2,1,1,0,1,2,6,7,13
+CHARAGUA,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,2,3,4,4,8
+COBIJA,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,0,2,2,4
+CONCEPCION,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,1,0,0,2,2,0,0,5,5,20,1,3,3,1,7,5,19,36,55
+CULPINA,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,1,1,1,2,0,3,1,3,1,2,0,1,1,0,5,12,17
+EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,0,0,2,2,4
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,1,0,0,0,4,0,4
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,1,3,0,13,12,32,21,33,22,27,45,96,115,37,31,35,29,31,18,307,294,601
+HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,1,0,0,0,0,0,0,0,1,2,0,0,0,0,1,0,3,2,5
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,4,0,0,1,1,0,1,3,0,0,0,0,0,0,6,4,10
+IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,4,1,1,2,1,0,10,8,17,7,5,7,3,0,1,1,42,26,68
+MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,0,1,0,0,1,1,0,14,0,0,2,1,0,2,3,19,22
+MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,4,4
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2,1,3
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,1,0,0,0,4,0,7,3,1,0,1,1,0,0,14,4,18
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,1,3,3,0,3,4,0,0,11,5,1,0,0,0,2,0,21,12,33
+PADILLA,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,2,1,11,0,0,0,0,0,0,1,13,14
+POROMA,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,3,0,4,1,2,0,0,0,0,1,9,10
+PRESTO,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,0,1,0,0,0,0,1,4,0,0,0,0,0,0,1,5,6
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,2,2,2,9,8,7,11,6,23,14,6,1,5,3,1,1,58,43,101
+REYES,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,2,7,5,3,3,1,1,1,5,6,0,0,0,0,1,1,17,19,36
+RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,4,4,10,13,18,7,24,12,59,21,13,5,9,3,5,1,142,66,208
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,2,0,0,0,1,2,4,4,4,1,4,3,7,22,9,11,5,11,10,14,46,68,114
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,1,0,0,1,0,1,3,4,3,23,32,12,14,11,13,3,11,55,77,132
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,2,2,5,1,0,2,5,8,3,0,1,1,0,1,0,15,16,31
+SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,3,2,3,0,0,1,1,4,8,12
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,0,3
+SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,2,0,0,0,1,1,1,0,5,0,0,0,0,0,0,1,9,10
+SENA,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,3,1,6,6,7,3,7,0,10,14,5,3,3,1,0,0,41,28,69
+SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,3,0,9,0,1,1,1,2,2,3,16,19
+SUCRE,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,5,0,4,0,0,0,0,0,0,0,9,9
+TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,0,0,0,1,0,10,1,13,0,1,0,0,0,1,1,26,27
+TARIJA,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,3,2,5
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,1,0,0,0,0,4,0,3,0,1,0,0,2,3,3,11,14
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,0,0,0,1,0,2,1,8,1,0,0,0,0,0,2,11,13
+YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2021-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+ALCALA,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,1,0,0,0,0,1,0,0,0,1,0,5,0,1,0,3,1,6,2,17,19
+AZURDUY,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,2,2,6,0,0,0,1,1,2,3,11,14
+BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,2,0,0,0,1,1,0,0,1,0,1,0,1,1,6,2,8
+CAMARGO,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,0,0,0,1,0,2,1,1,1,1,0,0,1,0,3,5,8
+CAMATAQUI (C. VILLA ABECIA),enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,2,2,0,0,3,5,8
+CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,1,2,0,2,0,0,1,3,2,1,0,1,0,4,4,13,17
+COBIJA,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,1,0,4,1,5
+CONCEPCION,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,2,0,0,0,0,0,0,6,4,29,2,2,2,2,9,7,19,46,65
+CULPINA,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,1,0,0,0,0,0,7,7
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,1,0,1,0,1,2,1,1,4,0,2,0,1,0,1,0,12,3,15
+FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,2,1,3
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,6,2,2,7,6,1,5,1,11,9,3,4,0,2,4,2,37,28,65
+HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,1,0,1,0,0,2,0,1,1,0,3,1,0,0,6,4,10
+HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,1,2,0,1,0,1,1,1,6,1,2,0,1,1,1,7,12,19
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,0,0,1,1,1,0,5,3,0,0,1,1,0,0,8,5,13
+IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,4,3,2,1,4,4,4,3,22,8,3,3,5,1,3,0,47,23,70
+MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,6,6
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,1,1,2,3,1,1,2,1,4,1,0,0,1,0,1,1,12,8,20
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,2,3,2,3,3,1,2,17,8,3,1,0,1,1,0,28,19,47
+PADILLA,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,10,0,0,0,0,0,0,0,11,11
+POROMA,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,1,0,0,0,1,0,1,0,0,0,3,0,3,3,1,1,1,0,0,0,11,4,15
+PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,1,1,5,9,4,12,7,16,7,7,2,3,2,4,1,52,29,81
+REYES,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,2,1,1,2,2,2,1,0,5,4,0,3,0,1,1,1,12,14,26
+RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,1,0,6,9,16,25,24,17,38,24,78,42,12,13,20,7,15,8,210,145,355
+ROBORE,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,15,20,0,0,0,0,0,0,15,20,35
+SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,1,0,0,0,0,3,1,2,0,0,1,4,3,19,6,8,3,9,7,13,22,58,80
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,0,0,1,0,106,2,43,3,5,3,0,1,21,23,176,32,208
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,1,0,0,2,2,3,7,18,21,13,5,11,8,3,3,50,47,97
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,1,0,3,3,4,3,0,0,7,3,2,1,0,1,0,1,17,12,29
+SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN RAMON BENI,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,1,0,0,0,1,3,1,3,6,15,2,10,1,3,5,2,17,36,53
+SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,1,2,2,2,3,2,0,2,0,3,0,0,0,0,0,0,6,11,17
+SENA,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,1,0,5,5,6,9,8,4,5,0,10,4,1,2,2,0,0,1,38,25,63
+SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,2,0,1,1,0,1,0,4,0,1,0,0,0,1,3,8,11
+SUCRE,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,5,5
+TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,6,1,14,0,2,0,0,0,1,1,23,24
+TARVITA,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+TOMINA,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,1,0,0,2,0,0,1,1,0,9,1,1,1,2,2,0,6,15,21
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,1,1,1,1,1,0,1,2,0,1,0,0,0,0,4,5,9
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,0,0,0,0,1,2,1,6,0,1,0,2,1,0,3,11,14
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,2,2,4
+YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+ALCALA,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,1,3,4
+BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,1,1,1,0,1,2,3,0,1,1,1,1,2,0,10,5,15
+CAMARGO,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,1,0,0,0,0,1,0,3,0,0,1,1,0,1,2,6,8
+CAMATAQUI (C. VILLA ABECIA),enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,1,2,1,5,6
+CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,2,1,2,2,0,5,2,0,0,5,1,3,1,0,2,4,10,20,30
+CHARAGUA,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,6,7,0,0,0,0,0,3,0,4,1,0,2,3,9,17,26
+COBIJA,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,1,0,0,0,0,0,0,1,1,0,0,2,1,0,0,0,0,0,0,3,3,6
+COCHABAMBA,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CONCEPCION,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,1,0,1,0,1,1,6,3,16,0,3,0,4,2,9,6,41,47
+CULPINA,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,11,5,2,16,11,30,27,57
+EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,4,4
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,3,0,0,1,2,2,8,4,1,1,1,0,1,0,16,8,24
+FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,1,2,5,0,50,26,99,72,80,107,90,107,156,206,51,67,50,38,48,43,630,668,1298
+HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,1,4,5
+ICLA,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+INCAHUASI,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,1,0,0,0,2,0,0,1,3,1,0,1,0,1,0,4,6,10
+IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,1,3,6,4,3,6,7,3,33,3,4,7,7,2,5,0,66,28,94
+MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,1,0,0,0,0,0,12,12
+MIZQUE,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,1,2,0,1,0,1,2,2,0,1,2,1,2,2,7,10,17
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,2,0,4,0,3,1,6,4,5,3,2,1,0,0,1,0,23,9,32
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,2,3,4,2,5,5,1,1,10,3,2,5,1,1,3,1,28,21,49
+PADILLA,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,1,0,0,0,0,0,2,0,7,0,1,0,0,0,0,0,11,11
+POROMA,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PORVENIR,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PRESTO,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,3,3
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,1,0,0,0,2,0,2,4,2,1,1,0,1,0,9,5,14
+PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,2,3,4,5,8,7,4,10,10,3,4,4,4,3,0,35,36,71
+REYES,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,1,2,2,4,0,0,1,1,3,3,5,0,0,1,2,0,14,11,25
+RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,1,7,3,21,28,38,21,40,28,85,50,27,22,9,8,16,9,243,170,413
+ROBORE,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,0,1,1,0,1,0,8,11,2,0,0,0,2,4,14,16,30
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,1,1,1,0,1,1,5,5,23,6,11,2,10,14,5,29,57,86
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,1,0,0,1,1,0,2,5,0,1,3,2,9,5,16,14,30
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,1,3,3,2,4,4,2,2,1,4,6,0,0,1,0,1,0,17,17,34
+SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,2,1,2,1,0,0,2,6,2,2,2,1,3,2,13,13,26
+SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,1,0,1,0,1,0,1,2,1,0,0,1,1,0,6,3,9
+SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,1,0,1,3,0,0,5,0,1,2,0,2,0,0,0,1,8,8,16
+SENA,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,5,3,6,4,4,2,6,5,16,8,3,4,3,2,1,1,44,29,73
+SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+SUCRE,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,6,0,0,0,0,0,0,0,7,7
+TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,3,0,7,0,0,0,0,0,0,0,10,10
+TOMINA,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,1,5,1,0,0,0,0,1,5,9,1,5,0,1,2,2,10,23,33
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,1,0,0,0,2,0,0,0,0,3,1,0,0,0,1,3,5,8
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,3,0,9,0,1,0,0,0,0,0,13,13
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,2,3
+YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2021-06-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,1,3,2,5
+ALCALA,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,1,0,1,3,4
+BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,2,1,1,0,1,0,3,1,0,0,0,0,0,0,7,2,9
+CAMATAQUI (C. VILLA ABECIA),enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,5,9,1,0,0,0,1,1,7,10,17
+CHARAGUA,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,2,7,0,10,3,13
+COBIJA,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,2,3,5
+COCHABAMBA,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CONCEPCION,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,1,1,2,3,0,1,1,5,12,29,3,6,4,3,13,4,36,52,88
+COTOCA,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,0,0,0,2,6,27,23,10,8,8,4,2,4,49,45,94
+EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,0,0,0,0,4,4
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,2,0,2,2,0,0,3,1,1,0,1,0,1,0,10,3,13
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,5,4,1,23,24,51,33,33,51,37,29,65,137,34,33,17,17,18,23,282,353,635
+HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,1,3,1,2,0,6,5,9,6,4,4,2,2,0,19,26,45
+HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,2,1,11,0,4,2,1,4,6,7,24,31
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,2,0,1,1,0,0,5,2,2,1,1,0,0,0,11,4,15
+IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,1,0,0,1,3,0,0,2,5,3,6,0,1,1,1,0,17,7,24
+MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,1,1,0,1,1,8,9
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,1,1,3,0,2,1,3,2,6,4,0,0,1,0,2,0,18,8,26
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,1,0,2,4,0,3,15,6,3,0,1,0,0,0,22,13,35
+PADILLA,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,4
+PORVENIR,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PRESTO,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,1,1,2,4,2,0,2,1,0,5,1,1,2,4,3,4,13,20,33
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,0,0,0,2,1,4,1,0,0,0,1,0,0,6,3,9
+PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,1,0,6,4,5,4,5,4,13,6,4,0,5,1,4,0,43,19,62
+REYES,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,2,2,3,4,0,5,1,4,5,0,0,1,2,0,0,16,13,29
+RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,2,0,4,7,15,8,15,14,19,16,53,41,13,8,7,9,7,5,135,108,243
+ROBORE,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,0,1,0,3,9,8,16,6,2,2,0,0,3,20,30,50
+SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,1,2,0,0,4,8,23,29,19,25,3,10,10,44,9,21,5,15,9,9,83,163,246
+SAN BORJA,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,3,1,4
+SAN BUENA VENTURA,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN IGNACIO,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,1,40,35,23,34,28,21,36,45,14,7,5,4,26,20,172,167,339
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,3,1,5,2,2,3,16,40,87,115,68,51,49,47,17,31,247,290,537
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,2,0,2,2,1,0,2,2,3,2,3,1,0,0,1,1,14,8,22
+SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,15,15,1,2,1,0,7,6,5,6,3,1,1,0,33,30,63
+SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,0,0,1,0,1,2,4,0,0,0,0,0,0,2,6,8
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,3,3,10,5,6,12,6,9,22,37,9,23,9,19,7,18,72,126,198
+SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,2,1,0,0,0,0,4,2,1,0,0,0,0,0,7,3,10
+SENA,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,1,1,2,1,0,4,0,8,3,3,2,0,0,1,1,18,9,27
+SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+SUCRE,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,4,4
+TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,0,0,2,0,6,2,18,0,6,0,0,2,2,4,34,38
+TARVITA,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+TOMINA,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,2,11,8,5,4,5,5,13,23,5,12,6,5,7,10,52,69,121
+TRINIDAD,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,0,1,0,0,1,0,3,0,0,0,0,0,0,1,4,5
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,3,3,9,1,1,0,2,1,1,5,16,21
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,6,6
+YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2021-07-01,0,0,0,0,0,1,1,0,3,0,0,3,4,8,4,9,4,3,5,8,21,32,53
+ALCALA,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,3,0,0,0,5,1,6
+CAMATAQUI (C. VILLA ABECIA),enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+COBIJA,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+COCHABAMBA,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CONCEPCION,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,2,1,0,3,1,2,2,3,6,17,1,1,0,3,4,4,16,34,50
+EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,1,0,5,0,1,0,3,1,2,2,1,0,0,0,1,1,14,4,18
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,4,0,5,3,51,32,83,70,54,75,75,70,121,208,56,51,23,30,44,26,516,565,1081
+HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,1,5,6,4,3,6,2,20,27,6,11,9,12,9,10,59,72,131
+HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,4,4
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,1,0,4,2,1,0,3,1,2,0,0,0,1,1,12,4,16
+IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,1,0,0,2,0,6,3,4,4,1,0,5,6,1,2,0,0,0,0,19,16,35
+LA PAZ,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,4,4
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,0,0,1,1,1,1,7,1,1,0,1,1,0,1,11,5,16
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,4,1,3,3,1,1,4,4,1,1,0,1,1,0,14,11,25
+PADILLA,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,2,3
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,1,0,0,0,1,0,4,2,1,1,0,1,1,0,8,4,12
+PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,1,3,2,6,4,8,8,6,17,12,2,1,4,1,3,2,41,39,80
+PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,10,18,18,12,10,8,0,2,38,40,78
+REYES,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,1,0,2,2,0,2,3,2,2,4,1,1,0,0,1,0,10,11,21
+RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,2,0,4,5,12,7,10,9,19,14,47,29,18,7,9,8,10,4,131,83,214
+SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,3,2,2,2,2,5,3,9,14,42,10,14,8,10,11,17,53,101,154
+SAN BORJA,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN BUENA VENTURA,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,1,0,1,0,2,1,14,12,6,7,1,3,26,31,51,54,105
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,1,0,1,1,5,6,13,18,7,5,7,8,7,7,41,45,86
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,1,0,0,0,3,4,3,1,1,1,2,1,0,1,0,1,0,9,10,19
+SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,1,0,0,1,5,4,22,23,13,13,15,15,11,32,12,14,9,5,11,14,99,121,220
+SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,0,0,1,2,0,0,2,1,0,0,0,1,0,0,3,4,7
+SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,10,5,13,13,17,15,9,12,26,43,10,15,8,13,7,10,100,126,226
+SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,1,4,0,0,1,1,0,0,1,0,0,0,0,0,3,5,8
+SENA,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,1,5,2,2,1,0,4,1,2,1,0,2,0,0,10,11,21
+SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,2,1,1,0,0,0,0,2,0,0,0,0,0,0,3,3,6
+SUCRE,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,2,1,6,0,0,0,0,0,0,1,8,9
+TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,3,0,8,0,1,0,0,0,0,0,12,12
+TOMINA,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1,0,1,0,0,0,6,6
+VILLA MONTES,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,2,1,3
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,0,0,0,1,0,4,1,13,3,1,2,1,1,3,7,23,30
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,4
+YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2021-08-01,0,0,0,0,0,0,0,0,0,0,6,8,2,7,4,4,0,5,6,8,18,32,50
+ALCALA,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,4
+BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,0,1,0,0,0,2,1,1,0,0,1,0,0,0,2,4,6
+BERMEJO,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CAMATAQUI (C. VILLA ABECIA),enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,5,5
+CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,1,1,2,0,1,2,1,1,2,1,1,1,0,0,0,1,8,7,15
+CHARAGUA,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,5,6,10,7,16,23
+COBIJA,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,0,0,1,0,3,0,2,1,0,0,0,0,0,0,6,1,7
+CONCEPCION,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,3,0,0,0,0,0,2,5,1,12,2,6,1,3,10,6,19,32,51
+EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,1,2,0,12,16,6,9,0,2,6,21,7,8,0,7,8,7,41,71,112
+EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,1,2,1,1,0,1,2,0,1,1,0,2,0,0,0,7,5,12
+FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,5,0,8,6,68,66,142,118,73,103,122,103,219,236,77,72,64,44,51,47,829,795,1624
+HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,1,0,2,0,2,0,1,0,5,4,3,0,1,2,0,0,15,6,21
+IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,3,4,3,3,3,0,3,0,3,2,2,0,0,0,17,9,26
+LAGUNILLAS,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,1,3,4
+LAS CARRERAS,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,13,1,2,0,0,0,0,1,16,17
+MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,1,0,2,1,0,5,1,6,3,0,0,1,0,1,0,14,7,21
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,2,2,0,4,3,2,14,7,1,1,0,3,4,1,24,20,44
+PADILLA,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,1,0,0,0,0,0,9,9
+PRESTO,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,4,4
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,0,0,1,0,2,1,3,1,1,0,0,0,0,0,7,2,9
+PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,1,1,1,1,4,8,3,8,8,6,4,4,2,1,0,29,23,52
+REYES,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,2,0,0,0,2,1,0,2,2,0,0,1,0,0,0,4,6,10
+RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,1,0,7,10,18,19,30,25,40,18,85,68,25,25,11,21,9,8,226,194,420
+ROBORE,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,0,0,0,0,2,3,3,4,2,2,2,0,0,2,9,11,20
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,3,0,0,6,3,2,6,2,5,2,14,7,55,6,21,10,14,21,30,56,151,207
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,2,0,4,2,2,2,12,3,4,2,3,3,21,10,48,22,70
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,1,0,0,0,1,1,1,2,3,15,6,4,6,3,5,6,23,31,54
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,2,0,0,2,4,0,2,0,3,0,0,0,0,0,0,0,11,2,13
+SAN MATIAS,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,1,1,16,18,26,15,13,28,29,73,9,19,13,22,19,21,126,197,323
+SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,2,0,0,2,1,0,7,5,3,1,6,4,3,3,22,15,37
+SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,1,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,5,1,6
+SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,3,1,4
+SENA,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,2,0,5,1,3,2,0,0,8,1,2,0,1,1,0,0,21,5,26
+SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,0,0,0,0,1,3,0,5,0,0,0,2,0,1,1,11,12
+SUCRE,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,9,0,1,0,1,1,1,1,13,14
+TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,4,1,10,5,1,6,0,19,0,1,1,0,1,2,17,34,51
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,1,0,1,1,1,1,2,1,0,1,0,0,0,0,5,4,9
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1,1,1,1,2,2,8,10
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,1,0,0,0,0,0,6,6
+YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2021-09-01,0,0,0,0,0,0,0,1,5,6,2,9,2,18,3,10,1,4,17,25,30,73,103
+ALCALA,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,6,0,0,0,0,0,0,0,7,7
+BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,1,1,0,3,1,2,2,7,2,3,1,0,0,0,1,16,8,24
+CAMATAQUI (C. VILLA ABECIA),enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,2,1,4,1,2,0,3,1,4,1,1,2,1,2,4,8,21,29
+CHARAGUA,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2,0,1,9,13,8,18,18,36
+COBIJA,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,0,0,1,1,1,0,2,3,0,0,0,0,0,0,4,4,8
+CONCEPCION,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,2,3,2,0,1,0,4,3,6,1,3,3,8,5,3,15,29,44
+EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,3,2,3,1,0,1,1,2,2,16,1,3,0,1,9,6,19,32,51
+EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,4,4
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,1,1,0,1,1,5,3,8
+FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,1,3,1,21,23,27,40,25,29,15,20,44,56,21,23,12,10,16,11,184,214,398
+HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,0,0,1,6,3,0,1,1,0,1,2,0,0,0,7,8,15
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,1,3,3,1,4,3,3,0,8,5,1,0,1,0,1,0,22,12,34
+IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,1,0,0,2,2,3,2,1,0,1,0,2,0,0,0,0,0,9,5,14
+LAGUNILLAS,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,2,3,5
+MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,5,5
+MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,1,0,1,0,1,3,1,2,2,5,0,0,0,0,0,0,0,10,6,16
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,1,0,3,2,7,3,5,1,12,10,3,2,0,2,3,0,34,20,54
+PADILLA,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,0,0,1,0,0,0,9,9
+PRESTO,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,7,14,17,21,0,1,1,3,0,0,0,0,1,0,26,39,65
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,1,0,1,0,1,0,1,0,3,0,1,0,0,0,0,0,2,0,10,0,10
+PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,3,1,2,2,2,3,3,11,11,2,0,0,1,3,0,22,22,44
+PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,0,0,0,0,26,1,1,9,1,5,1,4,2,1,31,20,51
+REYES,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,0,0,0,1,1,1,3,0,0,0,0,0,0,0,4,2,6
+RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,1,1,14,10,25,26,24,31,53,38,105,102,23,25,27,11,14,12,286,256,542
+ROBORE,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,0,0,0,0,4,3,4,5,5,4,0,0,0,0,13,12,25
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,2,0,0,1,2,1,2,2,5,1,14,7,39,8,9,6,7,10,21,36,101,137
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,0,5,2,3,3,10,8,11,3,5,2,10,25,32,43,76,119
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,0,0,0,0,1,0,4,2,3,1,2,1,1,1,11,5,16
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,2,0,4,0,3,1,0,4,4,1,1,1,0,0,1,2,15,9,24
+SAN MATIAS,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,3,1,15,14,10,8,0,0,4,16,4,2,1,3,8,21,45,65,110
+SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,3,3,1,1,1,0,2,3,0,0,0,0,0,0,7,7,14
+SENA,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,2,0,2,3,2,4,3,3,9,5,7,2,1,2,0,0,26,19,45
+SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0,1,0,3,1,1,1,11,12
+SUCRE,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,4,1,7,0,1,0,0,0,0,1,12,13
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,0,0,0,1,0,0,2,1,1,0,1,0,0,0,4,2,6
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,0,1,0,0,0,1,1,5,0,1,0,2,0,2,1,12,13
+VILLA TUNARI,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,0,0,0,0,3,2,5
+YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+ALCALA,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,1,0,0,0,0,0,1,1,1,11,0,3,1,3,1,2,5,20,25
+BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,1,0,4,2,3,1,5,1,11,2,1,1,2,0,0,0,27,7,34
+CAMATAQUI (C. VILLA ABECIA),enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,1,0,0,1,4,5
+CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,3,0,2,0,1,1,0,0,0,0,1,0,0,1,1,4,8,6,14
+CHARAGUA,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,1,2,3,4,6,10
+COBIJA,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+CONCEPCION,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,2,0,3,3,0,2,0,4,0,14,3,3,1,4,2,3,11,33,44
+EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,1,0,0,0,1,2,0,0,0,0,1,3,2,22,0,3,0,4,4,9,9,43,52
+EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,2,3
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,1,1,2,2,2,2,3,4,10,14,8,5,1,5,6,4,33,37,70
+HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,0,0,1,1,3,3,1,5,1,1,0,1,1,0,1,11,8,19
+IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,4,0,3,0,4,3,5,2,6,5,3,1,1,0,0,1,26,12,38
+MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,4,0,0,0,0,0,9,9
+MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,0,0,0,1,3,4
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,0,0,0,1,0,1,2,4,3,1,1,2,1,0,0,9,7,16
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,1,3,0,1,3,3,0,12,5,2,3,0,1,1,0,22,13,35
+PADILLA,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0,1,0,1,6,7
+PRESTO,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,0,0,0,0,1,0,2,0,3,0,1,0,0,0,0,0,7,7
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,0,0,0,1,0,2,0,2,1,2,0,0,0,0,0,7,1,8
+PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,1,3,1,1,3,9,9,3,13,7,4,0,0,1,1,3,32,27,59
+REYES,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,2,2,2,3,0,0,1,0,2,2,3,0,0,0,1,1,11,8,19
+RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,1,0,0,0,17,19,34,34,55,40,68,34,136,122,23,46,26,18,20,15,380,328,708
+ROBORE,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,4,7,4,3,2,0,0,0,0,10,10,20
+SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,2,2,4,3,0,2,2,4,10,27,6,13,3,10,7,15,34,76,110
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,1,6,1,7,6,4,3,5,5,1,3,2,3,29,17,54,39,93
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,0,0,0,0,0,3,3,12,20,9,5,8,8,6,4,38,40,78
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,1,1,1,0,4,2,2,2,3,2,1,2,0,0,0,0,12,9,21
+SAN MATIAS,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,3,2,17,10,23,24,8,19,14,18,7,10,2,9,3,3,77,95,172
+SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,1,0,1,0,1,1,2,4,2,0,1,0,1,0,1,0,0,1,1,6,11,17
+SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,4,0,4
+SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,0,0,0,3,0,0,1,3,2,0,0,0,0,0,1,6,4,10
+SENA,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,2,1,1,6,14,5,7,1,14,6,1,3,2,0,1,1,42,23,65
+SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+SUCRE,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,1,3,4
+TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,0,0,0,0,1,0,5,0,11,0,2,0,0,0,0,0,19,19
+TOMINA,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,0,1,0,0,1,0,2,1,0,0,0,0,1,1,1,3,5,8
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,1,0,0,2,0,2,6,8
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ALCALA,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,1,0,1,0,0,1,0,0,1,1,7,0,0,0,0,1,0,3,10,13
+BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,2,0,0,1,3,2,4,1,3,3,3,1,2,1,2,3,19,12,31
+CAMATAQUI (C. VILLA ABECIA),enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,0,0,1,0,2,1,8,1,0,0,1,1,0,3,12,15
+CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,0,1,1,1,0,1,0,2,0,0,0,1,2,6,3,9
+COBIJA,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,3,0,3
+CONCEPCION,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,0,1,1,0,4,1,8,0,2,2,0,2,1,6,16,22
+EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,1,0,1,0,0,0,0,4,2,0,1,0,0,0,0,4,5,9
+FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,1,3,8,8,53,73,87,90,111,93,153,94,298,284,129,79,64,69,70,55,974,848,1822
+HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+INCAHUASI,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,1,0,1,0,2,4,0,0,6,0,2,0,0,0,0,0,12,4,16
+IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,3,0,1,1,0,1,4,0,2,1,0,0,0,0,10,3,13
+LA GUARDIA,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,5,5
+MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,2,2,1,2,1,3,0,11,1,0,0,1,0,0,0,19,5,24
+NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,1,0,3,0,4,4,0,0,8,4,0,0,1,0,0,0,17,8,25
+PADILLA,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,3,0,8,0,2,0,0,0,0,0,13,13
+POROMA,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,1,2,1,0,5,2,7
+PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,2,1,1,9,10,3,22,10,7,1,1,0,0,1,43,25,68
+PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,0,0,0,1,1,18,19,1,2,0,0,0,0,20,22,42
+REYES,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,1,1,1,0,2,3,1,1,5,4,1,1,1,0,0,2,12,12,24
+RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,1,0,0,15,13,25,20,32,28,35,39,114,78,32,21,10,15,16,18,279,233,512
+RURRENABAQUE,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+SACABA,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,1,0,0,0,0,0,2,1,2,1,1,4,8,21,9,8,6,7,7,13,36,55,91
+SAN BORJA,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,2,2,4
+SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,1,0,1,1,0,13,7,3,1,8,1,17,17,42,28,70
+SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,1,0,0,1,2,4,13,6,4,4,5,8,6,23,31,54
+SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,2,1,3,2,3,5,2,4,9,4,3,3,1,0,2,0,25,19,44
+SAN MATIAS,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,1,1,3,0,3,1,0,0,0,5,0,2,1,0,1,0,9,9,18
+SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,1,3,2,2,2,1,3,6,3,1,3,4,4,1,2,18,20,38
+SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,0,1,0,0,1,2,2,0,0,0,0,0,0,3,3,6
+SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,1,1,3,0,2,3,3,2,1,4,0,1,0,0,0,0,10,11,21
+SENA,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,1,1,2,11,6,8,8,7,2,11,6,4,4,2,2,0,0,44,31,75
+SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SUCRE,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,3,0,6,0,0,1,0,1,0,2,9,11
+VILLA MONTES,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,2,2,4
+VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,1,0,0,0,0,1,0,5,0,1,0,2,0,1,1,10,11
+VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,2,3

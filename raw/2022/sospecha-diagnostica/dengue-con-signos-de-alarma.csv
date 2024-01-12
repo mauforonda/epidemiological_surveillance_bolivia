@@ -1,0 +1,352 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+CAMIRI,sospecha diagnostica,dengue con signos de alarma,2022-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,2,0,0,0,1,1,4,5
+CARANAVI,sospecha diagnostica,dengue con signos de alarma,2022-01-01,0,0,0,0,0,0,0,1,2,1,0,0,0,1,0,0,1,0,1,0,4,3,7
+COBIJA,sospecha diagnostica,dengue con signos de alarma,2022-01-01,0,0,0,0,2,2,2,5,9,4,5,1,4,2,1,3,0,0,1,1,24,18,42
+COCHABAMBA,sospecha diagnostica,dengue con signos de alarma,2022-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CUATRO CAÑADAS,sospecha diagnostica,dengue con signos de alarma,2022-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+EL TORNO,sospecha diagnostica,dengue con signos de alarma,2022-01-01,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,2,0,0,0,1,2,4,6
+ENTRE RIOS CBBA,sospecha diagnostica,dengue con signos de alarma,2022-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+GUANAY,sospecha diagnostica,dengue con signos de alarma,2022-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+GUAYARAMERIN,sospecha diagnostica,dengue con signos de alarma,2022-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+HUARACAJE,sospecha diagnostica,dengue con signos de alarma,2022-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+LA ASUNTA,sospecha diagnostica,dengue con signos de alarma,2022-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,2,1,3
+MAPIRI,sospecha diagnostica,dengue con signos de alarma,2022-01-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+MONTEAGUDO,sospecha diagnostica,dengue con signos de alarma,2022-01-01,0,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0,1,0,0,2,3,5,8
+MONTERO,sospecha diagnostica,dengue con signos de alarma,2022-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+PALOS BLANCOS,sospecha diagnostica,dengue con signos de alarma,2022-01-01,0,0,0,0,0,1,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,5,5
+SAN BORJA,sospecha diagnostica,dengue con signos de alarma,2022-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,1,2,3
+SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue con signos de alarma,2022-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,1,0,0,0,2,4,6
+SANTA ANA,sospecha diagnostica,dengue con signos de alarma,2022-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue con signos de alarma,2022-01-01,0,0,2,0,2,2,2,0,2,0,0,0,3,4,1,0,2,0,1,2,15,8,23
+TEOPONTE,sospecha diagnostica,dengue con signos de alarma,2022-01-01,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,4,4
+TIPUANI,sospecha diagnostica,dengue con signos de alarma,2022-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,2,2,2,4
+VILLA TUNARI,sospecha diagnostica,dengue con signos de alarma,2022-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+YACUIBA,sospecha diagnostica,dengue con signos de alarma,2022-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,0,3,1,4
+CAMIRI,sospecha diagnostica,dengue con signos de alarma,2022-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CARANAVI,sospecha diagnostica,dengue con signos de alarma,2022-02-01,0,0,0,0,2,1,2,1,0,1,2,0,1,5,0,0,0,0,0,0,7,8,15
+CARAPARI,sospecha diagnostica,dengue con signos de alarma,2022-02-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+COBIJA,sospecha diagnostica,dengue con signos de alarma,2022-02-01,0,0,0,0,2,1,0,4,1,0,5,0,11,11,1,2,1,0,0,3,21,21,42
+COCHABAMBA,sospecha diagnostica,dengue con signos de alarma,2022-02-01,0,0,2,0,0,0,1,0,2,1,0,0,1,1,1,0,0,1,0,0,7,3,10
+EL TORNO,sospecha diagnostica,dengue con signos de alarma,2022-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ENTRE RIOS CBBA,sospecha diagnostica,dengue con signos de alarma,2022-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+GUAYARAMERIN,sospecha diagnostica,dengue con signos de alarma,2022-02-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,1,2,3
+MAPIRI,sospecha diagnostica,dengue con signos de alarma,2022-02-01,0,0,0,0,0,0,1,0,1,0,0,0,0,3,0,0,0,0,0,0,2,3,5
+PALOS BLANCOS,sospecha diagnostica,dengue con signos de alarma,2022-02-01,0,0,0,0,0,0,0,0,0,1,1,0,1,2,0,0,0,0,1,2,3,5,8
+PUERTO GONZALO MORENO,sospecha diagnostica,dengue con signos de alarma,2022-02-01,0,0,0,0,0,0,0,1,1,2,1,4,2,2,2,2,0,0,0,2,6,13,19
+PUERTO VILLARROEL,sospecha diagnostica,dengue con signos de alarma,2022-02-01,0,0,0,0,0,0,0,0,2,0,0,0,2,5,0,0,0,0,0,0,4,5,9
+ROBORE,sospecha diagnostica,dengue con signos de alarma,2022-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1,0,5,0,5
+RURRENABAQUE,sospecha diagnostica,dengue con signos de alarma,2022-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN BORJA,sospecha diagnostica,dengue con signos de alarma,2022-02-01,0,0,0,0,0,0,2,1,0,1,0,0,1,0,0,0,0,1,0,0,3,3,6
+SAN IGNACIO,sospecha diagnostica,dengue con signos de alarma,2022-02-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN JULIAN,sospecha diagnostica,dengue con signos de alarma,2022-02-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,1,2,3
+SANTA ANA,sospecha diagnostica,dengue con signos de alarma,2022-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue con signos de alarma,2022-02-01,0,0,0,1,2,1,0,0,3,2,0,3,8,4,0,0,0,0,1,0,14,11,25
+TIPUANI,sospecha diagnostica,dengue con signos de alarma,2022-02-01,0,0,0,0,0,0,1,1,1,0,1,0,0,0,1,1,0,0,0,1,4,3,7
+TRINIDAD,sospecha diagnostica,dengue con signos de alarma,2022-02-01,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+VILLA TUNARI,sospecha diagnostica,dengue con signos de alarma,2022-02-01,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,3,1,4
+YACUIBA,sospecha diagnostica,dengue con signos de alarma,2022-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,3,3
+YANACACHI,sospecha diagnostica,dengue con signos de alarma,2022-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+BERMEJO,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CAMIRI,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+CARANAVI,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,3,2,3,2,3,0,8,1,2,10,2,1,0,2,2,0,23,18,41
+CHIMORE,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2,1,3
+COBIJA,sospecha diagnostica,dengue con signos de alarma,2022-03-01,1,0,1,0,1,0,1,3,0,0,7,1,2,0,0,1,1,1,0,0,14,6,20
+COCHABAMBA,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,0,1,1,1,2,1,0,0,0,2,0,0,0,0,0,0,3,5,8
+EL TORNO,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1,1,1,4,5
+ENTRE RIOS CBBA,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,1,0,0,0,1,0,0,1,2,0,0,0,0,0,0,0,4,1,5
+GUAYARAMERIN,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA ASUNTA,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA GUARDIA,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+LA PAZ,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+MAPIRI,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,1,0,0,0,3,2,5
+MONTEAGUDO,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,1,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,1,0,4,3,7
+MONTERO,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,3,1,4
+PALOS BLANCOS,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,0,0,2,1,3,3,1,3,2,2,1,0,0,1,0,0,9,10,19
+PUERTO GONZALO MORENO,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PUERTO VILLARROEL,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,1,0,0,3,1,1,1,2,1,1,5,5,0,1,2,1,0,3,11,17,28
+RIBERALTA,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,2,2,4
+RURRENABAQUE,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,1,2,3,5
+SACABA,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SAN BORJA,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,1,0,2,2,0,2,1,0,1,2,0,0,1,0,0,0,0,6,6,12
+SAN IGNACIO,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN LORENZO(PND),sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,1,1,6,5,6,3,4,2,4,8,3,0,5,2,1,0,30,21,51
+SIPE SIPE,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+TARIJA,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TIPUANI,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,0,1,4,2,2,2,0,1,5,6,0,0,0,1,0,0,11,13,24
+TRINIDAD,sospecha diagnostica,dengue con signos de alarma,2022-03-01,2,0,0,0,2,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,5,1,6
+VILLA TUNARI,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,0,0,0,0,0,1,0,0,3,2,2,0,1,0,0,0,6,3,9
+YACUIBA,sospecha diagnostica,dengue con signos de alarma,2022-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1,2,3
+ASCENCION DE GUARAYOS,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+AUCAPATA,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+BERMEJO,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+CAMIRI,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+CARANAVI,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,1,1,0,2,0,0,0,1,1,0,0,0,0,1,0,5,2,7
+CHIMORE,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+COBIJA,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,1,3,2,0,1,0,0,0,0,2,0,0,0,0,0,0,0,5,4,9
+COCHABAMBA,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,1,1,0,0,1,0,2,4,0,1,0,0,1,1,5,7,12
+COROICO,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+COTOCA,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,2,1,3
+EL ALTO,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,3,0,3
+EL TORNO,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ENTRE RIOS CBBA,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,2,0,1,0,1,0,1,2,1,0,0,1,2,1,8,4,12
+HUACAYA (VILLA DE HUACAYA),sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+LA ASUNTA,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,4,1,1,0,0,0,2,0,0,0,0,0,0,1,7,8
+LA GUARDIA,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MAPIRI,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MINEROS,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,3,3
+MONTERO,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+OMEREQUE,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PALOS BLANCOS,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,0,0,1,0,1,2,2,1,2,0,0,0,0,3,6,9
+PAMPA GRANDE,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PORTACHUELO,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+PORVENIR,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+PUERTO GONZALO MORENO,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0,1,1,0,0,0,4,5,9
+PUERTO VILLARROEL,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,1,0,3,0,0,0,0,0,4,0,1,0,1,0,1,0,11,11
+QUILLACOLLO,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+RURRENABAQUE,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,3,3
+SACABA,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+SAIPINA,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAN BORJA,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,2,3
+SAN IGNACIO,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SAN JULIAN,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN LORENZO(PND),sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,1,0,0,4,2,11,5,11,3,1,5,9,9,5,4,1,3,1,3,43,35,78
+TARIJA,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TIPUANI,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+TRINIDAD,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,2,1,2,1,0,0,1,1,0,2,0,0,0,0,5,5,10
+VILLA MONTES,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+VILLA TUNARI,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,2,1,0,1,1,0,0,0,1,2,0,1,0,1,0,0,4,6,10
+WARNES,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,3,4
+YACUIBA,sospecha diagnostica,dengue con signos de alarma,2022-04-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2,0,0,0,0,0,3,1,4
+AUCAPATA,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0,0,0,2,2,4
+BUENA VISTA,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,2
+CAMIRI,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+CHIMORE,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+COBIJA,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,1,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,2,6,8
+COCHABAMBA,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+CONCEPCION,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+COTOCA,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,2,1,3
+EL TORNO,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+ENTRE RIOS CBBA,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,1,0,0,1,0,2,0,1,1,1,0,1,0,6,2,8
+HUACARETA,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,2,0,1,1,2,1,0,4,0,0,0,0,0,0,5,6,11
+HUACAYA (VILLA DE HUACAYA),sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+IXIAMAS,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA ASUNTA,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+LA GUARDIA,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+LA PAZ,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+MAPIRI,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,1,0,0,2,1,0,0,2,0,0,0,0,0,0,2,4,6
+MONTEAGUDO,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,1,0,1,0,0,3,2,0,0,0,1,0,1,3,6,9
+ORURO,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+PALOS BLANCOS,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,3,1,4
+PAMPA GRANDE,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,2,1,3
+PUERTO GONZALO MORENO,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PUERTO VILLARROEL,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,4,1,5
+RURRENABAQUE,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,1,0,0,0,1,1,5,6
+SACABA,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN CARLOS,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SAN PEDRO(PND),sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,4,2,7,7,13,6,3,6,7,10,2,4,0,4,1,3,37,42,79
+SHINAOTA,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+TARIJA,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TIPUANI,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,2,1,3
+TRINIDAD,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,1,1,5,5,3,2,0,1,0,1,2,1,0,4,1,0,12,15,27
+VILLA TUNARI,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,1,2,2,4
+YACUIBA,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+YAPACANI,sospecha diagnostica,dengue con signos de alarma,2022-05-01,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,4,0,4
+CARANAVI,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+COBIJA,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,1,0,0,1,0,2,0,0,0,0,0,2,0,0,1,1,2,6,8
+COCHABAMBA,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,2,1,3
+CONCEPCION,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL TORNO,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+ENTRE RIOS CBBA,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+LA ASUNTA,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+LA PAZ,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+MAGDALENA,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1,0,0,1,0,2,3,5
+MAPIRI,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2
+MONTERO,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+NUEVO MANOA (NUEVA ESPERANZA),sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+PALOS BLANCOS,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,4,4
+PAMPA GRANDE,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+PUERTO SUAREZ,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO VILLARROEL,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+RIBERALTA,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+SACABA,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN BORJA,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN RAFAEL,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,1,0,0,3,1,7,3,7,2,2,3,5,6,2,5,4,4,4,4,34,29,63
+TIPUANI,sospecha diagnostica,dengue con signos de alarma,2022-06-01,1,0,0,0,0,0,2,1,1,2,0,1,2,3,1,0,0,0,0,0,7,7,14
+TRINIDAD,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,3,1,4
+VILLA MONTES,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA TUNARI,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,2,3
+WARNES,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+YACUIBA,sospecha diagnostica,dengue con signos de alarma,2022-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CABEZAS,sospecha diagnostica,dengue con signos de alarma,2022-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CARANAVI,sospecha diagnostica,dengue con signos de alarma,2022-07-01,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,2,1,3
+COBIJA,sospecha diagnostica,dengue con signos de alarma,2022-07-01,0,0,0,0,0,0,1,0,1,0,1,1,2,1,1,0,0,0,1,1,7,3,10
+COCHABAMBA,sospecha diagnostica,dengue con signos de alarma,2022-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+COTOCA,sospecha diagnostica,dengue con signos de alarma,2022-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+EL TORNO,sospecha diagnostica,dengue con signos de alarma,2022-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,1,1,2,5,7
+ENTRE RIOS CBBA,sospecha diagnostica,dengue con signos de alarma,2022-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA ASUNTA,sospecha diagnostica,dengue con signos de alarma,2022-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+LA PAZ,sospecha diagnostica,dengue con signos de alarma,2022-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MAPIRI,sospecha diagnostica,dengue con signos de alarma,2022-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,dengue con signos de alarma,2022-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+PUERTO GONZALO MORENO,sospecha diagnostica,dengue con signos de alarma,2022-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO VILLARROEL,sospecha diagnostica,dengue con signos de alarma,2022-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+RIBERALTA,sospecha diagnostica,dengue con signos de alarma,2022-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+RURRENABAQUE,sospecha diagnostica,dengue con signos de alarma,2022-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN BORJA,sospecha diagnostica,dengue con signos de alarma,2022-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue con signos de alarma,2022-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue con signos de alarma,2022-07-01,0,0,0,0,1,0,1,2,0,1,0,2,3,4,1,3,0,0,1,2,7,14,21
+TARIJA,sospecha diagnostica,dengue con signos de alarma,2022-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+TIPUANI,sospecha diagnostica,dengue con signos de alarma,2022-07-01,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,2,1,3
+VILLA TUNARI,sospecha diagnostica,dengue con signos de alarma,2022-07-01,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,3
+WARNES,sospecha diagnostica,dengue con signos de alarma,2022-07-01,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,2,3
+CAMIRI,sospecha diagnostica,dengue con signos de alarma,2022-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CARANAVI,sospecha diagnostica,dengue con signos de alarma,2022-08-01,0,0,0,0,0,0,0,0,0,0,2,0,4,2,0,0,0,1,0,0,6,3,9
+COBIJA,sospecha diagnostica,dengue con signos de alarma,2022-08-01,0,0,0,0,1,2,0,4,0,0,3,0,1,0,0,0,0,0,0,0,5,6,11
+COTOCA,sospecha diagnostica,dengue con signos de alarma,2022-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,3,1,4
+GUAYARAMERIN,sospecha diagnostica,dengue con signos de alarma,2022-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA ASUNTA,sospecha diagnostica,dengue con signos de alarma,2022-08-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+MACHARETI,sospecha diagnostica,dengue con signos de alarma,2022-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MAGDALENA,sospecha diagnostica,dengue con signos de alarma,2022-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+MAPIRI,sospecha diagnostica,dengue con signos de alarma,2022-08-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+MONTERO,sospecha diagnostica,dengue con signos de alarma,2022-08-01,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+ROBORE,sospecha diagnostica,dengue con signos de alarma,2022-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO,sospecha diagnostica,dengue con signos de alarma,2022-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue con signos de alarma,2022-08-01,0,0,0,0,0,0,2,0,2,0,0,2,4,7,3,1,0,1,1,0,12,11,23
+TRINIDAD,sospecha diagnostica,dengue con signos de alarma,2022-08-01,0,0,0,0,0,1,2,2,1,1,0,0,0,0,0,0,0,0,0,0,3,4,7
+VILLA TUNARI,sospecha diagnostica,dengue con signos de alarma,2022-08-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+WARNES,sospecha diagnostica,dengue con signos de alarma,2022-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CARANAVI,sospecha diagnostica,dengue con signos de alarma,2022-09-01,0,0,1,0,0,0,0,1,0,0,3,1,3,2,0,0,0,1,0,0,7,5,12
+CHULUMANI (V. DE LA LIBERTAD),sospecha diagnostica,dengue con signos de alarma,2022-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COBIJA,sospecha diagnostica,dengue con signos de alarma,2022-09-01,0,0,0,0,0,3,0,0,0,0,1,1,1,0,0,0,0,0,0,0,2,4,6
+COCHABAMBA,sospecha diagnostica,dengue con signos de alarma,2022-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+COTOCA,sospecha diagnostica,dengue con signos de alarma,2022-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL TORNO,sospecha diagnostica,dengue con signos de alarma,2022-09-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,1,1,4,5
+LA PAZ,sospecha diagnostica,dengue con signos de alarma,2022-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MONTERO,sospecha diagnostica,dengue con signos de alarma,2022-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+QUILLACOLLO,sospecha diagnostica,dengue con signos de alarma,2022-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN BORJA,sospecha diagnostica,dengue con signos de alarma,2022-09-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,1,3,4
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue con signos de alarma,2022-09-01,0,0,0,2,0,1,4,2,4,2,0,0,0,5,0,0,0,0,1,0,9,12,21
+TEOPONTE,sospecha diagnostica,dengue con signos de alarma,2022-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+TRINIDAD,sospecha diagnostica,dengue con signos de alarma,2022-09-01,0,0,0,0,3,0,2,2,1,0,0,0,1,0,0,0,0,0,0,0,7,2,9
+WARNES,sospecha diagnostica,dengue con signos de alarma,2022-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+YACUIBA,sospecha diagnostica,dengue con signos de alarma,2022-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+ASCENCION DE GUARAYOS,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,1,1,0,1,1,3,1,0,0,2,1,1,1,3,0,0,0,0,5,11,16
+CARANAVI,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,2,1,2,3,5,8
+CHIMORE,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+COBIJA,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,0,0,1,1,3,1,1,0,0,0,0,1,0,0,0,0,0,0,5,3,8
+COROICO,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COTOCA,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL ALTO,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+EL TORNO,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GUANAY,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA GUARDIA,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+MAGDALENA,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+MAPIRI,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+MONTEAGUDO,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,0,0,1,0,1,2,3,3,0,0,0,0,0,0,0,0,0,0,5,5,10
+PALOS BLANCOS,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,0,0,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,2,2,4
+ROBORE,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN ANDRES,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+SAN BORJA,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN CARLOS,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN JAVIER(BNI),sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SANTA ANA,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,1,0,2,0,1,2,3,6,5,0,1,3,4,1,0,0,0,1,0,13,17,30
+TEOPONTE,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,1,3
+TRINIDAD,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,0,0,0,1,1,2,1,0,0,0,0,0,0,0,0,0,1,0,3,3,6
+URUBICHA,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,2,2,4
+VILLA TUNARI,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+YACUIBA,sospecha diagnostica,dengue con signos de alarma,2022-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+ASCENCION DE GUARAYOS,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,7,1,2,0,0,2,1,0,5,0,1,0,1,0,1,0,0,0,18,3,21
+CAMIRI,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+CARANAVI,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,1,0,1,1,1,2,1,0,3,4,1,1,0,0,0,1,8,9,17
+CHIMORE,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHULUMANI (V. DE LA LIBERTAD),sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+COBIJA,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,0,1,3,0,0,0,1,1,0,0,0,0,0,0,1,2,5,7
+COCHABAMBA,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,2,1,3
+COTOCA,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+CUATRO CAÑADAS,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,1,2,1,0,2,0,1,0,0,2,0,0,0,0,0,0,1,4,6,10
+EL TORNO,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,4,1,0,1,0,1,0,1,0,0,0,1,0,1,1,6,5,11
+GUANAY,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+GUAYARAMERIN,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+HUACARETA,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+LA GUARDIA,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MAGDALENA,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,1,0,1,0,0,0,0,0,0,3,0,0,0,1,0,0,2,4,6
+MAPIRI,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+MONTEAGUDO,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,1,3,2,0,2,0,0,1,1,0,0,0,2,0,0,4,8,12
+MONTERO,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,3
+PALOS BLANCOS,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,3,1,4
+PUERTO VILLARROEL,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+SACABA,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN ANDRES,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0,3,3,6
+SAN BORJA,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,2,2,4
+SAN BUENA VENTURA,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+SAN IGNACIO,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN JOAQUIN,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+SAN JUAN DE YAPACANI,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN RAMON BENI,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+SANTA ANA,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,1,1,0,0,0,0,0,0,3,0,0,0,0,0,0,1,4,5
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue con signos de alarma,2022-11-01,1,0,2,2,7,6,12,8,4,2,7,3,5,10,1,1,2,2,2,4,43,38,81
+TARIJA,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+TEOPONTE,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,0,1,0,0,0,1,0,0,2,0,0,0,0,0,0,2,2,4
+TIPUANI,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,2,2,7,11,7,6,2,1,1,0,1,1,2,0,0,0,22,21,43
+URUBICHA,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,1,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0,3,3,6
+VILLA TUNARI,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+YACUIBA,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,3,0,3
+YAPACANI,sospecha diagnostica,dengue con signos de alarma,2022-11-01,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,2,1,3
+ASCENCION DE GUARAYOS,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,0,0,3,4,0,0,3,1,0,0,0,0,0,2,6,7,13
+BAURES,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+CABEZAS,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,1,0,0,1,0,1,0,2,1,0,0,0,0,0,1,4,3,7
+CAMIRI,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2
+CARANAVI,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,1,1,1,1,1,1,2,1,3,0,0,0,0,0,0,4,8,12
+COBIJA,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,1,0,1,3,0,1,1,0,1,3,0,1,0,0,0,1,4,9,13
+COCHABAMBA,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+COLCAPIRHUA,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+COTOCA,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,1,2,0,1,0,1,2,1,0,0,0,0,0,0,3,5,8
+CUATRO CAÑADAS,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,2,0,4,3,3,1,0,3,1,10,1,5,4,1,0,1,15,24,39
+EL TORNO,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,1,1,1,2,0,4,1,1,0,0,2,0,0,0,0,8,5,13
+ENTRE RIOS CBBA,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,2,1,3
+EXALTACION,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+FERNANDEZ ALONSO,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GUANAY,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+LA GUARDIA,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+LA PAZ,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+LORETO,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,0,0,0,0,0,1,4,3,0,0,0,0,2,0,6,4,10
+MACHARETI,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,2,3
+MAPIRI,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3,3
+MONTEAGUDO,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,1,1,1,0,4,1,1,0,0,1,1,0,0,0,0,2,1,5,9,14
+MONTERO,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,1,0,0,1,0,3,1,1,0,1,1,3,1,1,2,0,1,0,7,10,17
+PADILLA,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PALOS BLANCOS,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+PUERTO VILLARROEL,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+ROBORE,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,3,0,0,2,0,2,1,1,0,1,1,0,0,0,0,0,5,6,11
+SACABA,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAN ANDRES,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,3,1,1,1,2,1,0,2,5,0,1,0,0,1,0,6,12,18
+SAN BORJA,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+SAN BUENA VENTURA,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+SAN IGNACIO,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,1,3,4
+SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN JOAQUIN,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,0,0,0,1,1,0,1,4,0,0,0,0,0,0,2,5,7
+SAN JUAN DE YAPACANI,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,3,1,4
+SAN JULIAN,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA ANA,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,0,2,0,0,0,0,0,3,0,0,0,0,0,2,0,7,7
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,1,2,3,11,11,37,25,25,20,8,13,30,39,8,8,6,6,8,9,135,135,270
+TIPUANI,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,dengue con signos de alarma,2022-12-01,2,1,5,1,22,21,25,43,17,8,2,1,4,8,5,1,5,1,1,3,88,88,176
+VALLEGRANDE,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+VILLA TUNARI,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+WARNES,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+YAPACANI,sospecha diagnostica,dengue con signos de alarma,2022-12-01,0,0,0,0,2,1,2,3,0,0,0,0,0,0,0,0,0,0,0,0,4,4,8

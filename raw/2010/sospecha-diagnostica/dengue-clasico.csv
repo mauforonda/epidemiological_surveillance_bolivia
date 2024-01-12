@@ -1,0 +1,440 @@
+municipality,group,variable,month,< de 1 año,1 a 4 años,5 a 9 años,10 a 20 años,21 a 59 años,60 y más,TOTAL
+BERMEJO,sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,9,19,0,28
+CAMIRI,sospecha diagnostica,dengue clasico,2010-01-01,1,1,1,0,4,1,8
+CARANAVI,sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,0,1,0,1
+COBIJA,sospecha diagnostica,dengue clasico,2010-01-01,3,8,14,28,55,3,111
+COCHABAMBA,sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,1,0,0,1
+COTOCA,sospecha diagnostica,dengue clasico,2010-01-01,1,0,1,4,1,0,7
+EL PUENTE(STC),sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,0,1,0,1
+EL TORNO,sospecha diagnostica,dengue clasico,2010-01-01,0,1,3,7,4,0,15
+ENTRE RIOS CBBA,sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,0,1,0,1
+GUAYARAMERIN,sospecha diagnostica,dengue clasico,2010-01-01,0,4,3,29,69,0,105
+LA GUARDIA,sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,1,4,0,5
+LA PAZ,sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,3,2,0,5
+LAGUNILLAS,sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,0,1,1,2
+MONTEAGUDO,sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,0,1,0,1
+MONTERO,sospecha diagnostica,dengue clasico,2010-01-01,0,2,0,2,4,1,9
+OKINAWA,sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,0,1,0,1
+PAILON,sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,3,2,0,5
+PALOS BLANCOS,sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,1,3,1,5
+PORONGO,sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,2,0,0,2
+PORVENIR,sospecha diagnostica,dengue clasico,2010-01-01,1,1,0,2,1,0,5
+PUERTO SUAREZ,sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,1,1,0,2
+RIBERALTA,sospecha diagnostica,dengue clasico,2010-01-01,0,0,1,3,5,0,9
+RURRENABAQUE,sospecha diagnostica,dengue clasico,2010-01-01,0,0,1,0,1,1,3
+SAN BORJA,sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,1,3,0,4
+SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,0,5,0,5
+SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue clasico,2010-01-01,0,0,1,0,0,0,1
+SAN JUAN DE YAPACANI,sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,0,1,0,1
+SAN JULIAN,sospecha diagnostica,dengue clasico,2010-01-01,0,1,1,0,1,0,3
+SAN PEDRO,sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,1,0,0,1
+SAN RAFAEL,sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,0,2,0,2
+SANTA ANA,sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,0,2,0,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue clasico,2010-01-01,3,11,11,50,84,9,168
+SHINAOTA,sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,2,1,0,3
+TRINIDAD,sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,1,4,0,5
+URUBICHA,sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,1,1,0,2
+VALLEGRANDE,sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,2,1,0,3
+VILLA MONTES,sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,0,1,0,1
+VILLA TUNARI,sospecha diagnostica,dengue clasico,2010-01-01,0,0,1,5,12,1,19
+WARNES,sospecha diagnostica,dengue clasico,2010-01-01,0,0,0,0,3,1,4
+YACUIBA,sospecha diagnostica,dengue clasico,2010-01-01,0,0,1,0,3,0,4
+ALTO BENI,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,0,4,0,4
+BERMEJO,sospecha diagnostica,dengue clasico,2010-02-01,0,1,1,24,115,8,149
+BOLPEBRA,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,1,1,0,2
+BUENA VISTA,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,1,0,0,1
+CAMIRI,sospecha diagnostica,dengue clasico,2010-02-01,0,0,2,6,2,2,12
+CHIMORE,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,1,0,0,1
+COBIJA,sospecha diagnostica,dengue clasico,2010-02-01,2,2,5,13,30,0,52
+COCHABAMBA,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,1,5,0,6
+COLOMI,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,0,1,0,1
+COTOCA,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,6,1,1,8
+CUATRO CAÑADAS,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,2,2,0,4
+EL ALTO,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,1,1,0,2
+EL TORNO,sospecha diagnostica,dengue clasico,2010-02-01,0,1,2,7,4,0,14
+ENTRE RIOS CBBA,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,1,0,0,1
+GENERAL SAAVEDRA,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,0,1,0,1
+GUANAY,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,2,0,0,2
+GUAYARAMERIN,sospecha diagnostica,dengue clasico,2010-02-01,3,11,19,50,151,18,252
+GUTIERREZ,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,0,1,0,1
+LA GUARDIA,sospecha diagnostica,dengue clasico,2010-02-01,0,0,1,2,3,0,6
+LA PAZ,sospecha diagnostica,dengue clasico,2010-02-01,0,1,0,1,3,0,5
+MINEROS,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,1,0,0,1
+MONTERO,sospecha diagnostica,dengue clasico,2010-02-01,1,3,3,3,4,0,14
+NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,0,1,0,1
+OKINAWA,sospecha diagnostica,dengue clasico,2010-02-01,1,0,0,0,0,0,1
+PAILON,sospecha diagnostica,dengue clasico,2010-02-01,0,1,0,2,6,0,9
+PALOS BLANCOS,sospecha diagnostica,dengue clasico,2010-02-01,0,0,1,14,7,0,22
+PAMPA GRANDE,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,1,0,0,1
+PORONGO,sospecha diagnostica,dengue clasico,2010-02-01,0,1,4,10,5,2,22
+PORTACHUELO,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,1,1,0,2
+PUERTO SUAREZ,sospecha diagnostica,dengue clasico,2010-02-01,2,2,3,11,16,4,38
+PUERTO VILLARROEL,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,1,2,0,3
+QUIRUSILLAS,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,0,1,0,1
+REYES,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,3,1,0,4
+RIBERALTA,sospecha diagnostica,dengue clasico,2010-02-01,1,2,5,9,22,3,42
+RURRENABAQUE,sospecha diagnostica,dengue clasico,2010-02-01,3,12,7,8,0,3,33
+SACABA,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,1,0,0,1
+SAN ANTONIO DE LOMERIO,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,0,1,0,1
+SAN BUENA VENTURA,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,0,2,0,2
+SAN IGNACIO,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue clasico,2010-02-01,0,3,6,9,12,2,32
+SAN JAVIER(STC),sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,1,0,0,1
+SAN JUAN DE YAPACANI,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,2,0,0,2
+SAN JULIAN,sospecha diagnostica,dengue clasico,2010-02-01,3,2,1,3,4,0,13
+SAN MATIAS,sospecha diagnostica,dengue clasico,2010-02-01,3,13,10,26,34,0,86
+SAN PEDRO,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue clasico,2010-02-01,12,45,101,231,287,23,699
+SENA,sospecha diagnostica,dengue clasico,2010-02-01,0,1,0,0,2,0,3
+SHINAOTA,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,2,0,0,2
+TARIJA,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,0,2,0,2
+TEOPONTE,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,2,0,0,2
+TRINIDAD,sospecha diagnostica,dengue clasico,2010-02-01,0,0,2,4,5,0,11
+URUBICHA,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,0,3,0,3
+VALLEGRANDE,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,1,0,0,1
+VILLA MONTES,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,1,0,0,1
+VILLA TUNARI,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,2,7,0,9
+WARNES,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,2,0,0,2
+YACUIBA,sospecha diagnostica,dengue clasico,2010-02-01,0,0,1,1,8,4,14
+YAPACANI,sospecha diagnostica,dengue clasico,2010-02-01,0,0,0,0,3,0,3
+ALTO BENI,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,0,1,0,1
+BERMEJO,sospecha diagnostica,dengue clasico,2010-03-01,0,1,2,6,35,5,49
+BOLPEBRA,sospecha diagnostica,dengue clasico,2010-03-01,0,2,0,0,0,0,2
+BOYUIBE,sospecha diagnostica,dengue clasico,2010-03-01,0,0,2,1,1,0,4
+BUENA VISTA,sospecha diagnostica,dengue clasico,2010-03-01,0,0,1,1,4,1,7
+CABEZAS,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,0,1,0,1
+CAMIRI,sospecha diagnostica,dengue clasico,2010-03-01,0,16,37,24,19,3,99
+CARANAVI,sospecha diagnostica,dengue clasico,2010-03-01,1,0,3,9,23,2,38
+CARAPARI,sospecha diagnostica,dengue clasico,2010-03-01,0,1,0,0,0,0,1
+CHARAGUA,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,0,1,0,1
+COBIJA,sospecha diagnostica,dengue clasico,2010-03-01,3,3,2,13,29,4,54
+COCHABAMBA,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,1,5,0,6
+COLPA BELGICA,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,0,1,0,1
+COMARAPA,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,0,2,1,3
+CONCEPCION,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,1,0,0,1
+COROICO,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,0,1,0,1
+COTOCA,sospecha diagnostica,dengue clasico,2010-03-01,0,2,4,6,9,1,22
+CUATRO CAÑADAS,sospecha diagnostica,dengue clasico,2010-03-01,0,0,1,1,1,0,3
+EL ALTO,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,1,0,1,2
+EL TORNO,sospecha diagnostica,dengue clasico,2010-03-01,4,4,5,7,20,1,41
+ENTRE RIOS CBBA,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,0,1,0,1
+FERNANDEZ ALONSO,sospecha diagnostica,dengue clasico,2010-03-01,0,0,2,1,2,0,5
+FILADELFIA,sospecha diagnostica,dengue clasico,2010-03-01,0,0,1,0,0,0,1
+GENERAL SAAVEDRA,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,0,2,0,2
+GUANAY,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,0,2,0,2
+GUAYARAMERIN,sospecha diagnostica,dengue clasico,2010-03-01,2,10,10,35,48,14,119
+LA GUARDIA,sospecha diagnostica,dengue clasico,2010-03-01,2,6,4,18,9,1,40
+LA PAZ,sospecha diagnostica,dengue clasico,2010-03-01,0,2,0,6,5,2,15
+MAIRANA,sospecha diagnostica,dengue clasico,2010-03-01,0,1,0,0,2,0,3
+MAPIRI,sospecha diagnostica,dengue clasico,2010-03-01,3,10,3,22,64,3,105
+MONTERO,sospecha diagnostica,dengue clasico,2010-03-01,0,6,7,14,12,1,40
+NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,0,3,0,3
+OKINAWA,sospecha diagnostica,dengue clasico,2010-03-01,0,0,1,0,0,0,1
+PAILON,sospecha diagnostica,dengue clasico,2010-03-01,0,1,3,4,3,0,11
+PALOS BLANCOS,sospecha diagnostica,dengue clasico,2010-03-01,0,1,0,8,11,0,20
+PAMPA GRANDE,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,1,0,0,1
+PORONGO,sospecha diagnostica,dengue clasico,2010-03-01,0,3,5,18,10,0,36
+PORTACHUELO,sospecha diagnostica,dengue clasico,2010-03-01,0,0,1,4,3,0,8
+PUERTO QUIJARRO,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,3,0,0,3
+PUERTO RICO,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,1,0,0,1
+PUERTO SILES,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,0,2,0,2
+PUERTO SUAREZ,sospecha diagnostica,dengue clasico,2010-03-01,1,2,3,4,5,1,16
+PUNA,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,0,1,0,1
+QUIRUSILLAS,sospecha diagnostica,dengue clasico,2010-03-01,0,0,1,1,0,0,2
+REYES,sospecha diagnostica,dengue clasico,2010-03-01,1,0,4,4,6,0,15
+RIBERALTA,sospecha diagnostica,dengue clasico,2010-03-01,0,2,1,20,32,5,60
+ROBORE,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,1,6,0,7
+RURRENABAQUE,sospecha diagnostica,dengue clasico,2010-03-01,0,0,5,6,7,3,21
+SACABA,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,1,3,0,4
+SAMAIPATA,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,0,1,0,1
+SAN ANTONIO DE LOMERIO,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,0,2,1,3
+SAN BUENA VENTURA,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,4,1,0,5
+SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue clasico,2010-03-01,6,10,11,32,45,9,113
+SAN JAVIER(STC),sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,3,2,0,5
+SAN JUAN DE YAPACANI,sospecha diagnostica,dengue clasico,2010-03-01,0,0,3,2,2,0,7
+SAN JULIAN,sospecha diagnostica,dengue clasico,2010-03-01,0,1,1,0,1,0,3
+SAN MATIAS,sospecha diagnostica,dengue clasico,2010-03-01,1,7,6,17,13,1,45
+SAN MIGUEL DE VELASCO,sospecha diagnostica,dengue clasico,2010-03-01,0,0,1,0,2,0,3
+SAN PEDRO,sospecha diagnostica,dengue clasico,2010-03-01,0,1,3,0,4,1,9
+SAN RAFAEL,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,0,3,0,3
+SAN RAMON BENI,sospecha diagnostica,dengue clasico,2010-03-01,0,1,0,0,1,0,2
+SAN RAMON SCZ,sospecha diagnostica,dengue clasico,2010-03-01,1,1,0,0,5,2,9
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue clasico,2010-03-01,23,137,257,521,675,76,1689
+SANTA ROSA DEL SARA,sospecha diagnostica,dengue clasico,2010-03-01,0,0,1,7,7,0,15
+SUCRE,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,0,1,0,1
+TEOPONTE,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,0,5,0,5
+TIPUANI,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,3,1,0,4
+TRIGAL,sospecha diagnostica,dengue clasico,2010-03-01,0,0,1,0,0,0,1
+TRINIDAD,sospecha diagnostica,dengue clasico,2010-03-01,1,2,5,7,11,0,26
+TUPIZA,sospecha diagnostica,dengue clasico,2010-03-01,0,0,0,1,0,0,1
+VALLEGRANDE,sospecha diagnostica,dengue clasico,2010-03-01,0,0,1,4,0,1,6
+VILLA MONTES,sospecha diagnostica,dengue clasico,2010-03-01,0,0,3,4,6,0,13
+VILLA TUNARI,sospecha diagnostica,dengue clasico,2010-03-01,0,1,1,2,1,0,5
+WARNES,sospecha diagnostica,dengue clasico,2010-03-01,0,0,2,9,7,2,20
+YACUIBA,sospecha diagnostica,dengue clasico,2010-03-01,0,3,9,22,59,7,100
+YAPACANI,sospecha diagnostica,dengue clasico,2010-03-01,1,1,0,1,1,0,4
+BERMEJO,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,1,4,1,6
+CAMIRI,sospecha diagnostica,dengue clasico,2010-04-01,0,5,4,3,8,0,20
+CARANAVI,sospecha diagnostica,dengue clasico,2010-04-01,1,1,4,15,30,1,52
+CARAPARI,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,0,2,0,2
+CHARAGUA,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,0,1,0,1
+COBIJA,sospecha diagnostica,dengue clasico,2010-04-01,1,1,1,9,18,5,35
+COCHABAMBA,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,1,4,1,6
+COTOCA,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,0,1,0,1
+CUATRO CAÑADAS,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,0,1,0,1
+EL ALTO,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,2,0,0,2
+EL TORNO,sospecha diagnostica,dengue clasico,2010-04-01,0,1,1,4,7,1,14
+FERNANDEZ ALONSO,sospecha diagnostica,dengue clasico,2010-04-01,0,1,0,0,0,0,1
+FILADELFIA,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,0,1,0,1
+GUANAY,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,0,1,0,1
+GUAYARAMERIN,sospecha diagnostica,dengue clasico,2010-04-01,3,5,2,22,33,3,68
+LA GUARDIA,sospecha diagnostica,dengue clasico,2010-04-01,0,1,2,2,3,0,8
+LA PAZ,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,5,11,0,16
+MAPIRI,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,9,34,2,45
+MONTERO,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,0,4,2,6
+OKINAWA,sospecha diagnostica,dengue clasico,2010-04-01,0,0,1,1,1,1,4
+PAILON,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,1,3,0,4
+PALOS BLANCOS,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,2,3,0,5
+PORONGO,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,0,2,0,2
+PUERTO RICO,sospecha diagnostica,dengue clasico,2010-04-01,0,0,1,0,2,0,3
+PUERTO SILES,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,1,2,0,3
+PUERTO SUAREZ,sospecha diagnostica,dengue clasico,2010-04-01,0,1,1,2,2,1,7
+PUERTO VILLARROEL,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,0,1,0,1
+QUIRUSILLAS,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,1,0,0,1
+REYES,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,2,0,0,2
+RIBERALTA,sospecha diagnostica,dengue clasico,2010-04-01,0,1,5,12,16,1,35
+ROBORE,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,2,2,0,4
+RURRENABAQUE,sospecha diagnostica,dengue clasico,2010-04-01,2,0,1,3,8,8,22
+SAMAIPATA,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,0,1,0,1
+SAN ANDRES,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,0,1,0,1
+SAN ANTONIO DE LOMERIO,sospecha diagnostica,dengue clasico,2010-04-01,0,2,1,0,0,0,3
+SAN BUENA VENTURA,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,1,2,0,3
+SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue clasico,2010-04-01,1,9,17,42,62,7,138
+SAN JAVIER(BNI),sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,1,0,0,1
+SAN JAVIER(STC),sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,0,2,0,2
+SAN JUAN DE YAPACANI,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,0,1,0,1
+SAN JULIAN,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,1,4,0,5
+SAN LORENZO(PND),sospecha diagnostica,dengue clasico,2010-04-01,0,0,1,0,3,1,5
+SAN MATIAS,sospecha diagnostica,dengue clasico,2010-04-01,2,1,2,7,7,0,19
+SAN PEDRO,sospecha diagnostica,dengue clasico,2010-04-01,0,0,1,1,0,0,2
+SAN RAFAEL,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,0,1,0,1
+SAN RAMON SCZ,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue clasico,2010-04-01,5,27,31,88,202,22,375
+TRINIDAD,sospecha diagnostica,dengue clasico,2010-04-01,1,6,8,34,89,14,152
+URUBICHA,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,1,1,0,2
+VALLEGRANDE,sospecha diagnostica,dengue clasico,2010-04-01,0,0,2,0,1,0,3
+VILLA TUNARI,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,2,2,0,4
+WARNES,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,1,0,0,1
+YACUIBA,sospecha diagnostica,dengue clasico,2010-04-01,0,2,0,22,57,2,83
+YAPACANI,sospecha diagnostica,dengue clasico,2010-04-01,0,0,0,0,4,0,4
+BERMEJO,sospecha diagnostica,dengue clasico,2010-05-01,0,0,0,0,2,0,2
+BOLPEBRA,sospecha diagnostica,dengue clasico,2010-05-01,0,0,0,0,1,0,1
+CAMIRI,sospecha diagnostica,dengue clasico,2010-05-01,0,0,0,1,3,0,4
+CARANAVI,sospecha diagnostica,dengue clasico,2010-05-01,0,0,1,5,16,2,24
+COBIJA,sospecha diagnostica,dengue clasico,2010-05-01,0,2,3,4,10,1,20
+COCHABAMBA,sospecha diagnostica,dengue clasico,2010-05-01,0,0,0,0,1,0,1
+EL ALTO,sospecha diagnostica,dengue clasico,2010-05-01,0,0,0,0,1,0,1
+EL TORNO,sospecha diagnostica,dengue clasico,2010-05-01,0,0,1,2,4,0,7
+GUAYARAMERIN,sospecha diagnostica,dengue clasico,2010-05-01,0,0,1,7,11,3,22
+LA GUARDIA,sospecha diagnostica,dengue clasico,2010-05-01,0,0,1,0,1,0,2
+MAPIRI,sospecha diagnostica,dengue clasico,2010-05-01,0,0,0,2,1,0,3
+PALOS BLANCOS,sospecha diagnostica,dengue clasico,2010-05-01,0,0,0,1,1,0,2
+PORONGO,sospecha diagnostica,dengue clasico,2010-05-01,0,0,0,0,2,0,2
+PORTACHUELO,sospecha diagnostica,dengue clasico,2010-05-01,0,0,0,0,1,0,1
+PUERTO SILES,sospecha diagnostica,dengue clasico,2010-05-01,0,0,1,0,1,0,2
+RIBERALTA,sospecha diagnostica,dengue clasico,2010-05-01,0,1,2,5,9,1,18
+ROBORE,sospecha diagnostica,dengue clasico,2010-05-01,0,0,0,0,1,0,1
+RURRENABAQUE,sospecha diagnostica,dengue clasico,2010-05-01,0,0,0,0,4,4,8
+SAN BUENA VENTURA,sospecha diagnostica,dengue clasico,2010-05-01,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue clasico,2010-05-01,0,6,6,25,26,3,66
+SAN JAVIER(STC),sospecha diagnostica,dengue clasico,2010-05-01,0,0,0,0,1,0,1
+SAN JUAN DE YAPACANI,sospecha diagnostica,dengue clasico,2010-05-01,0,0,0,0,1,0,1
+SAN JULIAN,sospecha diagnostica,dengue clasico,2010-05-01,0,0,0,0,1,0,1
+SAN RAFAEL,sospecha diagnostica,dengue clasico,2010-05-01,0,0,2,1,6,0,9
+SAN RAMON SCZ,sospecha diagnostica,dengue clasico,2010-05-01,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue clasico,2010-05-01,9,9,9,29,55,7,118
+SANTA ROSA DEL SARA,sospecha diagnostica,dengue clasico,2010-05-01,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,dengue clasico,2010-05-01,1,0,8,20,73,17,119
+YACUIBA,sospecha diagnostica,dengue clasico,2010-05-01,0,1,3,2,13,0,19
+BERMEJO,sospecha diagnostica,dengue clasico,2010-06-01,0,1,0,0,0,0,1
+CAMIRI,sospecha diagnostica,dengue clasico,2010-06-01,0,0,0,0,1,0,1
+CARANAVI,sospecha diagnostica,dengue clasico,2010-06-01,0,0,0,5,2,3,10
+COBIJA,sospecha diagnostica,dengue clasico,2010-06-01,2,0,1,0,7,0,10
+EL TORNO,sospecha diagnostica,dengue clasico,2010-06-01,0,0,0,1,2,0,3
+GUAYARAMERIN,sospecha diagnostica,dengue clasico,2010-06-01,0,0,0,11,12,0,23
+LA GUARDIA,sospecha diagnostica,dengue clasico,2010-06-01,0,0,0,0,1,0,1
+LA PAZ,sospecha diagnostica,dengue clasico,2010-06-01,0,0,0,4,3,0,7
+MONTERO,sospecha diagnostica,dengue clasico,2010-06-01,0,0,0,1,3,0,4
+PAILON,sospecha diagnostica,dengue clasico,2010-06-01,0,0,0,1,2,0,3
+PALOS BLANCOS,sospecha diagnostica,dengue clasico,2010-06-01,0,0,0,0,4,0,4
+RIBERALTA,sospecha diagnostica,dengue clasico,2010-06-01,0,0,1,1,0,0,2
+RURRENABAQUE,sospecha diagnostica,dengue clasico,2010-06-01,0,0,0,0,4,4,8
+SACABA,sospecha diagnostica,dengue clasico,2010-06-01,0,0,0,1,0,0,1
+SAN BUENA VENTURA,sospecha diagnostica,dengue clasico,2010-06-01,0,0,0,0,2,0,2
+SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue clasico,2010-06-01,1,3,5,9,12,2,32
+SAN JAVIER(STC),sospecha diagnostica,dengue clasico,2010-06-01,0,0,0,1,0,0,1
+SAN JOAQUIN,sospecha diagnostica,dengue clasico,2010-06-01,0,0,0,0,1,0,1
+SAN JULIAN,sospecha diagnostica,dengue clasico,2010-06-01,0,0,0,1,0,0,1
+SAN MIGUEL DE VELASCO,sospecha diagnostica,dengue clasico,2010-06-01,0,0,0,2,0,0,2
+SAN RAFAEL,sospecha diagnostica,dengue clasico,2010-06-01,0,0,1,0,0,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue clasico,2010-06-01,4,12,8,24,49,5,102
+TRIGAL,sospecha diagnostica,dengue clasico,2010-06-01,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,dengue clasico,2010-06-01,0,1,3,11,32,9,56
+VALLEGRANDE,sospecha diagnostica,dengue clasico,2010-06-01,0,0,0,0,1,0,1
+CARANAVI,sospecha diagnostica,dengue clasico,2010-07-01,0,0,0,0,1,0,1
+COBIJA,sospecha diagnostica,dengue clasico,2010-07-01,1,0,0,2,8,2,13
+COCHABAMBA,sospecha diagnostica,dengue clasico,2010-07-01,0,0,0,0,1,0,1
+GUAYARAMERIN,sospecha diagnostica,dengue clasico,2010-07-01,0,0,0,1,6,0,7
+LA GUARDIA,sospecha diagnostica,dengue clasico,2010-07-01,0,0,0,1,1,0,2
+MONTERO,sospecha diagnostica,dengue clasico,2010-07-01,0,0,0,1,1,0,2
+PALOS BLANCOS,sospecha diagnostica,dengue clasico,2010-07-01,0,0,0,1,2,0,3
+PORONGO,sospecha diagnostica,dengue clasico,2010-07-01,0,0,0,0,1,0,1
+PUERTO RICO,sospecha diagnostica,dengue clasico,2010-07-01,0,0,0,0,1,0,1
+PUERTO SUAREZ,sospecha diagnostica,dengue clasico,2010-07-01,0,0,0,0,2,0,2
+RIBERALTA,sospecha diagnostica,dengue clasico,2010-07-01,0,0,1,0,1,0,2
+RURRENABAQUE,sospecha diagnostica,dengue clasico,2010-07-01,0,0,0,0,2,0,2
+SACABA,sospecha diagnostica,dengue clasico,2010-07-01,0,0,0,0,1,0,1
+SAN BORJA,sospecha diagnostica,dengue clasico,2010-07-01,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue clasico,2010-07-01,0,0,0,0,2,0,2
+SAN JULIAN,sospecha diagnostica,dengue clasico,2010-07-01,0,0,0,1,3,0,4
+SAN RAFAEL,sospecha diagnostica,dengue clasico,2010-07-01,0,0,1,0,0,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue clasico,2010-07-01,5,11,6,19,40,5,86
+TRINIDAD,sospecha diagnostica,dengue clasico,2010-07-01,0,2,1,2,19,2,26
+CAMIRI,sospecha diagnostica,dengue clasico,2010-08-01,0,0,0,0,1,0,1
+COBIJA,sospecha diagnostica,dengue clasico,2010-08-01,0,0,0,1,3,0,4
+EL PUENTE(STC),sospecha diagnostica,dengue clasico,2010-08-01,0,0,0,0,1,0,1
+EL TORNO,sospecha diagnostica,dengue clasico,2010-08-01,0,0,0,1,1,0,2
+GUAYARAMERIN,sospecha diagnostica,dengue clasico,2010-08-01,0,0,0,0,4,0,4
+LA GUARDIA,sospecha diagnostica,dengue clasico,2010-08-01,0,0,0,1,0,0,1
+LA PAZ,sospecha diagnostica,dengue clasico,2010-08-01,0,0,0,0,1,0,1
+MONTERO,sospecha diagnostica,dengue clasico,2010-08-01,0,0,0,0,1,0,1
+PALOS BLANCOS,sospecha diagnostica,dengue clasico,2010-08-01,0,0,0,2,1,0,3
+PORTACHUELO,sospecha diagnostica,dengue clasico,2010-08-01,0,0,0,0,1,0,1
+PUERTO SUAREZ,sospecha diagnostica,dengue clasico,2010-08-01,0,1,0,0,0,0,1
+RURRENABAQUE,sospecha diagnostica,dengue clasico,2010-08-01,0,0,0,0,6,0,6
+SAN BORJA,sospecha diagnostica,dengue clasico,2010-08-01,0,0,0,0,1,0,1
+SAN BUENA VENTURA,sospecha diagnostica,dengue clasico,2010-08-01,0,0,1,0,1,0,2
+SAN RAFAEL,sospecha diagnostica,dengue clasico,2010-08-01,0,0,0,1,0,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue clasico,2010-08-01,3,16,14,19,51,6,109
+TRINIDAD,sospecha diagnostica,dengue clasico,2010-08-01,0,0,1,2,3,1,7
+CAMIRI,sospecha diagnostica,dengue clasico,2010-09-01,0,0,1,0,0,0,1
+CARAPARI,sospecha diagnostica,dengue clasico,2010-09-01,0,0,0,1,0,0,1
+COBIJA,sospecha diagnostica,dengue clasico,2010-09-01,0,0,0,1,1,0,2
+CONCEPCION,sospecha diagnostica,dengue clasico,2010-09-01,0,0,0,0,0,1,1
+COTOCA,sospecha diagnostica,dengue clasico,2010-09-01,0,0,0,1,0,0,1
+EL TORNO,sospecha diagnostica,dengue clasico,2010-09-01,0,0,3,1,1,0,5
+GENERAL SAAVEDRA,sospecha diagnostica,dengue clasico,2010-09-01,0,0,0,0,1,0,1
+LA GUARDIA,sospecha diagnostica,dengue clasico,2010-09-01,0,1,0,0,1,0,2
+MONTERO,sospecha diagnostica,dengue clasico,2010-09-01,0,0,0,0,1,0,1
+PALOS BLANCOS,sospecha diagnostica,dengue clasico,2010-09-01,0,0,0,0,0,1,1
+RIBERALTA,sospecha diagnostica,dengue clasico,2010-09-01,0,0,0,1,0,0,1
+RURRENABAQUE,sospecha diagnostica,dengue clasico,2010-09-01,0,0,0,2,2,1,5
+SACABA,sospecha diagnostica,dengue clasico,2010-09-01,0,0,0,0,1,0,1
+SAN BUENA VENTURA,sospecha diagnostica,dengue clasico,2010-09-01,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue clasico,2010-09-01,0,0,0,0,1,0,1
+SAN MATIAS,sospecha diagnostica,dengue clasico,2010-09-01,1,0,0,0,0,0,1
+SAN RAFAEL,sospecha diagnostica,dengue clasico,2010-09-01,0,0,0,1,2,0,3
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue clasico,2010-09-01,3,19,15,35,55,7,134
+TARIJA,sospecha diagnostica,dengue clasico,2010-09-01,0,0,0,1,0,0,1
+TRIGAL,sospecha diagnostica,dengue clasico,2010-09-01,0,0,0,1,1,0,2
+VILLA MONTES,sospecha diagnostica,dengue clasico,2010-09-01,0,0,0,0,1,0,1
+WARNES,sospecha diagnostica,dengue clasico,2010-09-01,1,0,0,0,3,1,5
+CAMIRI,sospecha diagnostica,dengue clasico,2010-10-01,0,0,1,3,3,0,7
+COTOCA,sospecha diagnostica,dengue clasico,2010-10-01,0,0,0,2,2,0,4
+EL TORNO,sospecha diagnostica,dengue clasico,2010-10-01,0,1,1,2,6,0,10
+GUAYARAMERIN,sospecha diagnostica,dengue clasico,2010-10-01,0,2,0,0,3,0,5
+MONTERO,sospecha diagnostica,dengue clasico,2010-10-01,0,0,0,0,2,0,2
+PALOS BLANCOS,sospecha diagnostica,dengue clasico,2010-10-01,1,1,0,3,10,0,15
+PORONGO,sospecha diagnostica,dengue clasico,2010-10-01,0,0,0,1,4,0,5
+QUIRUSILLAS,sospecha diagnostica,dengue clasico,2010-10-01,0,0,0,0,2,0,2
+REYES,sospecha diagnostica,dengue clasico,2010-10-01,0,0,0,0,2,0,2
+RIBERALTA,sospecha diagnostica,dengue clasico,2010-10-01,0,0,0,1,0,0,1
+RURRENABAQUE,sospecha diagnostica,dengue clasico,2010-10-01,0,0,0,0,3,0,3
+SAMAIPATA,sospecha diagnostica,dengue clasico,2010-10-01,0,0,0,0,1,0,1
+SAN MATIAS,sospecha diagnostica,dengue clasico,2010-10-01,0,0,1,0,0,0,1
+SAN PEDRO,sospecha diagnostica,dengue clasico,2010-10-01,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue clasico,2010-10-01,5,18,21,46,52,7,149
+SHINAOTA,sospecha diagnostica,dengue clasico,2010-10-01,0,0,0,1,1,0,2
+TRINIDAD,sospecha diagnostica,dengue clasico,2010-10-01,0,0,1,0,3,0,4
+WARNES,sospecha diagnostica,dengue clasico,2010-10-01,0,0,0,0,1,0,1
+BERMEJO,sospecha diagnostica,dengue clasico,2010-11-01,0,0,0,0,2,0,2
+CAMIRI,sospecha diagnostica,dengue clasico,2010-11-01,0,0,4,4,4,0,12
+COBIJA,sospecha diagnostica,dengue clasico,2010-11-01,1,0,1,1,1,1,5
+EL TORNO,sospecha diagnostica,dengue clasico,2010-11-01,0,0,0,3,6,1,10
+GENERAL SAAVEDRA,sospecha diagnostica,dengue clasico,2010-11-01,0,0,1,0,0,0,1
+GUAYARAMERIN,sospecha diagnostica,dengue clasico,2010-11-01,0,0,0,2,9,1,12
+LA ASUNTA,sospecha diagnostica,dengue clasico,2010-11-01,0,0,0,1,1,0,2
+LA GUARDIA,sospecha diagnostica,dengue clasico,2010-11-01,0,0,0,1,0,0,1
+LORETO,sospecha diagnostica,dengue clasico,2010-11-01,0,0,0,4,5,1,10
+MONTERO,sospecha diagnostica,dengue clasico,2010-11-01,0,0,0,2,1,0,3
+PAILON,sospecha diagnostica,dengue clasico,2010-11-01,0,0,0,1,0,0,1
+PALOS BLANCOS,sospecha diagnostica,dengue clasico,2010-11-01,0,0,1,6,22,0,29
+PORONGO,sospecha diagnostica,dengue clasico,2010-11-01,0,0,0,0,3,0,3
+PUERTO SILES,sospecha diagnostica,dengue clasico,2010-11-01,0,0,0,0,1,0,1
+PUERTO SUAREZ,sospecha diagnostica,dengue clasico,2010-11-01,0,1,2,2,4,0,9
+PUERTO VILLARROEL,sospecha diagnostica,dengue clasico,2010-11-01,0,0,0,1,0,0,1
+QUIRUSILLAS,sospecha diagnostica,dengue clasico,2010-11-01,0,1,0,0,0,0,1
+REYES,sospecha diagnostica,dengue clasico,2010-11-01,0,0,2,4,4,1,11
+RIBERALTA,sospecha diagnostica,dengue clasico,2010-11-01,0,1,1,1,3,1,7
+ROBORE,sospecha diagnostica,dengue clasico,2010-11-01,0,0,3,10,10,4,27
+RURRENABAQUE,sospecha diagnostica,dengue clasico,2010-11-01,0,0,1,0,2,0,3
+SAN BORJA,sospecha diagnostica,dengue clasico,2010-11-01,0,0,0,0,3,0,3
+SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue clasico,2010-11-01,0,0,0,1,2,0,3
+SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue clasico,2010-11-01,0,1,0,3,4,0,8
+SAN MATIAS,sospecha diagnostica,dengue clasico,2010-11-01,3,6,3,4,5,0,21
+SAN RAMON BENI,sospecha diagnostica,dengue clasico,2010-11-01,0,4,3,6,2,0,15
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue clasico,2010-11-01,5,20,23,67,90,10,215
+TARIJA,sospecha diagnostica,dengue clasico,2010-11-01,0,0,0,1,1,0,2
+TRIGAL,sospecha diagnostica,dengue clasico,2010-11-01,0,0,0,0,1,1,2
+TRINIDAD,sospecha diagnostica,dengue clasico,2010-11-01,0,2,3,7,10,0,22
+VILLA TUNARI,sospecha diagnostica,dengue clasico,2010-11-01,0,1,3,6,2,2,14
+ALTO BENI,sospecha diagnostica,dengue clasico,2010-12-01,0,0,2,2,5,0,9
+ASCENCION DE GUARAYOS,sospecha diagnostica,dengue clasico,2010-12-01,0,0,2,3,3,1,9
+BAURES,sospecha diagnostica,dengue clasico,2010-12-01,0,3,1,7,5,2,18
+CAMIRI,sospecha diagnostica,dengue clasico,2010-12-01,0,0,1,2,6,0,9
+CARANAVI,sospecha diagnostica,dengue clasico,2010-12-01,0,1,6,26,54,3,90
+CHIMORE,sospecha diagnostica,dengue clasico,2010-12-01,0,0,1,4,13,0,18
+COBIJA,sospecha diagnostica,dengue clasico,2010-12-01,0,0,2,5,21,1,29
+COMARAPA,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,0,1,0,1
+COROICO,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,0,1,0,1
+COTOCA,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,0,2,0,2
+CUATRO CAÑADAS,sospecha diagnostica,dengue clasico,2010-12-01,2,2,0,7,1,0,12
+EL TORNO,sospecha diagnostica,dengue clasico,2010-12-01,0,3,1,4,13,2,23
+ENTRE RIOS CBBA,sospecha diagnostica,dengue clasico,2010-12-01,0,0,1,1,2,0,4
+FILADELFIA,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,2,0,0,2
+GUANAY,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,2,0,0,2
+GUAYARAMERIN,sospecha diagnostica,dengue clasico,2010-12-01,1,1,8,23,49,3,85
+LA ASUNTA,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,1,6,0,7
+LA GUARDIA,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,0,1,0,1
+LA PAZ,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,0,1,0,1
+LORETO,sospecha diagnostica,dengue clasico,2010-12-01,0,3,2,4,8,3,20
+MAPIRI,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,3,2,0,5
+MONTERO,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,0,3,0,3
+OKINAWA,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,0,5,0,5
+PAILON,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,0,1,0,1
+PALOS BLANCOS,sospecha diagnostica,dengue clasico,2010-12-01,0,2,8,16,18,3,47
+PORONGO,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,0,3,1,4
+POTOSI,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,0,1,0,1
+PUERTO SILES,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,0,1,0,1
+PUERTO SUAREZ,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,1,1,1,3
+QUIRUSILLAS,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,0,1,0,1
+REYES,sospecha diagnostica,dengue clasico,2010-12-01,0,1,0,9,17,3,30
+RIBERALTA,sospecha diagnostica,dengue clasico,2010-12-01,1,8,18,40,81,8,156
+ROBORE,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,0,1,0,1
+RURRENABAQUE,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,0,2,1,3
+SAIPINA,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,0,1,0,1
+SAN BORJA,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,1,4,0,5
+SAN IGNACIO,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,0,2,0,2
+SAN JOAQUIN,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,3,4,0,7
+SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue clasico,2010-12-01,0,0,1,1,1,0,3
+SAN JULIAN,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,1,2,0,3
+SAN MATIAS,sospecha diagnostica,dengue clasico,2010-12-01,1,1,0,3,2,4,11
+SANTA ANA,sospecha diagnostica,dengue clasico,2010-12-01,1,5,3,28,54,17,108
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue clasico,2010-12-01,6,26,22,42,93,10,199
+SANTA ROSA,sospecha diagnostica,dengue clasico,2010-12-01,0,0,0,0,1,0,1
+SHINAOTA,sospecha diagnostica,dengue clasico,2010-12-01,0,6,1,24,38,1,70
+TARIJA,sospecha diagnostica,dengue clasico,2010-12-01,0,0,1,1,1,0,3
+TRINIDAD,sospecha diagnostica,dengue clasico,2010-12-01,1,8,57,115,155,35,371
+VILLA TUNARI,sospecha diagnostica,dengue clasico,2010-12-01,0,2,5,12,13,0,32
+WARNES,sospecha diagnostica,dengue clasico,2010-12-01,0,1,1,0,2,1,5

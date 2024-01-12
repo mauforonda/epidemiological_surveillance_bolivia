@@ -1,0 +1,492 @@
+municipality,group,variable,month,< de 1 año-H,< de 1 año-M,1 a 4 años-H,1 a 4 años-M,5 a 14 años-H,5 a 14 años-M,15 a 59 años-H,15 a 59 años-M,60 y más-H,60 y más-M,TOTAL-H,TOTAL-M,TOTAL
+ANCORAIMES,inmunoprevenibles,hepatitis,2007-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+APOLO,inmunoprevenibles,hepatitis,2007-01-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+ASCENCION DE GUARAYOS,inmunoprevenibles,hepatitis,2007-01-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+BATALLAS,inmunoprevenibles,hepatitis,2007-01-01,1,0,0,0,0,0,0,0,0,0,1,0,1
+BAURES,inmunoprevenibles,hepatitis,2007-01-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+BERMEJO,inmunoprevenibles,hepatitis,2007-01-01,0,0,0,0,0,1,1,0,0,0,1,1,2
+CAMARGO,inmunoprevenibles,hepatitis,2007-01-01,0,0,1,0,1,0,0,0,0,0,2,0,2
+CAMIRI,inmunoprevenibles,hepatitis,2007-01-01,0,0,1,0,1,0,2,0,0,0,4,0,4
+CLIZA,inmunoprevenibles,hepatitis,2007-01-01,0,0,1,1,1,0,0,0,0,0,2,1,3
+COBIJA,inmunoprevenibles,hepatitis,2007-01-01,0,0,2,1,1,0,0,0,0,0,3,1,4
+COCHABAMBA,inmunoprevenibles,hepatitis,2007-01-01,0,2,26,27,22,25,7,9,0,0,55,63,118
+COLCAPIRHUA,inmunoprevenibles,hepatitis,2007-01-01,0,0,3,1,1,1,0,0,0,0,4,2,6
+CUATRO CAÑADAS,inmunoprevenibles,hepatitis,2007-01-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+EL ALTO,inmunoprevenibles,hepatitis,2007-01-01,1,0,6,2,21,5,2,1,0,0,30,8,38
+GUAYARAMERIN,inmunoprevenibles,hepatitis,2007-01-01,0,0,5,3,4,0,1,2,1,0,11,5,16
+IXIAMAS,inmunoprevenibles,hepatitis,2007-01-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+LA PAZ,inmunoprevenibles,hepatitis,2007-01-01,0,0,20,8,41,14,14,2,0,0,75,24,99
+LLALLAGUA,inmunoprevenibles,hepatitis,2007-01-01,0,0,1,2,0,0,0,0,0,0,1,2,3
+MAGDALENA,inmunoprevenibles,hepatitis,2007-01-01,0,0,0,0,1,1,0,0,0,0,1,1,2
+MONTEAGUDO,inmunoprevenibles,hepatitis,2007-01-01,0,0,1,0,3,0,1,0,0,0,5,0,5
+MONTERO,inmunoprevenibles,hepatitis,2007-01-01,0,0,5,4,3,0,0,0,0,0,8,4,12
+ORURO,inmunoprevenibles,hepatitis,2007-01-01,1,1,17,10,12,6,0,1,0,0,30,18,48
+PAILON,inmunoprevenibles,hepatitis,2007-01-01,0,0,1,1,0,1,0,0,0,0,1,2,3
+POTOSI,inmunoprevenibles,hepatitis,2007-01-01,0,0,1,1,2,0,0,0,0,0,3,1,4
+PUCARANI,inmunoprevenibles,hepatitis,2007-01-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+PUERTO SUAREZ,inmunoprevenibles,hepatitis,2007-01-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+QUILLACOLLO,inmunoprevenibles,hepatitis,2007-01-01,0,0,1,1,0,0,0,0,0,0,1,1,2
+REYES,inmunoprevenibles,hepatitis,2007-01-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+SACABA,inmunoprevenibles,hepatitis,2007-01-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+SACACA,inmunoprevenibles,hepatitis,2007-01-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN BENITO,inmunoprevenibles,hepatitis,2007-01-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN BORJA,inmunoprevenibles,hepatitis,2007-01-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN IGNACIO,inmunoprevenibles,hepatitis,2007-01-01,0,0,1,0,4,0,1,1,0,0,6,1,7
+SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis,2007-01-01,1,0,4,0,2,3,2,0,0,0,9,3,12
+SAN JOSE DE CHIQUITOS,inmunoprevenibles,hepatitis,2007-01-01,0,0,1,0,0,0,0,2,0,0,1,2,3
+SAN MATIAS,inmunoprevenibles,hepatitis,2007-01-01,0,0,2,0,0,0,0,0,0,0,2,0,2
+SAN PEDRO(PND),inmunoprevenibles,hepatitis,2007-01-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis,2007-01-01,0,4,39,34,22,19,10,2,1,0,72,59,131
+SANTA ROSA,inmunoprevenibles,hepatitis,2007-01-01,0,0,2,2,1,0,1,1,0,0,4,3,7
+SIPE SIPE,inmunoprevenibles,hepatitis,2007-01-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+SUCRE,inmunoprevenibles,hepatitis,2007-01-01,0,0,1,0,3,2,2,5,0,0,6,7,13
+TARIJA,inmunoprevenibles,hepatitis,2007-01-01,0,0,2,0,5,3,3,0,0,0,10,3,13
+TRINIDAD,inmunoprevenibles,hepatitis,2007-01-01,0,0,8,5,5,5,5,1,0,0,18,11,29
+VILLA MONTES,inmunoprevenibles,hepatitis,2007-01-01,0,0,0,0,1,1,0,1,0,0,1,2,3
+VILLA TUNARI,inmunoprevenibles,hepatitis,2007-01-01,0,0,1,0,1,0,0,0,0,0,2,0,2
+VILLAZON,inmunoprevenibles,hepatitis,2007-01-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+ASCENCION DE GUARAYOS,inmunoprevenibles,hepatitis,2007-02-01,0,0,1,0,2,0,1,0,0,0,4,0,4
+BAURES,inmunoprevenibles,hepatitis,2007-02-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+BERMEJO,inmunoprevenibles,hepatitis,2007-02-01,0,0,0,0,2,0,0,0,0,0,2,0,2
+CAMIRI,inmunoprevenibles,hepatitis,2007-02-01,0,0,1,0,3,0,1,0,0,0,5,0,5
+CLIZA,inmunoprevenibles,hepatitis,2007-02-01,0,0,2,2,4,0,0,0,0,0,6,2,8
+COBIJA,inmunoprevenibles,hepatitis,2007-02-01,1,0,1,2,0,1,2,0,0,0,4,3,7
+COCHABAMBA,inmunoprevenibles,hepatitis,2007-02-01,2,2,38,34,29,38,4,6,0,0,73,80,153
+COLCAPIRHUA,inmunoprevenibles,hepatitis,2007-02-01,0,0,0,1,1,1,0,0,0,0,1,2,3
+COROICO,inmunoprevenibles,hepatitis,2007-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+CORQUE,inmunoprevenibles,hepatitis,2007-02-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+CUATRO CAÑADAS,inmunoprevenibles,hepatitis,2007-02-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL ALTO,inmunoprevenibles,hepatitis,2007-02-01,1,0,10,3,14,11,1,1,0,0,26,15,41
+GUAYARAMERIN,inmunoprevenibles,hepatitis,2007-02-01,1,3,0,1,0,0,0,0,0,1,1,5,6
+IXIAMAS,inmunoprevenibles,hepatitis,2007-02-01,0,0,2,0,1,0,0,1,0,0,3,1,4
+LA PAZ,inmunoprevenibles,hepatitis,2007-02-01,1,0,13,5,19,15,15,5,0,0,48,25,73
+LLALLAGUA,inmunoprevenibles,hepatitis,2007-02-01,0,0,3,3,1,0,0,0,0,0,4,3,7
+MACHACAMARCA,inmunoprevenibles,hepatitis,2007-02-01,0,0,0,0,0,2,0,0,0,0,0,2,2
+MAGDALENA,inmunoprevenibles,hepatitis,2007-02-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+MONTEAGUDO,inmunoprevenibles,hepatitis,2007-02-01,0,0,2,2,1,1,1,3,0,0,4,6,10
+MONTERO,inmunoprevenibles,hepatitis,2007-02-01,0,0,5,4,2,1,0,0,0,0,7,5,12
+ORURO,inmunoprevenibles,hepatitis,2007-02-01,0,0,16,14,6,9,1,0,0,0,23,23,46
+PADILLA,inmunoprevenibles,hepatitis,2007-02-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+POTOSI,inmunoprevenibles,hepatitis,2007-02-01,2,2,3,1,3,0,0,0,0,0,8,3,11
+PUERTO SUAREZ,inmunoprevenibles,hepatitis,2007-02-01,0,0,2,0,2,1,0,2,0,0,4,3,7
+RIBERALTA,inmunoprevenibles,hepatitis,2007-02-01,0,0,0,0,1,0,1,1,0,0,2,1,3
+SACABA,inmunoprevenibles,hepatitis,2007-02-01,0,0,1,1,0,1,0,1,0,0,1,3,4
+SAN BENITO,inmunoprevenibles,hepatitis,2007-02-01,0,0,1,1,1,0,0,0,0,0,2,1,3
+SAN BORJA,inmunoprevenibles,hepatitis,2007-02-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN IGNACIO,inmunoprevenibles,hepatitis,2007-02-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis,2007-02-01,0,0,4,1,1,0,2,0,0,1,7,2,9
+SAN LORENZO(TJA),inmunoprevenibles,hepatitis,2007-02-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN MATIAS,inmunoprevenibles,hepatitis,2007-02-01,0,0,2,0,2,0,0,0,0,0,4,0,4
+SAN MIGUEL DE VELASCO,inmunoprevenibles,hepatitis,2007-02-01,0,0,1,0,1,0,0,0,0,0,2,0,2
+SANTA ANA,inmunoprevenibles,hepatitis,2007-02-01,0,0,0,1,0,1,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis,2007-02-01,3,3,20,17,20,9,7,0,0,0,50,29,79
+SANTA ROSA,inmunoprevenibles,hepatitis,2007-02-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+SIPE SIPE,inmunoprevenibles,hepatitis,2007-02-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+SUCRE,inmunoprevenibles,hepatitis,2007-02-01,0,0,5,3,3,1,3,3,0,0,11,7,18
+TARIJA,inmunoprevenibles,hepatitis,2007-02-01,0,0,4,1,3,3,3,0,0,0,10,4,14
+TIQUIPAYA,inmunoprevenibles,hepatitis,2007-02-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+TITO YUPANQUI (PARQUIPUJIO),inmunoprevenibles,hepatitis,2007-02-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+TRINIDAD,inmunoprevenibles,hepatitis,2007-02-01,0,0,0,0,3,1,1,0,0,0,4,1,5
+TUPIZA,inmunoprevenibles,hepatitis,2007-02-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,inmunoprevenibles,hepatitis,2007-02-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA TUNARI,inmunoprevenibles,hepatitis,2007-02-01,0,0,0,0,1,1,4,1,0,0,5,2,7
+VILLAZON,inmunoprevenibles,hepatitis,2007-02-01,0,0,0,2,2,3,0,0,0,0,2,5,7
+YACUIBA,inmunoprevenibles,hepatitis,2007-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+APOLO,inmunoprevenibles,hepatitis,2007-03-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+ASCENCION DE GUARAYOS,inmunoprevenibles,hepatitis,2007-03-01,0,0,2,1,1,0,0,0,0,0,3,1,4
+BAURES,inmunoprevenibles,hepatitis,2007-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+BERMEJO,inmunoprevenibles,hepatitis,2007-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+CABEZAS,inmunoprevenibles,hepatitis,2007-03-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+CALACOTO,inmunoprevenibles,hepatitis,2007-03-01,0,0,0,0,0,0,2,5,2,1,4,6,10
+CAMIRI,inmunoprevenibles,hepatitis,2007-03-01,0,0,0,0,1,1,0,0,0,0,1,1,2
+CARANAVI,inmunoprevenibles,hepatitis,2007-03-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+COBIJA,inmunoprevenibles,hepatitis,2007-03-01,0,0,2,1,1,2,0,0,0,0,3,3,6
+COCHABAMBA,inmunoprevenibles,hepatitis,2007-03-01,2,2,40,32,28,25,3,2,1,0,74,61,135
+COLCAPIRHUA,inmunoprevenibles,hepatitis,2007-03-01,0,0,3,1,0,0,0,0,0,0,3,1,4
+COTAGAITA,inmunoprevenibles,hepatitis,2007-03-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+EL ALTO,inmunoprevenibles,hepatitis,2007-03-01,0,0,16,4,11,10,4,2,0,0,31,16,47
+GUAYARAMERIN,inmunoprevenibles,hepatitis,2007-03-01,0,0,1,3,0,2,1,1,0,0,2,6,8
+IXIAMAS,inmunoprevenibles,hepatitis,2007-03-01,0,0,0,1,0,0,1,0,0,0,1,1,2
+LA PAZ,inmunoprevenibles,hepatitis,2007-03-01,0,0,13,13,29,34,8,8,0,0,50,55,105
+LLALLAGUA,inmunoprevenibles,hepatitis,2007-03-01,0,0,1,0,0,3,0,0,0,0,1,3,4
+MAGDALENA,inmunoprevenibles,hepatitis,2007-03-01,0,0,1,1,0,1,1,0,1,0,3,2,5
+MONTEAGUDO,inmunoprevenibles,hepatitis,2007-03-01,0,1,0,0,0,0,0,0,0,0,0,1,1
+MONTERO,inmunoprevenibles,hepatitis,2007-03-01,1,1,2,3,1,0,0,0,0,0,4,4,8
+ORURO,inmunoprevenibles,hepatitis,2007-03-01,2,3,39,21,18,15,1,0,1,0,61,39,100
+POCONA,inmunoprevenibles,hepatitis,2007-03-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+POTOSI,inmunoprevenibles,hepatitis,2007-03-01,0,1,7,4,1,0,0,0,0,0,8,5,13
+PUERTO SUAREZ,inmunoprevenibles,hepatitis,2007-03-01,0,0,1,0,1,0,0,1,0,0,2,1,3
+QUILLACOLLO,inmunoprevenibles,hepatitis,2007-03-01,0,0,0,2,0,1,0,0,0,0,0,3,3
+RIBERALTA,inmunoprevenibles,hepatitis,2007-03-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+SACABA,inmunoprevenibles,hepatitis,2007-03-01,0,0,0,1,0,2,0,0,0,0,0,3,3
+SAN BENITO,inmunoprevenibles,hepatitis,2007-03-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN BORJA,inmunoprevenibles,hepatitis,2007-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAN CARLOS,inmunoprevenibles,hepatitis,2007-03-01,1,1,0,0,0,0,0,0,0,0,1,1,2
+SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis,2007-03-01,0,0,6,6,3,2,1,1,0,0,10,9,19
+SAN LORENZO(TJA),inmunoprevenibles,hepatitis,2007-03-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+SANTA ANA,inmunoprevenibles,hepatitis,2007-03-01,0,0,0,0,0,2,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis,2007-03-01,2,4,22,20,12,12,3,0,0,0,39,36,75
+SIPE SIPE,inmunoprevenibles,hepatitis,2007-03-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+SUCRE,inmunoprevenibles,hepatitis,2007-03-01,0,0,5,5,2,6,0,0,0,0,7,11,18
+TARIJA,inmunoprevenibles,hepatitis,2007-03-01,0,0,3,0,7,5,2,1,0,0,12,6,18
+TIQUIPAYA,inmunoprevenibles,hepatitis,2007-03-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+TRINIDAD,inmunoprevenibles,hepatitis,2007-03-01,0,1,1,15,0,7,1,1,0,0,2,24,26
+TUPIZA,inmunoprevenibles,hepatitis,2007-03-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,inmunoprevenibles,hepatitis,2007-03-01,1,0,0,0,0,1,1,0,0,0,2,1,3
+VILLA TUNARI,inmunoprevenibles,hepatitis,2007-03-01,0,0,4,0,1,2,1,0,0,0,6,2,8
+VILLAZON,inmunoprevenibles,hepatitis,2007-03-01,0,0,1,1,2,2,0,1,0,0,3,4,7
+YACUIBA,inmunoprevenibles,hepatitis,2007-03-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+ZUDAÑEZ,inmunoprevenibles,hepatitis,2007-03-01,0,0,1,0,0,0,0,1,0,0,1,1,2
+APOLO,inmunoprevenibles,hepatitis,2007-04-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+ASCENCION DE GUARAYOS,inmunoprevenibles,hepatitis,2007-04-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+AZURDUY,inmunoprevenibles,hepatitis,2007-04-01,0,0,1,0,1,0,0,0,0,0,2,0,2
+BAURES,inmunoprevenibles,hepatitis,2007-04-01,0,0,0,1,0,0,0,2,0,0,0,3,3
+BERMEJO,inmunoprevenibles,hepatitis,2007-04-01,0,0,0,2,1,0,0,0,0,0,1,2,3
+CABEZAS,inmunoprevenibles,hepatitis,2007-04-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+CAMIRI,inmunoprevenibles,hepatitis,2007-04-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+CAPINOTA,inmunoprevenibles,hepatitis,2007-04-01,0,0,0,1,0,1,0,0,0,0,0,2,2
+CARANAVI,inmunoprevenibles,hepatitis,2007-04-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+CHOQUE COTA,inmunoprevenibles,hepatitis,2007-04-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+COBIJA,inmunoprevenibles,hepatitis,2007-04-01,0,0,0,1,0,1,0,0,0,0,0,2,2
+COCHABAMBA,inmunoprevenibles,hepatitis,2007-04-01,1,1,37,21,30,25,3,2,0,0,71,49,120
+EL ALTO,inmunoprevenibles,hepatitis,2007-04-01,1,0,12,7,22,12,1,3,0,0,36,22,58
+GRAL. J.J. PEREZ (CHARAZANI),inmunoprevenibles,hepatitis,2007-04-01,0,0,0,5,0,0,0,0,0,0,0,5,5
+GUAYARAMERIN,inmunoprevenibles,hepatitis,2007-04-01,0,0,3,0,1,1,1,1,0,0,5,2,7
+IXIAMAS,inmunoprevenibles,hepatitis,2007-04-01,0,0,0,0,0,3,0,0,0,0,0,3,3
+LA PAZ,inmunoprevenibles,hepatitis,2007-04-01,2,0,16,7,20,25,7,9,1,2,46,43,89
+LLALLAGUA,inmunoprevenibles,hepatitis,2007-04-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+MAGDALENA,inmunoprevenibles,hepatitis,2007-04-01,0,0,0,0,2,0,0,2,0,0,2,2,4
+MAIRANA,inmunoprevenibles,hepatitis,2007-04-01,0,0,2,1,0,1,0,0,0,0,2,2,4
+MIZQUE,inmunoprevenibles,hepatitis,2007-04-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,inmunoprevenibles,hepatitis,2007-04-01,0,0,1,1,0,2,0,0,0,0,1,3,4
+MONTERO,inmunoprevenibles,hepatitis,2007-04-01,0,0,3,3,2,1,0,0,0,0,5,4,9
+ORURO,inmunoprevenibles,hepatitis,2007-04-01,0,0,30,27,19,15,1,1,0,0,50,43,93
+POTOSI,inmunoprevenibles,hepatitis,2007-04-01,3,4,1,0,3,0,0,0,1,0,8,4,12
+PUERTO SUAREZ,inmunoprevenibles,hepatitis,2007-04-01,0,0,2,0,2,1,1,1,0,0,5,2,7
+RIBERALTA,inmunoprevenibles,hepatitis,2007-04-01,0,0,0,0,0,1,0,1,0,0,0,2,2
+SACABA,inmunoprevenibles,hepatitis,2007-04-01,0,0,0,2,2,3,1,0,0,0,3,5,8
+SAN IGNACIO,inmunoprevenibles,hepatitis,2007-04-01,0,0,4,1,0,0,0,0,0,0,4,1,5
+SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis,2007-04-01,0,0,7,4,2,1,1,2,0,0,10,7,17
+SAN JOSE DE CHIQUITOS,inmunoprevenibles,hepatitis,2007-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+SANTA ANA,inmunoprevenibles,hepatitis,2007-04-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis,2007-04-01,1,0,19,15,29,16,5,2,0,11,54,44,98
+SIPE SIPE,inmunoprevenibles,hepatitis,2007-04-01,0,0,0,2,1,0,0,0,0,0,1,2,3
+SUCRE,inmunoprevenibles,hepatitis,2007-04-01,1,1,12,5,5,3,1,0,0,0,19,9,28
+TARIJA,inmunoprevenibles,hepatitis,2007-04-01,0,0,0,0,5,7,2,0,0,0,7,7,14
+TIQUIPAYA,inmunoprevenibles,hepatitis,2007-04-01,0,0,0,0,3,0,0,0,0,0,3,0,3
+TRINIDAD,inmunoprevenibles,hepatitis,2007-04-01,0,0,5,3,3,2,2,1,0,0,10,6,16
+VILLA TUNARI,inmunoprevenibles,hepatitis,2007-04-01,0,0,0,0,1,1,0,0,0,0,1,1,2
+VILLAZON,inmunoprevenibles,hepatitis,2007-04-01,0,0,0,1,4,1,0,2,0,0,4,4,8
+YACUIBA,inmunoprevenibles,hepatitis,2007-04-01,0,0,2,0,0,1,0,0,0,0,2,1,3
+ACHACACHI,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+AIQUILE,inmunoprevenibles,hepatitis,2007-05-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+APOLO,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+ASCENCION DE GUARAYOS,inmunoprevenibles,hepatitis,2007-05-01,0,0,1,1,1,0,0,0,0,0,2,1,3
+BERMEJO,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,0,1,1,0,0,0,0,1,1,2
+CAMARGO,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+CAMIRI,inmunoprevenibles,hepatitis,2007-05-01,0,0,2,0,0,0,1,0,0,0,3,0,3
+CARACOLLO,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+CARANAVI,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+CARAPARI,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,0,2,0,0,0,0,0,2,0,2
+CLIZA,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+COBIJA,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,0,3,0,0,0,0,0,3,0,3
+COCHABAMBA,inmunoprevenibles,hepatitis,2007-05-01,2,3,37,23,24,22,7,5,0,0,70,53,123
+COPACABANA,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+CULPINA,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+EL ALTO,inmunoprevenibles,hepatitis,2007-05-01,1,0,6,10,24,13,4,1,0,0,35,24,59
+GUAYARAMERIN,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,0,2,2,3,1,1,0,6,3,9
+IXIAMAS,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,0,1,1,1,1,0,0,2,2,4
+JESUS DE MACHACA,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+LA PAZ,inmunoprevenibles,hepatitis,2007-05-01,1,3,6,10,27,22,8,4,0,0,42,39,81
+LLALLAGUA,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,1,0,2,0,0,0,0,0,3,3
+MAGDALENA,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,1,0,1,0,0,0,0,0,2,2
+MONTEAGUDO,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,1,2,0,1,0,0,0,3,1,4
+MONTERO,inmunoprevenibles,hepatitis,2007-05-01,0,0,4,6,3,0,0,0,0,0,7,6,13
+ORURO,inmunoprevenibles,hepatitis,2007-05-01,1,2,13,12,12,10,2,0,0,0,28,24,52
+PADILLA,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,1,0,0,1,0,0,0,1,1,2
+POTOSI,inmunoprevenibles,hepatitis,2007-05-01,1,0,5,0,0,0,0,0,0,0,6,0,6
+PUERTO SUAREZ,inmunoprevenibles,hepatitis,2007-05-01,0,0,3,0,1,1,0,0,0,0,4,1,5
+QUILLACOLLO,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+RIBERALTA,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,0,0,1,1,1,0,0,1,2,3
+SACABA,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,0,0,2,0,1,0,0,0,3,3
+SACACA,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis,2007-05-01,1,0,5,3,3,0,0,0,0,0,9,3,12
+SAN JOSE DE CHIQUITOS,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN MATIAS,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,2,0,0,0,0,0,0,0,2,2
+SAN MIGUEL DE VELASCO,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,2,0,0,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis,2007-05-01,0,0,18,18,21,26,4,2,0,0,43,46,89
+SUCRE,inmunoprevenibles,hepatitis,2007-05-01,2,0,7,10,3,6,2,0,0,0,14,16,30
+TARIJA,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,1,6,3,3,0,0,0,9,4,13
+TIQUIPAYA,inmunoprevenibles,hepatitis,2007-05-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,inmunoprevenibles,hepatitis,2007-05-01,0,0,4,2,1,0,2,0,0,0,7,2,9
+VILLA MONTES,inmunoprevenibles,hepatitis,2007-05-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+VILLA TUNARI,inmunoprevenibles,hepatitis,2007-05-01,0,0,1,1,1,0,0,0,0,0,2,1,3
+VILLAZON,inmunoprevenibles,hepatitis,2007-05-01,0,0,4,5,9,2,3,0,0,0,16,7,23
+WARNES,inmunoprevenibles,hepatitis,2007-05-01,0,0,1,0,1,0,0,0,0,0,2,0,2
+YACUIBA,inmunoprevenibles,hepatitis,2007-05-01,0,0,2,1,1,2,0,0,0,0,3,3,6
+AIQUILE,inmunoprevenibles,hepatitis,2007-06-01,0,0,1,0,0,1,0,0,0,0,1,1,2
+BERMEJO,inmunoprevenibles,hepatitis,2007-06-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+CAMIRI,inmunoprevenibles,hepatitis,2007-06-01,1,0,0,0,1,0,0,0,0,0,2,0,2
+CLIZA,inmunoprevenibles,hepatitis,2007-06-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+COBIJA,inmunoprevenibles,hepatitis,2007-06-01,0,0,0,1,1,0,1,0,0,0,2,1,3
+COCHABAMBA,inmunoprevenibles,hepatitis,2007-06-01,0,0,21,8,22,18,3,6,0,0,46,32,78
+COIPASA,inmunoprevenibles,hepatitis,2007-06-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL ALTO,inmunoprevenibles,hepatitis,2007-06-01,1,0,11,6,18,11,1,0,0,0,31,17,48
+GUAYARAMERIN,inmunoprevenibles,hepatitis,2007-06-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+HUACHACALLA,inmunoprevenibles,hepatitis,2007-06-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+HUARACAJE,inmunoprevenibles,hepatitis,2007-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+LA ASUNTA,inmunoprevenibles,hepatitis,2007-06-01,0,0,2,0,2,0,0,0,0,0,4,0,4
+LA PAZ,inmunoprevenibles,hepatitis,2007-06-01,0,0,10,9,15,13,8,5,1,0,34,27,61
+LLALLAGUA,inmunoprevenibles,hepatitis,2007-06-01,0,0,2,0,0,0,0,0,0,0,2,0,2
+MAGDALENA,inmunoprevenibles,hepatitis,2007-06-01,1,0,1,0,0,3,0,0,0,0,2,3,5
+MECAPACA,inmunoprevenibles,hepatitis,2007-06-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,inmunoprevenibles,hepatitis,2007-06-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+MONTERO,inmunoprevenibles,hepatitis,2007-06-01,0,0,7,9,3,7,0,0,0,0,10,16,26
+ORURO,inmunoprevenibles,hepatitis,2007-06-01,0,1,13,5,8,8,1,2,0,0,22,16,38
+POTOSI,inmunoprevenibles,hepatitis,2007-06-01,0,0,1,1,0,0,0,0,0,0,1,1,2
+PUERTO SUAREZ,inmunoprevenibles,hepatitis,2007-06-01,0,0,0,0,1,2,0,0,0,0,1,2,3
+QUILLACOLLO,inmunoprevenibles,hepatitis,2007-06-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+RIBERALTA,inmunoprevenibles,hepatitis,2007-06-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+SACABA,inmunoprevenibles,hepatitis,2007-06-01,0,0,0,1,0,2,1,0,0,0,1,3,4
+SAN BENITO,inmunoprevenibles,hepatitis,2007-06-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN BORJA,inmunoprevenibles,hepatitis,2007-06-01,0,0,0,1,0,1,0,0,0,0,0,2,2
+SAN IGNACIO,inmunoprevenibles,hepatitis,2007-06-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis,2007-06-01,0,0,5,5,0,1,0,0,0,0,5,6,11
+SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis,2007-06-01,1,4,7,6,8,12,4,3,0,0,20,25,45
+SIPE SIPE,inmunoprevenibles,hepatitis,2007-06-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+SUCRE,inmunoprevenibles,hepatitis,2007-06-01,0,0,4,4,4,4,0,1,0,0,8,9,17
+TARIJA,inmunoprevenibles,hepatitis,2007-06-01,0,0,2,2,3,3,0,2,0,0,5,7,12
+TRINIDAD,inmunoprevenibles,hepatitis,2007-06-01,1,0,3,3,0,0,0,1,0,0,4,4,8
+TUPIZA,inmunoprevenibles,hepatitis,2007-06-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+VILLA TUNARI,inmunoprevenibles,hepatitis,2007-06-01,0,0,2,1,0,0,0,1,0,0,2,2,4
+VILLAZON,inmunoprevenibles,hepatitis,2007-06-01,0,2,0,0,2,0,1,1,0,0,3,3,6
+VINTO,inmunoprevenibles,hepatitis,2007-06-01,0,0,0,0,0,2,0,0,0,0,0,2,2
+WARNES,inmunoprevenibles,hepatitis,2007-06-01,0,0,3,1,0,1,0,0,0,0,3,2,5
+YACUIBA,inmunoprevenibles,hepatitis,2007-06-01,0,0,0,0,3,0,0,0,0,0,3,0,3
+APOLO,inmunoprevenibles,hepatitis,2007-07-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+ASCENCION DE GUARAYOS,inmunoprevenibles,hepatitis,2007-07-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+COBIJA,inmunoprevenibles,hepatitis,2007-07-01,0,0,0,0,0,1,1,0,0,0,1,1,2
+COCHABAMBA,inmunoprevenibles,hepatitis,2007-07-01,0,1,23,11,7,5,4,2,0,0,34,19,53
+EL ALTO,inmunoprevenibles,hepatitis,2007-07-01,0,0,9,3,16,6,0,2,0,0,25,11,36
+ENTRE RIOS,inmunoprevenibles,hepatitis,2007-07-01,0,0,0,1,0,1,0,0,0,0,0,2,2
+GUAYARAMERIN,inmunoprevenibles,hepatitis,2007-07-01,0,0,1,3,0,1,0,0,0,0,1,4,5
+IXIAMAS,inmunoprevenibles,hepatitis,2007-07-01,0,0,1,0,0,0,1,0,0,0,2,0,2
+JESUS DE MACHACA,inmunoprevenibles,hepatitis,2007-07-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+LA PAZ,inmunoprevenibles,hepatitis,2007-07-01,0,1,17,16,22,22,9,7,0,1,48,47,95
+LLALLAGUA,inmunoprevenibles,hepatitis,2007-07-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+MAGDALENA,inmunoprevenibles,hepatitis,2007-07-01,0,0,0,0,1,2,1,1,0,0,2,3,5
+MONTEAGUDO,inmunoprevenibles,hepatitis,2007-07-01,0,0,0,0,0,2,0,0,0,0,0,2,2
+MONTERO,inmunoprevenibles,hepatitis,2007-07-01,0,0,7,7,1,2,0,0,0,0,8,9,17
+ORURO,inmunoprevenibles,hepatitis,2007-07-01,0,0,7,8,5,5,0,0,0,0,12,13,25
+PADCAYA,inmunoprevenibles,hepatitis,2007-07-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+POTOSI,inmunoprevenibles,hepatitis,2007-07-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO SUAREZ,inmunoprevenibles,hepatitis,2007-07-01,0,0,1,0,0,1,0,1,0,0,1,2,3
+PUNATA,inmunoprevenibles,hepatitis,2007-07-01,0,0,0,2,0,0,0,0,0,0,0,2,2
+QUILLACOLLO,inmunoprevenibles,hepatitis,2007-07-01,0,0,1,0,1,1,0,0,0,0,2,1,3
+SACABA,inmunoprevenibles,hepatitis,2007-07-01,0,0,0,1,1,1,0,0,0,0,1,2,3
+SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis,2007-07-01,0,0,1,4,2,1,0,0,0,0,3,5,8
+SAN JOSE DE CHIQUITOS,inmunoprevenibles,hepatitis,2007-07-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+SAN JULIAN,inmunoprevenibles,hepatitis,2007-07-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN MIGUEL DE VELASCO,inmunoprevenibles,hepatitis,2007-07-01,0,0,1,1,0,1,0,0,0,0,1,2,3
+SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis,2007-07-01,1,1,14,8,9,14,3,1,0,0,27,24,51
+SUCRE,inmunoprevenibles,hepatitis,2007-07-01,0,0,0,4,5,4,1,0,0,0,6,8,14
+TARIJA,inmunoprevenibles,hepatitis,2007-07-01,0,0,0,1,2,3,0,1,0,0,2,5,7
+TIQUIPAYA,inmunoprevenibles,hepatitis,2007-07-01,0,0,3,1,2,0,0,0,0,0,5,1,6
+TRINIDAD,inmunoprevenibles,hepatitis,2007-07-01,0,0,2,0,6,6,1,0,0,0,9,6,15
+VILLA TUNARI,inmunoprevenibles,hepatitis,2007-07-01,1,0,1,0,0,0,0,0,0,0,2,0,2
+VILLAZON,inmunoprevenibles,hepatitis,2007-07-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+WARNES,inmunoprevenibles,hepatitis,2007-07-01,0,0,0,3,0,0,0,0,0,0,0,3,3
+YACUIBA,inmunoprevenibles,hepatitis,2007-07-01,0,0,1,0,0,1,1,0,0,0,2,1,3
+APOLO,inmunoprevenibles,hepatitis,2007-08-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+AZURDUY,inmunoprevenibles,hepatitis,2007-08-01,0,0,0,0,4,0,0,0,0,0,4,0,4
+BAURES,inmunoprevenibles,hepatitis,2007-08-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+COBIJA,inmunoprevenibles,hepatitis,2007-08-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+COCHABAMBA,inmunoprevenibles,hepatitis,2007-08-01,1,1,17,11,14,8,0,1,0,0,32,21,53
+COLCAPIRHUA,inmunoprevenibles,hepatitis,2007-08-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+COLQUECHACA,inmunoprevenibles,hepatitis,2007-08-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+COROICO,inmunoprevenibles,hepatitis,2007-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+COTOCA,inmunoprevenibles,hepatitis,2007-08-01,0,1,2,0,1,2,0,0,0,0,3,3,6
+EL ALTO,inmunoprevenibles,hepatitis,2007-08-01,0,2,17,14,20,8,3,1,0,1,40,26,66
+ENTRE RIOS,inmunoprevenibles,hepatitis,2007-08-01,1,0,0,1,1,1,0,0,0,0,2,2,4
+FERNANDEZ ALONSO,inmunoprevenibles,hepatitis,2007-08-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+FILADELFIA,inmunoprevenibles,hepatitis,2007-08-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+GUAYARAMERIN,inmunoprevenibles,hepatitis,2007-08-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+IXIAMAS,inmunoprevenibles,hepatitis,2007-08-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA PAZ,inmunoprevenibles,hepatitis,2007-08-01,1,3,23,18,35,30,13,7,0,0,72,58,130
+LICOMA PAMPA,inmunoprevenibles,hepatitis,2007-08-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+LLALLAGUA,inmunoprevenibles,hepatitis,2007-08-01,0,0,1,1,0,0,0,0,0,0,1,1,2
+MAGDALENA,inmunoprevenibles,hepatitis,2007-08-01,0,0,0,0,1,2,1,0,0,0,2,2,4
+MONTEAGUDO,inmunoprevenibles,hepatitis,2007-08-01,0,0,3,1,0,0,0,0,0,0,3,1,4
+MONTERO,inmunoprevenibles,hepatitis,2007-08-01,0,0,10,10,3,1,0,0,0,0,13,11,24
+ORURO,inmunoprevenibles,hepatitis,2007-08-01,0,0,7,4,2,2,1,1,0,0,10,7,17
+PAMPA GRANDE,inmunoprevenibles,hepatitis,2007-08-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+POTOSI,inmunoprevenibles,hepatitis,2007-08-01,0,0,1,1,0,1,0,0,0,0,1,2,3
+PUERTO SUAREZ,inmunoprevenibles,hepatitis,2007-08-01,0,1,0,1,0,0,0,0,0,0,0,2,2
+PUNATA,inmunoprevenibles,hepatitis,2007-08-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+QUILLACOLLO,inmunoprevenibles,hepatitis,2007-08-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+RURRENABAQUE,inmunoprevenibles,hepatitis,2007-08-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+SAN IGNACIO,inmunoprevenibles,hepatitis,2007-08-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis,2007-08-01,0,0,3,1,3,3,3,0,0,0,9,4,13
+SAN JOSE DE CHIQUITOS,inmunoprevenibles,hepatitis,2007-08-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN MATIAS,inmunoprevenibles,hepatitis,2007-08-01,1,0,1,0,0,0,0,0,0,0,2,0,2
+SAN MIGUEL DE VELASCO,inmunoprevenibles,hepatitis,2007-08-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis,2007-08-01,1,0,13,8,11,0,2,1,1,0,28,9,37
+SIPE SIPE,inmunoprevenibles,hepatitis,2007-08-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+SUCRE,inmunoprevenibles,hepatitis,2007-08-01,0,0,1,4,1,5,1,2,0,0,3,11,14
+TARIJA,inmunoprevenibles,hepatitis,2007-08-01,0,0,4,1,5,6,2,1,0,0,11,8,19
+TRINIDAD,inmunoprevenibles,hepatitis,2007-08-01,0,0,1,1,0,3,0,0,0,0,1,4,5
+VILLA TUNARI,inmunoprevenibles,hepatitis,2007-08-01,0,0,1,1,3,0,0,1,0,0,4,2,6
+VILLAZON,inmunoprevenibles,hepatitis,2007-08-01,0,0,1,0,0,1,0,0,0,0,1,1,2
+WARNES,inmunoprevenibles,hepatitis,2007-08-01,0,0,0,0,2,0,0,0,0,0,2,0,2
+YACUIBA,inmunoprevenibles,hepatitis,2007-08-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+APOLO,inmunoprevenibles,hepatitis,2007-09-01,0,0,0,0,0,2,0,0,0,0,0,2,2
+AZURDUY,inmunoprevenibles,hepatitis,2007-09-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+BATALLAS,inmunoprevenibles,hepatitis,2007-09-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+CAMARGO,inmunoprevenibles,hepatitis,2007-09-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+CAMIRI,inmunoprevenibles,hepatitis,2007-09-01,0,0,4,1,0,4,1,0,1,0,6,5,11
+COBIJA,inmunoprevenibles,hepatitis,2007-09-01,0,1,0,0,1,1,0,0,0,0,1,2,3
+COCHABAMBA,inmunoprevenibles,hepatitis,2007-09-01,0,2,15,15,14,6,1,4,0,0,30,27,57
+COLOMI,inmunoprevenibles,hepatitis,2007-09-01,0,0,0,0,4,1,0,0,0,0,4,1,5
+EL ALTO,inmunoprevenibles,hepatitis,2007-09-01,0,0,12,16,15,12,0,2,1,0,28,30,58
+ENTRE RIOS,inmunoprevenibles,hepatitis,2007-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+GUAYARAMERIN,inmunoprevenibles,hepatitis,2007-09-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+HUACARETA,inmunoprevenibles,hepatitis,2007-09-01,0,0,0,0,2,0,0,0,0,0,2,0,2
+LA PAZ,inmunoprevenibles,hepatitis,2007-09-01,1,0,12,13,24,17,7,6,0,0,44,36,80
+MAGDALENA,inmunoprevenibles,hepatitis,2007-09-01,0,0,1,0,6,1,0,0,0,0,7,1,8
+MAIRANA,inmunoprevenibles,hepatitis,2007-09-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+MONTEAGUDO,inmunoprevenibles,hepatitis,2007-09-01,0,0,3,0,0,0,0,0,0,0,3,0,3
+MONTERO,inmunoprevenibles,hepatitis,2007-09-01,1,0,5,6,3,2,0,0,0,0,9,8,17
+ORURO,inmunoprevenibles,hepatitis,2007-09-01,0,1,7,2,2,6,1,2,0,0,10,11,21
+POTOSI,inmunoprevenibles,hepatitis,2007-09-01,0,0,1,1,0,0,0,0,0,0,1,1,2
+PUERTO SUAREZ,inmunoprevenibles,hepatitis,2007-09-01,0,0,0,1,0,1,1,1,0,0,1,3,4
+PUNATA,inmunoprevenibles,hepatitis,2007-09-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+SACABA,inmunoprevenibles,hepatitis,2007-09-01,0,0,1,1,1,0,0,0,0,0,2,1,3
+SAN IGNACIO,inmunoprevenibles,hepatitis,2007-09-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis,2007-09-01,0,0,3,2,0,0,1,1,0,0,4,3,7
+SAN MATIAS,inmunoprevenibles,hepatitis,2007-09-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis,2007-09-01,0,0,11,10,8,6,2,1,0,0,21,17,38
+SIPE SIPE,inmunoprevenibles,hepatitis,2007-09-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+SUCRE,inmunoprevenibles,hepatitis,2007-09-01,0,0,6,3,4,4,4,0,0,0,14,7,21
+TARIJA,inmunoprevenibles,hepatitis,2007-09-01,2,0,3,0,4,2,3,1,0,0,12,3,15
+TIQUIPAYA,inmunoprevenibles,hepatitis,2007-09-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,inmunoprevenibles,hepatitis,2007-09-01,0,1,3,1,7,2,1,1,2,0,13,5,18
+URIONDO (A. CONCEPCION),inmunoprevenibles,hepatitis,2007-09-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA TUNARI,inmunoprevenibles,hepatitis,2007-09-01,0,0,0,1,2,0,2,0,0,0,4,1,5
+VILLAZON,inmunoprevenibles,hepatitis,2007-09-01,0,0,1,0,1,0,0,0,0,0,2,0,2
+WARNES,inmunoprevenibles,hepatitis,2007-09-01,0,0,1,1,2,1,0,0,0,0,3,2,5
+ACHOCALLA,inmunoprevenibles,hepatitis,2007-10-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+ANDAMARCA,inmunoprevenibles,hepatitis,2007-10-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+BERMEJO,inmunoprevenibles,hepatitis,2007-10-01,0,0,0,1,6,0,0,1,0,0,6,2,8
+CAJUATA,inmunoprevenibles,hepatitis,2007-10-01,0,0,1,0,0,1,0,0,0,0,1,1,2
+CAMIRI,inmunoprevenibles,hepatitis,2007-10-01,0,0,0,0,0,0,1,1,0,0,1,1,2
+CHARAGUA,inmunoprevenibles,hepatitis,2007-10-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+COBIJA,inmunoprevenibles,hepatitis,2007-10-01,0,0,0,0,3,0,0,0,0,0,3,0,3
+COCHABAMBA,inmunoprevenibles,hepatitis,2007-10-01,0,0,15,20,18,19,8,13,0,0,41,52,93
+COLCAPIRHUA,inmunoprevenibles,hepatitis,2007-10-01,0,0,1,0,0,0,1,0,0,0,2,0,2
+CORQUE,inmunoprevenibles,hepatitis,2007-10-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL ALTO,inmunoprevenibles,hepatitis,2007-10-01,1,1,22,14,18,19,1,2,1,0,43,36,79
+ENTRE RIOS,inmunoprevenibles,hepatitis,2007-10-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+GUAYARAMERIN,inmunoprevenibles,hepatitis,2007-10-01,0,0,0,1,2,0,0,0,0,1,2,2,4
+IXIAMAS,inmunoprevenibles,hepatitis,2007-10-01,0,0,2,0,0,0,0,0,0,0,2,0,2
+LA PAZ,inmunoprevenibles,hepatitis,2007-10-01,0,1,12,22,34,25,10,7,0,0,56,55,111
+MONTEAGUDO,inmunoprevenibles,hepatitis,2007-10-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+MONTERO,inmunoprevenibles,hepatitis,2007-10-01,0,0,5,6,3,5,0,0,0,0,8,11,19
+ORURO,inmunoprevenibles,hepatitis,2007-10-01,1,2,1,6,2,5,2,0,0,0,6,13,19
+PADCAYA,inmunoprevenibles,hepatitis,2007-10-01,0,1,0,0,0,0,0,0,0,0,0,1,1
+PALOS BLANCOS,inmunoprevenibles,hepatitis,2007-10-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+POTOSI,inmunoprevenibles,hepatitis,2007-10-01,0,0,1,1,1,0,0,0,0,0,2,1,3
+PUERTO SUAREZ,inmunoprevenibles,hepatitis,2007-10-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+PUERTO VILLARROEL,inmunoprevenibles,hepatitis,2007-10-01,0,0,1,0,0,0,0,1,0,0,1,1,2
+PUNATA,inmunoprevenibles,hepatitis,2007-10-01,0,0,0,1,4,1,0,0,0,0,4,2,6
+QUILLACOLLO,inmunoprevenibles,hepatitis,2007-10-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+SACABA,inmunoprevenibles,hepatitis,2007-10-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN IGNACIO,inmunoprevenibles,hepatitis,2007-10-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis,2007-10-01,0,0,2,0,1,4,3,0,0,0,6,4,10
+SANTA ANA,inmunoprevenibles,hepatitis,2007-10-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis,2007-10-01,0,1,14,8,13,2,3,1,0,0,30,12,42
+SUCRE,inmunoprevenibles,hepatitis,2007-10-01,0,0,2,5,5,1,1,0,0,0,8,6,14
+TARIJA,inmunoprevenibles,hepatitis,2007-10-01,0,0,0,2,4,2,4,1,0,0,8,5,13
+TRINIDAD,inmunoprevenibles,hepatitis,2007-10-01,0,0,2,1,4,6,0,1,0,0,6,8,14
+TUPIZA,inmunoprevenibles,hepatitis,2007-10-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+VIACHA,inmunoprevenibles,hepatitis,2007-10-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+VILLA TUNARI,inmunoprevenibles,hepatitis,2007-10-01,0,0,0,0,1,1,0,0,0,0,1,1,2
+VILLAZON,inmunoprevenibles,hepatitis,2007-10-01,0,0,0,0,0,4,0,0,0,0,0,4,4
+WARNES,inmunoprevenibles,hepatitis,2007-10-01,0,0,2,1,1,0,1,0,0,0,4,1,5
+YACUIBA,inmunoprevenibles,hepatitis,2007-10-01,0,0,1,0,0,2,0,0,0,0,1,2,3
+YOTALA,inmunoprevenibles,hepatitis,2007-10-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+BERMEJO,inmunoprevenibles,hepatitis,2007-11-01,0,0,1,0,0,1,0,0,0,0,1,1,2
+CALAMARCA,inmunoprevenibles,hepatitis,2007-11-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+COBIJA,inmunoprevenibles,hepatitis,2007-11-01,1,0,1,3,0,0,1,0,0,0,3,3,6
+COCHABAMBA,inmunoprevenibles,hepatitis,2007-11-01,0,1,7,6,7,6,3,6,0,0,17,19,36
+EL ALTO,inmunoprevenibles,hepatitis,2007-11-01,1,1,12,7,22,17,1,0,0,0,36,25,61
+ENTRE RIOS,inmunoprevenibles,hepatitis,2007-11-01,0,0,0,0,1,0,0,1,0,0,1,1,2
+GUAYARAMERIN,inmunoprevenibles,hepatitis,2007-11-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+HUACARETA,inmunoprevenibles,hepatitis,2007-11-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+IRUPANA (VILLA DE LANZA),inmunoprevenibles,hepatitis,2007-11-01,0,0,0,0,1,0,0,0,1,0,2,0,2
+IXIAMAS,inmunoprevenibles,hepatitis,2007-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+JESUS DE MACHACA,inmunoprevenibles,hepatitis,2007-11-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+LA ASUNTA,inmunoprevenibles,hepatitis,2007-11-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+LA PAZ,inmunoprevenibles,hepatitis,2007-11-01,1,4,13,11,23,11,4,4,0,0,41,30,71
+LLALLAGUA,inmunoprevenibles,hepatitis,2007-11-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+MAGDALENA,inmunoprevenibles,hepatitis,2007-11-01,0,0,0,0,2,0,0,0,0,0,2,0,2
+MONTEAGUDO,inmunoprevenibles,hepatitis,2007-11-01,0,0,0,1,2,1,0,0,0,0,2,2,4
+MONTERO,inmunoprevenibles,hepatitis,2007-11-01,0,0,4,4,1,2,0,0,0,0,5,6,11
+ORURO,inmunoprevenibles,hepatitis,2007-11-01,0,0,0,2,2,4,1,0,0,0,3,6,9
+POTOSI,inmunoprevenibles,hepatitis,2007-11-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+PUCARANI,inmunoprevenibles,hepatitis,2007-11-01,0,0,0,1,1,0,0,0,0,0,1,1,2
+PUERTO SUAREZ,inmunoprevenibles,hepatitis,2007-11-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+PUNATA,inmunoprevenibles,hepatitis,2007-11-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+RURRENABAQUE,inmunoprevenibles,hepatitis,2007-11-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+SACABA,inmunoprevenibles,hepatitis,2007-11-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis,2007-11-01,0,0,0,3,0,1,0,1,0,0,0,5,5
+SAN JOSE DE CHIQUITOS,inmunoprevenibles,hepatitis,2007-11-01,0,0,0,1,1,1,0,0,0,0,1,2,3
+SANTA ANA,inmunoprevenibles,hepatitis,2007-11-01,0,0,0,0,0,2,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis,2007-11-01,1,0,9,7,5,9,2,3,0,0,17,19,36
+SANTA ROSA DEL SARA,inmunoprevenibles,hepatitis,2007-11-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+SUCRE,inmunoprevenibles,hepatitis,2007-11-01,0,0,10,6,1,2,2,1,0,0,13,9,22
+TARIJA,inmunoprevenibles,hepatitis,2007-11-01,0,0,1,2,3,0,0,1,0,0,4,3,7
+TIQUIPAYA,inmunoprevenibles,hepatitis,2007-11-01,0,0,0,2,0,1,0,0,0,0,0,3,3
+TIRAQUE (CBBA),inmunoprevenibles,hepatitis,2007-11-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+TRINIDAD,inmunoprevenibles,hepatitis,2007-11-01,0,0,8,1,4,3,0,0,0,0,12,4,16
+VACAS,inmunoprevenibles,hepatitis,2007-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+VILLA TUNARI,inmunoprevenibles,hepatitis,2007-11-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLAZON,inmunoprevenibles,hepatitis,2007-11-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+WARNES,inmunoprevenibles,hepatitis,2007-11-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+YACUIBA,inmunoprevenibles,hepatitis,2007-11-01,0,0,1,0,1,0,0,0,0,0,2,0,2
+ANDAMARCA,inmunoprevenibles,hepatitis,2007-12-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+BERMEJO,inmunoprevenibles,hepatitis,2007-12-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+CALAMARCA,inmunoprevenibles,hepatitis,2007-12-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+CAMIRI,inmunoprevenibles,hepatitis,2007-12-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+COBIJA,inmunoprevenibles,hepatitis,2007-12-01,0,0,1,0,5,1,1,0,0,0,7,1,8
+COCHABAMBA,inmunoprevenibles,hepatitis,2007-12-01,0,0,5,3,7,10,3,2,0,0,15,15,30
+COLCAPIRHUA,inmunoprevenibles,hepatitis,2007-12-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+CORQUE,inmunoprevenibles,hepatitis,2007-12-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL ALTO,inmunoprevenibles,hepatitis,2007-12-01,0,1,9,15,6,14,1,2,0,0,16,32,48
+GUAYARAMERIN,inmunoprevenibles,hepatitis,2007-12-01,0,0,1,0,3,2,1,1,2,1,7,4,11
+LA PAZ,inmunoprevenibles,hepatitis,2007-12-01,0,0,10,8,15,14,5,5,1,0,31,27,58
+MAGDALENA,inmunoprevenibles,hepatitis,2007-12-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+MONTEAGUDO,inmunoprevenibles,hepatitis,2007-12-01,0,0,2,2,0,0,0,0,0,0,2,2,4
+MONTERO,inmunoprevenibles,hepatitis,2007-12-01,1,1,7,3,1,1,0,0,0,0,9,5,14
+ORURO,inmunoprevenibles,hepatitis,2007-12-01,0,0,1,0,2,5,0,2,0,0,3,7,10
+PALCA,inmunoprevenibles,hepatitis,2007-12-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+PORVENIR,inmunoprevenibles,hepatitis,2007-12-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+POTOSI,inmunoprevenibles,hepatitis,2007-12-01,0,0,2,4,0,0,0,0,0,0,2,4,6
+PUERTO VILLARROEL,inmunoprevenibles,hepatitis,2007-12-01,0,0,0,0,0,0,0,1,0,0,0,1,1
+PUNATA,inmunoprevenibles,hepatitis,2007-12-01,0,0,3,1,0,0,0,0,0,0,3,1,4
+RURRENABAQUE,inmunoprevenibles,hepatitis,2007-12-01,0,0,1,1,1,1,0,0,0,0,2,2,4
+SAN BUENA VENTURA,inmunoprevenibles,hepatitis,2007-12-01,0,0,0,1,1,0,0,0,0,0,1,1,2
+SAN IGNACIO,inmunoprevenibles,hepatitis,2007-12-01,0,0,0,2,0,0,0,0,0,0,0,2,2
+SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis,2007-12-01,0,0,0,1,1,0,1,1,0,0,2,2,4
+SAN JOSE DE CHIQUITOS,inmunoprevenibles,hepatitis,2007-12-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA ANA,inmunoprevenibles,hepatitis,2007-12-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis,2007-12-01,0,0,9,6,4,7,0,0,0,0,13,13,26
+SUCRE,inmunoprevenibles,hepatitis,2007-12-01,1,0,4,8,3,5,1,5,0,0,9,18,27
+TARIJA,inmunoprevenibles,hepatitis,2007-12-01,0,0,1,1,3,2,0,1,0,0,4,4,8
+TINGUIPAYA,inmunoprevenibles,hepatitis,2007-12-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,inmunoprevenibles,hepatitis,2007-12-01,0,0,2,0,3,0,0,1,0,0,5,1,6
+VALLEGRANDE,inmunoprevenibles,hepatitis,2007-12-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+VIACHA,inmunoprevenibles,hepatitis,2007-12-01,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA TUNARI,inmunoprevenibles,hepatitis,2007-12-01,0,0,1,1,0,0,0,0,0,0,1,1,2
+VILLAZON,inmunoprevenibles,hepatitis,2007-12-01,0,0,0,0,1,1,0,0,0,0,1,1,2
+WARNES,inmunoprevenibles,hepatitis,2007-12-01,0,0,0,0,0,1,0,0,0,0,0,1,1
+YACUIBA,inmunoprevenibles,hepatitis,2007-12-01,0,0,0,1,1,0,0,0,0,0,1,1,2

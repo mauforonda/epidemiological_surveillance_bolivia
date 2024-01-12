@@ -1,0 +1,87 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+COCHABAMBA,sospecha diagnostica,tos ferina/coqueluche,2019-01-01,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+COTOCA,sospecha diagnostica,tos ferina/coqueluche,2019-01-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL ALTO,sospecha diagnostica,tos ferina/coqueluche,2019-01-01,1,1,1,2,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,3,4,7
+EL TORNO,sospecha diagnostica,tos ferina/coqueluche,2019-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LA PAZ,sospecha diagnostica,tos ferina/coqueluche,2019-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+MONTERO,sospecha diagnostica,tos ferina/coqueluche,2019-01-01,1,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+SAN IGNACIO,sospecha diagnostica,tos ferina/coqueluche,2019-01-01,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,tos ferina/coqueluche,2019-01-01,7,4,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,13
+SUCRE,sospecha diagnostica,tos ferina/coqueluche,2019-01-01,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5
+TARIJA,sospecha diagnostica,tos ferina/coqueluche,2019-01-01,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+COCHABAMBA,sospecha diagnostica,tos ferina/coqueluche,2019-02-01,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,4
+EL ALTO,sospecha diagnostica,tos ferina/coqueluche,2019-02-01,0,1,0,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,6
+MONTERO,sospecha diagnostica,tos ferina/coqueluche,2019-02-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN IGNACIO,sospecha diagnostica,tos ferina/coqueluche,2019-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,tos ferina/coqueluche,2019-02-01,1,0,1,1,5,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8,3,11
+SUCRE,sospecha diagnostica,tos ferina/coqueluche,2019-02-01,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,8
+TARIJA,sospecha diagnostica,tos ferina/coqueluche,2019-02-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TRINIDAD,sospecha diagnostica,tos ferina/coqueluche,2019-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL ALTO,sospecha diagnostica,tos ferina/coqueluche,2019-03-01,4,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,1,6
+LA PAZ,sospecha diagnostica,tos ferina/coqueluche,2019-03-01,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+MONTERO,sospecha diagnostica,tos ferina/coqueluche,2019-03-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,tos ferina/coqueluche,2019-03-01,6,5,0,1,2,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,8,9,17
+SUCRE,sospecha diagnostica,tos ferina/coqueluche,2019-03-01,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+TARIJA,sospecha diagnostica,tos ferina/coqueluche,2019-03-01,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+BERMEJO,sospecha diagnostica,tos ferina/coqueluche,2019-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CHARAGUA,sospecha diagnostica,tos ferina/coqueluche,2019-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CHULUMANI (V. DE LA LIBERTAD),sospecha diagnostica,tos ferina/coqueluche,2019-04-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,tos ferina/coqueluche,2019-04-01,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4
+EL ALTO,sospecha diagnostica,tos ferina/coqueluche,2019-04-01,2,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,6
+GUAYARAMERIN,sospecha diagnostica,tos ferina/coqueluche,2019-04-01,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+LA PAZ,sospecha diagnostica,tos ferina/coqueluche,2019-04-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,tos ferina/coqueluche,2019-04-01,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+SUCRE,sospecha diagnostica,tos ferina/coqueluche,2019-04-01,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5
+TARIJA,sospecha diagnostica,tos ferina/coqueluche,2019-04-01,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+COCHABAMBA,sospecha diagnostica,tos ferina/coqueluche,2019-05-01,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5
+EL ALTO,sospecha diagnostica,tos ferina/coqueluche,2019-05-01,3,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,8
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,tos ferina/coqueluche,2019-05-01,1,1,0,0,1,0,1,0,0,1,1,0,0,1,1,0,0,0,0,0,5,3,8
+SUCRE,sospecha diagnostica,tos ferina/coqueluche,2019-05-01,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+EL ALTO,sospecha diagnostica,tos ferina/coqueluche,2019-06-01,4,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,7
+SACABA,sospecha diagnostica,tos ferina/coqueluche,2019-06-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,tos ferina/coqueluche,2019-06-01,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+SUCRE,sospecha diagnostica,tos ferina/coqueluche,2019-06-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VIACHA,sospecha diagnostica,tos ferina/coqueluche,2019-06-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,tos ferina/coqueluche,2019-07-01,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+EL ALTO,sospecha diagnostica,tos ferina/coqueluche,2019-07-01,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+MONTERO,sospecha diagnostica,tos ferina/coqueluche,2019-07-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PUNATA,sospecha diagnostica,tos ferina/coqueluche,2019-07-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,tos ferina/coqueluche,2019-07-01,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+SUCRE,sospecha diagnostica,tos ferina/coqueluche,2019-07-01,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+VILLA MONTES,sospecha diagnostica,tos ferina/coqueluche,2019-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+MONTERO,sospecha diagnostica,tos ferina/coqueluche,2019-08-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,tos ferina/coqueluche,2019-08-01,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+SUCRE,sospecha diagnostica,tos ferina/coqueluche,2019-08-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TARIJA,sospecha diagnostica,tos ferina/coqueluche,2019-08-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TRINIDAD,sospecha diagnostica,tos ferina/coqueluche,2019-08-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,sospecha diagnostica,tos ferina/coqueluche,2019-08-01,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+COCHABAMBA,sospecha diagnostica,tos ferina/coqueluche,2019-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+EL ALTO,sospecha diagnostica,tos ferina/coqueluche,2019-09-01,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+MONTEAGUDO,sospecha diagnostica,tos ferina/coqueluche,2019-09-01,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+MONTERO,sospecha diagnostica,tos ferina/coqueluche,2019-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,tos ferina/coqueluche,2019-09-01,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+SUCRE,sospecha diagnostica,tos ferina/coqueluche,2019-09-01,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+TARIJA,sospecha diagnostica,tos ferina/coqueluche,2019-09-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ACHOCALLA,sospecha diagnostica,tos ferina/coqueluche,2019-10-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+BERMEJO,sospecha diagnostica,tos ferina/coqueluche,2019-10-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,tos ferina/coqueluche,2019-10-01,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+EL ALTO,sospecha diagnostica,tos ferina/coqueluche,2019-10-01,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,2,4
+MONTEAGUDO,sospecha diagnostica,tos ferina/coqueluche,2019-10-01,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+ORURO,sospecha diagnostica,tos ferina/coqueluche,2019-10-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+PUNATA,sospecha diagnostica,tos ferina/coqueluche,2019-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,tos ferina/coqueluche,2019-10-01,3,5,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,6,8,14
+SUCRE,sospecha diagnostica,tos ferina/coqueluche,2019-10-01,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+WARNES,sospecha diagnostica,tos ferina/coqueluche,2019-10-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL ALTO,sospecha diagnostica,tos ferina/coqueluche,2019-11-01,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,2,7
+LA GUARDIA,sospecha diagnostica,tos ferina/coqueluche,2019-11-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,tos ferina/coqueluche,2019-11-01,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+SUCRE,sospecha diagnostica,tos ferina/coqueluche,2019-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+COCHABAMBA,sospecha diagnostica,tos ferina/coqueluche,2019-12-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL ALTO,sospecha diagnostica,tos ferina/coqueluche,2019-12-01,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,7
+PUNATA,sospecha diagnostica,tos ferina/coqueluche,2019-12-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,tos ferina/coqueluche,2019-12-01,2,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3,6
+SUCRE,sospecha diagnostica,tos ferina/coqueluche,2019-12-01,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,7
+TRINIDAD,sospecha diagnostica,tos ferina/coqueluche,2019-12-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+YACUIBA,sospecha diagnostica,tos ferina/coqueluche,2019-12-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1

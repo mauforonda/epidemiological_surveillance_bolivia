@@ -1,0 +1,769 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 m a menor de 1 año,b. 6 m a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5
+CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,2,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,4,5
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,1,0,0,1,3,4
+CAPINOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,2,1,3
+CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,4,0,4
+CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,1,1,1,2,7,4,3,6,1,3,0,0,0,5,0,1,0,0,0,2,13,24,37
+CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,3,1,4
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,1,0,5,3,8,11,6,2,1,0,0,4,6,4,0,2,0,3,1,29,28,57
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CONCEPCION,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,1,0,1,0,0,3,1,1,0,2,2,8,3,1,4,1,4,3,16,19,35
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,1,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,3,1,4
+GENERAL SAAVEDRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,4,5
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,1,6,6,6,3,2,6,2,2,2,14,1,4,5,5,2,6,26,47,73
+MAGDALENA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,1,0,1,0,2,3,0,1,1,1,0,0,0,1,0,0,0,0,0,0,5,6,11
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,0,1,0,0,1,0,0,2,1,1,0,0,0,0,0,4,2,6
+PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+POOPO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,1,0,1,1,3,2,0,2,2,0,0,7,1,1,0,2,1,2,9,17,26
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,2,3,5
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,1,2,1,0,0,0,0,0,0,2,0,0,0,0,0,2,0,6,2,8
+SAN LORENZO(TJA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,1,0,0,10,6,8,1,3,3,3,3,15,12,10,5,3,1,1,2,53,34,87
+SIPE SIPE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,1,8,4,4,2,8,6,1,1,1,0,3,3,0,0,0,0,1,0,26,17,43
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,5,5,2,2,4,1,1,1,2,2,0,0,0,1,0,1,14,13,27
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,1,1,1,1,2,0,1,0,0,0,1,0,0,0,0,0,0,2,6,8
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,1,1,3,2,5
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2
+VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,2,4
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,2,2,4
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,2
+WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,4,4
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,1,0,1,0,0,1,0,0,0,1,1,0,1,0,1,0,0,1,5,3,8
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ACHACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,3
+CAJUATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,1,0,1,4,5
+CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,1,0,0,0,2,2,3,1,1,0,0,0,4,0,2,1,0,0,1,2,14,6,20
+CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0,0,1,1,5,6
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,3,10,10,7,4,5,1,1,1,6,3,4,1,1,1,1,2,35,26,61
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,2,3
+COMARAPA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CONCEPCION,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,1,3
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,1,0,1,0,0,0,0,0,5,3,4,1,0,3,0,2,11,9,20
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,3
+ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+ESCOMA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+INQUISIVI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,1,1,0,3,3,6
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,4,3,4,4,0,4,0,1,3,6,4,6,3,2,3,12,21,38,59
+LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+MAGDALENA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,1,1,1,0,0,0,0,0,0,0,3,1,1,0,1,0,1,2,8,10
+MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,1,2,2,2,0,3,0,0,0,1,0,0,1,0,0,0,4,8,12
+MOROCHATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,1,0,0,0,3,2,5
+PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,0,0,0,0,1,1,7,2,9,1,5,1,0,1,22,6,28
+PALOS BLANCOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,1,2,3
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,2,0,1,6,5,2,1,4,7,2,0,4,0,0,5,1,21,19,40
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,3,3
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,3
+QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,3,1,4
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,1,1,0,4,3,7
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,2,5,6,5,6,3,4,1,9,8,3,1,1,2,0,4,31,29,60
+SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,1,0,1,3,3,4,8,5,0,0,0,1,1,3,1,0,0,1,1,1,16,18,34
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,3,4,7,1,2,2,1,1,4,3,0,1,3,0,0,5,20,17,37
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,1,0,0,1,3,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,5,3,8
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,1,0,1,0,2,2,0,0,2,1,0,3,0,2,0,1,6,9,15
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,0,0,3,1,4
+UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,2
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,2,3
+VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,1,1,0,1,5,6
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+WALDO BALLIVIAN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-02-01,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,3,0,1,2,0,3,6,9
+AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,3
+AYOPAYA (V. DE INDEPENDENCIA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,1,0,1,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3,3,6
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,2,1,0,2,0,0,0,0,0,0,1,0,0,0,0,1,3,4,7
+CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,1,1,0,1,3,4,7
+CAPINOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2
+CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,3,3,1,3,0,2,0,0,3,5,0,1,1,0,1,0,9,14,23
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,2,1,1,1,0,0,0,0,1,1,0,0,0,0,1,3,5,8
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,1,2,3,5
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,2,3,26,19,10,8,9,6,1,3,7,4,2,3,1,0,3,3,61,49,110
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2
+COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CONCEPCION,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+CORO CORO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,1,0,4,2,3,0,0,2,0,0,3,2,0,0,0,3,1,1,12,10,22
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,2,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,4,5
+GUAQUI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,2,0,0,0,1,0,2,1,1,0,0,0,0,0,1,1,7,8
+HUMANATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+INQUISIVI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,1,0,0,1,15,7,9,5,5,3,2,3,4,6,2,4,2,3,6,12,46,44,90
+LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+MAIRANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+MECAPACA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+MINEROS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,1,0,1,0,2,4,0,0,0,0,1,3,0,0,0,1,1,1,6,9,15
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,1,1,1,1,2,2,8,10
+PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,3,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,6,0,6
+PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,1,0,1,3,4
+POSTRER VALLE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,1,0,0,5,6,5,4,2,2,2,1,2,10,1,0,3,2,1,2,21,28,49
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0,3,2,5
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,1,1,0,3,2,1,1,0,1,0,0,0,0,0,0,1,0,0,0,6,5,11
+QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,0,0,1,0,0,0,3,2,0,0,1,0,0,0,5,2,7
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,1,0,0,0,4,0,4
+SAN ANDRES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,2,1,0,0,0,0,1,0,1,0,4,0,0,0,1,0,9,1,10
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,2,3,5
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,2
+SAN PEDRO DE BUENA VISTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA ANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,1,0,12,7,16,8,4,6,2,2,7,13,4,32,1,6,0,4,47,78,125
+SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,3
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,1,0,3,2,5,3,7,6,5,2,1,3,4,6,4,3,2,1,2,0,34,26,60
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,2,0,1,0,9,5,4,4,6,2,0,0,2,4,0,0,0,0,4,2,28,17,45
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,1,0,0,0,1,5,2,2,0,0,0,0,1,2,0,0,0,0,0,0,5,9,14
+TOTORA(CBBA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,1,0,0,0,1,0,0,0,4,0,0,0,0,1,0,1,1,0,2,0,9,2,11
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+UNCIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,2
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,3,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,4,7
+VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+VILLA VACA GUZMAN (MUYUPAMPA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,0,0,2,1,0,2,1,1,0,1,0,2,0,0,1,0,4,7,11
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,1,0,1,0,1,2,1,0,0,0,1,0,0,0,0,1,0,0,0,0,5,3,8
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-03-01,0,0,0,0,1,0,2,1,0,1,0,0,1,2,0,1,1,0,0,0,5,5,10
+ACHACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+AYOPAYA (V. DE INDEPENDENCIA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,4
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,1,2,2,0,1,1,2,0,1,0,0,0,0,1,0,0,7,4,11
+CAPINOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,5,5,1,3,0,1,0,0,1,3,0,0,1,1,0,2,8,15,23
+CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,1,1,0,31,26,32,21,14,6,3,2,14,6,3,4,5,2,2,4,105,72,177
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2
+COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CONCEPCION,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,2,0,0,0,0,1,0,1,0,0,0,0,0,0,1,2,3,5
+CORO CORO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,2,0,0,0,2,3,0,20,1,10,0,0,1,1,0,34,6,40
+ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2
+ESCOMA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+GENERAL SAAVEDRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,1,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,6,6
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,1,19,9,11,8,4,5,0,2,2,9,2,3,0,1,2,1,40,39,79
+LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+MACHACAMARCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,2,3,1,1,3,1,0,0,2,5,0,3,0,0,2,0,10,13,23
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,4,2,6,3,9
+PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,2,0,5,0,5
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,2
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,1,3,1,0,6,4,5,4,4,4,1,3,4,5,0,1,3,1,2,2,27,27,54
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,2,4
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,1,2,0,2,0,1,0,0,0,2,0,1,0,0,0,0,1,8,9
+QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,2,1,0,0,0,0,0,3,1,2,0,0,1,0,0,0,4,6,10
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,2,3
+ROBORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+SAN ANDRES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,2,1,0,0,0,0,0,0,2,0,0,1,2,0,1,0,7,2,9
+SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,4,4
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,2,1,3
+SAN RAFAEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,1,10,7,29,8,7,3,3,3,12,13,3,6,3,2,6,4,73,47,120
+SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,2,1,4,5,7,7,11,15,6,4,0,4,1,4,1,3,2,3,0,0,34,46,80
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,6,6,6,4,3,5,0,0,2,3,1,1,3,0,0,1,21,20,41
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,1,0,0,1,3,0,2,1,0,1,0,0,0,1,1,0,0,0,0,0,7,4,11
+TOTORA(CBBA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,1,0,1,0,0,1,1,0,3,1,0,0,0,2,0,0,6,4,10
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,3,2,5
+UNCIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,1,1,1,1,0,0,0,0,0,2,0,0,0,1,0,0,1,5,3,8
+VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,3,4
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+VILLA VACA GUZMAN (MUYUPAMPA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,0,1,1,0,0,1,1,3,1,0,1,0,0,1,4,6,10
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,0,1,0,0,0,1,0,0,2,0,0,0,0,0,0,2,2,4
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-04-01,0,0,0,0,0,2,1,1,0,0,0,1,1,0,0,0,0,4,1,1,3,9,12
+AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ANCORAIMES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ASCENCION DE GUARAYOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,2,1,0,0,0,1,0,4,2,6
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,2,0,0,1,5,6
+CAIROMA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,2,2,4
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,1,0,0,0,0,1,2,0,1,0,0,0,1,1,5,6
+CAPINOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,2,1,3
+CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,3,3,0,3,1,1,0,0,2,3,0,0,1,1,1,1,8,12,20
+CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,1,1,3,1,27,23,21,16,4,6,0,0,2,4,3,2,4,1,3,4,68,58,126
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,2,0,1,0,1,0,0,0,1,1,1,0,0,0,0,0,6,1,7
+COMARAPA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CONCEPCION,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,3,3
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,2,0,0,0,0,2,0,0,0,1,3,0,1,0,0,1,0,4,6,10
+ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,3,0,2,0,0,0,1,0,0,0,0,0,1,0,7,0,7
+GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,3,4
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,1,1,2,3,16,16,12,25,3,5,2,1,3,9,4,3,3,4,4,3,50,70,120
+LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+LURIBAY,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,4,6,4,5,0,6,0,2,3,2,1,1,0,0,1,0,13,22,35
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,2,1,0,4,4,6,7,13
+PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,1,0,2,0,0,0,0,0,0,1,0,0,0,1,0,2,3,5
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,2,0,0,1,1,0,0,2,0,0,0,0,0,0,3,3,6
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,2,2,7,8,9,14,3,5,0,3,7,8,1,1,0,1,1,3,30,45,75
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,1,2,3,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,5,5,10
+QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,3,3
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,3,0,3
+SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,2,2,4
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,5
+SAN JULIAN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,1,0,2,1,9,11,19,20,5,6,2,6,14,12,4,2,2,5,0,8,58,71,129
+SANTIAGO DE MACHACA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SICA SICA (VILLA AROMA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SORATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,5,4,18,19,26,22,4,3,2,1,2,6,1,4,1,1,1,1,60,61,121
+TARABUCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,4,0,10,2,5,12,1,0,1,1,1,1,4,0,0,1,2,1,28,18,46
+TARVITA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,2,4
+TOTORA(CBBA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,1,1,3,0,0,1,1,0,1,0,0,0,0,0,0,2,6,8
+UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,1,1,1,2,0,0,0,0,0,2,0,1,0,0,0,0,2,6,8
+VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,3,3
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,3,1,5,6
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,1,0,0,2,0,1,0,1,1,0,0,1,3,1,0,1,0,0,1,7,6,13
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-05-01,0,0,0,0,0,1,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,4,4
+AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+AYOPAYA (V. DE INDEPENDENCIA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,1,2,1,1,0,2,0,1,0,0,0,0,0,0,0,1,2,7,9
+BUENA VISTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,1,0,2,0,0,5,3,5,4,2,3,8,0,3,1,0,1,2,15,25,40
+CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,1,0,0,2,0,1,0,0,0,0,1,1,0,0,0,0,0,0,2,4,6
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,1,1,2,1,0,1,0,1,0,0,0,0,0,0,1,1,4,5,9
+CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,1,1,2,0,6,3,0,0,1,1,0,0,2,5,1,1,0,1,1,2,14,14,28
+CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHUQUIHUTA AYLLU JUCUMANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,1,1,29,26,16,13,10,7,2,2,4,9,3,1,3,2,1,6,69,67,136
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,1,0,3,2,5
+COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+COMARAPA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,4,4
+CONCEPCION,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,1,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,3,2,5
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,1,0,1,0,2,1,0,1,0,2,1,9,1,1,0,0,2,0,8,14,22
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,1,1,3,4
+FERNANDEZ ALONSO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+ICLA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+LA ASUNTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,3,4,21,28,19,20,5,7,2,5,4,5,1,2,0,4,1,6,56,81,137
+MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,2,3,0,6,5,2,1,0,0,3,7,0,0,0,0,0,1,14,16,30
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,1,0,0,1,0,1,0,0,0,0,0,1,1,1,1,1,2,1,1,6,6,12
+PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,3,0,3
+PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,1,0,3,1,4
+PORVENIR,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+POSTRER VALLE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,2,4,0,13,19,13,4,2,3,0,0,10,11,3,1,6,2,3,10,54,52,106
+PUERTO SUAREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,1,1,0,4,0,0,0,0,0,1,3,1,0,0,0,1,0,8,4,12
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,1,0,0,2,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,5,1,6
+QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,2,2,0,0,0,1,1,1,0,0,1,0,1,4,5,9
+REYES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,0,1,0,2,0,7,1,8
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+SAN BUENA VENTURA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,2,1,3
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,1,1,2,20,23,35,34,30,30,5,2,15,14,5,3,2,2,2,5,115,116,231
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,7,3,23,16,13,30,8,3,0,2,7,10,4,4,2,3,0,1,64,72,136
+TARABUCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TARATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,1,0,1,0,9,8,12,12,5,3,2,1,1,3,1,2,1,0,1,1,34,30,64
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,2,0,0,0,0,0,2,2,0,0,0,0,0,0,4,2,6
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,1,4,0,6,3,9
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,2,0,4,1,5
+UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,1,0,0,0,0,1,4,5
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,2,1,1,0,2,1,0,0,0,2,0,0,0,0,0,0,5,4,9
+VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,2,1,0,0,3,0,2,1,0,0,0,0,0,0,7,2,9
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,2,3
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,2,0,0,0,1,1,5,6
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,4,4
+WALDO BALLIVIAN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,0,0,0,0,0,2,1,1,0,1,2,6,0,0,3,0,1,1,7,11,18
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-06-01,0,0,1,0,1,2,5,3,1,6,1,4,2,21,2,3,1,0,6,3,20,42,62
+AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ASCENCION DE GUARAYOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,2,3
+AZURDUY,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,4,4
+BUENA VISTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,1,1,3,0,0,2,0,2,2,2,0,2,0,1,1,3,7,13,20
+CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,3,1,1,1,0,0,1,0,1,2,1,0,1,0,0,1,8,5,13
+CAPINOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,2
+CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,1,1,4,1,8,4,2,1,1,2,1,0,5,4,0,1,0,0,1,1,23,15,38
+CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,1,3,4
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,6,5,20,22,13,10,8,11,0,2,5,4,4,1,4,2,3,3,63,60,123
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,1,1,3,1,0,1,1,0,0,1,0,0,0,0,0,0,5,4,9
+COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,3,2,5
+COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,4,4,1,3,1,0,2,2,4,5,0,1,1,3,2,3,15,21,36
+ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,1,0,0,0,0,0,1,0,0,0,3,0,1,0,0,0,0,0,6,6
+GUANAY,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,2,1,3
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,1,2,0,13,14,7,8,2,4,5,1,6,2,1,4,2,3,2,4,40,41,81
+LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+MAPIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,2,1,3
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,1,0,1,0,1,4,1,1,1,0,2,1,0,0,0,1,0,0,7,7,14
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,2,3,5
+POJO (CBBA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,3,1,9,12,9,8,1,6,3,2,5,6,3,4,2,3,2,2,37,44,81
+PUERTO SUAREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,0,0,0,0,0,1,3,4
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,1,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,2,3,5
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,1,0,1,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,7
+QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,4,0,4
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,0,0,0,1,0,1,2,3,1,1,0,0,0,1,3,7,10
+ROBORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,1,2,3,4,7
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,2,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,4,2,6
+SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,3,3
+SAN RAMON BENI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+SANTA ANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,2,0,1,0,1,4,13,5,3,4,2,6,6,16,4,6,4,4,3,2,39,47,86
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,1,0,2,5,20,15,20,8,7,9,1,3,3,11,7,2,1,1,1,0,63,54,117
+TARABUCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,1,1,5,4,6,9,1,2,0,0,1,2,0,0,0,0,1,0,15,18,33
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,3
+TOTORA(CBBA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,0,3
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,1,0,1,5,6,0,2,0,1,2,3,7,0,6,3,5,1,6,18,31,49
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,3,1,4
+UNCIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,4,6
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,2,1,3
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,4,6
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,0,0,1,2,0,0,0,0,0,0,1,1,0,3,0,0,1,0,3,6,9
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-07-01,0,0,1,0,0,1,4,4,3,1,1,6,3,19,6,9,0,3,2,1,20,44,64
+AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+APOLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ASCENCION DE GUARAYOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,0,1,0,7,1,1,1,4,0,0,0,1,0,14,2,16
+ATOCHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+AYOPAYA (V. DE INDEPENDENCIA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,1,0,0,0,1,3,4
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,2,1,2,1,0,2,0,0,0,1,0,0,0,2,0,0,4,7,11
+BUENA VISTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,3,4
+CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,2
+CAPINOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,3
+CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,2,0,0,0,5,2,0,2,0,1,0,1,0,3,0,1,0,1,0,0,7,11,18
+CARMEN RIVERO TORREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+CHIMORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,2,1,3
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,2
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,1,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6,1,7
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,4
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,3,0,7,6,40,32,21,21,17,6,2,0,5,7,4,3,1,1,5,2,105,78,183
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,2,0,1,0,1,0,1,1,2,2,0,0,0,0,0,1,7,4,11
+"COLCHA ""K""",intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+CONCEPCION,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,1,1,3,2,3,0,2,1,4,3,4,2,2,1,1,2,0,12,20,32
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,1,1,1,0,0,0,0,1,0,0,2,1,0,1,0,1,0,0,4,5,9
+GRAL. J.J. PEREZ (CHARAZANI),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,1,0,0,0,0,0,0,0,0,1,0,3,0,1,0,0,1,0,2,5,7
+HUATAJATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,1,1,12,15,10,22,7,1,2,2,13,23,8,5,2,7,7,11,62,87,149
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,3,2,5
+MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,2,2,0,0,1,1,1,2,1,0,1,0,2,1,0,0,2,0,1,1,11,7,18
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,1,3,0,0,2,0,0,0,2,1,0,1,0,1,0,4,5,10,15
+PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,2,0,0,1,2,0,0,1,1,1,0,0,0,0,1,0,6,3,9
+PALCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PALOS BLANCOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,2,3
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,1,0,2,1,8,7,7,6,1,4,2,1,6,5,1,1,1,1,1,6,30,32,62
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,1,2,1,0,0,0,0,4,1,1,0,1,0,1,0,9,3,12
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,6,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,7,2,9
+QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,1,0,1,1,1,0,0,1,0,1,0,1,1,2,0,0,0,1,4,7,11
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,1,1,0,0,0,1,3,0,0,2,0,0,1,0,5,4,9
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,2,3,5
+SAIPINA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN BUENA VENTURA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN JULIAN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,2,1,3
+SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,2
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,3,1,0,3,4,7
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,1,2,1,7,7,13,8,9,10,1,5,9,23,7,3,7,8,4,7,59,73,132
+SHINAOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SICA SICA (VILLA AROMA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SICAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,2,2,16,22,18,16,5,2,0,1,4,3,2,0,1,1,1,4,49,51,100
+TARATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,1,0,4,2,8,6,4,0,1,0,5,11,0,0,2,0,1,1,26,20,46
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,1,0,0,0,1,0,2,0,0,0,0,1,0,0,1,0,0,0,0,0,5,1,6
+TOTORA(CBBA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,1,1,0,0,2,3,6,3,2,1,8,2,3,2,8,12,30,42
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+UNCIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+URIONDO (A. CONCEPCION),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,1,3
+UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,2,1,3
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,1,1,1,1,1,0,1,3,1,0,0,0,1,0,0,5,6,11
+VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,2,1,0,0,0,3,3,6
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,1,0,0,0,1,0,0,1,0,0,0,0,0,2,0,0,0,1,1,0,3,4,7
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,2,2,1,0,1,0,1,2,1,2,0,1,0,2,1,1,7,10,17
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-08-01,0,0,0,0,1,0,5,7,4,3,0,3,11,33,2,2,5,2,4,10,32,60,92
+ACHACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ASCENCION DE GUARAYOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,2,0,0,0,0,2,8,2,1,1,2,1,1,0,14,6,20
+AYOPAYA (V. DE INDEPENDENCIA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,1,0,1,2,2,1,0,0,1,0,1,0,0,0,0,0,0,0,6,3,9
+BOYUIBE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+BUENA VISTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,0,1,0,1,1,0,2,0,0,1,0,0,0,3,3,6
+CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,1,0,1,1,1,2,0,0,1,1,0,0,0,0,0,1,4,5,9
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,1,0,0,0,0,0,4,1,0,0,0,0,0,0,1,0,0,0,0,0,6,1,7
+CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,1,2,4,3,3,10,0,3,0,0,2,2,1,0,0,0,1,3,12,23,35
+CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CHIMORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,1,0,2,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,4,3,7
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,1,3,4,26,29,31,21,12,17,0,1,5,5,0,1,0,1,0,3,77,83,160
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,2,0,0,0,1,0,0,1,0,0,0,1,0,0,3,2,5
+CONCEPCION,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,1,0,0,1,5,2,0,0,0,2,2,1,0,2,0,0,1,0,9,8,17
+ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,3,4
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,1,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,2,3,5
+ICLA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,1,0,1,1,14,7,14,9,5,6,0,1,3,6,3,3,5,3,4,0,50,36,86
+LAJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+MACHACAMARCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,2,1,3
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,2,1,0,2,0,0,0,1,1,2,0,0,0,0,0,1,3,7,10
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,1,0,1,5,2,0,0,0,1,1,0,0,3,3,1,1,9,10,19
+PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,1,1,4,5
+PALCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+POJO (CBBA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,2,1,3
+POSTRER VALLE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,1,1,1,7,1,8,9,4,9,2,3,3,6,1,1,1,3,0,1,27,35,62
+PUERTO SUAREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,2,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,4,1,5
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,2,3
+QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,1,0,1,1,0,0,0,0,0,0,2,6,0,0,0,1,0,0,4,8,12
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,0,1,0,2,1,1,0,1,0,0,0,2,0,7,1,8
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+SAMAIPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,2,1,3,4,7
+SAN IGNACIO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,2,2,0,1,1,0,0,0,0,1,0,0,1,0,1,0,5,4,9
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,1,0,2,0,0,0,1,0,2,0,0,0,1,0,7,7
+SAN RAMON BENI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,1,1,0,6,7,3,10,1,2,5,2,3,13,3,7,2,5,1,3,25,50,75
+SORATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,1,0,0,8,10,13,13,3,4,0,4,6,3,1,0,0,3,1,1,32,39,71
+TARABUCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+TARATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,1,7,7,12,12,7,5,0,0,1,6,2,1,0,1,2,1,31,34,65
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,1,0,0,0,0,1,4,5
+TOLATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TOTORA(CBBA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,1,1,0,0,0,1,2,0,0,3,1,4,1,7,5,16,21
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,2,4
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,4,1,5
+VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,1,0,1,0,2,0,1,0,1,0,1,0,0,0,0,0,0,0,7,0,7
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,4,4,8
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,5,1,1,0,0,1,0,2,7,9
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,1,2,0,1,0,0,0,1,2,1,0,1,1,0,0,0,4,6,10
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-09-01,0,0,0,0,1,0,3,0,1,2,0,1,5,11,2,1,0,0,2,2,14,17,31
+AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+AYOPAYA (V. DE INDEPENDENCIA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+BUENA VISTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,3,0,3,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,8,2,10
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,1,0,1,0,0,0,2,0,0,0,1,0,1,0,6,0,6
+CAPINOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,1,0,4,0,7,4,3,6,4,1,2,0,1,2,1,1,2,3,0,3,25,20,45
+CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+CHIMORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,1,3,4
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,1,0,1,0,13,12,19,17,12,12,3,2,3,5,2,1,2,2,0,2,56,53,109
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,1,0,1,3,4
+COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CONCEPCION,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,1,0,0,0,1,2,2,0,0,1,2,0,4,3,1,0,1,3,2,0,14,9,23
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,2,3
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,1,0,0,0,0,0,0,0,0,0,0,3,2,2,0,0,1,0,0,5,4,9
+HUAYLLAMARCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA ASUNTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,1,10,10,7,8,6,4,0,2,4,4,2,5,0,3,3,6,32,43,75
+LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MECAPACA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,2,0,4,1,5
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,1,0,3,0,1,1,11,0,0,0,1,0,0,1,0,1,17,3,20
+PALCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,1,1,1,7,5,10,7,1,2,3,0,4,2,0,0,0,1,1,1,27,20,47
+PUERTO SUAREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,1,0,0,0,0,0,1,0,0,2,0,0,0,1,0,0,2,3,5
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,1,0,2,0,1,1,0,0,1,1,0,0,0,0,0,0,1,1,6,3,9
+QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,1,0,1,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,3,3,6
+QUIME,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,1,0,0,1,4,5
+ROBORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,1,1,0,1,1,1,0,0,0,0,2,0,0,0,0,0,0,3,4,7
+SAMAIPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN BUENA VENTURA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,2,1,3
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,2,0,0,0,0,0,6,6
+SAN RAFAEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,5,2,5,7,3,5,2,4,13,23,3,2,2,4,3,6,36,53,89
+SICA SICA (VILLA AROMA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+SIPE SIPE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SORACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,1,1,4,2,4,8,4,11,0,1,1,5,0,0,1,0,1,0,16,28,44
+TACACOMA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,1,9,5,6,11,10,6,2,0,3,6,0,3,0,1,0,2,30,35,65
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,1,1,1,0,0,0,0,2,1,1,0,0,0,1,3,5,8
+TOTORA(CBBA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,3,4
+UNCIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,1,0,1,3,3,3,3,1,0,0,0,1,0,0,0,0,0,0,0,2,8,10,18
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0,1,4,5
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,2,2,3,5
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,0,1,0,0,0,3,2,5
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-10-01,0,0,0,0,2,1,2,6,0,2,0,4,5,19,6,5,0,1,6,3,21,41,62
+ACHACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ASCENCION DE GUARAYOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+AYOPAYA (V. DE INDEPENDENCIA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2,3,5
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+BUENA VISTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,1,0,0,0,1,0,0,2,0,0,0,0,0,1,2,3,5
+CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,1,0,1,2,0,2,0,0,0,0,1,2,0,0,0,1,0,0,3,7,10
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,2,0,2,1,0,0,0,2,1,2,0,0,0,0,0,0,5,5,10
+CAPINOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,3,4
+CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,2,0,2,1,6,6,8,3,2,2,1,1,1,3,0,0,0,2,1,1,23,19,42
+CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+CHIMORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,2
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,1,2,0,0,0,0,2,0,0,0,1,0,1,0,0,0,0,2,5,7
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,1,0,3,2,5
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,1,2,6,12,23,21,25,23,8,9,0,2,3,5,2,2,6,4,0,1,74,81,155
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,2,1,3
+CONCEPCION,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,1,2,0,2,0,0,0,0,5,6,2,2,1,4,2,3,11,19,30
+ENTRE RIOS TRJ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2
+ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,2,3
+GENERAL SAAVEDRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,1,0,0,0,0,0,1,1,2,0,1,0,1,0,0,1,6,7
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,1,0,7,10,12,7,7,1,2,1,5,7,1,3,1,1,3,7,39,37,76
+LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+MACHACAMARCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MACHARETI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,4,0,4
+MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,1,0,1,1,0,0,0,0,0,6,0,0,1,0,0,0,3,7,10
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,1,0,0,0,2,0,0,0,1,2,1,0,0,0,2,0,7,2,9
+PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,1,0,0,1,0,0,0,1,0,2,0,0,0,0,0,0,1,4,5
+PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+POCONA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+POOPO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,15,14,19,17,3,4,0,1,9,5,1,2,1,3,3,3,51,49,100
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,1,1,2,0,0,4,4,8
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,1,4,0,0,1,0,1,0,0,0,0,0,0,0,1,0,4,4,8
+QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,1,0,0,1,0,1,1,0,0,0,1,1,1,0,0,1,0,0,0,4,4,8
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,2,0,0,1,2,3,7,10
+ROBORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,1,2,3,1,0,2,1,0,0,0,1,0,0,0,0,0,0,5,6,11
+SALINAS DE GARCI MENDOZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAMAIPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,2,3,5
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,1,0,1,0,1,0,0,0,2,1,1,0,0,0,0,1,6,2,8
+SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,0,0,2,3,5
+SAN RAMON BENI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+SANTA ANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,3,1,2,0,10,6,4,5,2,1,4,3,11,11,5,8,1,6,3,5,45,46,91
+SHINAOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SICAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,1,0,10,7,11,12,1,6,1,2,1,6,4,0,2,3,0,4,31,40,71
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,1,0,1,2,4,5,5,1,0,1,0,4,10,1,2,2,3,0,1,16,27,43
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,2,3
+TOMAVE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+UNCIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,2,1,3
+UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,1,0,0,1,4,0,1,3,1,0,0,0,1,0,1,0,2,0,1,0,12,4,16
+VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,2,3
+VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,1,1,0,0,1,2,5,3,1,0,1,0,0,1,0,1,0,1,1,0,10,9,19
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,1,1,0,0,0,1,4,1,1,2,0,0,0,0,6,5,11
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,1,0,0,1,0,0,0,2,0,1,1,0,1,1,3,5,8
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,2,2,4
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,0,2,2,3,1,0,4,0,0,4,1,0,0,0,1,1,1,10,10,20
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-11-01,0,0,0,1,4,1,3,5,1,1,5,9,5,35,4,4,1,5,4,3,27,64,91
+ACHACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,2,3
+AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+ASCENCION DE GUARAYOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+AYOPAYA (V. DE INDEPENDENCIA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+BUENA VISTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,1,1,4,2,6
+CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,2,1,3
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,1,0,0,1,0,0,3,1,0,0,0,0,0,0,4,2,6
+CAPINOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,2,0,0,2,0,1,0,0,0,0,0,0,2,3,5
+CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,1,0,2,1,2,2,0,2,1,0,1,1,2,0,2,0,0,2,1,1,12,9,21
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,1,3,4
+CKOCHAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,2,3
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,2,3
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,1,1,2,16,9,15,17,10,5,0,1,2,7,2,1,0,3,2,4,48,50,98
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COMARAPA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COPACABANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,2,1,0,4,3,1,0,0,2,1,1,3,0,0,0,0,8,10,18
+ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+GENERAL SAAVEDRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,1,0,1,0,0,1,2,0,0,0,0,0,0,1,4,5
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,2,3
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,1,0,0,0,4,5,4,1,2,1,1,0,1,3,0,2,0,0,1,1,14,13,27
+LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MECAPACA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,1,2,3,5
+MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,1,0,0,0,3,0,1,1,1,0,4,1,0,0,0,0,0,1,10,3,13
+OMEREQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,1,0,2,0,7,1,8
+PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+POSTRER VALLE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,1,1,0,4,3,9,6,1,0,1,2,1,5,2,1,1,0,5,1,25,19,44
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,4,0,4
+PUNA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,3,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,4,7
+QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,1,0,0,0,0,0,3,0,1,1,0,0,0,1,5,2,7
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,2,1,2,1,1,1,1,2,0,0,0,0,0,0,0,1,0,0,6,6,12
+SAN BUENA VENTURA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2
+SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,2,2,3,4,7
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,1,1,0,0,2,0,1,3,0,0,0,0,0,2,4,6,10
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SAN RAMON BENI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,3,6,8,4,6,3,4,12,8,20,26,9,7,1,10,6,5,61,77,138
+SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,4,2,5,5,2,3,2,1,4,3,8,1,2,1,1,0,1,16,29,45
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,1,0,5,4,14,16,5,7,2,4,6,11,3,1,3,4,2,2,41,49,90
+TARVITA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,1,0,0,2,0,0,0,1,0,3,0,0,0,0,0,0,1,6,7
+TOTORA(CBBA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,1,1,0,0,2,0,2,0,0,0,0,0,0,0,5,1,6
+UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,1,0,1,0,0,2,0,0,0,1,1,0,0,0,0,0,1,3,4,7
+VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,1,1,0,1,0,3,1,1,0,0,2,0,0,0,0,0,1,1,1,7,6,13
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA VACA GUZMAN (MUYUPAMPA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,3,1,4
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,2,2,0,1,0,0,0,0,1,1,0,1,2,0,1,0,6,5,11
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2022-12-01,0,0,0,0,0,2,4,4,4,5,2,5,9,11,1,3,3,3,4,5,27,38,65

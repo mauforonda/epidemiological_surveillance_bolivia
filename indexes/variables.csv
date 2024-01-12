@@ -1,0 +1,1296 @@
+year,group_id,group,variable_id,variable
+2005,01,sospecha diagnostica,01,sarampion / rubeola
+2005,01,sospecha diagnostica,03,tos ferina
+2005,01,sospecha diagnostica,04,difteria
+2005,01,sospecha diagnostica,05,paralisis flacida aguda
+2005,01,sospecha diagnostica,06,fiebre amarilla
+2005,01,sospecha diagnostica,07,dengue hemorragico
+2005,01,sospecha diagnostica,08,dengue clasico
+2005,02,sospecha diagnostica,09,fiebre hemorrag. bol
+2005,02,sospecha diagnostica,11,peste
+2005,02,sospecha diagnostica,12,menin. meningococica
+2005,02,sospecha diagnostica,13,colera
+2005,02,sospecha diagnostica,14,enfer. por hanta virus
+2005,02,sospecha diagnostica,15,rabia humana
+2005,03,sospecha diagnostica,14,numero de personas mordidas por animal sospechoso de rabia
+2005,04,inmunoprevenibles,01,tetanos neonatal
+2005,04,inmunoprevenibles,02,tetanos del adulto
+2005,04,inmunoprevenibles,03,hepatitis
+2005,04,inmunoprevenibles,04,parotiditis
+2005,05,infec de transmision sexual,01,mujer con ulcera genital
+2005,05,infec de transmision sexual,02,hombre con ulcera genital
+2005,05,infec de transmision sexual,03,hombre con flujo uretral (uretritis)
+2005,05,infec de transmision sexual,04,sida
+2005,06,otras infecciones,01,enfermedad  diarreica aguda
+2005,06,otras infecciones,02,ira sin neumonia
+2005,06,otras infecciones,03,neumonia
+2005,06,otras infecciones,04,malaria
+2005,06,otras infecciones,05,leishmaniasis
+2005,07,tuberculosis y lepra,01,sintomatico respiratorio
+2005,07,tuberculosis y lepra,02, meningitis tb en menores de 5 anos
+2005,07,tuberculosis y lepra,03,tuberculosis pulmonar baar + nuevos
+2005,07,tuberculosis y lepra,04,tuberculosis pulmonar baar - nuevos
+2005,07,tuberculosis y lepra,05,tuberculosis extrapulmonar
+2005,07,tuberculosis y lepra,06,enfermos curados
+2005,07,tuberculosis y lepra,07,fracaso terapeutico
+2005,07,tuberculosis y lepra,08,lepra *
+2005,08,violencia  intrafamiliar,01,hombres
+2005,08,violencia  intrafamiliar,02,mujeres
+2005,09,mortalidad institucional,01,muerte materna
+2005,09,mortalidad institucional,02,muerte rn menor de 7 dias
+2005,09,mortalidad institucional,03,muerte menor de 1 ano
+2005,09,mortalidad institucional,04,muerte  menor de 5 anos por diarrea
+2005,09,mortalidad institucional,05,muerte menor de 5 anos por neumonia
+2005,09,mortalidad institucional,06,muerte menor de 5 anos por otras causas
+2005,09,mortalidad institucional,07,otras muertes en personas mayores de 5 anos
+2005,10,salud sexual y reproductiva,01,hemorragia de la primera mitad del embarazo (<22 sem)
+2005,10,salud sexual y reproductiva,02,hemorragia del parto o puerperio
+2005,10,salud sexual y reproductiva,03,embarazo en adolecente (menor de 20 anos)
+2005,10,salud sexual y reproductiva,04,preeclampsia severa/eclampsia
+2005,11,desnutricion global,01,sobrepeso (s)
+2005,11,desnutricion global,02,nutricion normal (n)
+2005,11,desnutricion global,03,desnutricion leve (l)
+2005,11,desnutricion global,04,desnutricion moderada (m)
+2005,11,desnutricion global,05,desnutricion grave (g)
+2005,12,desnutricion cronica,01,talla normal (n)
+2005,12,desnutricion cronica,02,talla baja leve (l)
+2005,12,desnutricion cronica,03,talla baja moderada (m)
+2005,12,desnutricion cronica,04,talla baja grave (g)
+2005,13,intoxicaciones,01,plaguicidas
+2006,01,sospecha diagnostica,01,sarampion / rubeola
+2006,01,sospecha diagnostica,03,tos ferina
+2006,01,sospecha diagnostica,04,difteria
+2006,01,sospecha diagnostica,05,paralisis flacida aguda
+2006,01,sospecha diagnostica,06,fiebre amarilla
+2006,01,sospecha diagnostica,07,dengue hemorragico
+2006,01,sospecha diagnostica,08,dengue clasico
+2006,02,sospecha diagnostica,09,fiebre hemorrag. bol
+2006,02,sospecha diagnostica,11,peste
+2006,02,sospecha diagnostica,12,menin. meningococica
+2006,02,sospecha diagnostica,13,colera
+2006,02,sospecha diagnostica,14,enfer. por hanta virus
+2006,02,sospecha diagnostica,15,rabia humana
+2006,03,sospecha diagnostica,14,numero de personas mordidas por animal sospechoso de rabia
+2006,04,inmunoprevenibles,01,tetanos neonatal
+2006,04,inmunoprevenibles,02,tetanos del adulto
+2006,04,inmunoprevenibles,03,hepatitis
+2006,04,inmunoprevenibles,04,parotiditis
+2006,05,infec de transmision sexual,01,mujer con ulcera genital
+2006,05,infec de transmision sexual,02,hombre con ulcera genital
+2006,05,infec de transmision sexual,03,hombre con flujo uretral (uretritis)
+2006,05,infec de transmision sexual,04,sida
+2006,06,otras infecciones,01,enfermedad  diarreica aguda
+2006,06,otras infecciones,02,ira sin neumonia
+2006,06,otras infecciones,03,neumonia
+2006,06,otras infecciones,04,malaria
+2006,06,otras infecciones,05,leishmaniasis
+2006,07,tuberculosis y lepra,01,sintomatico respiratorio
+2006,07,tuberculosis y lepra,02, meningitis tb en menores de 5 anos
+2006,07,tuberculosis y lepra,03,tuberculosis pulmonar baar + nuevos
+2006,07,tuberculosis y lepra,04,tuberculosis pulmonar baar - nuevos
+2006,07,tuberculosis y lepra,05,tuberculosis extrapulmonar
+2006,07,tuberculosis y lepra,06,enfermos curados
+2006,07,tuberculosis y lepra,07,fracaso terapeutico
+2006,07,tuberculosis y lepra,08,lepra *
+2006,08,violencia  intrafamiliar,01,hombres
+2006,08,violencia  intrafamiliar,02,mujeres
+2006,09,mortalidad institucional,01,muerte materna
+2006,09,mortalidad institucional,02,muerte rn menor de 7 dias
+2006,09,mortalidad institucional,03,muerte menor de 1 ano
+2006,09,mortalidad institucional,04,muerte  menor de 5 anos por diarrea
+2006,09,mortalidad institucional,05,muerte menor de 5 anos por neumonia
+2006,09,mortalidad institucional,06,muerte menor de 5 anos por otras causas
+2006,09,mortalidad institucional,07,otras muertes en personas mayores de 5 anos
+2006,10,salud sexual y reproductiva,01,hemorragia de la primera mitad del embarazo (<22 sem)
+2006,10,salud sexual y reproductiva,02,hemorragia del parto o puerperio
+2006,10,salud sexual y reproductiva,03,embarazo en adolecente (menor de 20 anos)
+2006,10,salud sexual y reproductiva,04,preeclampsia severa/eclampsia
+2006,11,desnutricion global,01,sobrepeso (s)
+2006,11,desnutricion global,02,nutricion normal (n)
+2006,11,desnutricion global,03,desnutricion leve (l)
+2006,11,desnutricion global,04,desnutricion moderada (m)
+2006,11,desnutricion global,05,desnutricion grave (g)
+2006,12,desnutricion cronica,01,talla normal (n)
+2006,12,desnutricion cronica,02,talla baja leve (l)
+2006,12,desnutricion cronica,03,talla baja moderada (m)
+2006,12,desnutricion cronica,04,talla baja grave (g)
+2006,13,intoxicaciones,01,plaguicidas
+2007,01,sospecha diagnostica,01,sarampion / rubeola
+2007,01,sospecha diagnostica,03,tos ferina
+2007,01,sospecha diagnostica,04,difteria
+2007,01,sospecha diagnostica,05,paralisis flacida aguda
+2007,01,sospecha diagnostica,06,fiebre amarilla
+2007,01,sospecha diagnostica,07,dengue hemorragico
+2007,01,sospecha diagnostica,08,dengue clasico
+2007,02,sospecha diagnostica,09,fiebre hemorrag. bol
+2007,02,sospecha diagnostica,11,peste
+2007,02,sospecha diagnostica,12,menin. meningococica
+2007,02,sospecha diagnostica,13,colera
+2007,02,sospecha diagnostica,14,enfer. por hanta virus
+2007,02,sospecha diagnostica,15,rabia humana
+2007,03,sospecha diagnostica,14,numero de personas mordidas por animal sospechoso de rabia
+2007,04,inmunoprevenibles,01,tetanos neonatal
+2007,04,inmunoprevenibles,02,tetanos
+2007,04,inmunoprevenibles,03,hepatitis
+2007,04,inmunoprevenibles,04,parotiditis
+2007,05,infec de transmision sexual,01,ulcera genital
+2007,05,infec de transmision sexual,03,flujo uretral (uretritis)
+2007,05,infec de transmision sexual,04,sida *
+2007,06,otras infecciones,01,enfermedad  diarreica aguda
+2007,06,otras infecciones,02,ira sin neumonia
+2007,06,otras infecciones,03,neumonia
+2007,06,otras infecciones,04,malaria
+2007,06,otras infecciones,05,leishmaniasis
+2007,07,tuberculosis y lepra,01,sintomatico respiratorio
+2007,07,tuberculosis y lepra,02, meningitis tb en menores de 5 anos
+2007,07,tuberculosis y lepra,03,tuberculosis pulmonar baar + nuevos
+2007,07,tuberculosis y lepra,04,tuberculosis pulmonar baar - nuevos
+2007,07,tuberculosis y lepra,05,tuberculosis extrapulmonar
+2007,07,tuberculosis y lepra,06,enfermos curados
+2007,07,tuberculosis y lepra,07,fracaso terapeutico
+2007,07,tuberculosis y lepra,08,lepra paucibacilar*
+2007,07,tuberculosis y lepra,09,lepra multibacilar *
+2007,08,violencia  intrafamiliar,01,intrafamiliar
+2007,08,violencia  intrafamiliar,02,otras violencias (causas externas)
+2007,09,mortalidad institucional,01,muerte materna
+2007,09,mortalidad institucional,02,muerte rn menor de 7 dias
+2007,09,mortalidad institucional,03,muerte menor de 1 ano
+2007,09,mortalidad institucional,04,muerte  menor de 5 anos por diarrea
+2007,09,mortalidad institucional,05,muerte menor de 5 anos por neumonia
+2007,09,mortalidad institucional,06,muerte menor de 5 anos por otras causas
+2007,09,mortalidad institucional,07,otras muertes en personas mayores de 5 anos
+2007,10,salud sexual y reproductiva,01,hemorragia de la primera mitad del embarazo (<22 sem)
+2007,10,salud sexual y reproductiva,02,nro. de embarazadas enflaquecidas (desnutridas)
+2007,10,salud sexual y reproductiva,03,embarazo en adolecente (menor de 20 anos)
+2007,10,salud sexual y reproductiva,04,preeclampsia severa/eclampsia
+2007,11,desnutricion aguda,01,nutricion superior (ns)
+2007,11,desnutricion aguda,02,nutricion normal (n)
+2007,11,desnutricion aguda,03,desnutricion leve (l)
+2007,11,desnutricion aguda,04,desnutricion moderada (m)
+2007,11,desnutricion aguda,05,desnutricion grave (g)
+2007,12,desnutricion global - cronica,01,global peso bajo (m + g))
+2007,12,desnutricion global - cronica,02,cronica talla baja (m + g)
+2007,13,intoxicaciones,01,plaguicidas
+2007,13,intoxicaciones,02,otras intoxicaciones
+2008,01,sospecha diagnostica,01,sarampion / rubeola
+2008,01,sospecha diagnostica,03,tos ferina
+2008,01,sospecha diagnostica,04,difteria
+2008,01,sospecha diagnostica,05,paralisis flacida aguda
+2008,01,sospecha diagnostica,06,fiebre amarilla
+2008,01,sospecha diagnostica,07,dengue hemorragico
+2008,01,sospecha diagnostica,08,dengue clasico
+2008,02,sospecha diagnostica,09,fiebre hemorrag. bol
+2008,02,sospecha diagnostica,11,peste
+2008,02,sospecha diagnostica,12,menin. meningococica
+2008,02,sospecha diagnostica,13,colera
+2008,02,sospecha diagnostica,14,enfer. por hanta virus
+2008,02,sospecha diagnostica,15,rabia humana
+2008,02,sospecha diagnostica,16,no de personas mordidas por animal
+2008,02,sospecha diagnostica,17,influenza aviar - pandemica
+2008,04,inmunoprevenibles,01,tetanos neonatal
+2008,04,inmunoprevenibles,02,tetanos
+2008,04,inmunoprevenibles,03,hepatitis viral
+2008,04,inmunoprevenibles,04,parotiditis
+2008,05,infec. de transmision sexual,01,ulcera genital
+2008,05,infec. de transmision sexual,03,flujo uretral (uretritis)
+2008,05,infec. de transmision sexual,04,sida *
+2008,06,otras infecciones,01,enfermedad diarreica aguda
+2008,06,otras infecciones,02,ira sin neumonia
+2008,06,otras infecciones,03,neumonia
+2008,06,otras infecciones,04,malaria
+2008,06,otras infecciones,05,leishmaniasis
+2008,07,tuberculosis y lepra,02,meningitis tb en menores de 5 anos
+2008,07,tuberculosis y lepra,08,lepra paucibacilar*
+2008,07,tuberculosis y lepra,09,lepra multibacilar *
+2008,07,tuberculosis y lepra,10,rafa reacciones adversas (leves y moderadas)
+2008,07,tuberculosis y lepra,11,rafa reacciones adversas (graves)
+2008,08,violencia  intrafamiliar,01,intrafamiliar/domestica
+2008,08,violencia  intrafamiliar,02,"otras violencias (accidentes, agresiones, leer instructivo)"
+2008,09,mortalidad institucional,01,muerte materna
+2008,09,mortalidad institucional,02,muerte rn menor de 7 dias
+2008,09,mortalidad institucional,03,muerte menor de 1 ano
+2008,09,mortalidad institucional,04,muerte  menor de 5 anos por diarrea
+2008,09,mortalidad institucional,05,muerte menor de 5 anos por neumonia
+2008,09,mortalidad institucional,06,muerte menor de 5 anos por otras causas
+2008,09,mortalidad institucional,07,otras muertes en mayores de 5 anos
+2008,10,salud sexual y reproductiva,01,hemorragia de la primera mitad del embarazo (<22 sem)
+2008,10,salud sexual y reproductiva,03,embarazo en adolecente (menor de 20 anos)
+2008,10,salud sexual y reproductiva,04,preeclampsia severa/eclampsia
+2008,11,estado nutricional,01,sobrepeso (s)
+2008,11,estado nutricional,02,nutricion normal (n)
+2008,11,estado nutricional,03,desnutricion leve (l)
+2008,11,estado nutricional,04,desnutricion moderada (m)
+2008,11,estado nutricional,05,desnutricion grave (g)
+2008,11,estado nutricional,06,desnutrida
+2008,11,estado nutricional,07,obesidad (o)
+2008,13,intoxicaciones,01,plaguicidas
+2008,13,intoxicaciones,02,"otras intoxicaciones (drogas, farmacos, alcohol, leer instructivo)"
+2008,14,talla para la edad (t/e),01,talla normal (t n)
+2008,14,talla para la edad (t/e),02,talla baja (tb)
+2009,01,sospecha diagnostica,01,sarampion / rubeola
+2009,01,sospecha diagnostica,03,tos ferina
+2009,01,sospecha diagnostica,04,difteria
+2009,01,sospecha diagnostica,05,paralisis flacida aguda
+2009,01,sospecha diagnostica,06,fiebre amarilla
+2009,01,sospecha diagnostica,07,dengue hemorragico
+2009,01,sospecha diagnostica,08,dengue clasico
+2009,02,sospecha diagnostica,09,fiebre hemorrag. bol
+2009,02,sospecha diagnostica,11,peste
+2009,02,sospecha diagnostica,12,menin. meningococica
+2009,02,sospecha diagnostica,13,colera
+2009,02,sospecha diagnostica,14,enfer. por hanta virus
+2009,02,sospecha diagnostica,15,rabia humana
+2009,02,sospecha diagnostica,16,no de personas mordidas por animal
+2009,02,sospecha diagnostica,17,influenza aviar - pandemica
+2009,04,inmunoprevenibles,01,tetanos neonatal
+2009,04,inmunoprevenibles,02,tetanos
+2009,04,inmunoprevenibles,03,hepatitis viral
+2009,04,inmunoprevenibles,04,parotiditis
+2009,05,infec. de transmision sexual,01,ulcera genital
+2009,05,infec. de transmision sexual,03,flujo uretral (uretritis)
+2009,05,infec. de transmision sexual,04,sida *
+2009,06,otras infecciones,01,enfermedad diarreica aguda
+2009,06,otras infecciones,02,ira sin neumonia
+2009,06,otras infecciones,03,neumonia
+2009,06,otras infecciones,04,malaria
+2009,06,otras infecciones,05,leishmaniasis
+2009,07,tuberculosis y lepra,02,meningitis tb en menores de 5 anos
+2009,07,tuberculosis y lepra,08,lepra paucibacilar*
+2009,07,tuberculosis y lepra,09,lepra multibacilar *
+2009,07,tuberculosis y lepra,10,rafa reacciones adversas (leves y moderadas)
+2009,07,tuberculosis y lepra,11,rafa reacciones adversas (graves)
+2009,08,violencia  intrafamiliar,01,intrafamiliar/domestica
+2009,08,violencia  intrafamiliar,02,"otras violencias (accidentes, agresiones, leer instructivo)"
+2009,09,mortalidad institucional,01,muerte materna
+2009,09,mortalidad institucional,02,muerte rn menor de 7 dias
+2009,09,mortalidad institucional,03,muerte menor de 1 ano
+2009,09,mortalidad institucional,04,muerte  menor de 5 anos por diarrea
+2009,09,mortalidad institucional,05,muerte menor de 5 anos por neumonia
+2009,09,mortalidad institucional,06,muerte menor de 5 anos por otras causas
+2009,09,mortalidad institucional,07,otras muertes en mayores de 5 anos
+2009,10,salud sexual y reproductiva,01,hemorragia de la primera mitad del embarazo (<22 sem)
+2009,10,salud sexual y reproductiva,03,embarazo en adolecente (menor de 20 anos)
+2009,10,salud sexual y reproductiva,04,preeclampsia severa/eclampsia
+2009,11,estado nutricional,01,sobrepeso (s)
+2009,11,estado nutricional,02,nutricion normal (n)
+2009,11,estado nutricional,03,desnutricion leve (l)
+2009,11,estado nutricional,04,desnutricion moderada (m)
+2009,11,estado nutricional,05,desnutricion grave (g)
+2009,11,estado nutricional,06,desnutrida
+2009,11,estado nutricional,07,obesidad (o)
+2009,13,intoxicaciones,01,plaguicidas
+2009,13,intoxicaciones,02,"otras intoxicaciones (drogas, farmacos, alcohol, leer instructivo)"
+2009,14,talla para la edad (t/e),01,talla normal (t n)
+2009,14,talla para la edad (t/e),02,talla baja (tb)
+2010,01,sospecha diagnostica,01,sarampion / rubeola
+2010,01,sospecha diagnostica,03,tos ferina
+2010,01,sospecha diagnostica,04,difteria
+2010,01,sospecha diagnostica,05,paralisis flacida aguda (polio)
+2010,01,sospecha diagnostica,06,fiebre amarilla
+2010,01,sospecha diagnostica,07,dengue hemorragico
+2010,01,sospecha diagnostica,08,dengue clasico
+2010,01,sospecha diagnostica,09,fiebre hemorragica boliviana
+2010,01,sospecha diagnostica,10,peste
+2010,02,sospecha diagnostica,10,meningitis meningococica
+2010,02,sospecha diagnostica,13,colera
+2010,02,sospecha diagnostica,14,enfermedad por hanta virus
+2010,02,sospecha diagnostica,15,rabia humana
+2010,02,sospecha diagnostica,17,influenza / pandemica
+2010,02,sospecha diagnostica,18,rabia canina
+2010,02,sospecha diagnostica,19,leptospirosis
+2010,02,sospecha diagnostica,22,mordedura de serpiente
+2010,04,inmunoprevenibles,01,tetanos neonatal / adulto
+2010,04,inmunoprevenibles,03,hepatitis viral
+2010,04,inmunoprevenibles,04,parotiditis
+2010,05,infecc. de transmision sexual,01,ulcera genital
+2010,05,infecc. de transmision sexual,03,flujo uretral (uretritis)
+2010,05,infecc. de transmision sexual,04,sida *
+2010,05,infecc. de transmision sexual,05,dolor abdominal/ edema de escroto
+2010,05,infecc. de transmision sexual,06,vih mujer embarazada
+2010,05,infecc. de transmision sexual,07,vih poblacion en general
+2010,06,otras infecciones,01,enfermedad diarreica aguda
+2010,06,otras infecciones,02,ira sin neumonia
+2010,06,otras infecciones,03,neumonia
+2010,06,otras infecciones,04,malaria sospechosos
+2010,06,otras infecciones,05,leishmaniasis sospechosos
+2010,06,otras infecciones,06,"no de personas expuestas al virus rabico(mordida,"
+2010,06,otras infecciones,07,chagas agudo
+2010,06,otras infecciones,08,malaria confirmados
+2010,06,otras infecciones,09,leishmaniasis confirmados
+2010,07,tuberculosis y lepra,02,tuberculosis meningea
+2010,07,tuberculosis y lepra,08,lepra paucibacilar*
+2010,07,tuberculosis y lepra,09,lepra multibacilar *
+2010,07,tuberculosis y lepra,10,rafa (leves y moderadas)
+2010,07,tuberculosis y lepra,11,rafa (graves)
+2010,08,"violencia, hechos de transito y accidentes",01,intrafamiliar/domestica
+2010,08,"violencia, hechos de transito y accidentes",02,"otras violencias (accidentes, agresiones, leer in"
+2010,08,"violencia, hechos de transito y accidentes",03,hechos de transito
+2010,08,"violencia, hechos de transito y accidentes",04,accidentes
+2010,09,mortalidad,01,muerte materna
+2010,09,mortalidad,02,muerte rn menor de 7 dias
+2010,09,mortalidad,03,muerte menor de 1 ano
+2010,09,mortalidad,04,muerte  menor de 5 anos por diarrea
+2010,09,mortalidad,06,muerte menor de 5 anos por otras causas
+2010,09,mortalidad,07,otras muertes en mayores de 5 anos
+2010,09,mortalidad,08,muerte menor de 5 anos por neumonia
+2010,10,salud sexual y reproductiva,01,hemorragia de la primera mitad del embarazo (<22
+2010,10,salud sexual y reproductiva,02,embarazo en adolescente (< de 20 anos)
+2010,10,salud sexual y reproductiva,04,preeclampsia severa/eclampsia
+2010,11,estado nutricional,01,sobrepeso (s)
+2010,11,estado nutricional,02,nutricion normal (n)
+2010,11,estado nutricional,03,desnutricion leve (l)
+2010,11,estado nutricional,04,desnutricion moderada (m)
+2010,11,estado nutricional,05,desnutricion grave (g)
+2010,11,estado nutricional,06,embarazada desnutrida
+2010,11,estado nutricional,07,obesidad (o)
+2010,13,intoxicaciones,01,plaguicidas
+2010,13,intoxicaciones,02,"otras intoxicaciones (drogas, farmacos, etc.)"
+2010,13,intoxicaciones,03,enf. transmitidas por alimentos (e.t.a.)
+2010,14,talla para la edad (t/e),01,talla normal (t n)
+2010,14,talla para la edad (t/e),02,talla baja (tb)
+2010,15,registro de eventos de notificacion inmediata,01,riada
+2010,15,registro de eventos de notificacion inmediata,02,helada/granizo/nevada
+2010,15,registro de eventos de notificacion inmediata,03,incendio
+2010,16,registro de eventos de notificacion inmediata,01,deslizamiento
+2010,16,registro de eventos de notificacion inmediata,02,inundacion
+2010,16,registro de eventos de notificacion inmediata,03,otros de excepcion
+2011,01,sospecha diagnostica,01,sarampion / rubeola
+2011,01,sospecha diagnostica,03,tos ferina
+2011,01,sospecha diagnostica,04,difteria
+2011,01,sospecha diagnostica,05,paralisis flacida aguda (polio)
+2011,01,sospecha diagnostica,06,fiebre amarilla
+2011,01,sospecha diagnostica,07,dengue hemorragico
+2011,01,sospecha diagnostica,08,dengue clasico
+2011,01,sospecha diagnostica,09,fiebre hemorragica boliviana
+2011,01,sospecha diagnostica,10,peste
+2011,02,sospecha diagnostica,10,meningitis meningococica
+2011,02,sospecha diagnostica,13,colera
+2011,02,sospecha diagnostica,14,enfermedad por hanta virus
+2011,02,sospecha diagnostica,15,rabia humana
+2011,02,sospecha diagnostica,17,influenza / pandemica
+2011,02,sospecha diagnostica,18,rabia canina
+2011,02,sospecha diagnostica,19,leptospirosis
+2011,02,sospecha diagnostica,22,mordedura de serpiente
+2011,04,inmunoprevenibles,01,tetanos neonatal / adulto
+2011,04,inmunoprevenibles,03,hepatitis viral
+2011,04,inmunoprevenibles,04,parotiditis
+2011,05,infecc. de transmision sexual,01,ulcera genital
+2011,05,infecc. de transmision sexual,03,flujo uretral (vaginal)
+2011,05,infecc. de transmision sexual,04,sida *
+2011,05,infecc. de transmision sexual,05,sifilis en la mujer embarazada
+2011,05,infecc. de transmision sexual,06,vih mujer embarazada
+2011,05,infecc. de transmision sexual,07,vih poblacion en general
+2011,06,otras infecciones,01,enfermedad diarreica aguda
+2011,06,otras infecciones,02,ira sin neumonia
+2011,06,otras infecciones,03,neumonia
+2011,06,otras infecciones,04,malaria sospechosos
+2011,06,otras infecciones,05,leishmaniasis sospechosos
+2011,06,otras infecciones,06,"no de personas expuestas al virus rabico(mordida,"
+2011,06,otras infecciones,07,chagas agudo
+2011,06,otras infecciones,08,malaria confirmados
+2011,06,otras infecciones,09,leishmaniasis confirmados
+2011,07,tuberculosis y lepra,02,tuberculosis meningea
+2011,07,tuberculosis y lepra,08,lepra paucibacilar*
+2011,07,tuberculosis y lepra,09,lepra multibacilar *
+2011,07,tuberculosis y lepra,10,rafa (leves y moderadas)
+2011,07,tuberculosis y lepra,11,rafa (graves)
+2011,08,"violencia, hechos de transito y accidentes",01,intrafamiliar/domestica
+2011,08,"violencia, hechos de transito y accidentes",02,"otras violencias (accidentes, agresiones, leer in"
+2011,08,"violencia, hechos de transito y accidentes",03,hechos de transito
+2011,08,"violencia, hechos de transito y accidentes",04,accidentes
+2011,09,mortalidad,01,muerte materna
+2011,09,mortalidad,02,muerte rn menor de 7 dias
+2011,09,mortalidad,03,muerte menor de 1 ano
+2011,09,mortalidad,04,muerte  menor de 5 anos por diarrea
+2011,09,mortalidad,05,muerte menor de 5 anos por neumonia
+2011,09,mortalidad,06,muerte menor de 5 anos por otras causas
+2011,09,mortalidad,07,otras muertes en mayores de 5 anos
+2011,09,mortalidad,08,muerte menor de 5 anos por desnutricion aguda gra
+2011,10,salud sexual y reproductiva,01,hemorragia de la primera mitad del embarazo (<22
+2011,10,salud sexual y reproductiva,02,embarazo en adolescente (< de 20 anos)
+2011,10,salud sexual y reproductiva,04,preeclampsia severa/eclampsia
+2011,11,estado nutricional,01,sobrepeso (s)
+2011,11,estado nutricional,02,nutricion normal (n)
+2011,11,estado nutricional,03,desnutricion leve (l)
+2011,11,estado nutricional,04,desnutricion moderada (m)
+2011,11,estado nutricional,05,desnutricion grave (g)
+2011,11,estado nutricional,06,embarazada desnutrida
+2011,11,estado nutricional,07,obesidad (o)
+2011,13,intoxicaciones,01,plaguicidas
+2011,13,intoxicaciones,02,"otras intoxicaciones (drogas, farmacos, etc.)"
+2011,13,intoxicaciones,03,enf. transmitidas por alimentos (e.t.a.)
+2011,14,talla para la edad (t/e),01,talla normal (t n)
+2011,14,talla para la edad (t/e),02,talla baja (tb)
+2011,15,registro de eventos de notificacion inmediata,01,riada
+2011,15,registro de eventos de notificacion inmediata,02,helada/granizo/nevada
+2011,15,registro de eventos de notificacion inmediata,03,incendio
+2011,16,registro de eventos de notificacion inmediata,01,deslizamiento
+2011,16,registro de eventos de notificacion inmediata,02,inundacion
+2011,16,registro de eventos de notificacion inmediata,03,otros de excepcion
+2012,01,sospecha diagnostica,01,sarampion / rubeola
+2012,01,sospecha diagnostica,03,tos ferina
+2012,01,sospecha diagnostica,04,difteria
+2012,01,sospecha diagnostica,05,paralisis flacida aguda (polio)
+2012,01,sospecha diagnostica,06,fiebre amarilla
+2012,01,sospecha diagnostica,07,dengue hemorragico
+2012,01,sospecha diagnostica,08,dengue clasico
+2012,01,sospecha diagnostica,09,fiebre hemorragica boliviana
+2012,01,sospecha diagnostica,10,peste
+2012,02,sospecha diagnostica,10,meningitis meningococica
+2012,02,sospecha diagnostica,13,colera
+2012,02,sospecha diagnostica,14,enfermedad por hanta virus
+2012,02,sospecha diagnostica,15,rabia humana
+2012,02,sospecha diagnostica,17,influenza / pandemica
+2012,02,sospecha diagnostica,18,rabia canina
+2012,02,sospecha diagnostica,19,leptospirosis
+2012,02,sospecha diagnostica,22,mordedura de serpiente
+2012,04,inmunoprevenibles,01,tetanos neonatal / adulto
+2012,04,inmunoprevenibles,03,hepatitis viral
+2012,04,inmunoprevenibles,04,parotiditis
+2012,05,infecc. de transmision sexual,01,ulcera genital
+2012,05,infecc. de transmision sexual,03,flujo uretral (vaginal)
+2012,05,infecc. de transmision sexual,04,sida *
+2012,05,infecc. de transmision sexual,05,sifilis en la mujer embarazada
+2012,05,infecc. de transmision sexual,06,vih mujer embarazada
+2012,05,infecc. de transmision sexual,07,vih poblacion en general
+2012,06,otras infecciones,01,enfermedad diarreica aguda
+2012,06,otras infecciones,02,ira sin neumonia
+2012,06,otras infecciones,03,neumonia
+2012,06,otras infecciones,04,malaria sospechosos
+2012,06,otras infecciones,05,leishmaniasis sospechosos
+2012,06,otras infecciones,06,"no de personas expuestas al virus rabico(mordida,"
+2012,06,otras infecciones,07,chagas agudo
+2012,06,otras infecciones,08,malaria confirmados
+2012,06,otras infecciones,09,leishmaniasis confirmados
+2012,07,tuberculosis y lepra,02,tuberculosis meningea
+2012,07,tuberculosis y lepra,08,lepra paucibacilar*
+2012,07,tuberculosis y lepra,09,lepra multibacilar *
+2012,07,tuberculosis y lepra,10,rafa (leves y moderadas)
+2012,07,tuberculosis y lepra,11,rafa (graves)
+2012,08,"violencia, hechos de transito y accidentes",01,intrafamiliar/domestica
+2012,08,"violencia, hechos de transito y accidentes",02,"otras violencias (accidentes, agresiones, leer in"
+2012,08,"violencia, hechos de transito y accidentes",03,hechos de transito
+2012,08,"violencia, hechos de transito y accidentes",04,accidentes
+2012,09,mortalidad,01,muerte materna
+2012,09,mortalidad,02,muerte rn menor de 7 dias
+2012,09,mortalidad,03,muerte menor de 1 ano
+2012,09,mortalidad,04,muerte  menor de 5 anos por diarrea
+2012,09,mortalidad,05,muerte menor de 5 anos por neumonia
+2012,09,mortalidad,06,muerte menor de 5 anos por otras causas
+2012,09,mortalidad,07,otras muertes en mayores de 5 anos
+2012,09,mortalidad,08,muerte menor de 5 anos por desnutricion aguda gra
+2012,10,salud sexual y reproductiva,01,hemorragia de la primera mitad del embarazo (<22
+2012,10,salud sexual y reproductiva,02,embarazo en adolescente (< de 20 anos)
+2012,10,salud sexual y reproductiva,04,preeclampsia severa/eclampsia
+2012,11,estado nutricional,01,sobrepeso (s)
+2012,11,estado nutricional,02,nutricion normal (n)
+2012,11,estado nutricional,03,desnutricion leve (l)
+2012,11,estado nutricional,04,desnutricion moderada (m)
+2012,11,estado nutricional,05,desnutricion grave (g)
+2012,11,estado nutricional,06,embarazada desnutrida
+2012,11,estado nutricional,07,obesidad (o)
+2012,13,intoxicaciones,01,plaguicidas
+2012,13,intoxicaciones,02,"otras intoxicaciones (drogas, farmacos, etc.)"
+2012,13,intoxicaciones,03,enf. transmitidas por alimentos (e.t.a.)
+2012,14,talla para la edad (t/e),01,talla normal (t n)
+2012,14,talla para la edad (t/e),02,talla baja (tb)
+2012,15,registro de eventos de notificacion inmediata,01,riada
+2012,15,registro de eventos de notificacion inmediata,02,helada/granizo/nevada
+2012,15,registro de eventos de notificacion inmediata,03,incendio
+2012,16,registro de eventos de notificacion inmediata,01,deslizamiento
+2012,16,registro de eventos de notificacion inmediata,02,inundacion
+2012,16,registro de eventos de notificacion inmediata,03,otros de excepcion
+2013,01,sospecha diagnostica,01,sarampion / rubeola
+2013,01,sospecha diagnostica,03,tos ferina
+2013,01,sospecha diagnostica,04,difteria
+2013,01,sospecha diagnostica,05,paralisis flacida aguda (polio)
+2013,01,sospecha diagnostica,06,fiebre amarilla
+2013,01,sospecha diagnostica,07,dengue hemorragico
+2013,01,sospecha diagnostica,08,dengue clasico
+2013,01,sospecha diagnostica,09,fiebre hemorragica boliviana
+2013,01,sospecha diagnostica,10,peste
+2013,02,sospecha diagnostica,10,meningitis meningococica
+2013,02,sospecha diagnostica,13,colera
+2013,02,sospecha diagnostica,14,enfermedad por hanta virus
+2013,02,sospecha diagnostica,15,rabia humana
+2013,02,sospecha diagnostica,17,influenza / pandemica
+2013,02,sospecha diagnostica,18,rabia canina
+2013,02,sospecha diagnostica,19,leptospirosis
+2013,02,sospecha diagnostica,22,mordedura de serpiente
+2013,04,inmunoprevenibles,01,tetanos neonatal / adulto
+2013,04,inmunoprevenibles,03,hepatitis viral
+2013,04,inmunoprevenibles,04,parotiditis
+2013,05,infecc. de transmision sexual,01,ulcera genital
+2013,05,infecc. de transmision sexual,03,flujo uretral (vaginal)
+2013,05,infecc. de transmision sexual,04,sida *
+2013,05,infecc. de transmision sexual,05,sifilis en la mujer embarazada
+2013,05,infecc. de transmision sexual,06,vih mujer embarazada
+2013,05,infecc. de transmision sexual,07,vih poblacion en general
+2013,06,otras infecciones,01,enfermedad diarreica aguda
+2013,06,otras infecciones,02,ira sin neumonia
+2013,06,otras infecciones,03,neumonia
+2013,06,otras infecciones,04,malaria sospechosos
+2013,06,otras infecciones,05,leishmaniasis sospechosos
+2013,06,otras infecciones,06,"no de personas expuestas al virus rabico(mordida,"
+2013,06,otras infecciones,07,chagas agudo
+2013,06,otras infecciones,08,malaria confirmados
+2013,06,otras infecciones,09,leishmaniasis confirmados
+2013,07,tuberculosis y lepra,02,tuberculosis meningea
+2013,07,tuberculosis y lepra,08,lepra paucibacilar*
+2013,07,tuberculosis y lepra,09,lepra multibacilar *
+2013,07,tuberculosis y lepra,10,rafa (leves y moderadas)
+2013,07,tuberculosis y lepra,11,rafa (graves)
+2013,08,"violencia, hechos de transito y accidentes",01,intrafamiliar/domestica
+2013,08,"violencia, hechos de transito y accidentes",02,"otras violencias (accidentes, agresiones, leer in"
+2013,08,"violencia, hechos de transito y accidentes",03,hechos de transito
+2013,08,"violencia, hechos de transito y accidentes",04,accidentes
+2013,09,mortalidad,01,muerte materna
+2013,09,mortalidad,02,muerte rn menor de 7 dias
+2013,09,mortalidad,03,muerte menor de 1 ano
+2013,09,mortalidad,04,muerte  menor de 5 anos por diarrea
+2013,09,mortalidad,05,muerte menor de 5 anos por neumonia
+2013,09,mortalidad,06,muerte menor de 5 anos por otras causas
+2013,09,mortalidad,07,otras muertes en mayores de 5 anos
+2013,09,mortalidad,08,muerte menor de 5 anos por desnutricion aguda gra
+2013,10,salud sexual y reproductiva,01,hemorragia de la primera mitad del embarazo (<22
+2013,10,salud sexual y reproductiva,02,embarazo en adolescente (< de 20 anos)
+2013,10,salud sexual y reproductiva,04,preeclampsia severa/eclampsia
+2013,11,estado nutricional,01,sobrepeso (s)
+2013,11,estado nutricional,02,nutricion normal (n)
+2013,11,estado nutricional,03,desnutricion leve (l)
+2013,11,estado nutricional,04,desnutricion moderada (m)
+2013,11,estado nutricional,05,desnutricion grave (g)
+2013,11,estado nutricional,06,embarazada desnutrida
+2013,11,estado nutricional,07,obesidad (o)
+2013,13,intoxicaciones,01,plaguicidas
+2013,13,intoxicaciones,02,"otras intoxicaciones (drogas, farmacos, etc.)"
+2013,13,intoxicaciones,03,enf. transmitidas por alimentos (e.t.a.)
+2013,14,talla para la edad (t/e),01,talla normal (t n)
+2013,14,talla para la edad (t/e),02,talla baja (tb)
+2013,15,registro de eventos de notificacion inmediata,01,riada
+2013,15,registro de eventos de notificacion inmediata,02,helada/granizo/nevada
+2013,15,registro de eventos de notificacion inmediata,03,incendio
+2013,16,registro de eventos de notificacion inmediata,01,deslizamiento
+2013,16,registro de eventos de notificacion inmediata,02,inundacion
+2013,16,registro de eventos de notificacion inmediata,03,otros de excepcion
+2014,01,sospecha diagnostica,01,sarampion / rubeola
+2014,01,sospecha diagnostica,03,tos ferina
+2014,01,sospecha diagnostica,04,difteria
+2014,01,sospecha diagnostica,05,paralisis flacida aguda (polio)
+2014,01,sospecha diagnostica,06,fiebre amarilla
+2014,01,sospecha diagnostica,07,dengue hemorragico
+2014,01,sospecha diagnostica,08,dengue clasico
+2014,01,sospecha diagnostica,09,fiebre hemorragica boliviana
+2014,01,sospecha diagnostica,10,peste
+2014,02,sospecha diagnostica,10,meningitis meningococica
+2014,02,sospecha diagnostica,13,colera
+2014,02,sospecha diagnostica,14,enfermedad por hanta virus
+2014,02,sospecha diagnostica,15,rabia humana
+2014,02,sospecha diagnostica,17,influenza / pandemica
+2014,02,sospecha diagnostica,18,rabia canina
+2014,02,sospecha diagnostica,19,leptospirosis
+2014,02,sospecha diagnostica,22,mordedura de serpiente
+2014,04,inmunoprevenibles,01,tetanos neonatal / adulto
+2014,04,inmunoprevenibles,03,hepatitis viral
+2014,04,inmunoprevenibles,04,parotiditis
+2014,05,infecc. de transmision sexual,01,ulcera genital
+2014,05,infecc. de transmision sexual,03,flujo uretral (vaginal)
+2014,05,infecc. de transmision sexual,04,sida *
+2014,05,infecc. de transmision sexual,05,sifilis en la mujer embarazada
+2014,05,infecc. de transmision sexual,06,vih mujer embarazada
+2014,05,infecc. de transmision sexual,07,vih poblacion en general
+2014,06,otras infecciones,01,enfermedad diarreica aguda
+2014,06,otras infecciones,02,ira sin neumonia
+2014,06,otras infecciones,03,neumonia
+2014,06,otras infecciones,04,malaria sospechosos
+2014,06,otras infecciones,05,leishmaniasis sospechosos
+2014,06,otras infecciones,06,"no de personas expuestas al virus rabico(mordida,"
+2014,06,otras infecciones,07,chagas agudo
+2014,06,otras infecciones,08,malaria confirmados
+2014,06,otras infecciones,09,leishmaniasis confirmados
+2014,07,tuberculosis y lepra,02,tuberculosis meningea
+2014,07,tuberculosis y lepra,08,lepra paucibacilar*
+2014,07,tuberculosis y lepra,09,lepra multibacilar *
+2014,07,tuberculosis y lepra,10,rafa (leves y moderadas)
+2014,07,tuberculosis y lepra,11,rafa (graves)
+2014,08,"violencia, hechos de transito y accidentes",01,intrafamiliar/domestica
+2014,08,"violencia, hechos de transito y accidentes",02,"otras violencias (accidentes, agresiones, leer in"
+2014,08,"violencia, hechos de transito y accidentes",03,hechos de transito
+2014,08,"violencia, hechos de transito y accidentes",04,accidentes
+2014,09,mortalidad,01,muerte materna
+2014,09,mortalidad,02,muerte rn menor de 7 dias
+2014,09,mortalidad,03,muerte menor de 1 ano
+2014,09,mortalidad,04,muerte  menor de 5 anos por diarrea
+2014,09,mortalidad,05,muerte menor de 5 anos por neumonia
+2014,09,mortalidad,06,muerte menor de 5 anos por otras causas
+2014,09,mortalidad,07,otras muertes en mayores de 5 anos
+2014,09,mortalidad,08,muerte menor de 5 anos por desnutricion aguda gra
+2014,10,salud sexual y reproductiva,01,hemorragia de la primera mitad del embarazo (<22
+2014,10,salud sexual y reproductiva,02,embarazo en adolescente (< de 20 anos)
+2014,10,salud sexual y reproductiva,04,preeclampsia severa/eclampsia
+2014,11,estado nutricional,01,sobrepeso (s)
+2014,11,estado nutricional,02,nutricion normal (n)
+2014,11,estado nutricional,03,desnutricion leve (l)
+2014,11,estado nutricional,04,desnutricion moderada (m)
+2014,11,estado nutricional,05,desnutricion grave (g)
+2014,11,estado nutricional,06,embarazada desnutrida
+2014,11,estado nutricional,07,obesidad (o)
+2014,13,intoxicaciones,01,plaguicidas
+2014,13,intoxicaciones,02,"otras intoxicaciones (drogas, farmacos, etc.)"
+2014,13,intoxicaciones,03,enf. transmitidas por alimentos (e.t.a.)
+2014,14,talla para la edad (t/e),01,talla normal (t n)
+2014,14,talla para la edad (t/e),02,talla baja (tb)
+2014,15,registro de eventos de notificacion inmediata,01,riada
+2014,15,registro de eventos de notificacion inmediata,02,helada/granizo/nevada
+2014,15,registro de eventos de notificacion inmediata,03,incendio
+2014,16,registro de eventos de notificacion inmediata,01,deslizamiento
+2014,16,registro de eventos de notificacion inmediata,02,inundacion
+2014,16,registro de eventos de notificacion inmediata,03,otros de excepcion
+2015,01,sospecha diagnostica,11,sarampion / rubeola
+2015,01,sospecha diagnostica,12,sindrome de rubeola congenita
+2015,01,sospecha diagnostica,13,tos ferina/coqueluche
+2015,01,sospecha diagnostica,14,difteria
+2015,01,sospecha diagnostica,15,paralisis flacida aguda (polio)
+2015,01,sospecha diagnostica,16,fiebre amarilla
+2015,01,sospecha diagnostica,17,dengue grave
+2015,01,sospecha diagnostica,18,fiebre hemorragica boliviana
+2015,01,sospecha diagnostica,19,peste
+2015,01,sospecha diagnostica,20,enfermedad meningococica
+2015,01,sospecha diagnostica,21,colera
+2015,01,sospecha diagnostica,22,enfermedad por hanta virus
+2015,01,sospecha diagnostica,23,rabia en perros
+2015,01,sospecha diagnostica,24,rabia humana
+2015,01,sospecha diagnostica,25,"influenza  (irag ,iragi y eti)"
+2015,01,sospecha diagnostica,26,leptospirosis
+2015,04,inmunoprevenibles,05,tetanos neonatal / adulto
+2015,04,inmunoprevenibles,06,hepatitis viral a*
+2015,04,inmunoprevenibles,07,hepatitis viral b o c*
+2015,04,inmunoprevenibles,08,parotiditis
+2015,04,inmunoprevenibles,09,varicela
+2015,05,infecc. de transmision sexual,08,ulcera genital
+2015,05,infecc. de transmision sexual,09,sifilis congenita
+2015,05,infecc. de transmision sexual,10,sifilis en la mujer embarazada*
+2015,05,infecc. de transmision sexual,11,flujo uretral/vaginal
+2015,05,infecc. de transmision sexual,12,gonorrea
+2015,05,infecc. de transmision sexual,13,verruga genital
+2015,05,infecc. de transmision sexual,14,prueba rapida reactiva de vih en  mujer embarazada
+2015,05,infecc. de transmision sexual,15,prueba rapida reactiva de vih en poblacion en general
+2015,06,otras infecciones,10,enfermedad diarreica aguda
+2015,06,otras infecciones,11,ira sin neumonia
+2015,06,otras infecciones,12,neumonia
+2015,06,otras infecciones,13,no de personas expuestas al virus rabico
+2015,06,otras infecciones,14,n de personas con mordedura de serpientes
+2015,06,otras infecciones,15,n de personas con picadura de animales ponzonosos
+2015,07,tuberculosis y lepra,12,tuberculosis meningea
+2015,07,tuberculosis y lepra,13,reaccion adversa  a farmacos antituberculosos (rafa)
+2015,07,tuberculosis y lepra,14,reaccion  adversa a farmacos antituberculosos rafa (graves)
+2015,07,tuberculosis y lepra,15,lepra paucibacilar
+2015,07,tuberculosis y lepra,16,lepra multibacilar
+2015,08,"violencia, hechos de transito y accidentes",05,violencia en la familia
+2015,08,"violencia, hechos de transito y accidentes",06,"violencia sexual (familiar, domestica y/o en otros ambitos)"
+2015,08,"violencia, hechos de transito y accidentes",07,otras violencias por lesiones autoinflingidas y colectivas
+2015,08,"violencia, hechos de transito y accidentes",08,no de casos presentados por hechos de transito
+2015,08,"violencia, hechos de transito y accidentes",09,no de casos presentados por otros accidentes
+2015,09,mortalidad,09,muerte menor de 5 anos por diarrea
+2015,09,mortalidad,10,muerte menor de 5 anos por neumonia
+2015,09,mortalidad,11,muerte menor de 5 anos por desnutricion aguda grave
+2015,09,mortalidad,12,muerte menor de 5 anos por otras causas
+2015,09,mortalidad,13,otras muertes en mayores de 5 anos
+2015,10,salud sexual y reproductiva,05,hemorragia de la primera mitad del embarazo (< 22 sem) aborto
+2015,10,salud sexual y reproductiva,06,gestantes y puerperas con sepsis
+2015,10,salud sexual y reproductiva,07,preeclampsia severa
+2015,10,salud sexual y reproductiva,08,eclampsia
+2015,13,intoxicaciones,04,plaguicidas
+2015,13,intoxicaciones,05,enf. transmitidas por alimentos (e.t.a.)
+2015,13,intoxicaciones,06,"otras intoxicaciones (drogas, farmacos, alcohol etc.)"
+2015,15,eventos - notificacion inmediata parte i,01,riada
+2015,15,eventos - notificacion inmediata parte i,02,helada/granizo/nevada
+2015,15,eventos - notificacion inmediata parte i,03,incendio
+2015,16,eventos - notificacion inmediata parte ii,01,deslizamiento/sismo/terremoto
+2015,16,eventos - notificacion inmediata parte ii,02,inundacion
+2015,16,eventos - notificacion inmediata parte ii,03,otros de excepcion
+2015,17,enfermedades transmitidas por vectores (etv),01,leishmaniasis
+2015,17,enfermedades transmitidas por vectores (etv),02,chagas agudo
+2015,17,enfermedades transmitidas por vectores (etv),03,dengue
+2015,17,enfermedades transmitidas por vectores (etv),04,malaria
+2015,18,mortalidad materna,01,muerte materna notificada
+2015,18,mortalidad materna,02,muerte materna confirmada
+2015,19,"mortalidad perinatal, neonatal e infantil",01,muerte fetal (obito) confirmada
+2015,19,"mortalidad perinatal, neonatal e infantil",02,muerte neonatal  temprana (0-6 dias) confirmada
+2015,19,"mortalidad perinatal, neonatal e infantil",03,muerte neonatal  tardia (7-27 dias) confirmada
+2015,19,"mortalidad perinatal, neonatal e infantil",04,muerte menor de 28 dias por sepsis
+2015,19,"mortalidad perinatal, neonatal e infantil",05,muerte menor de 28 dias por asfixia perinatal
+2015,19,"mortalidad perinatal, neonatal e infantil",06,muerte de 28 dias a menor de 1 ano
+2016,01,sospecha diagnostica,11,sarampion / rubeola
+2016,01,sospecha diagnostica,12,sindrome de rubeola congenita
+2016,01,sospecha diagnostica,13,tos ferina/coqueluche
+2016,01,sospecha diagnostica,14,difteria
+2016,01,sospecha diagnostica,15,paralisis flacida aguda (polio)
+2016,01,sospecha diagnostica,16,fiebre amarilla
+2016,01,sospecha diagnostica,17,dengue grave
+2016,01,sospecha diagnostica,18,fiebre hemorragica boliviana
+2016,01,sospecha diagnostica,19,peste
+2016,01,sospecha diagnostica,20,enfermedad meningococica
+2016,01,sospecha diagnostica,21,colera
+2016,01,sospecha diagnostica,22,enfermedad por hanta virus
+2016,01,sospecha diagnostica,23,rabia en perros
+2016,01,sospecha diagnostica,24,rabia humana
+2016,01,sospecha diagnostica,25,"influenza  (irag ,iragi y eti)"
+2016,01,sospecha diagnostica,26,leptospirosis
+2016,01,sospecha diagnostica,27,chikungunya
+2016,01,sospecha diagnostica,28,zika
+2016,04,inmunoprevenibles,05,tetanos neonatal / adulto
+2016,04,inmunoprevenibles,06,hepatitis viral a*
+2016,04,inmunoprevenibles,07,hepatitis viral b o c*
+2016,04,inmunoprevenibles,08,parotiditis
+2016,04,inmunoprevenibles,09,varicela
+2016,05,infecc. de transmision sexual,08,ulcera genital
+2016,05,infecc. de transmision sexual,09,sifilis congenita
+2016,05,infecc. de transmision sexual,10,sifilis en la mujer embarazada*
+2016,05,infecc. de transmision sexual,11,flujo uretral/vaginal
+2016,05,infecc. de transmision sexual,12,gonorrea
+2016,05,infecc. de transmision sexual,13,verruga genital
+2016,05,infecc. de transmision sexual,14,prueba rapida reactiva de vih en  mujer embarazada
+2016,05,infecc. de transmision sexual,15,prueba rapida reactiva de vih en poblacion en general
+2016,06,otras infecciones,10,enfermedad diarreica aguda
+2016,06,otras infecciones,11,ira sin neumonia
+2016,06,otras infecciones,12,neumonia
+2016,06,otras infecciones,13,no de personas expuestas al virus rabico
+2016,06,otras infecciones,14,n de personas con mordedura de serpientes
+2016,06,otras infecciones,15,n de personas con picadura de animales ponzonosos
+2016,07,tuberculosis y lepra,12,tuberculosis meningea
+2016,07,tuberculosis y lepra,13,reaccion adversa  a farmacos antituberculosos (rafa)
+2016,07,tuberculosis y lepra,14,reaccion  adversa a farmacos antituberculosos rafa (graves)
+2016,07,tuberculosis y lepra,15,lepra paucibacilar
+2016,07,tuberculosis y lepra,16,lepra multibacilar
+2016,08,"violencia, hechos de transito y accidentes",05,violencia en la familia
+2016,08,"violencia, hechos de transito y accidentes",06,"violencia sexual (familiar, domestica y/o en otros ambitos)"
+2016,08,"violencia, hechos de transito y accidentes",07,otras violencias por lesiones autoinflingidas y colectivas
+2016,08,"violencia, hechos de transito y accidentes",08,no de casos presentados por hechos de transito
+2016,08,"violencia, hechos de transito y accidentes",09,no de casos presentados por otros accidentes
+2016,09,mortalidad,09,muerte menor de 5 anos por diarrea
+2016,09,mortalidad,10,muerte menor de 5 anos por neumonia
+2016,09,mortalidad,11,muerte menor de 5 anos por desnutricion aguda grave
+2016,09,mortalidad,12,muerte menor de 5 anos por otras causas
+2016,09,mortalidad,13,otras muertes en mayores de 5 anos
+2016,10,salud sexual y reproductiva,05,hemorragia de la primera mitad del embarazo (< 22 sem) aborto
+2016,10,salud sexual y reproductiva,06,gestantes y puerperas con sepsis
+2016,10,salud sexual y reproductiva,07,preeclampsia severa
+2016,10,salud sexual y reproductiva,08,eclampsia
+2016,13,intoxicaciones,04,plaguicidas
+2016,13,intoxicaciones,05,enf. transmitidas por alimentos (e.t.a.)
+2016,13,intoxicaciones,06,"otras intoxicaciones (drogas, farmacos, alcohol etc.)"
+2016,15,eventos - notificacion inmediata parte i,01,riada
+2016,15,eventos - notificacion inmediata parte i,02,helada/granizo/nevada
+2016,15,eventos - notificacion inmediata parte i,03,incendio
+2016,16,eventos - notificacion inmediata parte ii,01,deslizamiento/sismo/terremoto
+2016,16,eventos - notificacion inmediata parte ii,02,inundacion
+2016,16,eventos - notificacion inmediata parte ii,03,otros de excepcion
+2016,17,enfermedades transmitidas por vectores (etv),01,leishmaniasis
+2016,17,enfermedades transmitidas por vectores (etv),02,chagas agudo
+2016,17,enfermedades transmitidas por vectores (etv),03,dengue
+2016,17,enfermedades transmitidas por vectores (etv),04,malaria
+2016,18,mortalidad materna,01,muerte materna notificada
+2016,18,mortalidad materna,02,muerte materna confirmada
+2016,19,"mortalidad perinatal, neonatal e infantil",01,muerte fetal (obito) confirmada
+2016,19,"mortalidad perinatal, neonatal e infantil",02,muerte neonatal  temprana (0-6 dias) confirmada
+2016,19,"mortalidad perinatal, neonatal e infantil",03,muerte neonatal  tardia (7-27 dias) confirmada
+2016,19,"mortalidad perinatal, neonatal e infantil",04,muerte menor de 28 dias por sepsis
+2016,19,"mortalidad perinatal, neonatal e infantil",05,muerte menor de 28 dias por asfixia perinatal
+2016,19,"mortalidad perinatal, neonatal e infantil",06,muerte de 28 dias a menor de 1 ano
+2017,01,sospecha diagnostica,11,sarampion / rubeola
+2017,01,sospecha diagnostica,12,sindrome de rubeola congenita
+2017,01,sospecha diagnostica,13,tos ferina/coqueluche
+2017,01,sospecha diagnostica,14,difteria
+2017,01,sospecha diagnostica,15,paralisis flacida aguda (polio)
+2017,01,sospecha diagnostica,16,fiebre amarilla
+2017,01,sospecha diagnostica,17,dengue grave
+2017,01,sospecha diagnostica,18,fiebre hemorragica boliviana
+2017,01,sospecha diagnostica,19,peste
+2017,01,sospecha diagnostica,20,enfermedad meningococica
+2017,01,sospecha diagnostica,21,colera
+2017,01,sospecha diagnostica,22,enfermedad por hanta virus
+2017,01,sospecha diagnostica,23,rabia en perros
+2017,01,sospecha diagnostica,24,rabia humana
+2017,01,sospecha diagnostica,25,"influenza  (irag ,iragi y eti)"
+2017,01,sospecha diagnostica,26,leptospirosis
+2017,01,sospecha diagnostica,27,chikungunya
+2017,01,sospecha diagnostica,28,zika
+2017,01,sospecha diagnostica,29,anomalia congenita
+2017,01,sospecha diagnostica,30,microcefalia
+2017,01,sospecha diagnostica,31,trastorno neurologico
+2017,01,sospecha diagnostica,32,sind. guillain barre
+2017,04,inmunoprevenibles,05,tetanos neonatal / adulto
+2017,04,inmunoprevenibles,06,hepatitis viral a*
+2017,04,inmunoprevenibles,07,hepatitis viral b o c*
+2017,04,inmunoprevenibles,08,parotiditis
+2017,04,inmunoprevenibles,09,varicela
+2017,05,infecc. de transmision sexual,08,ulcera genital
+2017,05,infecc. de transmision sexual,09,sifilis congenita
+2017,05,infecc. de transmision sexual,10,sifilis en la mujer embarazada*
+2017,05,infecc. de transmision sexual,11,flujo uretral/vaginal
+2017,05,infecc. de transmision sexual,12,gonorrea
+2017,05,infecc. de transmision sexual,13,verruga genital
+2017,05,infecc. de transmision sexual,14,prueba rapida reactiva de vih en  mujer embarazada
+2017,05,infecc. de transmision sexual,15,prueba rapida reactiva de vih en poblacion en general
+2017,06,otras infecciones,10,enfermedad diarreica aguda
+2017,06,otras infecciones,11,ira sin neumonia
+2017,06,otras infecciones,12,neumonia
+2017,06,otras infecciones,13,no de personas expuestas al virus rabico
+2017,06,otras infecciones,14,n de personas con mordedura de serpientes
+2017,06,otras infecciones,15,n de personas con picadura de animales ponzonosos
+2017,07,tuberculosis y lepra,12,tuberculosis meningea
+2017,07,tuberculosis y lepra,13,reaccion adversa  a farmacos antituberculosos (rafa)
+2017,07,tuberculosis y lepra,14,reaccion  adversa a farmacos antituberculosos rafa (graves)
+2017,07,tuberculosis y lepra,15,lepra paucibacilar
+2017,07,tuberculosis y lepra,16,lepra multibacilar
+2017,08,"violencia, hechos de transito y accidentes",05,violencia en la familia
+2017,08,"violencia, hechos de transito y accidentes",06,"violencia sexual (familiar, domestica y/o en otros ambitos)"
+2017,08,"violencia, hechos de transito y accidentes",07,otras violencias por lesiones autoinflingidas y colectivas
+2017,08,"violencia, hechos de transito y accidentes",08,no de casos presentados por hechos de transito
+2017,08,"violencia, hechos de transito y accidentes",09,no de casos presentados por otros accidentes
+2017,09,mortalidad,09,muerte menor de 5 anos por diarrea
+2017,09,mortalidad,10,muerte menor de 5 anos por neumonia
+2017,09,mortalidad,11,muerte menor de 5 anos por desnutricion aguda grave
+2017,09,mortalidad,12,muerte menor de 5 anos por otras causas
+2017,09,mortalidad,13,otras muertes en mayores de 5 anos
+2017,10,salud sexual y reproductiva,05,hemorragia de la primera mitad del embarazo (< 22 sem) aborto
+2017,10,salud sexual y reproductiva,06,gestantes y puerperas con sepsis
+2017,10,salud sexual y reproductiva,07,preeclampsia severa
+2017,10,salud sexual y reproductiva,08,eclampsia
+2017,13,intoxicaciones,04,plaguicidas
+2017,13,intoxicaciones,05,enf. transmitidas por alimentos (e.t.a.)
+2017,13,intoxicaciones,06,"otras intoxicaciones (drogas, farmacos, alcohol etc.)"
+2017,15,eventos - notificacion inmediata parte i,01,riada
+2017,15,eventos - notificacion inmediata parte i,02,helada/granizo/nevada
+2017,15,eventos - notificacion inmediata parte i,03,incendio
+2017,16,eventos - notificacion inmediata parte ii,01,deslizamiento/sismo/terremoto
+2017,16,eventos - notificacion inmediata parte ii,02,inundacion
+2017,16,eventos - notificacion inmediata parte ii,03,otros de excepcion
+2017,17,enfermedades transmitidas por vectores (etv),01,leishmaniasis
+2017,17,enfermedades transmitidas por vectores (etv),02,chagas agudo
+2017,17,enfermedades transmitidas por vectores (etv),03,dengue
+2017,17,enfermedades transmitidas por vectores (etv),04,malaria
+2017,18,mortalidad materna,01,muerte materna notificada
+2017,18,mortalidad materna,02,muerte materna confirmada
+2017,19,"mortalidad perinatal, neonatal e infantil",01,muerte fetal (obito) confirmada
+2017,19,"mortalidad perinatal, neonatal e infantil",02,muerte neonatal  temprana (0-6 dias) confirmada
+2017,19,"mortalidad perinatal, neonatal e infantil",03,muerte neonatal  tardia (7-27 dias) confirmada
+2017,19,"mortalidad perinatal, neonatal e infantil",04,muerte menor de 28 dias por sepsis
+2017,19,"mortalidad perinatal, neonatal e infantil",05,muerte menor de 28 dias por asfixia perinatal
+2017,19,"mortalidad perinatal, neonatal e infantil",06,muerte de 28 dias a menor de 1 ano
+2018,01,sospecha diagnostica,11,sarampion / rubeola
+2018,01,sospecha diagnostica,12,sindrome de rubeola congenita
+2018,01,sospecha diagnostica,13,tos ferina/coqueluche
+2018,01,sospecha diagnostica,14,difteria
+2018,01,sospecha diagnostica,15,paralisis flacida aguda (polio)
+2018,01,sospecha diagnostica,16,fiebre amarilla
+2018,01,sospecha diagnostica,17,dengue grave
+2018,01,sospecha diagnostica,18,fiebre hemorragica boliviana
+2018,01,sospecha diagnostica,19,peste
+2018,01,sospecha diagnostica,20,enfermedad meningococica
+2018,01,sospecha diagnostica,21,colera
+2018,01,sospecha diagnostica,22,enfermedad por hanta virus
+2018,01,sospecha diagnostica,23,rabia en perros
+2018,01,sospecha diagnostica,24,rabia humana
+2018,01,sospecha diagnostica,25,"influenza  (irag ,iragi y eti)"
+2018,01,sospecha diagnostica,26,leptospirosis
+2018,01,sospecha diagnostica,27,chikungunya
+2018,01,sospecha diagnostica,28,zika
+2018,01,sospecha diagnostica,29,anomalia congenita asociado al zika
+2018,01,sospecha diagnostica,30,microcefalia asociado al zika
+2018,01,sospecha diagnostica,31,trastorno nuerologico asociado al zika
+2018,01,sospecha diagnostica,32,sind. guillain barre asociado al zika
+2018,04,inmunoprevenibles,05,tetanos neonatal / adulto
+2018,04,inmunoprevenibles,06,hepatitis viral a*
+2018,04,inmunoprevenibles,07,hepatitis viral b o c*
+2018,04,inmunoprevenibles,08,parotiditis
+2018,04,inmunoprevenibles,09,varicela
+2018,05,infecc. de transmision sexual,08,ulcera genital
+2018,05,infecc. de transmision sexual,09,sifilis congenita
+2018,05,infecc. de transmision sexual,10,sifilis en la mujer embarazada*
+2018,05,infecc. de transmision sexual,11,flujo uretral/vaginal
+2018,05,infecc. de transmision sexual,12,gonorrea
+2018,05,infecc. de transmision sexual,13,verruga genital
+2018,05,infecc. de transmision sexual,14,prueba rapida reactiva de vih en  mujer embarazada
+2018,05,infecc. de transmision sexual,15,prueba rapida reactiva de vih en poblacion en general
+2018,06,otras infecciones,10,enfermedad diarreica aguda
+2018,06,otras infecciones,11,ira sin neumonia
+2018,06,otras infecciones,12,neumonia
+2018,06,otras infecciones,13,no de personas expuestas al virus rabico
+2018,06,otras infecciones,14,n de personas con mordedura de serpientes
+2018,06,otras infecciones,15,n de personas con picadura de animales ponzonosos
+2018,07,tuberculosis y lepra,12,tuberculosis meningea
+2018,07,tuberculosis y lepra,13,reaccion adversa  a farmacos antituberculosos (rafa)
+2018,07,tuberculosis y lepra,14,reaccion  adversa a farmacos antituberculosos rafa (graves)
+2018,07,tuberculosis y lepra,15,lepra paucibacilar
+2018,07,tuberculosis y lepra,16,lepra multibacilar
+2018,08,"violencia, hechos de transito y accidentes",05,violencia en la familia
+2018,08,"violencia, hechos de transito y accidentes",06,"violencia sexual (familiar, domestica y/o en otros ambitos)"
+2018,08,"violencia, hechos de transito y accidentes",07,otras violencias por lesiones autoinflingidas y colectivas
+2018,08,"violencia, hechos de transito y accidentes",08,no de casos presentados por hechos de transito
+2018,08,"violencia, hechos de transito y accidentes",09,no de casos presentados por otros accidentes
+2018,09,mortalidad,09,muerte menor de 5 anos por diarrea
+2018,09,mortalidad,10,muerte menor de 5 anos por neumonia
+2018,09,mortalidad,11,muerte menor de 5 anos por desnutricion aguda grave
+2018,09,mortalidad,12,muerte menor de 5 anos por otras causas
+2018,09,mortalidad,13,otras muertes en mayores de 5 anos
+2018,10,salud sexual y reproductiva,05,hemorragia de la primera mitad del embarazo (< 22 sem) aborto
+2018,10,salud sexual y reproductiva,06,gestantes y puerperas con sepsis
+2018,10,salud sexual y reproductiva,07,preeclampsia severa
+2018,10,salud sexual y reproductiva,08,eclampsia
+2018,13,intoxicaciones,04,plaguicidas
+2018,13,intoxicaciones,05,enf. transmitidas por alimentos (e.t.a.)
+2018,13,intoxicaciones,06,"otras intoxicaciones (drogas, farmacos, alcohol etc.)"
+2018,15,eventos - notificacion inmediata parte i,01,riada
+2018,15,eventos - notificacion inmediata parte i,02,helada/granizo/nevada
+2018,15,eventos - notificacion inmediata parte i,03,incendio
+2018,16,eventos - notificacion inmediata parte ii,01,deslizamiento/sismo/terremoto
+2018,16,eventos - notificacion inmediata parte ii,02,inundacion
+2018,16,eventos - notificacion inmediata parte ii,03,otros de excepcion
+2018,17,enfermedades transmitidas por vectores (etv),01,leishmaniasis
+2018,17,enfermedades transmitidas por vectores (etv),02,chagas agudo
+2018,17,enfermedades transmitidas por vectores (etv),03,dengue
+2018,17,enfermedades transmitidas por vectores (etv),04,malaria
+2018,18,mortalidad materna,01,muerte materna notificada
+2018,18,mortalidad materna,02,muerte materna confirmada
+2018,19,"mortalidad perinatal, neonatal e infantil",01,muerte fetal (obito) confirmada
+2018,19,"mortalidad perinatal, neonatal e infantil",02,muerte neonatal  temprana (0-6 dias) confirmada
+2018,19,"mortalidad perinatal, neonatal e infantil",03,muerte neonatal  tardia (7-27 dias) confirmada
+2018,19,"mortalidad perinatal, neonatal e infantil",04,muerte menor de 28 dias por sepsis
+2018,19,"mortalidad perinatal, neonatal e infantil",05,muerte menor de 28 dias por asfixia perinatal
+2018,19,"mortalidad perinatal, neonatal e infantil",06,muerte de 28 dias a menor de 1 ano
+2019,01,sospecha diagnostica,11,sarampion / rubeola
+2019,01,sospecha diagnostica,12,sindrome de rubeola congenita
+2019,01,sospecha diagnostica,13,tos ferina/coqueluche
+2019,01,sospecha diagnostica,14,difteria
+2019,01,sospecha diagnostica,15,paralisis flacida aguda (polio)
+2019,01,sospecha diagnostica,16,fiebre amarilla
+2019,01,sospecha diagnostica,17,dengue grave
+2019,01,sospecha diagnostica,18,fiebre hemorragica boliviana
+2019,01,sospecha diagnostica,19,peste
+2019,01,sospecha diagnostica,20,enfermedad meningococica
+2019,01,sospecha diagnostica,21,colera
+2019,01,sospecha diagnostica,22,enfermedad por hanta virus
+2019,01,sospecha diagnostica,23,rabia en perros
+2019,01,sospecha diagnostica,24,rabia humana
+2019,01,sospecha diagnostica,25,"influenza  (irag ,iragi y eti)"
+2019,01,sospecha diagnostica,26,leptospirosis
+2019,01,sospecha diagnostica,27,chikungunya
+2019,01,sospecha diagnostica,28,zika
+2019,01,sospecha diagnostica,29,dengue con signos de alarma
+2019,01,sospecha diagnostica,30,dengue sin signos de alarma
+2019,01,sospecha diagnostica,31,muerte de mujer 10-59 anos
+2019,04,inmunoprevenibles,05,tetanos neonatal / adulto
+2019,04,inmunoprevenibles,06,hepatitis viral a*
+2019,04,inmunoprevenibles,07,hepatitis viral b o c*
+2019,04,inmunoprevenibles,08,parotiditis
+2019,04,inmunoprevenibles,09,varicela
+2019,05,infecc. de transmision sexual,08,ulcera genital
+2019,05,infecc. de transmision sexual,09,sifilis congenita
+2019,05,infecc. de transmision sexual,10,sifilis en la mujer embarazada*
+2019,05,infecc. de transmision sexual,11,flujo uretral/vaginal
+2019,05,infecc. de transmision sexual,12,gonorrea
+2019,05,infecc. de transmision sexual,13,verruga genital
+2019,05,infecc. de transmision sexual,14,prueba rapida reactiva de vih en  mujer embarazada
+2019,05,infecc. de transmision sexual,15,prueba rapida reactiva de vih en poblacion en general
+2019,06,otras infecciones,10,enfermedad diarreica aguda
+2019,06,otras infecciones,11,ira sin neumonia
+2019,06,otras infecciones,12,neumonia
+2019,06,otras infecciones,13,no de personas expuestas al virus rabico
+2019,06,otras infecciones,14,n de personas con mordedura de serpientes
+2019,06,otras infecciones,15,n de personas con picadura de animales ponzonosos
+2019,07,tuberculosis y lepra,12,tuberculosis meningea
+2019,07,tuberculosis y lepra,13,reaccion adversa  a farmacos antituberculosos (rafa)
+2019,07,tuberculosis y lepra,14,reaccion  adversa a farmacos antituberculosos rafa (graves)
+2019,07,tuberculosis y lepra,15,lepra paucibacilar
+2019,07,tuberculosis y lepra,16,lepra multibacilar
+2019,08,"violencia, hechos de transito y accidentes",05,violencia en la familia
+2019,08,"violencia, hechos de transito y accidentes",06,"violencia sexual (familiar, domestica y/o en otros ambitos)"
+2019,08,"violencia, hechos de transito y accidentes",07,otras violencias por lesiones autoinflingidas y colectivas
+2019,08,"violencia, hechos de transito y accidentes",08,no de casos presentados por hechos de transito
+2019,08,"violencia, hechos de transito y accidentes",09,no de casos presentados por otros accidentes
+2019,09,mortalidad,09,muerte menor de 5 anos por diarrea
+2019,09,mortalidad,10,muerte menor de 5 anos por neumonia
+2019,09,mortalidad,11,muerte menor de 5 anos por desnutricion aguda grave
+2019,09,mortalidad,12,muerte menor de 5 anos por otras causas
+2019,09,mortalidad,13,otras muertes en mayores de 5 anos
+2019,10,salud sexual y reproductiva,05,hemorragia de la primera mitad del embarazo (< 22 sem) aborto
+2019,10,salud sexual y reproductiva,06,gestantes y puerperas con sepsis
+2019,10,salud sexual y reproductiva,07,preeclampsia severa
+2019,10,salud sexual y reproductiva,08,eclampsia
+2019,13,intoxicaciones,04,plaguicidas
+2019,13,intoxicaciones,05,enf. transmitidas por alimentos (e.t.a.)
+2019,13,intoxicaciones,06,"otras intoxicaciones (drogas, farmacos, alcohol etc.)"
+2019,15,eventos - notificacion inmediata parte i,01,riada
+2019,15,eventos - notificacion inmediata parte i,02,helada/granizo/nevada
+2019,15,eventos - notificacion inmediata parte i,03,incendio
+2019,16,eventos - notificacion inmediata parte ii,01,deslizamiento/sismo/terremoto
+2019,16,eventos - notificacion inmediata parte ii,02,inundacion
+2019,16,eventos - notificacion inmediata parte ii,03,otros de excepcion
+2019,17,enfermedades transmitidas por vectores (etv),01,leishmaniasis
+2019,17,enfermedades transmitidas por vectores (etv),02,chagas agudo
+2019,17,enfermedades transmitidas por vectores (etv),03,dengue
+2019,17,enfermedades transmitidas por vectores (etv),04,malaria
+2019,18,mortalidad materna,01,muerte materna notificada
+2019,18,mortalidad materna,02,muerte materna confirmada
+2019,19,"mortalidad perinatal, neonatal e infantil",01,muerte fetal (obito) confirmada
+2019,19,"mortalidad perinatal, neonatal e infantil",02,muerte neonatal  temprana (0-6 dias) confirmada
+2019,19,"mortalidad perinatal, neonatal e infantil",03,muerte neonatal  tardia (7-27 dias) confirmada
+2019,19,"mortalidad perinatal, neonatal e infantil",04,muerte menor de 28 dias por sepsis
+2019,19,"mortalidad perinatal, neonatal e infantil",05,muerte menor de 28 dias por asfixia perinatal
+2019,19,"mortalidad perinatal, neonatal e infantil",06,muerte de 28 dias a menor de 1 ano
+2020,01,sospecha diagnostica,11,sarampion / rubeola
+2020,01,sospecha diagnostica,12,sindrome de rubeola congenita
+2020,01,sospecha diagnostica,13,tos ferina/coqueluche
+2020,01,sospecha diagnostica,14,difteria
+2020,01,sospecha diagnostica,15,paralisis flacida aguda (polio)
+2020,01,sospecha diagnostica,16,fiebre amarilla
+2020,01,sospecha diagnostica,17,dengue grave
+2020,01,sospecha diagnostica,18,fiebre hemorragica
+2020,01,sospecha diagnostica,19,peste
+2020,01,sospecha diagnostica,20,enfermedad meningococica
+2020,01,sospecha diagnostica,21,colera
+2020,01,sospecha diagnostica,22,enfermedad por hanta virus
+2020,01,sospecha diagnostica,23,rabia canina
+2020,01,sospecha diagnostica,24,rabia humana
+2020,01,sospecha diagnostica,25,"influenza  (irag ,iragi y eti)"
+2020,01,sospecha diagnostica,26,leptospirosis
+2020,01,sospecha diagnostica,27,chikungunya
+2020,01,sospecha diagnostica,28,zika
+2020,01,sospecha diagnostica,29,dengue con signos de alarma
+2020,01,sospecha diagnostica,30,dengue sin signos de alarma
+2020,01,sospecha diagnostica,31,otras meningitis
+2020,01,sospecha diagnostica,32,sindrome hemolitico uremico
+2020,01,sospecha diagnostica,33,covid-19
+2020,04,inmunoprevenibles,05,tetanos neonatal / adulto
+2020,04,inmunoprevenibles,06,hepatitis viral a*
+2020,04,inmunoprevenibles,07,hepatitis viral b o c*
+2020,04,inmunoprevenibles,08,parotiditis
+2020,04,inmunoprevenibles,09,varicela
+2020,05,infecc. de transmision sexual,08,ulcera genital
+2020,05,infecc. de transmision sexual,09,sifilis congenita
+2020,05,infecc. de transmision sexual,10,sifilis en la mujer embarazada*
+2020,05,infecc. de transmision sexual,11,flujo uretral/vaginal
+2020,05,infecc. de transmision sexual,12,gonorrea
+2020,05,infecc. de transmision sexual,13,verruga genital
+2020,05,infecc. de transmision sexual,14,prueba rapida reactiva de vih en  mujer embarazada
+2020,05,infecc. de transmision sexual,15,prueba rapida reactiva de vih en poblacion en general
+2020,06,otras infecciones,10,enfermedad diarreica aguda
+2020,06,otras infecciones,11,ira sin neumonia
+2020,06,otras infecciones,12,neumonia
+2020,06,otras infecciones,13,no de personas expuestas al virus rabico
+2020,06,otras infecciones,14,n de personas con evenenamiento por mordedura de serpientes venenosas
+2020,06,otras infecciones,15,n de personas con envenenamiento por aracnidos
+2020,07,tuberculosis y lepra,12,tuberculosis meningea
+2020,07,tuberculosis y lepra,13,reaccion adversa  a farmacos antituberculosos (rafa)
+2020,07,tuberculosis y lepra,14,reaccion  adversa a farmacos antituberculosos rafa (graves)
+2020,07,tuberculosis y lepra,15,lepra paucibacilar
+2020,07,tuberculosis y lepra,16,lepra multibacilar
+2020,08,"violencia, hechos de transito y accidentes",05,violencia en la familia
+2020,08,"violencia, hechos de transito y accidentes",06,"violencia sexual (familiar, domestica y/o en otros ambitos)"
+2020,08,"violencia, hechos de transito y accidentes",07,otras violencias por lesiones autoinflingidas y colectivas
+2020,08,"violencia, hechos de transito y accidentes",08,no de casos presentados por hechos de transito
+2020,08,"violencia, hechos de transito y accidentes",09,no de casos presentados por otros accidentes
+2020,09,mortalidad,09,muerte menor de 5 anos por diarrea
+2020,09,mortalidad,10,muerte menor de 5 anos por neumonia
+2020,09,mortalidad,11,muerte menor de 5 anos por desnutricion aguda grave
+2020,09,mortalidad,12,muerte menor de 5 anos por otras causas
+2020,09,mortalidad,13,otras muertes en mayores de 5 anos
+2020,10,salud sexual y reproductiva,05,hemorragia de la primera mitad del embarazo (< 22 sem) aborto
+2020,10,salud sexual y reproductiva,06,gestantes y puerperas con sepsis
+2020,10,salud sexual y reproductiva,07,preeclampsia severa
+2020,10,salud sexual y reproductiva,08,eclampsia
+2020,13,intoxicaciones,04,plaguicidas
+2020,13,intoxicaciones,05,enf. transmitidas por alimentos (e.t.a.)
+2020,13,intoxicaciones,06,"otras intoxicaciones (drogas, farmacos, alcohol etc.)"
+2020,15,eventos - notificacion inmediata parte i,01,riada
+2020,15,eventos - notificacion inmediata parte i,02,helada/granizo/nevada
+2020,15,eventos - notificacion inmediata parte i,03,incendio
+2020,16,eventos - notificacion inmediata parte ii,01,deslizamiento/sismo/terremoto
+2020,16,eventos - notificacion inmediata parte ii,02,inundacion
+2020,16,eventos - notificacion inmediata parte ii,03,otros de excepcion
+2020,17,enfermedades transmitidas por vectores (etv),01,leishmaniasis
+2020,17,enfermedades transmitidas por vectores (etv),02,chagas agudo
+2020,17,enfermedades transmitidas por vectores (etv),03,dengue
+2020,17,enfermedades transmitidas por vectores (etv),04,malaria
+2020,18,mortalidad materna,01,muerte materna notificada
+2020,18,mortalidad materna,02,muerte materna confirmada
+2020,19,"mortalidad perinatal, neonatal e infantil",01,muerte fetal (obito) confirmada
+2020,19,"mortalidad perinatal, neonatal e infantil",02,muerte neonatal  temprana (0-6 dias) confirmada
+2020,19,"mortalidad perinatal, neonatal e infantil",03,muerte neonatal  tardia (7-27 dias) confirmada
+2020,19,"mortalidad perinatal, neonatal e infantil",04,muerte menor de 28 dias por sepsis
+2020,19,"mortalidad perinatal, neonatal e infantil",05,muerte menor de 28 dias por asfixia perinatal
+2020,19,"mortalidad perinatal, neonatal e infantil",06,muerte de 28 dias a menor de 1 ano
+2021,01,sospecha diagnostica,11,sarampion / rubeola
+2021,01,sospecha diagnostica,12,sindrome de rubeola congenita
+2021,01,sospecha diagnostica,13,tos ferina/coqueluche
+2021,01,sospecha diagnostica,14,difteria
+2021,01,sospecha diagnostica,15,paralisis flacida aguda (polio)
+2021,01,sospecha diagnostica,16,fiebre amarilla
+2021,01,sospecha diagnostica,17,dengue grave
+2021,01,sospecha diagnostica,18,fiebre hemorragica
+2021,01,sospecha diagnostica,19,peste
+2021,01,sospecha diagnostica,20,enfermedad meningococica
+2021,01,sospecha diagnostica,21,colera
+2021,01,sospecha diagnostica,22,enfermedad por hanta virus
+2021,01,sospecha diagnostica,23,rabia canina
+2021,01,sospecha diagnostica,24,rabia humana
+2021,01,sospecha diagnostica,25,"influenza  (irag ,iragi y eti)"
+2021,01,sospecha diagnostica,26,leptospirosis
+2021,01,sospecha diagnostica,27,chikungunya
+2021,01,sospecha diagnostica,28,zika
+2021,01,sospecha diagnostica,29,dengue con signos de alarma
+2021,01,sospecha diagnostica,30,dengue sin signos de alarma
+2021,01,sospecha diagnostica,31,otras meningitis
+2021,01,sospecha diagnostica,32,sindrome hemolitico uremico
+2021,01,sospecha diagnostica,33,covid-19
+2021,01,sospecha diagnostica,34,sindrome inflamatorio multisistemico asociado con covid-19
+2021,01,sospecha diagnostica,35,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion)
+2021,04,inmunoprevenibles,05,tetanos neonatal / adulto
+2021,04,inmunoprevenibles,06,hepatitis viral a*
+2021,04,inmunoprevenibles,07,hepatitis viral b o c*
+2021,04,inmunoprevenibles,08,parotiditis
+2021,04,inmunoprevenibles,09,varicela
+2021,04,inmunoprevenibles,10,otras hepatitis virales
+2021,05,infecc. de transmision sexual,08,ulcera genital
+2021,05,infecc. de transmision sexual,09,sifilis congenita
+2021,05,infecc. de transmision sexual,10,sifilis en la mujer embarazada*
+2021,05,infecc. de transmision sexual,11,flujo uretral/vaginal
+2021,05,infecc. de transmision sexual,12,gonorrea
+2021,05,infecc. de transmision sexual,13,verruga genital
+2021,05,infecc. de transmision sexual,14,prueba rapida reactiva de vih en  mujer embarazada
+2021,05,infecc. de transmision sexual,15,prueba rapida reactiva de vih en poblacion en general
+2021,06,otras infecciones,10,enfermedad diarreica aguda
+2021,06,otras infecciones,11,ira sin neumonia
+2021,06,otras infecciones,12,neumonia
+2021,06,otras infecciones,13,no de personas expuestas al virus rabico
+2021,06,otras infecciones,14,n de personas con evenenamiento por mordedura de serpientes venenosas
+2021,06,otras infecciones,15,n de personas con envenenamiento por aracnidos
+2021,07,tuberculosis y lepra,12,tuberculosis meningea
+2021,07,tuberculosis y lepra,13,reaccion adversa  a farmacos antituberculosos (rafa)
+2021,07,tuberculosis y lepra,14,reaccion  adversa a farmacos antituberculosos rafa (graves)
+2021,07,tuberculosis y lepra,15,lepra paucibacilar
+2021,07,tuberculosis y lepra,16,lepra multibacilar
+2021,08,"violencia, hechos de transito y accidentes",05,violencia en la familia
+2021,08,"violencia, hechos de transito y accidentes",06,"violencia sexual (familiar, domestica y/o en otros ambitos)"
+2021,08,"violencia, hechos de transito y accidentes",07,otras violencias por lesiones autoinflingidas y colectivas
+2021,08,"violencia, hechos de transito y accidentes",08,no de casos presentados por hechos de transito
+2021,08,"violencia, hechos de transito y accidentes",09,no de casos presentados por otros accidentes
+2021,09,mortalidad,09,muerte menor de 5 anos por diarrea
+2021,09,mortalidad,10,muerte menor de 5 anos por neumonia
+2021,09,mortalidad,11,muerte menor de 5 anos por desnutricion aguda grave
+2021,09,mortalidad,12,muerte menor de 5 anos por otras causas
+2021,09,mortalidad,13,otras muertes en mayores de 5 anos
+2021,09,mortalidad,14,sospecha de muerte por dengue
+2021,09,mortalidad,15,sospecha de muerte por covid-19
+2021,10,salud sexual y reproductiva,05,hemorragia de la primera mitad del embarazo (< 22 sem) aborto
+2021,10,salud sexual y reproductiva,06,gestantes y puerperas con sepsis
+2021,10,salud sexual y reproductiva,07,preeclampsia severa
+2021,10,salud sexual y reproductiva,08,eclampsia
+2021,13,intoxicaciones,05,enf. transmitidas por alimentos (e.t.a.)
+2021,13,intoxicaciones,06,"otras intoxicaciones (drogas, farmacos, alcohol etc.)"
+2021,13,intoxicaciones,07,"organofosforados , carbamatos"
+2021,13,intoxicaciones,08,halogenados
+2021,13,intoxicaciones,09,herbicida y fungicida
+2021,13,intoxicaciones,10,otros plaguicidas/insecticidas
+2021,15,eventos - notificacion inmediata parte i,01,riada
+2021,15,eventos - notificacion inmediata parte i,02,helada/granizo/nevada
+2021,15,eventos - notificacion inmediata parte i,03,incendio
+2021,16,eventos - notificacion inmediata parte ii,01,deslizamiento/sismo/terremoto
+2021,16,eventos - notificacion inmediata parte ii,02,inundacion
+2021,16,eventos - notificacion inmediata parte ii,03,otros de excepcion
+2021,17,enfermedades transmitidas por vectores (etv),01,leishmaniasis
+2021,17,enfermedades transmitidas por vectores (etv),02,chagas agudo
+2021,17,enfermedades transmitidas por vectores (etv),04,malaria
+2021,18,mortalidad materna,01,sospecha de muerte materna
+2021,19,"mortalidad perinatal, neonatal e infantil",01,muerte fetal (obito) confirmada
+2021,19,"mortalidad perinatal, neonatal e infantil",02,muerte neonatal  temprana (0-6 dias) confirmada
+2021,19,"mortalidad perinatal, neonatal e infantil",03,muerte neonatal  tardia (7-27 dias) confirmada
+2021,19,"mortalidad perinatal, neonatal e infantil",04,muerte menor de 28 dias por sepsis
+2021,19,"mortalidad perinatal, neonatal e infantil",05,muerte menor de 28 dias por asfixia perinatal
+2021,19,"mortalidad perinatal, neonatal e infantil",06,muerte de 28 dias a menor de 1 ano
+2022,01,sospecha diagnostica,11,sarampion / rubeola
+2022,01,sospecha diagnostica,12,sindrome de rubeola congenita
+2022,01,sospecha diagnostica,13,tos ferina/coqueluche
+2022,01,sospecha diagnostica,14,difteria
+2022,01,sospecha diagnostica,15,paralisis flacida aguda (polio)
+2022,01,sospecha diagnostica,16,fiebre amarilla
+2022,01,sospecha diagnostica,17,dengue grave
+2022,01,sospecha diagnostica,18,fiebre hemorragica
+2022,01,sospecha diagnostica,19,peste
+2022,01,sospecha diagnostica,20,enfermedad meningococica
+2022,01,sospecha diagnostica,21,colera
+2022,01,sospecha diagnostica,22,enfermedad por hanta virus
+2022,01,sospecha diagnostica,23,rabia canina
+2022,01,sospecha diagnostica,24,rabia humana
+2022,01,sospecha diagnostica,25,"influenza  (irag ,iragi y eti)"
+2022,01,sospecha diagnostica,26,leptospirosis
+2022,01,sospecha diagnostica,27,chikungunya
+2022,01,sospecha diagnostica,28,zika
+2022,01,sospecha diagnostica,29,dengue con signos de alarma
+2022,01,sospecha diagnostica,30,dengue sin signos de alarma
+2022,01,sospecha diagnostica,31,otras meningitis
+2022,01,sospecha diagnostica,32,sindrome hemolitico uremico
+2022,01,sospecha diagnostica,33,covid-19
+2022,01,sospecha diagnostica,34,sindrome inflamatorio multisistemico asociado con covid-19
+2022,01,sospecha diagnostica,35,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion)
+2022,01,sospecha diagnostica,36,viruela simica
+2022,04,inmunoprevenibles,05,tetanos neonatal / adulto
+2022,04,inmunoprevenibles,06,hepatitis viral a*
+2022,04,inmunoprevenibles,07,hepatitis viral b o c*
+2022,04,inmunoprevenibles,08,parotiditis
+2022,04,inmunoprevenibles,09,varicela
+2022,04,inmunoprevenibles,10,otras hepatitis virales
+2022,05,infecc. de transmision sexual,08,ulcera genital
+2022,05,infecc. de transmision sexual,09,sifilis congenita
+2022,05,infecc. de transmision sexual,10,sifilis en la mujer embarazada*
+2022,05,infecc. de transmision sexual,11,flujo uretral/vaginal
+2022,05,infecc. de transmision sexual,12,gonorrea
+2022,05,infecc. de transmision sexual,13,verruga genital
+2022,05,infecc. de transmision sexual,14,prueba rapida reactiva de vih en  mujer embarazada
+2022,05,infecc. de transmision sexual,15,prueba rapida reactiva de vih en poblacion en general
+2022,06,otras infecciones,10,enfermedad diarreica aguda
+2022,06,otras infecciones,11,ira sin neumonia
+2022,06,otras infecciones,12,neumonia
+2022,06,otras infecciones,13,no de personas expuestas al virus rabico
+2022,06,otras infecciones,14,n de personas con evenenamiento por mordedura de serpientes venenosas
+2022,06,otras infecciones,15,n de personas con envenenamiento por aracnidos
+2022,07,tuberculosis y lepra,12,tuberculosis meningea
+2022,07,tuberculosis y lepra,13,reaccion adversa  a farmacos antituberculosos (rafa)
+2022,07,tuberculosis y lepra,14,reaccion  adversa a farmacos antituberculosos rafa (graves)
+2022,07,tuberculosis y lepra,15,lepra paucibacilar
+2022,07,tuberculosis y lepra,16,lepra multibacilar
+2022,08,"violencia, hechos de transito y accidentes",05,violencia en la familia
+2022,08,"violencia, hechos de transito y accidentes",06,"violencia sexual (familiar, domestica y/o en otros ambitos)"
+2022,08,"violencia, hechos de transito y accidentes",07,otras violencias por lesiones autoinflingidas y colectivas
+2022,08,"violencia, hechos de transito y accidentes",08,no de casos presentados por hechos de transito
+2022,08,"violencia, hechos de transito y accidentes",09,no de casos presentados por otros accidentes
+2022,09,mortalidad,09,muerte menor de 5 anos por diarrea
+2022,09,mortalidad,10,muerte menor de 5 anos por neumonia
+2022,09,mortalidad,11,muerte menor de 5 anos por desnutricion aguda grave
+2022,09,mortalidad,12,muerte menor de 5 anos por otras causas
+2022,09,mortalidad,13,otras muertes en mayores de 5 anos
+2022,09,mortalidad,14,sospecha de muerte por dengue
+2022,09,mortalidad,15,sospecha de muerte por covid-19
+2022,10,salud sexual y reproductiva,05,hemorragia de la primera mitad del embarazo (< 22 sem) aborto
+2022,10,salud sexual y reproductiva,06,gestantes y puerperas con sepsis
+2022,10,salud sexual y reproductiva,07,preeclampsia severa
+2022,10,salud sexual y reproductiva,08,eclampsia
+2022,13,intoxicaciones,05,enf. transmitidas por alimentos (e.t.a.)
+2022,13,intoxicaciones,06,"otras intoxicaciones (drogas, farmacos, alcohol etc.)"
+2022,13,intoxicaciones,07,"organofosforados , carbamatos"
+2022,13,intoxicaciones,08,halogenados
+2022,13,intoxicaciones,09,herbicida y fungicida
+2022,13,intoxicaciones,10,otros plaguicidas/insecticidas
+2022,15,eventos - notificacion inmediata parte i,01,riada
+2022,15,eventos - notificacion inmediata parte i,02,helada/granizo/nevada
+2022,15,eventos - notificacion inmediata parte i,03,incendio
+2022,16,eventos - notificacion inmediata parte ii,01,deslizamiento/sismo/terremoto
+2022,16,eventos - notificacion inmediata parte ii,02,inundacion
+2022,16,eventos - notificacion inmediata parte ii,03,otros de excepcion
+2022,17,enfermedades transmitidas por vectores (etv),01,leishmaniasis
+2022,17,enfermedades transmitidas por vectores (etv),02,chagas agudo
+2022,17,enfermedades transmitidas por vectores (etv),04,malaria
+2022,18,mortalidad materna,01,muerte materna notificada
+2022,18,mortalidad materna,02,muerte materna confirmada

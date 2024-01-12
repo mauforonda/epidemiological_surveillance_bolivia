@@ -1,0 +1,290 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+EL ALTO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+MAGDALENA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5,0,1,3,0,5,9,14
+PUNA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-01-01,0,0,0,0,0,0,0,1,0,4,1,0,1,1,2,1,0,1,1,0,5,8,13
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,3,1,5,4,10,10,20
+TAHUA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,2,0,0,9,8,11,11,22
+TARIJA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VIACHA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-01-01,0,0,0,0,0,0,0,0,0,1,0,0,4,0,1,0,0,0,1,0,6,1,7
+VILLA SERRANO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,2,2,4,3,7
+CABEZAS,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-02-01,0,0,0,0,0,0,0,2,2,8,5,5,16,22,6,19,2,5,5,2,36,63,99
+CAMIRI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,2,3
+COCHABAMBA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,3,9,0,0,0,0,2,0,5,9,14
+EL ALTO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+LLALLAGUA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3,0,0,1,1,1,6,5,11
+ORURO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,9,18,0,1,0,0,0,9,9,28,37
+SALINAS DE GARCI MENDOZA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,15,50,7,10,0,8,4,3,26,71,97
+SIPE SIPE,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1,1,1,4,5
+TAHUA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-02-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+TUPIZA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,4,1,5
+ASCENCION DE GUARAYOS,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+COCHABAMBA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,3,7,0,2,1,0,0,1,4,10,14
+EL ALTO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,6,0,1,0,0,0,0,1,7,8
+EL TORNO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-03-01,0,0,0,0,0,0,0,0,0,0,1,1,7,6,3,2,1,1,6,5,18,15,33
+LA PAZ,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,13,0,0,1,1,3,4,5,18,23
+POTOSI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,1,0,0,0,2,5,7
+PUERTO VILLARROEL,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,1,3,4
+PUNA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+ROBORE,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,21,72,8,18,2,21,0,6,31,117,148
+SUCRE,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,0,3,0,0,0,11,11
+TAHUA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,2,2,3,5
+TARIJA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,2,0,3,1,1,1,13,14
+TRIGAL,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VALLEGRANDE,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+VINTO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+YACUIBA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+BELLA FLOR,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+CAMIRI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COBIJA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2,3
+COCHABAMBA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL ALTO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,2
+LA PAZ,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,2,0,3,2,6,15,11,21,32
+POTOSI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,2,1,3
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-04-01,0,0,0,0,0,1,0,0,0,0,0,0,13,35,10,21,7,13,5,19,35,89,124
+SUCRE,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,5,9,4,11,2,6,11,16,22,42,64
+TARIJA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,7,2,7,9
+TOMINA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,5,2,6,8
+TRINIDAD,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+YOCALLA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,3,1,5,6
+ASCENCION DE GUARAYOS,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CAMIRI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,1,0,1,4,5
+EL ALTO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,2,1,3
+LA PAZ,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,17,0,0,0,2,9,2,10,21,31
+MONTEAGUDO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+ORURO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-05-01,1,2,0,0,0,0,0,0,1,0,0,5,11,37,5,8,7,7,9,14,34,73,107
+POTOSI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,2,3
+SAN JAVIER(BNI),sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO(PND),sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7,3,7,7,14
+SANTA ROSA DEL SARA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+SUCRE,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,6,14,1,4,5,6,1,2,13,26,39
+TARIJA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+TOMINA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+YACUIBA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+YOCALLA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+ARANI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+COBIJA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+EL ALTO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL VILLAR,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,1,2,3,5
+LA PAZ,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,1,1,4,5
+ORURO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+PADILLA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,1,19,23,10,19,26,29,27,27,82,99,181
+POTOSI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,2,0,0,0,2,4,6
+QUILLACOLLO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-06-01,0,0,0,0,0,1,1,3,2,2,1,2,39,42,28,31,16,11,8,14,95,106,201
+ROBORE,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SAN JAVIER(BNI),sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAN PEDRO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-06-01,0,0,0,0,0,0,0,0,2,0,10,3,117,128,50,47,45,53,111,92,335,323,658
+SUCRE,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,7,0,2,0,2,0,0,2,11,13
+TARIJA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+TRINIDAD,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VALLEGRANDE,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+YACUIBA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,2,3
+ALCALA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,1,2,3
+BELEN DE URMIRI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BOLIVAR,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CABEZAS,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,3,0,4,4,0,0,0,0,0,0,7,4,11
+CAMIRI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+CARANAVI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+COBIJA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,2,3
+COCHABAMBA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+"COLCHA ""K""",sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,3,4,1,0,0,0,0,0,4,4,8
+CORO CORO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+DESAGUADERO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+EL ALTO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,3
+FERNANDEZ ALONSO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,2,3
+IRUPANA (VILLA DE LANZA),sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+LA PAZ,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,2,2,2,6,8
+ORURO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+PADILLA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,3,3,9,11,16,28,9,13,24,39,61,94,155
+PORONGO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+POTOSI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,1,0,0,0,0,1,4,5
+QUILLACOLLO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+SAN MIGUEL DE VELASCO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,3,5,22,0,1,0,2,0,2,5,30,35
+SUCRE,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,3,1,9,32,2,2,1,4,2,9,17,48,65
+TARATA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TARIJA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+TARVITA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+TOMINA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,1,0,1,3,4
+TRINIDAD,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VALLEGRANDE,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,1,0,1,0,0,1,5,6
+VILLA MONTES,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+YACUIBA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,2,1,3
+ALCALA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,1,1,3,6,1,0,0,1,0,0,5,8,13
+AYATA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+BOLIVAR,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,2,4
+CAMIRI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CARACOLLO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CARANAVI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,2,3
+CARAPARI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHARAGUA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,1,5,6,0,1,1,0,0,0,6,8,14
+CHAYANTA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CHULUMANI (V. DE LA LIBERTAD),sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,2
+COBIJA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+COPACABANA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,1,0,1,1,5,6
+CORO CORO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+EL ALTO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+EUCALIPTUS,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+GUANAY,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ICLA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+JESUS DE MACHACA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA PAZ,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,1,2,6,3,2,2,0,2,3,9,12,21
+LLICA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,2,1,3
+MACHARETI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+MOJOCOYA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+ORURO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,2,2,4
+PADILLA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,5,1,3,0,0,1,3,4,11,15
+POTOSI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,1,0,1,4,4,8
+PRESTO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,3,4,1,1,0,1,3,2,7,8,15
+PUCARANI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+PUERTO VILLARROEL,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+PUNATA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+QUILLACOLLO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+ROBORE,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN BUENA VENTURA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN JOSE DE CHIQUITOS,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,1,4,1,1,0,0,0,0,0,5,2,7
+SANTIAGO DE MACHACA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,1,5,24,66,5,14,5,10,5,15,40,110,150
+TACACHI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TARATA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+TARIJA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,0,0,0,0,0,3,3,6
+TIQUIPAYA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TOCO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+TOMINA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,0,2,2,4,6
+URUBICHA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+VALLEGRANDE,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+VINTO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+YACUIBA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,2
+YOCALLA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-08-01,0,0,0,0,0,0,8,11,6,4,0,1,0,1,0,0,0,0,2,1,16,18,34
+BOLIVAR,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,5,1,2,2,5,1,1,0,13,4,17
+CHULUMANI (V. DE LA LIBERTAD),sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+COCHABAMBA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+COPACABANA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,1,0,0,0,3,3,6,6,0,2,0,0,1,2,11,13,24
+CUEVO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+DESAGUADERO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL ALTO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+FERNANDEZ ALONSO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+LA PAZ,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,7,0,1,0,1,3,1,5,10,15
+LAJA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+POTOSI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+PRESTO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,0,0,1,2,2,7,9
+PUCARANI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,3,3,1,0,1,1,0,5,5,10
+PUERTO VILLARROEL,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+RIBERALTA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SACACA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN BORJA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,1,3,4
+SICA SICA (VILLA AROMA),sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,2,0,5,5
+SUCRE,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,2,0,7,15,3,2,4,0,0,5,16,22,38
+TARIJA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+TRINIDAD,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,1,3
+TUPIZA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+VALLEGRANDE,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3,3
+VILLA TUNARI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,0,1,1,2,3,6,9
+VILLAZON,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+YACUIBA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,3,1,4
+YOCALLA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-09-01,0,0,0,0,0,0,0,0,0,0,19,16,2,8,4,2,1,0,1,7,27,33,60
+ALCALA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,2,1,1,0,0,4,6,10
+ARBIETO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+BELLA FLOR,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+CABEZAS,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CHALLAPATA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHARAGUA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COBIJA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+COCHABAMBA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,4,10,0,3,0,0,2,0,6,13,19
+COPACABANA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,1,5,7,2,3,0,2,0,1,7,14,21
+CUEVO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+CULPINA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,1,3,4
+EL ALTO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,2,0,0,0,0,0,0,0,0,0,0,1,2,2,0,2,0,0,0,0,4,5,9
+EL VILLAR,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+FERNANDEZ ALONSO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+HUACARETA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,1,4,5,3,3,0,0,2,6,9,15,24
+INCAHUASI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA PAZ,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,8,3,2,1,5,2,12,8,27,35
+MACHARETI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,5,8,2,4,1,4,0,0,8,16,24
+ORURO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+POTOSI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3,5,1,2,1,4,7,14,21
+PRESTO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+PUCARANI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0,0,1,2,3,5
+PUERTO VILLARROEL,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+PUNATA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+SAN IGNACIO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,15,34,17,15,5,12,2,3,39,64,103
+SHINAOTA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,1,3,4
+SICA SICA (VILLA AROMA),sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,2,1,1,0,5,5,10
+SUCRE,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,52,11,2,1,0,1,1,0,55,13,68
+TARIJA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,1,2,1,3,0,1,2,2,3,5,7,13,20
+TOLATA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+TOMINA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,2,1,6,7
+VALLEGRANDE,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,1,0,2,2,0,0,0,0,1,0,4,2,6
+VILLA SERRANO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,2,2,5,3,8
+VILLA TUNARI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0,0,1,2,3,5
+VILLAZON,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+YACO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+YACUIBA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ZUDAÑEZ,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,2,3,1,0,0,0,0,1,0,4,3,7
+CHARAÑA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CHIMORE,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+COCHABAMBA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+CORO CORO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CUEVO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL ALTO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+EL VILLAR,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,3,1,4
+ENTRE RIOS TRJ,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+ESCOMA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+LA PAZ,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,1,2,3,5
+LAS CARRERAS,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,3,1,4
+MECAPACA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MONTERO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+PALOS BLANCOS,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+POTOSI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0,1,0,0,0,0,0,7,7
+PRESTO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,5,8,1,2,0,2,6,9,12,21,33
+PUCARANI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+PUERTO VILLARROEL,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,2,1,3
+PUNATA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+SAN RAFAEL,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,2
+SANTA ROSA DEL SARA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,3,3
+SICA SICA (VILLA AROMA),sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,2
+SUCRE,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,2,6,5,16,9,12,2,4,3,1,0,1,21,40,61
+TARIJA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,1,0,0,0,3,2,5
+TARVITA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,3,0,4,1,0,0,0,0,0,0,0,1,7,8
+TOMINA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,1,3,4
+UYUNI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+VALLEGRANDE,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA CHARCAS,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,3,3
+VILLA TUNARI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+YACUIBA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,3
+YOTALA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,2
+ZUDAÑEZ,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+ALCALA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+CABEZAS,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2,1,3
+"CAIZA ""D""",sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CARAPARI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-12-01,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2
+CHARAGUA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CHIMORE,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CHULUMANI (V. DE LA LIBERTAD),sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CKOCHAS,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COBIJA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+EL ALTO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+LA PAZ,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-12-01,0,0,0,0,0,0,0,0,1,0,0,1,2,3,0,0,1,1,0,1,4,6,10
+MACHARETI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-12-01,0,0,0,0,0,0,0,0,0,0,1,1,1,6,0,2,0,1,0,1,2,11,13
+MONTEAGUDO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+POTOSI,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-12-01,0,0,0,0,0,0,2,0,1,0,1,0,2,2,1,0,0,0,1,1,8,3,11
+PRESTO,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-12-01,0,0,0,0,0,0,0,0,0,0,1,0,7,8,1,0,3,2,3,4,15,14,29
+PUNATA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,3,3
+SUCRE,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,2,1,0,1,5,6
+TARATA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TARIJA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-12-01,0,0,0,0,0,0,0,0,0,0,1,1,3,2,1,2,1,0,2,0,8,5,13
+TARVITA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+TOMINA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+TRINIDAD,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+YACUIBA,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021-12-01,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2

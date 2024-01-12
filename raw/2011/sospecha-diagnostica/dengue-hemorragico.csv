@@ -1,0 +1,50 @@
+municipality,group,variable,month,< de 1 año,1 a 4 años,5 a 9 años,10 a 20 años,21 a 59 años,60 y más,TOTAL
+LA PAZ,sospecha diagnostica,dengue hemorragico,2011-01-01,0,0,0,0,3,0,3
+SANTA ANA,sospecha diagnostica,dengue hemorragico,2011-01-01,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2011-01-01,0,1,0,0,2,0,3
+CONCEPCION,sospecha diagnostica,dengue hemorragico,2011-02-01,0,0,0,1,0,0,1
+COTOCA,sospecha diagnostica,dengue hemorragico,2011-02-01,0,0,0,1,0,0,1
+ORURO,sospecha diagnostica,dengue hemorragico,2011-02-01,0,0,0,0,1,0,1
+SAN ANDRES,sospecha diagnostica,dengue hemorragico,2011-02-01,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2011-02-01,1,1,5,9,10,1,27
+CAMIRI,sospecha diagnostica,dengue hemorragico,2011-03-01,0,0,0,0,1,0,1
+SACABA,sospecha diagnostica,dengue hemorragico,2011-03-01,0,0,0,0,1,0,1
+SAN ANDRES,sospecha diagnostica,dengue hemorragico,2011-03-01,0,0,0,1,0,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2011-03-01,2,1,5,12,31,0,51
+TARIJA,sospecha diagnostica,dengue hemorragico,2011-03-01,0,0,1,0,0,0,1
+TRINIDAD,sospecha diagnostica,dengue hemorragico,2011-03-01,1,0,0,0,0,0,1
+CAMIRI,sospecha diagnostica,dengue hemorragico,2011-04-01,0,0,0,0,0,1,1
+MONTERO,sospecha diagnostica,dengue hemorragico,2011-04-01,0,0,0,0,3,0,3
+PAILON,sospecha diagnostica,dengue hemorragico,2011-04-01,0,0,0,0,1,0,1
+SAN BORJA,sospecha diagnostica,dengue hemorragico,2011-04-01,0,0,0,0,1,0,1
+SAN JAVIER(STC),sospecha diagnostica,dengue hemorragico,2011-04-01,0,0,0,1,0,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2011-04-01,1,11,11,24,55,6,108
+COCHABAMBA,sospecha diagnostica,dengue hemorragico,2011-05-01,0,0,0,0,1,0,1
+EL PUENTE(STC),sospecha diagnostica,dengue hemorragico,2011-05-01,0,0,0,0,2,1,3
+ENTRE RIOS CBBA,sospecha diagnostica,dengue hemorragico,2011-05-01,0,0,0,0,1,0,1
+MAIRANA,sospecha diagnostica,dengue hemorragico,2011-05-01,0,0,0,0,1,0,1
+PUERTO VILLARROEL,sospecha diagnostica,dengue hemorragico,2011-05-01,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2011-05-01,0,1,2,20,22,0,45
+YACUIBA,sospecha diagnostica,dengue hemorragico,2011-05-01,0,0,0,0,1,0,1
+EL PUENTE(STC),sospecha diagnostica,dengue hemorragico,2011-06-01,0,0,0,0,0,1,1
+SAN JAVIER(STC),sospecha diagnostica,dengue hemorragico,2011-06-01,0,0,0,1,0,0,1
+SAN JULIAN,sospecha diagnostica,dengue hemorragico,2011-06-01,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2011-06-01,0,0,0,4,7,0,11
+LA PAZ,sospecha diagnostica,dengue hemorragico,2011-07-01,0,0,0,0,2,0,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2011-07-01,0,0,0,0,2,0,2
+REYES,sospecha diagnostica,dengue hemorragico,2011-08-01,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2011-08-01,0,0,0,0,0,0,0
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2011-09-01,0,0,0,0,0,0,0
+BOYUIBE,sospecha diagnostica,dengue hemorragico,2011-10-01,0,0,0,0,0,1,1
+ENTRE RIOS CBBA,sospecha diagnostica,dengue hemorragico,2011-10-01,0,0,0,0,1,0,1
+SAN JAVIER(STC),sospecha diagnostica,dengue hemorragico,2011-10-01,0,0,1,0,0,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2011-10-01,0,1,0,0,0,1,2
+LA PAZ,sospecha diagnostica,dengue hemorragico,2011-11-01,0,0,0,0,1,0,1
+SAN CARLOS,sospecha diagnostica,dengue hemorragico,2011-11-01,0,0,0,1,0,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2011-11-01,0,0,1,0,2,0,3
+YAPACANI,sospecha diagnostica,dengue hemorragico,2011-11-01,0,0,0,0,0,1,1
+COCHABAMBA,sospecha diagnostica,dengue hemorragico,2011-12-01,0,0,0,0,3,0,3
+ENTRE RIOS CBBA,sospecha diagnostica,dengue hemorragico,2011-12-01,0,0,0,1,0,0,1
+SACABA,sospecha diagnostica,dengue hemorragico,2011-12-01,0,0,0,3,5,0,8
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2011-12-01,0,2,0,1,2,2,7
+VILLA TUNARI,sospecha diagnostica,dengue hemorragico,2011-12-01,0,0,0,1,0,0,1

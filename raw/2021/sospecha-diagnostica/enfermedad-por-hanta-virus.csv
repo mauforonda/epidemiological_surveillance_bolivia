@@ -1,0 +1,36 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+BERMEJO,sospecha diagnostica,enfermedad por hanta virus,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CARANAVI,sospecha diagnostica,enfermedad por hanta virus,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BERMEJO,sospecha diagnostica,enfermedad por hanta virus,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CARANAVI,sospecha diagnostica,enfermedad por hanta virus,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN JULIAN,sospecha diagnostica,enfermedad por hanta virus,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2021-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,0,2
+BERMEJO,sospecha diagnostica,enfermedad por hanta virus,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+ROBORE,sospecha diagnostica,enfermedad por hanta virus,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+CARANAVI,sospecha diagnostica,enfermedad por hanta virus,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+BERMEJO,sospecha diagnostica,enfermedad por hanta virus,2021-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,2,1,3
+SAN PEDRO,sospecha diagnostica,enfermedad por hanta virus,2021-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,1,3
+TRINIDAD,sospecha diagnostica,enfermedad por hanta virus,2021-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+YACUIBA,sospecha diagnostica,enfermedad por hanta virus,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BERMEJO,sospecha diagnostica,enfermedad por hanta virus,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,0,0,0,0,4,1,5
+PADCAYA,sospecha diagnostica,enfermedad por hanta virus,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SAN PEDRO,sospecha diagnostica,enfermedad por hanta virus,2021-09-01,0,0,0,0,1,0,0,0,1,1,0,2,1,1,0,0,0,0,0,0,3,4,7
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,1,3
+BERMEJO,sospecha diagnostica,enfermedad por hanta virus,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+PALOS BLANCOS,sospecha diagnostica,enfermedad por hanta virus,2021-10-01,0,0,1,0,0,0,0,2,2,1,2,0,5,9,1,4,2,3,1,5,14,24,38
+YACUIBA,sospecha diagnostica,enfermedad por hanta virus,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,2
+BERMEJO,sospecha diagnostica,enfermedad por hanta virus,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CARAPARI,sospecha diagnostica,enfermedad por hanta virus,2021-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PALOS BLANCOS,sospecha diagnostica,enfermedad por hanta virus,2021-11-01,0,0,0,1,0,2,0,1,4,1,0,0,2,2,0,1,0,2,3,0,9,10,19
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+YACUIBA,sospecha diagnostica,enfermedad por hanta virus,2021-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,2,1,3
+PALOS BLANCOS,sospecha diagnostica,enfermedad por hanta virus,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2021-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
