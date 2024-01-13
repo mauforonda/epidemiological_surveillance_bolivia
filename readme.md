@@ -2,6 +2,8 @@
 
 See all [available datasets](datasets.md).
 
+You can also download everything in [lightweight parquet files available under releases](https://github.com/mauforonda/epidemiological_surveillance_bolivia/releases/latest).
+
 The Bolivian health ministry collects periodic data on case frequencies for all epidemiologically relevant diseases (`Form 302a`). And while most of these data are [accessible online](https://estadisticas.minsalud.gob.bo/), they're not easy to download and work with. This repository includes code to collect and format all available data:
 
 - [conf.json](conf.json) features pointers to yearly pages, which are meant to be added once a year finishes.

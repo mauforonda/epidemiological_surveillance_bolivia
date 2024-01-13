@@ -6,6 +6,8 @@ from tqdm import tqdm
 import re
 import os
 
+from common import load_conf
+
 def get_municipalities():
     """
     Returns dictionaries to map municipality names and codes
@@ -213,7 +215,6 @@ def format_table(filename):
         
     return df
 
-from common import load_conf
 filenames = load_conf(['filenames'])
 
 # Make municipality dictionaries
