@@ -6,8 +6,8 @@ The Bolivian health ministry collects periodic data on case frequencies for all 
 
 - [conf.json](conf.json) features pointers to yearly pages, which are meant to be added once a year finishes.
 - [variables.py](variables.py) builds an index of all diseases available in yearly pages.
-- [data.py] downloads data in the `variables` index as minimally formatted tables stored under the `raw` directory. 
-- [format.py] makes every `raw` table tidy and enriched with additional attributes like municipality identifiers, useful to compare observations across years, and saves them under the `clean` directory.
+- [data.py](data.py) downloads data in the `variables` index as minimally formatted tables stored under the `raw` directory. 
+- [format.py](format.py) makes every `raw` table tidy and enriched with additional attributes like municipality identifiers, useful to compare observations across years, and saves them under the `clean` directory.
 
 This workflow should make yearly updates relatively easy. Here are [some instructions](updates.md).
 
