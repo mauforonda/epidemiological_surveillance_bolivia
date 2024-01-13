@@ -1,0 +1,36 @@
+department,municipality_id,municipality,year,month,population,value
+Beni,80801,Magdalena,2010,2,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,3,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,< de 1 ano,0
+Beni,80801,Magdalena,2010,8,< de 1 ano,0
+Beni,80803,Huaracaje,2010,10,< de 1 ano,0
+Beni,80801,Magdalena,2010,2,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,3,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,1 a 4 anos,0
+Beni,80801,Magdalena,2010,8,1 a 4 anos,0
+Beni,80803,Huaracaje,2010,10,1 a 4 anos,0
+Beni,80801,Magdalena,2010,2,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,3,5 a 9 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,5 a 9 anos,0
+Beni,80801,Magdalena,2010,8,5 a 9 anos,0
+Beni,80803,Huaracaje,2010,10,5 a 9 anos,0
+Beni,80801,Magdalena,2010,2,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,3,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,10 a 20 anos,1
+Beni,80801,Magdalena,2010,8,10 a 20 anos,0
+Beni,80803,Huaracaje,2010,10,10 a 20 anos,1
+Beni,80801,Magdalena,2010,2,21 a 59 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,3,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,21 a 59 anos,0
+Beni,80801,Magdalena,2010,8,21 a 59 anos,1
+Beni,80803,Huaracaje,2010,10,21 a 59 anos,1
+Beni,80801,Magdalena,2010,2,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,3,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,60 y mas,0
+Beni,80801,Magdalena,2010,8,60 y mas,0
+Beni,80803,Huaracaje,2010,10,60 y mas,0
+Beni,80801,Magdalena,2010,2,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,3,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,TOTAL,1
+Beni,80801,Magdalena,2010,8,TOTAL,1
+Beni,80803,Huaracaje,2010,10,TOTAL,2

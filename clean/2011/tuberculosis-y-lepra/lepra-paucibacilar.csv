@@ -1,0 +1,631 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,< de 1 ano / MASCULINO,0
+Tarija,60101,Tarija,2011,1,< de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,2,< de 1 ano / MASCULINO,0
+Beni,80201,Riberalta,2011,2,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,< de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,3,< de 1 ano / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2011,3,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,< de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,4,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,< de 1 ano / MASCULINO,0
+Tarija,60202,Bermejo,2011,5,< de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,5,< de 1 ano / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2011,5,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,< de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,6,< de 1 ano / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2011,6,< de 1 ano / MASCULINO,0
+Tarija,60501,San Lorenzo(tja),2011,6,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,< de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,7,< de 1 ano / MASCULINO,0
+Cochabamba,30901,Quillacollo,2011,7,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,< de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,8,< de 1 ano / MASCULINO,0
+Tarija,60601,Entre Rios Trj,2011,8,< de 1 ano / MASCULINO,0
+Tarija,60201,Padcaya,2011,8,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,< de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,9,< de 1 ano / MASCULINO,0
+Tarija,60601,Entre Rios Trj,2011,9,< de 1 ano / MASCULINO,0
+Tarija,60201,Padcaya,2011,9,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,< de 1 ano / MASCULINO,0
+Cochabamba,30101,Cochabamba,2011,10,< de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,10,< de 1 ano / MASCULINO,0
+Tarija,60201,Padcaya,2011,10,< de 1 ano / MASCULINO,0
+La Paz,21502,San Buena Ventura,2011,10,< de 1 ano / MASCULINO,0
+Santa Cruz,71104,San Julian,2011,10,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,< de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,11,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,< de 1 ano / MASCULINO,0
+Santa Cruz,70403,Yapacani,2011,11,< de 1 ano / MASCULINO,0
+Cochabamba,30501,Arani,2011,12,< de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,12,< de 1 ano / MASCULINO,0
+Santa Cruz,71005,San Pedro,2011,12,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,< de 1 ano / FEMENINO,0
+Tarija,60101,Tarija,2011,1,< de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,2,< de 1 ano / FEMENINO,0
+Beni,80201,Riberalta,2011,2,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,< de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,3,< de 1 ano / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2011,3,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,< de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,4,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,< de 1 ano / FEMENINO,0
+Tarija,60202,Bermejo,2011,5,< de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,5,< de 1 ano / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2011,5,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,< de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,6,< de 1 ano / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2011,6,< de 1 ano / FEMENINO,0
+Tarija,60501,San Lorenzo(tja),2011,6,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,< de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,7,< de 1 ano / FEMENINO,0
+Cochabamba,30901,Quillacollo,2011,7,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,< de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,8,< de 1 ano / FEMENINO,0
+Tarija,60601,Entre Rios Trj,2011,8,< de 1 ano / FEMENINO,0
+Tarija,60201,Padcaya,2011,8,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,< de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,9,< de 1 ano / FEMENINO,0
+Tarija,60601,Entre Rios Trj,2011,9,< de 1 ano / FEMENINO,0
+Tarija,60201,Padcaya,2011,9,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,< de 1 ano / FEMENINO,0
+Cochabamba,30101,Cochabamba,2011,10,< de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,10,< de 1 ano / FEMENINO,0
+Tarija,60201,Padcaya,2011,10,< de 1 ano / FEMENINO,0
+La Paz,21502,San Buena Ventura,2011,10,< de 1 ano / FEMENINO,0
+Santa Cruz,71104,San Julian,2011,10,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,< de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,11,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,< de 1 ano / FEMENINO,0
+Santa Cruz,70403,Yapacani,2011,11,< de 1 ano / FEMENINO,0
+Cochabamba,30501,Arani,2011,12,< de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,12,< de 1 ano / FEMENINO,0
+Santa Cruz,71005,San Pedro,2011,12,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,1 a 4 anos / MASCULINO,0
+Tarija,60101,Tarija,2011,1,1 a 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,2,1 a 4 anos / MASCULINO,0
+Beni,80201,Riberalta,2011,2,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,1 a 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,3,1 a 4 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2011,3,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,1 a 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,4,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,1 a 4 anos / MASCULINO,0
+Tarija,60202,Bermejo,2011,5,1 a 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,5,1 a 4 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2011,5,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,1 a 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,6,1 a 4 anos / MASCULINO,1
+Chuquisaca,10501,Monteagudo,2011,6,1 a 4 anos / MASCULINO,0
+Tarija,60501,San Lorenzo(tja),2011,6,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,1 a 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,7,1 a 4 anos / MASCULINO,0
+Cochabamba,30901,Quillacollo,2011,7,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,1 a 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,8,1 a 4 anos / MASCULINO,0
+Tarija,60601,Entre Rios Trj,2011,8,1 a 4 anos / MASCULINO,0
+Tarija,60201,Padcaya,2011,8,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,1 a 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,9,1 a 4 anos / MASCULINO,0
+Tarija,60601,Entre Rios Trj,2011,9,1 a 4 anos / MASCULINO,0
+Tarija,60201,Padcaya,2011,9,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,1 a 4 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2011,10,1 a 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,10,1 a 4 anos / MASCULINO,0
+Tarija,60201,Padcaya,2011,10,1 a 4 anos / MASCULINO,0
+La Paz,21502,San Buena Ventura,2011,10,1 a 4 anos / MASCULINO,0
+Santa Cruz,71104,San Julian,2011,10,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,1 a 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,11,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,1 a 4 anos / MASCULINO,0
+Santa Cruz,70403,Yapacani,2011,11,1 a 4 anos / MASCULINO,0
+Cochabamba,30501,Arani,2011,12,1 a 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,12,1 a 4 anos / MASCULINO,0
+Santa Cruz,71005,San Pedro,2011,12,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,1 a 4 anos / FEMENINO,0
+Tarija,60101,Tarija,2011,1,1 a 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,2,1 a 4 anos / FEMENINO,0
+Beni,80201,Riberalta,2011,2,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,1 a 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,3,1 a 4 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2011,3,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,1 a 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,4,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,1 a 4 anos / FEMENINO,0
+Tarija,60202,Bermejo,2011,5,1 a 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,5,1 a 4 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2011,5,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,1 a 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,6,1 a 4 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2011,6,1 a 4 anos / FEMENINO,0
+Tarija,60501,San Lorenzo(tja),2011,6,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,1 a 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,7,1 a 4 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2011,7,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,1 a 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,8,1 a 4 anos / FEMENINO,0
+Tarija,60601,Entre Rios Trj,2011,8,1 a 4 anos / FEMENINO,0
+Tarija,60201,Padcaya,2011,8,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,1 a 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,9,1 a 4 anos / FEMENINO,0
+Tarija,60601,Entre Rios Trj,2011,9,1 a 4 anos / FEMENINO,0
+Tarija,60201,Padcaya,2011,9,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,1 a 4 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2011,10,1 a 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,10,1 a 4 anos / FEMENINO,0
+Tarija,60201,Padcaya,2011,10,1 a 4 anos / FEMENINO,0
+La Paz,21502,San Buena Ventura,2011,10,1 a 4 anos / FEMENINO,0
+Santa Cruz,71104,San Julian,2011,10,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,1 a 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,11,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,1 a 4 anos / FEMENINO,0
+Santa Cruz,70403,Yapacani,2011,11,1 a 4 anos / FEMENINO,0
+Cochabamba,30501,Arani,2011,12,1 a 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,12,1 a 4 anos / FEMENINO,0
+Santa Cruz,71005,San Pedro,2011,12,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,5 a 9 anos / MASCULINO,0
+Tarija,60101,Tarija,2011,1,5 a 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,2,5 a 9 anos / MASCULINO,0
+Beni,80201,Riberalta,2011,2,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,5 a 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,3,5 a 9 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2011,3,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,5 a 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,4,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,5 a 9 anos / MASCULINO,0
+Tarija,60202,Bermejo,2011,5,5 a 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,5,5 a 9 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2011,5,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,5 a 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,6,5 a 9 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2011,6,5 a 9 anos / MASCULINO,0
+Tarija,60501,San Lorenzo(tja),2011,6,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,5 a 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,7,5 a 9 anos / MASCULINO,0
+Cochabamba,30901,Quillacollo,2011,7,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,5 a 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,8,5 a 9 anos / MASCULINO,0
+Tarija,60601,Entre Rios Trj,2011,8,5 a 9 anos / MASCULINO,0
+Tarija,60201,Padcaya,2011,8,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,5 a 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,9,5 a 9 anos / MASCULINO,0
+Tarija,60601,Entre Rios Trj,2011,9,5 a 9 anos / MASCULINO,0
+Tarija,60201,Padcaya,2011,9,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,5 a 9 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2011,10,5 a 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,10,5 a 9 anos / MASCULINO,0
+Tarija,60201,Padcaya,2011,10,5 a 9 anos / MASCULINO,0
+La Paz,21502,San Buena Ventura,2011,10,5 a 9 anos / MASCULINO,0
+Santa Cruz,71104,San Julian,2011,10,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,5 a 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,11,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,5 a 9 anos / MASCULINO,0
+Santa Cruz,70403,Yapacani,2011,11,5 a 9 anos / MASCULINO,0
+Cochabamba,30501,Arani,2011,12,5 a 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,12,5 a 9 anos / MASCULINO,0
+Santa Cruz,71005,San Pedro,2011,12,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,5 a 9 anos / FEMENINO,0
+Tarija,60101,Tarija,2011,1,5 a 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,2,5 a 9 anos / FEMENINO,0
+Beni,80201,Riberalta,2011,2,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,5 a 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,3,5 a 9 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2011,3,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,5 a 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,4,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,5 a 9 anos / FEMENINO,0
+Tarija,60202,Bermejo,2011,5,5 a 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,5,5 a 9 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2011,5,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,5 a 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,6,5 a 9 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2011,6,5 a 9 anos / FEMENINO,0
+Tarija,60501,San Lorenzo(tja),2011,6,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,5 a 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,7,5 a 9 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2011,7,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,5 a 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,8,5 a 9 anos / FEMENINO,0
+Tarija,60601,Entre Rios Trj,2011,8,5 a 9 anos / FEMENINO,0
+Tarija,60201,Padcaya,2011,8,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,5 a 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,9,5 a 9 anos / FEMENINO,0
+Tarija,60601,Entre Rios Trj,2011,9,5 a 9 anos / FEMENINO,0
+Tarija,60201,Padcaya,2011,9,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,5 a 9 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2011,10,5 a 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,10,5 a 9 anos / FEMENINO,0
+Tarija,60201,Padcaya,2011,10,5 a 9 anos / FEMENINO,0
+La Paz,21502,San Buena Ventura,2011,10,5 a 9 anos / FEMENINO,0
+Santa Cruz,71104,San Julian,2011,10,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,5 a 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,11,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,5 a 9 anos / FEMENINO,0
+Santa Cruz,70403,Yapacani,2011,11,5 a 9 anos / FEMENINO,0
+Cochabamba,30501,Arani,2011,12,5 a 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,12,5 a 9 anos / FEMENINO,0
+Santa Cruz,71005,San Pedro,2011,12,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,10 a 20 anos / MASCULINO,0
+Tarija,60101,Tarija,2011,1,10 a 20 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,2,10 a 20 anos / MASCULINO,0
+Beni,80201,Riberalta,2011,2,10 a 20 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,10 a 20 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,3,10 a 20 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2011,3,10 a 20 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,10 a 20 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,4,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,10 a 20 anos / MASCULINO,0
+Tarija,60202,Bermejo,2011,5,10 a 20 anos / MASCULINO,2
+Santa Cruz,70105,El Torno,2011,5,10 a 20 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2011,5,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,10 a 20 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,6,10 a 20 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2011,6,10 a 20 anos / MASCULINO,1
+Tarija,60501,San Lorenzo(tja),2011,6,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,10 a 20 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,7,10 a 20 anos / MASCULINO,1
+Cochabamba,30901,Quillacollo,2011,7,10 a 20 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,10 a 20 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,8,10 a 20 anos / MASCULINO,0
+Tarija,60601,Entre Rios Trj,2011,8,10 a 20 anos / MASCULINO,0
+Tarija,60201,Padcaya,2011,8,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,10 a 20 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,9,10 a 20 anos / MASCULINO,0
+Tarija,60601,Entre Rios Trj,2011,9,10 a 20 anos / MASCULINO,0
+Tarija,60201,Padcaya,2011,9,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,10 a 20 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2011,10,10 a 20 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,10,10 a 20 anos / MASCULINO,0
+Tarija,60201,Padcaya,2011,10,10 a 20 anos / MASCULINO,0
+La Paz,21502,San Buena Ventura,2011,10,10 a 20 anos / MASCULINO,0
+Santa Cruz,71104,San Julian,2011,10,10 a 20 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,10 a 20 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,11,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,10 a 20 anos / MASCULINO,0
+Santa Cruz,70403,Yapacani,2011,11,10 a 20 anos / MASCULINO,0
+Cochabamba,30501,Arani,2011,12,10 a 20 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,12,10 a 20 anos / MASCULINO,0
+Santa Cruz,71005,San Pedro,2011,12,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,10 a 20 anos / FEMENINO,0
+Tarija,60101,Tarija,2011,1,10 a 20 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,2,10 a 20 anos / FEMENINO,0
+Beni,80201,Riberalta,2011,2,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,10 a 20 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,3,10 a 20 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2011,3,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,10 a 20 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,4,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,10 a 20 anos / FEMENINO,0
+Tarija,60202,Bermejo,2011,5,10 a 20 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,5,10 a 20 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2011,5,10 a 20 anos / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,10 a 20 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,6,10 a 20 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2011,6,10 a 20 anos / FEMENINO,0
+Tarija,60501,San Lorenzo(tja),2011,6,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,10 a 20 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,7,10 a 20 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2011,7,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,10 a 20 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,8,10 a 20 anos / FEMENINO,0
+Tarija,60601,Entre Rios Trj,2011,8,10 a 20 anos / FEMENINO,0
+Tarija,60201,Padcaya,2011,8,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,10 a 20 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,9,10 a 20 anos / FEMENINO,1
+Tarija,60601,Entre Rios Trj,2011,9,10 a 20 anos / FEMENINO,0
+Tarija,60201,Padcaya,2011,9,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,10 a 20 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2011,10,10 a 20 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2011,10,10 a 20 anos / FEMENINO,0
+Tarija,60201,Padcaya,2011,10,10 a 20 anos / FEMENINO,0
+La Paz,21502,San Buena Ventura,2011,10,10 a 20 anos / FEMENINO,0
+Santa Cruz,71104,San Julian,2011,10,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,10 a 20 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,11,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,10 a 20 anos / FEMENINO,0
+Santa Cruz,70403,Yapacani,2011,11,10 a 20 anos / FEMENINO,2
+Cochabamba,30501,Arani,2011,12,10 a 20 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,12,10 a 20 anos / FEMENINO,0
+Santa Cruz,71005,San Pedro,2011,12,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,21 a 59 anos / MASCULINO,0
+Tarija,60101,Tarija,2011,1,21 a 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,2,21 a 59 anos / MASCULINO,1
+Beni,80201,Riberalta,2011,2,21 a 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,21 a 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,3,21 a 59 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2011,3,21 a 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,21 a 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,4,21 a 59 anos / MASCULINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,21 a 59 anos / MASCULINO,0
+Tarija,60202,Bermejo,2011,5,21 a 59 anos / MASCULINO,1
+Santa Cruz,70105,El Torno,2011,5,21 a 59 anos / MASCULINO,2
+Chuquisaca,10501,Monteagudo,2011,5,21 a 59 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,21 a 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,6,21 a 59 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2011,6,21 a 59 anos / MASCULINO,0
+Tarija,60501,San Lorenzo(tja),2011,6,21 a 59 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,21 a 59 anos / MASCULINO,1
+Santa Cruz,70105,El Torno,2011,7,21 a 59 anos / MASCULINO,1
+Cochabamba,30901,Quillacollo,2011,7,21 a 59 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,21 a 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,8,21 a 59 anos / MASCULINO,2
+Tarija,60601,Entre Rios Trj,2011,8,21 a 59 anos / MASCULINO,0
+Tarija,60201,Padcaya,2011,8,21 a 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,21 a 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,9,21 a 59 anos / MASCULINO,1
+Tarija,60601,Entre Rios Trj,2011,9,21 a 59 anos / MASCULINO,0
+Tarija,60201,Padcaya,2011,9,21 a 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,21 a 59 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2011,10,21 a 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,10,21 a 59 anos / MASCULINO,1
+Tarija,60201,Padcaya,2011,10,21 a 59 anos / MASCULINO,0
+La Paz,21502,San Buena Ventura,2011,10,21 a 59 anos / MASCULINO,1
+Santa Cruz,71104,San Julian,2011,10,21 a 59 anos / MASCULINO,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,21 a 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,11,21 a 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,21 a 59 anos / MASCULINO,0
+Santa Cruz,70403,Yapacani,2011,11,21 a 59 anos / MASCULINO,6
+Cochabamba,30501,Arani,2011,12,21 a 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,12,21 a 59 anos / MASCULINO,0
+Santa Cruz,71005,San Pedro,2011,12,21 a 59 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,21 a 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,21 a 59 anos / FEMENINO,0
+Tarija,60101,Tarija,2011,1,21 a 59 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2011,2,21 a 59 anos / FEMENINO,0
+Beni,80201,Riberalta,2011,2,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,21 a 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,3,21 a 59 anos / FEMENINO,1
+Chuquisaca,10501,Monteagudo,2011,3,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,21 a 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,4,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,21 a 59 anos / FEMENINO,0
+Tarija,60202,Bermejo,2011,5,21 a 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,5,21 a 59 anos / FEMENINO,1
+Chuquisaca,10501,Monteagudo,2011,5,21 a 59 anos / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,21 a 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,6,21 a 59 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2011,6,21 a 59 anos / FEMENINO,0
+Tarija,60501,San Lorenzo(tja),2011,6,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,21 a 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,7,21 a 59 anos / FEMENINO,1
+Cochabamba,30901,Quillacollo,2011,7,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,21 a 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,8,21 a 59 anos / FEMENINO,0
+Tarija,60601,Entre Rios Trj,2011,8,21 a 59 anos / FEMENINO,0
+Tarija,60201,Padcaya,2011,8,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,21 a 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,9,21 a 59 anos / FEMENINO,2
+Tarija,60601,Entre Rios Trj,2011,9,21 a 59 anos / FEMENINO,1
+Tarija,60201,Padcaya,2011,9,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,21 a 59 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2011,10,21 a 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,10,21 a 59 anos / FEMENINO,1
+Tarija,60201,Padcaya,2011,10,21 a 59 anos / FEMENINO,1
+La Paz,21502,San Buena Ventura,2011,10,21 a 59 anos / FEMENINO,0
+Santa Cruz,71104,San Julian,2011,10,21 a 59 anos / FEMENINO,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,21 a 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,11,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,21 a 59 anos / FEMENINO,0
+Santa Cruz,70403,Yapacani,2011,11,21 a 59 anos / FEMENINO,2
+Cochabamba,30501,Arani,2011,12,21 a 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,12,21 a 59 anos / FEMENINO,1
+Santa Cruz,71005,San Pedro,2011,12,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,60 y mas / MASCULINO,0
+Tarija,60101,Tarija,2011,1,60 y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,2,60 y mas / MASCULINO,0
+Beni,80201,Riberalta,2011,2,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,60 y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,3,60 y mas / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2011,3,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,60 y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,4,60 y mas / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,60 y mas / MASCULINO,0
+Tarija,60202,Bermejo,2011,5,60 y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,5,60 y mas / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2011,5,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,60 y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,6,60 y mas / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2011,6,60 y mas / MASCULINO,0
+Tarija,60501,San Lorenzo(tja),2011,6,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,60 y mas / MASCULINO,1
+Santa Cruz,70105,El Torno,2011,7,60 y mas / MASCULINO,0
+Cochabamba,30901,Quillacollo,2011,7,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,60 y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,8,60 y mas / MASCULINO,0
+Tarija,60601,Entre Rios Trj,2011,8,60 y mas / MASCULINO,0
+Tarija,60201,Padcaya,2011,8,60 y mas / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,60 y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,9,60 y mas / MASCULINO,0
+Tarija,60601,Entre Rios Trj,2011,9,60 y mas / MASCULINO,0
+Tarija,60201,Padcaya,2011,9,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,60 y mas / MASCULINO,0
+Cochabamba,30101,Cochabamba,2011,10,60 y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,10,60 y mas / MASCULINO,0
+Tarija,60201,Padcaya,2011,10,60 y mas / MASCULINO,0
+La Paz,21502,San Buena Ventura,2011,10,60 y mas / MASCULINO,0
+Santa Cruz,71104,San Julian,2011,10,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,60 y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2011,11,60 y mas / MASCULINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,60 y mas / MASCULINO,0
+Santa Cruz,70403,Yapacani,2011,11,60 y mas / MASCULINO,1
+Cochabamba,30501,Arani,2011,12,60 y mas / MASCULINO,2
+Santa Cruz,70105,El Torno,2011,12,60 y mas / MASCULINO,0
+Santa Cruz,71005,San Pedro,2011,12,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,60 y mas / FEMENINO,0
+Tarija,60101,Tarija,2011,1,60 y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,2,60 y mas / FEMENINO,0
+Beni,80201,Riberalta,2011,2,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,60 y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,3,60 y mas / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2011,3,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,60 y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,4,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,60 y mas / FEMENINO,0
+Tarija,60202,Bermejo,2011,5,60 y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,5,60 y mas / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2011,5,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,60 y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,6,60 y mas / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2011,6,60 y mas / FEMENINO,0
+Tarija,60501,San Lorenzo(tja),2011,6,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,60 y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,7,60 y mas / FEMENINO,0
+Cochabamba,30901,Quillacollo,2011,7,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,60 y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,8,60 y mas / FEMENINO,0
+Tarija,60601,Entre Rios Trj,2011,8,60 y mas / FEMENINO,1
+Tarija,60201,Padcaya,2011,8,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,60 y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,9,60 y mas / FEMENINO,0
+Tarija,60601,Entre Rios Trj,2011,9,60 y mas / FEMENINO,0
+Tarija,60201,Padcaya,2011,9,60 y mas / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,60 y mas / FEMENINO,0
+Cochabamba,30101,Cochabamba,2011,10,60 y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,10,60 y mas / FEMENINO,0
+Tarija,60201,Padcaya,2011,10,60 y mas / FEMENINO,0
+La Paz,21502,San Buena Ventura,2011,10,60 y mas / FEMENINO,0
+Santa Cruz,71104,San Julian,2011,10,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,60 y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,11,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,60 y mas / FEMENINO,0
+Santa Cruz,70403,Yapacani,2011,11,60 y mas / FEMENINO,0
+Cochabamba,30501,Arani,2011,12,60 y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2011,12,60 y mas / FEMENINO,0
+Santa Cruz,71005,San Pedro,2011,12,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,TOTALES / TOTAL-M,0
+Tarija,60101,Tarija,2011,1,TOTALES / TOTAL-M,0
+Santa Cruz,70105,El Torno,2011,2,TOTALES / TOTAL-M,1
+Beni,80201,Riberalta,2011,2,TOTALES / TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,TOTALES / TOTAL-M,0
+Santa Cruz,70105,El Torno,2011,3,TOTALES / TOTAL-M,0
+Chuquisaca,10501,Monteagudo,2011,3,TOTALES / TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,TOTALES / TOTAL-M,0
+Santa Cruz,70105,El Torno,2011,4,TOTALES / TOTAL-M,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,TOTALES / TOTAL-M,0
+Tarija,60202,Bermejo,2011,5,TOTALES / TOTAL-M,3
+Santa Cruz,70105,El Torno,2011,5,TOTALES / TOTAL-M,2
+Chuquisaca,10501,Monteagudo,2011,5,TOTALES / TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,TOTALES / TOTAL-M,0
+Santa Cruz,70105,El Torno,2011,6,TOTALES / TOTAL-M,1
+Chuquisaca,10501,Monteagudo,2011,6,TOTALES / TOTAL-M,1
+Tarija,60501,San Lorenzo(tja),2011,6,TOTALES / TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,TOTALES / TOTAL-M,2
+Santa Cruz,70105,El Torno,2011,7,TOTALES / TOTAL-M,2
+Cochabamba,30901,Quillacollo,2011,7,TOTALES / TOTAL-M,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,TOTALES / TOTAL-M,0
+Santa Cruz,70105,El Torno,2011,8,TOTALES / TOTAL-M,2
+Tarija,60601,Entre Rios Trj,2011,8,TOTALES / TOTAL-M,0
+Tarija,60201,Padcaya,2011,8,TOTALES / TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,TOTALES / TOTAL-M,0
+Santa Cruz,70105,El Torno,2011,9,TOTALES / TOTAL-M,1
+Tarija,60601,Entre Rios Trj,2011,9,TOTALES / TOTAL-M,0
+Tarija,60201,Padcaya,2011,9,TOTALES / TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,TOTALES / TOTAL-M,0
+Cochabamba,30101,Cochabamba,2011,10,TOTALES / TOTAL-M,0
+Santa Cruz,70105,El Torno,2011,10,TOTALES / TOTAL-M,1
+Tarija,60201,Padcaya,2011,10,TOTALES / TOTAL-M,0
+La Paz,21502,San Buena Ventura,2011,10,TOTALES / TOTAL-M,1
+Santa Cruz,71104,San Julian,2011,10,TOTALES / TOTAL-M,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,TOTALES / TOTAL-M,0
+Santa Cruz,70105,El Torno,2011,11,TOTALES / TOTAL-M,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,TOTALES / TOTAL-M,0
+Santa Cruz,70403,Yapacani,2011,11,TOTALES / TOTAL-M,7
+Cochabamba,30501,Arani,2011,12,TOTALES / TOTAL-M,2
+Santa Cruz,70105,El Torno,2011,12,TOTALES / TOTAL-M,0
+Santa Cruz,71005,San Pedro,2011,12,TOTALES / TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,TOTALES / TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,TOTALES / TOTAL-F,0
+Tarija,60101,Tarija,2011,1,TOTALES / TOTAL-F,1
+Santa Cruz,70105,El Torno,2011,2,TOTALES / TOTAL-F,0
+Beni,80201,Riberalta,2011,2,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,TOTALES / TOTAL-F,0
+Santa Cruz,70105,El Torno,2011,3,TOTALES / TOTAL-F,1
+Chuquisaca,10501,Monteagudo,2011,3,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,TOTALES / TOTAL-F,0
+Santa Cruz,70105,El Torno,2011,4,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,TOTALES / TOTAL-F,0
+Tarija,60202,Bermejo,2011,5,TOTALES / TOTAL-F,0
+Santa Cruz,70105,El Torno,2011,5,TOTALES / TOTAL-F,1
+Chuquisaca,10501,Monteagudo,2011,5,TOTALES / TOTAL-F,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,TOTALES / TOTAL-F,0
+Santa Cruz,70105,El Torno,2011,6,TOTALES / TOTAL-F,0
+Chuquisaca,10501,Monteagudo,2011,6,TOTALES / TOTAL-F,0
+Tarija,60501,San Lorenzo(tja),2011,6,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,TOTALES / TOTAL-F,0
+Santa Cruz,70105,El Torno,2011,7,TOTALES / TOTAL-F,1
+Cochabamba,30901,Quillacollo,2011,7,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,TOTALES / TOTAL-F,0
+Santa Cruz,70105,El Torno,2011,8,TOTALES / TOTAL-F,0
+Tarija,60601,Entre Rios Trj,2011,8,TOTALES / TOTAL-F,1
+Tarija,60201,Padcaya,2011,8,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,TOTALES / TOTAL-F,0
+Santa Cruz,70105,El Torno,2011,9,TOTALES / TOTAL-F,3
+Tarija,60601,Entre Rios Trj,2011,9,TOTALES / TOTAL-F,1
+Tarija,60201,Padcaya,2011,9,TOTALES / TOTAL-F,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,TOTALES / TOTAL-F,0
+Cochabamba,30101,Cochabamba,2011,10,TOTALES / TOTAL-F,1
+Santa Cruz,70105,El Torno,2011,10,TOTALES / TOTAL-F,1
+Tarija,60201,Padcaya,2011,10,TOTALES / TOTAL-F,1
+La Paz,21502,San Buena Ventura,2011,10,TOTALES / TOTAL-F,0
+Santa Cruz,71104,San Julian,2011,10,TOTALES / TOTAL-F,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,TOTALES / TOTAL-F,0
+Santa Cruz,70105,El Torno,2011,11,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,TOTALES / TOTAL-F,0
+Santa Cruz,70403,Yapacani,2011,11,TOTALES / TOTAL-F,4
+Cochabamba,30501,Arani,2011,12,TOTALES / TOTAL-F,0
+Santa Cruz,70105,El Torno,2011,12,TOTALES / TOTAL-F,1
+Santa Cruz,71005,San Pedro,2011,12,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,TOTALES / TOTAL,0
+Tarija,60101,Tarija,2011,1,TOTALES / TOTAL,1
+Santa Cruz,70105,El Torno,2011,2,TOTALES / TOTAL,1
+Beni,80201,Riberalta,2011,2,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,TOTALES / TOTAL,0
+Santa Cruz,70105,El Torno,2011,3,TOTALES / TOTAL,1
+Chuquisaca,10501,Monteagudo,2011,3,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,TOTALES / TOTAL,0
+Santa Cruz,70105,El Torno,2011,4,TOTALES / TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,TOTALES / TOTAL,0
+Tarija,60202,Bermejo,2011,5,TOTALES / TOTAL,3
+Santa Cruz,70105,El Torno,2011,5,TOTALES / TOTAL,3
+Chuquisaca,10501,Monteagudo,2011,5,TOTALES / TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,TOTALES / TOTAL,0
+Santa Cruz,70105,El Torno,2011,6,TOTALES / TOTAL,1
+Chuquisaca,10501,Monteagudo,2011,6,TOTALES / TOTAL,1
+Tarija,60501,San Lorenzo(tja),2011,6,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,TOTALES / TOTAL,2
+Santa Cruz,70105,El Torno,2011,7,TOTALES / TOTAL,3
+Cochabamba,30901,Quillacollo,2011,7,TOTALES / TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,TOTALES / TOTAL,0
+Santa Cruz,70105,El Torno,2011,8,TOTALES / TOTAL,2
+Tarija,60601,Entre Rios Trj,2011,8,TOTALES / TOTAL,1
+Tarija,60201,Padcaya,2011,8,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,TOTALES / TOTAL,0
+Santa Cruz,70105,El Torno,2011,9,TOTALES / TOTAL,4
+Tarija,60601,Entre Rios Trj,2011,9,TOTALES / TOTAL,1
+Tarija,60201,Padcaya,2011,9,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,TOTALES / TOTAL,0
+Cochabamba,30101,Cochabamba,2011,10,TOTALES / TOTAL,1
+Santa Cruz,70105,El Torno,2011,10,TOTALES / TOTAL,2
+Tarija,60201,Padcaya,2011,10,TOTALES / TOTAL,1
+La Paz,21502,San Buena Ventura,2011,10,TOTALES / TOTAL,1
+Santa Cruz,71104,San Julian,2011,10,TOTALES / TOTAL,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,TOTALES / TOTAL,0
+Santa Cruz,70105,El Torno,2011,11,TOTALES / TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,TOTALES / TOTAL,0
+Santa Cruz,70403,Yapacani,2011,11,TOTALES / TOTAL,11
+Cochabamba,30501,Arani,2011,12,TOTALES / TOTAL,2
+Santa Cruz,70105,El Torno,2011,12,TOTALES / TOTAL,1
+Santa Cruz,71005,San Pedro,2011,12,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,TOTALES / TOTAL,0

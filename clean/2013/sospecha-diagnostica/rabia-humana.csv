@@ -1,0 +1,29 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,31003,Villa Tunari,2013,1,< de 1 ano,0
+Santa Cruz,70302,San Miguel De Velasco,2013,4,< de 1 ano,0
+Cochabamba,31003,Villa Tunari,2013,9,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,11,< de 1 ano,0
+Cochabamba,31003,Villa Tunari,2013,1,1 a 4 anos,0
+Santa Cruz,70302,San Miguel De Velasco,2013,4,1 a 4 anos,0
+Cochabamba,31003,Villa Tunari,2013,9,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,11,1 a 4 anos,1
+Cochabamba,31003,Villa Tunari,2013,1,5 a 9 anos,0
+Santa Cruz,70302,San Miguel De Velasco,2013,4,5 a 9 anos,1
+Cochabamba,31003,Villa Tunari,2013,9,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,11,5 a 9 anos,0
+Cochabamba,31003,Villa Tunari,2013,1,10 a 20 anos,0
+Santa Cruz,70302,San Miguel De Velasco,2013,4,10 a 20 anos,0
+Cochabamba,31003,Villa Tunari,2013,9,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,11,10 a 20 anos,0
+Cochabamba,31003,Villa Tunari,2013,1,21 a 59 anos,0
+Santa Cruz,70302,San Miguel De Velasco,2013,4,21 a 59 anos,0
+Cochabamba,31003,Villa Tunari,2013,9,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,11,21 a 59 anos,0
+Cochabamba,31003,Villa Tunari,2013,1,60 y mas,0
+Santa Cruz,70302,San Miguel De Velasco,2013,4,60 y mas,0
+Cochabamba,31003,Villa Tunari,2013,9,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,11,60 y mas,0
+Cochabamba,31003,Villa Tunari,2013,1,TOTAL,0
+Santa Cruz,70302,San Miguel De Velasco,2013,4,TOTAL,1
+Cochabamba,31003,Villa Tunari,2013,9,TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,11,TOTAL,1

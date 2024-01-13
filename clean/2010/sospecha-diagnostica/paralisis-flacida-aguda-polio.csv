@@ -1,0 +1,155 @@
+department,municipality_id,municipality,year,month,population,value
+Potosí,50101,Potosi,2010,1,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2010,3,< de 1 ano,0
+Chuquisaca,10502,Huacareta,2010,3,< de 1 ano,0
+Oruro,40104,Soracachi,2010,3,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2010,4,< de 1 ano,0
+Santa Cruz,70601,Portachuelo,2010,4,< de 1 ano,0
+Potosí,51101,Puna,2010,5,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2010,7,< de 1 ano,0
+Santa Cruz,70601,Portachuelo,2010,7,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,< de 1 ano,0
+Tarija,60303,Villa Montes,2010,8,< de 1 ano,0
+La Paz,20105,El Alto,2010,9,< de 1 ano,0
+Santa Cruz,71001,Montero,2010,9,< de 1 ano,0
+Chuquisaca,10101,Sucre,2010,9,< de 1 ano,0
+Tarija,60101,Tarija,2010,9,< de 1 ano,0
+Tarija,60401,Uriondo (a. Concepcion),2010,9,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2010,11,< de 1 ano,0
+La Paz,20101,La Paz,2010,11,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,11,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2010,12,< de 1 ano,0
+Potosí,50101,Potosi,2010,1,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,1 a 4 anos,1
+Cochabamba,30101,Cochabamba,2010,3,1 a 4 anos,0
+Chuquisaca,10502,Huacareta,2010,3,1 a 4 anos,1
+Oruro,40104,Soracachi,2010,3,1 a 4 anos,1
+Cochabamba,30101,Cochabamba,2010,4,1 a 4 anos,0
+Santa Cruz,70601,Portachuelo,2010,4,1 a 4 anos,0
+Potosí,51101,Puna,2010,5,1 a 4 anos,0
+Cochabamba,30101,Cochabamba,2010,7,1 a 4 anos,1
+Santa Cruz,70601,Portachuelo,2010,7,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,1 a 4 anos,0
+Tarija,60303,Villa Montes,2010,8,1 a 4 anos,0
+La Paz,20105,El Alto,2010,9,1 a 4 anos,1
+Santa Cruz,71001,Montero,2010,9,1 a 4 anos,1
+Chuquisaca,10101,Sucre,2010,9,1 a 4 anos,0
+Tarija,60101,Tarija,2010,9,1 a 4 anos,0
+Tarija,60401,Uriondo (a. Concepcion),2010,9,1 a 4 anos,0
+Cochabamba,30101,Cochabamba,2010,11,1 a 4 anos,1
+La Paz,20101,La Paz,2010,11,1 a 4 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,11,1 a 4 anos,1
+Cochabamba,30101,Cochabamba,2010,12,1 a 4 anos,0
+Potosí,50101,Potosi,2010,1,5 a 9 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,5 a 9 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,5 a 9 anos,1
+Cochabamba,30101,Cochabamba,2010,3,5 a 9 anos,0
+Chuquisaca,10502,Huacareta,2010,3,5 a 9 anos,0
+Oruro,40104,Soracachi,2010,3,5 a 9 anos,0
+Cochabamba,30101,Cochabamba,2010,4,5 a 9 anos,1
+Santa Cruz,70601,Portachuelo,2010,4,5 a 9 anos,0
+Potosí,51101,Puna,2010,5,5 a 9 anos,0
+Cochabamba,30101,Cochabamba,2010,7,5 a 9 anos,0
+Santa Cruz,70601,Portachuelo,2010,7,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,5 a 9 anos,1
+Tarija,60303,Villa Montes,2010,8,5 a 9 anos,0
+La Paz,20105,El Alto,2010,9,5 a 9 anos,0
+Santa Cruz,71001,Montero,2010,9,5 a 9 anos,0
+Chuquisaca,10101,Sucre,2010,9,5 a 9 anos,1
+Tarija,60101,Tarija,2010,9,5 a 9 anos,1
+Tarija,60401,Uriondo (a. Concepcion),2010,9,5 a 9 anos,1
+Cochabamba,30101,Cochabamba,2010,11,5 a 9 anos,0
+La Paz,20101,La Paz,2010,11,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,11,5 a 9 anos,0
+Cochabamba,30101,Cochabamba,2010,12,5 a 9 anos,0
+Potosí,50101,Potosi,2010,1,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,10 a 20 anos,0
+Cochabamba,30101,Cochabamba,2010,3,10 a 20 anos,1
+Chuquisaca,10502,Huacareta,2010,3,10 a 20 anos,0
+Oruro,40104,Soracachi,2010,3,10 a 20 anos,0
+Cochabamba,30101,Cochabamba,2010,4,10 a 20 anos,0
+Santa Cruz,70601,Portachuelo,2010,4,10 a 20 anos,1
+Potosí,51101,Puna,2010,5,10 a 20 anos,2
+Cochabamba,30101,Cochabamba,2010,7,10 a 20 anos,0
+Santa Cruz,70601,Portachuelo,2010,7,10 a 20 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,10 a 20 anos,0
+Tarija,60303,Villa Montes,2010,8,10 a 20 anos,1
+La Paz,20105,El Alto,2010,9,10 a 20 anos,0
+Santa Cruz,71001,Montero,2010,9,10 a 20 anos,0
+Chuquisaca,10101,Sucre,2010,9,10 a 20 anos,0
+Tarija,60101,Tarija,2010,9,10 a 20 anos,0
+Tarija,60401,Uriondo (a. Concepcion),2010,9,10 a 20 anos,0
+Cochabamba,30101,Cochabamba,2010,11,10 a 20 anos,0
+La Paz,20101,La Paz,2010,11,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,11,10 a 20 anos,0
+Cochabamba,30101,Cochabamba,2010,12,10 a 20 anos,1
+Potosí,50101,Potosi,2010,1,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,21 a 59 anos,0
+Cochabamba,30101,Cochabamba,2010,3,21 a 59 anos,0
+Chuquisaca,10502,Huacareta,2010,3,21 a 59 anos,0
+Oruro,40104,Soracachi,2010,3,21 a 59 anos,0
+Cochabamba,30101,Cochabamba,2010,4,21 a 59 anos,0
+Santa Cruz,70601,Portachuelo,2010,4,21 a 59 anos,0
+Potosí,51101,Puna,2010,5,21 a 59 anos,0
+Cochabamba,30101,Cochabamba,2010,7,21 a 59 anos,0
+Santa Cruz,70601,Portachuelo,2010,7,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,21 a 59 anos,0
+Tarija,60303,Villa Montes,2010,8,21 a 59 anos,0
+La Paz,20105,El Alto,2010,9,21 a 59 anos,0
+Santa Cruz,71001,Montero,2010,9,21 a 59 anos,0
+Chuquisaca,10101,Sucre,2010,9,21 a 59 anos,0
+Tarija,60101,Tarija,2010,9,21 a 59 anos,0
+Tarija,60401,Uriondo (a. Concepcion),2010,9,21 a 59 anos,0
+Cochabamba,30101,Cochabamba,2010,11,21 a 59 anos,0
+La Paz,20101,La Paz,2010,11,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,11,21 a 59 anos,0
+Cochabamba,30101,Cochabamba,2010,12,21 a 59 anos,0
+Potosí,50101,Potosi,2010,1,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,60 y mas,0
+Cochabamba,30101,Cochabamba,2010,3,60 y mas,0
+Chuquisaca,10502,Huacareta,2010,3,60 y mas,0
+Oruro,40104,Soracachi,2010,3,60 y mas,0
+Cochabamba,30101,Cochabamba,2010,4,60 y mas,0
+Santa Cruz,70601,Portachuelo,2010,4,60 y mas,0
+Potosí,51101,Puna,2010,5,60 y mas,0
+Cochabamba,30101,Cochabamba,2010,7,60 y mas,0
+Santa Cruz,70601,Portachuelo,2010,7,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,60 y mas,0
+Tarija,60303,Villa Montes,2010,8,60 y mas,0
+La Paz,20105,El Alto,2010,9,60 y mas,0
+Santa Cruz,71001,Montero,2010,9,60 y mas,0
+Chuquisaca,10101,Sucre,2010,9,60 y mas,0
+Tarija,60101,Tarija,2010,9,60 y mas,0
+Tarija,60401,Uriondo (a. Concepcion),2010,9,60 y mas,0
+Cochabamba,30101,Cochabamba,2010,11,60 y mas,0
+La Paz,20101,La Paz,2010,11,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,11,60 y mas,0
+Cochabamba,30101,Cochabamba,2010,12,60 y mas,0
+Potosí,50101,Potosi,2010,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,TOTAL,2
+Cochabamba,30101,Cochabamba,2010,3,TOTAL,1
+Chuquisaca,10502,Huacareta,2010,3,TOTAL,1
+Oruro,40104,Soracachi,2010,3,TOTAL,1
+Cochabamba,30101,Cochabamba,2010,4,TOTAL,1
+Santa Cruz,70601,Portachuelo,2010,4,TOTAL,1
+Potosí,51101,Puna,2010,5,TOTAL,2
+Cochabamba,30101,Cochabamba,2010,7,TOTAL,1
+Santa Cruz,70601,Portachuelo,2010,7,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,TOTAL,1
+Tarija,60303,Villa Montes,2010,8,TOTAL,1
+La Paz,20105,El Alto,2010,9,TOTAL,1
+Santa Cruz,71001,Montero,2010,9,TOTAL,1
+Chuquisaca,10101,Sucre,2010,9,TOTAL,1
+Tarija,60101,Tarija,2010,9,TOTAL,1
+Tarija,60401,Uriondo (a. Concepcion),2010,9,TOTAL,1
+Cochabamba,30101,Cochabamba,2010,11,TOTAL,1
+La Paz,20101,La Paz,2010,11,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,11,TOTAL,1
+Cochabamba,30101,Cochabamba,2010,12,TOTAL,1

@@ -1,0 +1,79 @@
+department,municipality_id,municipality,year,month,population,value
+Beni,80501,San Ignacio,2006,4,< de 1 ano-H,1.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,< de 1 ano-H,1.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,< de 1 ano-H,1.0
+Tarija,60101,Tarija,2006,7,< de 1 ano-H,8.0
+Cochabamba,31205,Puerto Villarroel,2006,11,< de 1 ano-H,2.0
+Tarija,60303,Villa Montes,2006,11,< de 1 ano-H,3.0
+Beni,80501,San Ignacio,2006,4,< de 1 ano-M,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,< de 1 ano-M,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,< de 1 ano-M,
+Tarija,60101,Tarija,2006,7,< de 1 ano-M,
+Cochabamba,31205,Puerto Villarroel,2006,11,< de 1 ano-M,
+Tarija,60303,Villa Montes,2006,11,< de 1 ano-M,
+Beni,80501,San Ignacio,2006,4,1 a 4 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,1 a 4 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,1 a 4 anos-H,0.0
+Tarija,60101,Tarija,2006,7,1 a 4 anos-H,0.0
+Cochabamba,31205,Puerto Villarroel,2006,11,1 a 4 anos-H,0.0
+Tarija,60303,Villa Montes,2006,11,1 a 4 anos-H,0.0
+Beni,80501,San Ignacio,2006,4,1 a 4 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,1 a 4 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,1 a 4 anos-M,0.0
+Tarija,60101,Tarija,2006,7,1 a 4 anos-M,0.0
+Cochabamba,31205,Puerto Villarroel,2006,11,1 a 4 anos-M,0.0
+Tarija,60303,Villa Montes,2006,11,1 a 4 anos-M,0.0
+Beni,80501,San Ignacio,2006,4,5 a 14 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,5 a 14 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,5 a 14 anos-H,0.0
+Tarija,60101,Tarija,2006,7,5 a 14 anos-H,0.0
+Cochabamba,31205,Puerto Villarroel,2006,11,5 a 14 anos-H,0.0
+Tarija,60303,Villa Montes,2006,11,5 a 14 anos-H,0.0
+Beni,80501,San Ignacio,2006,4,5 a 14 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,5 a 14 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,5 a 14 anos-M,0.0
+Tarija,60101,Tarija,2006,7,5 a 14 anos-M,0.0
+Cochabamba,31205,Puerto Villarroel,2006,11,5 a 14 anos-M,0.0
+Tarija,60303,Villa Montes,2006,11,5 a 14 anos-M,0.0
+Beni,80501,San Ignacio,2006,4,15 a 59 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,15 a 59 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,15 a 59 anos-H,0.0
+Tarija,60101,Tarija,2006,7,15 a 59 anos-H,0.0
+Cochabamba,31205,Puerto Villarroel,2006,11,15 a 59 anos-H,0.0
+Tarija,60303,Villa Montes,2006,11,15 a 59 anos-H,0.0
+Beni,80501,San Ignacio,2006,4,15 a 59 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,15 a 59 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,15 a 59 anos-M,0.0
+Tarija,60101,Tarija,2006,7,15 a 59 anos-M,0.0
+Cochabamba,31205,Puerto Villarroel,2006,11,15 a 59 anos-M,0.0
+Tarija,60303,Villa Montes,2006,11,15 a 59 anos-M,0.0
+Beni,80501,San Ignacio,2006,4,60 y mas-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,60 y mas-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,60 y mas-H,0.0
+Tarija,60101,Tarija,2006,7,60 y mas-H,0.0
+Cochabamba,31205,Puerto Villarroel,2006,11,60 y mas-H,0.0
+Tarija,60303,Villa Montes,2006,11,60 y mas-H,0.0
+Beni,80501,San Ignacio,2006,4,60 y mas-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,60 y mas-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,60 y mas-M,0.0
+Tarija,60101,Tarija,2006,7,60 y mas-M,0.0
+Cochabamba,31205,Puerto Villarroel,2006,11,60 y mas-M,0.0
+Tarija,60303,Villa Montes,2006,11,60 y mas-M,0.0
+Beni,80501,San Ignacio,2006,4,TOTAL-H,1.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,TOTAL-H,1.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,TOTAL-H,1.0
+Tarija,60101,Tarija,2006,7,TOTAL-H,8.0
+Cochabamba,31205,Puerto Villarroel,2006,11,TOTAL-H,2.0
+Tarija,60303,Villa Montes,2006,11,TOTAL-H,3.0
+Beni,80501,San Ignacio,2006,4,TOTAL-M,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,TOTAL-M,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,TOTAL-M,
+Tarija,60101,Tarija,2006,7,TOTAL-M,
+Cochabamba,31205,Puerto Villarroel,2006,11,TOTAL-M,
+Tarija,60303,Villa Montes,2006,11,TOTAL-M,
+Beni,80501,San Ignacio,2006,4,TOTAL,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,TOTAL,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,TOTAL,
+Tarija,60101,Tarija,2006,7,TOTAL,
+Cochabamba,31205,Puerto Villarroel,2006,11,TOTAL,
+Tarija,60303,Villa Montes,2006,11,TOTAL,

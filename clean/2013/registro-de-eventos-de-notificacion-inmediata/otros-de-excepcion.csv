@@ -1,0 +1,65 @@
+department,municipality_id,municipality,year,month,population,value
+Tarija,60302,Carapari,2013,1,Nro.,2
+Santa Cruz,70501,San Jose De Chiquitos,2013,1,Nro.,1
+La Paz,21005,Ichoca,2013,2,Nro.,1
+Santa Cruz,70701,Lagunillas,2013,3,Nro.,1
+Santa Cruz,70805,Pucara,2013,3,Nro.,1
+La Paz,21702,San Pedro De Tiquina,2013,3,Nro.,1
+Santa Cruz,70403,Yapacani,2013,4,Nro.,0
+Potosí,51501,Villazon,2013,6,Nro.,1
+Santa Cruz,70702,Charagua,2013,7,Nro.,5
+Potosí,50401,Colquechaca,2013,7,Nro.,3
+Santa Cruz,70802,Trigal,2013,7,Nro.,2
+Santa Cruz,70701,Lagunillas,2013,9,Nro.,2
+Santa Cruz,70503,Robore,2013,9,Nro.,1
+La Paz,20701,Apolo,2013,10,Nro.,1
+Santa Cruz,70701,Lagunillas,2013,10,Nro.,1
+Chuquisaca,10202,Tarvita,2013,10,Nro.,1
+Tarija,60302,Carapari,2013,1,Nro. Afectados,2
+Santa Cruz,70501,San Jose De Chiquitos,2013,1,Nro. Afectados,39
+La Paz,21005,Ichoca,2013,2,Nro. Afectados,23
+Santa Cruz,70701,Lagunillas,2013,3,Nro. Afectados,0
+Santa Cruz,70805,Pucara,2013,3,Nro. Afectados,18
+La Paz,21702,San Pedro De Tiquina,2013,3,Nro. Afectados,0
+Santa Cruz,70403,Yapacani,2013,4,Nro. Afectados,0
+Potosí,51501,Villazon,2013,6,Nro. Afectados,0
+Santa Cruz,70702,Charagua,2013,7,Nro. Afectados,1056
+Potosí,50401,Colquechaca,2013,7,Nro. Afectados,0
+Santa Cruz,70802,Trigal,2013,7,Nro. Afectados,132
+Santa Cruz,70701,Lagunillas,2013,9,Nro. Afectados,75
+Santa Cruz,70503,Robore,2013,9,Nro. Afectados,1
+La Paz,20701,Apolo,2013,10,Nro. Afectados,6
+Santa Cruz,70701,Lagunillas,2013,10,Nro. Afectados,419
+Chuquisaca,10202,Tarvita,2013,10,Nro. Afectados,6
+Tarija,60302,Carapari,2013,1,Nro. Fallecidos,0
+Santa Cruz,70501,San Jose De Chiquitos,2013,1,Nro. Fallecidos,19
+La Paz,21005,Ichoca,2013,2,Nro. Fallecidos,6
+Santa Cruz,70701,Lagunillas,2013,3,Nro. Fallecidos,0
+Santa Cruz,70805,Pucara,2013,3,Nro. Fallecidos,0
+La Paz,21702,San Pedro De Tiquina,2013,3,Nro. Fallecidos,0
+Santa Cruz,70403,Yapacani,2013,4,Nro. Fallecidos,2
+Potosí,51501,Villazon,2013,6,Nro. Fallecidos,0
+Santa Cruz,70702,Charagua,2013,7,Nro. Fallecidos,0
+Potosí,50401,Colquechaca,2013,7,Nro. Fallecidos,0
+Santa Cruz,70802,Trigal,2013,7,Nro. Fallecidos,0
+Santa Cruz,70701,Lagunillas,2013,9,Nro. Fallecidos,0
+Santa Cruz,70503,Robore,2013,9,Nro. Fallecidos,0
+La Paz,20701,Apolo,2013,10,Nro. Fallecidos,0
+Santa Cruz,70701,Lagunillas,2013,10,Nro. Fallecidos,0
+Chuquisaca,10202,Tarvita,2013,10,Nro. Fallecidos,0
+Tarija,60302,Carapari,2013,1,TOTAL,4
+Santa Cruz,70501,San Jose De Chiquitos,2013,1,TOTAL,59
+La Paz,21005,Ichoca,2013,2,TOTAL,30
+Santa Cruz,70701,Lagunillas,2013,3,TOTAL,1
+Santa Cruz,70805,Pucara,2013,3,TOTAL,19
+La Paz,21702,San Pedro De Tiquina,2013,3,TOTAL,1
+Santa Cruz,70403,Yapacani,2013,4,TOTAL,2
+Potosí,51501,Villazon,2013,6,TOTAL,1
+Santa Cruz,70702,Charagua,2013,7,TOTAL,1061
+Potosí,50401,Colquechaca,2013,7,TOTAL,3
+Santa Cruz,70802,Trigal,2013,7,TOTAL,134
+Santa Cruz,70701,Lagunillas,2013,9,TOTAL,77
+Santa Cruz,70503,Robore,2013,9,TOTAL,2
+La Paz,20701,Apolo,2013,10,TOTAL,7
+Santa Cruz,70701,Lagunillas,2013,10,TOTAL,420
+Chuquisaca,10202,Tarvita,2013,10,TOTAL,7

@@ -1,0 +1,925 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,71003,Mineros,2013,1,< de 1 ano,0
+Potosí,50101,Potosi,2013,1,< de 1 ano,1
+Potosí,50402,Ravelo,2013,1,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,< de 1 ano,0
+Chuquisaca,10101,Sucre,2013,1,< de 1 ano,3
+Santa Cruz,70201,Warnes,2013,1,< de 1 ano,0
+Tarija,60301,Yacuiba,2013,1,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2013,2,< de 1 ano,0
+Santa Cruz,70102,Cotoca,2013,2,< de 1 ano,0
+La Paz,20101,La Paz,2013,2,< de 1 ano,1
+Santa Cruz,71003,Mineros,2013,2,< de 1 ano,0
+Oruro,40101,Oruro,2013,2,< de 1 ano,1
+Potosí,50101,Potosi,2013,2,< de 1 ano,1
+Potosí,51101,Puna,2013,2,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,2,< de 1 ano,0
+Cochabamba,30702,Santivañes,2013,2,< de 1 ano,0
+Chuquisaca,10101,Sucre,2013,2,< de 1 ano,1
+Potosí,50201,Uncia,2013,2,< de 1 ano,1
+Tarija,60301,Yacuiba,2013,2,< de 1 ano,0
+Cochabamba,30403,Arbieto,2013,3,< de 1 ano,1
+Tarija,60202,Bermejo,2013,3,< de 1 ano,0
+Tarija,60302,Carapari,2013,3,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2013,3,< de 1 ano,0
+Tarija,60601,Entre Rios Trj,2013,3,< de 1 ano,1
+La Paz,20101,La Paz,2013,3,< de 1 ano,2
+Potosí,50101,Potosi,2013,3,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,3,< de 1 ano,0
+Chuquisaca,10101,Sucre,2013,3,< de 1 ano,0
+Tarija,60101,Tarija,2013,3,< de 1 ano,0
+Cochabamba,31302,Vila Vila,2013,3,< de 1 ano,1
+Santa Cruz,70201,Warnes,2013,3,< de 1 ano,0
+Tarija,60202,Bermejo,2013,4,< de 1 ano,0
+Potosí,51102,"Caiza ""d""",2013,4,< de 1 ano,1
+La Paz,20105,El Alto,2013,4,< de 1 ano,1
+Santa Cruz,71003,Mineros,2013,4,< de 1 ano,0
+Santa Cruz,70103,Porongo,2013,4,< de 1 ano,0
+Potosí,50101,Potosi,2013,4,< de 1 ano,5
+Santa Cruz,71104,San Julian,2013,4,< de 1 ano,0
+Chuquisaca,10101,Sucre,2013,4,< de 1 ano,0
+Tarija,60101,Tarija,2013,4,< de 1 ano,0
+Tarija,60303,Villa Montes,2013,4,< de 1 ano,1
+Tarija,60301,Yacuiba,2013,4,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2013,5,< de 1 ano,1
+Santa Cruz,70102,Cotoca,2013,5,< de 1 ano,0
+Oruro,41101,Eucaliptus,2013,5,< de 1 ano,0
+La Paz,20101,La Paz,2013,5,< de 1 ano,1
+Santa Cruz,71003,Mineros,2013,5,< de 1 ano,1
+Potosí,50101,Potosi,2013,5,< de 1 ano,0
+Santa Cruz,71104,San Julian,2013,5,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,< de 1 ano,1
+Cochabamba,30902,Sipe Sipe,2013,5,< de 1 ano,1
+Chuquisaca,10101,Sucre,2013,5,< de 1 ano,0
+Tarija,60301,Yacuiba,2013,5,< de 1 ano,0
+Santa Cruz,70102,Cotoca,2013,6,< de 1 ano,1
+Santa Cruz,71002,General Saavedra,2013,6,< de 1 ano,0
+Santa Cruz,70104,La Guardia,2013,6,< de 1 ano,0
+Oruro,40101,Oruro,2013,6,< de 1 ano,2
+Potosí,50101,Potosi,2013,6,< de 1 ano,0
+Santa Cruz,71104,San Julian,2013,6,< de 1 ano,0
+Chuquisaca,10101,Sucre,2013,6,< de 1 ano,0
+Tarija,60101,Tarija,2013,6,< de 1 ano,0
+La Paz,20801,Viacha,2013,6,< de 1 ano,0
+Santa Cruz,70201,Warnes,2013,6,< de 1 ano,0
+Santa Cruz,70403,Yapacani,2013,6,< de 1 ano,1
+Tarija,60202,Bermejo,2013,7,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2013,7,< de 1 ano,1
+Santa Cruz,70102,Cotoca,2013,7,< de 1 ano,0
+Santa Cruz,70105,El Torno,2013,7,< de 1 ano,1
+Santa Cruz,70104,La Guardia,2013,7,< de 1 ano,0
+La Paz,20101,La Paz,2013,7,< de 1 ano,2
+Santa Cruz,71003,Mineros,2013,7,< de 1 ano,1
+Potosí,50101,Potosi,2013,7,< de 1 ano,3
+Cochabamba,31001,Sacaba,2013,7,< de 1 ano,1
+Santa Cruz,71103,San Ramon Scz,2013,7,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,< de 1 ano,0
+Chuquisaca,10101,Sucre,2013,7,< de 1 ano,0
+Tarija,60101,Tarija,2013,7,< de 1 ano,0
+Santa Cruz,70201,Warnes,2013,7,< de 1 ano,0
+Santa Cruz,71101,Concepcion,2013,8,< de 1 ano,0
+La Paz,20101,La Paz,2013,8,< de 1 ano,1
+Potosí,50101,Potosi,2013,8,< de 1 ano,2
+Santa Cruz,71104,San Julian,2013,8,< de 1 ano,0
+Tarija,60501,San Lorenzo(tja),2013,8,< de 1 ano,1
+Chuquisaca,10101,Sucre,2013,8,< de 1 ano,0
+Tarija,60303,Villa Montes,2013,8,< de 1 ano,3
+Potosí,51102,"Caiza ""d""",2013,9,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2013,9,< de 1 ano,1
+Santa Cruz,70104,La Guardia,2013,9,< de 1 ano,0
+Oruro,40101,Oruro,2013,9,< de 1 ano,0
+La Paz,20102,Palca,2013,9,< de 1 ano,1
+Santa Cruz,70103,Porongo,2013,9,< de 1 ano,0
+Potosí,50101,Potosi,2013,9,< de 1 ano,0
+Cochabamba,31001,Sacaba,2013,9,< de 1 ano,1
+Santa Cruz,71104,San Julian,2013,9,< de 1 ano,1
+Cochabamba,31602,Shinaota,2013,9,< de 1 ano,0
+Chuquisaca,10101,Sucre,2013,9,< de 1 ano,0
+Tarija,60101,Tarija,2013,9,< de 1 ano,0
+Tarija,60303,Villa Montes,2013,9,< de 1 ano,4
+Potosí,51501,Villazon,2013,9,< de 1 ano,0
+Tarija,60301,Yacuiba,2013,9,< de 1 ano,0
+Cochabamba,30403,Arbieto,2013,10,< de 1 ano,1
+Santa Cruz,70104,La Guardia,2013,10,< de 1 ano,1
+Oruro,40101,Oruro,2013,10,< de 1 ano,1
+Potosí,50101,Potosi,2013,10,< de 1 ano,1
+Cochabamba,31001,Sacaba,2013,10,< de 1 ano,2
+Santa Cruz,71104,San Julian,2013,10,< de 1 ano,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,10,< de 1 ano,0
+Chuquisaca,10101,Sucre,2013,10,< de 1 ano,2
+Tarija,60101,Tarija,2013,10,< de 1 ano,0
+La Paz,20801,Viacha,2013,10,< de 1 ano,1
+Tarija,60303,Villa Montes,2013,10,< de 1 ano,4
+Potosí,51501,Villazon,2013,10,< de 1 ano,0
+Santa Cruz,70201,Warnes,2013,10,< de 1 ano,0
+Santa Cruz,70102,Cotoca,2013,11,< de 1 ano,1
+Oruro,40101,Oruro,2013,11,< de 1 ano,0
+Potosí,50101,Potosi,2013,11,< de 1 ano,1
+Cochabamba,31001,Sacaba,2013,11,< de 1 ano,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,11,< de 1 ano,0
+Chuquisaca,10101,Sucre,2013,11,< de 1 ano,0
+Tarija,60101,Tarija,2013,11,< de 1 ano,0
+Tarija,60303,Villa Montes,2013,11,< de 1 ano,8
+Tarija,60301,Yacuiba,2013,11,< de 1 ano,0
+Tarija,60302,Carapari,2013,12,< de 1 ano,0
+Oruro,40101,Oruro,2013,12,< de 1 ano,0
+Potosí,50101,Potosi,2013,12,< de 1 ano,0
+Cochabamba,31001,Sacaba,2013,12,< de 1 ano,1
+Santa Cruz,71104,San Julian,2013,12,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,12,< de 1 ano,0
+Chuquisaca,10101,Sucre,2013,12,< de 1 ano,0
+Cochabamba,30903,Tiquipaya,2013,12,< de 1 ano,0
+Potosí,50201,Uncia,2013,12,< de 1 ano,0
+Tarija,60301,Yacuiba,2013,12,< de 1 ano,0
+Santa Cruz,71003,Mineros,2013,1,1 a 4 anos,1
+Potosí,50101,Potosi,2013,1,1 a 4 anos,1
+Potosí,50402,Ravelo,2013,1,1 a 4 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,1 a 4 anos,3
+Chuquisaca,10101,Sucre,2013,1,1 a 4 anos,3
+Santa Cruz,70201,Warnes,2013,1,1 a 4 anos,2
+Tarija,60301,Yacuiba,2013,1,1 a 4 anos,0
+Cochabamba,30101,Cochabamba,2013,2,1 a 4 anos,0
+Santa Cruz,70102,Cotoca,2013,2,1 a 4 anos,1
+La Paz,20101,La Paz,2013,2,1 a 4 anos,0
+Santa Cruz,71003,Mineros,2013,2,1 a 4 anos,1
+Oruro,40101,Oruro,2013,2,1 a 4 anos,0
+Potosí,50101,Potosi,2013,2,1 a 4 anos,4
+Potosí,51101,Puna,2013,2,1 a 4 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,2,1 a 4 anos,2
+Cochabamba,30702,Santivañes,2013,2,1 a 4 anos,1
+Chuquisaca,10101,Sucre,2013,2,1 a 4 anos,0
+Potosí,50201,Uncia,2013,2,1 a 4 anos,0
+Tarija,60301,Yacuiba,2013,2,1 a 4 anos,0
+Cochabamba,30403,Arbieto,2013,3,1 a 4 anos,0
+Tarija,60202,Bermejo,2013,3,1 a 4 anos,1
+Tarija,60302,Carapari,2013,3,1 a 4 anos,1
+Cochabamba,30101,Cochabamba,2013,3,1 a 4 anos,1
+Tarija,60601,Entre Rios Trj,2013,3,1 a 4 anos,0
+La Paz,20101,La Paz,2013,3,1 a 4 anos,0
+Potosí,50101,Potosi,2013,3,1 a 4 anos,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,3,1 a 4 anos,1
+Chuquisaca,10101,Sucre,2013,3,1 a 4 anos,0
+Tarija,60101,Tarija,2013,3,1 a 4 anos,1
+Cochabamba,31302,Vila Vila,2013,3,1 a 4 anos,0
+Santa Cruz,70201,Warnes,2013,3,1 a 4 anos,1
+Tarija,60202,Bermejo,2013,4,1 a 4 anos,1
+Potosí,51102,"Caiza ""d""",2013,4,1 a 4 anos,0
+La Paz,20105,El Alto,2013,4,1 a 4 anos,0
+Santa Cruz,71003,Mineros,2013,4,1 a 4 anos,1
+Santa Cruz,70103,Porongo,2013,4,1 a 4 anos,0
+Potosí,50101,Potosi,2013,4,1 a 4 anos,10
+Santa Cruz,71104,San Julian,2013,4,1 a 4 anos,2
+Chuquisaca,10101,Sucre,2013,4,1 a 4 anos,19
+Tarija,60101,Tarija,2013,4,1 a 4 anos,4
+Tarija,60303,Villa Montes,2013,4,1 a 4 anos,0
+Tarija,60301,Yacuiba,2013,4,1 a 4 anos,0
+Cochabamba,30101,Cochabamba,2013,5,1 a 4 anos,1
+Santa Cruz,70102,Cotoca,2013,5,1 a 4 anos,1
+Oruro,41101,Eucaliptus,2013,5,1 a 4 anos,1
+La Paz,20101,La Paz,2013,5,1 a 4 anos,0
+Santa Cruz,71003,Mineros,2013,5,1 a 4 anos,0
+Potosí,50101,Potosi,2013,5,1 a 4 anos,4
+Santa Cruz,71104,San Julian,2013,5,1 a 4 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,1 a 4 anos,2
+Cochabamba,30902,Sipe Sipe,2013,5,1 a 4 anos,0
+Chuquisaca,10101,Sucre,2013,5,1 a 4 anos,14
+Tarija,60301,Yacuiba,2013,5,1 a 4 anos,0
+Santa Cruz,70102,Cotoca,2013,6,1 a 4 anos,0
+Santa Cruz,71002,General Saavedra,2013,6,1 a 4 anos,1
+Santa Cruz,70104,La Guardia,2013,6,1 a 4 anos,2
+Oruro,40101,Oruro,2013,6,1 a 4 anos,0
+Potosí,50101,Potosi,2013,6,1 a 4 anos,2
+Santa Cruz,71104,San Julian,2013,6,1 a 4 anos,1
+Chuquisaca,10101,Sucre,2013,6,1 a 4 anos,20
+Tarija,60101,Tarija,2013,6,1 a 4 anos,1
+La Paz,20801,Viacha,2013,6,1 a 4 anos,1
+Santa Cruz,70201,Warnes,2013,6,1 a 4 anos,1
+Santa Cruz,70403,Yapacani,2013,6,1 a 4 anos,0
+Tarija,60202,Bermejo,2013,7,1 a 4 anos,1
+Cochabamba,30101,Cochabamba,2013,7,1 a 4 anos,2
+Santa Cruz,70102,Cotoca,2013,7,1 a 4 anos,1
+Santa Cruz,70105,El Torno,2013,7,1 a 4 anos,1
+Santa Cruz,70104,La Guardia,2013,7,1 a 4 anos,2
+La Paz,20101,La Paz,2013,7,1 a 4 anos,0
+Santa Cruz,71003,Mineros,2013,7,1 a 4 anos,0
+Potosí,50101,Potosi,2013,7,1 a 4 anos,7
+Cochabamba,31001,Sacaba,2013,7,1 a 4 anos,0
+Santa Cruz,71103,San Ramon Scz,2013,7,1 a 4 anos,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,1 a 4 anos,2
+Chuquisaca,10101,Sucre,2013,7,1 a 4 anos,31
+Tarija,60101,Tarija,2013,7,1 a 4 anos,1
+Santa Cruz,70201,Warnes,2013,7,1 a 4 anos,2
+Santa Cruz,71101,Concepcion,2013,8,1 a 4 anos,0
+La Paz,20101,La Paz,2013,8,1 a 4 anos,0
+Potosí,50101,Potosi,2013,8,1 a 4 anos,7
+Santa Cruz,71104,San Julian,2013,8,1 a 4 anos,4
+Tarija,60501,San Lorenzo(tja),2013,8,1 a 4 anos,0
+Chuquisaca,10101,Sucre,2013,8,1 a 4 anos,3
+Tarija,60303,Villa Montes,2013,8,1 a 4 anos,0
+Potosí,51102,"Caiza ""d""",2013,9,1 a 4 anos,1
+Cochabamba,30101,Cochabamba,2013,9,1 a 4 anos,0
+Santa Cruz,70104,La Guardia,2013,9,1 a 4 anos,1
+Oruro,40101,Oruro,2013,9,1 a 4 anos,1
+La Paz,20102,Palca,2013,9,1 a 4 anos,0
+Santa Cruz,70103,Porongo,2013,9,1 a 4 anos,0
+Potosí,50101,Potosi,2013,9,1 a 4 anos,4
+Cochabamba,31001,Sacaba,2013,9,1 a 4 anos,0
+Santa Cruz,71104,San Julian,2013,9,1 a 4 anos,2
+Cochabamba,31602,Shinaota,2013,9,1 a 4 anos,0
+Chuquisaca,10101,Sucre,2013,9,1 a 4 anos,8
+Tarija,60101,Tarija,2013,9,1 a 4 anos,1
+Tarija,60303,Villa Montes,2013,9,1 a 4 anos,0
+Potosí,51501,Villazon,2013,9,1 a 4 anos,1
+Tarija,60301,Yacuiba,2013,9,1 a 4 anos,2
+Cochabamba,30403,Arbieto,2013,10,1 a 4 anos,0
+Santa Cruz,70104,La Guardia,2013,10,1 a 4 anos,1
+Oruro,40101,Oruro,2013,10,1 a 4 anos,0
+Potosí,50101,Potosi,2013,10,1 a 4 anos,5
+Cochabamba,31001,Sacaba,2013,10,1 a 4 anos,1
+Santa Cruz,71104,San Julian,2013,10,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,10,1 a 4 anos,5
+Chuquisaca,10101,Sucre,2013,10,1 a 4 anos,10
+Tarija,60101,Tarija,2013,10,1 a 4 anos,1
+La Paz,20801,Viacha,2013,10,1 a 4 anos,0
+Tarija,60303,Villa Montes,2013,10,1 a 4 anos,0
+Potosí,51501,Villazon,2013,10,1 a 4 anos,2
+Santa Cruz,70201,Warnes,2013,10,1 a 4 anos,2
+Santa Cruz,70102,Cotoca,2013,11,1 a 4 anos,0
+Oruro,40101,Oruro,2013,11,1 a 4 anos,0
+Potosí,50101,Potosi,2013,11,1 a 4 anos,1
+Cochabamba,31001,Sacaba,2013,11,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,11,1 a 4 anos,3
+Chuquisaca,10101,Sucre,2013,11,1 a 4 anos,7
+Tarija,60101,Tarija,2013,11,1 a 4 anos,0
+Tarija,60303,Villa Montes,2013,11,1 a 4 anos,0
+Tarija,60301,Yacuiba,2013,11,1 a 4 anos,0
+Tarija,60302,Carapari,2013,12,1 a 4 anos,1
+Oruro,40101,Oruro,2013,12,1 a 4 anos,3
+Potosí,50101,Potosi,2013,12,1 a 4 anos,5
+Cochabamba,31001,Sacaba,2013,12,1 a 4 anos,0
+Santa Cruz,71104,San Julian,2013,12,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,12,1 a 4 anos,1
+Chuquisaca,10101,Sucre,2013,12,1 a 4 anos,9
+Cochabamba,30903,Tiquipaya,2013,12,1 a 4 anos,1
+Potosí,50201,Uncia,2013,12,1 a 4 anos,1
+Tarija,60301,Yacuiba,2013,12,1 a 4 anos,0
+Santa Cruz,71003,Mineros,2013,1,5 a 9 anos,0
+Potosí,50101,Potosi,2013,1,5 a 9 anos,0
+Potosí,50402,Ravelo,2013,1,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,5 a 9 anos,0
+Chuquisaca,10101,Sucre,2013,1,5 a 9 anos,0
+Santa Cruz,70201,Warnes,2013,1,5 a 9 anos,0
+Tarija,60301,Yacuiba,2013,1,5 a 9 anos,1
+Cochabamba,30101,Cochabamba,2013,2,5 a 9 anos,1
+Santa Cruz,70102,Cotoca,2013,2,5 a 9 anos,0
+La Paz,20101,La Paz,2013,2,5 a 9 anos,0
+Santa Cruz,71003,Mineros,2013,2,5 a 9 anos,0
+Oruro,40101,Oruro,2013,2,5 a 9 anos,0
+Potosí,50101,Potosi,2013,2,5 a 9 anos,1
+Potosí,51101,Puna,2013,2,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,2,5 a 9 anos,0
+Cochabamba,30702,Santivañes,2013,2,5 a 9 anos,0
+Chuquisaca,10101,Sucre,2013,2,5 a 9 anos,0
+Potosí,50201,Uncia,2013,2,5 a 9 anos,0
+Tarija,60301,Yacuiba,2013,2,5 a 9 anos,0
+Cochabamba,30403,Arbieto,2013,3,5 a 9 anos,0
+Tarija,60202,Bermejo,2013,3,5 a 9 anos,0
+Tarija,60302,Carapari,2013,3,5 a 9 anos,0
+Cochabamba,30101,Cochabamba,2013,3,5 a 9 anos,0
+Tarija,60601,Entre Rios Trj,2013,3,5 a 9 anos,0
+La Paz,20101,La Paz,2013,3,5 a 9 anos,0
+Potosí,50101,Potosi,2013,3,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,3,5 a 9 anos,0
+Chuquisaca,10101,Sucre,2013,3,5 a 9 anos,8
+Tarija,60101,Tarija,2013,3,5 a 9 anos,0
+Cochabamba,31302,Vila Vila,2013,3,5 a 9 anos,0
+Santa Cruz,70201,Warnes,2013,3,5 a 9 anos,0
+Tarija,60202,Bermejo,2013,4,5 a 9 anos,0
+Potosí,51102,"Caiza ""d""",2013,4,5 a 9 anos,0
+La Paz,20105,El Alto,2013,4,5 a 9 anos,0
+Santa Cruz,71003,Mineros,2013,4,5 a 9 anos,0
+Santa Cruz,70103,Porongo,2013,4,5 a 9 anos,1
+Potosí,50101,Potosi,2013,4,5 a 9 anos,0
+Santa Cruz,71104,San Julian,2013,4,5 a 9 anos,0
+Chuquisaca,10101,Sucre,2013,4,5 a 9 anos,0
+Tarija,60101,Tarija,2013,4,5 a 9 anos,0
+Tarija,60303,Villa Montes,2013,4,5 a 9 anos,0
+Tarija,60301,Yacuiba,2013,4,5 a 9 anos,1
+Cochabamba,30101,Cochabamba,2013,5,5 a 9 anos,0
+Santa Cruz,70102,Cotoca,2013,5,5 a 9 anos,0
+Oruro,41101,Eucaliptus,2013,5,5 a 9 anos,0
+La Paz,20101,La Paz,2013,5,5 a 9 anos,0
+Santa Cruz,71003,Mineros,2013,5,5 a 9 anos,0
+Potosí,50101,Potosi,2013,5,5 a 9 anos,2
+Santa Cruz,71104,San Julian,2013,5,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,5 a 9 anos,0
+Cochabamba,30902,Sipe Sipe,2013,5,5 a 9 anos,0
+Chuquisaca,10101,Sucre,2013,5,5 a 9 anos,1
+Tarija,60301,Yacuiba,2013,5,5 a 9 anos,0
+Santa Cruz,70102,Cotoca,2013,6,5 a 9 anos,0
+Santa Cruz,71002,General Saavedra,2013,6,5 a 9 anos,0
+Santa Cruz,70104,La Guardia,2013,6,5 a 9 anos,0
+Oruro,40101,Oruro,2013,6,5 a 9 anos,0
+Potosí,50101,Potosi,2013,6,5 a 9 anos,4
+Santa Cruz,71104,San Julian,2013,6,5 a 9 anos,1
+Chuquisaca,10101,Sucre,2013,6,5 a 9 anos,0
+Tarija,60101,Tarija,2013,6,5 a 9 anos,1
+La Paz,20801,Viacha,2013,6,5 a 9 anos,0
+Santa Cruz,70201,Warnes,2013,6,5 a 9 anos,0
+Santa Cruz,70403,Yapacani,2013,6,5 a 9 anos,0
+Tarija,60202,Bermejo,2013,7,5 a 9 anos,0
+Cochabamba,30101,Cochabamba,2013,7,5 a 9 anos,0
+Santa Cruz,70102,Cotoca,2013,7,5 a 9 anos,0
+Santa Cruz,70105,El Torno,2013,7,5 a 9 anos,0
+Santa Cruz,70104,La Guardia,2013,7,5 a 9 anos,0
+La Paz,20101,La Paz,2013,7,5 a 9 anos,0
+Santa Cruz,71003,Mineros,2013,7,5 a 9 anos,0
+Potosí,50101,Potosi,2013,7,5 a 9 anos,1
+Cochabamba,31001,Sacaba,2013,7,5 a 9 anos,0
+Santa Cruz,71103,San Ramon Scz,2013,7,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,5 a 9 anos,0
+Chuquisaca,10101,Sucre,2013,7,5 a 9 anos,1
+Tarija,60101,Tarija,2013,7,5 a 9 anos,0
+Santa Cruz,70201,Warnes,2013,7,5 a 9 anos,0
+Santa Cruz,71101,Concepcion,2013,8,5 a 9 anos,1
+La Paz,20101,La Paz,2013,8,5 a 9 anos,0
+Potosí,50101,Potosi,2013,8,5 a 9 anos,3
+Santa Cruz,71104,San Julian,2013,8,5 a 9 anos,0
+Tarija,60501,San Lorenzo(tja),2013,8,5 a 9 anos,0
+Chuquisaca,10101,Sucre,2013,8,5 a 9 anos,5
+Tarija,60303,Villa Montes,2013,8,5 a 9 anos,0
+Potosí,51102,"Caiza ""d""",2013,9,5 a 9 anos,0
+Cochabamba,30101,Cochabamba,2013,9,5 a 9 anos,0
+Santa Cruz,70104,La Guardia,2013,9,5 a 9 anos,0
+Oruro,40101,Oruro,2013,9,5 a 9 anos,0
+La Paz,20102,Palca,2013,9,5 a 9 anos,0
+Santa Cruz,70103,Porongo,2013,9,5 a 9 anos,1
+Potosí,50101,Potosi,2013,9,5 a 9 anos,0
+Cochabamba,31001,Sacaba,2013,9,5 a 9 anos,0
+Santa Cruz,71104,San Julian,2013,9,5 a 9 anos,0
+Cochabamba,31602,Shinaota,2013,9,5 a 9 anos,0
+Chuquisaca,10101,Sucre,2013,9,5 a 9 anos,4
+Tarija,60101,Tarija,2013,9,5 a 9 anos,0
+Tarija,60303,Villa Montes,2013,9,5 a 9 anos,1
+Potosí,51501,Villazon,2013,9,5 a 9 anos,2
+Tarija,60301,Yacuiba,2013,9,5 a 9 anos,0
+Cochabamba,30403,Arbieto,2013,10,5 a 9 anos,0
+Santa Cruz,70104,La Guardia,2013,10,5 a 9 anos,0
+Oruro,40101,Oruro,2013,10,5 a 9 anos,0
+Potosí,50101,Potosi,2013,10,5 a 9 anos,0
+Cochabamba,31001,Sacaba,2013,10,5 a 9 anos,0
+Santa Cruz,71104,San Julian,2013,10,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,10,5 a 9 anos,0
+Chuquisaca,10101,Sucre,2013,10,5 a 9 anos,0
+Tarija,60101,Tarija,2013,10,5 a 9 anos,0
+La Paz,20801,Viacha,2013,10,5 a 9 anos,0
+Tarija,60303,Villa Montes,2013,10,5 a 9 anos,0
+Potosí,51501,Villazon,2013,10,5 a 9 anos,2
+Santa Cruz,70201,Warnes,2013,10,5 a 9 anos,0
+Santa Cruz,70102,Cotoca,2013,11,5 a 9 anos,0
+Oruro,40101,Oruro,2013,11,5 a 9 anos,1
+Potosí,50101,Potosi,2013,11,5 a 9 anos,1
+Cochabamba,31001,Sacaba,2013,11,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,11,5 a 9 anos,0
+Chuquisaca,10101,Sucre,2013,11,5 a 9 anos,1
+Tarija,60101,Tarija,2013,11,5 a 9 anos,1
+Tarija,60303,Villa Montes,2013,11,5 a 9 anos,0
+Tarija,60301,Yacuiba,2013,11,5 a 9 anos,1
+Tarija,60302,Carapari,2013,12,5 a 9 anos,0
+Oruro,40101,Oruro,2013,12,5 a 9 anos,0
+Potosí,50101,Potosi,2013,12,5 a 9 anos,1
+Cochabamba,31001,Sacaba,2013,12,5 a 9 anos,0
+Santa Cruz,71104,San Julian,2013,12,5 a 9 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,12,5 a 9 anos,0
+Chuquisaca,10101,Sucre,2013,12,5 a 9 anos,0
+Cochabamba,30903,Tiquipaya,2013,12,5 a 9 anos,1
+Potosí,50201,Uncia,2013,12,5 a 9 anos,0
+Tarija,60301,Yacuiba,2013,12,5 a 9 anos,0
+Santa Cruz,71003,Mineros,2013,1,10 a 20 anos,0
+Potosí,50101,Potosi,2013,1,10 a 20 anos,0
+Potosí,50402,Ravelo,2013,1,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,10 a 20 anos,0
+Chuquisaca,10101,Sucre,2013,1,10 a 20 anos,0
+Santa Cruz,70201,Warnes,2013,1,10 a 20 anos,0
+Tarija,60301,Yacuiba,2013,1,10 a 20 anos,0
+Cochabamba,30101,Cochabamba,2013,2,10 a 20 anos,0
+Santa Cruz,70102,Cotoca,2013,2,10 a 20 anos,0
+La Paz,20101,La Paz,2013,2,10 a 20 anos,0
+Santa Cruz,71003,Mineros,2013,2,10 a 20 anos,0
+Oruro,40101,Oruro,2013,2,10 a 20 anos,0
+Potosí,50101,Potosi,2013,2,10 a 20 anos,0
+Potosí,51101,Puna,2013,2,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,2,10 a 20 anos,0
+Cochabamba,30702,Santivañes,2013,2,10 a 20 anos,0
+Chuquisaca,10101,Sucre,2013,2,10 a 20 anos,0
+Potosí,50201,Uncia,2013,2,10 a 20 anos,0
+Tarija,60301,Yacuiba,2013,2,10 a 20 anos,1
+Cochabamba,30403,Arbieto,2013,3,10 a 20 anos,0
+Tarija,60202,Bermejo,2013,3,10 a 20 anos,0
+Tarija,60302,Carapari,2013,3,10 a 20 anos,0
+Cochabamba,30101,Cochabamba,2013,3,10 a 20 anos,0
+Tarija,60601,Entre Rios Trj,2013,3,10 a 20 anos,0
+La Paz,20101,La Paz,2013,3,10 a 20 anos,0
+Potosí,50101,Potosi,2013,3,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,3,10 a 20 anos,0
+Chuquisaca,10101,Sucre,2013,3,10 a 20 anos,0
+Tarija,60101,Tarija,2013,3,10 a 20 anos,0
+Cochabamba,31302,Vila Vila,2013,3,10 a 20 anos,0
+Santa Cruz,70201,Warnes,2013,3,10 a 20 anos,0
+Tarija,60202,Bermejo,2013,4,10 a 20 anos,0
+Potosí,51102,"Caiza ""d""",2013,4,10 a 20 anos,0
+La Paz,20105,El Alto,2013,4,10 a 20 anos,0
+Santa Cruz,71003,Mineros,2013,4,10 a 20 anos,0
+Santa Cruz,70103,Porongo,2013,4,10 a 20 anos,1
+Potosí,50101,Potosi,2013,4,10 a 20 anos,0
+Santa Cruz,71104,San Julian,2013,4,10 a 20 anos,0
+Chuquisaca,10101,Sucre,2013,4,10 a 20 anos,0
+Tarija,60101,Tarija,2013,4,10 a 20 anos,0
+Tarija,60303,Villa Montes,2013,4,10 a 20 anos,0
+Tarija,60301,Yacuiba,2013,4,10 a 20 anos,0
+Cochabamba,30101,Cochabamba,2013,5,10 a 20 anos,0
+Santa Cruz,70102,Cotoca,2013,5,10 a 20 anos,0
+Oruro,41101,Eucaliptus,2013,5,10 a 20 anos,0
+La Paz,20101,La Paz,2013,5,10 a 20 anos,0
+Santa Cruz,71003,Mineros,2013,5,10 a 20 anos,0
+Potosí,50101,Potosi,2013,5,10 a 20 anos,0
+Santa Cruz,71104,San Julian,2013,5,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,10 a 20 anos,0
+Cochabamba,30902,Sipe Sipe,2013,5,10 a 20 anos,0
+Chuquisaca,10101,Sucre,2013,5,10 a 20 anos,0
+Tarija,60301,Yacuiba,2013,5,10 a 20 anos,0
+Santa Cruz,70102,Cotoca,2013,6,10 a 20 anos,0
+Santa Cruz,71002,General Saavedra,2013,6,10 a 20 anos,0
+Santa Cruz,70104,La Guardia,2013,6,10 a 20 anos,0
+Oruro,40101,Oruro,2013,6,10 a 20 anos,0
+Potosí,50101,Potosi,2013,6,10 a 20 anos,0
+Santa Cruz,71104,San Julian,2013,6,10 a 20 anos,0
+Chuquisaca,10101,Sucre,2013,6,10 a 20 anos,0
+Tarija,60101,Tarija,2013,6,10 a 20 anos,0
+La Paz,20801,Viacha,2013,6,10 a 20 anos,0
+Santa Cruz,70201,Warnes,2013,6,10 a 20 anos,0
+Santa Cruz,70403,Yapacani,2013,6,10 a 20 anos,0
+Tarija,60202,Bermejo,2013,7,10 a 20 anos,0
+Cochabamba,30101,Cochabamba,2013,7,10 a 20 anos,0
+Santa Cruz,70102,Cotoca,2013,7,10 a 20 anos,0
+Santa Cruz,70105,El Torno,2013,7,10 a 20 anos,0
+Santa Cruz,70104,La Guardia,2013,7,10 a 20 anos,0
+La Paz,20101,La Paz,2013,7,10 a 20 anos,0
+Santa Cruz,71003,Mineros,2013,7,10 a 20 anos,0
+Potosí,50101,Potosi,2013,7,10 a 20 anos,0
+Cochabamba,31001,Sacaba,2013,7,10 a 20 anos,0
+Santa Cruz,71103,San Ramon Scz,2013,7,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,10 a 20 anos,0
+Chuquisaca,10101,Sucre,2013,7,10 a 20 anos,0
+Tarija,60101,Tarija,2013,7,10 a 20 anos,0
+Santa Cruz,70201,Warnes,2013,7,10 a 20 anos,0
+Santa Cruz,71101,Concepcion,2013,8,10 a 20 anos,0
+La Paz,20101,La Paz,2013,8,10 a 20 anos,0
+Potosí,50101,Potosi,2013,8,10 a 20 anos,0
+Santa Cruz,71104,San Julian,2013,8,10 a 20 anos,0
+Tarija,60501,San Lorenzo(tja),2013,8,10 a 20 anos,0
+Chuquisaca,10101,Sucre,2013,8,10 a 20 anos,0
+Tarija,60303,Villa Montes,2013,8,10 a 20 anos,0
+Potosí,51102,"Caiza ""d""",2013,9,10 a 20 anos,0
+Cochabamba,30101,Cochabamba,2013,9,10 a 20 anos,0
+Santa Cruz,70104,La Guardia,2013,9,10 a 20 anos,0
+Oruro,40101,Oruro,2013,9,10 a 20 anos,0
+La Paz,20102,Palca,2013,9,10 a 20 anos,0
+Santa Cruz,70103,Porongo,2013,9,10 a 20 anos,0
+Potosí,50101,Potosi,2013,9,10 a 20 anos,0
+Cochabamba,31001,Sacaba,2013,9,10 a 20 anos,0
+Santa Cruz,71104,San Julian,2013,9,10 a 20 anos,0
+Cochabamba,31602,Shinaota,2013,9,10 a 20 anos,0
+Chuquisaca,10101,Sucre,2013,9,10 a 20 anos,0
+Tarija,60101,Tarija,2013,9,10 a 20 anos,0
+Tarija,60303,Villa Montes,2013,9,10 a 20 anos,0
+Potosí,51501,Villazon,2013,9,10 a 20 anos,2
+Tarija,60301,Yacuiba,2013,9,10 a 20 anos,0
+Cochabamba,30403,Arbieto,2013,10,10 a 20 anos,0
+Santa Cruz,70104,La Guardia,2013,10,10 a 20 anos,0
+Oruro,40101,Oruro,2013,10,10 a 20 anos,0
+Potosí,50101,Potosi,2013,10,10 a 20 anos,0
+Cochabamba,31001,Sacaba,2013,10,10 a 20 anos,0
+Santa Cruz,71104,San Julian,2013,10,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,10,10 a 20 anos,0
+Chuquisaca,10101,Sucre,2013,10,10 a 20 anos,0
+Tarija,60101,Tarija,2013,10,10 a 20 anos,0
+La Paz,20801,Viacha,2013,10,10 a 20 anos,0
+Tarija,60303,Villa Montes,2013,10,10 a 20 anos,0
+Potosí,51501,Villazon,2013,10,10 a 20 anos,0
+Santa Cruz,70201,Warnes,2013,10,10 a 20 anos,0
+Santa Cruz,70102,Cotoca,2013,11,10 a 20 anos,0
+Oruro,40101,Oruro,2013,11,10 a 20 anos,0
+Potosí,50101,Potosi,2013,11,10 a 20 anos,0
+Cochabamba,31001,Sacaba,2013,11,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,11,10 a 20 anos,0
+Chuquisaca,10101,Sucre,2013,11,10 a 20 anos,0
+Tarija,60101,Tarija,2013,11,10 a 20 anos,0
+Tarija,60303,Villa Montes,2013,11,10 a 20 anos,0
+Tarija,60301,Yacuiba,2013,11,10 a 20 anos,0
+Tarija,60302,Carapari,2013,12,10 a 20 anos,0
+Oruro,40101,Oruro,2013,12,10 a 20 anos,0
+Potosí,50101,Potosi,2013,12,10 a 20 anos,0
+Cochabamba,31001,Sacaba,2013,12,10 a 20 anos,0
+Santa Cruz,71104,San Julian,2013,12,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,12,10 a 20 anos,0
+Chuquisaca,10101,Sucre,2013,12,10 a 20 anos,0
+Cochabamba,30903,Tiquipaya,2013,12,10 a 20 anos,1
+Potosí,50201,Uncia,2013,12,10 a 20 anos,0
+Tarija,60301,Yacuiba,2013,12,10 a 20 anos,0
+Santa Cruz,71003,Mineros,2013,1,21 a 59 anos,0
+Potosí,50101,Potosi,2013,1,21 a 59 anos,0
+Potosí,50402,Ravelo,2013,1,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,21 a 59 anos,0
+Chuquisaca,10101,Sucre,2013,1,21 a 59 anos,0
+Santa Cruz,70201,Warnes,2013,1,21 a 59 anos,0
+Tarija,60301,Yacuiba,2013,1,21 a 59 anos,0
+Cochabamba,30101,Cochabamba,2013,2,21 a 59 anos,0
+Santa Cruz,70102,Cotoca,2013,2,21 a 59 anos,0
+La Paz,20101,La Paz,2013,2,21 a 59 anos,0
+Santa Cruz,71003,Mineros,2013,2,21 a 59 anos,0
+Oruro,40101,Oruro,2013,2,21 a 59 anos,0
+Potosí,50101,Potosi,2013,2,21 a 59 anos,0
+Potosí,51101,Puna,2013,2,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,2,21 a 59 anos,0
+Cochabamba,30702,Santivañes,2013,2,21 a 59 anos,0
+Chuquisaca,10101,Sucre,2013,2,21 a 59 anos,0
+Potosí,50201,Uncia,2013,2,21 a 59 anos,0
+Tarija,60301,Yacuiba,2013,2,21 a 59 anos,0
+Cochabamba,30403,Arbieto,2013,3,21 a 59 anos,0
+Tarija,60202,Bermejo,2013,3,21 a 59 anos,0
+Tarija,60302,Carapari,2013,3,21 a 59 anos,0
+Cochabamba,30101,Cochabamba,2013,3,21 a 59 anos,0
+Tarija,60601,Entre Rios Trj,2013,3,21 a 59 anos,0
+La Paz,20101,La Paz,2013,3,21 a 59 anos,0
+Potosí,50101,Potosi,2013,3,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,3,21 a 59 anos,0
+Chuquisaca,10101,Sucre,2013,3,21 a 59 anos,0
+Tarija,60101,Tarija,2013,3,21 a 59 anos,0
+Cochabamba,31302,Vila Vila,2013,3,21 a 59 anos,0
+Santa Cruz,70201,Warnes,2013,3,21 a 59 anos,0
+Tarija,60202,Bermejo,2013,4,21 a 59 anos,0
+Potosí,51102,"Caiza ""d""",2013,4,21 a 59 anos,0
+La Paz,20105,El Alto,2013,4,21 a 59 anos,0
+Santa Cruz,71003,Mineros,2013,4,21 a 59 anos,0
+Santa Cruz,70103,Porongo,2013,4,21 a 59 anos,0
+Potosí,50101,Potosi,2013,4,21 a 59 anos,0
+Santa Cruz,71104,San Julian,2013,4,21 a 59 anos,0
+Chuquisaca,10101,Sucre,2013,4,21 a 59 anos,0
+Tarija,60101,Tarija,2013,4,21 a 59 anos,0
+Tarija,60303,Villa Montes,2013,4,21 a 59 anos,0
+Tarija,60301,Yacuiba,2013,4,21 a 59 anos,0
+Cochabamba,30101,Cochabamba,2013,5,21 a 59 anos,0
+Santa Cruz,70102,Cotoca,2013,5,21 a 59 anos,0
+Oruro,41101,Eucaliptus,2013,5,21 a 59 anos,0
+La Paz,20101,La Paz,2013,5,21 a 59 anos,0
+Santa Cruz,71003,Mineros,2013,5,21 a 59 anos,0
+Potosí,50101,Potosi,2013,5,21 a 59 anos,0
+Santa Cruz,71104,San Julian,2013,5,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,21 a 59 anos,0
+Cochabamba,30902,Sipe Sipe,2013,5,21 a 59 anos,0
+Chuquisaca,10101,Sucre,2013,5,21 a 59 anos,0
+Tarija,60301,Yacuiba,2013,5,21 a 59 anos,1
+Santa Cruz,70102,Cotoca,2013,6,21 a 59 anos,0
+Santa Cruz,71002,General Saavedra,2013,6,21 a 59 anos,0
+Santa Cruz,70104,La Guardia,2013,6,21 a 59 anos,0
+Oruro,40101,Oruro,2013,6,21 a 59 anos,0
+Potosí,50101,Potosi,2013,6,21 a 59 anos,0
+Santa Cruz,71104,San Julian,2013,6,21 a 59 anos,0
+Chuquisaca,10101,Sucre,2013,6,21 a 59 anos,0
+Tarija,60101,Tarija,2013,6,21 a 59 anos,0
+La Paz,20801,Viacha,2013,6,21 a 59 anos,0
+Santa Cruz,70201,Warnes,2013,6,21 a 59 anos,0
+Santa Cruz,70403,Yapacani,2013,6,21 a 59 anos,0
+Tarija,60202,Bermejo,2013,7,21 a 59 anos,0
+Cochabamba,30101,Cochabamba,2013,7,21 a 59 anos,0
+Santa Cruz,70102,Cotoca,2013,7,21 a 59 anos,0
+Santa Cruz,70105,El Torno,2013,7,21 a 59 anos,0
+Santa Cruz,70104,La Guardia,2013,7,21 a 59 anos,0
+La Paz,20101,La Paz,2013,7,21 a 59 anos,0
+Santa Cruz,71003,Mineros,2013,7,21 a 59 anos,0
+Potosí,50101,Potosi,2013,7,21 a 59 anos,0
+Cochabamba,31001,Sacaba,2013,7,21 a 59 anos,0
+Santa Cruz,71103,San Ramon Scz,2013,7,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,21 a 59 anos,0
+Chuquisaca,10101,Sucre,2013,7,21 a 59 anos,0
+Tarija,60101,Tarija,2013,7,21 a 59 anos,0
+Santa Cruz,70201,Warnes,2013,7,21 a 59 anos,0
+Santa Cruz,71101,Concepcion,2013,8,21 a 59 anos,0
+La Paz,20101,La Paz,2013,8,21 a 59 anos,0
+Potosí,50101,Potosi,2013,8,21 a 59 anos,0
+Santa Cruz,71104,San Julian,2013,8,21 a 59 anos,0
+Tarija,60501,San Lorenzo(tja),2013,8,21 a 59 anos,0
+Chuquisaca,10101,Sucre,2013,8,21 a 59 anos,0
+Tarija,60303,Villa Montes,2013,8,21 a 59 anos,0
+Potosí,51102,"Caiza ""d""",2013,9,21 a 59 anos,0
+Cochabamba,30101,Cochabamba,2013,9,21 a 59 anos,0
+Santa Cruz,70104,La Guardia,2013,9,21 a 59 anos,0
+Oruro,40101,Oruro,2013,9,21 a 59 anos,0
+La Paz,20102,Palca,2013,9,21 a 59 anos,0
+Santa Cruz,70103,Porongo,2013,9,21 a 59 anos,0
+Potosí,50101,Potosi,2013,9,21 a 59 anos,0
+Cochabamba,31001,Sacaba,2013,9,21 a 59 anos,0
+Santa Cruz,71104,San Julian,2013,9,21 a 59 anos,0
+Cochabamba,31602,Shinaota,2013,9,21 a 59 anos,1
+Chuquisaca,10101,Sucre,2013,9,21 a 59 anos,0
+Tarija,60101,Tarija,2013,9,21 a 59 anos,0
+Tarija,60303,Villa Montes,2013,9,21 a 59 anos,0
+Potosí,51501,Villazon,2013,9,21 a 59 anos,0
+Tarija,60301,Yacuiba,2013,9,21 a 59 anos,0
+Cochabamba,30403,Arbieto,2013,10,21 a 59 anos,0
+Santa Cruz,70104,La Guardia,2013,10,21 a 59 anos,0
+Oruro,40101,Oruro,2013,10,21 a 59 anos,0
+Potosí,50101,Potosi,2013,10,21 a 59 anos,0
+Cochabamba,31001,Sacaba,2013,10,21 a 59 anos,0
+Santa Cruz,71104,San Julian,2013,10,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,10,21 a 59 anos,0
+Chuquisaca,10101,Sucre,2013,10,21 a 59 anos,0
+Tarija,60101,Tarija,2013,10,21 a 59 anos,0
+La Paz,20801,Viacha,2013,10,21 a 59 anos,0
+Tarija,60303,Villa Montes,2013,10,21 a 59 anos,0
+Potosí,51501,Villazon,2013,10,21 a 59 anos,0
+Santa Cruz,70201,Warnes,2013,10,21 a 59 anos,0
+Santa Cruz,70102,Cotoca,2013,11,21 a 59 anos,0
+Oruro,40101,Oruro,2013,11,21 a 59 anos,0
+Potosí,50101,Potosi,2013,11,21 a 59 anos,0
+Cochabamba,31001,Sacaba,2013,11,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,11,21 a 59 anos,0
+Chuquisaca,10101,Sucre,2013,11,21 a 59 anos,0
+Tarija,60101,Tarija,2013,11,21 a 59 anos,0
+Tarija,60303,Villa Montes,2013,11,21 a 59 anos,0
+Tarija,60301,Yacuiba,2013,11,21 a 59 anos,0
+Tarija,60302,Carapari,2013,12,21 a 59 anos,0
+Oruro,40101,Oruro,2013,12,21 a 59 anos,0
+Potosí,50101,Potosi,2013,12,21 a 59 anos,0
+Cochabamba,31001,Sacaba,2013,12,21 a 59 anos,0
+Santa Cruz,71104,San Julian,2013,12,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,12,21 a 59 anos,0
+Chuquisaca,10101,Sucre,2013,12,21 a 59 anos,0
+Cochabamba,30903,Tiquipaya,2013,12,21 a 59 anos,0
+Potosí,50201,Uncia,2013,12,21 a 59 anos,0
+Tarija,60301,Yacuiba,2013,12,21 a 59 anos,0
+Santa Cruz,71003,Mineros,2013,1,60 y mas,0
+Potosí,50101,Potosi,2013,1,60 y mas,0
+Potosí,50402,Ravelo,2013,1,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,60 y mas,0
+Chuquisaca,10101,Sucre,2013,1,60 y mas,0
+Santa Cruz,70201,Warnes,2013,1,60 y mas,0
+Tarija,60301,Yacuiba,2013,1,60 y mas,0
+Cochabamba,30101,Cochabamba,2013,2,60 y mas,0
+Santa Cruz,70102,Cotoca,2013,2,60 y mas,0
+La Paz,20101,La Paz,2013,2,60 y mas,0
+Santa Cruz,71003,Mineros,2013,2,60 y mas,0
+Oruro,40101,Oruro,2013,2,60 y mas,0
+Potosí,50101,Potosi,2013,2,60 y mas,0
+Potosí,51101,Puna,2013,2,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,2,60 y mas,0
+Cochabamba,30702,Santivañes,2013,2,60 y mas,0
+Chuquisaca,10101,Sucre,2013,2,60 y mas,0
+Potosí,50201,Uncia,2013,2,60 y mas,0
+Tarija,60301,Yacuiba,2013,2,60 y mas,0
+Cochabamba,30403,Arbieto,2013,3,60 y mas,0
+Tarija,60202,Bermejo,2013,3,60 y mas,0
+Tarija,60302,Carapari,2013,3,60 y mas,0
+Cochabamba,30101,Cochabamba,2013,3,60 y mas,0
+Tarija,60601,Entre Rios Trj,2013,3,60 y mas,0
+La Paz,20101,La Paz,2013,3,60 y mas,0
+Potosí,50101,Potosi,2013,3,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,3,60 y mas,0
+Chuquisaca,10101,Sucre,2013,3,60 y mas,0
+Tarija,60101,Tarija,2013,3,60 y mas,0
+Cochabamba,31302,Vila Vila,2013,3,60 y mas,0
+Santa Cruz,70201,Warnes,2013,3,60 y mas,0
+Tarija,60202,Bermejo,2013,4,60 y mas,0
+Potosí,51102,"Caiza ""d""",2013,4,60 y mas,0
+La Paz,20105,El Alto,2013,4,60 y mas,0
+Santa Cruz,71003,Mineros,2013,4,60 y mas,0
+Santa Cruz,70103,Porongo,2013,4,60 y mas,0
+Potosí,50101,Potosi,2013,4,60 y mas,0
+Santa Cruz,71104,San Julian,2013,4,60 y mas,0
+Chuquisaca,10101,Sucre,2013,4,60 y mas,0
+Tarija,60101,Tarija,2013,4,60 y mas,0
+Tarija,60303,Villa Montes,2013,4,60 y mas,0
+Tarija,60301,Yacuiba,2013,4,60 y mas,0
+Cochabamba,30101,Cochabamba,2013,5,60 y mas,0
+Santa Cruz,70102,Cotoca,2013,5,60 y mas,0
+Oruro,41101,Eucaliptus,2013,5,60 y mas,0
+La Paz,20101,La Paz,2013,5,60 y mas,0
+Santa Cruz,71003,Mineros,2013,5,60 y mas,0
+Potosí,50101,Potosi,2013,5,60 y mas,0
+Santa Cruz,71104,San Julian,2013,5,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,60 y mas,0
+Cochabamba,30902,Sipe Sipe,2013,5,60 y mas,0
+Chuquisaca,10101,Sucre,2013,5,60 y mas,0
+Tarija,60301,Yacuiba,2013,5,60 y mas,0
+Santa Cruz,70102,Cotoca,2013,6,60 y mas,0
+Santa Cruz,71002,General Saavedra,2013,6,60 y mas,0
+Santa Cruz,70104,La Guardia,2013,6,60 y mas,0
+Oruro,40101,Oruro,2013,6,60 y mas,0
+Potosí,50101,Potosi,2013,6,60 y mas,0
+Santa Cruz,71104,San Julian,2013,6,60 y mas,0
+Chuquisaca,10101,Sucre,2013,6,60 y mas,0
+Tarija,60101,Tarija,2013,6,60 y mas,0
+La Paz,20801,Viacha,2013,6,60 y mas,0
+Santa Cruz,70201,Warnes,2013,6,60 y mas,0
+Santa Cruz,70403,Yapacani,2013,6,60 y mas,0
+Tarija,60202,Bermejo,2013,7,60 y mas,0
+Cochabamba,30101,Cochabamba,2013,7,60 y mas,0
+Santa Cruz,70102,Cotoca,2013,7,60 y mas,0
+Santa Cruz,70105,El Torno,2013,7,60 y mas,0
+Santa Cruz,70104,La Guardia,2013,7,60 y mas,0
+La Paz,20101,La Paz,2013,7,60 y mas,0
+Santa Cruz,71003,Mineros,2013,7,60 y mas,0
+Potosí,50101,Potosi,2013,7,60 y mas,0
+Cochabamba,31001,Sacaba,2013,7,60 y mas,0
+Santa Cruz,71103,San Ramon Scz,2013,7,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,60 y mas,0
+Chuquisaca,10101,Sucre,2013,7,60 y mas,0
+Tarija,60101,Tarija,2013,7,60 y mas,0
+Santa Cruz,70201,Warnes,2013,7,60 y mas,0
+Santa Cruz,71101,Concepcion,2013,8,60 y mas,0
+La Paz,20101,La Paz,2013,8,60 y mas,0
+Potosí,50101,Potosi,2013,8,60 y mas,0
+Santa Cruz,71104,San Julian,2013,8,60 y mas,0
+Tarija,60501,San Lorenzo(tja),2013,8,60 y mas,0
+Chuquisaca,10101,Sucre,2013,8,60 y mas,0
+Tarija,60303,Villa Montes,2013,8,60 y mas,0
+Potosí,51102,"Caiza ""d""",2013,9,60 y mas,0
+Cochabamba,30101,Cochabamba,2013,9,60 y mas,0
+Santa Cruz,70104,La Guardia,2013,9,60 y mas,0
+Oruro,40101,Oruro,2013,9,60 y mas,0
+La Paz,20102,Palca,2013,9,60 y mas,0
+Santa Cruz,70103,Porongo,2013,9,60 y mas,0
+Potosí,50101,Potosi,2013,9,60 y mas,0
+Cochabamba,31001,Sacaba,2013,9,60 y mas,0
+Santa Cruz,71104,San Julian,2013,9,60 y mas,0
+Cochabamba,31602,Shinaota,2013,9,60 y mas,0
+Chuquisaca,10101,Sucre,2013,9,60 y mas,0
+Tarija,60101,Tarija,2013,9,60 y mas,0
+Tarija,60303,Villa Montes,2013,9,60 y mas,0
+Potosí,51501,Villazon,2013,9,60 y mas,0
+Tarija,60301,Yacuiba,2013,9,60 y mas,0
+Cochabamba,30403,Arbieto,2013,10,60 y mas,0
+Santa Cruz,70104,La Guardia,2013,10,60 y mas,0
+Oruro,40101,Oruro,2013,10,60 y mas,0
+Potosí,50101,Potosi,2013,10,60 y mas,0
+Cochabamba,31001,Sacaba,2013,10,60 y mas,0
+Santa Cruz,71104,San Julian,2013,10,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,10,60 y mas,0
+Chuquisaca,10101,Sucre,2013,10,60 y mas,0
+Tarija,60101,Tarija,2013,10,60 y mas,0
+La Paz,20801,Viacha,2013,10,60 y mas,0
+Tarija,60303,Villa Montes,2013,10,60 y mas,0
+Potosí,51501,Villazon,2013,10,60 y mas,0
+Santa Cruz,70201,Warnes,2013,10,60 y mas,0
+Santa Cruz,70102,Cotoca,2013,11,60 y mas,0
+Oruro,40101,Oruro,2013,11,60 y mas,0
+Potosí,50101,Potosi,2013,11,60 y mas,0
+Cochabamba,31001,Sacaba,2013,11,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,11,60 y mas,0
+Chuquisaca,10101,Sucre,2013,11,60 y mas,0
+Tarija,60101,Tarija,2013,11,60 y mas,0
+Tarija,60303,Villa Montes,2013,11,60 y mas,0
+Tarija,60301,Yacuiba,2013,11,60 y mas,0
+Tarija,60302,Carapari,2013,12,60 y mas,0
+Oruro,40101,Oruro,2013,12,60 y mas,0
+Potosí,50101,Potosi,2013,12,60 y mas,0
+Cochabamba,31001,Sacaba,2013,12,60 y mas,0
+Santa Cruz,71104,San Julian,2013,12,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,12,60 y mas,0
+Chuquisaca,10101,Sucre,2013,12,60 y mas,0
+Cochabamba,30903,Tiquipaya,2013,12,60 y mas,0
+Potosí,50201,Uncia,2013,12,60 y mas,0
+Tarija,60301,Yacuiba,2013,12,60 y mas,1
+Santa Cruz,71003,Mineros,2013,1,TOTAL,1
+Potosí,50101,Potosi,2013,1,TOTAL,2
+Potosí,50402,Ravelo,2013,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,TOTAL,3
+Chuquisaca,10101,Sucre,2013,1,TOTAL,6
+Santa Cruz,70201,Warnes,2013,1,TOTAL,2
+Tarija,60301,Yacuiba,2013,1,TOTAL,1
+Cochabamba,30101,Cochabamba,2013,2,TOTAL,1
+Santa Cruz,70102,Cotoca,2013,2,TOTAL,1
+La Paz,20101,La Paz,2013,2,TOTAL,1
+Santa Cruz,71003,Mineros,2013,2,TOTAL,1
+Oruro,40101,Oruro,2013,2,TOTAL,1
+Potosí,50101,Potosi,2013,2,TOTAL,6
+Potosí,51101,Puna,2013,2,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,2,TOTAL,2
+Cochabamba,30702,Santivañes,2013,2,TOTAL,1
+Chuquisaca,10101,Sucre,2013,2,TOTAL,1
+Potosí,50201,Uncia,2013,2,TOTAL,1
+Tarija,60301,Yacuiba,2013,2,TOTAL,1
+Cochabamba,30403,Arbieto,2013,3,TOTAL,1
+Tarija,60202,Bermejo,2013,3,TOTAL,1
+Tarija,60302,Carapari,2013,3,TOTAL,1
+Cochabamba,30101,Cochabamba,2013,3,TOTAL,1
+Tarija,60601,Entre Rios Trj,2013,3,TOTAL,1
+La Paz,20101,La Paz,2013,3,TOTAL,2
+Potosí,50101,Potosi,2013,3,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,3,TOTAL,1
+Chuquisaca,10101,Sucre,2013,3,TOTAL,8
+Tarija,60101,Tarija,2013,3,TOTAL,1
+Cochabamba,31302,Vila Vila,2013,3,TOTAL,1
+Santa Cruz,70201,Warnes,2013,3,TOTAL,1
+Tarija,60202,Bermejo,2013,4,TOTAL,1
+Potosí,51102,"Caiza ""d""",2013,4,TOTAL,1
+La Paz,20105,El Alto,2013,4,TOTAL,1
+Santa Cruz,71003,Mineros,2013,4,TOTAL,1
+Santa Cruz,70103,Porongo,2013,4,TOTAL,2
+Potosí,50101,Potosi,2013,4,TOTAL,15
+Santa Cruz,71104,San Julian,2013,4,TOTAL,2
+Chuquisaca,10101,Sucre,2013,4,TOTAL,19
+Tarija,60101,Tarija,2013,4,TOTAL,4
+Tarija,60303,Villa Montes,2013,4,TOTAL,1
+Tarija,60301,Yacuiba,2013,4,TOTAL,1
+Cochabamba,30101,Cochabamba,2013,5,TOTAL,2
+Santa Cruz,70102,Cotoca,2013,5,TOTAL,1
+Oruro,41101,Eucaliptus,2013,5,TOTAL,1
+La Paz,20101,La Paz,2013,5,TOTAL,1
+Santa Cruz,71003,Mineros,2013,5,TOTAL,1
+Potosí,50101,Potosi,2013,5,TOTAL,6
+Santa Cruz,71104,San Julian,2013,5,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,TOTAL,3
+Cochabamba,30902,Sipe Sipe,2013,5,TOTAL,1
+Chuquisaca,10101,Sucre,2013,5,TOTAL,15
+Tarija,60301,Yacuiba,2013,5,TOTAL,1
+Santa Cruz,70102,Cotoca,2013,6,TOTAL,1
+Santa Cruz,71002,General Saavedra,2013,6,TOTAL,1
+Santa Cruz,70104,La Guardia,2013,6,TOTAL,2
+Oruro,40101,Oruro,2013,6,TOTAL,2
+Potosí,50101,Potosi,2013,6,TOTAL,6
+Santa Cruz,71104,San Julian,2013,6,TOTAL,2
+Chuquisaca,10101,Sucre,2013,6,TOTAL,20
+Tarija,60101,Tarija,2013,6,TOTAL,2
+La Paz,20801,Viacha,2013,6,TOTAL,1
+Santa Cruz,70201,Warnes,2013,6,TOTAL,1
+Santa Cruz,70403,Yapacani,2013,6,TOTAL,1
+Tarija,60202,Bermejo,2013,7,TOTAL,1
+Cochabamba,30101,Cochabamba,2013,7,TOTAL,3
+Santa Cruz,70102,Cotoca,2013,7,TOTAL,1
+Santa Cruz,70105,El Torno,2013,7,TOTAL,2
+Santa Cruz,70104,La Guardia,2013,7,TOTAL,2
+La Paz,20101,La Paz,2013,7,TOTAL,2
+Santa Cruz,71003,Mineros,2013,7,TOTAL,1
+Potosí,50101,Potosi,2013,7,TOTAL,11
+Cochabamba,31001,Sacaba,2013,7,TOTAL,1
+Santa Cruz,71103,San Ramon Scz,2013,7,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,TOTAL,2
+Chuquisaca,10101,Sucre,2013,7,TOTAL,32
+Tarija,60101,Tarija,2013,7,TOTAL,1
+Santa Cruz,70201,Warnes,2013,7,TOTAL,2
+Santa Cruz,71101,Concepcion,2013,8,TOTAL,1
+La Paz,20101,La Paz,2013,8,TOTAL,1
+Potosí,50101,Potosi,2013,8,TOTAL,12
+Santa Cruz,71104,San Julian,2013,8,TOTAL,4
+Tarija,60501,San Lorenzo(tja),2013,8,TOTAL,1
+Chuquisaca,10101,Sucre,2013,8,TOTAL,8
+Tarija,60303,Villa Montes,2013,8,TOTAL,3
+Potosí,51102,"Caiza ""d""",2013,9,TOTAL,1
+Cochabamba,30101,Cochabamba,2013,9,TOTAL,1
+Santa Cruz,70104,La Guardia,2013,9,TOTAL,1
+Oruro,40101,Oruro,2013,9,TOTAL,1
+La Paz,20102,Palca,2013,9,TOTAL,1
+Santa Cruz,70103,Porongo,2013,9,TOTAL,1
+Potosí,50101,Potosi,2013,9,TOTAL,4
+Cochabamba,31001,Sacaba,2013,9,TOTAL,1
+Santa Cruz,71104,San Julian,2013,9,TOTAL,3
+Cochabamba,31602,Shinaota,2013,9,TOTAL,1
+Chuquisaca,10101,Sucre,2013,9,TOTAL,12
+Tarija,60101,Tarija,2013,9,TOTAL,1
+Tarija,60303,Villa Montes,2013,9,TOTAL,5
+Potosí,51501,Villazon,2013,9,TOTAL,5
+Tarija,60301,Yacuiba,2013,9,TOTAL,2
+Cochabamba,30403,Arbieto,2013,10,TOTAL,1
+Santa Cruz,70104,La Guardia,2013,10,TOTAL,2
+Oruro,40101,Oruro,2013,10,TOTAL,1
+Potosí,50101,Potosi,2013,10,TOTAL,6
+Cochabamba,31001,Sacaba,2013,10,TOTAL,3
+Santa Cruz,71104,San Julian,2013,10,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,10,TOTAL,5
+Chuquisaca,10101,Sucre,2013,10,TOTAL,12
+Tarija,60101,Tarija,2013,10,TOTAL,1
+La Paz,20801,Viacha,2013,10,TOTAL,1
+Tarija,60303,Villa Montes,2013,10,TOTAL,4
+Potosí,51501,Villazon,2013,10,TOTAL,4
+Santa Cruz,70201,Warnes,2013,10,TOTAL,2
+Santa Cruz,70102,Cotoca,2013,11,TOTAL,1
+Oruro,40101,Oruro,2013,11,TOTAL,1
+Potosí,50101,Potosi,2013,11,TOTAL,3
+Cochabamba,31001,Sacaba,2013,11,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,11,TOTAL,3
+Chuquisaca,10101,Sucre,2013,11,TOTAL,8
+Tarija,60101,Tarija,2013,11,TOTAL,1
+Tarija,60303,Villa Montes,2013,11,TOTAL,8
+Tarija,60301,Yacuiba,2013,11,TOTAL,1
+Tarija,60302,Carapari,2013,12,TOTAL,1
+Oruro,40101,Oruro,2013,12,TOTAL,3
+Potosí,50101,Potosi,2013,12,TOTAL,6
+Cochabamba,31001,Sacaba,2013,12,TOTAL,1
+Santa Cruz,71104,San Julian,2013,12,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,12,TOTAL,1
+Chuquisaca,10101,Sucre,2013,12,TOTAL,9
+Cochabamba,30903,Tiquipaya,2013,12,TOTAL,3
+Potosí,50201,Uncia,2013,12,TOTAL,1
+Tarija,60301,Yacuiba,2013,12,TOTAL,1

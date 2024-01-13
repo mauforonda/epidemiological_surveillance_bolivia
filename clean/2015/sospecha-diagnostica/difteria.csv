@@ -1,0 +1,93 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,30101,Cochabamba,2015,3,a. Menor de 6 meses / MASCULINO,0
+Tarija,60202,Bermejo,2015,4,a. Menor de 6 meses / MASCULINO,0
+Tarija,60101,Tarija,2015,8,a. Menor de 6 meses / MASCULINO,0
+Chuquisaca,10502,Huacareta,2015,10,a. Menor de 6 meses / MASCULINO,0
+Cochabamba,30101,Cochabamba,2015,3,a. Menor de 6 meses / FEMENINO,0
+Tarija,60202,Bermejo,2015,4,a. Menor de 6 meses / FEMENINO,0
+Tarija,60101,Tarija,2015,8,a. Menor de 6 meses / FEMENINO,0
+Chuquisaca,10502,Huacareta,2015,10,a. Menor de 6 meses / FEMENINO,0
+Cochabamba,30101,Cochabamba,2015,3,b. 6 meses a menor de 1 ano / MASCULINO,0
+Tarija,60202,Bermejo,2015,4,b. 6 meses a menor de 1 ano / MASCULINO,1
+Tarija,60101,Tarija,2015,8,b. 6 meses a menor de 1 ano / MASCULINO,0
+Chuquisaca,10502,Huacareta,2015,10,b. 6 meses a menor de 1 ano / MASCULINO,0
+Cochabamba,30101,Cochabamba,2015,3,b. 6 meses a menor de 1 ano / FEMENINO,0
+Tarija,60202,Bermejo,2015,4,b. 6 meses a menor de 1 ano / FEMENINO,0
+Tarija,60101,Tarija,2015,8,b. 6 meses a menor de 1 ano / FEMENINO,0
+Chuquisaca,10502,Huacareta,2015,10,b. 6 meses a menor de 1 ano / FEMENINO,0
+Cochabamba,30101,Cochabamba,2015,3,c. 1 - 4 anos / MASCULINO,0
+Tarija,60202,Bermejo,2015,4,c. 1 - 4 anos / MASCULINO,0
+Tarija,60101,Tarija,2015,8,c. 1 - 4 anos / MASCULINO,1
+Chuquisaca,10502,Huacareta,2015,10,c. 1 - 4 anos / MASCULINO,1
+Cochabamba,30101,Cochabamba,2015,3,c. 1 - 4 anos / FEMENINO,0
+Tarija,60202,Bermejo,2015,4,c. 1 - 4 anos / FEMENINO,0
+Tarija,60101,Tarija,2015,8,c. 1 - 4 anos / FEMENINO,0
+Chuquisaca,10502,Huacareta,2015,10,c. 1 - 4 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2015,3,d. 5 - 9 anos / MASCULINO,0
+Tarija,60202,Bermejo,2015,4,d. 5 - 9 anos / MASCULINO,0
+Tarija,60101,Tarija,2015,8,d. 5 - 9 anos / MASCULINO,0
+Chuquisaca,10502,Huacareta,2015,10,d. 5 - 9 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2015,3,d. 5 - 9 anos / FEMENINO,0
+Tarija,60202,Bermejo,2015,4,d. 5 - 9 anos / FEMENINO,0
+Tarija,60101,Tarija,2015,8,d. 5 - 9 anos / FEMENINO,0
+Chuquisaca,10502,Huacareta,2015,10,d. 5 - 9 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2015,3,e. 10 - 14 anos / MASCULINO,0
+Tarija,60202,Bermejo,2015,4,e. 10 - 14 anos / MASCULINO,0
+Tarija,60101,Tarija,2015,8,e. 10 - 14 anos / MASCULINO,0
+Chuquisaca,10502,Huacareta,2015,10,e. 10 - 14 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2015,3,e. 10 - 14 anos / FEMENINO,0
+Tarija,60202,Bermejo,2015,4,e. 10 - 14 anos / FEMENINO,0
+Tarija,60101,Tarija,2015,8,e. 10 - 14 anos / FEMENINO,0
+Chuquisaca,10502,Huacareta,2015,10,e. 10 - 14 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2015,3,f. 15 - 19 anos / MASCULINO,1
+Tarija,60202,Bermejo,2015,4,f. 15 - 19 anos / MASCULINO,0
+Tarija,60101,Tarija,2015,8,f. 15 - 19 anos / MASCULINO,0
+Chuquisaca,10502,Huacareta,2015,10,f. 15 - 19 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2015,3,f. 15 - 19 anos / FEMENINO,0
+Tarija,60202,Bermejo,2015,4,f. 15 - 19 anos / FEMENINO,0
+Tarija,60101,Tarija,2015,8,f. 15 - 19 anos / FEMENINO,0
+Chuquisaca,10502,Huacareta,2015,10,f. 15 - 19 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2015,3,g. 20 - 39 anos / MASCULINO,0
+Tarija,60202,Bermejo,2015,4,g. 20 - 39 anos / MASCULINO,0
+Tarija,60101,Tarija,2015,8,g. 20 - 39 anos / MASCULINO,0
+Chuquisaca,10502,Huacareta,2015,10,g. 20 - 39 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2015,3,g. 20 - 39 anos / FEMENINO,0
+Tarija,60202,Bermejo,2015,4,g. 20 - 39 anos / FEMENINO,0
+Tarija,60101,Tarija,2015,8,g. 20 - 39 anos / FEMENINO,0
+Chuquisaca,10502,Huacareta,2015,10,g. 20 - 39 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2015,3,h. 40 - 49 anos / MASCULINO,0
+Tarija,60202,Bermejo,2015,4,h. 40 - 49 anos / MASCULINO,0
+Tarija,60101,Tarija,2015,8,h. 40 - 49 anos / MASCULINO,0
+Chuquisaca,10502,Huacareta,2015,10,h. 40 - 49 anos / MASCULINO,1
+Cochabamba,30101,Cochabamba,2015,3,h. 40 - 49 anos / FEMENINO,0
+Tarija,60202,Bermejo,2015,4,h. 40 - 49 anos / FEMENINO,0
+Tarija,60101,Tarija,2015,8,h. 40 - 49 anos / FEMENINO,0
+Chuquisaca,10502,Huacareta,2015,10,h. 40 - 49 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2015,3,i. 50 - 59 anos / MASCULINO,0
+Tarija,60202,Bermejo,2015,4,i. 50 - 59 anos / MASCULINO,0
+Tarija,60101,Tarija,2015,8,i. 50 - 59 anos / MASCULINO,0
+Chuquisaca,10502,Huacareta,2015,10,i. 50 - 59 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2015,3,i. 50 - 59 anos / FEMENINO,0
+Tarija,60202,Bermejo,2015,4,i. 50 - 59 anos / FEMENINO,0
+Tarija,60101,Tarija,2015,8,i. 50 - 59 anos / FEMENINO,0
+Chuquisaca,10502,Huacareta,2015,10,i. 50 - 59 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2015,3,j. 60 anos y mas / MASCULINO,0
+Tarija,60202,Bermejo,2015,4,j. 60 anos y mas / MASCULINO,0
+Tarija,60101,Tarija,2015,8,j. 60 anos y mas / MASCULINO,0
+Chuquisaca,10502,Huacareta,2015,10,j. 60 anos y mas / MASCULINO,0
+Cochabamba,30101,Cochabamba,2015,3,j. 60 anos y mas / FEMENINO,0
+Tarija,60202,Bermejo,2015,4,j. 60 anos y mas / FEMENINO,0
+Tarija,60101,Tarija,2015,8,j. 60 anos y mas / FEMENINO,0
+Chuquisaca,10502,Huacareta,2015,10,j. 60 anos y mas / FEMENINO,0
+Cochabamba,30101,Cochabamba,2015,3,TOTALES / TOTAL-M,1
+Tarija,60202,Bermejo,2015,4,TOTALES / TOTAL-M,1
+Tarija,60101,Tarija,2015,8,TOTALES / TOTAL-M,1
+Chuquisaca,10502,Huacareta,2015,10,TOTALES / TOTAL-M,2
+Cochabamba,30101,Cochabamba,2015,3,TOTALES / TOTAL-F,0
+Tarija,60202,Bermejo,2015,4,TOTALES / TOTAL-F,0
+Tarija,60101,Tarija,2015,8,TOTALES / TOTAL-F,0
+Chuquisaca,10502,Huacareta,2015,10,TOTALES / TOTAL-F,0
+Cochabamba,30101,Cochabamba,2015,3,TOTALES / TOTAL,1
+Tarija,60202,Bermejo,2015,4,TOTALES / TOTAL,1
+Tarija,60101,Tarija,2015,8,TOTALES / TOTAL,1
+Chuquisaca,10502,Huacareta,2015,10,TOTALES / TOTAL,2

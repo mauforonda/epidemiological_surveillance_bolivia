@@ -1,0 +1,78 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20101,La Paz,2010,2,< de 1 ano,1
+La Paz,20101,La Paz,2010,3,< de 1 ano,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,3,< de 1 ano,0
+La Paz,20101,La Paz,2010,5,< de 1 ano,5
+Cochabamba,30101,Cochabamba,2010,6,< de 1 ano,2
+La Paz,20101,La Paz,2010,6,< de 1 ano,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,6,< de 1 ano,0
+La Paz,20101,La Paz,2010,8,< de 1 ano,0
+Santa Cruz,71001,Montero,2010,8,< de 1 ano,1
+Santa Cruz,71001,Montero,2010,9,< de 1 ano,1
+La Paz,20105,El Alto,2010,10,< de 1 ano,1
+La Paz,20101,La Paz,2010,2,1 a 4 anos,0
+La Paz,20101,La Paz,2010,3,1 a 4 anos,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,3,1 a 4 anos,0
+La Paz,20101,La Paz,2010,5,1 a 4 anos,7
+Cochabamba,30101,Cochabamba,2010,6,1 a 4 anos,0
+La Paz,20101,La Paz,2010,6,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,6,1 a 4 anos,1
+La Paz,20101,La Paz,2010,8,1 a 4 anos,1
+Santa Cruz,71001,Montero,2010,8,1 a 4 anos,0
+Santa Cruz,71001,Montero,2010,9,1 a 4 anos,0
+La Paz,20105,El Alto,2010,10,1 a 4 anos,1
+La Paz,20101,La Paz,2010,2,5 a 9 anos,0
+La Paz,20101,La Paz,2010,3,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,3,5 a 9 anos,1
+La Paz,20101,La Paz,2010,5,5 a 9 anos,0
+Cochabamba,30101,Cochabamba,2010,6,5 a 9 anos,0
+La Paz,20101,La Paz,2010,6,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,6,5 a 9 anos,0
+La Paz,20101,La Paz,2010,8,5 a 9 anos,0
+Santa Cruz,71001,Montero,2010,8,5 a 9 anos,0
+Santa Cruz,71001,Montero,2010,9,5 a 9 anos,0
+La Paz,20105,El Alto,2010,10,5 a 9 anos,0
+La Paz,20101,La Paz,2010,2,10 a 20 anos,0
+La Paz,20101,La Paz,2010,3,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,3,10 a 20 anos,0
+La Paz,20101,La Paz,2010,5,10 a 20 anos,0
+Cochabamba,30101,Cochabamba,2010,6,10 a 20 anos,0
+La Paz,20101,La Paz,2010,6,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,6,10 a 20 anos,0
+La Paz,20101,La Paz,2010,8,10 a 20 anos,0
+Santa Cruz,71001,Montero,2010,8,10 a 20 anos,0
+Santa Cruz,71001,Montero,2010,9,10 a 20 anos,0
+La Paz,20105,El Alto,2010,10,10 a 20 anos,0
+La Paz,20101,La Paz,2010,2,21 a 59 anos,0
+La Paz,20101,La Paz,2010,3,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,3,21 a 59 anos,1
+La Paz,20101,La Paz,2010,5,21 a 59 anos,0
+Cochabamba,30101,Cochabamba,2010,6,21 a 59 anos,0
+La Paz,20101,La Paz,2010,6,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,6,21 a 59 anos,0
+La Paz,20101,La Paz,2010,8,21 a 59 anos,0
+Santa Cruz,71001,Montero,2010,8,21 a 59 anos,0
+Santa Cruz,71001,Montero,2010,9,21 a 59 anos,0
+La Paz,20105,El Alto,2010,10,21 a 59 anos,0
+La Paz,20101,La Paz,2010,2,60 y mas,0
+La Paz,20101,La Paz,2010,3,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,3,60 y mas,0
+La Paz,20101,La Paz,2010,5,60 y mas,0
+Cochabamba,30101,Cochabamba,2010,6,60 y mas,0
+La Paz,20101,La Paz,2010,6,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,6,60 y mas,0
+La Paz,20101,La Paz,2010,8,60 y mas,0
+Santa Cruz,71001,Montero,2010,8,60 y mas,0
+Santa Cruz,71001,Montero,2010,9,60 y mas,0
+La Paz,20105,El Alto,2010,10,60 y mas,0
+La Paz,20101,La Paz,2010,2,TOTAL,1
+La Paz,20101,La Paz,2010,3,TOTAL,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,3,TOTAL,2
+La Paz,20101,La Paz,2010,5,TOTAL,12
+Cochabamba,30101,Cochabamba,2010,6,TOTAL,2
+La Paz,20101,La Paz,2010,6,TOTAL,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,6,TOTAL,1
+La Paz,20101,La Paz,2010,8,TOTAL,1
+Santa Cruz,71001,Montero,2010,8,TOTAL,1
+Santa Cruz,71001,Montero,2010,9,TOTAL,1
+La Paz,20105,El Alto,2010,10,TOTAL,2

@@ -1,0 +1,49 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,Nro.,0
+Santa Cruz,71501,Ascencion De Guarayos,2012,2,Nro.,4
+Beni,80304,Rurrenabaque,2012,2,Nro.,2
+La Paz,20606,Tipuani,2012,6,Nro.,1
+Beni,80602,San Andres,2012,7,Nro.,1
+Tarija,60201,Padcaya,2012,8,Nro.,1
+Santa Cruz,70805,Pucara,2012,8,Nro.,1
+Santa Cruz,71503,El Puente(stc),2012,9,Nro.,1
+Beni,80102,San Javier(bni),2012,9,Nro.,1
+Chuquisaca,10401,Padilla,2012,10,Nro.,1
+Santa Cruz,70804,Postrer Valle,2012,10,Nro.,1
+Potosí,50502,Toro Toro,2012,10,Nro.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,Nro. Afectados,0
+Santa Cruz,71501,Ascencion De Guarayos,2012,2,Nro. Afectados,25
+Beni,80304,Rurrenabaque,2012,2,Nro. Afectados,0
+La Paz,20606,Tipuani,2012,6,Nro. Afectados,79
+Beni,80602,San Andres,2012,7,Nro. Afectados,0
+Tarija,60201,Padcaya,2012,8,Nro. Afectados,0
+Santa Cruz,70805,Pucara,2012,8,Nro. Afectados,2
+Santa Cruz,71503,El Puente(stc),2012,9,Nro. Afectados,10
+Beni,80102,San Javier(bni),2012,9,Nro. Afectados,0
+Chuquisaca,10401,Padilla,2012,10,Nro. Afectados,0
+Santa Cruz,70804,Postrer Valle,2012,10,Nro. Afectados,2
+Potosí,50502,Toro Toro,2012,10,Nro. Afectados,8
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,Nro. Fallecidos,0
+Santa Cruz,71501,Ascencion De Guarayos,2012,2,Nro. Fallecidos,0
+Beni,80304,Rurrenabaque,2012,2,Nro. Fallecidos,0
+La Paz,20606,Tipuani,2012,6,Nro. Fallecidos,0
+Beni,80602,San Andres,2012,7,Nro. Fallecidos,0
+Tarija,60201,Padcaya,2012,8,Nro. Fallecidos,0
+Santa Cruz,70805,Pucara,2012,8,Nro. Fallecidos,0
+Santa Cruz,71503,El Puente(stc),2012,9,Nro. Fallecidos,0
+Beni,80102,San Javier(bni),2012,9,Nro. Fallecidos,0
+Chuquisaca,10401,Padilla,2012,10,Nro. Fallecidos,0
+Santa Cruz,70804,Postrer Valle,2012,10,Nro. Fallecidos,0
+Potosí,50502,Toro Toro,2012,10,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,TOTAL,0
+Santa Cruz,71501,Ascencion De Guarayos,2012,2,TOTAL,29
+Beni,80304,Rurrenabaque,2012,2,TOTAL,2
+La Paz,20606,Tipuani,2012,6,TOTAL,80
+Beni,80602,San Andres,2012,7,TOTAL,1
+Tarija,60201,Padcaya,2012,8,TOTAL,1
+Santa Cruz,70805,Pucara,2012,8,TOTAL,3
+Santa Cruz,71503,El Puente(stc),2012,9,TOTAL,11
+Beni,80102,San Javier(bni),2012,9,TOTAL,1
+Chuquisaca,10401,Padilla,2012,10,TOTAL,1
+Santa Cruz,70804,Postrer Valle,2012,10,TOTAL,3
+Potosí,50502,Toro Toro,2012,10,TOTAL,9

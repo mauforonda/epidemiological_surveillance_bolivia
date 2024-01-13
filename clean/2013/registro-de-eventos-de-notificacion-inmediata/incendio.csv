@@ -1,0 +1,77 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70105,El Torno,2013,1,Nro.,1
+Pando,90103,Bolpebra,2013,2,Nro.,1
+Oruro,40301,Corque,2013,2,Nro.,1
+Beni,80802,Baures,2013,4,Nro.,1
+Santa Cruz,71501,Ascencion De Guarayos,2013,6,Nro.,0
+Santa Cruz,71503,El Puente(stc),2013,6,Nro.,1
+Beni,80201,Riberalta,2013,7,Nro.,1
+Tarija,60202,Bermejo,2013,8,Nro.,1
+Oruro,40301,Corque,2013,8,Nro.,0
+Santa Cruz,70503,Robore,2013,8,Nro.,1
+Santa Cruz,70501,San Jose De Chiquitos,2013,8,Nro.,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,8,Nro.,1
+Beni,80101,Trinidad,2013,8,Nro.,1
+Tarija,60302,Carapari,2013,9,Nro.,1
+Chuquisaca,10502,Huacareta,2013,9,Nro.,1
+Beni,80301,Reyes,2013,9,Nro.,1
+Santa Cruz,70503,Robore,2013,9,Nro.,1
+Santa Cruz,70301,San Ignacio De Velasco,2013,9,Nro.,4
+Santa Cruz,70501,San Jose De Chiquitos,2013,9,Nro.,2
+Santa Cruz,70105,El Torno,2013,1,Nro. Afectados,0
+Pando,90103,Bolpebra,2013,2,Nro. Afectados,6
+Oruro,40301,Corque,2013,2,Nro. Afectados,0
+Beni,80802,Baures,2013,4,Nro. Afectados,5
+Santa Cruz,71501,Ascencion De Guarayos,2013,6,Nro. Afectados,5
+Santa Cruz,71503,El Puente(stc),2013,6,Nro. Afectados,6
+Beni,80201,Riberalta,2013,7,Nro. Afectados,7
+Tarija,60202,Bermejo,2013,8,Nro. Afectados,0
+Oruro,40301,Corque,2013,8,Nro. Afectados,0
+Santa Cruz,70503,Robore,2013,8,Nro. Afectados,5
+Santa Cruz,70501,San Jose De Chiquitos,2013,8,Nro. Afectados,182
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,8,Nro. Afectados,60
+Beni,80101,Trinidad,2013,8,Nro. Afectados,2
+Tarija,60302,Carapari,2013,9,Nro. Afectados,0
+Chuquisaca,10502,Huacareta,2013,9,Nro. Afectados,6
+Beni,80301,Reyes,2013,9,Nro. Afectados,9
+Santa Cruz,70503,Robore,2013,9,Nro. Afectados,0
+Santa Cruz,70301,San Ignacio De Velasco,2013,9,Nro. Afectados,0
+Santa Cruz,70501,San Jose De Chiquitos,2013,9,Nro. Afectados,181
+Santa Cruz,70105,El Torno,2013,1,Nro. Fallecidos,0
+Pando,90103,Bolpebra,2013,2,Nro. Fallecidos,0
+Oruro,40301,Corque,2013,2,Nro. Fallecidos,0
+Beni,80802,Baures,2013,4,Nro. Fallecidos,0
+Santa Cruz,71501,Ascencion De Guarayos,2013,6,Nro. Fallecidos,0
+Santa Cruz,71503,El Puente(stc),2013,6,Nro. Fallecidos,1
+Beni,80201,Riberalta,2013,7,Nro. Fallecidos,0
+Tarija,60202,Bermejo,2013,8,Nro. Fallecidos,0
+Oruro,40301,Corque,2013,8,Nro. Fallecidos,1
+Santa Cruz,70503,Robore,2013,8,Nro. Fallecidos,0
+Santa Cruz,70501,San Jose De Chiquitos,2013,8,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,8,Nro. Fallecidos,38
+Beni,80101,Trinidad,2013,8,Nro. Fallecidos,0
+Tarija,60302,Carapari,2013,9,Nro. Fallecidos,0
+Chuquisaca,10502,Huacareta,2013,9,Nro. Fallecidos,0
+Beni,80301,Reyes,2013,9,Nro. Fallecidos,0
+Santa Cruz,70503,Robore,2013,9,Nro. Fallecidos,0
+Santa Cruz,70301,San Ignacio De Velasco,2013,9,Nro. Fallecidos,0
+Santa Cruz,70501,San Jose De Chiquitos,2013,9,Nro. Fallecidos,0
+Santa Cruz,70105,El Torno,2013,1,TOTAL,1
+Pando,90103,Bolpebra,2013,2,TOTAL,7
+Oruro,40301,Corque,2013,2,TOTAL,1
+Beni,80802,Baures,2013,4,TOTAL,6
+Santa Cruz,71501,Ascencion De Guarayos,2013,6,TOTAL,5
+Santa Cruz,71503,El Puente(stc),2013,6,TOTAL,8
+Beni,80201,Riberalta,2013,7,TOTAL,8
+Tarija,60202,Bermejo,2013,8,TOTAL,1
+Oruro,40301,Corque,2013,8,TOTAL,1
+Santa Cruz,70503,Robore,2013,8,TOTAL,6
+Santa Cruz,70501,San Jose De Chiquitos,2013,8,TOTAL,185
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,8,TOTAL,99
+Beni,80101,Trinidad,2013,8,TOTAL,3
+Tarija,60302,Carapari,2013,9,TOTAL,1
+Chuquisaca,10502,Huacareta,2013,9,TOTAL,7
+Beni,80301,Reyes,2013,9,TOTAL,10
+Santa Cruz,70503,Robore,2013,9,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2013,9,TOTAL,4
+Santa Cruz,70501,San Jose De Chiquitos,2013,9,TOTAL,183

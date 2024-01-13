@@ -1,0 +1,166 @@
+department,municipality_id,municipality,year,month,population,value
+Pando,90201,Puerto Rico,2009,1,< de 1 ano / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,< de 1 ano / MASCULINO,0
+Pando,90101,Cobija,2009,5,< de 1 ano / MASCULINO,0
+Tarija,60601,Entre Rios,2009,6,< de 1 ano / MASCULINO,0
+Pando,90302,San Lorenzo(pnd),2009,6,< de 1 ano / MASCULINO,0
+Cochabamba,30101,Cochabamba,2009,7,< de 1 ano / MASCULINO,0
+La Paz,21502,San Buena Ventura,2009,7,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,< de 1 ano / MASCULINO,0
+Beni,80302,San Borja,2009,9,< de 1 ano / MASCULINO,0
+La Paz,21502,San Buena Ventura,2009,9,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,< de 1 ano / MASCULINO,0
+Pando,90201,Puerto Rico,2009,1,< de 1 ano / FEMENINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,< de 1 ano / FEMENINO,0
+Pando,90101,Cobija,2009,5,< de 1 ano / FEMENINO,0
+Tarija,60601,Entre Rios,2009,6,< de 1 ano / FEMENINO,0
+Pando,90302,San Lorenzo(pnd),2009,6,< de 1 ano / FEMENINO,0
+Cochabamba,30101,Cochabamba,2009,7,< de 1 ano / FEMENINO,0
+La Paz,21502,San Buena Ventura,2009,7,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,< de 1 ano / FEMENINO,0
+Beni,80302,San Borja,2009,9,< de 1 ano / FEMENINO,0
+La Paz,21502,San Buena Ventura,2009,9,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,< de 1 ano / FEMENINO,0
+Pando,90201,Puerto Rico,2009,1,1 a 4 anos / MASCULINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,1 a 4 anos / MASCULINO,0
+Pando,90101,Cobija,2009,5,1 a 4 anos / MASCULINO,0
+Tarija,60601,Entre Rios,2009,6,1 a 4 anos / MASCULINO,0
+Pando,90302,San Lorenzo(pnd),2009,6,1 a 4 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2009,7,1 a 4 anos / MASCULINO,0
+La Paz,21502,San Buena Ventura,2009,7,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,1 a 4 anos / MASCULINO,0
+Beni,80302,San Borja,2009,9,1 a 4 anos / MASCULINO,5
+La Paz,21502,San Buena Ventura,2009,9,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,1 a 4 anos / MASCULINO,0
+Pando,90201,Puerto Rico,2009,1,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,1 a 4 anos / FEMENINO,0
+Pando,90101,Cobija,2009,5,1 a 4 anos / FEMENINO,0
+Tarija,60601,Entre Rios,2009,6,1 a 4 anos / FEMENINO,0
+Pando,90302,San Lorenzo(pnd),2009,6,1 a 4 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2009,7,1 a 4 anos / FEMENINO,0
+La Paz,21502,San Buena Ventura,2009,7,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,1 a 4 anos / FEMENINO,0
+Beni,80302,San Borja,2009,9,1 a 4 anos / FEMENINO,0
+La Paz,21502,San Buena Ventura,2009,9,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,1 a 4 anos / FEMENINO,0
+Pando,90201,Puerto Rico,2009,1,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,5 a 9 anos / MASCULINO,0
+Pando,90101,Cobija,2009,5,5 a 9 anos / MASCULINO,0
+Tarija,60601,Entre Rios,2009,6,5 a 9 anos / MASCULINO,0
+Pando,90302,San Lorenzo(pnd),2009,6,5 a 9 anos / MASCULINO,1
+Cochabamba,30101,Cochabamba,2009,7,5 a 9 anos / MASCULINO,0
+La Paz,21502,San Buena Ventura,2009,7,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,5 a 9 anos / MASCULINO,0
+Beni,80302,San Borja,2009,9,5 a 9 anos / MASCULINO,0
+La Paz,21502,San Buena Ventura,2009,9,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,5 a 9 anos / MASCULINO,0
+Pando,90201,Puerto Rico,2009,1,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,5 a 9 anos / FEMENINO,0
+Pando,90101,Cobija,2009,5,5 a 9 anos / FEMENINO,0
+Tarija,60601,Entre Rios,2009,6,5 a 9 anos / FEMENINO,0
+Pando,90302,San Lorenzo(pnd),2009,6,5 a 9 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2009,7,5 a 9 anos / FEMENINO,0
+La Paz,21502,San Buena Ventura,2009,7,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,5 a 9 anos / FEMENINO,0
+Beni,80302,San Borja,2009,9,5 a 9 anos / FEMENINO,0
+La Paz,21502,San Buena Ventura,2009,9,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,5 a 9 anos / FEMENINO,0
+Pando,90201,Puerto Rico,2009,1,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,10 a 20 anos / MASCULINO,0
+Pando,90101,Cobija,2009,5,10 a 20 anos / MASCULINO,0
+Tarija,60601,Entre Rios,2009,6,10 a 20 anos / MASCULINO,0
+Pando,90302,San Lorenzo(pnd),2009,6,10 a 20 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2009,7,10 a 20 anos / MASCULINO,0
+La Paz,21502,San Buena Ventura,2009,7,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,10 a 20 anos / MASCULINO,0
+Beni,80302,San Borja,2009,9,10 a 20 anos / MASCULINO,0
+La Paz,21502,San Buena Ventura,2009,9,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,10 a 20 anos / MASCULINO,0
+Pando,90201,Puerto Rico,2009,1,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,10 a 20 anos / FEMENINO,0
+Pando,90101,Cobija,2009,5,10 a 20 anos / FEMENINO,0
+Tarija,60601,Entre Rios,2009,6,10 a 20 anos / FEMENINO,0
+Pando,90302,San Lorenzo(pnd),2009,6,10 a 20 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2009,7,10 a 20 anos / FEMENINO,0
+La Paz,21502,San Buena Ventura,2009,7,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,10 a 20 anos / FEMENINO,0
+Beni,80302,San Borja,2009,9,10 a 20 anos / FEMENINO,0
+La Paz,21502,San Buena Ventura,2009,9,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,10 a 20 anos / FEMENINO,0
+Pando,90201,Puerto Rico,2009,1,21 a 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,21 a 59 anos / MASCULINO,0
+Pando,90101,Cobija,2009,5,21 a 59 anos / MASCULINO,1
+Tarija,60601,Entre Rios,2009,6,21 a 59 anos / MASCULINO,0
+Pando,90302,San Lorenzo(pnd),2009,6,21 a 59 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2009,7,21 a 59 anos / MASCULINO,0
+La Paz,21502,San Buena Ventura,2009,7,21 a 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,21 a 59 anos / MASCULINO,0
+Beni,80302,San Borja,2009,9,21 a 59 anos / MASCULINO,0
+La Paz,21502,San Buena Ventura,2009,9,21 a 59 anos / MASCULINO,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,21 a 59 anos / MASCULINO,0
+Pando,90201,Puerto Rico,2009,1,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,21 a 59 anos / FEMENINO,0
+Pando,90101,Cobija,2009,5,21 a 59 anos / FEMENINO,0
+Tarija,60601,Entre Rios,2009,6,21 a 59 anos / FEMENINO,1
+Pando,90302,San Lorenzo(pnd),2009,6,21 a 59 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2009,7,21 a 59 anos / FEMENINO,1
+La Paz,21502,San Buena Ventura,2009,7,21 a 59 anos / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,21 a 59 anos / FEMENINO,0
+Beni,80302,San Borja,2009,9,21 a 59 anos / FEMENINO,0
+La Paz,21502,San Buena Ventura,2009,9,21 a 59 anos / FEMENINO,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,21 a 59 anos / FEMENINO,0
+Pando,90201,Puerto Rico,2009,1,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,60 y mas / MASCULINO,0
+Pando,90101,Cobija,2009,5,60 y mas / MASCULINO,0
+Tarija,60601,Entre Rios,2009,6,60 y mas / MASCULINO,0
+Pando,90302,San Lorenzo(pnd),2009,6,60 y mas / MASCULINO,0
+Cochabamba,30101,Cochabamba,2009,7,60 y mas / MASCULINO,0
+La Paz,21502,San Buena Ventura,2009,7,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,60 y mas / MASCULINO,0
+Beni,80302,San Borja,2009,9,60 y mas / MASCULINO,0
+La Paz,21502,San Buena Ventura,2009,9,60 y mas / MASCULINO,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,60 y mas / MASCULINO,0
+Pando,90201,Puerto Rico,2009,1,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,60 y mas / FEMENINO,0
+Pando,90101,Cobija,2009,5,60 y mas / FEMENINO,0
+Tarija,60601,Entre Rios,2009,6,60 y mas / FEMENINO,0
+Pando,90302,San Lorenzo(pnd),2009,6,60 y mas / FEMENINO,0
+Cochabamba,30101,Cochabamba,2009,7,60 y mas / FEMENINO,0
+La Paz,21502,San Buena Ventura,2009,7,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,60 y mas / FEMENINO,0
+Beni,80302,San Borja,2009,9,60 y mas / FEMENINO,0
+La Paz,21502,San Buena Ventura,2009,9,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,60 y mas / FEMENINO,0
+Pando,90201,Puerto Rico,2009,1,TOTALES / TOTAL-M,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,TOTALES / TOTAL-M,0
+Pando,90101,Cobija,2009,5,TOTALES / TOTAL-M,1
+Tarija,60601,Entre Rios,2009,6,TOTALES / TOTAL-M,0
+Pando,90302,San Lorenzo(pnd),2009,6,TOTALES / TOTAL-M,1
+Cochabamba,30101,Cochabamba,2009,7,TOTALES / TOTAL-M,0
+La Paz,21502,San Buena Ventura,2009,7,TOTALES / TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,TOTALES / TOTAL-M,0
+Beni,80302,San Borja,2009,9,TOTALES / TOTAL-M,5
+La Paz,21502,San Buena Ventura,2009,9,TOTALES / TOTAL-M,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,TOTALES / TOTAL-M,0
+Pando,90201,Puerto Rico,2009,1,TOTALES / TOTAL-F,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,TOTALES / TOTAL-F,0
+Pando,90101,Cobija,2009,5,TOTALES / TOTAL-F,0
+Tarija,60601,Entre Rios,2009,6,TOTALES / TOTAL-F,1
+Pando,90302,San Lorenzo(pnd),2009,6,TOTALES / TOTAL-F,0
+Cochabamba,30101,Cochabamba,2009,7,TOTALES / TOTAL-F,1
+La Paz,21502,San Buena Ventura,2009,7,TOTALES / TOTAL-F,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,TOTALES / TOTAL-F,0
+Beni,80302,San Borja,2009,9,TOTALES / TOTAL-F,0
+La Paz,21502,San Buena Ventura,2009,9,TOTALES / TOTAL-F,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,TOTALES / TOTAL-F,0
+Pando,90201,Puerto Rico,2009,1,TOTALES / TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,TOTALES / TOTAL,0
+Pando,90101,Cobija,2009,5,TOTALES / TOTAL,1
+Tarija,60601,Entre Rios,2009,6,TOTALES / TOTAL,1
+Pando,90302,San Lorenzo(pnd),2009,6,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2009,7,TOTALES / TOTAL,1
+La Paz,21502,San Buena Ventura,2009,7,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,TOTALES / TOTAL,0
+Beni,80302,San Borja,2009,9,TOTALES / TOTAL,5
+La Paz,21502,San Buena Ventura,2009,9,TOTALES / TOTAL,12
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,TOTALES / TOTAL,0

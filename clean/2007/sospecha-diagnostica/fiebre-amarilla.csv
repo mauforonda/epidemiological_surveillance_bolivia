@@ -1,0 +1,193 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,21105,La Asunta,2007,1,< de 1 ano,0
+Santa Cruz,70104,La Guardia,2007,1,< de 1 ano,0
+Cochabamba,31001,Sacaba,2007,1,< de 1 ano,0
+Cochabamba,31003,Villa Tunari,2007,1,< de 1 ano,0
+Santa Cruz,70403,Yapacani,2007,1,< de 1 ano,0
+La Paz,22001,Caranavi,2007,2,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2007,2,< de 1 ano,0
+La Paz,21105,La Asunta,2007,2,< de 1 ano,0
+Cochabamba,31001,Sacaba,2007,2,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,2,< de 1 ano,0
+Tarija,60101,Tarija,2007,2,< de 1 ano,0
+Cochabamba,31003,Villa Tunari,2007,2,< de 1 ano,0
+Santa Cruz,70403,Yapacani,2007,2,< de 1 ano,0
+Chuquisaca,10401,Padilla,2007,3,< de 1 ano,0
+La Paz,21104,Palos Blancos,2007,3,< de 1 ano,0
+Santa Cruz,70402,San Carlos,2007,3,< de 1 ano,0
+Cochabamba,31003,Villa Tunari,2007,3,< de 1 ano,0
+Santa Cruz,70403,Yapacani,2007,3,< de 1 ano,0
+La Paz,22001,Caranavi,2007,4,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2007,4,< de 1 ano,0
+Santa Cruz,70105,El Torno,2007,4,< de 1 ano,0
+La Paz,21105,La Asunta,2007,4,< de 1 ano,0
+La Paz,20606,Tipuani,2007,4,< de 1 ano,0
+Cochabamba,31003,Villa Tunari,2007,4,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2007,5,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,< de 1 ano,0
+Cochabamba,31003,Villa Tunari,2007,5,< de 1 ano,0
+Chuquisaca,10301,Zudañez,2007,5,< de 1 ano,0
+Santa Cruz,70301,San Ignacio De Velasco,2007,9,< de 1 ano,0
+Cochabamba,31601,Tiraque (cbba),2007,10,< de 1 ano,0
+Cochabamba,31003,Villa Tunari,2007,10,< de 1 ano,0
+La Paz,21104,Palos Blancos,2007,12,< de 1 ano,0
+La Paz,21105,La Asunta,2007,1,1 a 4 anos,0
+Santa Cruz,70104,La Guardia,2007,1,1 a 4 anos,0
+Cochabamba,31001,Sacaba,2007,1,1 a 4 anos,0
+Cochabamba,31003,Villa Tunari,2007,1,1 a 4 anos,0
+Santa Cruz,70403,Yapacani,2007,1,1 a 4 anos,0
+La Paz,22001,Caranavi,2007,2,1 a 4 anos,0
+Cochabamba,30101,Cochabamba,2007,2,1 a 4 anos,0
+La Paz,21105,La Asunta,2007,2,1 a 4 anos,0
+Cochabamba,31001,Sacaba,2007,2,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,2,1 a 4 anos,0
+Tarija,60101,Tarija,2007,2,1 a 4 anos,0
+Cochabamba,31003,Villa Tunari,2007,2,1 a 4 anos,0
+Santa Cruz,70403,Yapacani,2007,2,1 a 4 anos,0
+Chuquisaca,10401,Padilla,2007,3,1 a 4 anos,0
+La Paz,21104,Palos Blancos,2007,3,1 a 4 anos,0
+Santa Cruz,70402,San Carlos,2007,3,1 a 4 anos,1
+Cochabamba,31003,Villa Tunari,2007,3,1 a 4 anos,0
+Santa Cruz,70403,Yapacani,2007,3,1 a 4 anos,0
+La Paz,22001,Caranavi,2007,4,1 a 4 anos,0
+Cochabamba,30101,Cochabamba,2007,4,1 a 4 anos,0
+Santa Cruz,70105,El Torno,2007,4,1 a 4 anos,0
+La Paz,21105,La Asunta,2007,4,1 a 4 anos,0
+La Paz,20606,Tipuani,2007,4,1 a 4 anos,0
+Cochabamba,31003,Villa Tunari,2007,4,1 a 4 anos,0
+Cochabamba,30101,Cochabamba,2007,5,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,1 a 4 anos,0
+Cochabamba,31003,Villa Tunari,2007,5,1 a 4 anos,0
+Chuquisaca,10301,Zudañez,2007,5,1 a 4 anos,0
+Santa Cruz,70301,San Ignacio De Velasco,2007,9,1 a 4 anos,0
+Cochabamba,31601,Tiraque (cbba),2007,10,1 a 4 anos,0
+Cochabamba,31003,Villa Tunari,2007,10,1 a 4 anos,0
+La Paz,21104,Palos Blancos,2007,12,1 a 4 anos,0
+La Paz,21105,La Asunta,2007,1,5 a 14 anos,0
+Santa Cruz,70104,La Guardia,2007,1,5 a 14 anos,0
+Cochabamba,31001,Sacaba,2007,1,5 a 14 anos,0
+Cochabamba,31003,Villa Tunari,2007,1,5 a 14 anos,3
+Santa Cruz,70403,Yapacani,2007,1,5 a 14 anos,0
+La Paz,22001,Caranavi,2007,2,5 a 14 anos,0
+Cochabamba,30101,Cochabamba,2007,2,5 a 14 anos,0
+La Paz,21105,La Asunta,2007,2,5 a 14 anos,2
+Cochabamba,31001,Sacaba,2007,2,5 a 14 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,2,5 a 14 anos,0
+Tarija,60101,Tarija,2007,2,5 a 14 anos,0
+Cochabamba,31003,Villa Tunari,2007,2,5 a 14 anos,3
+Santa Cruz,70403,Yapacani,2007,2,5 a 14 anos,3
+Chuquisaca,10401,Padilla,2007,3,5 a 14 anos,0
+La Paz,21104,Palos Blancos,2007,3,5 a 14 anos,0
+Santa Cruz,70402,San Carlos,2007,3,5 a 14 anos,0
+Cochabamba,31003,Villa Tunari,2007,3,5 a 14 anos,0
+Santa Cruz,70403,Yapacani,2007,3,5 a 14 anos,1
+La Paz,22001,Caranavi,2007,4,5 a 14 anos,0
+Cochabamba,30101,Cochabamba,2007,4,5 a 14 anos,0
+Santa Cruz,70105,El Torno,2007,4,5 a 14 anos,0
+La Paz,21105,La Asunta,2007,4,5 a 14 anos,0
+La Paz,20606,Tipuani,2007,4,5 a 14 anos,0
+Cochabamba,31003,Villa Tunari,2007,4,5 a 14 anos,0
+Cochabamba,30101,Cochabamba,2007,5,5 a 14 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,5 a 14 anos,0
+Cochabamba,31003,Villa Tunari,2007,5,5 a 14 anos,0
+Chuquisaca,10301,Zudañez,2007,5,5 a 14 anos,0
+Santa Cruz,70301,San Ignacio De Velasco,2007,9,5 a 14 anos,0
+Cochabamba,31601,Tiraque (cbba),2007,10,5 a 14 anos,1
+Cochabamba,31003,Villa Tunari,2007,10,5 a 14 anos,0
+La Paz,21104,Palos Blancos,2007,12,5 a 14 anos,0
+La Paz,21105,La Asunta,2007,1,15 a 59 anos,1
+Santa Cruz,70104,La Guardia,2007,1,15 a 59 anos,1
+Cochabamba,31001,Sacaba,2007,1,15 a 59 anos,1
+Cochabamba,31003,Villa Tunari,2007,1,15 a 59 anos,5
+Santa Cruz,70403,Yapacani,2007,1,15 a 59 anos,2
+La Paz,22001,Caranavi,2007,2,15 a 59 anos,3
+Cochabamba,30101,Cochabamba,2007,2,15 a 59 anos,2
+La Paz,21105,La Asunta,2007,2,15 a 59 anos,5
+Cochabamba,31001,Sacaba,2007,2,15 a 59 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,2,15 a 59 anos,1
+Tarija,60101,Tarija,2007,2,15 a 59 anos,2
+Cochabamba,31003,Villa Tunari,2007,2,15 a 59 anos,2
+Santa Cruz,70403,Yapacani,2007,2,15 a 59 anos,0
+Chuquisaca,10401,Padilla,2007,3,15 a 59 anos,3
+La Paz,21104,Palos Blancos,2007,3,15 a 59 anos,1
+Santa Cruz,70402,San Carlos,2007,3,15 a 59 anos,0
+Cochabamba,31003,Villa Tunari,2007,3,15 a 59 anos,2
+Santa Cruz,70403,Yapacani,2007,3,15 a 59 anos,0
+La Paz,22001,Caranavi,2007,4,15 a 59 anos,1
+Cochabamba,30101,Cochabamba,2007,4,15 a 59 anos,1
+Santa Cruz,70105,El Torno,2007,4,15 a 59 anos,1
+La Paz,21105,La Asunta,2007,4,15 a 59 anos,2
+La Paz,20606,Tipuani,2007,4,15 a 59 anos,1
+Cochabamba,31003,Villa Tunari,2007,4,15 a 59 anos,1
+Cochabamba,30101,Cochabamba,2007,5,15 a 59 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,15 a 59 anos,1
+Cochabamba,31003,Villa Tunari,2007,5,15 a 59 anos,2
+Chuquisaca,10301,Zudañez,2007,5,15 a 59 anos,1
+Santa Cruz,70301,San Ignacio De Velasco,2007,9,15 a 59 anos,1
+Cochabamba,31601,Tiraque (cbba),2007,10,15 a 59 anos,0
+Cochabamba,31003,Villa Tunari,2007,10,15 a 59 anos,1
+La Paz,21104,Palos Blancos,2007,12,15 a 59 anos,1
+La Paz,21105,La Asunta,2007,1,60 y mas,0
+Santa Cruz,70104,La Guardia,2007,1,60 y mas,0
+Cochabamba,31001,Sacaba,2007,1,60 y mas,0
+Cochabamba,31003,Villa Tunari,2007,1,60 y mas,0
+Santa Cruz,70403,Yapacani,2007,1,60 y mas,0
+La Paz,22001,Caranavi,2007,2,60 y mas,0
+Cochabamba,30101,Cochabamba,2007,2,60 y mas,0
+La Paz,21105,La Asunta,2007,2,60 y mas,0
+Cochabamba,31001,Sacaba,2007,2,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,2,60 y mas,0
+Tarija,60101,Tarija,2007,2,60 y mas,0
+Cochabamba,31003,Villa Tunari,2007,2,60 y mas,2
+Santa Cruz,70403,Yapacani,2007,2,60 y mas,0
+Chuquisaca,10401,Padilla,2007,3,60 y mas,0
+La Paz,21104,Palos Blancos,2007,3,60 y mas,0
+Santa Cruz,70402,San Carlos,2007,3,60 y mas,0
+Cochabamba,31003,Villa Tunari,2007,3,60 y mas,0
+Santa Cruz,70403,Yapacani,2007,3,60 y mas,0
+La Paz,22001,Caranavi,2007,4,60 y mas,0
+Cochabamba,30101,Cochabamba,2007,4,60 y mas,0
+Santa Cruz,70105,El Torno,2007,4,60 y mas,0
+La Paz,21105,La Asunta,2007,4,60 y mas,0
+La Paz,20606,Tipuani,2007,4,60 y mas,0
+Cochabamba,31003,Villa Tunari,2007,4,60 y mas,0
+Cochabamba,30101,Cochabamba,2007,5,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,60 y mas,0
+Cochabamba,31003,Villa Tunari,2007,5,60 y mas,0
+Chuquisaca,10301,Zudañez,2007,5,60 y mas,0
+Santa Cruz,70301,San Ignacio De Velasco,2007,9,60 y mas,0
+Cochabamba,31601,Tiraque (cbba),2007,10,60 y mas,0
+Cochabamba,31003,Villa Tunari,2007,10,60 y mas,0
+La Paz,21104,Palos Blancos,2007,12,60 y mas,0
+La Paz,21105,La Asunta,2007,1,TOTAL,1
+Santa Cruz,70104,La Guardia,2007,1,TOTAL,1
+Cochabamba,31001,Sacaba,2007,1,TOTAL,1
+Cochabamba,31003,Villa Tunari,2007,1,TOTAL,8
+Santa Cruz,70403,Yapacani,2007,1,TOTAL,2
+La Paz,22001,Caranavi,2007,2,TOTAL,3
+Cochabamba,30101,Cochabamba,2007,2,TOTAL,2
+La Paz,21105,La Asunta,2007,2,TOTAL,7
+Cochabamba,31001,Sacaba,2007,2,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,2,TOTAL,1
+Tarija,60101,Tarija,2007,2,TOTAL,2
+Cochabamba,31003,Villa Tunari,2007,2,TOTAL,7
+Santa Cruz,70403,Yapacani,2007,2,TOTAL,3
+Chuquisaca,10401,Padilla,2007,3,TOTAL,3
+La Paz,21104,Palos Blancos,2007,3,TOTAL,1
+Santa Cruz,70402,San Carlos,2007,3,TOTAL,1
+Cochabamba,31003,Villa Tunari,2007,3,TOTAL,2
+Santa Cruz,70403,Yapacani,2007,3,TOTAL,1
+La Paz,22001,Caranavi,2007,4,TOTAL,1
+Cochabamba,30101,Cochabamba,2007,4,TOTAL,1
+Santa Cruz,70105,El Torno,2007,4,TOTAL,1
+La Paz,21105,La Asunta,2007,4,TOTAL,2
+La Paz,20606,Tipuani,2007,4,TOTAL,1
+Cochabamba,31003,Villa Tunari,2007,4,TOTAL,1
+Cochabamba,30101,Cochabamba,2007,5,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,TOTAL,1
+Cochabamba,31003,Villa Tunari,2007,5,TOTAL,2
+Chuquisaca,10301,Zudañez,2007,5,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2007,9,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2007,10,TOTAL,1
+Cochabamba,31003,Villa Tunari,2007,10,TOTAL,1
+La Paz,21104,Palos Blancos,2007,12,TOTAL,1

@@ -1,0 +1,22 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,< de 1 ano,0
+Tarija,60301,Yacuiba,2012,2,< de 1 ano,0
+Tarija,60303,Villa Montes,2012,11,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,1 a 4 anos,0
+Tarija,60301,Yacuiba,2012,2,1 a 4 anos,0
+Tarija,60303,Villa Montes,2012,11,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,5 a 9 anos,0
+Tarija,60301,Yacuiba,2012,2,5 a 9 anos,0
+Tarija,60303,Villa Montes,2012,11,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,10 a 20 anos,0
+Tarija,60301,Yacuiba,2012,2,10 a 20 anos,0
+Tarija,60303,Villa Montes,2012,11,10 a 20 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,21 a 59 anos,0
+Tarija,60301,Yacuiba,2012,2,21 a 59 anos,1
+Tarija,60303,Villa Montes,2012,11,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,60 y mas,0
+Tarija,60301,Yacuiba,2012,2,60 y mas,0
+Tarija,60303,Villa Montes,2012,11,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,TOTAL,0
+Tarija,60301,Yacuiba,2012,2,TOTAL,1
+Tarija,60303,Villa Montes,2012,11,TOTAL,1

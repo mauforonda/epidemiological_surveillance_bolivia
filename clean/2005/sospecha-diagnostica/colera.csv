@@ -1,0 +1,13 @@
+department,municipality_id,municipality,year,month,population,value
+Tarija,60401,Uriondo (a. Concepcion),2005,2,< de 1 ano,0
+Chuquisaca,10601,Tarabuco,2005,3,< de 1 ano,0
+Tarija,60401,Uriondo (a. Concepcion),2005,2,1 a 4 anos,0
+Chuquisaca,10601,Tarabuco,2005,3,1 a 4 anos,0
+Tarija,60401,Uriondo (a. Concepcion),2005,2,5 a 14 anos,0
+Chuquisaca,10601,Tarabuco,2005,3,5 a 14 anos,0
+Tarija,60401,Uriondo (a. Concepcion),2005,2,15 a 59 anos,0
+Chuquisaca,10601,Tarabuco,2005,3,15 a 59 anos,0
+Tarija,60401,Uriondo (a. Concepcion),2005,2,60 y mas,3
+Chuquisaca,10601,Tarabuco,2005,3,60 y mas,2
+Tarija,60401,Uriondo (a. Concepcion),2005,2,TOTAL,3
+Chuquisaca,10601,Tarabuco,2005,3,TOTAL,2

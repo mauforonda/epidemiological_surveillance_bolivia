@@ -27,6 +27,7 @@
     "filenames": {
         "variables": "indexes/variables.csv",
         "raw": "indexes/raw.csv",
+        "clean": "indexes/clean.csv",
         "download_errors": "errors"
     }
 }

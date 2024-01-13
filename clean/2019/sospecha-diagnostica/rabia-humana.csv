@@ -1,0 +1,116 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20101,La Paz,2019,4,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,10,a. Menor de 6 meses / MASCULINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,a. Menor de 6 meses / MASCULINO,0
+Tarija,60301,Yacuiba,2019,12,a. Menor de 6 meses / MASCULINO,0
+La Paz,20101,La Paz,2019,4,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,10,a. Menor de 6 meses / FEMENINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,a. Menor de 6 meses / FEMENINO,0
+Tarija,60301,Yacuiba,2019,12,a. Menor de 6 meses / FEMENINO,0
+La Paz,20101,La Paz,2019,4,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,10,b. 6 meses a menor de 1 ano / MASCULINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,b. 6 meses a menor de 1 ano / MASCULINO,0
+Tarija,60301,Yacuiba,2019,12,b. 6 meses a menor de 1 ano / MASCULINO,0
+La Paz,20101,La Paz,2019,4,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,10,b. 6 meses a menor de 1 ano / FEMENINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,b. 6 meses a menor de 1 ano / FEMENINO,0
+Tarija,60301,Yacuiba,2019,12,b. 6 meses a menor de 1 ano / FEMENINO,0
+La Paz,20101,La Paz,2019,4,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,10,c. 1 - 4 anos / MASCULINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,c. 1 - 4 anos / MASCULINO,0
+Tarija,60301,Yacuiba,2019,12,c. 1 - 4 anos / MASCULINO,0
+La Paz,20101,La Paz,2019,4,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,10,c. 1 - 4 anos / FEMENINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,c. 1 - 4 anos / FEMENINO,0
+Tarija,60301,Yacuiba,2019,12,c. 1 - 4 anos / FEMENINO,0
+La Paz,20101,La Paz,2019,4,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,10,d. 5 - 9 anos / MASCULINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,d. 5 - 9 anos / MASCULINO,0
+Tarija,60301,Yacuiba,2019,12,d. 5 - 9 anos / MASCULINO,0
+La Paz,20101,La Paz,2019,4,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,10,d. 5 - 9 anos / FEMENINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,d. 5 - 9 anos / FEMENINO,0
+Tarija,60301,Yacuiba,2019,12,d. 5 - 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2019,4,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,10,e. 10 - 14 anos / MASCULINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,e. 10 - 14 anos / MASCULINO,0
+Tarija,60301,Yacuiba,2019,12,e. 10 - 14 anos / MASCULINO,0
+La Paz,20101,La Paz,2019,4,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,10,e. 10 - 14 anos / FEMENINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,e. 10 - 14 anos / FEMENINO,0
+Tarija,60301,Yacuiba,2019,12,e. 10 - 14 anos / FEMENINO,0
+La Paz,20101,La Paz,2019,4,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,10,f. 15 - 19 anos / MASCULINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,f. 15 - 19 anos / MASCULINO,0
+Tarija,60301,Yacuiba,2019,12,f. 15 - 19 anos / MASCULINO,0
+La Paz,20101,La Paz,2019,4,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,10,f. 15 - 19 anos / FEMENINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,f. 15 - 19 anos / FEMENINO,0
+Tarija,60301,Yacuiba,2019,12,f. 15 - 19 anos / FEMENINO,0
+La Paz,20101,La Paz,2019,4,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,10,g. 20 - 39 anos / MASCULINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,g. 20 - 39 anos / MASCULINO,0
+Tarija,60301,Yacuiba,2019,12,g. 20 - 39 anos / MASCULINO,0
+La Paz,20101,La Paz,2019,4,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,10,g. 20 - 39 anos / FEMENINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,g. 20 - 39 anos / FEMENINO,0
+Tarija,60301,Yacuiba,2019,12,g. 20 - 39 anos / FEMENINO,0
+La Paz,20101,La Paz,2019,4,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,10,h. 40 - 49 anos / MASCULINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,h. 40 - 49 anos / MASCULINO,0
+Tarija,60301,Yacuiba,2019,12,h. 40 - 49 anos / MASCULINO,0
+La Paz,20101,La Paz,2019,4,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,10,h. 40 - 49 anos / FEMENINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,h. 40 - 49 anos / FEMENINO,0
+Tarija,60301,Yacuiba,2019,12,h. 40 - 49 anos / FEMENINO,0
+La Paz,20101,La Paz,2019,4,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,10,i. 50 - 59 anos / MASCULINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,i. 50 - 59 anos / MASCULINO,0
+Tarija,60301,Yacuiba,2019,12,i. 50 - 59 anos / MASCULINO,0
+La Paz,20101,La Paz,2019,4,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,10,i. 50 - 59 anos / FEMENINO,1
+La Paz,21702,San Pedro De Tiquina,2019,12,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,i. 50 - 59 anos / FEMENINO,0
+Tarija,60301,Yacuiba,2019,12,i. 50 - 59 anos / FEMENINO,0
+La Paz,20101,La Paz,2019,4,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,10,j. 60 anos y mas / MASCULINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,j. 60 anos y mas / MASCULINO,1
+Tarija,60301,Yacuiba,2019,12,j. 60 anos y mas / MASCULINO,1
+La Paz,20101,La Paz,2019,4,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,10,j. 60 anos y mas / FEMENINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,j. 60 anos y mas / FEMENINO,0
+Tarija,60301,Yacuiba,2019,12,j. 60 anos y mas / FEMENINO,0
+La Paz,20101,La Paz,2019,4,TOTALES / DENTRO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,10,TOTALES / DENTRO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,TOTALES / DENTRO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,TOTALES / DENTRO,1
+Tarija,60301,Yacuiba,2019,12,TOTALES / DENTRO,1
+La Paz,20101,La Paz,2019,4,TOTALES / FUERA,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,10,TOTALES / FUERA,1
+La Paz,21702,San Pedro De Tiquina,2019,12,TOTALES / FUERA,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,TOTALES / FUERA,0
+Tarija,60301,Yacuiba,2019,12,TOTALES / FUERA,0
+La Paz,20101,La Paz,2019,4,TOTALES / TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,10,TOTALES / TOTAL,1
+La Paz,21702,San Pedro De Tiquina,2019,12,TOTALES / TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,TOTALES / TOTAL,1
+Tarija,60301,Yacuiba,2019,12,TOTALES / TOTAL,1

@@ -1,0 +1,58 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,30302,Morochata,2020,1,TOTALES / DENTRO,0
+Potosí,51103,Ckochas,2020,3,TOTALES / DENTRO,0
+Potosí,50501,San Pedro De Buena Vista,2020,3,TOTALES / DENTRO,0
+Cochabamba,31501,Bolivar,2020,4,TOTALES / DENTRO,0
+Cochabamba,31302,Vila Vila,2020,4,TOTALES / DENTRO,0
+Potosí,50501,San Pedro De Buena Vista,2020,5,TOTALES / DENTRO,0
+Santa Cruz,70702,Charagua,2020,6,TOTALES / DENTRO,1
+Oruro,40903,Chipaya,2020,7,TOTALES / DENTRO,0
+Cochabamba,30905,Colcapirhua,2020,7,TOTALES / DENTRO,0
+Cochabamba,31304,Raqaypampa(eta),2020,7,TOTALES / DENTRO,0
+Santa Cruz,70301,San Ignacio De Velasco,2020,7,TOTALES / DENTRO,0
+Cochabamba,30902,Sipe Sipe,2020,7,TOTALES / DENTRO,1
+Cochabamba,31203,Pocona,2020,8,TOTALES / DENTRO,0
+Chuquisaca,10302,Presto,2020,8,TOTALES / DENTRO,1
+Oruro,40102,Caracollo,2020,10,TOTALES / DENTRO,0
+Oruro,40102,Caracollo,2020,12,TOTALES / DENTRO,0
+La Paz,21602,Curva,2020,12,TOTALES / DENTRO,0
+La Paz,20702,Pelechuco,2020,12,TOTALES / DENTRO,1
+Cochabamba,31101,Tapacari,2020,12,TOTALES / DENTRO,0
+Cochabamba,30302,Morochata,2020,1,TOTALES / FUERA,1
+Potosí,51103,Ckochas,2020,3,TOTALES / FUERA,1
+Potosí,50501,San Pedro De Buena Vista,2020,3,TOTALES / FUERA,1
+Cochabamba,31501,Bolivar,2020,4,TOTALES / FUERA,1
+Cochabamba,31302,Vila Vila,2020,4,TOTALES / FUERA,1
+Potosí,50501,San Pedro De Buena Vista,2020,5,TOTALES / FUERA,1
+Santa Cruz,70702,Charagua,2020,6,TOTALES / FUERA,0
+Oruro,40903,Chipaya,2020,7,TOTALES / FUERA,1
+Cochabamba,30905,Colcapirhua,2020,7,TOTALES / FUERA,1
+Cochabamba,31304,Raqaypampa(eta),2020,7,TOTALES / FUERA,1
+Santa Cruz,70301,San Ignacio De Velasco,2020,7,TOTALES / FUERA,1
+Cochabamba,30902,Sipe Sipe,2020,7,TOTALES / FUERA,0
+Cochabamba,31203,Pocona,2020,8,TOTALES / FUERA,1
+Chuquisaca,10302,Presto,2020,8,TOTALES / FUERA,0
+Oruro,40102,Caracollo,2020,10,TOTALES / FUERA,1
+Oruro,40102,Caracollo,2020,12,TOTALES / FUERA,1
+La Paz,21602,Curva,2020,12,TOTALES / FUERA,1
+La Paz,20702,Pelechuco,2020,12,TOTALES / FUERA,0
+Cochabamba,31101,Tapacari,2020,12,TOTALES / FUERA,1
+Cochabamba,30302,Morochata,2020,1,TOTALES / TOTAL,1
+Potosí,51103,Ckochas,2020,3,TOTALES / TOTAL,1
+Potosí,50501,San Pedro De Buena Vista,2020,3,TOTALES / TOTAL,1
+Cochabamba,31501,Bolivar,2020,4,TOTALES / TOTAL,1
+Cochabamba,31302,Vila Vila,2020,4,TOTALES / TOTAL,1
+Potosí,50501,San Pedro De Buena Vista,2020,5,TOTALES / TOTAL,1
+Santa Cruz,70702,Charagua,2020,6,TOTALES / TOTAL,1
+Oruro,40903,Chipaya,2020,7,TOTALES / TOTAL,1
+Cochabamba,30905,Colcapirhua,2020,7,TOTALES / TOTAL,1
+Cochabamba,31304,Raqaypampa(eta),2020,7,TOTALES / TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2020,7,TOTALES / TOTAL,1
+Cochabamba,30902,Sipe Sipe,2020,7,TOTALES / TOTAL,1
+Cochabamba,31203,Pocona,2020,8,TOTALES / TOTAL,1
+Chuquisaca,10302,Presto,2020,8,TOTALES / TOTAL,1
+Oruro,40102,Caracollo,2020,10,TOTALES / TOTAL,1
+Oruro,40102,Caracollo,2020,12,TOTALES / TOTAL,1
+La Paz,21602,Curva,2020,12,TOTALES / TOTAL,1
+La Paz,20702,Pelechuco,2020,12,TOTALES / TOTAL,1
+Cochabamba,31101,Tapacari,2020,12,TOTALES / TOTAL,1

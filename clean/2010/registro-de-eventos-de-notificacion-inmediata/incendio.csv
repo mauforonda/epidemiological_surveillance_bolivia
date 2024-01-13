@@ -1,0 +1,185 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70105,El Torno,2010,1,Nro.,1
+Beni,80301,Reyes,2010,2,Nro.,1
+Oruro,41201,Andamarca,2010,3,Nro.,1
+Santa Cruz,70401,Buena Vista,2010,3,Nro.,1
+La Paz,21104,Palos Blancos,2010,3,Nro.,1
+La Paz,21104,Palos Blancos,2010,4,Nro.,1
+Beni,80201,Riberalta,2010,6,Nro.,1
+Santa Cruz,71101,Concepcion,2010,7,Nro.,1
+Santa Cruz,71503,El Puente(stc),2010,8,Nro.,1
+Chuquisaca,11003,Machareti,2010,8,Nro.,3
+Beni,80801,Magdalena,2010,8,Nro.,2
+Beni,80201,Riberalta,2010,8,Nro.,3
+Santa Cruz,70301,San Ignacio De Velasco,2010,8,Nro.,1
+Chuquisaca,10702,San Lucas,2010,8,Nro.,1
+Santa Cruz,70302,San Miguel De Velasco,2010,8,Nro.,2
+Santa Cruz,70303,San Rafael,2010,8,Nro.,1
+Tarija,60101,Tarija,2010,8,Nro.,2
+Chuquisaca,10202,Tarvita,2010,8,Nro.,1
+Santa Cruz,70801,Vallegrande,2010,8,Nro.,1
+Pando,90104,Bella Flor,2010,9,Nro.,9
+Santa Cruz,70105,El Torno,2010,9,Nro.,2
+Pando,90203,Filadelfia,2010,9,Nro.,1
+La Paz,21501,Ixiamas,2010,9,Nro.,5
+Santa Cruz,70701,Lagunillas,2010,9,Nro.,1
+Pando,90401,Nacebe (santa Rosa Del Abuna),2010,9,Nro.,6
+Beni,80304,Rurrenabaque,2010,9,Nro.,4
+Santa Cruz,70301,San Ignacio De Velasco,2010,9,Nro.,1
+Pando,90302,San Lorenzo(pnd),2010,9,Nro.,5
+Beni,80303,Santa Rosa,2010,9,Nro.,1
+Tarija,60101,Tarija,2010,9,Nro.,1
+Santa Cruz,70801,Vallegrande,2010,9,Nro.,1
+Potosí,50602,Vitichi,2010,9,Nro.,2
+Santa Cruz,70105,El Torno,2010,10,Nro.,1
+Tarija,60601,Entre Rios Trj,2010,10,Nro.,3
+Tarija,60201,Padcaya,2010,10,Nro.,1
+Santa Cruz,70103,Porongo,2010,10,Nro.,9
+Santa Cruz,70804,Postrer Valle,2010,10,Nro.,2
+Beni,80301,Reyes,2010,10,Nro.,1
+Tarija,60501,San Lorenzo(tja),2010,10,Nro.,1
+Santa Cruz,71501,Ascencion De Guarayos,2010,11,Nro.,17
+Santa Cruz,70703,Cabezas,2010,11,Nro.,1
+Santa Cruz,70105,El Torno,2010,11,Nro.,2
+Santa Cruz,70701,Lagunillas,2010,11,Nro.,1
+Chuquisaca,10702,San Lucas,2010,11,Nro.,1
+Santa Cruz,70801,Vallegrande,2010,11,Nro.,10
+Cochabamba,31003,Villa Tunari,2010,12,Nro.,0
+Santa Cruz,70105,El Torno,2010,1,Nro. Afectados,0
+Beni,80301,Reyes,2010,2,Nro. Afectados,5
+Oruro,41201,Andamarca,2010,3,Nro. Afectados,1
+Santa Cruz,70401,Buena Vista,2010,3,Nro. Afectados,8
+La Paz,21104,Palos Blancos,2010,3,Nro. Afectados,6
+La Paz,21104,Palos Blancos,2010,4,Nro. Afectados,6
+Beni,80201,Riberalta,2010,6,Nro. Afectados,0
+Santa Cruz,71101,Concepcion,2010,7,Nro. Afectados,20
+Santa Cruz,71503,El Puente(stc),2010,8,Nro. Afectados,88
+Chuquisaca,11003,Machareti,2010,8,Nro. Afectados,33
+Beni,80801,Magdalena,2010,8,Nro. Afectados,10
+Beni,80201,Riberalta,2010,8,Nro. Afectados,0
+Santa Cruz,70301,San Ignacio De Velasco,2010,8,Nro. Afectados,30
+Chuquisaca,10702,San Lucas,2010,8,Nro. Afectados,1
+Santa Cruz,70302,San Miguel De Velasco,2010,8,Nro. Afectados,17
+Santa Cruz,70303,San Rafael,2010,8,Nro. Afectados,8
+Tarija,60101,Tarija,2010,8,Nro. Afectados,8
+Chuquisaca,10202,Tarvita,2010,8,Nro. Afectados,5
+Santa Cruz,70801,Vallegrande,2010,8,Nro. Afectados,3
+Pando,90104,Bella Flor,2010,9,Nro. Afectados,11
+Santa Cruz,70105,El Torno,2010,9,Nro. Afectados,1
+Pando,90203,Filadelfia,2010,9,Nro. Afectados,8
+La Paz,21501,Ixiamas,2010,9,Nro. Afectados,0
+Santa Cruz,70701,Lagunillas,2010,9,Nro. Afectados,5
+Pando,90401,Nacebe (santa Rosa Del Abuna),2010,9,Nro. Afectados,0
+Beni,80304,Rurrenabaque,2010,9,Nro. Afectados,510
+Santa Cruz,70301,San Ignacio De Velasco,2010,9,Nro. Afectados,2
+Pando,90302,San Lorenzo(pnd),2010,9,Nro. Afectados,297
+Beni,80303,Santa Rosa,2010,9,Nro. Afectados,5
+Tarija,60101,Tarija,2010,9,Nro. Afectados,0
+Santa Cruz,70801,Vallegrande,2010,9,Nro. Afectados,2
+Potosí,50602,Vitichi,2010,9,Nro. Afectados,0
+Santa Cruz,70105,El Torno,2010,10,Nro. Afectados,0
+Tarija,60601,Entre Rios Trj,2010,10,Nro. Afectados,1
+Tarija,60201,Padcaya,2010,10,Nro. Afectados,14
+Santa Cruz,70103,Porongo,2010,10,Nro. Afectados,10
+Santa Cruz,70804,Postrer Valle,2010,10,Nro. Afectados,50
+Beni,80301,Reyes,2010,10,Nro. Afectados,6
+Tarija,60501,San Lorenzo(tja),2010,10,Nro. Afectados,0
+Santa Cruz,71501,Ascencion De Guarayos,2010,11,Nro. Afectados,96
+Santa Cruz,70703,Cabezas,2010,11,Nro. Afectados,16
+Santa Cruz,70105,El Torno,2010,11,Nro. Afectados,0
+Santa Cruz,70701,Lagunillas,2010,11,Nro. Afectados,69
+Chuquisaca,10702,San Lucas,2010,11,Nro. Afectados,0
+Santa Cruz,70801,Vallegrande,2010,11,Nro. Afectados,94
+Cochabamba,31003,Villa Tunari,2010,12,Nro. Afectados,0
+Santa Cruz,70105,El Torno,2010,1,Nro. Fallecidos,0
+Beni,80301,Reyes,2010,2,Nro. Fallecidos,0
+Oruro,41201,Andamarca,2010,3,Nro. Fallecidos,0
+Santa Cruz,70401,Buena Vista,2010,3,Nro. Fallecidos,0
+La Paz,21104,Palos Blancos,2010,3,Nro. Fallecidos,2
+La Paz,21104,Palos Blancos,2010,4,Nro. Fallecidos,0
+Beni,80201,Riberalta,2010,6,Nro. Fallecidos,0
+Santa Cruz,71101,Concepcion,2010,7,Nro. Fallecidos,0
+Santa Cruz,71503,El Puente(stc),2010,8,Nro. Fallecidos,0
+Chuquisaca,11003,Machareti,2010,8,Nro. Fallecidos,0
+Beni,80801,Magdalena,2010,8,Nro. Fallecidos,0
+Beni,80201,Riberalta,2010,8,Nro. Fallecidos,0
+Santa Cruz,70301,San Ignacio De Velasco,2010,8,Nro. Fallecidos,0
+Chuquisaca,10702,San Lucas,2010,8,Nro. Fallecidos,0
+Santa Cruz,70302,San Miguel De Velasco,2010,8,Nro. Fallecidos,0
+Santa Cruz,70303,San Rafael,2010,8,Nro. Fallecidos,0
+Tarija,60101,Tarija,2010,8,Nro. Fallecidos,0
+Chuquisaca,10202,Tarvita,2010,8,Nro. Fallecidos,0
+Santa Cruz,70801,Vallegrande,2010,8,Nro. Fallecidos,0
+Pando,90104,Bella Flor,2010,9,Nro. Fallecidos,0
+Santa Cruz,70105,El Torno,2010,9,Nro. Fallecidos,0
+Pando,90203,Filadelfia,2010,9,Nro. Fallecidos,0
+La Paz,21501,Ixiamas,2010,9,Nro. Fallecidos,0
+Santa Cruz,70701,Lagunillas,2010,9,Nro. Fallecidos,0
+Pando,90401,Nacebe (santa Rosa Del Abuna),2010,9,Nro. Fallecidos,0
+Beni,80304,Rurrenabaque,2010,9,Nro. Fallecidos,0
+Santa Cruz,70301,San Ignacio De Velasco,2010,9,Nro. Fallecidos,0
+Pando,90302,San Lorenzo(pnd),2010,9,Nro. Fallecidos,0
+Beni,80303,Santa Rosa,2010,9,Nro. Fallecidos,0
+Tarija,60101,Tarija,2010,9,Nro. Fallecidos,0
+Santa Cruz,70801,Vallegrande,2010,9,Nro. Fallecidos,0
+Potosí,50602,Vitichi,2010,9,Nro. Fallecidos,1
+Santa Cruz,70105,El Torno,2010,10,Nro. Fallecidos,0
+Tarija,60601,Entre Rios Trj,2010,10,Nro. Fallecidos,1
+Tarija,60201,Padcaya,2010,10,Nro. Fallecidos,4
+Santa Cruz,70103,Porongo,2010,10,Nro. Fallecidos,1
+Santa Cruz,70804,Postrer Valle,2010,10,Nro. Fallecidos,0
+Beni,80301,Reyes,2010,10,Nro. Fallecidos,0
+Tarija,60501,San Lorenzo(tja),2010,10,Nro. Fallecidos,0
+Santa Cruz,71501,Ascencion De Guarayos,2010,11,Nro. Fallecidos,0
+Santa Cruz,70703,Cabezas,2010,11,Nro. Fallecidos,0
+Santa Cruz,70105,El Torno,2010,11,Nro. Fallecidos,0
+Santa Cruz,70701,Lagunillas,2010,11,Nro. Fallecidos,0
+Chuquisaca,10702,San Lucas,2010,11,Nro. Fallecidos,2
+Santa Cruz,70801,Vallegrande,2010,11,Nro. Fallecidos,1
+Cochabamba,31003,Villa Tunari,2010,12,Nro. Fallecidos,1
+Santa Cruz,70105,El Torno,2010,1,TOTAL,1
+Beni,80301,Reyes,2010,2,TOTAL,6
+Oruro,41201,Andamarca,2010,3,TOTAL,2
+Santa Cruz,70401,Buena Vista,2010,3,TOTAL,9
+La Paz,21104,Palos Blancos,2010,3,TOTAL,9
+La Paz,21104,Palos Blancos,2010,4,TOTAL,7
+Beni,80201,Riberalta,2010,6,TOTAL,1
+Santa Cruz,71101,Concepcion,2010,7,TOTAL,21
+Santa Cruz,71503,El Puente(stc),2010,8,TOTAL,89
+Chuquisaca,11003,Machareti,2010,8,TOTAL,36
+Beni,80801,Magdalena,2010,8,TOTAL,12
+Beni,80201,Riberalta,2010,8,TOTAL,3
+Santa Cruz,70301,San Ignacio De Velasco,2010,8,TOTAL,31
+Chuquisaca,10702,San Lucas,2010,8,TOTAL,2
+Santa Cruz,70302,San Miguel De Velasco,2010,8,TOTAL,19
+Santa Cruz,70303,San Rafael,2010,8,TOTAL,9
+Tarija,60101,Tarija,2010,8,TOTAL,10
+Chuquisaca,10202,Tarvita,2010,8,TOTAL,6
+Santa Cruz,70801,Vallegrande,2010,8,TOTAL,4
+Pando,90104,Bella Flor,2010,9,TOTAL,20
+Santa Cruz,70105,El Torno,2010,9,TOTAL,3
+Pando,90203,Filadelfia,2010,9,TOTAL,9
+La Paz,21501,Ixiamas,2010,9,TOTAL,5
+Santa Cruz,70701,Lagunillas,2010,9,TOTAL,6
+Pando,90401,Nacebe (santa Rosa Del Abuna),2010,9,TOTAL,6
+Beni,80304,Rurrenabaque,2010,9,TOTAL,514
+Santa Cruz,70301,San Ignacio De Velasco,2010,9,TOTAL,3
+Pando,90302,San Lorenzo(pnd),2010,9,TOTAL,302
+Beni,80303,Santa Rosa,2010,9,TOTAL,6
+Tarija,60101,Tarija,2010,9,TOTAL,1
+Santa Cruz,70801,Vallegrande,2010,9,TOTAL,3
+Potosí,50602,Vitichi,2010,9,TOTAL,3
+Santa Cruz,70105,El Torno,2010,10,TOTAL,1
+Tarija,60601,Entre Rios Trj,2010,10,TOTAL,5
+Tarija,60201,Padcaya,2010,10,TOTAL,19
+Santa Cruz,70103,Porongo,2010,10,TOTAL,20
+Santa Cruz,70804,Postrer Valle,2010,10,TOTAL,52
+Beni,80301,Reyes,2010,10,TOTAL,7
+Tarija,60501,San Lorenzo(tja),2010,10,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2010,11,TOTAL,113
+Santa Cruz,70703,Cabezas,2010,11,TOTAL,17
+Santa Cruz,70105,El Torno,2010,11,TOTAL,2
+Santa Cruz,70701,Lagunillas,2010,11,TOTAL,70
+Chuquisaca,10702,San Lucas,2010,11,TOTAL,3
+Santa Cruz,70801,Vallegrande,2010,11,TOTAL,105
+Cochabamba,31003,Villa Tunari,2010,12,TOTAL,1

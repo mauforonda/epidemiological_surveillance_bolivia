@@ -1,0 +1,93 @@
+department,municipality_id,municipality,year,month,population,value
+Chuquisaca,10201,Azurduy,2015,1,a. Nro. Eventos,1
+Santa Cruz,70703,Cabezas,2015,1,a. Nro. Eventos,1
+Tarija,60502,El Puente(tja),2015,1,a. Nro. Eventos,2
+Potosí,51002,Mojinete,2015,1,a. Nro. Eventos,1
+Pando,90103,Bolpebra,2015,2,a. Nro. Eventos,1
+Santa Cruz,70705,Gutierrez,2015,2,a. Nro. Eventos,1
+Santa Cruz,70701,Lagunillas,2015,2,a. Nro. Eventos,1
+Santa Cruz,70703,Cabezas,2015,3,a. Nro. Eventos,1
+Santa Cruz,70702,Charagua,2015,3,a. Nro. Eventos,1
+Chuquisaca,10304,Icla,2015,3,a. Nro. Eventos,1
+Tarija,60202,Bermejo,2015,4,a. Nro. Eventos,1
+Santa Cruz,70703,Cabezas,2015,4,a. Nro. Eventos,4
+Santa Cruz,70701,Lagunillas,2015,4,a. Nro. Eventos,2
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2015,4,a. Nro. Eventos,2
+Cochabamba,31205,Puerto Villarroel,2015,5,a. Nro. Eventos,2
+Santa Cruz,70103,Porongo,2015,6,a. Nro. Eventos,3
+Tarija,60502,El Puente(tja),2015,11,a. Nro. Eventos,1
+Chuquisaca,10304,Icla,2015,11,a. Nro. Eventos,3
+Chuquisaca,10202,Tarvita,2015,11,a. Nro. Eventos,4
+Chuquisaca,10402,Tomina,2015,11,a. Nro. Eventos,2
+Chuquisaca,10301,Zudañez,2015,11,a. Nro. Eventos,1
+Tarija,60502,El Puente(tja),2015,12,a. Nro. Eventos,2
+Chuquisaca,10304,Icla,2015,12,a. Nro. Eventos,1
+Chuquisaca,10201,Azurduy,2015,1,b. Nro. Personas afectadas,32
+Santa Cruz,70703,Cabezas,2015,1,b. Nro. Personas afectadas,120
+Tarija,60502,El Puente(tja),2015,1,b. Nro. Personas afectadas,400
+Potosí,51002,Mojinete,2015,1,b. Nro. Personas afectadas,0
+Pando,90103,Bolpebra,2015,2,b. Nro. Personas afectadas,8
+Santa Cruz,70705,Gutierrez,2015,2,b. Nro. Personas afectadas,3
+Santa Cruz,70701,Lagunillas,2015,2,b. Nro. Personas afectadas,200
+Santa Cruz,70703,Cabezas,2015,3,b. Nro. Personas afectadas,4
+Santa Cruz,70702,Charagua,2015,3,b. Nro. Personas afectadas,3
+Chuquisaca,10304,Icla,2015,3,b. Nro. Personas afectadas,40
+Tarija,60202,Bermejo,2015,4,b. Nro. Personas afectadas,0
+Santa Cruz,70703,Cabezas,2015,4,b. Nro. Personas afectadas,40
+Santa Cruz,70701,Lagunillas,2015,4,b. Nro. Personas afectadas,700
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2015,4,b. Nro. Personas afectadas,122
+Cochabamba,31205,Puerto Villarroel,2015,5,b. Nro. Personas afectadas,35
+Santa Cruz,70103,Porongo,2015,6,b. Nro. Personas afectadas,5
+Tarija,60502,El Puente(tja),2015,11,b. Nro. Personas afectadas,0
+Chuquisaca,10304,Icla,2015,11,b. Nro. Personas afectadas,166
+Chuquisaca,10202,Tarvita,2015,11,b. Nro. Personas afectadas,190
+Chuquisaca,10402,Tomina,2015,11,b. Nro. Personas afectadas,17
+Chuquisaca,10301,Zudañez,2015,11,b. Nro. Personas afectadas,6
+Tarija,60502,El Puente(tja),2015,12,b. Nro. Personas afectadas,400
+Chuquisaca,10304,Icla,2015,12,b. Nro. Personas afectadas,21
+Chuquisaca,10201,Azurduy,2015,1,c. Nro. Personas fallecidas,0
+Santa Cruz,70703,Cabezas,2015,1,c. Nro. Personas fallecidas,0
+Tarija,60502,El Puente(tja),2015,1,c. Nro. Personas fallecidas,0
+Potosí,51002,Mojinete,2015,1,c. Nro. Personas fallecidas,0
+Pando,90103,Bolpebra,2015,2,c. Nro. Personas fallecidas,0
+Santa Cruz,70705,Gutierrez,2015,2,c. Nro. Personas fallecidas,0
+Santa Cruz,70701,Lagunillas,2015,2,c. Nro. Personas fallecidas,0
+Santa Cruz,70703,Cabezas,2015,3,c. Nro. Personas fallecidas,0
+Santa Cruz,70702,Charagua,2015,3,c. Nro. Personas fallecidas,1
+Chuquisaca,10304,Icla,2015,3,c. Nro. Personas fallecidas,0
+Tarija,60202,Bermejo,2015,4,c. Nro. Personas fallecidas,0
+Santa Cruz,70703,Cabezas,2015,4,c. Nro. Personas fallecidas,0
+Santa Cruz,70701,Lagunillas,2015,4,c. Nro. Personas fallecidas,0
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2015,4,c. Nro. Personas fallecidas,0
+Cochabamba,31205,Puerto Villarroel,2015,5,c. Nro. Personas fallecidas,0
+Santa Cruz,70103,Porongo,2015,6,c. Nro. Personas fallecidas,0
+Tarija,60502,El Puente(tja),2015,11,c. Nro. Personas fallecidas,0
+Chuquisaca,10304,Icla,2015,11,c. Nro. Personas fallecidas,0
+Chuquisaca,10202,Tarvita,2015,11,c. Nro. Personas fallecidas,0
+Chuquisaca,10402,Tomina,2015,11,c. Nro. Personas fallecidas,0
+Chuquisaca,10301,Zudañez,2015,11,c. Nro. Personas fallecidas,0
+Tarija,60502,El Puente(tja),2015,12,c. Nro. Personas fallecidas,0
+Chuquisaca,10304,Icla,2015,12,c. Nro. Personas fallecidas,0
+Chuquisaca,10201,Azurduy,2015,1,TOTAL,33
+Santa Cruz,70703,Cabezas,2015,1,TOTAL,121
+Tarija,60502,El Puente(tja),2015,1,TOTAL,402
+Potosí,51002,Mojinete,2015,1,TOTAL,1
+Pando,90103,Bolpebra,2015,2,TOTAL,9
+Santa Cruz,70705,Gutierrez,2015,2,TOTAL,4
+Santa Cruz,70701,Lagunillas,2015,2,TOTAL,201
+Santa Cruz,70703,Cabezas,2015,3,TOTAL,5
+Santa Cruz,70702,Charagua,2015,3,TOTAL,5
+Chuquisaca,10304,Icla,2015,3,TOTAL,41
+Tarija,60202,Bermejo,2015,4,TOTAL,1
+Santa Cruz,70703,Cabezas,2015,4,TOTAL,44
+Santa Cruz,70701,Lagunillas,2015,4,TOTAL,702
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2015,4,TOTAL,124
+Cochabamba,31205,Puerto Villarroel,2015,5,TOTAL,37
+Santa Cruz,70103,Porongo,2015,6,TOTAL,8
+Tarija,60502,El Puente(tja),2015,11,TOTAL,1
+Chuquisaca,10304,Icla,2015,11,TOTAL,169
+Chuquisaca,10202,Tarvita,2015,11,TOTAL,194
+Chuquisaca,10402,Tomina,2015,11,TOTAL,19
+Chuquisaca,10301,Zudañez,2015,11,TOTAL,7
+Tarija,60502,El Puente(tja),2015,12,TOTAL,402
+Chuquisaca,10304,Icla,2015,12,TOTAL,22

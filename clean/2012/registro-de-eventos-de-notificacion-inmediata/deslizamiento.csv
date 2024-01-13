@@ -1,0 +1,61 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,21005,Ichoca,2012,1,Nro.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,Nro.,0
+La Paz,20701,Apolo,2012,2,Nro.,2
+La Paz,21005,Ichoca,2012,2,Nro.,3
+La Paz,21001,Inquisivi,2012,2,Nro.,2
+La Paz,20101,La Paz,2012,2,Nro.,1
+La Paz,20601,Sorata,2012,2,Nro.,1
+La Paz,20105,El Alto,2012,3,Nro.,0
+La Paz,21005,Ichoca,2012,4,Nro.,1
+La Paz,20101,La Paz,2012,8,Nro.,1
+Potosí,50204,Chuquihuta Ayllu Jucumani,2012,12,Nro.,1
+La Paz,21601,Gral. J.j. Perez (charazani),2012,12,Nro.,1
+La Paz,21005,Ichoca,2012,12,Nro.,5
+Chuquisaca,10304,Icla,2012,12,Nro.,1
+Tarija,60402,Yunchara,2012,12,Nro.,1
+La Paz,21005,Ichoca,2012,1,Nro. Afectados,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,Nro. Afectados,0
+La Paz,20701,Apolo,2012,2,Nro. Afectados,0
+La Paz,21005,Ichoca,2012,2,Nro. Afectados,75
+La Paz,21001,Inquisivi,2012,2,Nro. Afectados,0
+La Paz,20101,La Paz,2012,2,Nro. Afectados,45
+La Paz,20601,Sorata,2012,2,Nro. Afectados,20
+La Paz,20105,El Alto,2012,3,Nro. Afectados,10
+La Paz,21005,Ichoca,2012,4,Nro. Afectados,30
+La Paz,20101,La Paz,2012,8,Nro. Afectados,0
+Potosí,50204,Chuquihuta Ayllu Jucumani,2012,12,Nro. Afectados,55
+La Paz,21601,Gral. J.j. Perez (charazani),2012,12,Nro. Afectados,2
+La Paz,21005,Ichoca,2012,12,Nro. Afectados,1179
+Chuquisaca,10304,Icla,2012,12,Nro. Afectados,240
+Tarija,60402,Yunchara,2012,12,Nro. Afectados,450
+La Paz,21005,Ichoca,2012,1,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,Nro. Fallecidos,0
+La Paz,20701,Apolo,2012,2,Nro. Fallecidos,0
+La Paz,21005,Ichoca,2012,2,Nro. Fallecidos,0
+La Paz,21001,Inquisivi,2012,2,Nro. Fallecidos,0
+La Paz,20101,La Paz,2012,2,Nro. Fallecidos,0
+La Paz,20601,Sorata,2012,2,Nro. Fallecidos,0
+La Paz,20105,El Alto,2012,3,Nro. Fallecidos,0
+La Paz,21005,Ichoca,2012,4,Nro. Fallecidos,0
+La Paz,20101,La Paz,2012,8,Nro. Fallecidos,0
+Potosí,50204,Chuquihuta Ayllu Jucumani,2012,12,Nro. Fallecidos,0
+La Paz,21601,Gral. J.j. Perez (charazani),2012,12,Nro. Fallecidos,1
+La Paz,21005,Ichoca,2012,12,Nro. Fallecidos,0
+Chuquisaca,10304,Icla,2012,12,Nro. Fallecidos,0
+Tarija,60402,Yunchara,2012,12,Nro. Fallecidos,0
+La Paz,21005,Ichoca,2012,1,TOTAL,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,TOTAL,0
+La Paz,20701,Apolo,2012,2,TOTAL,2
+La Paz,21005,Ichoca,2012,2,TOTAL,78
+La Paz,21001,Inquisivi,2012,2,TOTAL,2
+La Paz,20101,La Paz,2012,2,TOTAL,46
+La Paz,20601,Sorata,2012,2,TOTAL,21
+La Paz,20105,El Alto,2012,3,TOTAL,10
+La Paz,21005,Ichoca,2012,4,TOTAL,31
+La Paz,20101,La Paz,2012,8,TOTAL,1
+Potosí,50204,Chuquihuta Ayllu Jucumani,2012,12,TOTAL,56
+La Paz,21601,Gral. J.j. Perez (charazani),2012,12,TOTAL,4
+La Paz,21005,Ichoca,2012,12,TOTAL,1184
+Chuquisaca,10304,Icla,2012,12,TOTAL,241
+Tarija,60402,Yunchara,2012,12,TOTAL,451

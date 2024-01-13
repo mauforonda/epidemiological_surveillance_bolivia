@@ -1,0 +1,91 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,30903,Tiquipaya,2007,1,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2007,2,< de 1 ano,0
+Chuquisaca,10502,Huacareta,2007,2,< de 1 ano,0
+Cochabamba,30901,Quillacollo,2007,2,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2007,3,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,< de 1 ano,0
+Chuquisaca,10501,Monteagudo,2007,4,< de 1 ano,0
+Santa Cruz,71104,San Julian,2007,4,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,< de 1 ano,0
+Potosí,50701,Sacaca,2007,6,< de 1 ano,1
+Cochabamba,30101,Cochabamba,2007,7,< de 1 ano,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,7,< de 1 ano,0
+Cochabamba,30702,Santivañes,2007,9,< de 1 ano,0
+Chuquisaca,10401,Padilla,2007,11,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2007,12,< de 1 ano,0
+Cochabamba,30903,Tiquipaya,2007,1,1 a 4 anos,1
+Cochabamba,30101,Cochabamba,2007,2,1 a 4 anos,1
+Chuquisaca,10502,Huacareta,2007,2,1 a 4 anos,0
+Cochabamba,30901,Quillacollo,2007,2,1 a 4 anos,1
+Cochabamba,30101,Cochabamba,2007,3,1 a 4 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,1 a 4 anos,1
+Chuquisaca,10501,Monteagudo,2007,4,1 a 4 anos,1
+Santa Cruz,71104,San Julian,2007,4,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,1 a 4 anos,0
+Potosí,50701,Sacaca,2007,6,1 a 4 anos,0
+Cochabamba,30101,Cochabamba,2007,7,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,7,1 a 4 anos,0
+Cochabamba,30702,Santivañes,2007,9,1 a 4 anos,1
+Chuquisaca,10401,Padilla,2007,11,1 a 4 anos,0
+Cochabamba,30101,Cochabamba,2007,12,1 a 4 anos,1
+Cochabamba,30903,Tiquipaya,2007,1,5 a 14 anos,0
+Cochabamba,30101,Cochabamba,2007,2,5 a 14 anos,0
+Chuquisaca,10502,Huacareta,2007,2,5 a 14 anos,0
+Cochabamba,30901,Quillacollo,2007,2,5 a 14 anos,0
+Cochabamba,30101,Cochabamba,2007,3,5 a 14 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,5 a 14 anos,0
+Chuquisaca,10501,Monteagudo,2007,4,5 a 14 anos,0
+Santa Cruz,71104,San Julian,2007,4,5 a 14 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,5 a 14 anos,1
+Potosí,50701,Sacaca,2007,6,5 a 14 anos,0
+Cochabamba,30101,Cochabamba,2007,7,5 a 14 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,7,5 a 14 anos,1
+Cochabamba,30702,Santivañes,2007,9,5 a 14 anos,0
+Chuquisaca,10401,Padilla,2007,11,5 a 14 anos,1
+Cochabamba,30101,Cochabamba,2007,12,5 a 14 anos,0
+Cochabamba,30903,Tiquipaya,2007,1,15 a 59 anos,0
+Cochabamba,30101,Cochabamba,2007,2,15 a 59 anos,0
+Chuquisaca,10502,Huacareta,2007,2,15 a 59 anos,1
+Cochabamba,30901,Quillacollo,2007,2,15 a 59 anos,0
+Cochabamba,30101,Cochabamba,2007,3,15 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,15 a 59 anos,0
+Chuquisaca,10501,Monteagudo,2007,4,15 a 59 anos,0
+Santa Cruz,71104,San Julian,2007,4,15 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,15 a 59 anos,0
+Potosí,50701,Sacaca,2007,6,15 a 59 anos,0
+Cochabamba,30101,Cochabamba,2007,7,15 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,7,15 a 59 anos,0
+Cochabamba,30702,Santivañes,2007,9,15 a 59 anos,0
+Chuquisaca,10401,Padilla,2007,11,15 a 59 anos,0
+Cochabamba,30101,Cochabamba,2007,12,15 a 59 anos,0
+Cochabamba,30903,Tiquipaya,2007,1,60 y mas,0
+Cochabamba,30101,Cochabamba,2007,2,60 y mas,0
+Chuquisaca,10502,Huacareta,2007,2,60 y mas,0
+Cochabamba,30901,Quillacollo,2007,2,60 y mas,0
+Cochabamba,30101,Cochabamba,2007,3,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,60 y mas,0
+Chuquisaca,10501,Monteagudo,2007,4,60 y mas,0
+Santa Cruz,71104,San Julian,2007,4,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,60 y mas,0
+Potosí,50701,Sacaca,2007,6,60 y mas,0
+Cochabamba,30101,Cochabamba,2007,7,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,7,60 y mas,0
+Cochabamba,30702,Santivañes,2007,9,60 y mas,0
+Chuquisaca,10401,Padilla,2007,11,60 y mas,0
+Cochabamba,30101,Cochabamba,2007,12,60 y mas,0
+Cochabamba,30903,Tiquipaya,2007,1,TOTAL,1
+Cochabamba,30101,Cochabamba,2007,2,TOTAL,1
+Chuquisaca,10502,Huacareta,2007,2,TOTAL,1
+Cochabamba,30901,Quillacollo,2007,2,TOTAL,1
+Cochabamba,30101,Cochabamba,2007,3,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,TOTAL,1
+Chuquisaca,10501,Monteagudo,2007,4,TOTAL,1
+Santa Cruz,71104,San Julian,2007,4,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,TOTAL,1
+Potosí,50701,Sacaca,2007,6,TOTAL,1
+Cochabamba,30101,Cochabamba,2007,7,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,7,TOTAL,1
+Cochabamba,30702,Santivañes,2007,9,TOTAL,1
+Chuquisaca,10401,Padilla,2007,11,TOTAL,1
+Cochabamba,30101,Cochabamba,2007,12,TOTAL,1

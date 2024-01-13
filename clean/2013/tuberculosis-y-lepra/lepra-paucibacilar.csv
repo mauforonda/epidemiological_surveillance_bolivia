@@ -1,0 +1,421 @@
+department,municipality_id,municipality,year,month,population,value
+Beni,80303,Santa Rosa,2013,1,< de 1 ano / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2013,1,< de 1 ano / MASCULINO,0
+Tarija,60202,Bermejo,2013,2,< de 1 ano / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,2,< de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,3,< de 1 ano / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,3,< de 1 ano / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2013,3,< de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,4,< de 1 ano / MASCULINO,0
+Santa Cruz,71005,San Pedro,2013,4,< de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,5,< de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,6,< de 1 ano / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,6,< de 1 ano / MASCULINO,0
+Pando,90101,Cobija,2013,7,< de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,7,< de 1 ano / MASCULINO,0
+Beni,80201,Riberalta,2013,7,< de 1 ano / MASCULINO,0
+Pando,90101,Cobija,2013,8,< de 1 ano / MASCULINO,0
+Cochabamba,30101,Cochabamba,2013,8,< de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,8,< de 1 ano / MASCULINO,0
+Cochabamba,30101,Cochabamba,2013,9,< de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,9,< de 1 ano / MASCULINO,0
+Santa Cruz,71401,Puerto Suarez,2013,9,< de 1 ano / MASCULINO,0
+Beni,80401,Santa Ana,2013,9,< de 1 ano / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2013,9,< de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,10,< de 1 ano / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,10,< de 1 ano / MASCULINO,0
+Santa Cruz,71104,San Julian,2013,10,< de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,11,< de 1 ano / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,11,< de 1 ano / MASCULINO,0
+Beni,80303,Santa Rosa,2013,1,< de 1 ano / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2013,1,< de 1 ano / FEMENINO,0
+Tarija,60202,Bermejo,2013,2,< de 1 ano / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,2,< de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,3,< de 1 ano / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,3,< de 1 ano / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2013,3,< de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,4,< de 1 ano / FEMENINO,0
+Santa Cruz,71005,San Pedro,2013,4,< de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,5,< de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,6,< de 1 ano / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,6,< de 1 ano / FEMENINO,0
+Pando,90101,Cobija,2013,7,< de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,7,< de 1 ano / FEMENINO,0
+Beni,80201,Riberalta,2013,7,< de 1 ano / FEMENINO,0
+Pando,90101,Cobija,2013,8,< de 1 ano / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,8,< de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,8,< de 1 ano / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,9,< de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,9,< de 1 ano / FEMENINO,0
+Santa Cruz,71401,Puerto Suarez,2013,9,< de 1 ano / FEMENINO,0
+Beni,80401,Santa Ana,2013,9,< de 1 ano / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2013,9,< de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,10,< de 1 ano / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,10,< de 1 ano / FEMENINO,0
+Santa Cruz,71104,San Julian,2013,10,< de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,11,< de 1 ano / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,11,< de 1 ano / FEMENINO,0
+Beni,80303,Santa Rosa,2013,1,1 a 4 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2013,1,1 a 4 anos / MASCULINO,0
+Tarija,60202,Bermejo,2013,2,1 a 4 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,2,1 a 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,3,1 a 4 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,3,1 a 4 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2013,3,1 a 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,4,1 a 4 anos / MASCULINO,0
+Santa Cruz,71005,San Pedro,2013,4,1 a 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,5,1 a 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,6,1 a 4 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,6,1 a 4 anos / MASCULINO,0
+Pando,90101,Cobija,2013,7,1 a 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,7,1 a 4 anos / MASCULINO,0
+Beni,80201,Riberalta,2013,7,1 a 4 anos / MASCULINO,0
+Pando,90101,Cobija,2013,8,1 a 4 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2013,8,1 a 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,8,1 a 4 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2013,9,1 a 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,9,1 a 4 anos / MASCULINO,0
+Santa Cruz,71401,Puerto Suarez,2013,9,1 a 4 anos / MASCULINO,0
+Beni,80401,Santa Ana,2013,9,1 a 4 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2013,9,1 a 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,10,1 a 4 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,10,1 a 4 anos / MASCULINO,0
+Santa Cruz,71104,San Julian,2013,10,1 a 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,11,1 a 4 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,11,1 a 4 anos / MASCULINO,0
+Beni,80303,Santa Rosa,2013,1,1 a 4 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2013,1,1 a 4 anos / FEMENINO,0
+Tarija,60202,Bermejo,2013,2,1 a 4 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,2,1 a 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,3,1 a 4 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,3,1 a 4 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2013,3,1 a 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,4,1 a 4 anos / FEMENINO,0
+Santa Cruz,71005,San Pedro,2013,4,1 a 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,5,1 a 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,6,1 a 4 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,6,1 a 4 anos / FEMENINO,0
+Pando,90101,Cobija,2013,7,1 a 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,7,1 a 4 anos / FEMENINO,0
+Beni,80201,Riberalta,2013,7,1 a 4 anos / FEMENINO,0
+Pando,90101,Cobija,2013,8,1 a 4 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,8,1 a 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,8,1 a 4 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,9,1 a 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,9,1 a 4 anos / FEMENINO,0
+Santa Cruz,71401,Puerto Suarez,2013,9,1 a 4 anos / FEMENINO,0
+Beni,80401,Santa Ana,2013,9,1 a 4 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2013,9,1 a 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,10,1 a 4 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,10,1 a 4 anos / FEMENINO,0
+Santa Cruz,71104,San Julian,2013,10,1 a 4 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2013,11,1 a 4 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,11,1 a 4 anos / FEMENINO,0
+Beni,80303,Santa Rosa,2013,1,5 a 9 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2013,1,5 a 9 anos / MASCULINO,0
+Tarija,60202,Bermejo,2013,2,5 a 9 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,2,5 a 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,3,5 a 9 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,3,5 a 9 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2013,3,5 a 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,4,5 a 9 anos / MASCULINO,0
+Santa Cruz,71005,San Pedro,2013,4,5 a 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,5,5 a 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,6,5 a 9 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,6,5 a 9 anos / MASCULINO,0
+Pando,90101,Cobija,2013,7,5 a 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,7,5 a 9 anos / MASCULINO,0
+Beni,80201,Riberalta,2013,7,5 a 9 anos / MASCULINO,0
+Pando,90101,Cobija,2013,8,5 a 9 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2013,8,5 a 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,8,5 a 9 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2013,9,5 a 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,9,5 a 9 anos / MASCULINO,0
+Santa Cruz,71401,Puerto Suarez,2013,9,5 a 9 anos / MASCULINO,0
+Beni,80401,Santa Ana,2013,9,5 a 9 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2013,9,5 a 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,10,5 a 9 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,10,5 a 9 anos / MASCULINO,0
+Santa Cruz,71104,San Julian,2013,10,5 a 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,11,5 a 9 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,11,5 a 9 anos / MASCULINO,0
+Beni,80303,Santa Rosa,2013,1,5 a 9 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2013,1,5 a 9 anos / FEMENINO,0
+Tarija,60202,Bermejo,2013,2,5 a 9 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,2,5 a 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,3,5 a 9 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,3,5 a 9 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2013,3,5 a 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,4,5 a 9 anos / FEMENINO,0
+Santa Cruz,71005,San Pedro,2013,4,5 a 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,5,5 a 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,6,5 a 9 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,6,5 a 9 anos / FEMENINO,0
+Pando,90101,Cobija,2013,7,5 a 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,7,5 a 9 anos / FEMENINO,0
+Beni,80201,Riberalta,2013,7,5 a 9 anos / FEMENINO,0
+Pando,90101,Cobija,2013,8,5 a 9 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,8,5 a 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,8,5 a 9 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,9,5 a 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,9,5 a 9 anos / FEMENINO,0
+Santa Cruz,71401,Puerto Suarez,2013,9,5 a 9 anos / FEMENINO,0
+Beni,80401,Santa Ana,2013,9,5 a 9 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2013,9,5 a 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,10,5 a 9 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,10,5 a 9 anos / FEMENINO,0
+Santa Cruz,71104,San Julian,2013,10,5 a 9 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2013,11,5 a 9 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,11,5 a 9 anos / FEMENINO,0
+Beni,80303,Santa Rosa,2013,1,10 a 20 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2013,1,10 a 20 anos / MASCULINO,0
+Tarija,60202,Bermejo,2013,2,10 a 20 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,2,10 a 20 anos / MASCULINO,1
+Santa Cruz,70105,El Torno,2013,3,10 a 20 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,3,10 a 20 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2013,3,10 a 20 anos / MASCULINO,1
+Santa Cruz,70105,El Torno,2013,4,10 a 20 anos / MASCULINO,0
+Santa Cruz,71005,San Pedro,2013,4,10 a 20 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,5,10 a 20 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,6,10 a 20 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,6,10 a 20 anos / MASCULINO,0
+Pando,90101,Cobija,2013,7,10 a 20 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,7,10 a 20 anos / MASCULINO,0
+Beni,80201,Riberalta,2013,7,10 a 20 anos / MASCULINO,1
+Pando,90101,Cobija,2013,8,10 a 20 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2013,8,10 a 20 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,8,10 a 20 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2013,9,10 a 20 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,9,10 a 20 anos / MASCULINO,0
+Santa Cruz,71401,Puerto Suarez,2013,9,10 a 20 anos / MASCULINO,0
+Beni,80401,Santa Ana,2013,9,10 a 20 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2013,9,10 a 20 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,10,10 a 20 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,10,10 a 20 anos / MASCULINO,0
+Santa Cruz,71104,San Julian,2013,10,10 a 20 anos / MASCULINO,2
+Santa Cruz,70105,El Torno,2013,11,10 a 20 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,11,10 a 20 anos / MASCULINO,1
+Beni,80303,Santa Rosa,2013,1,10 a 20 anos / FEMENINO,1
+Cochabamba,31003,Villa Tunari,2013,1,10 a 20 anos / FEMENINO,0
+Tarija,60202,Bermejo,2013,2,10 a 20 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,2,10 a 20 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,3,10 a 20 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,3,10 a 20 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2013,3,10 a 20 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,4,10 a 20 anos / FEMENINO,0
+Santa Cruz,71005,San Pedro,2013,4,10 a 20 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,5,10 a 20 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,6,10 a 20 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,6,10 a 20 anos / FEMENINO,0
+Pando,90101,Cobija,2013,7,10 a 20 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,7,10 a 20 anos / FEMENINO,0
+Beni,80201,Riberalta,2013,7,10 a 20 anos / FEMENINO,0
+Pando,90101,Cobija,2013,8,10 a 20 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,8,10 a 20 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,8,10 a 20 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,9,10 a 20 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,9,10 a 20 anos / FEMENINO,0
+Santa Cruz,71401,Puerto Suarez,2013,9,10 a 20 anos / FEMENINO,1
+Beni,80401,Santa Ana,2013,9,10 a 20 anos / FEMENINO,1
+Cochabamba,31003,Villa Tunari,2013,9,10 a 20 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,10,10 a 20 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,10,10 a 20 anos / FEMENINO,0
+Santa Cruz,71104,San Julian,2013,10,10 a 20 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,11,10 a 20 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,11,10 a 20 anos / FEMENINO,0
+Beni,80303,Santa Rosa,2013,1,21 a 59 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2013,1,21 a 59 anos / MASCULINO,0
+Tarija,60202,Bermejo,2013,2,21 a 59 anos / MASCULINO,1
+Chuquisaca,10501,Monteagudo,2013,2,21 a 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,3,21 a 59 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,3,21 a 59 anos / MASCULINO,1
+Cochabamba,31003,Villa Tunari,2013,3,21 a 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,4,21 a 59 anos / MASCULINO,0
+Santa Cruz,71005,San Pedro,2013,4,21 a 59 anos / MASCULINO,2
+Santa Cruz,70105,El Torno,2013,5,21 a 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,6,21 a 59 anos / MASCULINO,1
+Chuquisaca,10501,Monteagudo,2013,6,21 a 59 anos / MASCULINO,1
+Pando,90101,Cobija,2013,7,21 a 59 anos / MASCULINO,1
+Santa Cruz,70105,El Torno,2013,7,21 a 59 anos / MASCULINO,0
+Beni,80201,Riberalta,2013,7,21 a 59 anos / MASCULINO,1
+Pando,90101,Cobija,2013,8,21 a 59 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2013,8,21 a 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,8,21 a 59 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2013,9,21 a 59 anos / MASCULINO,1
+Santa Cruz,70105,El Torno,2013,9,21 a 59 anos / MASCULINO,2
+Santa Cruz,71401,Puerto Suarez,2013,9,21 a 59 anos / MASCULINO,3
+Beni,80401,Santa Ana,2013,9,21 a 59 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2013,9,21 a 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,10,21 a 59 anos / MASCULINO,3
+Chuquisaca,10501,Monteagudo,2013,10,21 a 59 anos / MASCULINO,1
+Santa Cruz,71104,San Julian,2013,10,21 a 59 anos / MASCULINO,5
+Santa Cruz,70105,El Torno,2013,11,21 a 59 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,11,21 a 59 anos / MASCULINO,0
+Beni,80303,Santa Rosa,2013,1,21 a 59 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2013,1,21 a 59 anos / FEMENINO,0
+Tarija,60202,Bermejo,2013,2,21 a 59 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,2,21 a 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,3,21 a 59 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,3,21 a 59 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2013,3,21 a 59 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2013,4,21 a 59 anos / FEMENINO,1
+Santa Cruz,71005,San Pedro,2013,4,21 a 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,5,21 a 59 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2013,6,21 a 59 anos / FEMENINO,1
+Chuquisaca,10501,Monteagudo,2013,6,21 a 59 anos / FEMENINO,1
+Pando,90101,Cobija,2013,7,21 a 59 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2013,7,21 a 59 anos / FEMENINO,0
+Beni,80201,Riberalta,2013,7,21 a 59 anos / FEMENINO,0
+Pando,90101,Cobija,2013,8,21 a 59 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,8,21 a 59 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2013,8,21 a 59 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,9,21 a 59 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2013,9,21 a 59 anos / FEMENINO,0
+Santa Cruz,71401,Puerto Suarez,2013,9,21 a 59 anos / FEMENINO,0
+Beni,80401,Santa Ana,2013,9,21 a 59 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2013,9,21 a 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,10,21 a 59 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,10,21 a 59 anos / FEMENINO,0
+Santa Cruz,71104,San Julian,2013,10,21 a 59 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2013,11,21 a 59 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,11,21 a 59 anos / FEMENINO,1
+Beni,80303,Santa Rosa,2013,1,60 y mas / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2013,1,60 y mas / MASCULINO,0
+Tarija,60202,Bermejo,2013,2,60 y mas / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,2,60 y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,3,60 y mas / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,3,60 y mas / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2013,3,60 y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,4,60 y mas / MASCULINO,1
+Santa Cruz,71005,San Pedro,2013,4,60 y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,5,60 y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,6,60 y mas / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,6,60 y mas / MASCULINO,0
+Pando,90101,Cobija,2013,7,60 y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,7,60 y mas / MASCULINO,0
+Beni,80201,Riberalta,2013,7,60 y mas / MASCULINO,1
+Pando,90101,Cobija,2013,8,60 y mas / MASCULINO,1
+Cochabamba,30101,Cochabamba,2013,8,60 y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,8,60 y mas / MASCULINO,2
+Cochabamba,30101,Cochabamba,2013,9,60 y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,9,60 y mas / MASCULINO,0
+Santa Cruz,71401,Puerto Suarez,2013,9,60 y mas / MASCULINO,0
+Beni,80401,Santa Ana,2013,9,60 y mas / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2013,9,60 y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,10,60 y mas / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,10,60 y mas / MASCULINO,0
+Santa Cruz,71104,San Julian,2013,10,60 y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2013,11,60 y mas / MASCULINO,1
+Chuquisaca,10501,Monteagudo,2013,11,60 y mas / MASCULINO,0
+Beni,80303,Santa Rosa,2013,1,60 y mas / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2013,1,60 y mas / FEMENINO,0
+Tarija,60202,Bermejo,2013,2,60 y mas / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,2,60 y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,3,60 y mas / FEMENINO,1
+Chuquisaca,10501,Monteagudo,2013,3,60 y mas / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2013,3,60 y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,4,60 y mas / FEMENINO,0
+Santa Cruz,71005,San Pedro,2013,4,60 y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,5,60 y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,6,60 y mas / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,6,60 y mas / FEMENINO,0
+Pando,90101,Cobija,2013,7,60 y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,7,60 y mas / FEMENINO,1
+Beni,80201,Riberalta,2013,7,60 y mas / FEMENINO,0
+Pando,90101,Cobija,2013,8,60 y mas / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,8,60 y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,8,60 y mas / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,9,60 y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,9,60 y mas / FEMENINO,0
+Santa Cruz,71401,Puerto Suarez,2013,9,60 y mas / FEMENINO,0
+Beni,80401,Santa Ana,2013,9,60 y mas / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2013,9,60 y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,10,60 y mas / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,10,60 y mas / FEMENINO,0
+Santa Cruz,71104,San Julian,2013,10,60 y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2013,11,60 y mas / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,11,60 y mas / FEMENINO,0
+Beni,80303,Santa Rosa,2013,1,TOTALES / TOTAL-M,0
+Cochabamba,31003,Villa Tunari,2013,1,TOTALES / TOTAL-M,0
+Tarija,60202,Bermejo,2013,2,TOTALES / TOTAL-M,1
+Chuquisaca,10501,Monteagudo,2013,2,TOTALES / TOTAL-M,1
+Santa Cruz,70105,El Torno,2013,3,TOTALES / TOTAL-M,0
+Chuquisaca,10501,Monteagudo,2013,3,TOTALES / TOTAL-M,1
+Cochabamba,31003,Villa Tunari,2013,3,TOTALES / TOTAL-M,1
+Santa Cruz,70105,El Torno,2013,4,TOTALES / TOTAL-M,1
+Santa Cruz,71005,San Pedro,2013,4,TOTALES / TOTAL-M,2
+Santa Cruz,70105,El Torno,2013,5,TOTALES / TOTAL-M,0
+Santa Cruz,70105,El Torno,2013,6,TOTALES / TOTAL-M,1
+Chuquisaca,10501,Monteagudo,2013,6,TOTALES / TOTAL-M,1
+Pando,90101,Cobija,2013,7,TOTALES / TOTAL-M,1
+Santa Cruz,70105,El Torno,2013,7,TOTALES / TOTAL-M,0
+Beni,80201,Riberalta,2013,7,TOTALES / TOTAL-M,3
+Pando,90101,Cobija,2013,8,TOTALES / TOTAL-M,1
+Cochabamba,30101,Cochabamba,2013,8,TOTALES / TOTAL-M,0
+Santa Cruz,70105,El Torno,2013,8,TOTALES / TOTAL-M,2
+Cochabamba,30101,Cochabamba,2013,9,TOTALES / TOTAL-M,1
+Santa Cruz,70105,El Torno,2013,9,TOTALES / TOTAL-M,2
+Santa Cruz,71401,Puerto Suarez,2013,9,TOTALES / TOTAL-M,3
+Beni,80401,Santa Ana,2013,9,TOTALES / TOTAL-M,0
+Cochabamba,31003,Villa Tunari,2013,9,TOTALES / TOTAL-M,0
+Santa Cruz,70105,El Torno,2013,10,TOTALES / TOTAL-M,3
+Chuquisaca,10501,Monteagudo,2013,10,TOTALES / TOTAL-M,1
+Santa Cruz,71104,San Julian,2013,10,TOTALES / TOTAL-M,7
+Santa Cruz,70105,El Torno,2013,11,TOTALES / TOTAL-M,1
+Chuquisaca,10501,Monteagudo,2013,11,TOTALES / TOTAL-M,1
+Beni,80303,Santa Rosa,2013,1,TOTALES / TOTAL-F,1
+Cochabamba,31003,Villa Tunari,2013,1,TOTALES / TOTAL-F,0
+Tarija,60202,Bermejo,2013,2,TOTALES / TOTAL-F,0
+Chuquisaca,10501,Monteagudo,2013,2,TOTALES / TOTAL-F,0
+Santa Cruz,70105,El Torno,2013,3,TOTALES / TOTAL-F,1
+Chuquisaca,10501,Monteagudo,2013,3,TOTALES / TOTAL-F,0
+Cochabamba,31003,Villa Tunari,2013,3,TOTALES / TOTAL-F,1
+Santa Cruz,70105,El Torno,2013,4,TOTALES / TOTAL-F,1
+Santa Cruz,71005,San Pedro,2013,4,TOTALES / TOTAL-F,0
+Santa Cruz,70105,El Torno,2013,5,TOTALES / TOTAL-F,1
+Santa Cruz,70105,El Torno,2013,6,TOTALES / TOTAL-F,1
+Chuquisaca,10501,Monteagudo,2013,6,TOTALES / TOTAL-F,1
+Pando,90101,Cobija,2013,7,TOTALES / TOTAL-F,1
+Santa Cruz,70105,El Torno,2013,7,TOTALES / TOTAL-F,1
+Beni,80201,Riberalta,2013,7,TOTALES / TOTAL-F,0
+Pando,90101,Cobija,2013,8,TOTALES / TOTAL-F,0
+Cochabamba,30101,Cochabamba,2013,8,TOTALES / TOTAL-F,1
+Santa Cruz,70105,El Torno,2013,8,TOTALES / TOTAL-F,0
+Cochabamba,30101,Cochabamba,2013,9,TOTALES / TOTAL-F,1
+Santa Cruz,70105,El Torno,2013,9,TOTALES / TOTAL-F,0
+Santa Cruz,71401,Puerto Suarez,2013,9,TOTALES / TOTAL-F,1
+Beni,80401,Santa Ana,2013,9,TOTALES / TOTAL-F,1
+Cochabamba,31003,Villa Tunari,2013,9,TOTALES / TOTAL-F,0
+Santa Cruz,70105,El Torno,2013,10,TOTALES / TOTAL-F,0
+Chuquisaca,10501,Monteagudo,2013,10,TOTALES / TOTAL-F,0
+Santa Cruz,71104,San Julian,2013,10,TOTALES / TOTAL-F,3
+Santa Cruz,70105,El Torno,2013,11,TOTALES / TOTAL-F,0
+Chuquisaca,10501,Monteagudo,2013,11,TOTALES / TOTAL-F,1
+Beni,80303,Santa Rosa,2013,1,TOTALES / TOTAL,1
+Cochabamba,31003,Villa Tunari,2013,1,TOTALES / TOTAL,0
+Tarija,60202,Bermejo,2013,2,TOTALES / TOTAL,1
+Chuquisaca,10501,Monteagudo,2013,2,TOTALES / TOTAL,1
+Santa Cruz,70105,El Torno,2013,3,TOTALES / TOTAL,1
+Chuquisaca,10501,Monteagudo,2013,3,TOTALES / TOTAL,1
+Cochabamba,31003,Villa Tunari,2013,3,TOTALES / TOTAL,2
+Santa Cruz,70105,El Torno,2013,4,TOTALES / TOTAL,2
+Santa Cruz,71005,San Pedro,2013,4,TOTALES / TOTAL,2
+Santa Cruz,70105,El Torno,2013,5,TOTALES / TOTAL,1
+Santa Cruz,70105,El Torno,2013,6,TOTALES / TOTAL,2
+Chuquisaca,10501,Monteagudo,2013,6,TOTALES / TOTAL,2
+Pando,90101,Cobija,2013,7,TOTALES / TOTAL,2
+Santa Cruz,70105,El Torno,2013,7,TOTALES / TOTAL,1
+Beni,80201,Riberalta,2013,7,TOTALES / TOTAL,3
+Pando,90101,Cobija,2013,8,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2013,8,TOTALES / TOTAL,1
+Santa Cruz,70105,El Torno,2013,8,TOTALES / TOTAL,2
+Cochabamba,30101,Cochabamba,2013,9,TOTALES / TOTAL,2
+Santa Cruz,70105,El Torno,2013,9,TOTALES / TOTAL,2
+Santa Cruz,71401,Puerto Suarez,2013,9,TOTALES / TOTAL,4
+Beni,80401,Santa Ana,2013,9,TOTALES / TOTAL,1
+Cochabamba,31003,Villa Tunari,2013,9,TOTALES / TOTAL,0
+Santa Cruz,70105,El Torno,2013,10,TOTALES / TOTAL,3
+Chuquisaca,10501,Monteagudo,2013,10,TOTALES / TOTAL,1
+Santa Cruz,71104,San Julian,2013,10,TOTALES / TOTAL,10
+Santa Cruz,70105,El Torno,2013,11,TOTALES / TOTAL,1
+Chuquisaca,10501,Monteagudo,2013,11,TOTALES / TOTAL,2

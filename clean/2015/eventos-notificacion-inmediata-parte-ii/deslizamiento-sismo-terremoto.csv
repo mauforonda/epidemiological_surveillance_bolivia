@@ -1,0 +1,37 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20101,La Paz,2015,1,a. Nro. Eventos,1
+Potosí,51501,Villazon,2015,1,a. Nro. Eventos,1
+Potosí,50601,Cotagaita,2015,2,a. Nro. Eventos,1
+La Paz,20101,La Paz,2015,2,a. Nro. Eventos,1
+Chuquisaca,10501,Monteagudo,2015,2,a. Nro. Eventos,0
+Tarija,60601,Entre Rios Trj,2015,3,a. Nro. Eventos,3
+Chuquisaca,10701,Camargo,2015,4,a. Nro. Eventos,1
+La Paz,20101,La Paz,2015,6,a. Nro. Eventos,1
+La Paz,20607,Mapiri,2015,12,a. Nro. Eventos,1
+La Paz,20101,La Paz,2015,1,b. Nro. Personas afectadas,0
+Potosí,51501,Villazon,2015,1,b. Nro. Personas afectadas,0
+Potosí,50601,Cotagaita,2015,2,b. Nro. Personas afectadas,0
+La Paz,20101,La Paz,2015,2,b. Nro. Personas afectadas,47
+Chuquisaca,10501,Monteagudo,2015,2,b. Nro. Personas afectadas,33
+Tarija,60601,Entre Rios Trj,2015,3,b. Nro. Personas afectadas,21
+Chuquisaca,10701,Camargo,2015,4,b. Nro. Personas afectadas,5
+La Paz,20101,La Paz,2015,6,b. Nro. Personas afectadas,65
+La Paz,20607,Mapiri,2015,12,b. Nro. Personas afectadas,18
+La Paz,20101,La Paz,2015,1,c. Nro. Personas fallecidas,0
+Potosí,51501,Villazon,2015,1,c. Nro. Personas fallecidas,0
+Potosí,50601,Cotagaita,2015,2,c. Nro. Personas fallecidas,0
+La Paz,20101,La Paz,2015,2,c. Nro. Personas fallecidas,0
+Chuquisaca,10501,Monteagudo,2015,2,c. Nro. Personas fallecidas,0
+Tarija,60601,Entre Rios Trj,2015,3,c. Nro. Personas fallecidas,0
+Chuquisaca,10701,Camargo,2015,4,c. Nro. Personas fallecidas,0
+La Paz,20101,La Paz,2015,6,c. Nro. Personas fallecidas,0
+La Paz,20607,Mapiri,2015,12,c. Nro. Personas fallecidas,1
+La Paz,20101,La Paz,2015,1,TOTAL,1
+Potosí,51501,Villazon,2015,1,TOTAL,1
+Potosí,50601,Cotagaita,2015,2,TOTAL,1
+La Paz,20101,La Paz,2015,2,TOTAL,48
+Chuquisaca,10501,Monteagudo,2015,2,TOTAL,33
+Tarija,60601,Entre Rios Trj,2015,3,TOTAL,24
+Chuquisaca,10701,Camargo,2015,4,TOTAL,6
+La Paz,20101,La Paz,2015,6,TOTAL,66
+La Paz,20607,Mapiri,2015,12,TOTAL,20

@@ -1,0 +1,137 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,Nro.,0
+Cochabamba,30401,Tarata,2011,1,Nro.,1
+Tarija,60101,Tarija,2011,1,Nro.,1
+Chuquisaca,10202,Tarvita,2011,1,Nro.,1
+Potosí,51501,Villazon,2011,1,Nro.,1
+Tarija,60202,Bermejo,2011,2,Nro.,2
+Potosí,50301,Betanzos,2011,2,Nro.,1
+La Paz,20501,Chuma,2011,2,Nro.,1
+La Paz,21401,Coroico,2011,2,Nro.,1
+Chuquisaca,10304,Icla,2011,2,Nro.,1
+La Paz,21001,Inquisivi,2011,2,Nro.,1
+La Paz,20103,Mecapaca,2011,2,Nro.,1
+Chuquisaca,10501,Monteagudo,2011,2,Nro.,1
+Tarija,60201,Padcaya,2011,2,Nro.,2
+La Paz,21002,Quime,2011,2,Nro.,1
+Beni,80304,Rurrenabaque,2011,2,Nro.,1
+Cochabamba,31001,Sacaba,2011,2,Nro.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,Nro.,0
+Cochabamba,31003,Villa Tunari,2011,2,Nro.,1
+Potosí,51501,Villazon,2011,2,Nro.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,Nro.,0
+Potosí,50102,Tinguipaya,2011,3,Nro.,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,Nro.,0
+Santa Cruz,70702,Charagua,2011,12,Nro.,1
+Tarija,60502,El Puente(tja),2011,12,Nro.,1
+La Paz,21005,Ichoca,2011,12,Nro.,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,Nro. Afectados,0
+Cochabamba,30401,Tarata,2011,1,Nro. Afectados,0
+Tarija,60101,Tarija,2011,1,Nro. Afectados,15
+Chuquisaca,10202,Tarvita,2011,1,Nro. Afectados,47
+Potosí,51501,Villazon,2011,1,Nro. Afectados,37
+Tarija,60202,Bermejo,2011,2,Nro. Afectados,2
+Potosí,50301,Betanzos,2011,2,Nro. Afectados,15
+La Paz,20501,Chuma,2011,2,Nro. Afectados,0
+La Paz,21401,Coroico,2011,2,Nro. Afectados,0
+Chuquisaca,10304,Icla,2011,2,Nro. Afectados,20
+La Paz,21001,Inquisivi,2011,2,Nro. Afectados,0
+La Paz,20103,Mecapaca,2011,2,Nro. Afectados,40
+Chuquisaca,10501,Monteagudo,2011,2,Nro. Afectados,1
+Tarija,60201,Padcaya,2011,2,Nro. Afectados,19
+La Paz,21002,Quime,2011,2,Nro. Afectados,137
+Beni,80304,Rurrenabaque,2011,2,Nro. Afectados,200
+Cochabamba,31001,Sacaba,2011,2,Nro. Afectados,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,Nro. Afectados,0
+Cochabamba,31003,Villa Tunari,2011,2,Nro. Afectados,0
+Potosí,51501,Villazon,2011,2,Nro. Afectados,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,Nro. Afectados,0
+Potosí,50102,Tinguipaya,2011,3,Nro. Afectados,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,Nro. Afectados,0
+Santa Cruz,70702,Charagua,2011,12,Nro. Afectados,4
+Tarija,60502,El Puente(tja),2011,12,Nro. Afectados,0
+La Paz,21005,Ichoca,2011,12,Nro. Afectados,19
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,Nro. Fallecidos,0
+Cochabamba,30401,Tarata,2011,1,Nro. Fallecidos,0
+Tarija,60101,Tarija,2011,1,Nro. Fallecidos,1
+Chuquisaca,10202,Tarvita,2011,1,Nro. Fallecidos,28
+Potosí,51501,Villazon,2011,1,Nro. Fallecidos,0
+Tarija,60202,Bermejo,2011,2,Nro. Fallecidos,0
+Potosí,50301,Betanzos,2011,2,Nro. Fallecidos,0
+La Paz,20501,Chuma,2011,2,Nro. Fallecidos,0
+La Paz,21401,Coroico,2011,2,Nro. Fallecidos,0
+Chuquisaca,10304,Icla,2011,2,Nro. Fallecidos,0
+La Paz,21001,Inquisivi,2011,2,Nro. Fallecidos,0
+La Paz,20103,Mecapaca,2011,2,Nro. Fallecidos,0
+Chuquisaca,10501,Monteagudo,2011,2,Nro. Fallecidos,1
+Tarija,60201,Padcaya,2011,2,Nro. Fallecidos,1
+La Paz,21002,Quime,2011,2,Nro. Fallecidos,0
+Beni,80304,Rurrenabaque,2011,2,Nro. Fallecidos,0
+Cochabamba,31001,Sacaba,2011,2,Nro. Fallecidos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,Nro. Fallecidos,0
+Cochabamba,31003,Villa Tunari,2011,2,Nro. Fallecidos,0
+Potosí,51501,Villazon,2011,2,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,Nro. Fallecidos,0
+Potosí,50102,Tinguipaya,2011,3,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,Nro. Fallecidos,0
+Santa Cruz,70702,Charagua,2011,12,Nro. Fallecidos,2
+Tarija,60502,El Puente(tja),2011,12,Nro. Fallecidos,0
+La Paz,21005,Ichoca,2011,12,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,TOTAL,0
+Cochabamba,30401,Tarata,2011,1,TOTAL,1
+Tarija,60101,Tarija,2011,1,TOTAL,17
+Chuquisaca,10202,Tarvita,2011,1,TOTAL,76
+Potosí,51501,Villazon,2011,1,TOTAL,38
+Tarija,60202,Bermejo,2011,2,TOTAL,4
+Potosí,50301,Betanzos,2011,2,TOTAL,16
+La Paz,20501,Chuma,2011,2,TOTAL,1
+La Paz,21401,Coroico,2011,2,TOTAL,1
+Chuquisaca,10304,Icla,2011,2,TOTAL,21
+La Paz,21001,Inquisivi,2011,2,TOTAL,1
+La Paz,20103,Mecapaca,2011,2,TOTAL,41
+Chuquisaca,10501,Monteagudo,2011,2,TOTAL,3
+Tarija,60201,Padcaya,2011,2,TOTAL,22
+La Paz,21002,Quime,2011,2,TOTAL,138
+Beni,80304,Rurrenabaque,2011,2,TOTAL,201
+Cochabamba,31001,Sacaba,2011,2,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,TOTAL,0
+Cochabamba,31003,Villa Tunari,2011,2,TOTAL,1
+Potosí,51501,Villazon,2011,2,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,TOTAL,0
+Potosí,50102,Tinguipaya,2011,3,TOTAL,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,TOTAL,0
+Santa Cruz,70702,Charagua,2011,12,TOTAL,7
+Tarija,60502,El Puente(tja),2011,12,TOTAL,1
+La Paz,21005,Ichoca,2011,12,TOTAL,23
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,TOTAL,0

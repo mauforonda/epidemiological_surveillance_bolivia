@@ -1,0 +1,231 @@
+department,municipality_id,municipality,year,month,population,value
+Pando,90101,Cobija,2017,1,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70702,Charagua,2017,5,a. Menor de 6 meses / MASCULINO,0
+Cochabamba,31601,Tiraque (cbba),2017,6,a. Menor de 6 meses / MASCULINO,0
+La Paz,20105,El Alto,2017,7,a. Menor de 6 meses / MASCULINO,0
+Chuquisaca,10702,San Lucas,2017,7,a. Menor de 6 meses / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,8,a. Menor de 6 meses / MASCULINO,0
+Pando,90101,Cobija,2017,9,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,9,a. Menor de 6 meses / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,10,a. Menor de 6 meses / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,11,a. Menor de 6 meses / MASCULINO,0
+Pando,90101,Cobija,2017,1,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70702,Charagua,2017,5,a. Menor de 6 meses / FEMENINO,0
+Cochabamba,31601,Tiraque (cbba),2017,6,a. Menor de 6 meses / FEMENINO,1
+La Paz,20105,El Alto,2017,7,a. Menor de 6 meses / FEMENINO,0
+Chuquisaca,10702,San Lucas,2017,7,a. Menor de 6 meses / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,8,a. Menor de 6 meses / FEMENINO,0
+Pando,90101,Cobija,2017,9,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,9,a. Menor de 6 meses / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,10,a. Menor de 6 meses / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,11,a. Menor de 6 meses / FEMENINO,0
+Pando,90101,Cobija,2017,1,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70702,Charagua,2017,5,b. 6 meses a menor de 1 ano / MASCULINO,1
+Cochabamba,31601,Tiraque (cbba),2017,6,b. 6 meses a menor de 1 ano / MASCULINO,0
+La Paz,20105,El Alto,2017,7,b. 6 meses a menor de 1 ano / MASCULINO,0
+Chuquisaca,10702,San Lucas,2017,7,b. 6 meses a menor de 1 ano / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,8,b. 6 meses a menor de 1 ano / MASCULINO,0
+Pando,90101,Cobija,2017,9,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,9,b. 6 meses a menor de 1 ano / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,10,b. 6 meses a menor de 1 ano / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,11,b. 6 meses a menor de 1 ano / MASCULINO,0
+Pando,90101,Cobija,2017,1,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70702,Charagua,2017,5,b. 6 meses a menor de 1 ano / FEMENINO,0
+Cochabamba,31601,Tiraque (cbba),2017,6,b. 6 meses a menor de 1 ano / FEMENINO,0
+La Paz,20105,El Alto,2017,7,b. 6 meses a menor de 1 ano / FEMENINO,0
+Chuquisaca,10702,San Lucas,2017,7,b. 6 meses a menor de 1 ano / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,8,b. 6 meses a menor de 1 ano / FEMENINO,0
+Pando,90101,Cobija,2017,9,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,9,b. 6 meses a menor de 1 ano / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,10,b. 6 meses a menor de 1 ano / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,11,b. 6 meses a menor de 1 ano / FEMENINO,0
+Pando,90101,Cobija,2017,1,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70702,Charagua,2017,5,c. 1 - 4 anos / MASCULINO,0
+Cochabamba,31601,Tiraque (cbba),2017,6,c. 1 - 4 anos / MASCULINO,0
+La Paz,20105,El Alto,2017,7,c. 1 - 4 anos / MASCULINO,0
+Chuquisaca,10702,San Lucas,2017,7,c. 1 - 4 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,8,c. 1 - 4 anos / MASCULINO,0
+Pando,90101,Cobija,2017,9,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,9,c. 1 - 4 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,10,c. 1 - 4 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,11,c. 1 - 4 anos / MASCULINO,0
+Pando,90101,Cobija,2017,1,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70702,Charagua,2017,5,c. 1 - 4 anos / FEMENINO,0
+Cochabamba,31601,Tiraque (cbba),2017,6,c. 1 - 4 anos / FEMENINO,0
+La Paz,20105,El Alto,2017,7,c. 1 - 4 anos / FEMENINO,1
+Chuquisaca,10702,San Lucas,2017,7,c. 1 - 4 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,8,c. 1 - 4 anos / FEMENINO,0
+Pando,90101,Cobija,2017,9,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,9,c. 1 - 4 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,10,c. 1 - 4 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,11,c. 1 - 4 anos / FEMENINO,0
+Pando,90101,Cobija,2017,1,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70702,Charagua,2017,5,d. 5 - 9 anos / MASCULINO,0
+Cochabamba,31601,Tiraque (cbba),2017,6,d. 5 - 9 anos / MASCULINO,0
+La Paz,20105,El Alto,2017,7,d. 5 - 9 anos / MASCULINO,0
+Chuquisaca,10702,San Lucas,2017,7,d. 5 - 9 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,8,d. 5 - 9 anos / MASCULINO,0
+Pando,90101,Cobija,2017,9,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,9,d. 5 - 9 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,10,d. 5 - 9 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,11,d. 5 - 9 anos / MASCULINO,0
+Pando,90101,Cobija,2017,1,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70702,Charagua,2017,5,d. 5 - 9 anos / FEMENINO,0
+Cochabamba,31601,Tiraque (cbba),2017,6,d. 5 - 9 anos / FEMENINO,0
+La Paz,20105,El Alto,2017,7,d. 5 - 9 anos / FEMENINO,0
+Chuquisaca,10702,San Lucas,2017,7,d. 5 - 9 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,8,d. 5 - 9 anos / FEMENINO,0
+Pando,90101,Cobija,2017,9,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,9,d. 5 - 9 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,10,d. 5 - 9 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,11,d. 5 - 9 anos / FEMENINO,0
+Pando,90101,Cobija,2017,1,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70702,Charagua,2017,5,e. 10 - 14 anos / MASCULINO,0
+Cochabamba,31601,Tiraque (cbba),2017,6,e. 10 - 14 anos / MASCULINO,0
+La Paz,20105,El Alto,2017,7,e. 10 - 14 anos / MASCULINO,0
+Chuquisaca,10702,San Lucas,2017,7,e. 10 - 14 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,8,e. 10 - 14 anos / MASCULINO,0
+Pando,90101,Cobija,2017,9,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,9,e. 10 - 14 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,10,e. 10 - 14 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,11,e. 10 - 14 anos / MASCULINO,0
+Pando,90101,Cobija,2017,1,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70702,Charagua,2017,5,e. 10 - 14 anos / FEMENINO,0
+Cochabamba,31601,Tiraque (cbba),2017,6,e. 10 - 14 anos / FEMENINO,0
+La Paz,20105,El Alto,2017,7,e. 10 - 14 anos / FEMENINO,0
+Chuquisaca,10702,San Lucas,2017,7,e. 10 - 14 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,8,e. 10 - 14 anos / FEMENINO,0
+Pando,90101,Cobija,2017,9,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,9,e. 10 - 14 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,10,e. 10 - 14 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,11,e. 10 - 14 anos / FEMENINO,0
+Pando,90101,Cobija,2017,1,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70702,Charagua,2017,5,f. 15 - 19 anos / MASCULINO,0
+Cochabamba,31601,Tiraque (cbba),2017,6,f. 15 - 19 anos / MASCULINO,0
+La Paz,20105,El Alto,2017,7,f. 15 - 19 anos / MASCULINO,0
+Chuquisaca,10702,San Lucas,2017,7,f. 15 - 19 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,8,f. 15 - 19 anos / MASCULINO,0
+Pando,90101,Cobija,2017,9,f. 15 - 19 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,9,f. 15 - 19 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,10,f. 15 - 19 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,11,f. 15 - 19 anos / MASCULINO,0
+Pando,90101,Cobija,2017,1,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70702,Charagua,2017,5,f. 15 - 19 anos / FEMENINO,0
+Cochabamba,31601,Tiraque (cbba),2017,6,f. 15 - 19 anos / FEMENINO,0
+La Paz,20105,El Alto,2017,7,f. 15 - 19 anos / FEMENINO,0
+Chuquisaca,10702,San Lucas,2017,7,f. 15 - 19 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,8,f. 15 - 19 anos / FEMENINO,0
+Pando,90101,Cobija,2017,9,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,9,f. 15 - 19 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,10,f. 15 - 19 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,11,f. 15 - 19 anos / FEMENINO,0
+Pando,90101,Cobija,2017,1,g. 20 - 39 anos / MASCULINO,1
+Santa Cruz,70702,Charagua,2017,5,g. 20 - 39 anos / MASCULINO,0
+Cochabamba,31601,Tiraque (cbba),2017,6,g. 20 - 39 anos / MASCULINO,0
+La Paz,20105,El Alto,2017,7,g. 20 - 39 anos / MASCULINO,1
+Chuquisaca,10702,San Lucas,2017,7,g. 20 - 39 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,8,g. 20 - 39 anos / MASCULINO,0
+Pando,90101,Cobija,2017,9,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,9,g. 20 - 39 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,10,g. 20 - 39 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,11,g. 20 - 39 anos / MASCULINO,2
+Pando,90101,Cobija,2017,1,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70702,Charagua,2017,5,g. 20 - 39 anos / FEMENINO,0
+Cochabamba,31601,Tiraque (cbba),2017,6,g. 20 - 39 anos / FEMENINO,0
+La Paz,20105,El Alto,2017,7,g. 20 - 39 anos / FEMENINO,0
+Chuquisaca,10702,San Lucas,2017,7,g. 20 - 39 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,8,g. 20 - 39 anos / FEMENINO,0
+Pando,90101,Cobija,2017,9,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,9,g. 20 - 39 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,10,g. 20 - 39 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,11,g. 20 - 39 anos / FEMENINO,1
+Pando,90101,Cobija,2017,1,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70702,Charagua,2017,5,h. 40 - 49 anos / MASCULINO,0
+Cochabamba,31601,Tiraque (cbba),2017,6,h. 40 - 49 anos / MASCULINO,0
+La Paz,20105,El Alto,2017,7,h. 40 - 49 anos / MASCULINO,0
+Chuquisaca,10702,San Lucas,2017,7,h. 40 - 49 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,8,h. 40 - 49 anos / MASCULINO,0
+Pando,90101,Cobija,2017,9,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,9,h. 40 - 49 anos / MASCULINO,1
+Cochabamba,30101,Cochabamba,2017,10,h. 40 - 49 anos / MASCULINO,1
+Cochabamba,30101,Cochabamba,2017,11,h. 40 - 49 anos / MASCULINO,1
+Pando,90101,Cobija,2017,1,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70702,Charagua,2017,5,h. 40 - 49 anos / FEMENINO,0
+Cochabamba,31601,Tiraque (cbba),2017,6,h. 40 - 49 anos / FEMENINO,0
+La Paz,20105,El Alto,2017,7,h. 40 - 49 anos / FEMENINO,1
+Chuquisaca,10702,San Lucas,2017,7,h. 40 - 49 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,8,h. 40 - 49 anos / FEMENINO,0
+Pando,90101,Cobija,2017,9,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,9,h. 40 - 49 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,10,h. 40 - 49 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,11,h. 40 - 49 anos / FEMENINO,0
+Pando,90101,Cobija,2017,1,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70702,Charagua,2017,5,i. 50 - 59 anos / MASCULINO,0
+Cochabamba,31601,Tiraque (cbba),2017,6,i. 50 - 59 anos / MASCULINO,0
+La Paz,20105,El Alto,2017,7,i. 50 - 59 anos / MASCULINO,0
+Chuquisaca,10702,San Lucas,2017,7,i. 50 - 59 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,8,i. 50 - 59 anos / MASCULINO,0
+Pando,90101,Cobija,2017,9,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,9,i. 50 - 59 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,10,i. 50 - 59 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,11,i. 50 - 59 anos / MASCULINO,0
+Pando,90101,Cobija,2017,1,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70702,Charagua,2017,5,i. 50 - 59 anos / FEMENINO,0
+Cochabamba,31601,Tiraque (cbba),2017,6,i. 50 - 59 anos / FEMENINO,0
+La Paz,20105,El Alto,2017,7,i. 50 - 59 anos / FEMENINO,0
+Chuquisaca,10702,San Lucas,2017,7,i. 50 - 59 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,8,i. 50 - 59 anos / FEMENINO,0
+Pando,90101,Cobija,2017,9,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,9,i. 50 - 59 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,10,i. 50 - 59 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,11,i. 50 - 59 anos / FEMENINO,0
+Pando,90101,Cobija,2017,1,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70702,Charagua,2017,5,j. 60 anos y mas / MASCULINO,0
+Cochabamba,31601,Tiraque (cbba),2017,6,j. 60 anos y mas / MASCULINO,0
+La Paz,20105,El Alto,2017,7,j. 60 anos y mas / MASCULINO,0
+Chuquisaca,10702,San Lucas,2017,7,j. 60 anos y mas / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,8,j. 60 anos y mas / MASCULINO,1
+Pando,90101,Cobija,2017,9,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,9,j. 60 anos y mas / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,10,j. 60 anos y mas / MASCULINO,0
+Cochabamba,30101,Cochabamba,2017,11,j. 60 anos y mas / MASCULINO,0
+Pando,90101,Cobija,2017,1,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70702,Charagua,2017,5,j. 60 anos y mas / FEMENINO,0
+Cochabamba,31601,Tiraque (cbba),2017,6,j. 60 anos y mas / FEMENINO,0
+La Paz,20105,El Alto,2017,7,j. 60 anos y mas / FEMENINO,0
+Chuquisaca,10702,San Lucas,2017,7,j. 60 anos y mas / FEMENINO,1
+Cochabamba,30101,Cochabamba,2017,8,j. 60 anos y mas / FEMENINO,0
+Pando,90101,Cobija,2017,9,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,9,j. 60 anos y mas / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,10,j. 60 anos y mas / FEMENINO,0
+Cochabamba,30101,Cochabamba,2017,11,j. 60 anos y mas / FEMENINO,0
+Pando,90101,Cobija,2017,1,TOTALES / TOTAL-M,1
+Santa Cruz,70702,Charagua,2017,5,TOTALES / TOTAL-M,1
+Cochabamba,31601,Tiraque (cbba),2017,6,TOTALES / TOTAL-M,0
+La Paz,20105,El Alto,2017,7,TOTALES / TOTAL-M,1
+Chuquisaca,10702,San Lucas,2017,7,TOTALES / TOTAL-M,0
+Cochabamba,30101,Cochabamba,2017,8,TOTALES / TOTAL-M,1
+Pando,90101,Cobija,2017,9,TOTALES / TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,9,TOTALES / TOTAL-M,1
+Cochabamba,30101,Cochabamba,2017,10,TOTALES / TOTAL-M,1
+Cochabamba,30101,Cochabamba,2017,11,TOTALES / TOTAL-M,3
+Pando,90101,Cobija,2017,1,TOTALES / TOTAL-F,0
+Santa Cruz,70702,Charagua,2017,5,TOTALES / TOTAL-F,0
+Cochabamba,31601,Tiraque (cbba),2017,6,TOTALES / TOTAL-F,1
+La Paz,20105,El Alto,2017,7,TOTALES / TOTAL-F,2
+Chuquisaca,10702,San Lucas,2017,7,TOTALES / TOTAL-F,1
+Cochabamba,30101,Cochabamba,2017,8,TOTALES / TOTAL-F,0
+Pando,90101,Cobija,2017,9,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,9,TOTALES / TOTAL-F,0
+Cochabamba,30101,Cochabamba,2017,10,TOTALES / TOTAL-F,0
+Cochabamba,30101,Cochabamba,2017,11,TOTALES / TOTAL-F,1
+Pando,90101,Cobija,2017,1,TOTALES / TOTAL,1
+Santa Cruz,70702,Charagua,2017,5,TOTALES / TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2017,6,TOTALES / TOTAL,1
+La Paz,20105,El Alto,2017,7,TOTALES / TOTAL,3
+Chuquisaca,10702,San Lucas,2017,7,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2017,8,TOTALES / TOTAL,1
+Pando,90101,Cobija,2017,9,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,9,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2017,10,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2017,11,TOTALES / TOTAL,4

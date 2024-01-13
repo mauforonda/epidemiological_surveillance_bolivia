@@ -1,0 +1,199 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20101,La Paz,2006,1,< de 1 ano,7
+Santa Cruz,71001,Montero,2006,1,< de 1 ano,0
+La Paz,20105,El Alto,2006,2,< de 1 ano,1
+La Paz,20101,La Paz,2006,2,< de 1 ano,1
+Santa Cruz,71001,Montero,2006,2,< de 1 ano,1
+Cochabamba,30101,Cochabamba,2006,3,< de 1 ano,1
+La Paz,20105,El Alto,2006,3,< de 1 ano,1
+La Paz,20101,La Paz,2006,3,< de 1 ano,1
+Santa Cruz,71001,Montero,2006,3,< de 1 ano,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,< de 1 ano,1
+Tarija,60101,Tarija,2006,3,< de 1 ano,1
+La Paz,20101,La Paz,2006,4,< de 1 ano,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,4,< de 1 ano,0
+Santa Cruz,70706,Camiri,2006,5,< de 1 ano,0
+La Paz,20105,El Alto,2006,5,< de 1 ano,1
+La Paz,20101,La Paz,2006,5,< de 1 ano,5
+Chuquisaca,10101,Sucre,2006,5,< de 1 ano,1
+Tarija,60101,Tarija,2006,5,< de 1 ano,2
+Santa Cruz,70706,Camiri,2006,6,< de 1 ano,0
+La Paz,20105,El Alto,2006,6,< de 1 ano,1
+La Paz,20101,La Paz,2006,7,< de 1 ano,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,7,< de 1 ano,0
+Tarija,60101,Tarija,2006,7,< de 1 ano,2
+La Paz,20105,El Alto,2006,8,< de 1 ano,0
+La Paz,20101,La Paz,2006,8,< de 1 ano,5
+Cochabamba,31002,Colomi,2006,9,< de 1 ano,1
+La Paz,20101,La Paz,2006,9,< de 1 ano,4
+La Paz,20101,La Paz,2006,10,< de 1 ano,6
+Chuquisaca,10701,Camargo,2006,11,< de 1 ano,1
+La Paz,20101,La Paz,2006,11,< de 1 ano,6
+La Paz,20101,La Paz,2006,12,< de 1 ano,2
+Cochabamba,31401,Punata,2006,12,< de 1 ano,1
+Cochabamba,31003,Villa Tunari,2006,12,< de 1 ano,1
+La Paz,20101,La Paz,2006,1,1 a 4 anos,0
+Santa Cruz,71001,Montero,2006,1,1 a 4 anos,1
+La Paz,20105,El Alto,2006,2,1 a 4 anos,0
+La Paz,20101,La Paz,2006,2,1 a 4 anos,3
+Santa Cruz,71001,Montero,2006,2,1 a 4 anos,0
+Cochabamba,30101,Cochabamba,2006,3,1 a 4 anos,0
+La Paz,20105,El Alto,2006,3,1 a 4 anos,0
+La Paz,20101,La Paz,2006,3,1 a 4 anos,1
+Santa Cruz,71001,Montero,2006,3,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,1 a 4 anos,2
+Tarija,60101,Tarija,2006,3,1 a 4 anos,0
+La Paz,20101,La Paz,2006,4,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,4,1 a 4 anos,1
+Santa Cruz,70706,Camiri,2006,5,1 a 4 anos,5
+La Paz,20105,El Alto,2006,5,1 a 4 anos,0
+La Paz,20101,La Paz,2006,5,1 a 4 anos,0
+Chuquisaca,10101,Sucre,2006,5,1 a 4 anos,0
+Tarija,60101,Tarija,2006,5,1 a 4 anos,1
+Santa Cruz,70706,Camiri,2006,6,1 a 4 anos,1
+La Paz,20105,El Alto,2006,6,1 a 4 anos,0
+La Paz,20101,La Paz,2006,7,1 a 4 anos,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,7,1 a 4 anos,1
+Tarija,60101,Tarija,2006,7,1 a 4 anos,0
+La Paz,20105,El Alto,2006,8,1 a 4 anos,1
+La Paz,20101,La Paz,2006,8,1 a 4 anos,4
+Cochabamba,31002,Colomi,2006,9,1 a 4 anos,1
+La Paz,20101,La Paz,2006,9,1 a 4 anos,0
+La Paz,20101,La Paz,2006,10,1 a 4 anos,3
+Chuquisaca,10701,Camargo,2006,11,1 a 4 anos,0
+La Paz,20101,La Paz,2006,11,1 a 4 anos,5
+La Paz,20101,La Paz,2006,12,1 a 4 anos,3
+Cochabamba,31401,Punata,2006,12,1 a 4 anos,0
+Cochabamba,31003,Villa Tunari,2006,12,1 a 4 anos,2
+La Paz,20101,La Paz,2006,1,5 a 14 anos,0
+Santa Cruz,71001,Montero,2006,1,5 a 14 anos,0
+La Paz,20105,El Alto,2006,2,5 a 14 anos,0
+La Paz,20101,La Paz,2006,2,5 a 14 anos,1
+Santa Cruz,71001,Montero,2006,2,5 a 14 anos,0
+Cochabamba,30101,Cochabamba,2006,3,5 a 14 anos,0
+La Paz,20105,El Alto,2006,3,5 a 14 anos,0
+La Paz,20101,La Paz,2006,3,5 a 14 anos,0
+Santa Cruz,71001,Montero,2006,3,5 a 14 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,5 a 14 anos,0
+Tarija,60101,Tarija,2006,3,5 a 14 anos,0
+La Paz,20101,La Paz,2006,4,5 a 14 anos,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,4,5 a 14 anos,1
+Santa Cruz,70706,Camiri,2006,5,5 a 14 anos,0
+La Paz,20105,El Alto,2006,5,5 a 14 anos,0
+La Paz,20101,La Paz,2006,5,5 a 14 anos,5
+Chuquisaca,10101,Sucre,2006,5,5 a 14 anos,0
+Tarija,60101,Tarija,2006,5,5 a 14 anos,0
+Santa Cruz,70706,Camiri,2006,6,5 a 14 anos,0
+La Paz,20105,El Alto,2006,6,5 a 14 anos,0
+La Paz,20101,La Paz,2006,7,5 a 14 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,7,5 a 14 anos,0
+Tarija,60101,Tarija,2006,7,5 a 14 anos,0
+La Paz,20105,El Alto,2006,8,5 a 14 anos,0
+La Paz,20101,La Paz,2006,8,5 a 14 anos,0
+Cochabamba,31002,Colomi,2006,9,5 a 14 anos,0
+La Paz,20101,La Paz,2006,9,5 a 14 anos,0
+La Paz,20101,La Paz,2006,10,5 a 14 anos,0
+Chuquisaca,10701,Camargo,2006,11,5 a 14 anos,0
+La Paz,20101,La Paz,2006,11,5 a 14 anos,0
+La Paz,20101,La Paz,2006,12,5 a 14 anos,1
+Cochabamba,31401,Punata,2006,12,5 a 14 anos,0
+Cochabamba,31003,Villa Tunari,2006,12,5 a 14 anos,4
+La Paz,20101,La Paz,2006,1,15 a 59 anos,0
+Santa Cruz,71001,Montero,2006,1,15 a 59 anos,0
+La Paz,20105,El Alto,2006,2,15 a 59 anos,0
+La Paz,20101,La Paz,2006,2,15 a 59 anos,0
+Santa Cruz,71001,Montero,2006,2,15 a 59 anos,0
+Cochabamba,30101,Cochabamba,2006,3,15 a 59 anos,0
+La Paz,20105,El Alto,2006,3,15 a 59 anos,0
+La Paz,20101,La Paz,2006,3,15 a 59 anos,0
+Santa Cruz,71001,Montero,2006,3,15 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,15 a 59 anos,0
+Tarija,60101,Tarija,2006,3,15 a 59 anos,0
+La Paz,20101,La Paz,2006,4,15 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,4,15 a 59 anos,0
+Santa Cruz,70706,Camiri,2006,5,15 a 59 anos,0
+La Paz,20105,El Alto,2006,5,15 a 59 anos,0
+La Paz,20101,La Paz,2006,5,15 a 59 anos,0
+Chuquisaca,10101,Sucre,2006,5,15 a 59 anos,0
+Tarija,60101,Tarija,2006,5,15 a 59 anos,0
+Santa Cruz,70706,Camiri,2006,6,15 a 59 anos,0
+La Paz,20105,El Alto,2006,6,15 a 59 anos,0
+La Paz,20101,La Paz,2006,7,15 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,7,15 a 59 anos,0
+Tarija,60101,Tarija,2006,7,15 a 59 anos,0
+La Paz,20105,El Alto,2006,8,15 a 59 anos,0
+La Paz,20101,La Paz,2006,8,15 a 59 anos,0
+Cochabamba,31002,Colomi,2006,9,15 a 59 anos,0
+La Paz,20101,La Paz,2006,9,15 a 59 anos,0
+La Paz,20101,La Paz,2006,10,15 a 59 anos,0
+Chuquisaca,10701,Camargo,2006,11,15 a 59 anos,0
+La Paz,20101,La Paz,2006,11,15 a 59 anos,0
+La Paz,20101,La Paz,2006,12,15 a 59 anos,0
+Cochabamba,31401,Punata,2006,12,15 a 59 anos,0
+Cochabamba,31003,Villa Tunari,2006,12,15 a 59 anos,0
+La Paz,20101,La Paz,2006,1,60 y mas,0
+Santa Cruz,71001,Montero,2006,1,60 y mas,0
+La Paz,20105,El Alto,2006,2,60 y mas,0
+La Paz,20101,La Paz,2006,2,60 y mas,0
+Santa Cruz,71001,Montero,2006,2,60 y mas,0
+Cochabamba,30101,Cochabamba,2006,3,60 y mas,0
+La Paz,20105,El Alto,2006,3,60 y mas,0
+La Paz,20101,La Paz,2006,3,60 y mas,0
+Santa Cruz,71001,Montero,2006,3,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,60 y mas,0
+Tarija,60101,Tarija,2006,3,60 y mas,0
+La Paz,20101,La Paz,2006,4,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,4,60 y mas,0
+Santa Cruz,70706,Camiri,2006,5,60 y mas,0
+La Paz,20105,El Alto,2006,5,60 y mas,0
+La Paz,20101,La Paz,2006,5,60 y mas,0
+Chuquisaca,10101,Sucre,2006,5,60 y mas,0
+Tarija,60101,Tarija,2006,5,60 y mas,0
+Santa Cruz,70706,Camiri,2006,6,60 y mas,0
+La Paz,20105,El Alto,2006,6,60 y mas,0
+La Paz,20101,La Paz,2006,7,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,7,60 y mas,0
+Tarija,60101,Tarija,2006,7,60 y mas,0
+La Paz,20105,El Alto,2006,8,60 y mas,0
+La Paz,20101,La Paz,2006,8,60 y mas,0
+Cochabamba,31002,Colomi,2006,9,60 y mas,0
+La Paz,20101,La Paz,2006,9,60 y mas,0
+La Paz,20101,La Paz,2006,10,60 y mas,0
+Chuquisaca,10701,Camargo,2006,11,60 y mas,0
+La Paz,20101,La Paz,2006,11,60 y mas,0
+La Paz,20101,La Paz,2006,12,60 y mas,0
+Cochabamba,31401,Punata,2006,12,60 y mas,0
+Cochabamba,31003,Villa Tunari,2006,12,60 y mas,0
+La Paz,20101,La Paz,2006,1,TOTAL,7
+Santa Cruz,71001,Montero,2006,1,TOTAL,1
+La Paz,20105,El Alto,2006,2,TOTAL,1
+La Paz,20101,La Paz,2006,2,TOTAL,5
+Santa Cruz,71001,Montero,2006,2,TOTAL,1
+Cochabamba,30101,Cochabamba,2006,3,TOTAL,1
+La Paz,20105,El Alto,2006,3,TOTAL,1
+La Paz,20101,La Paz,2006,3,TOTAL,2
+Santa Cruz,71001,Montero,2006,3,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,TOTAL,3
+Tarija,60101,Tarija,2006,3,TOTAL,1
+La Paz,20101,La Paz,2006,4,TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,4,TOTAL,2
+Santa Cruz,70706,Camiri,2006,5,TOTAL,5
+La Paz,20105,El Alto,2006,5,TOTAL,1
+La Paz,20101,La Paz,2006,5,TOTAL,10
+Chuquisaca,10101,Sucre,2006,5,TOTAL,1
+Tarija,60101,Tarija,2006,5,TOTAL,3
+Santa Cruz,70706,Camiri,2006,6,TOTAL,1
+La Paz,20105,El Alto,2006,6,TOTAL,1
+La Paz,20101,La Paz,2006,7,TOTAL,12
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,7,TOTAL,1
+Tarija,60101,Tarija,2006,7,TOTAL,2
+La Paz,20105,El Alto,2006,8,TOTAL,1
+La Paz,20101,La Paz,2006,8,TOTAL,9
+Cochabamba,31002,Colomi,2006,9,TOTAL,2
+La Paz,20101,La Paz,2006,9,TOTAL,4
+La Paz,20101,La Paz,2006,10,TOTAL,9
+Chuquisaca,10701,Camargo,2006,11,TOTAL,1
+La Paz,20101,La Paz,2006,11,TOTAL,11
+La Paz,20101,La Paz,2006,12,TOTAL,6
+Cochabamba,31401,Punata,2006,12,TOTAL,1
+Cochabamba,31003,Villa Tunari,2006,12,TOTAL,7

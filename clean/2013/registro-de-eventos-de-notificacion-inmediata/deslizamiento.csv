@@ -1,0 +1,21 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20104,Achocalla,2013,1,Nro.,1
+Cochabamba,30902,Sipe Sipe,2013,2,Nro.,1
+La Paz,22001,Caranavi,2013,9,Nro.,1
+Santa Cruz,70703,Cabezas,2013,10,Nro.,11
+Santa Cruz,70701,Lagunillas,2013,10,Nro.,1
+La Paz,20104,Achocalla,2013,1,Nro. Afectados,0
+Cochabamba,30902,Sipe Sipe,2013,2,Nro. Afectados,1
+La Paz,22001,Caranavi,2013,9,Nro. Afectados,17
+Santa Cruz,70703,Cabezas,2013,10,Nro. Afectados,267
+Santa Cruz,70701,Lagunillas,2013,10,Nro. Afectados,10
+La Paz,20104,Achocalla,2013,1,Nro. Fallecidos,0
+Cochabamba,30902,Sipe Sipe,2013,2,Nro. Fallecidos,0
+La Paz,22001,Caranavi,2013,9,Nro. Fallecidos,22
+Santa Cruz,70703,Cabezas,2013,10,Nro. Fallecidos,0
+Santa Cruz,70701,Lagunillas,2013,10,Nro. Fallecidos,0
+La Paz,20104,Achocalla,2013,1,TOTAL,1
+Cochabamba,30902,Sipe Sipe,2013,2,TOTAL,2
+La Paz,22001,Caranavi,2013,9,TOTAL,40
+Santa Cruz,70703,Cabezas,2013,10,TOTAL,278
+Santa Cruz,70701,Lagunillas,2013,10,TOTAL,11

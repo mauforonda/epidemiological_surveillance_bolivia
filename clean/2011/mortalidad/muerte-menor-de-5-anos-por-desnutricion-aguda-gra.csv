@@ -1,0 +1,365 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70702,Charagua,2011,1,Dentro / MASCULINO,0
+Santa Cruz,71101,Concepcion,2011,1,Dentro / MASCULINO,0
+La Paz,20101,La Paz,2011,1,Dentro / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,Dentro / MASCULINO,0
+La Paz,20101,La Paz,2011,2,Dentro / MASCULINO,1
+Oruro,40101,Oruro,2011,2,Dentro / MASCULINO,1
+Santa Cruz,70503,Robore,2011,2,Dentro / MASCULINO,1
+Santa Cruz,71105,San Antonio De Lomerio,2011,2,Dentro / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,Dentro / MASCULINO,0
+Chuquisaca,10101,Sucre,2011,2,Dentro / MASCULINO,1
+Santa Cruz,70401,Buena Vista,2011,3,Dentro / MASCULINO,0
+Oruro,40101,Oruro,2011,3,Dentro / MASCULINO,1
+Beni,80201,Riberalta,2011,3,Dentro / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,Dentro / MASCULINO,0
+Chuquisaca,10701,Camargo,2011,4,Dentro / MASCULINO,0
+Cochabamba,30901,Quillacollo,2011,4,Dentro / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,Dentro / MASCULINO,0
+La Paz,20105,El Alto,2011,5,Dentro / MASCULINO,0
+La Paz,20101,La Paz,2011,5,Dentro / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,Dentro / MASCULINO,0
+Pando,90101,Cobija,2011,6,Dentro / MASCULINO,0
+La Paz,20105,El Alto,2011,6,Dentro / MASCULINO,0
+Chuquisaca,10502,Huacareta,2011,6,Dentro / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,Dentro / MASCULINO,0
+La Paz,21303,Ayo Ayo,2011,7,Dentro / MASCULINO,0
+Cochabamba,30101,Cochabamba,2011,7,Dentro / MASCULINO,0
+La Paz,20105,El Alto,2011,7,Dentro / MASCULINO,0
+La Paz,20101,La Paz,2011,7,Dentro / MASCULINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,Dentro / MASCULINO,0
+Cochabamba,31501,Bolivar,2011,8,Dentro / MASCULINO,1
+Pando,90101,Cobija,2011,8,Dentro / MASCULINO,0
+Cochabamba,30101,Cochabamba,2011,8,Dentro / MASCULINO,0
+La Paz,20105,El Alto,2011,8,Dentro / MASCULINO,0
+La Paz,20101,La Paz,2011,8,Dentro / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,Dentro / MASCULINO,0
+Santa Cruz,70706,Camiri,2011,9,Dentro / MASCULINO,0
+Beni,80201,Riberalta,2011,9,Dentro / MASCULINO,0
+Santa Cruz,70301,San Ignacio De Velasco,2011,9,Dentro / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,Dentro / MASCULINO,0
+Pando,90101,Cobija,2011,10,Dentro / MASCULINO,0
+Pando,90503,Eureka (santos Mercado),2011,10,Dentro / MASCULINO,0
+Beni,80201,Riberalta,2011,10,Dentro / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,Dentro / MASCULINO,0
+Cochabamba,31302,Vila Vila,2011,10,Dentro / MASCULINO,0
+Santa Cruz,70704,Cuevo,2011,11,Dentro / MASCULINO,0
+La Paz,21305,Patacamaya,2011,11,Dentro / MASCULINO,0
+Beni,80201,Riberalta,2011,11,Dentro / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,Dentro / MASCULINO,0
+Santa Cruz,70704,Cuevo,2011,12,Dentro / MASCULINO,0
+Tarija,60601,Entre Rios Trj,2011,12,Dentro / MASCULINO,0
+Beni,80201,Riberalta,2011,12,Dentro / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,Dentro / MASCULINO,0
+Santa Cruz,70702,Charagua,2011,1,Dentro / FEMENINO,0
+Santa Cruz,71101,Concepcion,2011,1,Dentro / FEMENINO,0
+La Paz,20101,La Paz,2011,1,Dentro / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,Dentro / FEMENINO,0
+La Paz,20101,La Paz,2011,2,Dentro / FEMENINO,0
+Oruro,40101,Oruro,2011,2,Dentro / FEMENINO,0
+Santa Cruz,70503,Robore,2011,2,Dentro / FEMENINO,0
+Santa Cruz,71105,San Antonio De Lomerio,2011,2,Dentro / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,Dentro / FEMENINO,0
+Chuquisaca,10101,Sucre,2011,2,Dentro / FEMENINO,0
+Santa Cruz,70401,Buena Vista,2011,3,Dentro / FEMENINO,0
+Oruro,40101,Oruro,2011,3,Dentro / FEMENINO,0
+Beni,80201,Riberalta,2011,3,Dentro / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,Dentro / FEMENINO,0
+Chuquisaca,10701,Camargo,2011,4,Dentro / FEMENINO,0
+Cochabamba,30901,Quillacollo,2011,4,Dentro / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,Dentro / FEMENINO,0
+La Paz,20105,El Alto,2011,5,Dentro / FEMENINO,0
+La Paz,20101,La Paz,2011,5,Dentro / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,Dentro / FEMENINO,0
+Pando,90101,Cobija,2011,6,Dentro / FEMENINO,1
+La Paz,20105,El Alto,2011,6,Dentro / FEMENINO,1
+Chuquisaca,10502,Huacareta,2011,6,Dentro / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,Dentro / FEMENINO,0
+La Paz,21303,Ayo Ayo,2011,7,Dentro / FEMENINO,0
+Cochabamba,30101,Cochabamba,2011,7,Dentro / FEMENINO,0
+La Paz,20105,El Alto,2011,7,Dentro / FEMENINO,0
+La Paz,20101,La Paz,2011,7,Dentro / FEMENINO,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,Dentro / FEMENINO,0
+Cochabamba,31501,Bolivar,2011,8,Dentro / FEMENINO,0
+Pando,90101,Cobija,2011,8,Dentro / FEMENINO,1
+Cochabamba,30101,Cochabamba,2011,8,Dentro / FEMENINO,1
+La Paz,20105,El Alto,2011,8,Dentro / FEMENINO,1
+La Paz,20101,La Paz,2011,8,Dentro / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,Dentro / FEMENINO,0
+Santa Cruz,70706,Camiri,2011,9,Dentro / FEMENINO,1
+Beni,80201,Riberalta,2011,9,Dentro / FEMENINO,2
+Santa Cruz,70301,San Ignacio De Velasco,2011,9,Dentro / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,Dentro / FEMENINO,0
+Pando,90101,Cobija,2011,10,Dentro / FEMENINO,3
+Pando,90503,Eureka (santos Mercado),2011,10,Dentro / FEMENINO,0
+Beni,80201,Riberalta,2011,10,Dentro / FEMENINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,Dentro / FEMENINO,0
+Cochabamba,31302,Vila Vila,2011,10,Dentro / FEMENINO,0
+Santa Cruz,70704,Cuevo,2011,11,Dentro / FEMENINO,0
+La Paz,21305,Patacamaya,2011,11,Dentro / FEMENINO,0
+Beni,80201,Riberalta,2011,11,Dentro / FEMENINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,Dentro / FEMENINO,1
+Santa Cruz,70704,Cuevo,2011,12,Dentro / FEMENINO,0
+Tarija,60601,Entre Rios Trj,2011,12,Dentro / FEMENINO,0
+Beni,80201,Riberalta,2011,12,Dentro / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,Dentro / FEMENINO,0
+Santa Cruz,70702,Charagua,2011,1,Fuera / MASCULINO,1
+Santa Cruz,71101,Concepcion,2011,1,Fuera / MASCULINO,1
+La Paz,20101,La Paz,2011,1,Fuera / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,Fuera / MASCULINO,0
+La Paz,20101,La Paz,2011,2,Fuera / MASCULINO,0
+Oruro,40101,Oruro,2011,2,Fuera / MASCULINO,0
+Santa Cruz,70503,Robore,2011,2,Fuera / MASCULINO,0
+Santa Cruz,71105,San Antonio De Lomerio,2011,2,Fuera / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,Fuera / MASCULINO,0
+Chuquisaca,10101,Sucre,2011,2,Fuera / MASCULINO,0
+Santa Cruz,70401,Buena Vista,2011,3,Fuera / MASCULINO,0
+Oruro,40101,Oruro,2011,3,Fuera / MASCULINO,0
+Beni,80201,Riberalta,2011,3,Fuera / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,Fuera / MASCULINO,0
+Chuquisaca,10701,Camargo,2011,4,Fuera / MASCULINO,1
+Cochabamba,30901,Quillacollo,2011,4,Fuera / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,Fuera / MASCULINO,0
+La Paz,20105,El Alto,2011,5,Fuera / MASCULINO,1
+La Paz,20101,La Paz,2011,5,Fuera / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,Fuera / MASCULINO,0
+Pando,90101,Cobija,2011,6,Fuera / MASCULINO,0
+La Paz,20105,El Alto,2011,6,Fuera / MASCULINO,0
+Chuquisaca,10502,Huacareta,2011,6,Fuera / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,Fuera / MASCULINO,0
+La Paz,21303,Ayo Ayo,2011,7,Fuera / MASCULINO,1
+Cochabamba,30101,Cochabamba,2011,7,Fuera / MASCULINO,1
+La Paz,20105,El Alto,2011,7,Fuera / MASCULINO,1
+La Paz,20101,La Paz,2011,7,Fuera / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,Fuera / MASCULINO,0
+Cochabamba,31501,Bolivar,2011,8,Fuera / MASCULINO,0
+Pando,90101,Cobija,2011,8,Fuera / MASCULINO,0
+Cochabamba,30101,Cochabamba,2011,8,Fuera / MASCULINO,0
+La Paz,20105,El Alto,2011,8,Fuera / MASCULINO,0
+La Paz,20101,La Paz,2011,8,Fuera / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,Fuera / MASCULINO,0
+Santa Cruz,70706,Camiri,2011,9,Fuera / MASCULINO,0
+Beni,80201,Riberalta,2011,9,Fuera / MASCULINO,0
+Santa Cruz,70301,San Ignacio De Velasco,2011,9,Fuera / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,Fuera / MASCULINO,0
+Pando,90101,Cobija,2011,10,Fuera / MASCULINO,0
+Pando,90503,Eureka (santos Mercado),2011,10,Fuera / MASCULINO,1
+Beni,80201,Riberalta,2011,10,Fuera / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,Fuera / MASCULINO,0
+Cochabamba,31302,Vila Vila,2011,10,Fuera / MASCULINO,1
+Santa Cruz,70704,Cuevo,2011,11,Fuera / MASCULINO,0
+La Paz,21305,Patacamaya,2011,11,Fuera / MASCULINO,0
+Beni,80201,Riberalta,2011,11,Fuera / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,Fuera / MASCULINO,0
+Santa Cruz,70704,Cuevo,2011,12,Fuera / MASCULINO,1
+Tarija,60601,Entre Rios Trj,2011,12,Fuera / MASCULINO,1
+Beni,80201,Riberalta,2011,12,Fuera / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,Fuera / MASCULINO,0
+Santa Cruz,70702,Charagua,2011,1,Fuera / FEMENINO,0
+Santa Cruz,71101,Concepcion,2011,1,Fuera / FEMENINO,0
+La Paz,20101,La Paz,2011,1,Fuera / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,Fuera / FEMENINO,0
+La Paz,20101,La Paz,2011,2,Fuera / FEMENINO,0
+Oruro,40101,Oruro,2011,2,Fuera / FEMENINO,0
+Santa Cruz,70503,Robore,2011,2,Fuera / FEMENINO,0
+Santa Cruz,71105,San Antonio De Lomerio,2011,2,Fuera / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,Fuera / FEMENINO,0
+Chuquisaca,10101,Sucre,2011,2,Fuera / FEMENINO,0
+Santa Cruz,70401,Buena Vista,2011,3,Fuera / FEMENINO,1
+Oruro,40101,Oruro,2011,3,Fuera / FEMENINO,0
+Beni,80201,Riberalta,2011,3,Fuera / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,Fuera / FEMENINO,0
+Chuquisaca,10701,Camargo,2011,4,Fuera / FEMENINO,0
+Cochabamba,30901,Quillacollo,2011,4,Fuera / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,Fuera / FEMENINO,0
+La Paz,20105,El Alto,2011,5,Fuera / FEMENINO,0
+La Paz,20101,La Paz,2011,5,Fuera / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,Fuera / FEMENINO,0
+Pando,90101,Cobija,2011,6,Fuera / FEMENINO,0
+La Paz,20105,El Alto,2011,6,Fuera / FEMENINO,0
+Chuquisaca,10502,Huacareta,2011,6,Fuera / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,Fuera / FEMENINO,0
+La Paz,21303,Ayo Ayo,2011,7,Fuera / FEMENINO,0
+Cochabamba,30101,Cochabamba,2011,7,Fuera / FEMENINO,0
+La Paz,20105,El Alto,2011,7,Fuera / FEMENINO,0
+La Paz,20101,La Paz,2011,7,Fuera / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,Fuera / FEMENINO,0
+Cochabamba,31501,Bolivar,2011,8,Fuera / FEMENINO,0
+Pando,90101,Cobija,2011,8,Fuera / FEMENINO,0
+Cochabamba,30101,Cochabamba,2011,8,Fuera / FEMENINO,0
+La Paz,20105,El Alto,2011,8,Fuera / FEMENINO,0
+La Paz,20101,La Paz,2011,8,Fuera / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,Fuera / FEMENINO,0
+Santa Cruz,70706,Camiri,2011,9,Fuera / FEMENINO,0
+Beni,80201,Riberalta,2011,9,Fuera / FEMENINO,0
+Santa Cruz,70301,San Ignacio De Velasco,2011,9,Fuera / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,Fuera / FEMENINO,0
+Pando,90101,Cobija,2011,10,Fuera / FEMENINO,0
+Pando,90503,Eureka (santos Mercado),2011,10,Fuera / FEMENINO,0
+Beni,80201,Riberalta,2011,10,Fuera / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,Fuera / FEMENINO,0
+Cochabamba,31302,Vila Vila,2011,10,Fuera / FEMENINO,0
+Santa Cruz,70704,Cuevo,2011,11,Fuera / FEMENINO,1
+La Paz,21305,Patacamaya,2011,11,Fuera / FEMENINO,1
+Beni,80201,Riberalta,2011,11,Fuera / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,Fuera / FEMENINO,0
+Santa Cruz,70704,Cuevo,2011,12,Fuera / FEMENINO,0
+Tarija,60601,Entre Rios Trj,2011,12,Fuera / FEMENINO,0
+Beni,80201,Riberalta,2011,12,Fuera / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,Fuera / FEMENINO,0
+Santa Cruz,70702,Charagua,2011,1,TOTALES / TOTAL-M,1
+Santa Cruz,71101,Concepcion,2011,1,TOTALES / TOTAL-M,1
+La Paz,20101,La Paz,2011,1,TOTALES / TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,TOTALES / TOTAL-M,0
+La Paz,20101,La Paz,2011,2,TOTALES / TOTAL-M,1
+Oruro,40101,Oruro,2011,2,TOTALES / TOTAL-M,1
+Santa Cruz,70503,Robore,2011,2,TOTALES / TOTAL-M,1
+Santa Cruz,71105,San Antonio De Lomerio,2011,2,TOTALES / TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,TOTALES / TOTAL-M,0
+Chuquisaca,10101,Sucre,2011,2,TOTALES / TOTAL-M,1
+Santa Cruz,70401,Buena Vista,2011,3,TOTALES / TOTAL-M,0
+Oruro,40101,Oruro,2011,3,TOTALES / TOTAL-M,1
+Beni,80201,Riberalta,2011,3,TOTALES / TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,TOTALES / TOTAL-M,0
+Chuquisaca,10701,Camargo,2011,4,TOTALES / TOTAL-M,1
+Cochabamba,30901,Quillacollo,2011,4,TOTALES / TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,TOTALES / TOTAL-M,0
+La Paz,20105,El Alto,2011,5,TOTALES / TOTAL-M,1
+La Paz,20101,La Paz,2011,5,TOTALES / TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,TOTALES / TOTAL-M,0
+Pando,90101,Cobija,2011,6,TOTALES / TOTAL-M,0
+La Paz,20105,El Alto,2011,6,TOTALES / TOTAL-M,0
+Chuquisaca,10502,Huacareta,2011,6,TOTALES / TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,TOTALES / TOTAL-M,0
+La Paz,21303,Ayo Ayo,2011,7,TOTALES / TOTAL-M,1
+Cochabamba,30101,Cochabamba,2011,7,TOTALES / TOTAL-M,1
+La Paz,20105,El Alto,2011,7,TOTALES / TOTAL-M,1
+La Paz,20101,La Paz,2011,7,TOTALES / TOTAL-M,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,TOTALES / TOTAL-M,0
+Cochabamba,31501,Bolivar,2011,8,TOTALES / TOTAL-M,1
+Pando,90101,Cobija,2011,8,TOTALES / TOTAL-M,0
+Cochabamba,30101,Cochabamba,2011,8,TOTALES / TOTAL-M,0
+La Paz,20105,El Alto,2011,8,TOTALES / TOTAL-M,0
+La Paz,20101,La Paz,2011,8,TOTALES / TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,TOTALES / TOTAL-M,0
+Santa Cruz,70706,Camiri,2011,9,TOTALES / TOTAL-M,0
+Beni,80201,Riberalta,2011,9,TOTALES / TOTAL-M,0
+Santa Cruz,70301,San Ignacio De Velasco,2011,9,TOTALES / TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,TOTALES / TOTAL-M,0
+Pando,90101,Cobija,2011,10,TOTALES / TOTAL-M,0
+Pando,90503,Eureka (santos Mercado),2011,10,TOTALES / TOTAL-M,1
+Beni,80201,Riberalta,2011,10,TOTALES / TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,TOTALES / TOTAL-M,0
+Cochabamba,31302,Vila Vila,2011,10,TOTALES / TOTAL-M,1
+Santa Cruz,70704,Cuevo,2011,11,TOTALES / TOTAL-M,0
+La Paz,21305,Patacamaya,2011,11,TOTALES / TOTAL-M,0
+Beni,80201,Riberalta,2011,11,TOTALES / TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,TOTALES / TOTAL-M,0
+Santa Cruz,70704,Cuevo,2011,12,TOTALES / TOTAL-M,1
+Tarija,60601,Entre Rios Trj,2011,12,TOTALES / TOTAL-M,1
+Beni,80201,Riberalta,2011,12,TOTALES / TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,TOTALES / TOTAL-M,0
+Santa Cruz,70702,Charagua,2011,1,TOTALES / TOTAL-F,0
+Santa Cruz,71101,Concepcion,2011,1,TOTALES / TOTAL-F,0
+La Paz,20101,La Paz,2011,1,TOTALES / TOTAL-F,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,TOTALES / TOTAL-F,0
+La Paz,20101,La Paz,2011,2,TOTALES / TOTAL-F,0
+Oruro,40101,Oruro,2011,2,TOTALES / TOTAL-F,0
+Santa Cruz,70503,Robore,2011,2,TOTALES / TOTAL-F,0
+Santa Cruz,71105,San Antonio De Lomerio,2011,2,TOTALES / TOTAL-F,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,TOTALES / TOTAL-F,0
+Chuquisaca,10101,Sucre,2011,2,TOTALES / TOTAL-F,0
+Santa Cruz,70401,Buena Vista,2011,3,TOTALES / TOTAL-F,1
+Oruro,40101,Oruro,2011,3,TOTALES / TOTAL-F,0
+Beni,80201,Riberalta,2011,3,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,TOTALES / TOTAL-F,0
+Chuquisaca,10701,Camargo,2011,4,TOTALES / TOTAL-F,0
+Cochabamba,30901,Quillacollo,2011,4,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,TOTALES / TOTAL-F,0
+La Paz,20105,El Alto,2011,5,TOTALES / TOTAL-F,0
+La Paz,20101,La Paz,2011,5,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,TOTALES / TOTAL-F,0
+Pando,90101,Cobija,2011,6,TOTALES / TOTAL-F,1
+La Paz,20105,El Alto,2011,6,TOTALES / TOTAL-F,1
+Chuquisaca,10502,Huacareta,2011,6,TOTALES / TOTAL-F,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,TOTALES / TOTAL-F,0
+La Paz,21303,Ayo Ayo,2011,7,TOTALES / TOTAL-F,0
+Cochabamba,30101,Cochabamba,2011,7,TOTALES / TOTAL-F,0
+La Paz,20105,El Alto,2011,7,TOTALES / TOTAL-F,0
+La Paz,20101,La Paz,2011,7,TOTALES / TOTAL-F,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,TOTALES / TOTAL-F,0
+Cochabamba,31501,Bolivar,2011,8,TOTALES / TOTAL-F,0
+Pando,90101,Cobija,2011,8,TOTALES / TOTAL-F,1
+Cochabamba,30101,Cochabamba,2011,8,TOTALES / TOTAL-F,1
+La Paz,20105,El Alto,2011,8,TOTALES / TOTAL-F,1
+La Paz,20101,La Paz,2011,8,TOTALES / TOTAL-F,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,TOTALES / TOTAL-F,0
+Santa Cruz,70706,Camiri,2011,9,TOTALES / TOTAL-F,1
+Beni,80201,Riberalta,2011,9,TOTALES / TOTAL-F,2
+Santa Cruz,70301,San Ignacio De Velasco,2011,9,TOTALES / TOTAL-F,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,TOTALES / TOTAL-F,0
+Pando,90101,Cobija,2011,10,TOTALES / TOTAL-F,3
+Pando,90503,Eureka (santos Mercado),2011,10,TOTALES / TOTAL-F,0
+Beni,80201,Riberalta,2011,10,TOTALES / TOTAL-F,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,TOTALES / TOTAL-F,0
+Cochabamba,31302,Vila Vila,2011,10,TOTALES / TOTAL-F,0
+Santa Cruz,70704,Cuevo,2011,11,TOTALES / TOTAL-F,1
+La Paz,21305,Patacamaya,2011,11,TOTALES / TOTAL-F,1
+Beni,80201,Riberalta,2011,11,TOTALES / TOTAL-F,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,TOTALES / TOTAL-F,1
+Santa Cruz,70704,Cuevo,2011,12,TOTALES / TOTAL-F,0
+Tarija,60601,Entre Rios Trj,2011,12,TOTALES / TOTAL-F,0
+Beni,80201,Riberalta,2011,12,TOTALES / TOTAL-F,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,TOTALES / TOTAL-F,0
+Santa Cruz,70702,Charagua,2011,1,TOTALES / TOTAL,1
+Santa Cruz,71101,Concepcion,2011,1,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2011,1,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,TOTALES / TOTAL,0
+La Paz,20101,La Paz,2011,2,TOTALES / TOTAL,1
+Oruro,40101,Oruro,2011,2,TOTALES / TOTAL,1
+Santa Cruz,70503,Robore,2011,2,TOTALES / TOTAL,1
+Santa Cruz,71105,San Antonio De Lomerio,2011,2,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,TOTALES / TOTAL,0
+Chuquisaca,10101,Sucre,2011,2,TOTALES / TOTAL,1
+Santa Cruz,70401,Buena Vista,2011,3,TOTALES / TOTAL,1
+Oruro,40101,Oruro,2011,3,TOTALES / TOTAL,1
+Beni,80201,Riberalta,2011,3,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,TOTALES / TOTAL,0
+Chuquisaca,10701,Camargo,2011,4,TOTALES / TOTAL,1
+Cochabamba,30901,Quillacollo,2011,4,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,TOTALES / TOTAL,0
+La Paz,20105,El Alto,2011,5,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2011,5,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,TOTALES / TOTAL,0
+Pando,90101,Cobija,2011,6,TOTALES / TOTAL,1
+La Paz,20105,El Alto,2011,6,TOTALES / TOTAL,1
+Chuquisaca,10502,Huacareta,2011,6,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,TOTALES / TOTAL,0
+La Paz,21303,Ayo Ayo,2011,7,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2011,7,TOTALES / TOTAL,1
+La Paz,20105,El Alto,2011,7,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2011,7,TOTALES / TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,TOTALES / TOTAL,0
+Cochabamba,31501,Bolivar,2011,8,TOTALES / TOTAL,1
+Pando,90101,Cobija,2011,8,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2011,8,TOTALES / TOTAL,1
+La Paz,20105,El Alto,2011,8,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2011,8,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,TOTALES / TOTAL,0
+Santa Cruz,70706,Camiri,2011,9,TOTALES / TOTAL,1
+Beni,80201,Riberalta,2011,9,TOTALES / TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2011,9,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,TOTALES / TOTAL,0
+Pando,90101,Cobija,2011,10,TOTALES / TOTAL,3
+Pando,90503,Eureka (santos Mercado),2011,10,TOTALES / TOTAL,1
+Beni,80201,Riberalta,2011,10,TOTALES / TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,TOTALES / TOTAL,0
+Cochabamba,31302,Vila Vila,2011,10,TOTALES / TOTAL,1
+Santa Cruz,70704,Cuevo,2011,11,TOTALES / TOTAL,1
+La Paz,21305,Patacamaya,2011,11,TOTALES / TOTAL,1
+Beni,80201,Riberalta,2011,11,TOTALES / TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,TOTALES / TOTAL,1
+Santa Cruz,70704,Cuevo,2011,12,TOTALES / TOTAL,1
+Tarija,60601,Entre Rios Trj,2011,12,TOTALES / TOTAL,1
+Beni,80201,Riberalta,2011,12,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,TOTALES / TOTAL,0

@@ -12,7 +12,11 @@ def load_conf(entries, filename="conf.json"):
 
     with open(filename) as f:
         conf = json.load(f)
-        return ([conf[i] for i in entries])
+        conf_entries = [conf[i] for i in entries]
+        if len(conf_entries) > 1:
+            return conf_entries
+        else:
+            return conf_entries[0]
 
 def load_headers():
     """

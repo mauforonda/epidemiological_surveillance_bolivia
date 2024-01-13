@@ -1,0 +1,37 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20101,La Paz,2010,1,Nro.,5
+La Paz,21002,Quime,2010,1,Nro.,1
+La Paz,20101,La Paz,2010,2,Nro.,4
+Tarija,60201,Padcaya,2010,2,Nro.,1
+La Paz,20606,Tipuani,2010,2,Nro.,1
+Chuquisaca,10902,Culpina,2010,5,Nro.,0
+La Paz,20101,La Paz,2010,10,Nro.,1
+La Paz,20101,La Paz,2010,11,Nro.,1
+Cochabamba,31003,Villa Tunari,2010,12,Nro.,0
+La Paz,20101,La Paz,2010,1,Nro. Afectados,636
+La Paz,21002,Quime,2010,1,Nro. Afectados,2
+La Paz,20101,La Paz,2010,2,Nro. Afectados,180
+Tarija,60201,Padcaya,2010,2,Nro. Afectados,0
+La Paz,20606,Tipuani,2010,2,Nro. Afectados,0
+Chuquisaca,10902,Culpina,2010,5,Nro. Afectados,1
+La Paz,20101,La Paz,2010,10,Nro. Afectados,3
+La Paz,20101,La Paz,2010,11,Nro. Afectados,6
+Cochabamba,31003,Villa Tunari,2010,12,Nro. Afectados,1
+La Paz,20101,La Paz,2010,1,Nro. Fallecidos,0
+La Paz,21002,Quime,2010,1,Nro. Fallecidos,0
+La Paz,20101,La Paz,2010,2,Nro. Fallecidos,0
+Tarija,60201,Padcaya,2010,2,Nro. Fallecidos,0
+La Paz,20606,Tipuani,2010,2,Nro. Fallecidos,0
+Chuquisaca,10902,Culpina,2010,5,Nro. Fallecidos,0
+La Paz,20101,La Paz,2010,10,Nro. Fallecidos,1
+La Paz,20101,La Paz,2010,11,Nro. Fallecidos,0
+Cochabamba,31003,Villa Tunari,2010,12,Nro. Fallecidos,0
+La Paz,20101,La Paz,2010,1,TOTAL,641
+La Paz,21002,Quime,2010,1,TOTAL,3
+La Paz,20101,La Paz,2010,2,TOTAL,184
+Tarija,60201,Padcaya,2010,2,TOTAL,1
+La Paz,20606,Tipuani,2010,2,TOTAL,1
+Chuquisaca,10902,Culpina,2010,5,TOTAL,1
+La Paz,20101,La Paz,2010,10,TOTAL,5
+La Paz,20101,La Paz,2010,11,TOTAL,7
+Cochabamba,31003,Villa Tunari,2010,12,TOTAL,1

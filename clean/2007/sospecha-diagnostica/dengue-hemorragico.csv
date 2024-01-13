@@ -1,0 +1,85 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,1,< de 1 ano,0
+Santa Cruz,70706,Camiri,2007,2,< de 1 ano,0
+Santa Cruz,71104,San Julian,2007,2,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,2,< de 1 ano,0
+Santa Cruz,70903,Mairana,2007,3,< de 1 ano,0
+Santa Cruz,71104,San Julian,2007,3,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,< de 1 ano,0
+Santa Cruz,70706,Camiri,2007,4,< de 1 ano,0
+Santa Cruz,71104,San Julian,2007,4,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,< de 1 ano,0
+Santa Cruz,70703,Cabezas,2007,5,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,7,< de 1 ano,0
+Beni,80301,Reyes,2007,9,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,1,1 a 4 anos,0
+Santa Cruz,70706,Camiri,2007,2,1 a 4 anos,1
+Santa Cruz,71104,San Julian,2007,2,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,2,1 a 4 anos,0
+Santa Cruz,70903,Mairana,2007,3,1 a 4 anos,0
+Santa Cruz,71104,San Julian,2007,3,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,1 a 4 anos,2
+Santa Cruz,70706,Camiri,2007,4,1 a 4 anos,0
+Santa Cruz,71104,San Julian,2007,4,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,1 a 4 anos,0
+Santa Cruz,70703,Cabezas,2007,5,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,7,1 a 4 anos,0
+Beni,80301,Reyes,2007,9,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,1,5 a 14 anos,3
+Santa Cruz,70706,Camiri,2007,2,5 a 14 anos,0
+Santa Cruz,71104,San Julian,2007,2,5 a 14 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,2,5 a 14 anos,5
+Santa Cruz,70903,Mairana,2007,3,5 a 14 anos,0
+Santa Cruz,71104,San Julian,2007,3,5 a 14 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,5 a 14 anos,2
+Santa Cruz,70706,Camiri,2007,4,5 a 14 anos,1
+Santa Cruz,71104,San Julian,2007,4,5 a 14 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,5 a 14 anos,2
+Santa Cruz,70703,Cabezas,2007,5,5 a 14 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,5 a 14 anos,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,7,5 a 14 anos,1
+Beni,80301,Reyes,2007,9,5 a 14 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,1,15 a 59 anos,2
+Santa Cruz,70706,Camiri,2007,2,15 a 59 anos,0
+Santa Cruz,71104,San Julian,2007,2,15 a 59 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,2,15 a 59 anos,12
+Santa Cruz,70903,Mairana,2007,3,15 a 59 anos,2
+Santa Cruz,71104,San Julian,2007,3,15 a 59 anos,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,15 a 59 anos,26
+Santa Cruz,70706,Camiri,2007,4,15 a 59 anos,0
+Santa Cruz,71104,San Julian,2007,4,15 a 59 anos,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,15 a 59 anos,22
+Santa Cruz,70703,Cabezas,2007,5,15 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,15 a 59 anos,14
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,7,15 a 59 anos,1
+Beni,80301,Reyes,2007,9,15 a 59 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,1,60 y mas,0
+Santa Cruz,70706,Camiri,2007,2,60 y mas,0
+Santa Cruz,71104,San Julian,2007,2,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,2,60 y mas,0
+Santa Cruz,70903,Mairana,2007,3,60 y mas,0
+Santa Cruz,71104,San Julian,2007,3,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,60 y mas,0
+Santa Cruz,70706,Camiri,2007,4,60 y mas,0
+Santa Cruz,71104,San Julian,2007,4,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,60 y mas,0
+Santa Cruz,70703,Cabezas,2007,5,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,7,60 y mas,0
+Beni,80301,Reyes,2007,9,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,1,TOTAL,5
+Santa Cruz,70706,Camiri,2007,2,TOTAL,1
+Santa Cruz,71104,San Julian,2007,2,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,2,TOTAL,17
+Santa Cruz,70903,Mairana,2007,3,TOTAL,2
+Santa Cruz,71104,San Julian,2007,3,TOTAL,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,TOTAL,30
+Santa Cruz,70706,Camiri,2007,4,TOTAL,1
+Santa Cruz,71104,San Julian,2007,4,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,TOTAL,24
+Santa Cruz,70703,Cabezas,2007,5,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,TOTAL,16
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,7,TOTAL,2
+Beni,80301,Reyes,2007,9,TOTAL,1

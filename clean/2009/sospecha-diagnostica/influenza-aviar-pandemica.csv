@@ -1,0 +1,932 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70707,Boyuibe,2009,1,< de 1 ano,0
+Santa Cruz,71402,Puerto Quijarro,2009,2,< de 1 ano,0
+Santa Cruz,70402,San Carlos,2009,2,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,2,< de 1 ano,0
+Santa Cruz,70701,Lagunillas,2009,4,< de 1 ano,0
+Santa Cruz,71001,Montero,2009,4,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,< de 1 ano,9
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,5,< de 1 ano,1
+Santa Cruz,70706,Camiri,2009,6,< de 1 ano,0
+Santa Cruz,70102,Cotoca,2009,6,< de 1 ano,0
+Santa Cruz,70105,El Torno,2009,6,< de 1 ano,0
+Santa Cruz,70104,La Guardia,2009,6,< de 1 ano,0
+Santa Cruz,71001,Montero,2009,6,< de 1 ano,0
+Santa Cruz,70502,Pailon,2009,6,< de 1 ano,1
+Santa Cruz,70103,Porongo,2009,6,< de 1 ano,0
+Santa Cruz,70601,Portachuelo,2009,6,< de 1 ano,0
+Potosí,50101,Potosi,2009,6,< de 1 ano,0
+Santa Cruz,71401,Puerto Suarez,2009,6,< de 1 ano,0
+Potosí,51101,Puna,2009,6,< de 1 ano,0
+Santa Cruz,70402,San Carlos,2009,6,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,6,< de 1 ano,27
+Potosí,50801,Tupiza,2009,6,< de 1 ano,0
+Potosí,51201,Uyuni,2009,6,< de 1 ano,0
+Potosí,51501,Villazon,2009,6,< de 1 ano,0
+Santa Cruz,70201,Warnes,2009,6,< de 1 ano,0
+Santa Cruz,70403,Yapacani,2009,6,< de 1 ano,0
+Santa Cruz,70706,Camiri,2009,7,< de 1 ano,0
+Santa Cruz,71301,Comarapa,2009,7,< de 1 ano,0
+Santa Cruz,70102,Cotoca,2009,7,< de 1 ano,0
+Santa Cruz,70105,El Torno,2009,7,< de 1 ano,0
+Santa Cruz,70104,La Guardia,2009,7,< de 1 ano,1
+Santa Cruz,71001,Montero,2009,7,< de 1 ano,0
+Santa Cruz,70202,Okinawa,2009,7,< de 1 ano,0
+Santa Cruz,70103,Porongo,2009,7,< de 1 ano,1
+Santa Cruz,70601,Portachuelo,2009,7,< de 1 ano,0
+Potosí,50101,Potosi,2009,7,< de 1 ano,0
+Santa Cruz,71402,Puerto Quijarro,2009,7,< de 1 ano,0
+Santa Cruz,71401,Puerto Suarez,2009,7,< de 1 ano,1
+Santa Cruz,70301,San Ignacio De Velasco,2009,7,< de 1 ano,0
+Santa Cruz,70501,San Jose De Chiquitos,2009,7,< de 1 ano,0
+Santa Cruz,70404,San Juan De Yapacani,2009,7,< de 1 ano,0
+Santa Cruz,70302,San Miguel De Velasco,2009,7,< de 1 ano,1
+Santa Cruz,71005,San Pedro,2009,7,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,< de 1 ano,143
+Chuquisaca,10101,Sucre,2009,7,< de 1 ano,4
+Potosí,50801,Tupiza,2009,7,< de 1 ano,0
+Potosí,51201,Uyuni,2009,7,< de 1 ano,0
+Santa Cruz,70801,Vallegrande,2009,7,< de 1 ano,0
+Potosí,51501,Villazon,2009,7,< de 1 ano,0
+Santa Cruz,70201,Warnes,2009,7,< de 1 ano,0
+Santa Cruz,70403,Yapacani,2009,7,< de 1 ano,0
+Santa Cruz,70707,Boyuibe,2009,8,< de 1 ano,0
+Santa Cruz,70703,Cabezas,2009,8,< de 1 ano,1
+Santa Cruz,70706,Camiri,2009,8,< de 1 ano,0
+Santa Cruz,70102,Cotoca,2009,8,< de 1 ano,0
+Santa Cruz,70105,El Torno,2009,8,< de 1 ano,1
+Santa Cruz,71002,General Saavedra,2009,8,< de 1 ano,0
+Santa Cruz,70104,La Guardia,2009,8,< de 1 ano,2
+Santa Cruz,71001,Montero,2009,8,< de 1 ano,1
+Santa Cruz,70803,Moro Moro,2009,8,< de 1 ano,0
+Santa Cruz,70202,Okinawa,2009,8,< de 1 ano,0
+Santa Cruz,70502,Pailon,2009,8,< de 1 ano,0
+Santa Cruz,70103,Porongo,2009,8,< de 1 ano,0
+Santa Cruz,70601,Portachuelo,2009,8,< de 1 ano,0
+Potosí,50101,Potosi,2009,8,< de 1 ano,0
+Santa Cruz,71402,Puerto Quijarro,2009,8,< de 1 ano,0
+Santa Cruz,71401,Puerto Suarez,2009,8,< de 1 ano,1
+Santa Cruz,71302,Saipina,2009,8,< de 1 ano,0
+Santa Cruz,70301,San Ignacio De Velasco,2009,8,< de 1 ano,0
+Santa Cruz,70501,San Jose De Chiquitos,2009,8,< de 1 ano,0
+Santa Cruz,70404,San Juan De Yapacani,2009,8,< de 1 ano,0
+Santa Cruz,70302,San Miguel De Velasco,2009,8,< de 1 ano,0
+Santa Cruz,70303,San Rafael,2009,8,< de 1 ano,0
+Beni,80401,Santa Ana,2009,8,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,8,< de 1 ano,219
+Chuquisaca,10403,Sopachuy,2009,8,< de 1 ano,0
+Chuquisaca,10101,Sucre,2009,8,< de 1 ano,1
+Beni,80101,Trinidad,2009,8,< de 1 ano,0
+Potosí,50801,Tupiza,2009,8,< de 1 ano,0
+Potosí,51201,Uyuni,2009,8,< de 1 ano,0
+Santa Cruz,70801,Vallegrande,2009,8,< de 1 ano,0
+Potosí,51501,Villazon,2009,8,< de 1 ano,0
+Santa Cruz,70201,Warnes,2009,8,< de 1 ano,1
+Santa Cruz,70403,Yapacani,2009,8,< de 1 ano,0
+Santa Cruz,70707,Boyuibe,2009,9,< de 1 ano,0
+Santa Cruz,70703,Cabezas,2009,9,< de 1 ano,1
+Santa Cruz,70706,Camiri,2009,9,< de 1 ano,1
+Santa Cruz,70102,Cotoca,2009,9,< de 1 ano,0
+Santa Cruz,70105,El Torno,2009,9,< de 1 ano,0
+Santa Cruz,70104,La Guardia,2009,9,< de 1 ano,0
+Santa Cruz,71003,Mineros,2009,9,< de 1 ano,0
+Santa Cruz,71001,Montero,2009,9,< de 1 ano,0
+Santa Cruz,70502,Pailon,2009,9,< de 1 ano,0
+Santa Cruz,70103,Porongo,2009,9,< de 1 ano,1
+Santa Cruz,70601,Portachuelo,2009,9,< de 1 ano,1
+Potosí,50101,Potosi,2009,9,< de 1 ano,0
+Santa Cruz,70805,Pucara,2009,9,< de 1 ano,0
+Santa Cruz,71402,Puerto Quijarro,2009,9,< de 1 ano,0
+Santa Cruz,71401,Puerto Suarez,2009,9,< de 1 ano,0
+Santa Cruz,70503,Robore,2009,9,< de 1 ano,0
+Santa Cruz,70301,San Ignacio De Velasco,2009,9,< de 1 ano,3
+Santa Cruz,70501,San Jose De Chiquitos,2009,9,< de 1 ano,0
+Santa Cruz,70404,San Juan De Yapacani,2009,9,< de 1 ano,0
+Santa Cruz,70302,San Miguel De Velasco,2009,9,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,9,< de 1 ano,52
+Chuquisaca,10101,Sucre,2009,9,< de 1 ano,1
+Santa Cruz,70802,Trigal,2009,9,< de 1 ano,0
+Potosí,50801,Tupiza,2009,9,< de 1 ano,0
+Potosí,51201,Uyuni,2009,9,< de 1 ano,0
+Santa Cruz,70801,Vallegrande,2009,9,< de 1 ano,0
+Santa Cruz,70201,Warnes,2009,9,< de 1 ano,0
+Santa Cruz,70403,Yapacani,2009,9,< de 1 ano,0
+Santa Cruz,70706,Camiri,2009,10,< de 1 ano,0
+Santa Cruz,70105,El Torno,2009,10,< de 1 ano,0
+Beni,80202,Guayaramerin,2009,10,< de 1 ano,0
+Santa Cruz,70104,La Guardia,2009,10,< de 1 ano,0
+Santa Cruz,70502,Pailon,2009,10,< de 1 ano,0
+Pando,90102,Porvenir,2009,10,< de 1 ano,0
+Potosí,50101,Potosi,2009,10,< de 1 ano,0
+Santa Cruz,70301,San Ignacio De Velasco,2009,10,< de 1 ano,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,10,< de 1 ano,22
+Chuquisaca,10101,Sucre,2009,10,< de 1 ano,0
+Beni,80101,Trinidad,2009,10,< de 1 ano,0
+Santa Cruz,70201,Warnes,2009,10,< de 1 ano,0
+Santa Cruz,70706,Camiri,2009,11,< de 1 ano,0
+Santa Cruz,70202,Okinawa,2009,11,< de 1 ano,0
+Potosí,50101,Potosi,2009,11,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,< de 1 ano,8
+Santa Cruz,70706,Camiri,2009,12,< de 1 ano,0
+Santa Cruz,71001,Montero,2009,12,< de 1 ano,0
+Potosí,50101,Potosi,2009,12,< de 1 ano,0
+Beni,80304,Rurrenabaque,2009,12,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,12,< de 1 ano,14
+Santa Cruz,70707,Boyuibe,2009,1,1 a 4 anos,0
+Santa Cruz,71402,Puerto Quijarro,2009,2,1 a 4 anos,0
+Santa Cruz,70402,San Carlos,2009,2,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,2,1 a 4 anos,9
+Santa Cruz,70701,Lagunillas,2009,4,1 a 4 anos,0
+Santa Cruz,71001,Montero,2009,4,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,1 a 4 anos,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,5,1 a 4 anos,1
+Santa Cruz,70706,Camiri,2009,6,1 a 4 anos,0
+Santa Cruz,70102,Cotoca,2009,6,1 a 4 anos,0
+Santa Cruz,70105,El Torno,2009,6,1 a 4 anos,4
+Santa Cruz,70104,La Guardia,2009,6,1 a 4 anos,0
+Santa Cruz,71001,Montero,2009,6,1 a 4 anos,0
+Santa Cruz,70502,Pailon,2009,6,1 a 4 anos,0
+Santa Cruz,70103,Porongo,2009,6,1 a 4 anos,0
+Santa Cruz,70601,Portachuelo,2009,6,1 a 4 anos,1
+Potosí,50101,Potosi,2009,6,1 a 4 anos,0
+Santa Cruz,71401,Puerto Suarez,2009,6,1 a 4 anos,0
+Potosí,51101,Puna,2009,6,1 a 4 anos,0
+Santa Cruz,70402,San Carlos,2009,6,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,6,1 a 4 anos,62
+Potosí,50801,Tupiza,2009,6,1 a 4 anos,0
+Potosí,51201,Uyuni,2009,6,1 a 4 anos,0
+Potosí,51501,Villazon,2009,6,1 a 4 anos,0
+Santa Cruz,70201,Warnes,2009,6,1 a 4 anos,0
+Santa Cruz,70403,Yapacani,2009,6,1 a 4 anos,0
+Santa Cruz,70706,Camiri,2009,7,1 a 4 anos,2
+Santa Cruz,71301,Comarapa,2009,7,1 a 4 anos,0
+Santa Cruz,70102,Cotoca,2009,7,1 a 4 anos,1
+Santa Cruz,70105,El Torno,2009,7,1 a 4 anos,4
+Santa Cruz,70104,La Guardia,2009,7,1 a 4 anos,6
+Santa Cruz,71001,Montero,2009,7,1 a 4 anos,2
+Santa Cruz,70202,Okinawa,2009,7,1 a 4 anos,0
+Santa Cruz,70103,Porongo,2009,7,1 a 4 anos,4
+Santa Cruz,70601,Portachuelo,2009,7,1 a 4 anos,4
+Potosí,50101,Potosi,2009,7,1 a 4 anos,1
+Santa Cruz,71402,Puerto Quijarro,2009,7,1 a 4 anos,0
+Santa Cruz,71401,Puerto Suarez,2009,7,1 a 4 anos,1
+Santa Cruz,70301,San Ignacio De Velasco,2009,7,1 a 4 anos,0
+Santa Cruz,70501,San Jose De Chiquitos,2009,7,1 a 4 anos,0
+Santa Cruz,70404,San Juan De Yapacani,2009,7,1 a 4 anos,0
+Santa Cruz,70302,San Miguel De Velasco,2009,7,1 a 4 anos,1
+Santa Cruz,71005,San Pedro,2009,7,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,1 a 4 anos,334
+Chuquisaca,10101,Sucre,2009,7,1 a 4 anos,17
+Potosí,50801,Tupiza,2009,7,1 a 4 anos,0
+Potosí,51201,Uyuni,2009,7,1 a 4 anos,0
+Santa Cruz,70801,Vallegrande,2009,7,1 a 4 anos,1
+Potosí,51501,Villazon,2009,7,1 a 4 anos,1
+Santa Cruz,70201,Warnes,2009,7,1 a 4 anos,2
+Santa Cruz,70403,Yapacani,2009,7,1 a 4 anos,0
+Santa Cruz,70707,Boyuibe,2009,8,1 a 4 anos,0
+Santa Cruz,70703,Cabezas,2009,8,1 a 4 anos,6
+Santa Cruz,70706,Camiri,2009,8,1 a 4 anos,5
+Santa Cruz,70102,Cotoca,2009,8,1 a 4 anos,5
+Santa Cruz,70105,El Torno,2009,8,1 a 4 anos,4
+Santa Cruz,71002,General Saavedra,2009,8,1 a 4 anos,0
+Santa Cruz,70104,La Guardia,2009,8,1 a 4 anos,22
+Santa Cruz,71001,Montero,2009,8,1 a 4 anos,10
+Santa Cruz,70803,Moro Moro,2009,8,1 a 4 anos,0
+Santa Cruz,70202,Okinawa,2009,8,1 a 4 anos,0
+Santa Cruz,70502,Pailon,2009,8,1 a 4 anos,0
+Santa Cruz,70103,Porongo,2009,8,1 a 4 anos,4
+Santa Cruz,70601,Portachuelo,2009,8,1 a 4 anos,2
+Potosí,50101,Potosi,2009,8,1 a 4 anos,1
+Santa Cruz,71402,Puerto Quijarro,2009,8,1 a 4 anos,0
+Santa Cruz,71401,Puerto Suarez,2009,8,1 a 4 anos,0
+Santa Cruz,71302,Saipina,2009,8,1 a 4 anos,0
+Santa Cruz,70301,San Ignacio De Velasco,2009,8,1 a 4 anos,1
+Santa Cruz,70501,San Jose De Chiquitos,2009,8,1 a 4 anos,0
+Santa Cruz,70404,San Juan De Yapacani,2009,8,1 a 4 anos,0
+Santa Cruz,70302,San Miguel De Velasco,2009,8,1 a 4 anos,1
+Santa Cruz,70303,San Rafael,2009,8,1 a 4 anos,0
+Beni,80401,Santa Ana,2009,8,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,8,1 a 4 anos,503
+Chuquisaca,10403,Sopachuy,2009,8,1 a 4 anos,0
+Chuquisaca,10101,Sucre,2009,8,1 a 4 anos,11
+Beni,80101,Trinidad,2009,8,1 a 4 anos,0
+Potosí,50801,Tupiza,2009,8,1 a 4 anos,0
+Potosí,51201,Uyuni,2009,8,1 a 4 anos,0
+Santa Cruz,70801,Vallegrande,2009,8,1 a 4 anos,0
+Potosí,51501,Villazon,2009,8,1 a 4 anos,0
+Santa Cruz,70201,Warnes,2009,8,1 a 4 anos,4
+Santa Cruz,70403,Yapacani,2009,8,1 a 4 anos,0
+Santa Cruz,70707,Boyuibe,2009,9,1 a 4 anos,1
+Santa Cruz,70703,Cabezas,2009,9,1 a 4 anos,0
+Santa Cruz,70706,Camiri,2009,9,1 a 4 anos,4
+Santa Cruz,70102,Cotoca,2009,9,1 a 4 anos,1
+Santa Cruz,70105,El Torno,2009,9,1 a 4 anos,0
+Santa Cruz,70104,La Guardia,2009,9,1 a 4 anos,6
+Santa Cruz,71003,Mineros,2009,9,1 a 4 anos,0
+Santa Cruz,71001,Montero,2009,9,1 a 4 anos,0
+Santa Cruz,70502,Pailon,2009,9,1 a 4 anos,5
+Santa Cruz,70103,Porongo,2009,9,1 a 4 anos,8
+Santa Cruz,70601,Portachuelo,2009,9,1 a 4 anos,0
+Potosí,50101,Potosi,2009,9,1 a 4 anos,0
+Santa Cruz,70805,Pucara,2009,9,1 a 4 anos,0
+Santa Cruz,71402,Puerto Quijarro,2009,9,1 a 4 anos,0
+Santa Cruz,71401,Puerto Suarez,2009,9,1 a 4 anos,0
+Santa Cruz,70503,Robore,2009,9,1 a 4 anos,0
+Santa Cruz,70301,San Ignacio De Velasco,2009,9,1 a 4 anos,4
+Santa Cruz,70501,San Jose De Chiquitos,2009,9,1 a 4 anos,2
+Santa Cruz,70404,San Juan De Yapacani,2009,9,1 a 4 anos,0
+Santa Cruz,70302,San Miguel De Velasco,2009,9,1 a 4 anos,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,9,1 a 4 anos,129
+Chuquisaca,10101,Sucre,2009,9,1 a 4 anos,4
+Santa Cruz,70802,Trigal,2009,9,1 a 4 anos,0
+Potosí,50801,Tupiza,2009,9,1 a 4 anos,1
+Potosí,51201,Uyuni,2009,9,1 a 4 anos,0
+Santa Cruz,70801,Vallegrande,2009,9,1 a 4 anos,0
+Santa Cruz,70201,Warnes,2009,9,1 a 4 anos,0
+Santa Cruz,70403,Yapacani,2009,9,1 a 4 anos,0
+Santa Cruz,70706,Camiri,2009,10,1 a 4 anos,0
+Santa Cruz,70105,El Torno,2009,10,1 a 4 anos,1
+Beni,80202,Guayaramerin,2009,10,1 a 4 anos,0
+Santa Cruz,70104,La Guardia,2009,10,1 a 4 anos,0
+Santa Cruz,70502,Pailon,2009,10,1 a 4 anos,0
+Pando,90102,Porvenir,2009,10,1 a 4 anos,0
+Potosí,50101,Potosi,2009,10,1 a 4 anos,0
+Santa Cruz,70301,San Ignacio De Velasco,2009,10,1 a 4 anos,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,10,1 a 4 anos,45
+Chuquisaca,10101,Sucre,2009,10,1 a 4 anos,0
+Beni,80101,Trinidad,2009,10,1 a 4 anos,0
+Santa Cruz,70201,Warnes,2009,10,1 a 4 anos,0
+Santa Cruz,70706,Camiri,2009,11,1 a 4 anos,0
+Santa Cruz,70202,Okinawa,2009,11,1 a 4 anos,0
+Potosí,50101,Potosi,2009,11,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,1 a 4 anos,5
+Santa Cruz,70706,Camiri,2009,12,1 a 4 anos,0
+Santa Cruz,71001,Montero,2009,12,1 a 4 anos,0
+Potosí,50101,Potosi,2009,12,1 a 4 anos,0
+Beni,80304,Rurrenabaque,2009,12,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,12,1 a 4 anos,17
+Santa Cruz,70707,Boyuibe,2009,1,5 a 9 anos,0
+Santa Cruz,71402,Puerto Quijarro,2009,2,5 a 9 anos,0
+Santa Cruz,70402,San Carlos,2009,2,5 a 9 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,2,5 a 9 anos,5
+Santa Cruz,70701,Lagunillas,2009,4,5 a 9 anos,0
+Santa Cruz,71001,Montero,2009,4,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,5,5 a 9 anos,1
+Santa Cruz,70706,Camiri,2009,6,5 a 9 anos,0
+Santa Cruz,70102,Cotoca,2009,6,5 a 9 anos,0
+Santa Cruz,70105,El Torno,2009,6,5 a 9 anos,0
+Santa Cruz,70104,La Guardia,2009,6,5 a 9 anos,0
+Santa Cruz,71001,Montero,2009,6,5 a 9 anos,0
+Santa Cruz,70502,Pailon,2009,6,5 a 9 anos,0
+Santa Cruz,70103,Porongo,2009,6,5 a 9 anos,0
+Santa Cruz,70601,Portachuelo,2009,6,5 a 9 anos,0
+Potosí,50101,Potosi,2009,6,5 a 9 anos,0
+Santa Cruz,71401,Puerto Suarez,2009,6,5 a 9 anos,0
+Potosí,51101,Puna,2009,6,5 a 9 anos,0
+Santa Cruz,70402,San Carlos,2009,6,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,6,5 a 9 anos,64
+Potosí,50801,Tupiza,2009,6,5 a 9 anos,0
+Potosí,51201,Uyuni,2009,6,5 a 9 anos,0
+Potosí,51501,Villazon,2009,6,5 a 9 anos,0
+Santa Cruz,70201,Warnes,2009,6,5 a 9 anos,0
+Santa Cruz,70403,Yapacani,2009,6,5 a 9 anos,0
+Santa Cruz,70706,Camiri,2009,7,5 a 9 anos,9
+Santa Cruz,71301,Comarapa,2009,7,5 a 9 anos,0
+Santa Cruz,70102,Cotoca,2009,7,5 a 9 anos,2
+Santa Cruz,70105,El Torno,2009,7,5 a 9 anos,4
+Santa Cruz,70104,La Guardia,2009,7,5 a 9 anos,8
+Santa Cruz,71001,Montero,2009,7,5 a 9 anos,6
+Santa Cruz,70202,Okinawa,2009,7,5 a 9 anos,1
+Santa Cruz,70103,Porongo,2009,7,5 a 9 anos,1
+Santa Cruz,70601,Portachuelo,2009,7,5 a 9 anos,4
+Potosí,50101,Potosi,2009,7,5 a 9 anos,1
+Santa Cruz,71402,Puerto Quijarro,2009,7,5 a 9 anos,0
+Santa Cruz,71401,Puerto Suarez,2009,7,5 a 9 anos,1
+Santa Cruz,70301,San Ignacio De Velasco,2009,7,5 a 9 anos,1
+Santa Cruz,70501,San Jose De Chiquitos,2009,7,5 a 9 anos,0
+Santa Cruz,70404,San Juan De Yapacani,2009,7,5 a 9 anos,0
+Santa Cruz,70302,San Miguel De Velasco,2009,7,5 a 9 anos,0
+Santa Cruz,71005,San Pedro,2009,7,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,5 a 9 anos,466
+Chuquisaca,10101,Sucre,2009,7,5 a 9 anos,14
+Potosí,50801,Tupiza,2009,7,5 a 9 anos,0
+Potosí,51201,Uyuni,2009,7,5 a 9 anos,0
+Santa Cruz,70801,Vallegrande,2009,7,5 a 9 anos,0
+Potosí,51501,Villazon,2009,7,5 a 9 anos,2
+Santa Cruz,70201,Warnes,2009,7,5 a 9 anos,3
+Santa Cruz,70403,Yapacani,2009,7,5 a 9 anos,2
+Santa Cruz,70707,Boyuibe,2009,8,5 a 9 anos,0
+Santa Cruz,70703,Cabezas,2009,8,5 a 9 anos,3
+Santa Cruz,70706,Camiri,2009,8,5 a 9 anos,19
+Santa Cruz,70102,Cotoca,2009,8,5 a 9 anos,6
+Santa Cruz,70105,El Torno,2009,8,5 a 9 anos,8
+Santa Cruz,71002,General Saavedra,2009,8,5 a 9 anos,0
+Santa Cruz,70104,La Guardia,2009,8,5 a 9 anos,26
+Santa Cruz,71001,Montero,2009,8,5 a 9 anos,28
+Santa Cruz,70803,Moro Moro,2009,8,5 a 9 anos,1
+Santa Cruz,70202,Okinawa,2009,8,5 a 9 anos,0
+Santa Cruz,70502,Pailon,2009,8,5 a 9 anos,0
+Santa Cruz,70103,Porongo,2009,8,5 a 9 anos,3
+Santa Cruz,70601,Portachuelo,2009,8,5 a 9 anos,8
+Potosí,50101,Potosi,2009,8,5 a 9 anos,3
+Santa Cruz,71402,Puerto Quijarro,2009,8,5 a 9 anos,0
+Santa Cruz,71401,Puerto Suarez,2009,8,5 a 9 anos,0
+Santa Cruz,71302,Saipina,2009,8,5 a 9 anos,0
+Santa Cruz,70301,San Ignacio De Velasco,2009,8,5 a 9 anos,0
+Santa Cruz,70501,San Jose De Chiquitos,2009,8,5 a 9 anos,0
+Santa Cruz,70404,San Juan De Yapacani,2009,8,5 a 9 anos,0
+Santa Cruz,70302,San Miguel De Velasco,2009,8,5 a 9 anos,0
+Santa Cruz,70303,San Rafael,2009,8,5 a 9 anos,0
+Beni,80401,Santa Ana,2009,8,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,8,5 a 9 anos,1054
+Chuquisaca,10403,Sopachuy,2009,8,5 a 9 anos,0
+Chuquisaca,10101,Sucre,2009,8,5 a 9 anos,20
+Beni,80101,Trinidad,2009,8,5 a 9 anos,0
+Potosí,50801,Tupiza,2009,8,5 a 9 anos,0
+Potosí,51201,Uyuni,2009,8,5 a 9 anos,0
+Santa Cruz,70801,Vallegrande,2009,8,5 a 9 anos,2
+Potosí,51501,Villazon,2009,8,5 a 9 anos,1
+Santa Cruz,70201,Warnes,2009,8,5 a 9 anos,9
+Santa Cruz,70403,Yapacani,2009,8,5 a 9 anos,0
+Santa Cruz,70707,Boyuibe,2009,9,5 a 9 anos,0
+Santa Cruz,70703,Cabezas,2009,9,5 a 9 anos,0
+Santa Cruz,70706,Camiri,2009,9,5 a 9 anos,3
+Santa Cruz,70102,Cotoca,2009,9,5 a 9 anos,5
+Santa Cruz,70105,El Torno,2009,9,5 a 9 anos,2
+Santa Cruz,70104,La Guardia,2009,9,5 a 9 anos,5
+Santa Cruz,71003,Mineros,2009,9,5 a 9 anos,0
+Santa Cruz,71001,Montero,2009,9,5 a 9 anos,1
+Santa Cruz,70502,Pailon,2009,9,5 a 9 anos,4
+Santa Cruz,70103,Porongo,2009,9,5 a 9 anos,6
+Santa Cruz,70601,Portachuelo,2009,9,5 a 9 anos,1
+Potosí,50101,Potosi,2009,9,5 a 9 anos,4
+Santa Cruz,70805,Pucara,2009,9,5 a 9 anos,0
+Santa Cruz,71402,Puerto Quijarro,2009,9,5 a 9 anos,0
+Santa Cruz,71401,Puerto Suarez,2009,9,5 a 9 anos,1
+Santa Cruz,70503,Robore,2009,9,5 a 9 anos,0
+Santa Cruz,70301,San Ignacio De Velasco,2009,9,5 a 9 anos,3
+Santa Cruz,70501,San Jose De Chiquitos,2009,9,5 a 9 anos,3
+Santa Cruz,70404,San Juan De Yapacani,2009,9,5 a 9 anos,0
+Santa Cruz,70302,San Miguel De Velasco,2009,9,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,9,5 a 9 anos,187
+Chuquisaca,10101,Sucre,2009,9,5 a 9 anos,3
+Santa Cruz,70802,Trigal,2009,9,5 a 9 anos,0
+Potosí,50801,Tupiza,2009,9,5 a 9 anos,0
+Potosí,51201,Uyuni,2009,9,5 a 9 anos,1
+Santa Cruz,70801,Vallegrande,2009,9,5 a 9 anos,2
+Santa Cruz,70201,Warnes,2009,9,5 a 9 anos,2
+Santa Cruz,70403,Yapacani,2009,9,5 a 9 anos,0
+Santa Cruz,70706,Camiri,2009,10,5 a 9 anos,0
+Santa Cruz,70105,El Torno,2009,10,5 a 9 anos,0
+Beni,80202,Guayaramerin,2009,10,5 a 9 anos,2
+Santa Cruz,70104,La Guardia,2009,10,5 a 9 anos,1
+Santa Cruz,70502,Pailon,2009,10,5 a 9 anos,2
+Pando,90102,Porvenir,2009,10,5 a 9 anos,0
+Potosí,50101,Potosi,2009,10,5 a 9 anos,0
+Santa Cruz,70301,San Ignacio De Velasco,2009,10,5 a 9 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,10,5 a 9 anos,22
+Chuquisaca,10101,Sucre,2009,10,5 a 9 anos,0
+Beni,80101,Trinidad,2009,10,5 a 9 anos,0
+Santa Cruz,70201,Warnes,2009,10,5 a 9 anos,0
+Santa Cruz,70706,Camiri,2009,11,5 a 9 anos,0
+Santa Cruz,70202,Okinawa,2009,11,5 a 9 anos,0
+Potosí,50101,Potosi,2009,11,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,5 a 9 anos,3
+Santa Cruz,70706,Camiri,2009,12,5 a 9 anos,1
+Santa Cruz,71001,Montero,2009,12,5 a 9 anos,0
+Potosí,50101,Potosi,2009,12,5 a 9 anos,1
+Beni,80304,Rurrenabaque,2009,12,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,12,5 a 9 anos,5
+Santa Cruz,70707,Boyuibe,2009,1,10 a 20 anos,0
+Santa Cruz,71402,Puerto Quijarro,2009,2,10 a 20 anos,0
+Santa Cruz,70402,San Carlos,2009,2,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,2,10 a 20 anos,0
+Santa Cruz,70701,Lagunillas,2009,4,10 a 20 anos,0
+Santa Cruz,71001,Montero,2009,4,10 a 20 anos,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,10 a 20 anos,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,5,10 a 20 anos,4
+Santa Cruz,70706,Camiri,2009,6,10 a 20 anos,1
+Santa Cruz,70102,Cotoca,2009,6,10 a 20 anos,2
+Santa Cruz,70105,El Torno,2009,6,10 a 20 anos,0
+Santa Cruz,70104,La Guardia,2009,6,10 a 20 anos,1
+Santa Cruz,71001,Montero,2009,6,10 a 20 anos,12
+Santa Cruz,70502,Pailon,2009,6,10 a 20 anos,0
+Santa Cruz,70103,Porongo,2009,6,10 a 20 anos,1
+Santa Cruz,70601,Portachuelo,2009,6,10 a 20 anos,2
+Potosí,50101,Potosi,2009,6,10 a 20 anos,0
+Santa Cruz,71401,Puerto Suarez,2009,6,10 a 20 anos,1
+Potosí,51101,Puna,2009,6,10 a 20 anos,0
+Santa Cruz,70402,San Carlos,2009,6,10 a 20 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,6,10 a 20 anos,231
+Potosí,50801,Tupiza,2009,6,10 a 20 anos,0
+Potosí,51201,Uyuni,2009,6,10 a 20 anos,0
+Potosí,51501,Villazon,2009,6,10 a 20 anos,0
+Santa Cruz,70201,Warnes,2009,6,10 a 20 anos,1
+Santa Cruz,70403,Yapacani,2009,6,10 a 20 anos,0
+Santa Cruz,70706,Camiri,2009,7,10 a 20 anos,25
+Santa Cruz,71301,Comarapa,2009,7,10 a 20 anos,2
+Santa Cruz,70102,Cotoca,2009,7,10 a 20 anos,4
+Santa Cruz,70105,El Torno,2009,7,10 a 20 anos,16
+Santa Cruz,70104,La Guardia,2009,7,10 a 20 anos,18
+Santa Cruz,71001,Montero,2009,7,10 a 20 anos,21
+Santa Cruz,70202,Okinawa,2009,7,10 a 20 anos,0
+Santa Cruz,70103,Porongo,2009,7,10 a 20 anos,1
+Santa Cruz,70601,Portachuelo,2009,7,10 a 20 anos,5
+Potosí,50101,Potosi,2009,7,10 a 20 anos,4
+Santa Cruz,71402,Puerto Quijarro,2009,7,10 a 20 anos,0
+Santa Cruz,71401,Puerto Suarez,2009,7,10 a 20 anos,3
+Santa Cruz,70301,San Ignacio De Velasco,2009,7,10 a 20 anos,2
+Santa Cruz,70501,San Jose De Chiquitos,2009,7,10 a 20 anos,0
+Santa Cruz,70404,San Juan De Yapacani,2009,7,10 a 20 anos,3
+Santa Cruz,70302,San Miguel De Velasco,2009,7,10 a 20 anos,0
+Santa Cruz,71005,San Pedro,2009,7,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,10 a 20 anos,1127
+Chuquisaca,10101,Sucre,2009,7,10 a 20 anos,65
+Potosí,50801,Tupiza,2009,7,10 a 20 anos,0
+Potosí,51201,Uyuni,2009,7,10 a 20 anos,0
+Santa Cruz,70801,Vallegrande,2009,7,10 a 20 anos,0
+Potosí,51501,Villazon,2009,7,10 a 20 anos,1
+Santa Cruz,70201,Warnes,2009,7,10 a 20 anos,2
+Santa Cruz,70403,Yapacani,2009,7,10 a 20 anos,1
+Santa Cruz,70707,Boyuibe,2009,8,10 a 20 anos,1
+Santa Cruz,70703,Cabezas,2009,8,10 a 20 anos,20
+Santa Cruz,70706,Camiri,2009,8,10 a 20 anos,28
+Santa Cruz,70102,Cotoca,2009,8,10 a 20 anos,15
+Santa Cruz,70105,El Torno,2009,8,10 a 20 anos,13
+Santa Cruz,71002,General Saavedra,2009,8,10 a 20 anos,0
+Santa Cruz,70104,La Guardia,2009,8,10 a 20 anos,76
+Santa Cruz,71001,Montero,2009,8,10 a 20 anos,21
+Santa Cruz,70803,Moro Moro,2009,8,10 a 20 anos,0
+Santa Cruz,70202,Okinawa,2009,8,10 a 20 anos,4
+Santa Cruz,70502,Pailon,2009,8,10 a 20 anos,2
+Santa Cruz,70103,Porongo,2009,8,10 a 20 anos,4
+Santa Cruz,70601,Portachuelo,2009,8,10 a 20 anos,8
+Potosí,50101,Potosi,2009,8,10 a 20 anos,17
+Santa Cruz,71402,Puerto Quijarro,2009,8,10 a 20 anos,0
+Santa Cruz,71401,Puerto Suarez,2009,8,10 a 20 anos,6
+Santa Cruz,71302,Saipina,2009,8,10 a 20 anos,1
+Santa Cruz,70301,San Ignacio De Velasco,2009,8,10 a 20 anos,1
+Santa Cruz,70501,San Jose De Chiquitos,2009,8,10 a 20 anos,2
+Santa Cruz,70404,San Juan De Yapacani,2009,8,10 a 20 anos,1
+Santa Cruz,70302,San Miguel De Velasco,2009,8,10 a 20 anos,1
+Santa Cruz,70303,San Rafael,2009,8,10 a 20 anos,3
+Beni,80401,Santa Ana,2009,8,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,8,10 a 20 anos,2038
+Chuquisaca,10403,Sopachuy,2009,8,10 a 20 anos,0
+Chuquisaca,10101,Sucre,2009,8,10 a 20 anos,63
+Beni,80101,Trinidad,2009,8,10 a 20 anos,1
+Potosí,50801,Tupiza,2009,8,10 a 20 anos,4
+Potosí,51201,Uyuni,2009,8,10 a 20 anos,0
+Santa Cruz,70801,Vallegrande,2009,8,10 a 20 anos,4
+Potosí,51501,Villazon,2009,8,10 a 20 anos,0
+Santa Cruz,70201,Warnes,2009,8,10 a 20 anos,16
+Santa Cruz,70403,Yapacani,2009,8,10 a 20 anos,1
+Santa Cruz,70707,Boyuibe,2009,9,10 a 20 anos,0
+Santa Cruz,70703,Cabezas,2009,9,10 a 20 anos,1
+Santa Cruz,70706,Camiri,2009,9,10 a 20 anos,6
+Santa Cruz,70102,Cotoca,2009,9,10 a 20 anos,7
+Santa Cruz,70105,El Torno,2009,9,10 a 20 anos,2
+Santa Cruz,70104,La Guardia,2009,9,10 a 20 anos,8
+Santa Cruz,71003,Mineros,2009,9,10 a 20 anos,0
+Santa Cruz,71001,Montero,2009,9,10 a 20 anos,5
+Santa Cruz,70502,Pailon,2009,9,10 a 20 anos,6
+Santa Cruz,70103,Porongo,2009,9,10 a 20 anos,8
+Santa Cruz,70601,Portachuelo,2009,9,10 a 20 anos,3
+Potosí,50101,Potosi,2009,9,10 a 20 anos,8
+Santa Cruz,70805,Pucara,2009,9,10 a 20 anos,1
+Santa Cruz,71402,Puerto Quijarro,2009,9,10 a 20 anos,1
+Santa Cruz,71401,Puerto Suarez,2009,9,10 a 20 anos,2
+Santa Cruz,70503,Robore,2009,9,10 a 20 anos,1
+Santa Cruz,70301,San Ignacio De Velasco,2009,9,10 a 20 anos,9
+Santa Cruz,70501,San Jose De Chiquitos,2009,9,10 a 20 anos,2
+Santa Cruz,70404,San Juan De Yapacani,2009,9,10 a 20 anos,1
+Santa Cruz,70302,San Miguel De Velasco,2009,9,10 a 20 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,9,10 a 20 anos,390
+Chuquisaca,10101,Sucre,2009,9,10 a 20 anos,3
+Santa Cruz,70802,Trigal,2009,9,10 a 20 anos,0
+Potosí,50801,Tupiza,2009,9,10 a 20 anos,4
+Potosí,51201,Uyuni,2009,9,10 a 20 anos,1
+Santa Cruz,70801,Vallegrande,2009,9,10 a 20 anos,3
+Santa Cruz,70201,Warnes,2009,9,10 a 20 anos,4
+Santa Cruz,70403,Yapacani,2009,9,10 a 20 anos,1
+Santa Cruz,70706,Camiri,2009,10,10 a 20 anos,1
+Santa Cruz,70105,El Torno,2009,10,10 a 20 anos,0
+Beni,80202,Guayaramerin,2009,10,10 a 20 anos,0
+Santa Cruz,70104,La Guardia,2009,10,10 a 20 anos,0
+Santa Cruz,70502,Pailon,2009,10,10 a 20 anos,1
+Pando,90102,Porvenir,2009,10,10 a 20 anos,0
+Potosí,50101,Potosi,2009,10,10 a 20 anos,2
+Santa Cruz,70301,San Ignacio De Velasco,2009,10,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,10,10 a 20 anos,47
+Chuquisaca,10101,Sucre,2009,10,10 a 20 anos,1
+Beni,80101,Trinidad,2009,10,10 a 20 anos,1
+Santa Cruz,70201,Warnes,2009,10,10 a 20 anos,0
+Santa Cruz,70706,Camiri,2009,11,10 a 20 anos,1
+Santa Cruz,70202,Okinawa,2009,11,10 a 20 anos,0
+Potosí,50101,Potosi,2009,11,10 a 20 anos,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,10 a 20 anos,11
+Santa Cruz,70706,Camiri,2009,12,10 a 20 anos,0
+Santa Cruz,71001,Montero,2009,12,10 a 20 anos,1
+Potosí,50101,Potosi,2009,12,10 a 20 anos,3
+Beni,80304,Rurrenabaque,2009,12,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,12,10 a 20 anos,12
+Santa Cruz,70707,Boyuibe,2009,1,21 a 59 anos,1
+Santa Cruz,71402,Puerto Quijarro,2009,2,21 a 59 anos,1
+Santa Cruz,70402,San Carlos,2009,2,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,2,21 a 59 anos,0
+Santa Cruz,70701,Lagunillas,2009,4,21 a 59 anos,2
+Santa Cruz,71001,Montero,2009,4,21 a 59 anos,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,21 a 59 anos,9
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,5,21 a 59 anos,23
+Santa Cruz,70706,Camiri,2009,6,21 a 59 anos,2
+Santa Cruz,70102,Cotoca,2009,6,21 a 59 anos,2
+Santa Cruz,70105,El Torno,2009,6,21 a 59 anos,3
+Santa Cruz,70104,La Guardia,2009,6,21 a 59 anos,0
+Santa Cruz,71001,Montero,2009,6,21 a 59 anos,3
+Santa Cruz,70502,Pailon,2009,6,21 a 59 anos,0
+Santa Cruz,70103,Porongo,2009,6,21 a 59 anos,0
+Santa Cruz,70601,Portachuelo,2009,6,21 a 59 anos,0
+Potosí,50101,Potosi,2009,6,21 a 59 anos,6
+Santa Cruz,71401,Puerto Suarez,2009,6,21 a 59 anos,0
+Potosí,51101,Puna,2009,6,21 a 59 anos,2
+Santa Cruz,70402,San Carlos,2009,6,21 a 59 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,6,21 a 59 anos,461
+Potosí,50801,Tupiza,2009,6,21 a 59 anos,1
+Potosí,51201,Uyuni,2009,6,21 a 59 anos,1
+Potosí,51501,Villazon,2009,6,21 a 59 anos,1
+Santa Cruz,70201,Warnes,2009,6,21 a 59 anos,0
+Santa Cruz,70403,Yapacani,2009,6,21 a 59 anos,1
+Santa Cruz,70706,Camiri,2009,7,21 a 59 anos,34
+Santa Cruz,71301,Comarapa,2009,7,21 a 59 anos,0
+Santa Cruz,70102,Cotoca,2009,7,21 a 59 anos,10
+Santa Cruz,70105,El Torno,2009,7,21 a 59 anos,12
+Santa Cruz,70104,La Guardia,2009,7,21 a 59 anos,7
+Santa Cruz,71001,Montero,2009,7,21 a 59 anos,33
+Santa Cruz,70202,Okinawa,2009,7,21 a 59 anos,1
+Santa Cruz,70103,Porongo,2009,7,21 a 59 anos,5
+Santa Cruz,70601,Portachuelo,2009,7,21 a 59 anos,2
+Potosí,50101,Potosi,2009,7,21 a 59 anos,25
+Santa Cruz,71402,Puerto Quijarro,2009,7,21 a 59 anos,1
+Santa Cruz,71401,Puerto Suarez,2009,7,21 a 59 anos,8
+Santa Cruz,70301,San Ignacio De Velasco,2009,7,21 a 59 anos,1
+Santa Cruz,70501,San Jose De Chiquitos,2009,7,21 a 59 anos,2
+Santa Cruz,70404,San Juan De Yapacani,2009,7,21 a 59 anos,2
+Santa Cruz,70302,San Miguel De Velasco,2009,7,21 a 59 anos,0
+Santa Cruz,71005,San Pedro,2009,7,21 a 59 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,21 a 59 anos,1907
+Chuquisaca,10101,Sucre,2009,7,21 a 59 anos,100
+Potosí,50801,Tupiza,2009,7,21 a 59 anos,5
+Potosí,51201,Uyuni,2009,7,21 a 59 anos,8
+Santa Cruz,70801,Vallegrande,2009,7,21 a 59 anos,0
+Potosí,51501,Villazon,2009,7,21 a 59 anos,9
+Santa Cruz,70201,Warnes,2009,7,21 a 59 anos,13
+Santa Cruz,70403,Yapacani,2009,7,21 a 59 anos,0
+Santa Cruz,70707,Boyuibe,2009,8,21 a 59 anos,0
+Santa Cruz,70703,Cabezas,2009,8,21 a 59 anos,17
+Santa Cruz,70706,Camiri,2009,8,21 a 59 anos,18
+Santa Cruz,70102,Cotoca,2009,8,21 a 59 anos,9
+Santa Cruz,70105,El Torno,2009,8,21 a 59 anos,19
+Santa Cruz,71002,General Saavedra,2009,8,21 a 59 anos,1
+Santa Cruz,70104,La Guardia,2009,8,21 a 59 anos,44
+Santa Cruz,71001,Montero,2009,8,21 a 59 anos,6
+Santa Cruz,70803,Moro Moro,2009,8,21 a 59 anos,0
+Santa Cruz,70202,Okinawa,2009,8,21 a 59 anos,0
+Santa Cruz,70502,Pailon,2009,8,21 a 59 anos,0
+Santa Cruz,70103,Porongo,2009,8,21 a 59 anos,1
+Santa Cruz,70601,Portachuelo,2009,8,21 a 59 anos,10
+Potosí,50101,Potosi,2009,8,21 a 59 anos,41
+Santa Cruz,71402,Puerto Quijarro,2009,8,21 a 59 anos,1
+Santa Cruz,71401,Puerto Suarez,2009,8,21 a 59 anos,6
+Santa Cruz,71302,Saipina,2009,8,21 a 59 anos,1
+Santa Cruz,70301,San Ignacio De Velasco,2009,8,21 a 59 anos,2
+Santa Cruz,70501,San Jose De Chiquitos,2009,8,21 a 59 anos,1
+Santa Cruz,70404,San Juan De Yapacani,2009,8,21 a 59 anos,1
+Santa Cruz,70302,San Miguel De Velasco,2009,8,21 a 59 anos,1
+Santa Cruz,70303,San Rafael,2009,8,21 a 59 anos,0
+Beni,80401,Santa Ana,2009,8,21 a 59 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,8,21 a 59 anos,1423
+Chuquisaca,10403,Sopachuy,2009,8,21 a 59 anos,0
+Chuquisaca,10101,Sucre,2009,8,21 a 59 anos,102
+Beni,80101,Trinidad,2009,8,21 a 59 anos,0
+Potosí,50801,Tupiza,2009,8,21 a 59 anos,1
+Potosí,51201,Uyuni,2009,8,21 a 59 anos,6
+Santa Cruz,70801,Vallegrande,2009,8,21 a 59 anos,1
+Potosí,51501,Villazon,2009,8,21 a 59 anos,1
+Santa Cruz,70201,Warnes,2009,8,21 a 59 anos,21
+Santa Cruz,70403,Yapacani,2009,8,21 a 59 anos,0
+Santa Cruz,70707,Boyuibe,2009,9,21 a 59 anos,0
+Santa Cruz,70703,Cabezas,2009,9,21 a 59 anos,4
+Santa Cruz,70706,Camiri,2009,9,21 a 59 anos,7
+Santa Cruz,70102,Cotoca,2009,9,21 a 59 anos,3
+Santa Cruz,70105,El Torno,2009,9,21 a 59 anos,8
+Santa Cruz,70104,La Guardia,2009,9,21 a 59 anos,14
+Santa Cruz,71003,Mineros,2009,9,21 a 59 anos,2
+Santa Cruz,71001,Montero,2009,9,21 a 59 anos,7
+Santa Cruz,70502,Pailon,2009,9,21 a 59 anos,2
+Santa Cruz,70103,Porongo,2009,9,21 a 59 anos,2
+Santa Cruz,70601,Portachuelo,2009,9,21 a 59 anos,0
+Potosí,50101,Potosi,2009,9,21 a 59 anos,27
+Santa Cruz,70805,Pucara,2009,9,21 a 59 anos,0
+Santa Cruz,71402,Puerto Quijarro,2009,9,21 a 59 anos,1
+Santa Cruz,71401,Puerto Suarez,2009,9,21 a 59 anos,0
+Santa Cruz,70503,Robore,2009,9,21 a 59 anos,1
+Santa Cruz,70301,San Ignacio De Velasco,2009,9,21 a 59 anos,4
+Santa Cruz,70501,San Jose De Chiquitos,2009,9,21 a 59 anos,3
+Santa Cruz,70404,San Juan De Yapacani,2009,9,21 a 59 anos,0
+Santa Cruz,70302,San Miguel De Velasco,2009,9,21 a 59 anos,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,9,21 a 59 anos,515
+Chuquisaca,10101,Sucre,2009,9,21 a 59 anos,35
+Santa Cruz,70802,Trigal,2009,9,21 a 59 anos,1
+Potosí,50801,Tupiza,2009,9,21 a 59 anos,9
+Potosí,51201,Uyuni,2009,9,21 a 59 anos,0
+Santa Cruz,70801,Vallegrande,2009,9,21 a 59 anos,6
+Santa Cruz,70201,Warnes,2009,9,21 a 59 anos,3
+Santa Cruz,70403,Yapacani,2009,9,21 a 59 anos,0
+Santa Cruz,70706,Camiri,2009,10,21 a 59 anos,1
+Santa Cruz,70105,El Torno,2009,10,21 a 59 anos,1
+Beni,80202,Guayaramerin,2009,10,21 a 59 anos,1
+Santa Cruz,70104,La Guardia,2009,10,21 a 59 anos,0
+Santa Cruz,70502,Pailon,2009,10,21 a 59 anos,0
+Pando,90102,Porvenir,2009,10,21 a 59 anos,1
+Potosí,50101,Potosi,2009,10,21 a 59 anos,6
+Santa Cruz,70301,San Ignacio De Velasco,2009,10,21 a 59 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,10,21 a 59 anos,98
+Chuquisaca,10101,Sucre,2009,10,21 a 59 anos,4
+Beni,80101,Trinidad,2009,10,21 a 59 anos,0
+Santa Cruz,70201,Warnes,2009,10,21 a 59 anos,1
+Santa Cruz,70706,Camiri,2009,11,21 a 59 anos,2
+Santa Cruz,70202,Okinawa,2009,11,21 a 59 anos,1
+Potosí,50101,Potosi,2009,11,21 a 59 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,21 a 59 anos,19
+Santa Cruz,70706,Camiri,2009,12,21 a 59 anos,5
+Santa Cruz,71001,Montero,2009,12,21 a 59 anos,1
+Potosí,50101,Potosi,2009,12,21 a 59 anos,6
+Beni,80304,Rurrenabaque,2009,12,21 a 59 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,12,21 a 59 anos,22
+Santa Cruz,70707,Boyuibe,2009,1,60 y mas,1
+Santa Cruz,71402,Puerto Quijarro,2009,2,60 y mas,0
+Santa Cruz,70402,San Carlos,2009,2,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,2,60 y mas,0
+Santa Cruz,70701,Lagunillas,2009,4,60 y mas,3
+Santa Cruz,71001,Montero,2009,4,60 y mas,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,60 y mas,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,5,60 y mas,3
+Santa Cruz,70706,Camiri,2009,6,60 y mas,0
+Santa Cruz,70102,Cotoca,2009,6,60 y mas,0
+Santa Cruz,70105,El Torno,2009,6,60 y mas,0
+Santa Cruz,70104,La Guardia,2009,6,60 y mas,0
+Santa Cruz,71001,Montero,2009,6,60 y mas,0
+Santa Cruz,70502,Pailon,2009,6,60 y mas,0
+Santa Cruz,70103,Porongo,2009,6,60 y mas,0
+Santa Cruz,70601,Portachuelo,2009,6,60 y mas,0
+Potosí,50101,Potosi,2009,6,60 y mas,0
+Santa Cruz,71401,Puerto Suarez,2009,6,60 y mas,0
+Potosí,51101,Puna,2009,6,60 y mas,0
+Santa Cruz,70402,San Carlos,2009,6,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,6,60 y mas,32
+Potosí,50801,Tupiza,2009,6,60 y mas,0
+Potosí,51201,Uyuni,2009,6,60 y mas,0
+Potosí,51501,Villazon,2009,6,60 y mas,0
+Santa Cruz,70201,Warnes,2009,6,60 y mas,0
+Santa Cruz,70403,Yapacani,2009,6,60 y mas,0
+Santa Cruz,70706,Camiri,2009,7,60 y mas,1
+Santa Cruz,71301,Comarapa,2009,7,60 y mas,0
+Santa Cruz,70102,Cotoca,2009,7,60 y mas,0
+Santa Cruz,70105,El Torno,2009,7,60 y mas,0
+Santa Cruz,70104,La Guardia,2009,7,60 y mas,0
+Santa Cruz,71001,Montero,2009,7,60 y mas,0
+Santa Cruz,70202,Okinawa,2009,7,60 y mas,0
+Santa Cruz,70103,Porongo,2009,7,60 y mas,0
+Santa Cruz,70601,Portachuelo,2009,7,60 y mas,0
+Potosí,50101,Potosi,2009,7,60 y mas,0
+Santa Cruz,71402,Puerto Quijarro,2009,7,60 y mas,0
+Santa Cruz,71401,Puerto Suarez,2009,7,60 y mas,0
+Santa Cruz,70301,San Ignacio De Velasco,2009,7,60 y mas,1
+Santa Cruz,70501,San Jose De Chiquitos,2009,7,60 y mas,0
+Santa Cruz,70404,San Juan De Yapacani,2009,7,60 y mas,0
+Santa Cruz,70302,San Miguel De Velasco,2009,7,60 y mas,0
+Santa Cruz,71005,San Pedro,2009,7,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,60 y mas,290
+Chuquisaca,10101,Sucre,2009,7,60 y mas,8
+Potosí,50801,Tupiza,2009,7,60 y mas,0
+Potosí,51201,Uyuni,2009,7,60 y mas,0
+Santa Cruz,70801,Vallegrande,2009,7,60 y mas,0
+Potosí,51501,Villazon,2009,7,60 y mas,1
+Santa Cruz,70201,Warnes,2009,7,60 y mas,0
+Santa Cruz,70403,Yapacani,2009,7,60 y mas,0
+Santa Cruz,70707,Boyuibe,2009,8,60 y mas,0
+Santa Cruz,70703,Cabezas,2009,8,60 y mas,0
+Santa Cruz,70706,Camiri,2009,8,60 y mas,1
+Santa Cruz,70102,Cotoca,2009,8,60 y mas,1
+Santa Cruz,70105,El Torno,2009,8,60 y mas,1
+Santa Cruz,71002,General Saavedra,2009,8,60 y mas,0
+Santa Cruz,70104,La Guardia,2009,8,60 y mas,5
+Santa Cruz,71001,Montero,2009,8,60 y mas,0
+Santa Cruz,70803,Moro Moro,2009,8,60 y mas,0
+Santa Cruz,70202,Okinawa,2009,8,60 y mas,0
+Santa Cruz,70502,Pailon,2009,8,60 y mas,0
+Santa Cruz,70103,Porongo,2009,8,60 y mas,0
+Santa Cruz,70601,Portachuelo,2009,8,60 y mas,0
+Potosí,50101,Potosi,2009,8,60 y mas,2
+Santa Cruz,71402,Puerto Quijarro,2009,8,60 y mas,0
+Santa Cruz,71401,Puerto Suarez,2009,8,60 y mas,1
+Santa Cruz,71302,Saipina,2009,8,60 y mas,0
+Santa Cruz,70301,San Ignacio De Velasco,2009,8,60 y mas,0
+Santa Cruz,70501,San Jose De Chiquitos,2009,8,60 y mas,0
+Santa Cruz,70404,San Juan De Yapacani,2009,8,60 y mas,0
+Santa Cruz,70302,San Miguel De Velasco,2009,8,60 y mas,0
+Santa Cruz,70303,San Rafael,2009,8,60 y mas,0
+Beni,80401,Santa Ana,2009,8,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,8,60 y mas,92
+Chuquisaca,10403,Sopachuy,2009,8,60 y mas,1
+Chuquisaca,10101,Sucre,2009,8,60 y mas,2
+Beni,80101,Trinidad,2009,8,60 y mas,0
+Potosí,50801,Tupiza,2009,8,60 y mas,0
+Potosí,51201,Uyuni,2009,8,60 y mas,0
+Santa Cruz,70801,Vallegrande,2009,8,60 y mas,0
+Potosí,51501,Villazon,2009,8,60 y mas,0
+Santa Cruz,70201,Warnes,2009,8,60 y mas,2
+Santa Cruz,70403,Yapacani,2009,8,60 y mas,0
+Santa Cruz,70707,Boyuibe,2009,9,60 y mas,0
+Santa Cruz,70703,Cabezas,2009,9,60 y mas,0
+Santa Cruz,70706,Camiri,2009,9,60 y mas,1
+Santa Cruz,70102,Cotoca,2009,9,60 y mas,0
+Santa Cruz,70105,El Torno,2009,9,60 y mas,0
+Santa Cruz,70104,La Guardia,2009,9,60 y mas,0
+Santa Cruz,71003,Mineros,2009,9,60 y mas,0
+Santa Cruz,71001,Montero,2009,9,60 y mas,0
+Santa Cruz,70502,Pailon,2009,9,60 y mas,0
+Santa Cruz,70103,Porongo,2009,9,60 y mas,0
+Santa Cruz,70601,Portachuelo,2009,9,60 y mas,3
+Potosí,50101,Potosi,2009,9,60 y mas,2
+Santa Cruz,70805,Pucara,2009,9,60 y mas,0
+Santa Cruz,71402,Puerto Quijarro,2009,9,60 y mas,0
+Santa Cruz,71401,Puerto Suarez,2009,9,60 y mas,0
+Santa Cruz,70503,Robore,2009,9,60 y mas,0
+Santa Cruz,70301,San Ignacio De Velasco,2009,9,60 y mas,0
+Santa Cruz,70501,San Jose De Chiquitos,2009,9,60 y mas,0
+Santa Cruz,70404,San Juan De Yapacani,2009,9,60 y mas,0
+Santa Cruz,70302,San Miguel De Velasco,2009,9,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,9,60 y mas,28
+Chuquisaca,10101,Sucre,2009,9,60 y mas,2
+Santa Cruz,70802,Trigal,2009,9,60 y mas,1
+Potosí,50801,Tupiza,2009,9,60 y mas,0
+Potosí,51201,Uyuni,2009,9,60 y mas,0
+Santa Cruz,70801,Vallegrande,2009,9,60 y mas,0
+Santa Cruz,70201,Warnes,2009,9,60 y mas,1
+Santa Cruz,70403,Yapacani,2009,9,60 y mas,0
+Santa Cruz,70706,Camiri,2009,10,60 y mas,1
+Santa Cruz,70105,El Torno,2009,10,60 y mas,0
+Beni,80202,Guayaramerin,2009,10,60 y mas,0
+Santa Cruz,70104,La Guardia,2009,10,60 y mas,0
+Santa Cruz,70502,Pailon,2009,10,60 y mas,0
+Pando,90102,Porvenir,2009,10,60 y mas,0
+Potosí,50101,Potosi,2009,10,60 y mas,0
+Santa Cruz,70301,San Ignacio De Velasco,2009,10,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,10,60 y mas,12
+Chuquisaca,10101,Sucre,2009,10,60 y mas,0
+Beni,80101,Trinidad,2009,10,60 y mas,0
+Santa Cruz,70201,Warnes,2009,10,60 y mas,0
+Santa Cruz,70706,Camiri,2009,11,60 y mas,0
+Santa Cruz,70202,Okinawa,2009,11,60 y mas,0
+Potosí,50101,Potosi,2009,11,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,60 y mas,2
+Santa Cruz,70706,Camiri,2009,12,60 y mas,0
+Santa Cruz,71001,Montero,2009,12,60 y mas,1
+Potosí,50101,Potosi,2009,12,60 y mas,3
+Beni,80304,Rurrenabaque,2009,12,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,12,60 y mas,5
+Santa Cruz,70707,Boyuibe,2009,1,TOTAL,2
+Santa Cruz,71402,Puerto Quijarro,2009,2,TOTAL,1
+Santa Cruz,70402,San Carlos,2009,2,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,2,TOTAL,14
+Santa Cruz,70701,Lagunillas,2009,4,TOTAL,5
+Santa Cruz,71001,Montero,2009,4,TOTAL,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,TOTAL,25
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,5,TOTAL,33
+Santa Cruz,70706,Camiri,2009,6,TOTAL,3
+Santa Cruz,70102,Cotoca,2009,6,TOTAL,4
+Santa Cruz,70105,El Torno,2009,6,TOTAL,7
+Santa Cruz,70104,La Guardia,2009,6,TOTAL,1
+Santa Cruz,71001,Montero,2009,6,TOTAL,15
+Santa Cruz,70502,Pailon,2009,6,TOTAL,1
+Santa Cruz,70103,Porongo,2009,6,TOTAL,1
+Santa Cruz,70601,Portachuelo,2009,6,TOTAL,3
+Potosí,50101,Potosi,2009,6,TOTAL,6
+Santa Cruz,71401,Puerto Suarez,2009,6,TOTAL,1
+Potosí,51101,Puna,2009,6,TOTAL,2
+Santa Cruz,70402,San Carlos,2009,6,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,6,TOTAL,877
+Potosí,50801,Tupiza,2009,6,TOTAL,1
+Potosí,51201,Uyuni,2009,6,TOTAL,1
+Potosí,51501,Villazon,2009,6,TOTAL,1
+Santa Cruz,70201,Warnes,2009,6,TOTAL,1
+Santa Cruz,70403,Yapacani,2009,6,TOTAL,1
+Santa Cruz,70706,Camiri,2009,7,TOTAL,71
+Santa Cruz,71301,Comarapa,2009,7,TOTAL,2
+Santa Cruz,70102,Cotoca,2009,7,TOTAL,17
+Santa Cruz,70105,El Torno,2009,7,TOTAL,36
+Santa Cruz,70104,La Guardia,2009,7,TOTAL,40
+Santa Cruz,71001,Montero,2009,7,TOTAL,62
+Santa Cruz,70202,Okinawa,2009,7,TOTAL,2
+Santa Cruz,70103,Porongo,2009,7,TOTAL,12
+Santa Cruz,70601,Portachuelo,2009,7,TOTAL,15
+Potosí,50101,Potosi,2009,7,TOTAL,31
+Santa Cruz,71402,Puerto Quijarro,2009,7,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2009,7,TOTAL,14
+Santa Cruz,70301,San Ignacio De Velasco,2009,7,TOTAL,5
+Santa Cruz,70501,San Jose De Chiquitos,2009,7,TOTAL,2
+Santa Cruz,70404,San Juan De Yapacani,2009,7,TOTAL,5
+Santa Cruz,70302,San Miguel De Velasco,2009,7,TOTAL,2
+Santa Cruz,71005,San Pedro,2009,7,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,TOTAL,4267
+Chuquisaca,10101,Sucre,2009,7,TOTAL,208
+Potosí,50801,Tupiza,2009,7,TOTAL,5
+Potosí,51201,Uyuni,2009,7,TOTAL,8
+Santa Cruz,70801,Vallegrande,2009,7,TOTAL,1
+Potosí,51501,Villazon,2009,7,TOTAL,14
+Santa Cruz,70201,Warnes,2009,7,TOTAL,20
+Santa Cruz,70403,Yapacani,2009,7,TOTAL,3
+Santa Cruz,70707,Boyuibe,2009,8,TOTAL,1
+Santa Cruz,70703,Cabezas,2009,8,TOTAL,47
+Santa Cruz,70706,Camiri,2009,8,TOTAL,71
+Santa Cruz,70102,Cotoca,2009,8,TOTAL,36
+Santa Cruz,70105,El Torno,2009,8,TOTAL,46
+Santa Cruz,71002,General Saavedra,2009,8,TOTAL,1
+Santa Cruz,70104,La Guardia,2009,8,TOTAL,175
+Santa Cruz,71001,Montero,2009,8,TOTAL,66
+Santa Cruz,70803,Moro Moro,2009,8,TOTAL,1
+Santa Cruz,70202,Okinawa,2009,8,TOTAL,4
+Santa Cruz,70502,Pailon,2009,8,TOTAL,2
+Santa Cruz,70103,Porongo,2009,8,TOTAL,12
+Santa Cruz,70601,Portachuelo,2009,8,TOTAL,28
+Potosí,50101,Potosi,2009,8,TOTAL,64
+Santa Cruz,71402,Puerto Quijarro,2009,8,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2009,8,TOTAL,14
+Santa Cruz,71302,Saipina,2009,8,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2009,8,TOTAL,4
+Santa Cruz,70501,San Jose De Chiquitos,2009,8,TOTAL,3
+Santa Cruz,70404,San Juan De Yapacani,2009,8,TOTAL,2
+Santa Cruz,70302,San Miguel De Velasco,2009,8,TOTAL,3
+Santa Cruz,70303,San Rafael,2009,8,TOTAL,3
+Beni,80401,Santa Ana,2009,8,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,8,TOTAL,5329
+Chuquisaca,10403,Sopachuy,2009,8,TOTAL,1
+Chuquisaca,10101,Sucre,2009,8,TOTAL,199
+Beni,80101,Trinidad,2009,8,TOTAL,1
+Potosí,50801,Tupiza,2009,8,TOTAL,5
+Potosí,51201,Uyuni,2009,8,TOTAL,6
+Santa Cruz,70801,Vallegrande,2009,8,TOTAL,7
+Potosí,51501,Villazon,2009,8,TOTAL,2
+Santa Cruz,70201,Warnes,2009,8,TOTAL,53
+Santa Cruz,70403,Yapacani,2009,8,TOTAL,1
+Santa Cruz,70707,Boyuibe,2009,9,TOTAL,1
+Santa Cruz,70703,Cabezas,2009,9,TOTAL,6
+Santa Cruz,70706,Camiri,2009,9,TOTAL,22
+Santa Cruz,70102,Cotoca,2009,9,TOTAL,16
+Santa Cruz,70105,El Torno,2009,9,TOTAL,12
+Santa Cruz,70104,La Guardia,2009,9,TOTAL,33
+Santa Cruz,71003,Mineros,2009,9,TOTAL,2
+Santa Cruz,71001,Montero,2009,9,TOTAL,13
+Santa Cruz,70502,Pailon,2009,9,TOTAL,17
+Santa Cruz,70103,Porongo,2009,9,TOTAL,25
+Santa Cruz,70601,Portachuelo,2009,9,TOTAL,8
+Potosí,50101,Potosi,2009,9,TOTAL,41
+Santa Cruz,70805,Pucara,2009,9,TOTAL,1
+Santa Cruz,71402,Puerto Quijarro,2009,9,TOTAL,2
+Santa Cruz,71401,Puerto Suarez,2009,9,TOTAL,3
+Santa Cruz,70503,Robore,2009,9,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2009,9,TOTAL,23
+Santa Cruz,70501,San Jose De Chiquitos,2009,9,TOTAL,10
+Santa Cruz,70404,San Juan De Yapacani,2009,9,TOTAL,1
+Santa Cruz,70302,San Miguel De Velasco,2009,9,TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,9,TOTAL,1301
+Chuquisaca,10101,Sucre,2009,9,TOTAL,48
+Santa Cruz,70802,Trigal,2009,9,TOTAL,2
+Potosí,50801,Tupiza,2009,9,TOTAL,14
+Potosí,51201,Uyuni,2009,9,TOTAL,2
+Santa Cruz,70801,Vallegrande,2009,9,TOTAL,11
+Santa Cruz,70201,Warnes,2009,9,TOTAL,10
+Santa Cruz,70403,Yapacani,2009,9,TOTAL,1
+Santa Cruz,70706,Camiri,2009,10,TOTAL,3
+Santa Cruz,70105,El Torno,2009,10,TOTAL,2
+Beni,80202,Guayaramerin,2009,10,TOTAL,3
+Santa Cruz,70104,La Guardia,2009,10,TOTAL,1
+Santa Cruz,70502,Pailon,2009,10,TOTAL,3
+Pando,90102,Porvenir,2009,10,TOTAL,1
+Potosí,50101,Potosi,2009,10,TOTAL,8
+Santa Cruz,70301,San Ignacio De Velasco,2009,10,TOTAL,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,10,TOTAL,246
+Chuquisaca,10101,Sucre,2009,10,TOTAL,5
+Beni,80101,Trinidad,2009,10,TOTAL,1
+Santa Cruz,70201,Warnes,2009,10,TOTAL,1
+Santa Cruz,70706,Camiri,2009,11,TOTAL,3
+Santa Cruz,70202,Okinawa,2009,11,TOTAL,1
+Potosí,50101,Potosi,2009,11,TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,TOTAL,48
+Santa Cruz,70706,Camiri,2009,12,TOTAL,6
+Santa Cruz,71001,Montero,2009,12,TOTAL,3
+Potosí,50101,Potosi,2009,12,TOTAL,13
+Beni,80304,Rurrenabaque,2009,12,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,12,TOTAL,75

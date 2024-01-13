@@ -1,0 +1,29 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,71002,General Saavedra,2010,11,< de 1 ano,0
+Santa Cruz,70105,El Torno,2010,12,< de 1 ano,0
+Santa Cruz,71001,Montero,2010,12,< de 1 ano,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,12,< de 1 ano,0
+Santa Cruz,71002,General Saavedra,2010,11,1 a 4 anos,0
+Santa Cruz,70105,El Torno,2010,12,1 a 4 anos,0
+Santa Cruz,71001,Montero,2010,12,1 a 4 anos,8
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,12,1 a 4 anos,0
+Santa Cruz,71002,General Saavedra,2010,11,5 a 9 anos,0
+Santa Cruz,70105,El Torno,2010,12,5 a 9 anos,0
+Santa Cruz,71001,Montero,2010,12,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,12,5 a 9 anos,0
+Santa Cruz,71002,General Saavedra,2010,11,10 a 20 anos,0
+Santa Cruz,70105,El Torno,2010,12,10 a 20 anos,1
+Santa Cruz,71001,Montero,2010,12,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,12,10 a 20 anos,0
+Santa Cruz,71002,General Saavedra,2010,11,21 a 59 anos,1
+Santa Cruz,70105,El Torno,2010,12,21 a 59 anos,0
+Santa Cruz,71001,Montero,2010,12,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,12,21 a 59 anos,1
+Santa Cruz,71002,General Saavedra,2010,11,60 y mas,0
+Santa Cruz,70105,El Torno,2010,12,60 y mas,0
+Santa Cruz,71001,Montero,2010,12,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,12,60 y mas,0
+Santa Cruz,71002,General Saavedra,2010,11,TOTAL,1
+Santa Cruz,70105,El Torno,2010,12,TOTAL,1
+Santa Cruz,71001,Montero,2010,12,TOTAL,11
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,12,TOTAL,1

@@ -1,0 +1,66 @@
+department,municipality_id,municipality,year,month,population,value
+Beni,80101,Trinidad,2007,3,< de 1 ano-H,3
+Tarija,60101,Tarija,2007,4,< de 1 ano-H,1
+Santa Cruz,71001,Montero,2007,5,< de 1 ano-H,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,< de 1 ano-H,0
+Oruro,40701,Huanuni,2007,12,< de 1 ano-H,0
+Beni,80101,Trinidad,2007,3,< de 1 ano-M,1
+Tarija,60101,Tarija,2007,4,< de 1 ano-M,1
+Santa Cruz,71001,Montero,2007,5,< de 1 ano-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,< de 1 ano-M,1
+Oruro,40701,Huanuni,2007,12,< de 1 ano-M,1
+Beni,80101,Trinidad,2007,3,1 a 4 anos-H,0
+Tarija,60101,Tarija,2007,4,1 a 4 anos-H,0
+Santa Cruz,71001,Montero,2007,5,1 a 4 anos-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,1 a 4 anos-H,0
+Oruro,40701,Huanuni,2007,12,1 a 4 anos-H,0
+Beni,80101,Trinidad,2007,3,1 a 4 anos-M,0
+Tarija,60101,Tarija,2007,4,1 a 4 anos-M,0
+Santa Cruz,71001,Montero,2007,5,1 a 4 anos-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,1 a 4 anos-M,0
+Oruro,40701,Huanuni,2007,12,1 a 4 anos-M,0
+Beni,80101,Trinidad,2007,3,5 a 14 anos-H,0
+Tarija,60101,Tarija,2007,4,5 a 14 anos-H,0
+Santa Cruz,71001,Montero,2007,5,5 a 14 anos-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,5 a 14 anos-H,0
+Oruro,40701,Huanuni,2007,12,5 a 14 anos-H,0
+Beni,80101,Trinidad,2007,3,5 a 14 anos-M,0
+Tarija,60101,Tarija,2007,4,5 a 14 anos-M,0
+Santa Cruz,71001,Montero,2007,5,5 a 14 anos-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,5 a 14 anos-M,0
+Oruro,40701,Huanuni,2007,12,5 a 14 anos-M,0
+Beni,80101,Trinidad,2007,3,15 a 59 anos-H,0
+Tarija,60101,Tarija,2007,4,15 a 59 anos-H,0
+Santa Cruz,71001,Montero,2007,5,15 a 59 anos-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,15 a 59 anos-H,0
+Oruro,40701,Huanuni,2007,12,15 a 59 anos-H,0
+Beni,80101,Trinidad,2007,3,15 a 59 anos-M,0
+Tarija,60101,Tarija,2007,4,15 a 59 anos-M,0
+Santa Cruz,71001,Montero,2007,5,15 a 59 anos-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,15 a 59 anos-M,0
+Oruro,40701,Huanuni,2007,12,15 a 59 anos-M,0
+Beni,80101,Trinidad,2007,3,60 y mas-H,0
+Tarija,60101,Tarija,2007,4,60 y mas-H,0
+Santa Cruz,71001,Montero,2007,5,60 y mas-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,60 y mas-H,0
+Oruro,40701,Huanuni,2007,12,60 y mas-H,0
+Beni,80101,Trinidad,2007,3,60 y mas-M,0
+Tarija,60101,Tarija,2007,4,60 y mas-M,0
+Santa Cruz,71001,Montero,2007,5,60 y mas-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,60 y mas-M,0
+Oruro,40701,Huanuni,2007,12,60 y mas-M,0
+Beni,80101,Trinidad,2007,3,TOTAL-H,3
+Tarija,60101,Tarija,2007,4,TOTAL-H,1
+Santa Cruz,71001,Montero,2007,5,TOTAL-H,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,TOTAL-H,0
+Oruro,40701,Huanuni,2007,12,TOTAL-H,0
+Beni,80101,Trinidad,2007,3,TOTAL-M,1
+Tarija,60101,Tarija,2007,4,TOTAL-M,1
+Santa Cruz,71001,Montero,2007,5,TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,TOTAL-M,1
+Oruro,40701,Huanuni,2007,12,TOTAL-M,1
+Beni,80101,Trinidad,2007,3,TOTAL,4
+Tarija,60101,Tarija,2007,4,TOTAL,2
+Santa Cruz,71001,Montero,2007,5,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,TOTAL,1
+Oruro,40701,Huanuni,2007,12,TOTAL,1

@@ -1,0 +1,61 @@
+department,municipality_id,municipality,year,month,population,value
+Chuquisaca,10201,Azurduy,2015,1,a. Nro. Eventos,1
+Chuquisaca,10801,Villa Serrano,2015,1,a. Nro. Eventos,1
+Pando,90103,Bolpebra,2015,2,a. Nro. Eventos,1
+Cochabamba,30801,Cliza,2015,2,a. Nro. Eventos,0
+Beni,80802,Baures,2015,3,a. Nro. Eventos,1
+Chuquisaca,10202,Tarvita,2015,3,a. Nro. Eventos,1
+Chuquisaca,10304,Icla,2015,8,a. Nro. Eventos,0
+Pando,90103,Bolpebra,2015,10,a. Nro. Eventos,1
+Chuquisaca,10902,Culpina,2015,10,a. Nro. Eventos,1
+Tarija,60502,El Puente(tja),2015,10,a. Nro. Eventos,0
+Chuquisaca,10202,Tarvita,2015,10,a. Nro. Eventos,1
+La Paz,20606,Tipuani,2015,11,a. Nro. Eventos,1
+Oruro,40402,Turco,2015,11,a. Nro. Eventos,0
+La Paz,20105,El Alto,2015,12,a. Nro. Eventos,1
+Chuquisaca,10702,San Lucas,2015,12,a. Nro. Eventos,1
+Chuquisaca,10201,Azurduy,2015,1,b. Nro. Personas afectadas,58
+Chuquisaca,10801,Villa Serrano,2015,1,b. Nro. Personas afectadas,5
+Pando,90103,Bolpebra,2015,2,b. Nro. Personas afectadas,0
+Cochabamba,30801,Cliza,2015,2,b. Nro. Personas afectadas,3
+Beni,80802,Baures,2015,3,b. Nro. Personas afectadas,12
+Chuquisaca,10202,Tarvita,2015,3,b. Nro. Personas afectadas,0
+Chuquisaca,10304,Icla,2015,8,b. Nro. Personas afectadas,0
+Pando,90103,Bolpebra,2015,10,b. Nro. Personas afectadas,7
+Chuquisaca,10902,Culpina,2015,10,b. Nro. Personas afectadas,0
+Tarija,60502,El Puente(tja),2015,10,b. Nro. Personas afectadas,3
+Chuquisaca,10202,Tarvita,2015,10,b. Nro. Personas afectadas,1
+La Paz,20606,Tipuani,2015,11,b. Nro. Personas afectadas,25
+Oruro,40402,Turco,2015,11,b. Nro. Personas afectadas,0
+La Paz,20105,El Alto,2015,12,b. Nro. Personas afectadas,168
+Chuquisaca,10702,San Lucas,2015,12,b. Nro. Personas afectadas,596
+Chuquisaca,10201,Azurduy,2015,1,c. Nro. Personas fallecidas,0
+Chuquisaca,10801,Villa Serrano,2015,1,c. Nro. Personas fallecidas,2
+Pando,90103,Bolpebra,2015,2,c. Nro. Personas fallecidas,0
+Cochabamba,30801,Cliza,2015,2,c. Nro. Personas fallecidas,0
+Beni,80802,Baures,2015,3,c. Nro. Personas fallecidas,0
+Chuquisaca,10202,Tarvita,2015,3,c. Nro. Personas fallecidas,0
+Chuquisaca,10304,Icla,2015,8,c. Nro. Personas fallecidas,1
+Pando,90103,Bolpebra,2015,10,c. Nro. Personas fallecidas,0
+Chuquisaca,10902,Culpina,2015,10,c. Nro. Personas fallecidas,0
+Tarija,60502,El Puente(tja),2015,10,c. Nro. Personas fallecidas,0
+Chuquisaca,10202,Tarvita,2015,10,c. Nro. Personas fallecidas,0
+La Paz,20606,Tipuani,2015,11,c. Nro. Personas fallecidas,0
+Oruro,40402,Turco,2015,11,c. Nro. Personas fallecidas,2
+La Paz,20105,El Alto,2015,12,c. Nro. Personas fallecidas,0
+Chuquisaca,10702,San Lucas,2015,12,c. Nro. Personas fallecidas,0
+Chuquisaca,10201,Azurduy,2015,1,TOTAL,59
+Chuquisaca,10801,Villa Serrano,2015,1,TOTAL,8
+Pando,90103,Bolpebra,2015,2,TOTAL,1
+Cochabamba,30801,Cliza,2015,2,TOTAL,3
+Beni,80802,Baures,2015,3,TOTAL,13
+Chuquisaca,10202,Tarvita,2015,3,TOTAL,1
+Chuquisaca,10304,Icla,2015,8,TOTAL,1
+Pando,90103,Bolpebra,2015,10,TOTAL,8
+Chuquisaca,10902,Culpina,2015,10,TOTAL,1
+Tarija,60502,El Puente(tja),2015,10,TOTAL,3
+Chuquisaca,10202,Tarvita,2015,10,TOTAL,2
+La Paz,20606,Tipuani,2015,11,TOTAL,26
+Oruro,40402,Turco,2015,11,TOTAL,2
+La Paz,20105,El Alto,2015,12,TOTAL,169
+Chuquisaca,10702,San Lucas,2015,12,TOTAL,597

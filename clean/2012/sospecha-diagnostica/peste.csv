@@ -1,0 +1,15 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,< de 1 ano,0
+La Paz,20701,Apolo,2012,3,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,1 a 4 anos,0
+La Paz,20701,Apolo,2012,3,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,5 a 9 anos,0
+La Paz,20701,Apolo,2012,3,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,10 a 20 anos,0
+La Paz,20701,Apolo,2012,3,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,21 a 59 anos,0
+La Paz,20701,Apolo,2012,3,21 a 59 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,60 y mas,0
+La Paz,20701,Apolo,2012,3,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,TOTAL,0
+La Paz,20701,Apolo,2012,3,TOTAL,1

@@ -1,0 +1,76 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,< de 1 ano / MASCULINO,0
+Cochabamba,30101,Cochabamba,2012,7,< de 1 ano / MASCULINO,1
+Cochabamba,30101,Cochabamba,2012,8,< de 1 ano / MASCULINO,1
+Beni,80501,San Ignacio,2012,11,< de 1 ano / MASCULINO,0
+Chuquisaca,10101,Sucre,2012,11,< de 1 ano / MASCULINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,< de 1 ano / FEMENINO,0
+Cochabamba,30101,Cochabamba,2012,7,< de 1 ano / FEMENINO,0
+Cochabamba,30101,Cochabamba,2012,8,< de 1 ano / FEMENINO,0
+Beni,80501,San Ignacio,2012,11,< de 1 ano / FEMENINO,0
+Chuquisaca,10101,Sucre,2012,11,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,1 a 4 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2012,7,1 a 4 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2012,8,1 a 4 anos / MASCULINO,0
+Beni,80501,San Ignacio,2012,11,1 a 4 anos / MASCULINO,1
+Chuquisaca,10101,Sucre,2012,11,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,1 a 4 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2012,7,1 a 4 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2012,8,1 a 4 anos / FEMENINO,0
+Beni,80501,San Ignacio,2012,11,1 a 4 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2012,11,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,5 a 9 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2012,7,5 a 9 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2012,8,5 a 9 anos / MASCULINO,0
+Beni,80501,San Ignacio,2012,11,5 a 9 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2012,11,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,5 a 9 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2012,7,5 a 9 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2012,8,5 a 9 anos / FEMENINO,0
+Beni,80501,San Ignacio,2012,11,5 a 9 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2012,11,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,10 a 20 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2012,7,10 a 20 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2012,8,10 a 20 anos / MASCULINO,0
+Beni,80501,San Ignacio,2012,11,10 a 20 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2012,11,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,10 a 20 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2012,7,10 a 20 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2012,8,10 a 20 anos / FEMENINO,0
+Beni,80501,San Ignacio,2012,11,10 a 20 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2012,11,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,21 a 59 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2012,7,21 a 59 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2012,8,21 a 59 anos / MASCULINO,0
+Beni,80501,San Ignacio,2012,11,21 a 59 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2012,11,21 a 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,21 a 59 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2012,7,21 a 59 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2012,8,21 a 59 anos / FEMENINO,0
+Beni,80501,San Ignacio,2012,11,21 a 59 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2012,11,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,60 y mas / MASCULINO,0
+Cochabamba,30101,Cochabamba,2012,7,60 y mas / MASCULINO,0
+Cochabamba,30101,Cochabamba,2012,8,60 y mas / MASCULINO,0
+Beni,80501,San Ignacio,2012,11,60 y mas / MASCULINO,0
+Chuquisaca,10101,Sucre,2012,11,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,60 y mas / FEMENINO,0
+Cochabamba,30101,Cochabamba,2012,7,60 y mas / FEMENINO,0
+Cochabamba,30101,Cochabamba,2012,8,60 y mas / FEMENINO,0
+Beni,80501,San Ignacio,2012,11,60 y mas / FEMENINO,0
+Chuquisaca,10101,Sucre,2012,11,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,TOTALES / TOTAL-M,0
+Cochabamba,30101,Cochabamba,2012,7,TOTALES / TOTAL-M,1
+Cochabamba,30101,Cochabamba,2012,8,TOTALES / TOTAL-M,1
+Beni,80501,San Ignacio,2012,11,TOTALES / TOTAL-M,1
+Chuquisaca,10101,Sucre,2012,11,TOTALES / TOTAL-M,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,TOTALES / TOTAL-F,0
+Cochabamba,30101,Cochabamba,2012,7,TOTALES / TOTAL-F,0
+Cochabamba,30101,Cochabamba,2012,8,TOTALES / TOTAL-F,0
+Beni,80501,San Ignacio,2012,11,TOTALES / TOTAL-F,0
+Chuquisaca,10101,Sucre,2012,11,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,TOTALES / TOTAL,0
+Cochabamba,30101,Cochabamba,2012,7,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2012,8,TOTALES / TOTAL,1
+Beni,80501,San Ignacio,2012,11,TOTALES / TOTAL,1
+Chuquisaca,10101,Sucre,2012,11,TOTALES / TOTAL,2

@@ -1,0 +1,149 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,Nro.,0
+La Paz,22002,Alto Beni,2011,2,Nro.,1
+Tarija,60202,Bermejo,2011,2,Nro.,1
+Cochabamba,31204,Chimore,2011,2,Nro.,2
+La Paz,20602,Guanay,2011,2,Nro.,1
+La Paz,21001,Inquisivi,2011,2,Nro.,1
+Beni,80601,Loreto,2011,2,Nro.,2
+Cochabamba,31205,Puerto Villarroel,2011,2,Nro.,3
+Beni,80301,Reyes,2011,2,Nro.,18
+Beni,80201,Riberalta,2011,2,Nro.,1
+Beni,80304,Rurrenabaque,2011,2,Nro.,2
+Cochabamba,31001,Sacaba,2011,2,Nro.,1
+Beni,80302,San Borja,2011,2,Nro.,3
+Beni,80501,San Ignacio,2011,2,Nro.,8
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,Nro.,0
+Beni,80303,Santa Rosa,2011,2,Nro.,15
+Cochabamba,30903,Tiquipaya,2011,2,Nro.,1
+Cochabamba,31003,Villa Tunari,2011,2,Nro.,3
+Cochabamba,30101,Cochabamba,2011,3,Nro.,0
+Beni,80601,Loreto,2011,3,Nro.,0
+Beni,80703,Puerto Siles,2011,3,Nro.,4
+Cochabamba,31205,Puerto Villarroel,2011,3,Nro.,4
+Beni,80201,Riberalta,2011,3,Nro.,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,Nro.,0
+Pando,90103,Bolpebra,2011,4,Nro.,1
+Beni,80703,Puerto Siles,2011,4,Nro.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,Nro.,0
+Cochabamba,31205,Puerto Villarroel,2011,10,Nro.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,Nro.,0
+Santa Cruz,70701,Lagunillas,2011,12,Nro.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,Nro. Afectados,0
+La Paz,22002,Alto Beni,2011,2,Nro. Afectados,144
+Tarija,60202,Bermejo,2011,2,Nro. Afectados,30
+Cochabamba,31204,Chimore,2011,2,Nro. Afectados,180
+La Paz,20602,Guanay,2011,2,Nro. Afectados,1016
+La Paz,21001,Inquisivi,2011,2,Nro. Afectados,0
+Beni,80601,Loreto,2011,2,Nro. Afectados,350
+Cochabamba,31205,Puerto Villarroel,2011,2,Nro. Afectados,555
+Beni,80301,Reyes,2011,2,Nro. Afectados,8691
+Beni,80201,Riberalta,2011,2,Nro. Afectados,80
+Beni,80304,Rurrenabaque,2011,2,Nro. Afectados,3700
+Cochabamba,31001,Sacaba,2011,2,Nro. Afectados,6
+Beni,80302,San Borja,2011,2,Nro. Afectados,4972
+Beni,80501,San Ignacio,2011,2,Nro. Afectados,500
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,Nro. Afectados,0
+Beni,80303,Santa Rosa,2011,2,Nro. Afectados,142
+Cochabamba,30903,Tiquipaya,2011,2,Nro. Afectados,121
+Cochabamba,31003,Villa Tunari,2011,2,Nro. Afectados,2086
+Cochabamba,30101,Cochabamba,2011,3,Nro. Afectados,200
+Beni,80601,Loreto,2011,3,Nro. Afectados,187
+Beni,80703,Puerto Siles,2011,3,Nro. Afectados,45
+Cochabamba,31205,Puerto Villarroel,2011,3,Nro. Afectados,1345
+Beni,80201,Riberalta,2011,3,Nro. Afectados,173
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,Nro. Afectados,0
+Pando,90103,Bolpebra,2011,4,Nro. Afectados,60
+Beni,80703,Puerto Siles,2011,4,Nro. Afectados,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,Nro. Afectados,0
+Cochabamba,31205,Puerto Villarroel,2011,10,Nro. Afectados,30
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,Nro. Afectados,0
+Santa Cruz,70701,Lagunillas,2011,12,Nro. Afectados,36
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,Nro. Fallecidos,0
+La Paz,22002,Alto Beni,2011,2,Nro. Fallecidos,0
+Tarija,60202,Bermejo,2011,2,Nro. Fallecidos,0
+Cochabamba,31204,Chimore,2011,2,Nro. Fallecidos,0
+La Paz,20602,Guanay,2011,2,Nro. Fallecidos,0
+La Paz,21001,Inquisivi,2011,2,Nro. Fallecidos,0
+Beni,80601,Loreto,2011,2,Nro. Fallecidos,0
+Cochabamba,31205,Puerto Villarroel,2011,2,Nro. Fallecidos,0
+Beni,80301,Reyes,2011,2,Nro. Fallecidos,0
+Beni,80201,Riberalta,2011,2,Nro. Fallecidos,0
+Beni,80304,Rurrenabaque,2011,2,Nro. Fallecidos,12
+Cochabamba,31001,Sacaba,2011,2,Nro. Fallecidos,0
+Beni,80302,San Borja,2011,2,Nro. Fallecidos,0
+Beni,80501,San Ignacio,2011,2,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,Nro. Fallecidos,0
+Beni,80303,Santa Rosa,2011,2,Nro. Fallecidos,0
+Cochabamba,30903,Tiquipaya,2011,2,Nro. Fallecidos,0
+Cochabamba,31003,Villa Tunari,2011,2,Nro. Fallecidos,0
+Cochabamba,30101,Cochabamba,2011,3,Nro. Fallecidos,0
+Beni,80601,Loreto,2011,3,Nro. Fallecidos,0
+Beni,80703,Puerto Siles,2011,3,Nro. Fallecidos,0
+Cochabamba,31205,Puerto Villarroel,2011,3,Nro. Fallecidos,0
+Beni,80201,Riberalta,2011,3,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,Nro. Fallecidos,0
+Pando,90103,Bolpebra,2011,4,Nro. Fallecidos,0
+Beni,80703,Puerto Siles,2011,4,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,Nro. Fallecidos,0
+Cochabamba,31205,Puerto Villarroel,2011,10,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,Nro. Fallecidos,0
+Santa Cruz,70701,Lagunillas,2011,12,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,TOTAL,0
+La Paz,22002,Alto Beni,2011,2,TOTAL,145
+Tarija,60202,Bermejo,2011,2,TOTAL,31
+Cochabamba,31204,Chimore,2011,2,TOTAL,182
+La Paz,20602,Guanay,2011,2,TOTAL,1017
+La Paz,21001,Inquisivi,2011,2,TOTAL,1
+Beni,80601,Loreto,2011,2,TOTAL,352
+Cochabamba,31205,Puerto Villarroel,2011,2,TOTAL,558
+Beni,80301,Reyes,2011,2,TOTAL,8709
+Beni,80201,Riberalta,2011,2,TOTAL,81
+Beni,80304,Rurrenabaque,2011,2,TOTAL,3714
+Cochabamba,31001,Sacaba,2011,2,TOTAL,7
+Beni,80302,San Borja,2011,2,TOTAL,4975
+Beni,80501,San Ignacio,2011,2,TOTAL,508
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,TOTAL,0
+Beni,80303,Santa Rosa,2011,2,TOTAL,157
+Cochabamba,30903,Tiquipaya,2011,2,TOTAL,122
+Cochabamba,31003,Villa Tunari,2011,2,TOTAL,2089
+Cochabamba,30101,Cochabamba,2011,3,TOTAL,200
+Beni,80601,Loreto,2011,3,TOTAL,187
+Beni,80703,Puerto Siles,2011,3,TOTAL,49
+Cochabamba,31205,Puerto Villarroel,2011,3,TOTAL,1349
+Beni,80201,Riberalta,2011,3,TOTAL,175
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,TOTAL,0
+Pando,90103,Bolpebra,2011,4,TOTAL,61
+Beni,80703,Puerto Siles,2011,4,TOTAL,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,TOTAL,0
+Cochabamba,31205,Puerto Villarroel,2011,10,TOTAL,31
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,TOTAL,0
+Santa Cruz,70701,Lagunillas,2011,12,TOTAL,37
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,TOTAL,0

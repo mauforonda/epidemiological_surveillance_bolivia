@@ -1,0 +1,97 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,30303,Cocapata,2012,1,Nro.,4
+La Paz,21005,Ichoca,2012,1,Nro.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,Nro.,0
+Santa Cruz,70802,Trigal,2012,1,Nro.,1
+Cochabamba,30303,Cocapata,2012,3,Nro.,7
+Cochabamba,30401,Tarata,2012,3,Nro.,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2012,3,Nro.,0
+Cochabamba,30303,Cocapata,2012,4,Nro.,2
+Santa Cruz,70805,Pucara,2012,5,Nro.,1
+Cochabamba,30303,Cocapata,2012,6,Nro.,2
+Santa Cruz,70805,Pucara,2012,6,Nro.,1
+Cochabamba,30303,Cocapata,2012,7,Nro.,4
+Santa Cruz,70701,Lagunillas,2012,7,Nro.,5
+Santa Cruz,70805,Pucara,2012,7,Nro.,2
+Cochabamba,30303,Cocapata,2012,8,Nro.,6
+Santa Cruz,70801,Vallegrande,2012,8,Nro.,1
+Cochabamba,30303,Cocapata,2012,9,Nro.,2
+Chuquisaca,10404,Alcala,2012,10,Nro.,1
+Chuquisaca,10702,San Lucas,2012,10,Nro.,1
+Cochabamba,30303,Cocapata,2012,11,Nro.,6
+Santa Cruz,70802,Trigal,2012,11,Nro.,1
+Cochabamba,30303,Cocapata,2012,12,Nro.,1
+Potosí,50601,Cotagaita,2012,12,Nro.,1
+Chuquisaca,10202,Tarvita,2012,12,Nro.,2
+Cochabamba,30303,Cocapata,2012,1,Nro. Afectados,0
+La Paz,21005,Ichoca,2012,1,Nro. Afectados,10
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,Nro. Afectados,0
+Santa Cruz,70802,Trigal,2012,1,Nro. Afectados,7
+Cochabamba,30303,Cocapata,2012,3,Nro. Afectados,0
+Cochabamba,30401,Tarata,2012,3,Nro. Afectados,63
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2012,3,Nro. Afectados,15
+Cochabamba,30303,Cocapata,2012,4,Nro. Afectados,0
+Santa Cruz,70805,Pucara,2012,5,Nro. Afectados,0
+Cochabamba,30303,Cocapata,2012,6,Nro. Afectados,0
+Santa Cruz,70805,Pucara,2012,6,Nro. Afectados,0
+Cochabamba,30303,Cocapata,2012,7,Nro. Afectados,0
+Santa Cruz,70701,Lagunillas,2012,7,Nro. Afectados,1700
+Santa Cruz,70805,Pucara,2012,7,Nro. Afectados,0
+Cochabamba,30303,Cocapata,2012,8,Nro. Afectados,0
+Santa Cruz,70801,Vallegrande,2012,8,Nro. Afectados,0
+Cochabamba,30303,Cocapata,2012,9,Nro. Afectados,0
+Chuquisaca,10404,Alcala,2012,10,Nro. Afectados,2
+Chuquisaca,10702,San Lucas,2012,10,Nro. Afectados,1719
+Cochabamba,30303,Cocapata,2012,11,Nro. Afectados,0
+Santa Cruz,70802,Trigal,2012,11,Nro. Afectados,27
+Cochabamba,30303,Cocapata,2012,12,Nro. Afectados,0
+Potosí,50601,Cotagaita,2012,12,Nro. Afectados,80
+Chuquisaca,10202,Tarvita,2012,12,Nro. Afectados,45
+Cochabamba,30303,Cocapata,2012,1,Nro. Fallecidos,0
+La Paz,21005,Ichoca,2012,1,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,Nro. Fallecidos,0
+Santa Cruz,70802,Trigal,2012,1,Nro. Fallecidos,0
+Cochabamba,30303,Cocapata,2012,3,Nro. Fallecidos,0
+Cochabamba,30401,Tarata,2012,3,Nro. Fallecidos,0
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2012,3,Nro. Fallecidos,0
+Cochabamba,30303,Cocapata,2012,4,Nro. Fallecidos,0
+Santa Cruz,70805,Pucara,2012,5,Nro. Fallecidos,0
+Cochabamba,30303,Cocapata,2012,6,Nro. Fallecidos,0
+Santa Cruz,70805,Pucara,2012,6,Nro. Fallecidos,0
+Cochabamba,30303,Cocapata,2012,7,Nro. Fallecidos,0
+Santa Cruz,70701,Lagunillas,2012,7,Nro. Fallecidos,0
+Santa Cruz,70805,Pucara,2012,7,Nro. Fallecidos,0
+Cochabamba,30303,Cocapata,2012,8,Nro. Fallecidos,0
+Santa Cruz,70801,Vallegrande,2012,8,Nro. Fallecidos,0
+Cochabamba,30303,Cocapata,2012,9,Nro. Fallecidos,0
+Chuquisaca,10404,Alcala,2012,10,Nro. Fallecidos,2
+Chuquisaca,10702,San Lucas,2012,10,Nro. Fallecidos,0
+Cochabamba,30303,Cocapata,2012,11,Nro. Fallecidos,0
+Santa Cruz,70802,Trigal,2012,11,Nro. Fallecidos,0
+Cochabamba,30303,Cocapata,2012,12,Nro. Fallecidos,0
+Potosí,50601,Cotagaita,2012,12,Nro. Fallecidos,0
+Chuquisaca,10202,Tarvita,2012,12,Nro. Fallecidos,0
+Cochabamba,30303,Cocapata,2012,1,TOTAL,4
+La Paz,21005,Ichoca,2012,1,TOTAL,11
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,TOTAL,0
+Santa Cruz,70802,Trigal,2012,1,TOTAL,8
+Cochabamba,30303,Cocapata,2012,3,TOTAL,7
+Cochabamba,30401,Tarata,2012,3,TOTAL,64
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2012,3,TOTAL,15
+Cochabamba,30303,Cocapata,2012,4,TOTAL,2
+Santa Cruz,70805,Pucara,2012,5,TOTAL,1
+Cochabamba,30303,Cocapata,2012,6,TOTAL,2
+Santa Cruz,70805,Pucara,2012,6,TOTAL,1
+Cochabamba,30303,Cocapata,2012,7,TOTAL,4
+Santa Cruz,70701,Lagunillas,2012,7,TOTAL,1705
+Santa Cruz,70805,Pucara,2012,7,TOTAL,2
+Cochabamba,30303,Cocapata,2012,8,TOTAL,6
+Santa Cruz,70801,Vallegrande,2012,8,TOTAL,1
+Cochabamba,30303,Cocapata,2012,9,TOTAL,2
+Chuquisaca,10404,Alcala,2012,10,TOTAL,5
+Chuquisaca,10702,San Lucas,2012,10,TOTAL,1720
+Cochabamba,30303,Cocapata,2012,11,TOTAL,6
+Santa Cruz,70802,Trigal,2012,11,TOTAL,28
+Cochabamba,30303,Cocapata,2012,12,TOTAL,1
+Potosí,50601,Cotagaita,2012,12,TOTAL,81
+Chuquisaca,10202,Tarvita,2012,12,TOTAL,47

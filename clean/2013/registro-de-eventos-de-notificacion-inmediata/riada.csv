@@ -1,0 +1,53 @@
+department,municipality_id,municipality,year,month,population,value
+Oruro,40903,Chipaya,2013,1,Nro.,5
+Tarija,60502,El Puente(tja),2013,1,Nro.,2
+Chuquisaca,10405,El Villar,2013,1,Nro.,29
+Chuquisaca,10903,Las Carreras,2013,1,Nro.,163
+Chuquisaca,10402,Tomina,2013,1,Nro.,1
+Tarija,60402,Yunchara,2013,1,Nro.,1
+Chuquisaca,10404,Alcala,2013,2,Nro.,1
+Oruro,40903,Chipaya,2013,2,Nro.,28
+Cochabamba,30903,Tiquipaya,2013,2,Nro.,1
+Cochabamba,31601,Tiraque (cbba),2013,8,Nro.,1
+Chuquisaca,10303,Mojocoya,2013,11,Nro.,1
+La Paz,21502,San Buena Ventura,2013,11,Nro.,1
+Potosí,50601,Cotagaita,2013,12,Nro.,1
+Oruro,40903,Chipaya,2013,1,Nro. Afectados,729
+Tarija,60502,El Puente(tja),2013,1,Nro. Afectados,320
+Chuquisaca,10405,El Villar,2013,1,Nro. Afectados,28
+Chuquisaca,10903,Las Carreras,2013,1,Nro. Afectados,0
+Chuquisaca,10402,Tomina,2013,1,Nro. Afectados,3
+Tarija,60402,Yunchara,2013,1,Nro. Afectados,0
+Chuquisaca,10404,Alcala,2013,2,Nro. Afectados,1
+Oruro,40903,Chipaya,2013,2,Nro. Afectados,1020
+Cochabamba,30903,Tiquipaya,2013,2,Nro. Afectados,0
+Cochabamba,31601,Tiraque (cbba),2013,8,Nro. Afectados,50
+Chuquisaca,10303,Mojocoya,2013,11,Nro. Afectados,117
+La Paz,21502,San Buena Ventura,2013,11,Nro. Afectados,2365
+Potosí,50601,Cotagaita,2013,12,Nro. Afectados,4
+Oruro,40903,Chipaya,2013,1,Nro. Fallecidos,0
+Tarija,60502,El Puente(tja),2013,1,Nro. Fallecidos,0
+Chuquisaca,10405,El Villar,2013,1,Nro. Fallecidos,0
+Chuquisaca,10903,Las Carreras,2013,1,Nro. Fallecidos,0
+Chuquisaca,10402,Tomina,2013,1,Nro. Fallecidos,0
+Tarija,60402,Yunchara,2013,1,Nro. Fallecidos,0
+Chuquisaca,10404,Alcala,2013,2,Nro. Fallecidos,1
+Oruro,40903,Chipaya,2013,2,Nro. Fallecidos,0
+Cochabamba,30903,Tiquipaya,2013,2,Nro. Fallecidos,0
+Cochabamba,31601,Tiraque (cbba),2013,8,Nro. Fallecidos,0
+Chuquisaca,10303,Mojocoya,2013,11,Nro. Fallecidos,0
+La Paz,21502,San Buena Ventura,2013,11,Nro. Fallecidos,0
+Potosí,50601,Cotagaita,2013,12,Nro. Fallecidos,0
+Oruro,40903,Chipaya,2013,1,TOTAL,734
+Tarija,60502,El Puente(tja),2013,1,TOTAL,322
+Chuquisaca,10405,El Villar,2013,1,TOTAL,57
+Chuquisaca,10903,Las Carreras,2013,1,TOTAL,163
+Chuquisaca,10402,Tomina,2013,1,TOTAL,4
+Tarija,60402,Yunchara,2013,1,TOTAL,1
+Chuquisaca,10404,Alcala,2013,2,TOTAL,3
+Oruro,40903,Chipaya,2013,2,TOTAL,1048
+Cochabamba,30903,Tiquipaya,2013,2,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2013,8,TOTAL,51
+Chuquisaca,10303,Mojocoya,2013,11,TOTAL,118
+La Paz,21502,San Buena Ventura,2013,11,TOTAL,2366
+Potosí,50601,Cotagaita,2013,12,TOTAL,5

@@ -1,0 +1,22 @@
+department,municipality_id,municipality,year,month,population,value
+Beni,80101,Trinidad,2010,6,< de 1 ano,0
+La Paz,20701,Apolo,2010,8,< de 1 ano,0
+Beni,80101,Trinidad,2010,12,< de 1 ano,0
+Beni,80101,Trinidad,2010,6,1 a 4 anos,0
+La Paz,20701,Apolo,2010,8,1 a 4 anos,0
+Beni,80101,Trinidad,2010,12,1 a 4 anos,0
+Beni,80101,Trinidad,2010,6,5 a 9 anos,0
+La Paz,20701,Apolo,2010,8,5 a 9 anos,0
+Beni,80101,Trinidad,2010,12,5 a 9 anos,0
+Beni,80101,Trinidad,2010,6,10 a 20 anos,1
+La Paz,20701,Apolo,2010,8,10 a 20 anos,1
+Beni,80101,Trinidad,2010,12,10 a 20 anos,1
+Beni,80101,Trinidad,2010,6,21 a 59 anos,0
+La Paz,20701,Apolo,2010,8,21 a 59 anos,0
+Beni,80101,Trinidad,2010,12,21 a 59 anos,0
+Beni,80101,Trinidad,2010,6,60 y mas,0
+La Paz,20701,Apolo,2010,8,60 y mas,0
+Beni,80101,Trinidad,2010,12,60 y mas,0
+Beni,80101,Trinidad,2010,6,TOTAL,1
+La Paz,20701,Apolo,2010,8,TOTAL,1
+Beni,80101,Trinidad,2010,12,TOTAL,1

@@ -1,0 +1,57 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20105,El Alto,2009,3,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,3,< de 1 ano,0
+La Paz,20101,La Paz,2009,4,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,< de 1 ano,0
+La Paz,21104,Palos Blancos,2009,5,< de 1 ano,0
+Santa Cruz,70301,San Ignacio De Velasco,2009,7,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,< de 1 ano,0
+La Paz,20105,El Alto,2009,3,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,3,1 a 4 anos,0
+La Paz,20101,La Paz,2009,4,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,1 a 4 anos,0
+La Paz,21104,Palos Blancos,2009,5,1 a 4 anos,0
+Santa Cruz,70301,San Ignacio De Velasco,2009,7,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,1 a 4 anos,0
+La Paz,20105,El Alto,2009,3,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,3,5 a 9 anos,0
+La Paz,20101,La Paz,2009,4,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,5 a 9 anos,0
+La Paz,21104,Palos Blancos,2009,5,5 a 9 anos,0
+Santa Cruz,70301,San Ignacio De Velasco,2009,7,5 a 9 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,5 a 9 anos,0
+La Paz,20105,El Alto,2009,3,10 a 20 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,3,10 a 20 anos,0
+La Paz,20101,La Paz,2009,4,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,10 a 20 anos,0
+La Paz,21104,Palos Blancos,2009,5,10 a 20 anos,0
+Santa Cruz,70301,San Ignacio De Velasco,2009,7,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,10 a 20 anos,0
+La Paz,20105,El Alto,2009,3,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,3,21 a 59 anos,0
+La Paz,20101,La Paz,2009,4,21 a 59 anos,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,21 a 59 anos,0
+La Paz,21104,Palos Blancos,2009,5,21 a 59 anos,1
+Santa Cruz,70301,San Ignacio De Velasco,2009,7,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,21 a 59 anos,0
+La Paz,20105,El Alto,2009,3,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,3,60 y mas,1
+La Paz,20101,La Paz,2009,4,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,60 y mas,0
+La Paz,21104,Palos Blancos,2009,5,60 y mas,0
+Santa Cruz,70301,San Ignacio De Velasco,2009,7,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,60 y mas,0
+La Paz,20105,El Alto,2009,3,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,3,TOTAL,1
+La Paz,20101,La Paz,2009,4,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,TOTAL,0
+La Paz,21104,Palos Blancos,2009,5,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2009,7,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,TOTAL,0

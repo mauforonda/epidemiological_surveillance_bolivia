@@ -1,0 +1,121 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,< de 1 ano / MASCULINO,0
+Beni,80301,Reyes,2009,6,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,< de 1 ano / MASCULINO,0
+Potosí,50101,Potosi,2009,8,< de 1 ano / MASCULINO,0
+Cochabamba,30901,Quillacollo,2009,8,< de 1 ano / MASCULINO,0
+Beni,80304,Rurrenabaque,2009,8,< de 1 ano / MASCULINO,0
+Beni,80501,San Ignacio,2009,8,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,< de 1 ano / FEMENINO,0
+Beni,80301,Reyes,2009,6,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,< de 1 ano / FEMENINO,0
+Potosí,50101,Potosi,2009,8,< de 1 ano / FEMENINO,0
+Cochabamba,30901,Quillacollo,2009,8,< de 1 ano / FEMENINO,0
+Beni,80304,Rurrenabaque,2009,8,< de 1 ano / FEMENINO,0
+Beni,80501,San Ignacio,2009,8,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,1 a 4 anos / MASCULINO,0
+Beni,80301,Reyes,2009,6,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,1 a 4 anos / MASCULINO,0
+Potosí,50101,Potosi,2009,8,1 a 4 anos / MASCULINO,0
+Cochabamba,30901,Quillacollo,2009,8,1 a 4 anos / MASCULINO,1
+Beni,80304,Rurrenabaque,2009,8,1 a 4 anos / MASCULINO,0
+Beni,80501,San Ignacio,2009,8,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,1 a 4 anos / FEMENINO,0
+Beni,80301,Reyes,2009,6,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,1 a 4 anos / FEMENINO,0
+Potosí,50101,Potosi,2009,8,1 a 4 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2009,8,1 a 4 anos / FEMENINO,0
+Beni,80304,Rurrenabaque,2009,8,1 a 4 anos / FEMENINO,0
+Beni,80501,San Ignacio,2009,8,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,5 a 9 anos / MASCULINO,0
+Beni,80301,Reyes,2009,6,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,5 a 9 anos / MASCULINO,0
+Potosí,50101,Potosi,2009,8,5 a 9 anos / MASCULINO,0
+Cochabamba,30901,Quillacollo,2009,8,5 a 9 anos / MASCULINO,1
+Beni,80304,Rurrenabaque,2009,8,5 a 9 anos / MASCULINO,0
+Beni,80501,San Ignacio,2009,8,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,5 a 9 anos / FEMENINO,0
+Beni,80301,Reyes,2009,6,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,5 a 9 anos / FEMENINO,0
+Potosí,50101,Potosi,2009,8,5 a 9 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2009,8,5 a 9 anos / FEMENINO,0
+Beni,80304,Rurrenabaque,2009,8,5 a 9 anos / FEMENINO,0
+Beni,80501,San Ignacio,2009,8,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,10 a 20 anos / MASCULINO,0
+Beni,80301,Reyes,2009,6,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,10 a 20 anos / MASCULINO,0
+Potosí,50101,Potosi,2009,8,10 a 20 anos / MASCULINO,0
+Cochabamba,30901,Quillacollo,2009,8,10 a 20 anos / MASCULINO,0
+Beni,80304,Rurrenabaque,2009,8,10 a 20 anos / MASCULINO,0
+Beni,80501,San Ignacio,2009,8,10 a 20 anos / MASCULINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,10 a 20 anos / FEMENINO,0
+Beni,80301,Reyes,2009,6,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,10 a 20 anos / FEMENINO,0
+Potosí,50101,Potosi,2009,8,10 a 20 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2009,8,10 a 20 anos / FEMENINO,0
+Beni,80304,Rurrenabaque,2009,8,10 a 20 anos / FEMENINO,1
+Beni,80501,San Ignacio,2009,8,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,21 a 59 anos / MASCULINO,0
+Beni,80301,Reyes,2009,6,21 a 59 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,21 a 59 anos / MASCULINO,0
+Potosí,50101,Potosi,2009,8,21 a 59 anos / MASCULINO,1
+Cochabamba,30901,Quillacollo,2009,8,21 a 59 anos / MASCULINO,0
+Beni,80304,Rurrenabaque,2009,8,21 a 59 anos / MASCULINO,0
+Beni,80501,San Ignacio,2009,8,21 a 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,21 a 59 anos / MASCULINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,21 a 59 anos / FEMENINO,0
+Beni,80301,Reyes,2009,6,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,21 a 59 anos / FEMENINO,0
+Potosí,50101,Potosi,2009,8,21 a 59 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2009,8,21 a 59 anos / FEMENINO,1
+Beni,80304,Rurrenabaque,2009,8,21 a 59 anos / FEMENINO,0
+Beni,80501,San Ignacio,2009,8,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,60 y mas / MASCULINO,0
+Beni,80301,Reyes,2009,6,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,60 y mas / MASCULINO,0
+Potosí,50101,Potosi,2009,8,60 y mas / MASCULINO,0
+Cochabamba,30901,Quillacollo,2009,8,60 y mas / MASCULINO,0
+Beni,80304,Rurrenabaque,2009,8,60 y mas / MASCULINO,0
+Beni,80501,San Ignacio,2009,8,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,60 y mas / FEMENINO,0
+Beni,80301,Reyes,2009,6,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,60 y mas / FEMENINO,0
+Potosí,50101,Potosi,2009,8,60 y mas / FEMENINO,0
+Cochabamba,30901,Quillacollo,2009,8,60 y mas / FEMENINO,1
+Beni,80304,Rurrenabaque,2009,8,60 y mas / FEMENINO,0
+Beni,80501,San Ignacio,2009,8,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,TOTALES / TOTAL-M,0
+Beni,80301,Reyes,2009,6,TOTALES / TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,TOTALES / TOTAL-M,0
+Potosí,50101,Potosi,2009,8,TOTALES / TOTAL-M,1
+Cochabamba,30901,Quillacollo,2009,8,TOTALES / TOTAL-M,2
+Beni,80304,Rurrenabaque,2009,8,TOTALES / TOTAL-M,0
+Beni,80501,San Ignacio,2009,8,TOTALES / TOTAL-M,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,TOTALES / TOTAL-M,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,TOTALES / TOTAL-F,0
+Beni,80301,Reyes,2009,6,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,TOTALES / TOTAL-F,0
+Potosí,50101,Potosi,2009,8,TOTALES / TOTAL-F,0
+Cochabamba,30901,Quillacollo,2009,8,TOTALES / TOTAL-F,2
+Beni,80304,Rurrenabaque,2009,8,TOTALES / TOTAL-F,1
+Beni,80501,San Ignacio,2009,8,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,TOTALES / TOTAL,0
+Beni,80301,Reyes,2009,6,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,TOTALES / TOTAL,0
+Potosí,50101,Potosi,2009,8,TOTALES / TOTAL,1
+Cochabamba,30901,Quillacollo,2009,8,TOTALES / TOTAL,4
+Beni,80304,Rurrenabaque,2009,8,TOTALES / TOTAL,1
+Beni,80501,San Ignacio,2009,8,TOTALES / TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,TOTALES / TOTAL,2

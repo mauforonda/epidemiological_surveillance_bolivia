@@ -1,0 +1,241 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,< de 1 ano / MASCULINO,0
+La Paz,22002,Alto Beni,2010,2,< de 1 ano / MASCULINO,0
+Tarija,60202,Bermejo,2010,2,< de 1 ano / MASCULINO,0
+Beni,80803,Huaracaje,2010,2,< de 1 ano / MASCULINO,0
+La Paz,20101,La Paz,2010,2,< de 1 ano / MASCULINO,0
+Cochabamba,31203,Pocona,2010,2,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,< de 1 ano / MASCULINO,0
+La Paz,20101,La Paz,2010,3,< de 1 ano / MASCULINO,0
+Cochabamba,30905,Colcapirhua,2010,5,< de 1 ano / MASCULINO,0
+Cochabamba,30101,Cochabamba,2010,6,< de 1 ano / MASCULINO,0
+Oruro,40101,Oruro,2010,6,< de 1 ano / MASCULINO,0
+Beni,80501,San Ignacio,2010,6,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,< de 1 ano / MASCULINO,0
+Cochabamba,30101,Cochabamba,2010,8,< de 1 ano / MASCULINO,0
+Beni,80801,Magdalena,2010,8,< de 1 ano / MASCULINO,0
+Potosí,50101,Potosi,2010,12,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,< de 1 ano / FEMENINO,0
+La Paz,22002,Alto Beni,2010,2,< de 1 ano / FEMENINO,0
+Tarija,60202,Bermejo,2010,2,< de 1 ano / FEMENINO,0
+Beni,80803,Huaracaje,2010,2,< de 1 ano / FEMENINO,0
+La Paz,20101,La Paz,2010,2,< de 1 ano / FEMENINO,0
+Cochabamba,31203,Pocona,2010,2,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,< de 1 ano / FEMENINO,0
+La Paz,20101,La Paz,2010,3,< de 1 ano / FEMENINO,0
+Cochabamba,30905,Colcapirhua,2010,5,< de 1 ano / FEMENINO,0
+Cochabamba,30101,Cochabamba,2010,6,< de 1 ano / FEMENINO,0
+Oruro,40101,Oruro,2010,6,< de 1 ano / FEMENINO,0
+Beni,80501,San Ignacio,2010,6,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,< de 1 ano / FEMENINO,0
+Cochabamba,30101,Cochabamba,2010,8,< de 1 ano / FEMENINO,0
+Beni,80801,Magdalena,2010,8,< de 1 ano / FEMENINO,0
+Potosí,50101,Potosi,2010,12,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,1 a 4 anos / MASCULINO,0
+La Paz,22002,Alto Beni,2010,2,1 a 4 anos / MASCULINO,0
+Tarija,60202,Bermejo,2010,2,1 a 4 anos / MASCULINO,0
+Beni,80803,Huaracaje,2010,2,1 a 4 anos / MASCULINO,0
+La Paz,20101,La Paz,2010,2,1 a 4 anos / MASCULINO,1
+Cochabamba,31203,Pocona,2010,2,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,1 a 4 anos / MASCULINO,0
+La Paz,20101,La Paz,2010,3,1 a 4 anos / MASCULINO,0
+Cochabamba,30905,Colcapirhua,2010,5,1 a 4 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2010,6,1 a 4 anos / MASCULINO,0
+Oruro,40101,Oruro,2010,6,1 a 4 anos / MASCULINO,1
+Beni,80501,San Ignacio,2010,6,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,1 a 4 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2010,8,1 a 4 anos / MASCULINO,0
+Beni,80801,Magdalena,2010,8,1 a 4 anos / MASCULINO,0
+Potosí,50101,Potosi,2010,12,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,1 a 4 anos / FEMENINO,0
+La Paz,22002,Alto Beni,2010,2,1 a 4 anos / FEMENINO,0
+Tarija,60202,Bermejo,2010,2,1 a 4 anos / FEMENINO,0
+Beni,80803,Huaracaje,2010,2,1 a 4 anos / FEMENINO,0
+La Paz,20101,La Paz,2010,2,1 a 4 anos / FEMENINO,0
+Cochabamba,31203,Pocona,2010,2,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,1 a 4 anos / FEMENINO,0
+La Paz,20101,La Paz,2010,3,1 a 4 anos / FEMENINO,0
+Cochabamba,30905,Colcapirhua,2010,5,1 a 4 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2010,6,1 a 4 anos / FEMENINO,0
+Oruro,40101,Oruro,2010,6,1 a 4 anos / FEMENINO,0
+Beni,80501,San Ignacio,2010,6,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,1 a 4 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2010,8,1 a 4 anos / FEMENINO,0
+Beni,80801,Magdalena,2010,8,1 a 4 anos / FEMENINO,0
+Potosí,50101,Potosi,2010,12,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,5 a 9 anos / MASCULINO,0
+La Paz,22002,Alto Beni,2010,2,5 a 9 anos / MASCULINO,0
+Tarija,60202,Bermejo,2010,2,5 a 9 anos / MASCULINO,0
+Beni,80803,Huaracaje,2010,2,5 a 9 anos / MASCULINO,0
+La Paz,20101,La Paz,2010,2,5 a 9 anos / MASCULINO,0
+Cochabamba,31203,Pocona,2010,2,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,5 a 9 anos / MASCULINO,0
+La Paz,20101,La Paz,2010,3,5 a 9 anos / MASCULINO,1
+Cochabamba,30905,Colcapirhua,2010,5,5 a 9 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2010,6,5 a 9 anos / MASCULINO,0
+Oruro,40101,Oruro,2010,6,5 a 9 anos / MASCULINO,0
+Beni,80501,San Ignacio,2010,6,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,5 a 9 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2010,8,5 a 9 anos / MASCULINO,0
+Beni,80801,Magdalena,2010,8,5 a 9 anos / MASCULINO,0
+Potosí,50101,Potosi,2010,12,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,5 a 9 anos / FEMENINO,0
+La Paz,22002,Alto Beni,2010,2,5 a 9 anos / FEMENINO,0
+Tarija,60202,Bermejo,2010,2,5 a 9 anos / FEMENINO,0
+Beni,80803,Huaracaje,2010,2,5 a 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2010,2,5 a 9 anos / FEMENINO,0
+Cochabamba,31203,Pocona,2010,2,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,5 a 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2010,3,5 a 9 anos / FEMENINO,1
+Cochabamba,30905,Colcapirhua,2010,5,5 a 9 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2010,6,5 a 9 anos / FEMENINO,0
+Oruro,40101,Oruro,2010,6,5 a 9 anos / FEMENINO,1
+Beni,80501,San Ignacio,2010,6,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,5 a 9 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2010,8,5 a 9 anos / FEMENINO,0
+Beni,80801,Magdalena,2010,8,5 a 9 anos / FEMENINO,0
+Potosí,50101,Potosi,2010,12,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,10 a 20 anos / MASCULINO,1
+La Paz,22002,Alto Beni,2010,2,10 a 20 anos / MASCULINO,0
+Tarija,60202,Bermejo,2010,2,10 a 20 anos / MASCULINO,0
+Beni,80803,Huaracaje,2010,2,10 a 20 anos / MASCULINO,0
+La Paz,20101,La Paz,2010,2,10 a 20 anos / MASCULINO,0
+Cochabamba,31203,Pocona,2010,2,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,10 a 20 anos / MASCULINO,0
+La Paz,20101,La Paz,2010,3,10 a 20 anos / MASCULINO,0
+Cochabamba,30905,Colcapirhua,2010,5,10 a 20 anos / MASCULINO,1
+Cochabamba,30101,Cochabamba,2010,6,10 a 20 anos / MASCULINO,1
+Oruro,40101,Oruro,2010,6,10 a 20 anos / MASCULINO,0
+Beni,80501,San Ignacio,2010,6,10 a 20 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,10 a 20 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2010,8,10 a 20 anos / MASCULINO,0
+Beni,80801,Magdalena,2010,8,10 a 20 anos / MASCULINO,0
+Potosí,50101,Potosi,2010,12,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,10 a 20 anos / FEMENINO,0
+La Paz,22002,Alto Beni,2010,2,10 a 20 anos / FEMENINO,0
+Tarija,60202,Bermejo,2010,2,10 a 20 anos / FEMENINO,0
+Beni,80803,Huaracaje,2010,2,10 a 20 anos / FEMENINO,0
+La Paz,20101,La Paz,2010,2,10 a 20 anos / FEMENINO,0
+Cochabamba,31203,Pocona,2010,2,10 a 20 anos / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,10 a 20 anos / FEMENINO,1
+La Paz,20101,La Paz,2010,3,10 a 20 anos / FEMENINO,0
+Cochabamba,30905,Colcapirhua,2010,5,10 a 20 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2010,6,10 a 20 anos / FEMENINO,0
+Oruro,40101,Oruro,2010,6,10 a 20 anos / FEMENINO,0
+Beni,80501,San Ignacio,2010,6,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,10 a 20 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2010,8,10 a 20 anos / FEMENINO,2
+Beni,80801,Magdalena,2010,8,10 a 20 anos / FEMENINO,0
+Potosí,50101,Potosi,2010,12,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,21 a 59 anos / MASCULINO,0
+La Paz,22002,Alto Beni,2010,2,21 a 59 anos / MASCULINO,0
+Tarija,60202,Bermejo,2010,2,21 a 59 anos / MASCULINO,0
+Beni,80803,Huaracaje,2010,2,21 a 59 anos / MASCULINO,0
+La Paz,20101,La Paz,2010,2,21 a 59 anos / MASCULINO,0
+Cochabamba,31203,Pocona,2010,2,21 a 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,21 a 59 anos / MASCULINO,0
+La Paz,20101,La Paz,2010,3,21 a 59 anos / MASCULINO,0
+Cochabamba,30905,Colcapirhua,2010,5,21 a 59 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2010,6,21 a 59 anos / MASCULINO,0
+Oruro,40101,Oruro,2010,6,21 a 59 anos / MASCULINO,0
+Beni,80501,San Ignacio,2010,6,21 a 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,21 a 59 anos / MASCULINO,1
+Cochabamba,30101,Cochabamba,2010,8,21 a 59 anos / MASCULINO,0
+Beni,80801,Magdalena,2010,8,21 a 59 anos / MASCULINO,1
+Potosí,50101,Potosi,2010,12,21 a 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,21 a 59 anos / FEMENINO,0
+La Paz,22002,Alto Beni,2010,2,21 a 59 anos / FEMENINO,2
+Tarija,60202,Bermejo,2010,2,21 a 59 anos / FEMENINO,0
+Beni,80803,Huaracaje,2010,2,21 a 59 anos / FEMENINO,1
+La Paz,20101,La Paz,2010,2,21 a 59 anos / FEMENINO,0
+Cochabamba,31203,Pocona,2010,2,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,21 a 59 anos / FEMENINO,4
+La Paz,20101,La Paz,2010,3,21 a 59 anos / FEMENINO,0
+Cochabamba,30905,Colcapirhua,2010,5,21 a 59 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2010,6,21 a 59 anos / FEMENINO,0
+Oruro,40101,Oruro,2010,6,21 a 59 anos / FEMENINO,0
+Beni,80501,San Ignacio,2010,6,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,21 a 59 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2010,8,21 a 59 anos / FEMENINO,0
+Beni,80801,Magdalena,2010,8,21 a 59 anos / FEMENINO,0
+Potosí,50101,Potosi,2010,12,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,60 y mas / MASCULINO,0
+La Paz,22002,Alto Beni,2010,2,60 y mas / MASCULINO,0
+Tarija,60202,Bermejo,2010,2,60 y mas / MASCULINO,1
+Beni,80803,Huaracaje,2010,2,60 y mas / MASCULINO,0
+La Paz,20101,La Paz,2010,2,60 y mas / MASCULINO,0
+Cochabamba,31203,Pocona,2010,2,60 y mas / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,60 y mas / MASCULINO,0
+La Paz,20101,La Paz,2010,3,60 y mas / MASCULINO,0
+Cochabamba,30905,Colcapirhua,2010,5,60 y mas / MASCULINO,0
+Cochabamba,30101,Cochabamba,2010,6,60 y mas / MASCULINO,0
+Oruro,40101,Oruro,2010,6,60 y mas / MASCULINO,0
+Beni,80501,San Ignacio,2010,6,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,60 y mas / MASCULINO,0
+Cochabamba,30101,Cochabamba,2010,8,60 y mas / MASCULINO,0
+Beni,80801,Magdalena,2010,8,60 y mas / MASCULINO,0
+Potosí,50101,Potosi,2010,12,60 y mas / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,60 y mas / FEMENINO,0
+La Paz,22002,Alto Beni,2010,2,60 y mas / FEMENINO,0
+Tarija,60202,Bermejo,2010,2,60 y mas / FEMENINO,0
+Beni,80803,Huaracaje,2010,2,60 y mas / FEMENINO,0
+La Paz,20101,La Paz,2010,2,60 y mas / FEMENINO,0
+Cochabamba,31203,Pocona,2010,2,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,60 y mas / FEMENINO,0
+La Paz,20101,La Paz,2010,3,60 y mas / FEMENINO,0
+Cochabamba,30905,Colcapirhua,2010,5,60 y mas / FEMENINO,0
+Cochabamba,30101,Cochabamba,2010,6,60 y mas / FEMENINO,0
+Oruro,40101,Oruro,2010,6,60 y mas / FEMENINO,0
+Beni,80501,San Ignacio,2010,6,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,60 y mas / FEMENINO,0
+Cochabamba,30101,Cochabamba,2010,8,60 y mas / FEMENINO,0
+Beni,80801,Magdalena,2010,8,60 y mas / FEMENINO,0
+Potosí,50101,Potosi,2010,12,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,TOTALES / TOTAL-M,1
+La Paz,22002,Alto Beni,2010,2,TOTALES / TOTAL-M,0
+Tarija,60202,Bermejo,2010,2,TOTALES / TOTAL-M,1
+Beni,80803,Huaracaje,2010,2,TOTALES / TOTAL-M,0
+La Paz,20101,La Paz,2010,2,TOTALES / TOTAL-M,1
+Cochabamba,31203,Pocona,2010,2,TOTALES / TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,TOTALES / TOTAL-M,0
+La Paz,20101,La Paz,2010,3,TOTALES / TOTAL-M,1
+Cochabamba,30905,Colcapirhua,2010,5,TOTALES / TOTAL-M,1
+Cochabamba,30101,Cochabamba,2010,6,TOTALES / TOTAL-M,1
+Oruro,40101,Oruro,2010,6,TOTALES / TOTAL-M,1
+Beni,80501,San Ignacio,2010,6,TOTALES / TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,TOTALES / TOTAL-M,1
+Cochabamba,30101,Cochabamba,2010,8,TOTALES / TOTAL-M,0
+Beni,80801,Magdalena,2010,8,TOTALES / TOTAL-M,1
+Potosí,50101,Potosi,2010,12,TOTALES / TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,TOTALES / TOTAL-F,0
+La Paz,22002,Alto Beni,2010,2,TOTALES / TOTAL-F,2
+Tarija,60202,Bermejo,2010,2,TOTALES / TOTAL-F,0
+Beni,80803,Huaracaje,2010,2,TOTALES / TOTAL-F,1
+La Paz,20101,La Paz,2010,2,TOTALES / TOTAL-F,0
+Cochabamba,31203,Pocona,2010,2,TOTALES / TOTAL-F,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,TOTALES / TOTAL-F,5
+La Paz,20101,La Paz,2010,3,TOTALES / TOTAL-F,1
+Cochabamba,30905,Colcapirhua,2010,5,TOTALES / TOTAL-F,0
+Cochabamba,30101,Cochabamba,2010,6,TOTALES / TOTAL-F,0
+Oruro,40101,Oruro,2010,6,TOTALES / TOTAL-F,1
+Beni,80501,San Ignacio,2010,6,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,TOTALES / TOTAL-F,0
+Cochabamba,30101,Cochabamba,2010,8,TOTALES / TOTAL-F,2
+Beni,80801,Magdalena,2010,8,TOTALES / TOTAL-F,0
+Potosí,50101,Potosi,2010,12,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,TOTALES / TOTAL,1
+La Paz,22002,Alto Beni,2010,2,TOTALES / TOTAL,2
+Tarija,60202,Bermejo,2010,2,TOTALES / TOTAL,1
+Beni,80803,Huaracaje,2010,2,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2010,2,TOTALES / TOTAL,1
+Cochabamba,31203,Pocona,2010,2,TOTALES / TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,TOTALES / TOTAL,5
+La Paz,20101,La Paz,2010,3,TOTALES / TOTAL,2
+Cochabamba,30905,Colcapirhua,2010,5,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2010,6,TOTALES / TOTAL,1
+Oruro,40101,Oruro,2010,6,TOTALES / TOTAL,2
+Beni,80501,San Ignacio,2010,6,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2010,8,TOTALES / TOTAL,2
+Beni,80801,Magdalena,2010,8,TOTALES / TOTAL,1
+Potosí,50101,Potosi,2010,12,TOTALES / TOTAL,1

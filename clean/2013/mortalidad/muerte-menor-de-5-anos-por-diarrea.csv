@@ -1,0 +1,638 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,22001,Caranavi,2013,1,Dentro / MASCULINO,0
+Santa Cruz,71106,Cuatro Cañadas,2013,1,Dentro / MASCULINO,0
+La Paz,20105,El Alto,2013,1,Dentro / MASCULINO,0
+La Paz,20101,La Paz,2013,1,Dentro / MASCULINO,0
+Potosí,50404,Ocuri,2013,1,Dentro / MASCULINO,1
+La Paz,21305,Patacamaya,2013,1,Dentro / MASCULINO,0
+Cochabamba,31001,Sacaba,2013,1,Dentro / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,Dentro / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2013,1,Dentro / MASCULINO,0
+La Paz,20701,Apolo,2013,2,Dentro / MASCULINO,0
+Santa Cruz,71004,Fernandez Alonso,2013,2,Dentro / MASCULINO,0
+Cochabamba,30302,Morochata,2013,2,Dentro / MASCULINO,1
+Cochabamba,31205,Puerto Villarroel,2013,2,Dentro / MASCULINO,0
+Cochabamba,31001,Sacaba,2013,2,Dentro / MASCULINO,0
+La Paz,21502,San Buena Ventura,2013,2,Dentro / MASCULINO,0
+Chuquisaca,10101,Sucre,2013,2,Dentro / MASCULINO,0
+Potosí,51202,Tomave,2013,2,Dentro / MASCULINO,0
+Potosí,51201,Uyuni,2013,2,Dentro / MASCULINO,1
+Potosí,51501,Villazon,2013,2,Dentro / MASCULINO,1
+La Paz,20105,El Alto,2013,3,Dentro / MASCULINO,0
+Potosí,50203,Llallagua,2013,3,Dentro / MASCULINO,0
+Oruro,40801,Salinas De Garci Mendoza,2013,3,Dentro / MASCULINO,0
+Cochabamba,31601,Tiraque (cbba),2013,3,Dentro / MASCULINO,1
+Cochabamba,31003,Villa Tunari,2013,3,Dentro / MASCULINO,0
+Tarija,60301,Yacuiba,2013,3,Dentro / MASCULINO,1
+Beni,80302,San Borja,2013,4,Dentro / MASCULINO,1
+Beni,80501,San Ignacio,2013,4,Dentro / MASCULINO,0
+Chuquisaca,10101,Sucre,2013,4,Dentro / MASCULINO,2
+Beni,80101,Trinidad,2013,4,Dentro / MASCULINO,0
+La Paz,20701,Apolo,2013,5,Dentro / MASCULINO,0
+Potosí,50401,Colquechaca,2013,5,Dentro / MASCULINO,0
+La Paz,20105,El Alto,2013,5,Dentro / MASCULINO,0
+La Paz,20602,Guanay,2013,5,Dentro / MASCULINO,0
+La Paz,20101,La Paz,2013,5,Dentro / MASCULINO,0
+Cochabamba,30901,Quillacollo,2013,5,Dentro / MASCULINO,0
+La Paz,20805,San Andres De Machaca,2013,5,Dentro / MASCULINO,0
+Beni,80302,San Borja,2013,5,Dentro / MASCULINO,0
+La Paz,20801,Viacha,2013,5,Dentro / MASCULINO,0
+Oruro,40201,Challapata,2013,6,Dentro / MASCULINO,0
+Cochabamba,30101,Cochabamba,2013,6,Dentro / MASCULINO,1
+La Paz,20105,El Alto,2013,6,Dentro / MASCULINO,2
+Santa Cruz,71004,Fernandez Alonso,2013,6,Dentro / MASCULINO,0
+Oruro,40701,Huanuni,2013,6,Dentro / MASCULINO,1
+La Paz,20101,La Paz,2013,6,Dentro / MASCULINO,0
+Cochabamba,31001,Sacaba,2013,6,Dentro / MASCULINO,0
+La Paz,22002,Alto Beni,2013,7,Dentro / MASCULINO,0
+Santa Cruz,70703,Cabezas,2013,7,Dentro / MASCULINO,1
+Cochabamba,31204,Chimore,2013,7,Dentro / MASCULINO,0
+Pando,90101,Cobija,2013,7,Dentro / MASCULINO,1
+Cochabamba,31002,Colomi,2013,7,Dentro / MASCULINO,0
+La Paz,21501,Ixiamas,2013,7,Dentro / MASCULINO,1
+Potosí,50203,Llallagua,2013,7,Dentro / MASCULINO,0
+Cochabamba,31001,Sacaba,2013,7,Dentro / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,Dentro / MASCULINO,0
+Cochabamba,31602,Shinaota,2013,7,Dentro / MASCULINO,0
+Potosí,50102,Tinguipaya,2013,7,Dentro / MASCULINO,0
+Chuquisaca,10402,Tomina,2013,7,Dentro / MASCULINO,0
+Santa Cruz,70201,Warnes,2013,7,Dentro / MASCULINO,1
+Santa Cruz,70403,Yapacani,2013,7,Dentro / MASCULINO,1
+Cochabamba,30101,Cochabamba,2013,8,Dentro / MASCULINO,2
+Cochabamba,31002,Colomi,2013,8,Dentro / MASCULINO,1
+La Paz,20105,El Alto,2013,8,Dentro / MASCULINO,0
+Cochabamba,31205,Puerto Villarroel,2013,8,Dentro / MASCULINO,1
+Beni,80201,Riberalta,2013,8,Dentro / MASCULINO,0
+Tarija,60301,Yacuiba,2013,8,Dentro / MASCULINO,1
+Tarija,60402,Yunchara,2013,8,Dentro / MASCULINO,0
+Pando,90101,Cobija,2013,9,Dentro / MASCULINO,0
+Cochabamba,30101,Cochabamba,2013,9,Dentro / MASCULINO,0
+Potosí,50401,Colquechaca,2013,9,Dentro / MASCULINO,1
+Santa Cruz,71004,Fernandez Alonso,2013,9,Dentro / MASCULINO,0
+La Paz,20602,Guanay,2013,9,Dentro / MASCULINO,0
+Beni,80201,Riberalta,2013,9,Dentro / MASCULINO,0
+La Paz,21304,Calamarca,2013,10,Dentro / MASCULINO,0
+Cochabamba,30101,Cochabamba,2013,10,Dentro / MASCULINO,1
+La Paz,20105,El Alto,2013,10,Dentro / MASCULINO,0
+Santa Cruz,71401,Puerto Suarez,2013,10,Dentro / MASCULINO,1
+Beni,80201,Riberalta,2013,10,Dentro / MASCULINO,0
+Cochabamba,31001,Sacaba,2013,10,Dentro / MASCULINO,0
+Chuquisaca,10101,Sucre,2013,10,Dentro / MASCULINO,0
+Pando,90101,Cobija,2013,11,Dentro / MASCULINO,1
+Cochabamba,30101,Cochabamba,2013,11,Dentro / MASCULINO,1
+Potosí,50401,Colquechaca,2013,11,Dentro / MASCULINO,0
+La Paz,20105,El Alto,2013,11,Dentro / MASCULINO,0
+La Paz,20101,La Paz,2013,11,Dentro / MASCULINO,0
+Potosí,50201,Uncia,2013,11,Dentro / MASCULINO,0
+Potosí,51201,Uyuni,2013,11,Dentro / MASCULINO,1
+Cochabamba,30101,Cochabamba,2013,12,Dentro / MASCULINO,2
+La Paz,20101,La Paz,2013,12,Dentro / MASCULINO,0
+Beni,80201,Riberalta,2013,12,Dentro / MASCULINO,0
+Cochabamba,31001,Sacaba,2013,12,Dentro / MASCULINO,0
+Santa Cruz,70302,San Miguel De Velasco,2013,12,Dentro / MASCULINO,0
+La Paz,22001,Caranavi,2013,1,Dentro / FEMENINO,0
+Santa Cruz,71106,Cuatro Cañadas,2013,1,Dentro / FEMENINO,0
+La Paz,20105,El Alto,2013,1,Dentro / FEMENINO,0
+La Paz,20101,La Paz,2013,1,Dentro / FEMENINO,1
+Potosí,50404,Ocuri,2013,1,Dentro / FEMENINO,0
+La Paz,21305,Patacamaya,2013,1,Dentro / FEMENINO,0
+Cochabamba,31001,Sacaba,2013,1,Dentro / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,Dentro / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2013,1,Dentro / FEMENINO,0
+La Paz,20701,Apolo,2013,2,Dentro / FEMENINO,1
+Santa Cruz,71004,Fernandez Alonso,2013,2,Dentro / FEMENINO,0
+Cochabamba,30302,Morochata,2013,2,Dentro / FEMENINO,0
+Cochabamba,31205,Puerto Villarroel,2013,2,Dentro / FEMENINO,1
+Cochabamba,31001,Sacaba,2013,2,Dentro / FEMENINO,0
+La Paz,21502,San Buena Ventura,2013,2,Dentro / FEMENINO,0
+Chuquisaca,10101,Sucre,2013,2,Dentro / FEMENINO,1
+Potosí,51202,Tomave,2013,2,Dentro / FEMENINO,1
+Potosí,51201,Uyuni,2013,2,Dentro / FEMENINO,0
+Potosí,51501,Villazon,2013,2,Dentro / FEMENINO,0
+La Paz,20105,El Alto,2013,3,Dentro / FEMENINO,0
+Potosí,50203,Llallagua,2013,3,Dentro / FEMENINO,0
+Oruro,40801,Salinas De Garci Mendoza,2013,3,Dentro / FEMENINO,0
+Cochabamba,31601,Tiraque (cbba),2013,3,Dentro / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2013,3,Dentro / FEMENINO,0
+Tarija,60301,Yacuiba,2013,3,Dentro / FEMENINO,0
+Beni,80302,San Borja,2013,4,Dentro / FEMENINO,0
+Beni,80501,San Ignacio,2013,4,Dentro / FEMENINO,0
+Chuquisaca,10101,Sucre,2013,4,Dentro / FEMENINO,0
+Beni,80101,Trinidad,2013,4,Dentro / FEMENINO,1
+La Paz,20701,Apolo,2013,5,Dentro / FEMENINO,0
+Potosí,50401,Colquechaca,2013,5,Dentro / FEMENINO,0
+La Paz,20105,El Alto,2013,5,Dentro / FEMENINO,0
+La Paz,20602,Guanay,2013,5,Dentro / FEMENINO,0
+La Paz,20101,La Paz,2013,5,Dentro / FEMENINO,1
+Cochabamba,30901,Quillacollo,2013,5,Dentro / FEMENINO,0
+La Paz,20805,San Andres De Machaca,2013,5,Dentro / FEMENINO,0
+Beni,80302,San Borja,2013,5,Dentro / FEMENINO,1
+La Paz,20801,Viacha,2013,5,Dentro / FEMENINO,0
+Oruro,40201,Challapata,2013,6,Dentro / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,6,Dentro / FEMENINO,0
+La Paz,20105,El Alto,2013,6,Dentro / FEMENINO,1
+Santa Cruz,71004,Fernandez Alonso,2013,6,Dentro / FEMENINO,0
+Oruro,40701,Huanuni,2013,6,Dentro / FEMENINO,0
+La Paz,20101,La Paz,2013,6,Dentro / FEMENINO,0
+Cochabamba,31001,Sacaba,2013,6,Dentro / FEMENINO,1
+La Paz,22002,Alto Beni,2013,7,Dentro / FEMENINO,0
+Santa Cruz,70703,Cabezas,2013,7,Dentro / FEMENINO,0
+Cochabamba,31204,Chimore,2013,7,Dentro / FEMENINO,0
+Pando,90101,Cobija,2013,7,Dentro / FEMENINO,0
+Cochabamba,31002,Colomi,2013,7,Dentro / FEMENINO,0
+La Paz,21501,Ixiamas,2013,7,Dentro / FEMENINO,0
+Potosí,50203,Llallagua,2013,7,Dentro / FEMENINO,1
+Cochabamba,31001,Sacaba,2013,7,Dentro / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,Dentro / FEMENINO,1
+Cochabamba,31602,Shinaota,2013,7,Dentro / FEMENINO,0
+Potosí,50102,Tinguipaya,2013,7,Dentro / FEMENINO,0
+Chuquisaca,10402,Tomina,2013,7,Dentro / FEMENINO,0
+Santa Cruz,70201,Warnes,2013,7,Dentro / FEMENINO,0
+Santa Cruz,70403,Yapacani,2013,7,Dentro / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,8,Dentro / FEMENINO,0
+Cochabamba,31002,Colomi,2013,8,Dentro / FEMENINO,0
+La Paz,20105,El Alto,2013,8,Dentro / FEMENINO,0
+Cochabamba,31205,Puerto Villarroel,2013,8,Dentro / FEMENINO,0
+Beni,80201,Riberalta,2013,8,Dentro / FEMENINO,1
+Tarija,60301,Yacuiba,2013,8,Dentro / FEMENINO,0
+Tarija,60402,Yunchara,2013,8,Dentro / FEMENINO,0
+Pando,90101,Cobija,2013,9,Dentro / FEMENINO,1
+Cochabamba,30101,Cochabamba,2013,9,Dentro / FEMENINO,2
+Potosí,50401,Colquechaca,2013,9,Dentro / FEMENINO,0
+Santa Cruz,71004,Fernandez Alonso,2013,9,Dentro / FEMENINO,0
+La Paz,20602,Guanay,2013,9,Dentro / FEMENINO,0
+Beni,80201,Riberalta,2013,9,Dentro / FEMENINO,0
+La Paz,21304,Calamarca,2013,10,Dentro / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,10,Dentro / FEMENINO,0
+La Paz,20105,El Alto,2013,10,Dentro / FEMENINO,0
+Santa Cruz,71401,Puerto Suarez,2013,10,Dentro / FEMENINO,0
+Beni,80201,Riberalta,2013,10,Dentro / FEMENINO,1
+Cochabamba,31001,Sacaba,2013,10,Dentro / FEMENINO,0
+Chuquisaca,10101,Sucre,2013,10,Dentro / FEMENINO,0
+Pando,90101,Cobija,2013,11,Dentro / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,11,Dentro / FEMENINO,0
+Potosí,50401,Colquechaca,2013,11,Dentro / FEMENINO,0
+La Paz,20105,El Alto,2013,11,Dentro / FEMENINO,0
+La Paz,20101,La Paz,2013,11,Dentro / FEMENINO,1
+Potosí,50201,Uncia,2013,11,Dentro / FEMENINO,0
+Potosí,51201,Uyuni,2013,11,Dentro / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,12,Dentro / FEMENINO,0
+La Paz,20101,La Paz,2013,12,Dentro / FEMENINO,0
+Beni,80201,Riberalta,2013,12,Dentro / FEMENINO,0
+Cochabamba,31001,Sacaba,2013,12,Dentro / FEMENINO,0
+Santa Cruz,70302,San Miguel De Velasco,2013,12,Dentro / FEMENINO,0
+La Paz,22001,Caranavi,2013,1,Fuera / MASCULINO,1
+Santa Cruz,71106,Cuatro Cañadas,2013,1,Fuera / MASCULINO,0
+La Paz,20105,El Alto,2013,1,Fuera / MASCULINO,1
+La Paz,20101,La Paz,2013,1,Fuera / MASCULINO,0
+Potosí,50404,Ocuri,2013,1,Fuera / MASCULINO,0
+La Paz,21305,Patacamaya,2013,1,Fuera / MASCULINO,0
+Cochabamba,31001,Sacaba,2013,1,Fuera / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,Fuera / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2013,1,Fuera / MASCULINO,1
+La Paz,20701,Apolo,2013,2,Fuera / MASCULINO,0
+Santa Cruz,71004,Fernandez Alonso,2013,2,Fuera / MASCULINO,1
+Cochabamba,30302,Morochata,2013,2,Fuera / MASCULINO,0
+Cochabamba,31205,Puerto Villarroel,2013,2,Fuera / MASCULINO,0
+Cochabamba,31001,Sacaba,2013,2,Fuera / MASCULINO,0
+La Paz,21502,San Buena Ventura,2013,2,Fuera / MASCULINO,1
+Chuquisaca,10101,Sucre,2013,2,Fuera / MASCULINO,0
+Potosí,51202,Tomave,2013,2,Fuera / MASCULINO,0
+Potosí,51201,Uyuni,2013,2,Fuera / MASCULINO,0
+Potosí,51501,Villazon,2013,2,Fuera / MASCULINO,0
+La Paz,20105,El Alto,2013,3,Fuera / MASCULINO,0
+Potosí,50203,Llallagua,2013,3,Fuera / MASCULINO,0
+Oruro,40801,Salinas De Garci Mendoza,2013,3,Fuera / MASCULINO,1
+Cochabamba,31601,Tiraque (cbba),2013,3,Fuera / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2013,3,Fuera / MASCULINO,1
+Tarija,60301,Yacuiba,2013,3,Fuera / MASCULINO,0
+Beni,80302,San Borja,2013,4,Fuera / MASCULINO,0
+Beni,80501,San Ignacio,2013,4,Fuera / MASCULINO,1
+Chuquisaca,10101,Sucre,2013,4,Fuera / MASCULINO,0
+Beni,80101,Trinidad,2013,4,Fuera / MASCULINO,0
+La Paz,20701,Apolo,2013,5,Fuera / MASCULINO,0
+Potosí,50401,Colquechaca,2013,5,Fuera / MASCULINO,1
+La Paz,20105,El Alto,2013,5,Fuera / MASCULINO,2
+La Paz,20602,Guanay,2013,5,Fuera / MASCULINO,0
+La Paz,20101,La Paz,2013,5,Fuera / MASCULINO,0
+Cochabamba,30901,Quillacollo,2013,5,Fuera / MASCULINO,1
+La Paz,20805,San Andres De Machaca,2013,5,Fuera / MASCULINO,1
+Beni,80302,San Borja,2013,5,Fuera / MASCULINO,0
+La Paz,20801,Viacha,2013,5,Fuera / MASCULINO,0
+Oruro,40201,Challapata,2013,6,Fuera / MASCULINO,1
+Cochabamba,30101,Cochabamba,2013,6,Fuera / MASCULINO,0
+La Paz,20105,El Alto,2013,6,Fuera / MASCULINO,0
+Santa Cruz,71004,Fernandez Alonso,2013,6,Fuera / MASCULINO,2
+Oruro,40701,Huanuni,2013,6,Fuera / MASCULINO,0
+La Paz,20101,La Paz,2013,6,Fuera / MASCULINO,0
+Cochabamba,31001,Sacaba,2013,6,Fuera / MASCULINO,0
+La Paz,22002,Alto Beni,2013,7,Fuera / MASCULINO,1
+Santa Cruz,70703,Cabezas,2013,7,Fuera / MASCULINO,0
+Cochabamba,31204,Chimore,2013,7,Fuera / MASCULINO,1
+Pando,90101,Cobija,2013,7,Fuera / MASCULINO,0
+Cochabamba,31002,Colomi,2013,7,Fuera / MASCULINO,2
+La Paz,21501,Ixiamas,2013,7,Fuera / MASCULINO,1
+Potosí,50203,Llallagua,2013,7,Fuera / MASCULINO,0
+Cochabamba,31001,Sacaba,2013,7,Fuera / MASCULINO,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,Fuera / MASCULINO,0
+Cochabamba,31602,Shinaota,2013,7,Fuera / MASCULINO,0
+Potosí,50102,Tinguipaya,2013,7,Fuera / MASCULINO,2
+Chuquisaca,10402,Tomina,2013,7,Fuera / MASCULINO,1
+Santa Cruz,70201,Warnes,2013,7,Fuera / MASCULINO,1
+Santa Cruz,70403,Yapacani,2013,7,Fuera / MASCULINO,0
+Cochabamba,30101,Cochabamba,2013,8,Fuera / MASCULINO,0
+Cochabamba,31002,Colomi,2013,8,Fuera / MASCULINO,0
+La Paz,20105,El Alto,2013,8,Fuera / MASCULINO,2
+Cochabamba,31205,Puerto Villarroel,2013,8,Fuera / MASCULINO,0
+Beni,80201,Riberalta,2013,8,Fuera / MASCULINO,0
+Tarija,60301,Yacuiba,2013,8,Fuera / MASCULINO,0
+Tarija,60402,Yunchara,2013,8,Fuera / MASCULINO,1
+Pando,90101,Cobija,2013,9,Fuera / MASCULINO,0
+Cochabamba,30101,Cochabamba,2013,9,Fuera / MASCULINO,0
+Potosí,50401,Colquechaca,2013,9,Fuera / MASCULINO,0
+Santa Cruz,71004,Fernandez Alonso,2013,9,Fuera / MASCULINO,0
+La Paz,20602,Guanay,2013,9,Fuera / MASCULINO,0
+Beni,80201,Riberalta,2013,9,Fuera / MASCULINO,1
+La Paz,21304,Calamarca,2013,10,Fuera / MASCULINO,1
+Cochabamba,30101,Cochabamba,2013,10,Fuera / MASCULINO,0
+La Paz,20105,El Alto,2013,10,Fuera / MASCULINO,0
+Santa Cruz,71401,Puerto Suarez,2013,10,Fuera / MASCULINO,0
+Beni,80201,Riberalta,2013,10,Fuera / MASCULINO,0
+Cochabamba,31001,Sacaba,2013,10,Fuera / MASCULINO,0
+Chuquisaca,10101,Sucre,2013,10,Fuera / MASCULINO,0
+Pando,90101,Cobija,2013,11,Fuera / MASCULINO,0
+Cochabamba,30101,Cochabamba,2013,11,Fuera / MASCULINO,0
+Potosí,50401,Colquechaca,2013,11,Fuera / MASCULINO,0
+La Paz,20105,El Alto,2013,11,Fuera / MASCULINO,1
+La Paz,20101,La Paz,2013,11,Fuera / MASCULINO,0
+Potosí,50201,Uncia,2013,11,Fuera / MASCULINO,1
+Potosí,51201,Uyuni,2013,11,Fuera / MASCULINO,0
+Cochabamba,30101,Cochabamba,2013,12,Fuera / MASCULINO,0
+La Paz,20101,La Paz,2013,12,Fuera / MASCULINO,0
+Beni,80201,Riberalta,2013,12,Fuera / MASCULINO,1
+Cochabamba,31001,Sacaba,2013,12,Fuera / MASCULINO,1
+Santa Cruz,70302,San Miguel De Velasco,2013,12,Fuera / MASCULINO,1
+La Paz,22001,Caranavi,2013,1,Fuera / FEMENINO,0
+Santa Cruz,71106,Cuatro Cañadas,2013,1,Fuera / FEMENINO,1
+La Paz,20105,El Alto,2013,1,Fuera / FEMENINO,0
+La Paz,20101,La Paz,2013,1,Fuera / FEMENINO,0
+Potosí,50404,Ocuri,2013,1,Fuera / FEMENINO,0
+La Paz,21305,Patacamaya,2013,1,Fuera / FEMENINO,1
+Cochabamba,31001,Sacaba,2013,1,Fuera / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,Fuera / FEMENINO,1
+Cochabamba,31003,Villa Tunari,2013,1,Fuera / FEMENINO,0
+La Paz,20701,Apolo,2013,2,Fuera / FEMENINO,0
+Santa Cruz,71004,Fernandez Alonso,2013,2,Fuera / FEMENINO,0
+Cochabamba,30302,Morochata,2013,2,Fuera / FEMENINO,0
+Cochabamba,31205,Puerto Villarroel,2013,2,Fuera / FEMENINO,1
+Cochabamba,31001,Sacaba,2013,2,Fuera / FEMENINO,1
+La Paz,21502,San Buena Ventura,2013,2,Fuera / FEMENINO,0
+Chuquisaca,10101,Sucre,2013,2,Fuera / FEMENINO,0
+Potosí,51202,Tomave,2013,2,Fuera / FEMENINO,0
+Potosí,51201,Uyuni,2013,2,Fuera / FEMENINO,0
+Potosí,51501,Villazon,2013,2,Fuera / FEMENINO,0
+La Paz,20105,El Alto,2013,3,Fuera / FEMENINO,1
+Potosí,50203,Llallagua,2013,3,Fuera / FEMENINO,1
+Oruro,40801,Salinas De Garci Mendoza,2013,3,Fuera / FEMENINO,0
+Cochabamba,31601,Tiraque (cbba),2013,3,Fuera / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2013,3,Fuera / FEMENINO,0
+Tarija,60301,Yacuiba,2013,3,Fuera / FEMENINO,0
+Beni,80302,San Borja,2013,4,Fuera / FEMENINO,0
+Beni,80501,San Ignacio,2013,4,Fuera / FEMENINO,0
+Chuquisaca,10101,Sucre,2013,4,Fuera / FEMENINO,0
+Beni,80101,Trinidad,2013,4,Fuera / FEMENINO,0
+La Paz,20701,Apolo,2013,5,Fuera / FEMENINO,1
+Potosí,50401,Colquechaca,2013,5,Fuera / FEMENINO,0
+La Paz,20105,El Alto,2013,5,Fuera / FEMENINO,0
+La Paz,20602,Guanay,2013,5,Fuera / FEMENINO,1
+La Paz,20101,La Paz,2013,5,Fuera / FEMENINO,0
+Cochabamba,30901,Quillacollo,2013,5,Fuera / FEMENINO,0
+La Paz,20805,San Andres De Machaca,2013,5,Fuera / FEMENINO,0
+Beni,80302,San Borja,2013,5,Fuera / FEMENINO,0
+La Paz,20801,Viacha,2013,5,Fuera / FEMENINO,1
+Oruro,40201,Challapata,2013,6,Fuera / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,6,Fuera / FEMENINO,0
+La Paz,20105,El Alto,2013,6,Fuera / FEMENINO,2
+Santa Cruz,71004,Fernandez Alonso,2013,6,Fuera / FEMENINO,0
+Oruro,40701,Huanuni,2013,6,Fuera / FEMENINO,0
+La Paz,20101,La Paz,2013,6,Fuera / FEMENINO,1
+Cochabamba,31001,Sacaba,2013,6,Fuera / FEMENINO,1
+La Paz,22002,Alto Beni,2013,7,Fuera / FEMENINO,0
+Santa Cruz,70703,Cabezas,2013,7,Fuera / FEMENINO,0
+Cochabamba,31204,Chimore,2013,7,Fuera / FEMENINO,1
+Pando,90101,Cobija,2013,7,Fuera / FEMENINO,0
+Cochabamba,31002,Colomi,2013,7,Fuera / FEMENINO,0
+La Paz,21501,Ixiamas,2013,7,Fuera / FEMENINO,0
+Potosí,50203,Llallagua,2013,7,Fuera / FEMENINO,0
+Cochabamba,31001,Sacaba,2013,7,Fuera / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,Fuera / FEMENINO,0
+Cochabamba,31602,Shinaota,2013,7,Fuera / FEMENINO,2
+Potosí,50102,Tinguipaya,2013,7,Fuera / FEMENINO,0
+Chuquisaca,10402,Tomina,2013,7,Fuera / FEMENINO,0
+Santa Cruz,70201,Warnes,2013,7,Fuera / FEMENINO,0
+Santa Cruz,70403,Yapacani,2013,7,Fuera / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,8,Fuera / FEMENINO,0
+Cochabamba,31002,Colomi,2013,8,Fuera / FEMENINO,0
+La Paz,20105,El Alto,2013,8,Fuera / FEMENINO,0
+Cochabamba,31205,Puerto Villarroel,2013,8,Fuera / FEMENINO,0
+Beni,80201,Riberalta,2013,8,Fuera / FEMENINO,0
+Tarija,60301,Yacuiba,2013,8,Fuera / FEMENINO,0
+Tarija,60402,Yunchara,2013,8,Fuera / FEMENINO,0
+Pando,90101,Cobija,2013,9,Fuera / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,9,Fuera / FEMENINO,0
+Potosí,50401,Colquechaca,2013,9,Fuera / FEMENINO,0
+Santa Cruz,71004,Fernandez Alonso,2013,9,Fuera / FEMENINO,1
+La Paz,20602,Guanay,2013,9,Fuera / FEMENINO,1
+Beni,80201,Riberalta,2013,9,Fuera / FEMENINO,0
+La Paz,21304,Calamarca,2013,10,Fuera / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,10,Fuera / FEMENINO,0
+La Paz,20105,El Alto,2013,10,Fuera / FEMENINO,1
+Santa Cruz,71401,Puerto Suarez,2013,10,Fuera / FEMENINO,0
+Beni,80201,Riberalta,2013,10,Fuera / FEMENINO,0
+Cochabamba,31001,Sacaba,2013,10,Fuera / FEMENINO,1
+Chuquisaca,10101,Sucre,2013,10,Fuera / FEMENINO,1
+Pando,90101,Cobija,2013,11,Fuera / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,11,Fuera / FEMENINO,0
+Potosí,50401,Colquechaca,2013,11,Fuera / FEMENINO,1
+La Paz,20105,El Alto,2013,11,Fuera / FEMENINO,0
+La Paz,20101,La Paz,2013,11,Fuera / FEMENINO,0
+Potosí,50201,Uncia,2013,11,Fuera / FEMENINO,0
+Potosí,51201,Uyuni,2013,11,Fuera / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,12,Fuera / FEMENINO,0
+La Paz,20101,La Paz,2013,12,Fuera / FEMENINO,1
+Beni,80201,Riberalta,2013,12,Fuera / FEMENINO,0
+Cochabamba,31001,Sacaba,2013,12,Fuera / FEMENINO,1
+Santa Cruz,70302,San Miguel De Velasco,2013,12,Fuera / FEMENINO,0
+La Paz,22001,Caranavi,2013,1,TOTALES / TOTAL-M,1
+Santa Cruz,71106,Cuatro Cañadas,2013,1,TOTALES / TOTAL-M,0
+La Paz,20105,El Alto,2013,1,TOTALES / TOTAL-M,1
+La Paz,20101,La Paz,2013,1,TOTALES / TOTAL-M,0
+Potosí,50404,Ocuri,2013,1,TOTALES / TOTAL-M,1
+La Paz,21305,Patacamaya,2013,1,TOTALES / TOTAL-M,0
+Cochabamba,31001,Sacaba,2013,1,TOTALES / TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,TOTALES / TOTAL-M,0
+Cochabamba,31003,Villa Tunari,2013,1,TOTALES / TOTAL-M,1
+La Paz,20701,Apolo,2013,2,TOTALES / TOTAL-M,0
+Santa Cruz,71004,Fernandez Alonso,2013,2,TOTALES / TOTAL-M,1
+Cochabamba,30302,Morochata,2013,2,TOTALES / TOTAL-M,1
+Cochabamba,31205,Puerto Villarroel,2013,2,TOTALES / TOTAL-M,0
+Cochabamba,31001,Sacaba,2013,2,TOTALES / TOTAL-M,0
+La Paz,21502,San Buena Ventura,2013,2,TOTALES / TOTAL-M,1
+Chuquisaca,10101,Sucre,2013,2,TOTALES / TOTAL-M,0
+Potosí,51202,Tomave,2013,2,TOTALES / TOTAL-M,0
+Potosí,51201,Uyuni,2013,2,TOTALES / TOTAL-M,1
+Potosí,51501,Villazon,2013,2,TOTALES / TOTAL-M,1
+La Paz,20105,El Alto,2013,3,TOTALES / TOTAL-M,0
+Potosí,50203,Llallagua,2013,3,TOTALES / TOTAL-M,0
+Oruro,40801,Salinas De Garci Mendoza,2013,3,TOTALES / TOTAL-M,1
+Cochabamba,31601,Tiraque (cbba),2013,3,TOTALES / TOTAL-M,1
+Cochabamba,31003,Villa Tunari,2013,3,TOTALES / TOTAL-M,1
+Tarija,60301,Yacuiba,2013,3,TOTALES / TOTAL-M,1
+Beni,80302,San Borja,2013,4,TOTALES / TOTAL-M,1
+Beni,80501,San Ignacio,2013,4,TOTALES / TOTAL-M,1
+Chuquisaca,10101,Sucre,2013,4,TOTALES / TOTAL-M,2
+Beni,80101,Trinidad,2013,4,TOTALES / TOTAL-M,0
+La Paz,20701,Apolo,2013,5,TOTALES / TOTAL-M,0
+Potosí,50401,Colquechaca,2013,5,TOTALES / TOTAL-M,1
+La Paz,20105,El Alto,2013,5,TOTALES / TOTAL-M,2
+La Paz,20602,Guanay,2013,5,TOTALES / TOTAL-M,0
+La Paz,20101,La Paz,2013,5,TOTALES / TOTAL-M,0
+Cochabamba,30901,Quillacollo,2013,5,TOTALES / TOTAL-M,1
+La Paz,20805,San Andres De Machaca,2013,5,TOTALES / TOTAL-M,1
+Beni,80302,San Borja,2013,5,TOTALES / TOTAL-M,0
+La Paz,20801,Viacha,2013,5,TOTALES / TOTAL-M,0
+Oruro,40201,Challapata,2013,6,TOTALES / TOTAL-M,1
+Cochabamba,30101,Cochabamba,2013,6,TOTALES / TOTAL-M,1
+La Paz,20105,El Alto,2013,6,TOTALES / TOTAL-M,2
+Santa Cruz,71004,Fernandez Alonso,2013,6,TOTALES / TOTAL-M,2
+Oruro,40701,Huanuni,2013,6,TOTALES / TOTAL-M,1
+La Paz,20101,La Paz,2013,6,TOTALES / TOTAL-M,0
+Cochabamba,31001,Sacaba,2013,6,TOTALES / TOTAL-M,0
+La Paz,22002,Alto Beni,2013,7,TOTALES / TOTAL-M,1
+Santa Cruz,70703,Cabezas,2013,7,TOTALES / TOTAL-M,1
+Cochabamba,31204,Chimore,2013,7,TOTALES / TOTAL-M,1
+Pando,90101,Cobija,2013,7,TOTALES / TOTAL-M,1
+Cochabamba,31002,Colomi,2013,7,TOTALES / TOTAL-M,2
+La Paz,21501,Ixiamas,2013,7,TOTALES / TOTAL-M,2
+Potosí,50203,Llallagua,2013,7,TOTALES / TOTAL-M,0
+Cochabamba,31001,Sacaba,2013,7,TOTALES / TOTAL-M,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,TOTALES / TOTAL-M,0
+Cochabamba,31602,Shinaota,2013,7,TOTALES / TOTAL-M,0
+Potosí,50102,Tinguipaya,2013,7,TOTALES / TOTAL-M,2
+Chuquisaca,10402,Tomina,2013,7,TOTALES / TOTAL-M,1
+Santa Cruz,70201,Warnes,2013,7,TOTALES / TOTAL-M,2
+Santa Cruz,70403,Yapacani,2013,7,TOTALES / TOTAL-M,1
+Cochabamba,30101,Cochabamba,2013,8,TOTALES / TOTAL-M,2
+Cochabamba,31002,Colomi,2013,8,TOTALES / TOTAL-M,1
+La Paz,20105,El Alto,2013,8,TOTALES / TOTAL-M,2
+Cochabamba,31205,Puerto Villarroel,2013,8,TOTALES / TOTAL-M,1
+Beni,80201,Riberalta,2013,8,TOTALES / TOTAL-M,0
+Tarija,60301,Yacuiba,2013,8,TOTALES / TOTAL-M,1
+Tarija,60402,Yunchara,2013,8,TOTALES / TOTAL-M,1
+Pando,90101,Cobija,2013,9,TOTALES / TOTAL-M,0
+Cochabamba,30101,Cochabamba,2013,9,TOTALES / TOTAL-M,0
+Potosí,50401,Colquechaca,2013,9,TOTALES / TOTAL-M,1
+Santa Cruz,71004,Fernandez Alonso,2013,9,TOTALES / TOTAL-M,0
+La Paz,20602,Guanay,2013,9,TOTALES / TOTAL-M,0
+Beni,80201,Riberalta,2013,9,TOTALES / TOTAL-M,1
+La Paz,21304,Calamarca,2013,10,TOTALES / TOTAL-M,1
+Cochabamba,30101,Cochabamba,2013,10,TOTALES / TOTAL-M,1
+La Paz,20105,El Alto,2013,10,TOTALES / TOTAL-M,0
+Santa Cruz,71401,Puerto Suarez,2013,10,TOTALES / TOTAL-M,1
+Beni,80201,Riberalta,2013,10,TOTALES / TOTAL-M,0
+Cochabamba,31001,Sacaba,2013,10,TOTALES / TOTAL-M,0
+Chuquisaca,10101,Sucre,2013,10,TOTALES / TOTAL-M,0
+Pando,90101,Cobija,2013,11,TOTALES / TOTAL-M,1
+Cochabamba,30101,Cochabamba,2013,11,TOTALES / TOTAL-M,1
+Potosí,50401,Colquechaca,2013,11,TOTALES / TOTAL-M,0
+La Paz,20105,El Alto,2013,11,TOTALES / TOTAL-M,1
+La Paz,20101,La Paz,2013,11,TOTALES / TOTAL-M,0
+Potosí,50201,Uncia,2013,11,TOTALES / TOTAL-M,1
+Potosí,51201,Uyuni,2013,11,TOTALES / TOTAL-M,1
+Cochabamba,30101,Cochabamba,2013,12,TOTALES / TOTAL-M,2
+La Paz,20101,La Paz,2013,12,TOTALES / TOTAL-M,0
+Beni,80201,Riberalta,2013,12,TOTALES / TOTAL-M,1
+Cochabamba,31001,Sacaba,2013,12,TOTALES / TOTAL-M,1
+Santa Cruz,70302,San Miguel De Velasco,2013,12,TOTALES / TOTAL-M,1
+La Paz,22001,Caranavi,2013,1,TOTALES / TOTAL-F,0
+Santa Cruz,71106,Cuatro Cañadas,2013,1,TOTALES / TOTAL-F,1
+La Paz,20105,El Alto,2013,1,TOTALES / TOTAL-F,0
+La Paz,20101,La Paz,2013,1,TOTALES / TOTAL-F,1
+Potosí,50404,Ocuri,2013,1,TOTALES / TOTAL-F,0
+La Paz,21305,Patacamaya,2013,1,TOTALES / TOTAL-F,1
+Cochabamba,31001,Sacaba,2013,1,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,TOTALES / TOTAL-F,1
+Cochabamba,31003,Villa Tunari,2013,1,TOTALES / TOTAL-F,0
+La Paz,20701,Apolo,2013,2,TOTALES / TOTAL-F,1
+Santa Cruz,71004,Fernandez Alonso,2013,2,TOTALES / TOTAL-F,0
+Cochabamba,30302,Morochata,2013,2,TOTALES / TOTAL-F,0
+Cochabamba,31205,Puerto Villarroel,2013,2,TOTALES / TOTAL-F,2
+Cochabamba,31001,Sacaba,2013,2,TOTALES / TOTAL-F,1
+La Paz,21502,San Buena Ventura,2013,2,TOTALES / TOTAL-F,0
+Chuquisaca,10101,Sucre,2013,2,TOTALES / TOTAL-F,1
+Potosí,51202,Tomave,2013,2,TOTALES / TOTAL-F,1
+Potosí,51201,Uyuni,2013,2,TOTALES / TOTAL-F,0
+Potosí,51501,Villazon,2013,2,TOTALES / TOTAL-F,0
+La Paz,20105,El Alto,2013,3,TOTALES / TOTAL-F,1
+Potosí,50203,Llallagua,2013,3,TOTALES / TOTAL-F,1
+Oruro,40801,Salinas De Garci Mendoza,2013,3,TOTALES / TOTAL-F,0
+Cochabamba,31601,Tiraque (cbba),2013,3,TOTALES / TOTAL-F,0
+Cochabamba,31003,Villa Tunari,2013,3,TOTALES / TOTAL-F,0
+Tarija,60301,Yacuiba,2013,3,TOTALES / TOTAL-F,0
+Beni,80302,San Borja,2013,4,TOTALES / TOTAL-F,0
+Beni,80501,San Ignacio,2013,4,TOTALES / TOTAL-F,0
+Chuquisaca,10101,Sucre,2013,4,TOTALES / TOTAL-F,0
+Beni,80101,Trinidad,2013,4,TOTALES / TOTAL-F,1
+La Paz,20701,Apolo,2013,5,TOTALES / TOTAL-F,1
+Potosí,50401,Colquechaca,2013,5,TOTALES / TOTAL-F,0
+La Paz,20105,El Alto,2013,5,TOTALES / TOTAL-F,0
+La Paz,20602,Guanay,2013,5,TOTALES / TOTAL-F,1
+La Paz,20101,La Paz,2013,5,TOTALES / TOTAL-F,1
+Cochabamba,30901,Quillacollo,2013,5,TOTALES / TOTAL-F,0
+La Paz,20805,San Andres De Machaca,2013,5,TOTALES / TOTAL-F,0
+Beni,80302,San Borja,2013,5,TOTALES / TOTAL-F,1
+La Paz,20801,Viacha,2013,5,TOTALES / TOTAL-F,1
+Oruro,40201,Challapata,2013,6,TOTALES / TOTAL-F,0
+Cochabamba,30101,Cochabamba,2013,6,TOTALES / TOTAL-F,0
+La Paz,20105,El Alto,2013,6,TOTALES / TOTAL-F,3
+Santa Cruz,71004,Fernandez Alonso,2013,6,TOTALES / TOTAL-F,0
+Oruro,40701,Huanuni,2013,6,TOTALES / TOTAL-F,0
+La Paz,20101,La Paz,2013,6,TOTALES / TOTAL-F,1
+Cochabamba,31001,Sacaba,2013,6,TOTALES / TOTAL-F,2
+La Paz,22002,Alto Beni,2013,7,TOTALES / TOTAL-F,0
+Santa Cruz,70703,Cabezas,2013,7,TOTALES / TOTAL-F,0
+Cochabamba,31204,Chimore,2013,7,TOTALES / TOTAL-F,1
+Pando,90101,Cobija,2013,7,TOTALES / TOTAL-F,0
+Cochabamba,31002,Colomi,2013,7,TOTALES / TOTAL-F,0
+La Paz,21501,Ixiamas,2013,7,TOTALES / TOTAL-F,0
+Potosí,50203,Llallagua,2013,7,TOTALES / TOTAL-F,1
+Cochabamba,31001,Sacaba,2013,7,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,TOTALES / TOTAL-F,1
+Cochabamba,31602,Shinaota,2013,7,TOTALES / TOTAL-F,2
+Potosí,50102,Tinguipaya,2013,7,TOTALES / TOTAL-F,0
+Chuquisaca,10402,Tomina,2013,7,TOTALES / TOTAL-F,0
+Santa Cruz,70201,Warnes,2013,7,TOTALES / TOTAL-F,0
+Santa Cruz,70403,Yapacani,2013,7,TOTALES / TOTAL-F,0
+Cochabamba,30101,Cochabamba,2013,8,TOTALES / TOTAL-F,0
+Cochabamba,31002,Colomi,2013,8,TOTALES / TOTAL-F,0
+La Paz,20105,El Alto,2013,8,TOTALES / TOTAL-F,0
+Cochabamba,31205,Puerto Villarroel,2013,8,TOTALES / TOTAL-F,0
+Beni,80201,Riberalta,2013,8,TOTALES / TOTAL-F,1
+Tarija,60301,Yacuiba,2013,8,TOTALES / TOTAL-F,0
+Tarija,60402,Yunchara,2013,8,TOTALES / TOTAL-F,0
+Pando,90101,Cobija,2013,9,TOTALES / TOTAL-F,1
+Cochabamba,30101,Cochabamba,2013,9,TOTALES / TOTAL-F,2
+Potosí,50401,Colquechaca,2013,9,TOTALES / TOTAL-F,0
+Santa Cruz,71004,Fernandez Alonso,2013,9,TOTALES / TOTAL-F,1
+La Paz,20602,Guanay,2013,9,TOTALES / TOTAL-F,1
+Beni,80201,Riberalta,2013,9,TOTALES / TOTAL-F,0
+La Paz,21304,Calamarca,2013,10,TOTALES / TOTAL-F,0
+Cochabamba,30101,Cochabamba,2013,10,TOTALES / TOTAL-F,0
+La Paz,20105,El Alto,2013,10,TOTALES / TOTAL-F,1
+Santa Cruz,71401,Puerto Suarez,2013,10,TOTALES / TOTAL-F,0
+Beni,80201,Riberalta,2013,10,TOTALES / TOTAL-F,1
+Cochabamba,31001,Sacaba,2013,10,TOTALES / TOTAL-F,1
+Chuquisaca,10101,Sucre,2013,10,TOTALES / TOTAL-F,1
+Pando,90101,Cobija,2013,11,TOTALES / TOTAL-F,0
+Cochabamba,30101,Cochabamba,2013,11,TOTALES / TOTAL-F,0
+Potosí,50401,Colquechaca,2013,11,TOTALES / TOTAL-F,1
+La Paz,20105,El Alto,2013,11,TOTALES / TOTAL-F,0
+La Paz,20101,La Paz,2013,11,TOTALES / TOTAL-F,1
+Potosí,50201,Uncia,2013,11,TOTALES / TOTAL-F,0
+Potosí,51201,Uyuni,2013,11,TOTALES / TOTAL-F,0
+Cochabamba,30101,Cochabamba,2013,12,TOTALES / TOTAL-F,0
+La Paz,20101,La Paz,2013,12,TOTALES / TOTAL-F,1
+Beni,80201,Riberalta,2013,12,TOTALES / TOTAL-F,0
+Cochabamba,31001,Sacaba,2013,12,TOTALES / TOTAL-F,1
+Santa Cruz,70302,San Miguel De Velasco,2013,12,TOTALES / TOTAL-F,0
+La Paz,22001,Caranavi,2013,1,TOTALES / TOTAL,1
+Santa Cruz,71106,Cuatro Cañadas,2013,1,TOTALES / TOTAL,1
+La Paz,20105,El Alto,2013,1,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2013,1,TOTALES / TOTAL,1
+Potosí,50404,Ocuri,2013,1,TOTALES / TOTAL,1
+La Paz,21305,Patacamaya,2013,1,TOTALES / TOTAL,1
+Cochabamba,31001,Sacaba,2013,1,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,TOTALES / TOTAL,1
+Cochabamba,31003,Villa Tunari,2013,1,TOTALES / TOTAL,1
+La Paz,20701,Apolo,2013,2,TOTALES / TOTAL,1
+Santa Cruz,71004,Fernandez Alonso,2013,2,TOTALES / TOTAL,1
+Cochabamba,30302,Morochata,2013,2,TOTALES / TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2013,2,TOTALES / TOTAL,2
+Cochabamba,31001,Sacaba,2013,2,TOTALES / TOTAL,1
+La Paz,21502,San Buena Ventura,2013,2,TOTALES / TOTAL,1
+Chuquisaca,10101,Sucre,2013,2,TOTALES / TOTAL,1
+Potosí,51202,Tomave,2013,2,TOTALES / TOTAL,1
+Potosí,51201,Uyuni,2013,2,TOTALES / TOTAL,1
+Potosí,51501,Villazon,2013,2,TOTALES / TOTAL,1
+La Paz,20105,El Alto,2013,3,TOTALES / TOTAL,1
+Potosí,50203,Llallagua,2013,3,TOTALES / TOTAL,1
+Oruro,40801,Salinas De Garci Mendoza,2013,3,TOTALES / TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2013,3,TOTALES / TOTAL,1
+Cochabamba,31003,Villa Tunari,2013,3,TOTALES / TOTAL,1
+Tarija,60301,Yacuiba,2013,3,TOTALES / TOTAL,1
+Beni,80302,San Borja,2013,4,TOTALES / TOTAL,1
+Beni,80501,San Ignacio,2013,4,TOTALES / TOTAL,1
+Chuquisaca,10101,Sucre,2013,4,TOTALES / TOTAL,2
+Beni,80101,Trinidad,2013,4,TOTALES / TOTAL,1
+La Paz,20701,Apolo,2013,5,TOTALES / TOTAL,1
+Potosí,50401,Colquechaca,2013,5,TOTALES / TOTAL,1
+La Paz,20105,El Alto,2013,5,TOTALES / TOTAL,2
+La Paz,20602,Guanay,2013,5,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2013,5,TOTALES / TOTAL,1
+Cochabamba,30901,Quillacollo,2013,5,TOTALES / TOTAL,1
+La Paz,20805,San Andres De Machaca,2013,5,TOTALES / TOTAL,1
+Beni,80302,San Borja,2013,5,TOTALES / TOTAL,1
+La Paz,20801,Viacha,2013,5,TOTALES / TOTAL,1
+Oruro,40201,Challapata,2013,6,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2013,6,TOTALES / TOTAL,1
+La Paz,20105,El Alto,2013,6,TOTALES / TOTAL,5
+Santa Cruz,71004,Fernandez Alonso,2013,6,TOTALES / TOTAL,2
+Oruro,40701,Huanuni,2013,6,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2013,6,TOTALES / TOTAL,1
+Cochabamba,31001,Sacaba,2013,6,TOTALES / TOTAL,2
+La Paz,22002,Alto Beni,2013,7,TOTALES / TOTAL,1
+Santa Cruz,70703,Cabezas,2013,7,TOTALES / TOTAL,1
+Cochabamba,31204,Chimore,2013,7,TOTALES / TOTAL,2
+Pando,90101,Cobija,2013,7,TOTALES / TOTAL,1
+Cochabamba,31002,Colomi,2013,7,TOTALES / TOTAL,2
+La Paz,21501,Ixiamas,2013,7,TOTALES / TOTAL,2
+Potosí,50203,Llallagua,2013,7,TOTALES / TOTAL,1
+Cochabamba,31001,Sacaba,2013,7,TOTALES / TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,TOTALES / TOTAL,1
+Cochabamba,31602,Shinaota,2013,7,TOTALES / TOTAL,2
+Potosí,50102,Tinguipaya,2013,7,TOTALES / TOTAL,2
+Chuquisaca,10402,Tomina,2013,7,TOTALES / TOTAL,1
+Santa Cruz,70201,Warnes,2013,7,TOTALES / TOTAL,2
+Santa Cruz,70403,Yapacani,2013,7,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2013,8,TOTALES / TOTAL,2
+Cochabamba,31002,Colomi,2013,8,TOTALES / TOTAL,1
+La Paz,20105,El Alto,2013,8,TOTALES / TOTAL,2
+Cochabamba,31205,Puerto Villarroel,2013,8,TOTALES / TOTAL,1
+Beni,80201,Riberalta,2013,8,TOTALES / TOTAL,1
+Tarija,60301,Yacuiba,2013,8,TOTALES / TOTAL,1
+Tarija,60402,Yunchara,2013,8,TOTALES / TOTAL,1
+Pando,90101,Cobija,2013,9,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2013,9,TOTALES / TOTAL,2
+Potosí,50401,Colquechaca,2013,9,TOTALES / TOTAL,1
+Santa Cruz,71004,Fernandez Alonso,2013,9,TOTALES / TOTAL,1
+La Paz,20602,Guanay,2013,9,TOTALES / TOTAL,1
+Beni,80201,Riberalta,2013,9,TOTALES / TOTAL,1
+La Paz,21304,Calamarca,2013,10,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2013,10,TOTALES / TOTAL,1
+La Paz,20105,El Alto,2013,10,TOTALES / TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2013,10,TOTALES / TOTAL,1
+Beni,80201,Riberalta,2013,10,TOTALES / TOTAL,1
+Cochabamba,31001,Sacaba,2013,10,TOTALES / TOTAL,1
+Chuquisaca,10101,Sucre,2013,10,TOTALES / TOTAL,1
+Pando,90101,Cobija,2013,11,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2013,11,TOTALES / TOTAL,1
+Potosí,50401,Colquechaca,2013,11,TOTALES / TOTAL,1
+La Paz,20105,El Alto,2013,11,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2013,11,TOTALES / TOTAL,1
+Potosí,50201,Uncia,2013,11,TOTALES / TOTAL,1
+Potosí,51201,Uyuni,2013,11,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2013,12,TOTALES / TOTAL,2
+La Paz,20101,La Paz,2013,12,TOTALES / TOTAL,1
+Beni,80201,Riberalta,2013,12,TOTALES / TOTAL,1
+Cochabamba,31001,Sacaba,2013,12,TOTALES / TOTAL,2
+Santa Cruz,70302,San Miguel De Velasco,2013,12,TOTALES / TOTAL,1

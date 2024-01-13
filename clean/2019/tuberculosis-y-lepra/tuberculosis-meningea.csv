@@ -1,0 +1,93 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20101,La Paz,2019,1,a. Menor de 6 meses / MASCULINO,0
+Potosí,50802,Atocha,2019,5,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,6,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,11,a. Menor de 6 meses / MASCULINO,0
+La Paz,20101,La Paz,2019,1,a. Menor de 6 meses / FEMENINO,0
+Potosí,50802,Atocha,2019,5,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,6,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,11,a. Menor de 6 meses / FEMENINO,0
+La Paz,20101,La Paz,2019,1,b. 6 m a menor de 1 ano / MASCULINO,0
+Potosí,50802,Atocha,2019,5,b. 6 m a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,6,b. 6 m a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,11,b. 6 m a menor de 1 ano / MASCULINO,0
+La Paz,20101,La Paz,2019,1,b. 6 m a menor de 1 ano / FEMENINO,0
+Potosí,50802,Atocha,2019,5,b. 6 m a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,6,b. 6 m a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,11,b. 6 m a menor de 1 ano / FEMENINO,0
+La Paz,20101,La Paz,2019,1,c. 1 - 4 anos / MASCULINO,0
+Potosí,50802,Atocha,2019,5,c. 1 - 4 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,6,c. 1 - 4 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,11,c. 1 - 4 anos / MASCULINO,0
+La Paz,20101,La Paz,2019,1,c. 1 - 4 anos / FEMENINO,1
+Potosí,50802,Atocha,2019,5,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,6,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,11,c. 1 - 4 anos / FEMENINO,1
+La Paz,20101,La Paz,2019,1,d. 5 - 9 anos / MASCULINO,0
+Potosí,50802,Atocha,2019,5,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,6,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,11,d. 5 - 9 anos / MASCULINO,0
+La Paz,20101,La Paz,2019,1,d. 5 - 9 anos / FEMENINO,0
+Potosí,50802,Atocha,2019,5,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,6,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,11,d. 5 - 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2019,1,e. 10 - 14 anos / MASCULINO,0
+Potosí,50802,Atocha,2019,5,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,6,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,11,e. 10 - 14 anos / MASCULINO,0
+La Paz,20101,La Paz,2019,1,e. 10 - 14 anos / FEMENINO,0
+Potosí,50802,Atocha,2019,5,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,6,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,11,e. 10 - 14 anos / FEMENINO,0
+La Paz,20101,La Paz,2019,1,f. 15 - 19 anos / MASCULINO,0
+Potosí,50802,Atocha,2019,5,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,6,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,11,f. 15 - 19 anos / MASCULINO,0
+La Paz,20101,La Paz,2019,1,f. 15 - 19 anos / FEMENINO,0
+Potosí,50802,Atocha,2019,5,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,6,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,11,f. 15 - 19 anos / FEMENINO,0
+La Paz,20101,La Paz,2019,1,g. 20 - 39 anos / MASCULINO,0
+Potosí,50802,Atocha,2019,5,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,6,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,11,g. 20 - 39 anos / MASCULINO,0
+La Paz,20101,La Paz,2019,1,g. 20 - 39 anos / FEMENINO,0
+Potosí,50802,Atocha,2019,5,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,6,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,11,g. 20 - 39 anos / FEMENINO,0
+La Paz,20101,La Paz,2019,1,h. 40 - 49 anos / MASCULINO,0
+Potosí,50802,Atocha,2019,5,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,6,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,11,h. 40 - 49 anos / MASCULINO,0
+La Paz,20101,La Paz,2019,1,h. 40 - 49 anos / FEMENINO,0
+Potosí,50802,Atocha,2019,5,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,6,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,11,h. 40 - 49 anos / FEMENINO,0
+La Paz,20101,La Paz,2019,1,i. 50 - 59 anos / MASCULINO,0
+Potosí,50802,Atocha,2019,5,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,6,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,11,i. 50 - 59 anos / MASCULINO,0
+La Paz,20101,La Paz,2019,1,i. 50 - 59 anos / FEMENINO,0
+Potosí,50802,Atocha,2019,5,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,6,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,11,i. 50 - 59 anos / FEMENINO,0
+La Paz,20101,La Paz,2019,1,j. 60 anos y mas / MASCULINO,0
+Potosí,50802,Atocha,2019,5,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,6,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,11,j. 60 anos y mas / MASCULINO,0
+La Paz,20101,La Paz,2019,1,j. 60 anos y mas / FEMENINO,0
+Potosí,50802,Atocha,2019,5,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,6,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,11,j. 60 anos y mas / FEMENINO,0
+La Paz,20101,La Paz,2019,1,TOTALES / DENTRO,0
+Potosí,50802,Atocha,2019,5,TOTALES / DENTRO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,6,TOTALES / DENTRO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,11,TOTALES / DENTRO,0
+La Paz,20101,La Paz,2019,1,TOTALES / FUERA,1
+Potosí,50802,Atocha,2019,5,TOTALES / FUERA,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,6,TOTALES / FUERA,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,11,TOTALES / FUERA,1
+La Paz,20101,La Paz,2019,1,TOTALES / TOTAL,1
+Potosí,50802,Atocha,2019,5,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,6,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,11,TOTALES / TOTAL,1

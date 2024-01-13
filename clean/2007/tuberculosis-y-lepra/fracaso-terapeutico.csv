@@ -1,0 +1,664 @@
+department,municipality_id,municipality,year,month,population,value
+Tarija,60202,Bermejo,2007,1,< de 1 ano-H,0
+Chuquisaca,10101,Sucre,2007,1,< de 1 ano-H,0
+La Paz,20606,Tipuani,2007,1,< de 1 ano-H,0
+Cochabamba,31601,Tiraque (cbba),2007,1,< de 1 ano-H,0
+Potosí,51102,"Caiza ""d""",2007,2,< de 1 ano-H,0
+La Paz,20101,La Paz,2007,2,< de 1 ano-H,0
+La Paz,20606,Tipuani,2007,2,< de 1 ano-H,0
+Cochabamba,31601,Tiraque (cbba),2007,2,< de 1 ano-H,0
+Potosí,50801,Tupiza,2007,2,< de 1 ano-H,0
+La Paz,22001,Caranavi,2007,3,< de 1 ano-H,0
+La Paz,20602,Guanay,2007,3,< de 1 ano-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,< de 1 ano-H,0
+Chuquisaca,10101,Sucre,2007,3,< de 1 ano-H,0
+La Paz,20606,Tipuani,2007,3,< de 1 ano-H,0
+La Paz,20801,Viacha,2007,3,< de 1 ano-H,0
+La Paz,22001,Caranavi,2007,4,< de 1 ano-H,0
+La Paz,20101,La Paz,2007,4,< de 1 ano-H,0
+Potosí,50203,Llallagua,2007,4,< de 1 ano-H,0
+La Paz,20606,Tipuani,2007,4,< de 1 ano-H,0
+Beni,80101,Trinidad,2007,4,< de 1 ano-H,0
+La Paz,22001,Caranavi,2007,5,< de 1 ano-H,0
+Chuquisaca,10902,Culpina,2007,5,< de 1 ano-H,0
+La Paz,20105,El Alto,2007,5,< de 1 ano-H,0
+Tarija,60502,El Puente(tja),2007,5,< de 1 ano-H,0
+La Paz,20101,La Paz,2007,5,< de 1 ano-H,0
+La Paz,20606,Tipuani,2007,5,< de 1 ano-H,0
+Santa Cruz,71501,Ascencion De Guarayos,2007,6,< de 1 ano-H,0
+Tarija,60202,Bermejo,2007,6,< de 1 ano-H,0
+La Paz,21402,Coripata,2007,6,< de 1 ano-H,0
+La Paz,21104,Palos Blancos,2007,6,< de 1 ano-H,0
+La Paz,20606,Tipuani,2007,6,< de 1 ano-H,0
+Pando,90502,Villa Nueva (loma Alta),2007,6,< de 1 ano-H,0
+Santa Cruz,71501,Ascencion De Guarayos,2007,7,< de 1 ano-H,0
+La Paz,22001,Caranavi,2007,7,< de 1 ano-H,0
+Beni,80401,Santa Ana,2007,7,< de 1 ano-H,0
+La Paz,20901,Luribay,2007,8,< de 1 ano-H,0
+La Paz,20607,Mapiri,2007,8,< de 1 ano-H,0
+Santa Cruz,71401,Puerto Suarez,2007,8,< de 1 ano-H,0
+La Paz,20606,Tipuani,2007,8,< de 1 ano-H,0
+Potosí,51102,"Caiza ""d""",2007,9,< de 1 ano-H,0
+Santa Cruz,70706,Camiri,2007,9,< de 1 ano-H,0
+La Paz,20105,El Alto,2007,9,< de 1 ano-H,0
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,9,< de 1 ano-H,0
+Tarija,60101,Tarija,2007,9,< de 1 ano-H,0
+Tarija,60202,Bermejo,2007,10,< de 1 ano-H,0
+Cochabamba,31601,Tiraque (cbba),2007,10,< de 1 ano-H,0
+Cochabamba,31003,Villa Tunari,2007,10,< de 1 ano-H,0
+Potosí,50302,Chaqui,2007,11,< de 1 ano-H,0
+Potosí,50203,Llallagua,2007,12,< de 1 ano-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,< de 1 ano-H,0
+Cochabamba,31601,Tiraque (cbba),2007,12,< de 1 ano-H,0
+Tarija,60202,Bermejo,2007,1,< de 1 ano-M,0
+Chuquisaca,10101,Sucre,2007,1,< de 1 ano-M,0
+La Paz,20606,Tipuani,2007,1,< de 1 ano-M,0
+Cochabamba,31601,Tiraque (cbba),2007,1,< de 1 ano-M,0
+Potosí,51102,"Caiza ""d""",2007,2,< de 1 ano-M,0
+La Paz,20101,La Paz,2007,2,< de 1 ano-M,0
+La Paz,20606,Tipuani,2007,2,< de 1 ano-M,0
+Cochabamba,31601,Tiraque (cbba),2007,2,< de 1 ano-M,0
+Potosí,50801,Tupiza,2007,2,< de 1 ano-M,0
+La Paz,22001,Caranavi,2007,3,< de 1 ano-M,0
+La Paz,20602,Guanay,2007,3,< de 1 ano-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,< de 1 ano-M,0
+Chuquisaca,10101,Sucre,2007,3,< de 1 ano-M,0
+La Paz,20606,Tipuani,2007,3,< de 1 ano-M,0
+La Paz,20801,Viacha,2007,3,< de 1 ano-M,0
+La Paz,22001,Caranavi,2007,4,< de 1 ano-M,0
+La Paz,20101,La Paz,2007,4,< de 1 ano-M,0
+Potosí,50203,Llallagua,2007,4,< de 1 ano-M,0
+La Paz,20606,Tipuani,2007,4,< de 1 ano-M,0
+Beni,80101,Trinidad,2007,4,< de 1 ano-M,0
+La Paz,22001,Caranavi,2007,5,< de 1 ano-M,0
+Chuquisaca,10902,Culpina,2007,5,< de 1 ano-M,0
+La Paz,20105,El Alto,2007,5,< de 1 ano-M,0
+Tarija,60502,El Puente(tja),2007,5,< de 1 ano-M,0
+La Paz,20101,La Paz,2007,5,< de 1 ano-M,0
+La Paz,20606,Tipuani,2007,5,< de 1 ano-M,0
+Santa Cruz,71501,Ascencion De Guarayos,2007,6,< de 1 ano-M,0
+Tarija,60202,Bermejo,2007,6,< de 1 ano-M,0
+La Paz,21402,Coripata,2007,6,< de 1 ano-M,0
+La Paz,21104,Palos Blancos,2007,6,< de 1 ano-M,0
+La Paz,20606,Tipuani,2007,6,< de 1 ano-M,0
+Pando,90502,Villa Nueva (loma Alta),2007,6,< de 1 ano-M,0
+Santa Cruz,71501,Ascencion De Guarayos,2007,7,< de 1 ano-M,0
+La Paz,22001,Caranavi,2007,7,< de 1 ano-M,0
+Beni,80401,Santa Ana,2007,7,< de 1 ano-M,0
+La Paz,20901,Luribay,2007,8,< de 1 ano-M,0
+La Paz,20607,Mapiri,2007,8,< de 1 ano-M,0
+Santa Cruz,71401,Puerto Suarez,2007,8,< de 1 ano-M,0
+La Paz,20606,Tipuani,2007,8,< de 1 ano-M,0
+Potosí,51102,"Caiza ""d""",2007,9,< de 1 ano-M,0
+Santa Cruz,70706,Camiri,2007,9,< de 1 ano-M,0
+La Paz,20105,El Alto,2007,9,< de 1 ano-M,0
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,9,< de 1 ano-M,0
+Tarija,60101,Tarija,2007,9,< de 1 ano-M,0
+Tarija,60202,Bermejo,2007,10,< de 1 ano-M,0
+Cochabamba,31601,Tiraque (cbba),2007,10,< de 1 ano-M,0
+Cochabamba,31003,Villa Tunari,2007,10,< de 1 ano-M,0
+Potosí,50302,Chaqui,2007,11,< de 1 ano-M,0
+Potosí,50203,Llallagua,2007,12,< de 1 ano-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,< de 1 ano-M,0
+Cochabamba,31601,Tiraque (cbba),2007,12,< de 1 ano-M,0
+Tarija,60202,Bermejo,2007,1,1 a 4 anos-H,0
+Chuquisaca,10101,Sucre,2007,1,1 a 4 anos-H,0
+La Paz,20606,Tipuani,2007,1,1 a 4 anos-H,0
+Cochabamba,31601,Tiraque (cbba),2007,1,1 a 4 anos-H,0
+Potosí,51102,"Caiza ""d""",2007,2,1 a 4 anos-H,0
+La Paz,20101,La Paz,2007,2,1 a 4 anos-H,0
+La Paz,20606,Tipuani,2007,2,1 a 4 anos-H,0
+Cochabamba,31601,Tiraque (cbba),2007,2,1 a 4 anos-H,0
+Potosí,50801,Tupiza,2007,2,1 a 4 anos-H,0
+La Paz,22001,Caranavi,2007,3,1 a 4 anos-H,0
+La Paz,20602,Guanay,2007,3,1 a 4 anos-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,1 a 4 anos-H,0
+Chuquisaca,10101,Sucre,2007,3,1 a 4 anos-H,0
+La Paz,20606,Tipuani,2007,3,1 a 4 anos-H,0
+La Paz,20801,Viacha,2007,3,1 a 4 anos-H,0
+La Paz,22001,Caranavi,2007,4,1 a 4 anos-H,0
+La Paz,20101,La Paz,2007,4,1 a 4 anos-H,0
+Potosí,50203,Llallagua,2007,4,1 a 4 anos-H,0
+La Paz,20606,Tipuani,2007,4,1 a 4 anos-H,0
+Beni,80101,Trinidad,2007,4,1 a 4 anos-H,0
+La Paz,22001,Caranavi,2007,5,1 a 4 anos-H,0
+Chuquisaca,10902,Culpina,2007,5,1 a 4 anos-H,0
+La Paz,20105,El Alto,2007,5,1 a 4 anos-H,0
+Tarija,60502,El Puente(tja),2007,5,1 a 4 anos-H,0
+La Paz,20101,La Paz,2007,5,1 a 4 anos-H,0
+La Paz,20606,Tipuani,2007,5,1 a 4 anos-H,0
+Santa Cruz,71501,Ascencion De Guarayos,2007,6,1 a 4 anos-H,0
+Tarija,60202,Bermejo,2007,6,1 a 4 anos-H,0
+La Paz,21402,Coripata,2007,6,1 a 4 anos-H,0
+La Paz,21104,Palos Blancos,2007,6,1 a 4 anos-H,0
+La Paz,20606,Tipuani,2007,6,1 a 4 anos-H,0
+Pando,90502,Villa Nueva (loma Alta),2007,6,1 a 4 anos-H,0
+Santa Cruz,71501,Ascencion De Guarayos,2007,7,1 a 4 anos-H,0
+La Paz,22001,Caranavi,2007,7,1 a 4 anos-H,0
+Beni,80401,Santa Ana,2007,7,1 a 4 anos-H,0
+La Paz,20901,Luribay,2007,8,1 a 4 anos-H,0
+La Paz,20607,Mapiri,2007,8,1 a 4 anos-H,0
+Santa Cruz,71401,Puerto Suarez,2007,8,1 a 4 anos-H,0
+La Paz,20606,Tipuani,2007,8,1 a 4 anos-H,0
+Potosí,51102,"Caiza ""d""",2007,9,1 a 4 anos-H,0
+Santa Cruz,70706,Camiri,2007,9,1 a 4 anos-H,0
+La Paz,20105,El Alto,2007,9,1 a 4 anos-H,0
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,9,1 a 4 anos-H,0
+Tarija,60101,Tarija,2007,9,1 a 4 anos-H,0
+Tarija,60202,Bermejo,2007,10,1 a 4 anos-H,0
+Cochabamba,31601,Tiraque (cbba),2007,10,1 a 4 anos-H,0
+Cochabamba,31003,Villa Tunari,2007,10,1 a 4 anos-H,0
+Potosí,50302,Chaqui,2007,11,1 a 4 anos-H,0
+Potosí,50203,Llallagua,2007,12,1 a 4 anos-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,1 a 4 anos-H,0
+Cochabamba,31601,Tiraque (cbba),2007,12,1 a 4 anos-H,0
+Tarija,60202,Bermejo,2007,1,1 a 4 anos-M,0
+Chuquisaca,10101,Sucre,2007,1,1 a 4 anos-M,0
+La Paz,20606,Tipuani,2007,1,1 a 4 anos-M,0
+Cochabamba,31601,Tiraque (cbba),2007,1,1 a 4 anos-M,0
+Potosí,51102,"Caiza ""d""",2007,2,1 a 4 anos-M,0
+La Paz,20101,La Paz,2007,2,1 a 4 anos-M,0
+La Paz,20606,Tipuani,2007,2,1 a 4 anos-M,0
+Cochabamba,31601,Tiraque (cbba),2007,2,1 a 4 anos-M,0
+Potosí,50801,Tupiza,2007,2,1 a 4 anos-M,0
+La Paz,22001,Caranavi,2007,3,1 a 4 anos-M,0
+La Paz,20602,Guanay,2007,3,1 a 4 anos-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,1 a 4 anos-M,0
+Chuquisaca,10101,Sucre,2007,3,1 a 4 anos-M,0
+La Paz,20606,Tipuani,2007,3,1 a 4 anos-M,0
+La Paz,20801,Viacha,2007,3,1 a 4 anos-M,0
+La Paz,22001,Caranavi,2007,4,1 a 4 anos-M,0
+La Paz,20101,La Paz,2007,4,1 a 4 anos-M,0
+Potosí,50203,Llallagua,2007,4,1 a 4 anos-M,0
+La Paz,20606,Tipuani,2007,4,1 a 4 anos-M,0
+Beni,80101,Trinidad,2007,4,1 a 4 anos-M,0
+La Paz,22001,Caranavi,2007,5,1 a 4 anos-M,0
+Chuquisaca,10902,Culpina,2007,5,1 a 4 anos-M,0
+La Paz,20105,El Alto,2007,5,1 a 4 anos-M,0
+Tarija,60502,El Puente(tja),2007,5,1 a 4 anos-M,0
+La Paz,20101,La Paz,2007,5,1 a 4 anos-M,0
+La Paz,20606,Tipuani,2007,5,1 a 4 anos-M,0
+Santa Cruz,71501,Ascencion De Guarayos,2007,6,1 a 4 anos-M,0
+Tarija,60202,Bermejo,2007,6,1 a 4 anos-M,0
+La Paz,21402,Coripata,2007,6,1 a 4 anos-M,0
+La Paz,21104,Palos Blancos,2007,6,1 a 4 anos-M,0
+La Paz,20606,Tipuani,2007,6,1 a 4 anos-M,0
+Pando,90502,Villa Nueva (loma Alta),2007,6,1 a 4 anos-M,0
+Santa Cruz,71501,Ascencion De Guarayos,2007,7,1 a 4 anos-M,0
+La Paz,22001,Caranavi,2007,7,1 a 4 anos-M,0
+Beni,80401,Santa Ana,2007,7,1 a 4 anos-M,0
+La Paz,20901,Luribay,2007,8,1 a 4 anos-M,0
+La Paz,20607,Mapiri,2007,8,1 a 4 anos-M,0
+Santa Cruz,71401,Puerto Suarez,2007,8,1 a 4 anos-M,0
+La Paz,20606,Tipuani,2007,8,1 a 4 anos-M,0
+Potosí,51102,"Caiza ""d""",2007,9,1 a 4 anos-M,0
+Santa Cruz,70706,Camiri,2007,9,1 a 4 anos-M,0
+La Paz,20105,El Alto,2007,9,1 a 4 anos-M,0
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,9,1 a 4 anos-M,0
+Tarija,60101,Tarija,2007,9,1 a 4 anos-M,0
+Tarija,60202,Bermejo,2007,10,1 a 4 anos-M,0
+Cochabamba,31601,Tiraque (cbba),2007,10,1 a 4 anos-M,0
+Cochabamba,31003,Villa Tunari,2007,10,1 a 4 anos-M,0
+Potosí,50302,Chaqui,2007,11,1 a 4 anos-M,0
+Potosí,50203,Llallagua,2007,12,1 a 4 anos-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,1 a 4 anos-M,0
+Cochabamba,31601,Tiraque (cbba),2007,12,1 a 4 anos-M,0
+Tarija,60202,Bermejo,2007,1,5 a 14 anos-H,0
+Chuquisaca,10101,Sucre,2007,1,5 a 14 anos-H,0
+La Paz,20606,Tipuani,2007,1,5 a 14 anos-H,0
+Cochabamba,31601,Tiraque (cbba),2007,1,5 a 14 anos-H,0
+Potosí,51102,"Caiza ""d""",2007,2,5 a 14 anos-H,0
+La Paz,20101,La Paz,2007,2,5 a 14 anos-H,0
+La Paz,20606,Tipuani,2007,2,5 a 14 anos-H,0
+Cochabamba,31601,Tiraque (cbba),2007,2,5 a 14 anos-H,0
+Potosí,50801,Tupiza,2007,2,5 a 14 anos-H,0
+La Paz,22001,Caranavi,2007,3,5 a 14 anos-H,0
+La Paz,20602,Guanay,2007,3,5 a 14 anos-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,5 a 14 anos-H,0
+Chuquisaca,10101,Sucre,2007,3,5 a 14 anos-H,0
+La Paz,20606,Tipuani,2007,3,5 a 14 anos-H,0
+La Paz,20801,Viacha,2007,3,5 a 14 anos-H,0
+La Paz,22001,Caranavi,2007,4,5 a 14 anos-H,0
+La Paz,20101,La Paz,2007,4,5 a 14 anos-H,0
+Potosí,50203,Llallagua,2007,4,5 a 14 anos-H,0
+La Paz,20606,Tipuani,2007,4,5 a 14 anos-H,0
+Beni,80101,Trinidad,2007,4,5 a 14 anos-H,0
+La Paz,22001,Caranavi,2007,5,5 a 14 anos-H,0
+Chuquisaca,10902,Culpina,2007,5,5 a 14 anos-H,0
+La Paz,20105,El Alto,2007,5,5 a 14 anos-H,0
+Tarija,60502,El Puente(tja),2007,5,5 a 14 anos-H,0
+La Paz,20101,La Paz,2007,5,5 a 14 anos-H,0
+La Paz,20606,Tipuani,2007,5,5 a 14 anos-H,0
+Santa Cruz,71501,Ascencion De Guarayos,2007,6,5 a 14 anos-H,0
+Tarija,60202,Bermejo,2007,6,5 a 14 anos-H,0
+La Paz,21402,Coripata,2007,6,5 a 14 anos-H,0
+La Paz,21104,Palos Blancos,2007,6,5 a 14 anos-H,0
+La Paz,20606,Tipuani,2007,6,5 a 14 anos-H,0
+Pando,90502,Villa Nueva (loma Alta),2007,6,5 a 14 anos-H,0
+Santa Cruz,71501,Ascencion De Guarayos,2007,7,5 a 14 anos-H,0
+La Paz,22001,Caranavi,2007,7,5 a 14 anos-H,1
+Beni,80401,Santa Ana,2007,7,5 a 14 anos-H,0
+La Paz,20901,Luribay,2007,8,5 a 14 anos-H,0
+La Paz,20607,Mapiri,2007,8,5 a 14 anos-H,0
+Santa Cruz,71401,Puerto Suarez,2007,8,5 a 14 anos-H,0
+La Paz,20606,Tipuani,2007,8,5 a 14 anos-H,0
+Potosí,51102,"Caiza ""d""",2007,9,5 a 14 anos-H,0
+Santa Cruz,70706,Camiri,2007,9,5 a 14 anos-H,0
+La Paz,20105,El Alto,2007,9,5 a 14 anos-H,0
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,9,5 a 14 anos-H,0
+Tarija,60101,Tarija,2007,9,5 a 14 anos-H,0
+Tarija,60202,Bermejo,2007,10,5 a 14 anos-H,0
+Cochabamba,31601,Tiraque (cbba),2007,10,5 a 14 anos-H,0
+Cochabamba,31003,Villa Tunari,2007,10,5 a 14 anos-H,0
+Potosí,50302,Chaqui,2007,11,5 a 14 anos-H,0
+Potosí,50203,Llallagua,2007,12,5 a 14 anos-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,5 a 14 anos-H,0
+Cochabamba,31601,Tiraque (cbba),2007,12,5 a 14 anos-H,0
+Tarija,60202,Bermejo,2007,1,5 a 14 anos-M,0
+Chuquisaca,10101,Sucre,2007,1,5 a 14 anos-M,0
+La Paz,20606,Tipuani,2007,1,5 a 14 anos-M,0
+Cochabamba,31601,Tiraque (cbba),2007,1,5 a 14 anos-M,0
+Potosí,51102,"Caiza ""d""",2007,2,5 a 14 anos-M,0
+La Paz,20101,La Paz,2007,2,5 a 14 anos-M,0
+La Paz,20606,Tipuani,2007,2,5 a 14 anos-M,0
+Cochabamba,31601,Tiraque (cbba),2007,2,5 a 14 anos-M,0
+Potosí,50801,Tupiza,2007,2,5 a 14 anos-M,0
+La Paz,22001,Caranavi,2007,3,5 a 14 anos-M,0
+La Paz,20602,Guanay,2007,3,5 a 14 anos-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,5 a 14 anos-M,0
+Chuquisaca,10101,Sucre,2007,3,5 a 14 anos-M,0
+La Paz,20606,Tipuani,2007,3,5 a 14 anos-M,0
+La Paz,20801,Viacha,2007,3,5 a 14 anos-M,0
+La Paz,22001,Caranavi,2007,4,5 a 14 anos-M,0
+La Paz,20101,La Paz,2007,4,5 a 14 anos-M,0
+Potosí,50203,Llallagua,2007,4,5 a 14 anos-M,0
+La Paz,20606,Tipuani,2007,4,5 a 14 anos-M,0
+Beni,80101,Trinidad,2007,4,5 a 14 anos-M,0
+La Paz,22001,Caranavi,2007,5,5 a 14 anos-M,0
+Chuquisaca,10902,Culpina,2007,5,5 a 14 anos-M,0
+La Paz,20105,El Alto,2007,5,5 a 14 anos-M,0
+Tarija,60502,El Puente(tja),2007,5,5 a 14 anos-M,0
+La Paz,20101,La Paz,2007,5,5 a 14 anos-M,0
+La Paz,20606,Tipuani,2007,5,5 a 14 anos-M,0
+Santa Cruz,71501,Ascencion De Guarayos,2007,6,5 a 14 anos-M,0
+Tarija,60202,Bermejo,2007,6,5 a 14 anos-M,0
+La Paz,21402,Coripata,2007,6,5 a 14 anos-M,0
+La Paz,21104,Palos Blancos,2007,6,5 a 14 anos-M,0
+La Paz,20606,Tipuani,2007,6,5 a 14 anos-M,0
+Pando,90502,Villa Nueva (loma Alta),2007,6,5 a 14 anos-M,0
+Santa Cruz,71501,Ascencion De Guarayos,2007,7,5 a 14 anos-M,0
+La Paz,22001,Caranavi,2007,7,5 a 14 anos-M,0
+Beni,80401,Santa Ana,2007,7,5 a 14 anos-M,4
+La Paz,20901,Luribay,2007,8,5 a 14 anos-M,0
+La Paz,20607,Mapiri,2007,8,5 a 14 anos-M,0
+Santa Cruz,71401,Puerto Suarez,2007,8,5 a 14 anos-M,0
+La Paz,20606,Tipuani,2007,8,5 a 14 anos-M,0
+Potosí,51102,"Caiza ""d""",2007,9,5 a 14 anos-M,0
+Santa Cruz,70706,Camiri,2007,9,5 a 14 anos-M,0
+La Paz,20105,El Alto,2007,9,5 a 14 anos-M,0
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,9,5 a 14 anos-M,0
+Tarija,60101,Tarija,2007,9,5 a 14 anos-M,0
+Tarija,60202,Bermejo,2007,10,5 a 14 anos-M,0
+Cochabamba,31601,Tiraque (cbba),2007,10,5 a 14 anos-M,0
+Cochabamba,31003,Villa Tunari,2007,10,5 a 14 anos-M,0
+Potosí,50302,Chaqui,2007,11,5 a 14 anos-M,0
+Potosí,50203,Llallagua,2007,12,5 a 14 anos-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,5 a 14 anos-M,0
+Cochabamba,31601,Tiraque (cbba),2007,12,5 a 14 anos-M,0
+Tarija,60202,Bermejo,2007,1,15 a 59 anos-H,0
+Chuquisaca,10101,Sucre,2007,1,15 a 59 anos-H,1
+La Paz,20606,Tipuani,2007,1,15 a 59 anos-H,1
+Cochabamba,31601,Tiraque (cbba),2007,1,15 a 59 anos-H,1
+Potosí,51102,"Caiza ""d""",2007,2,15 a 59 anos-H,0
+La Paz,20101,La Paz,2007,2,15 a 59 anos-H,1
+La Paz,20606,Tipuani,2007,2,15 a 59 anos-H,1
+Cochabamba,31601,Tiraque (cbba),2007,2,15 a 59 anos-H,0
+Potosí,50801,Tupiza,2007,2,15 a 59 anos-H,0
+La Paz,22001,Caranavi,2007,3,15 a 59 anos-H,1
+La Paz,20602,Guanay,2007,3,15 a 59 anos-H,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,15 a 59 anos-H,0
+Chuquisaca,10101,Sucre,2007,3,15 a 59 anos-H,0
+La Paz,20606,Tipuani,2007,3,15 a 59 anos-H,0
+La Paz,20801,Viacha,2007,3,15 a 59 anos-H,0
+La Paz,22001,Caranavi,2007,4,15 a 59 anos-H,2
+La Paz,20101,La Paz,2007,4,15 a 59 anos-H,0
+Potosí,50203,Llallagua,2007,4,15 a 59 anos-H,0
+La Paz,20606,Tipuani,2007,4,15 a 59 anos-H,1
+Beni,80101,Trinidad,2007,4,15 a 59 anos-H,0
+La Paz,22001,Caranavi,2007,5,15 a 59 anos-H,1
+Chuquisaca,10902,Culpina,2007,5,15 a 59 anos-H,0
+La Paz,20105,El Alto,2007,5,15 a 59 anos-H,2
+Tarija,60502,El Puente(tja),2007,5,15 a 59 anos-H,0
+La Paz,20101,La Paz,2007,5,15 a 59 anos-H,1
+La Paz,20606,Tipuani,2007,5,15 a 59 anos-H,2
+Santa Cruz,71501,Ascencion De Guarayos,2007,6,15 a 59 anos-H,0
+Tarija,60202,Bermejo,2007,6,15 a 59 anos-H,0
+La Paz,21402,Coripata,2007,6,15 a 59 anos-H,0
+La Paz,21104,Palos Blancos,2007,6,15 a 59 anos-H,1
+La Paz,20606,Tipuani,2007,6,15 a 59 anos-H,0
+Pando,90502,Villa Nueva (loma Alta),2007,6,15 a 59 anos-H,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,7,15 a 59 anos-H,1
+La Paz,22001,Caranavi,2007,7,15 a 59 anos-H,0
+Beni,80401,Santa Ana,2007,7,15 a 59 anos-H,1
+La Paz,20901,Luribay,2007,8,15 a 59 anos-H,1
+La Paz,20607,Mapiri,2007,8,15 a 59 anos-H,1
+Santa Cruz,71401,Puerto Suarez,2007,8,15 a 59 anos-H,0
+La Paz,20606,Tipuani,2007,8,15 a 59 anos-H,1
+Potosí,51102,"Caiza ""d""",2007,9,15 a 59 anos-H,0
+Santa Cruz,70706,Camiri,2007,9,15 a 59 anos-H,0
+La Paz,20105,El Alto,2007,9,15 a 59 anos-H,1
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,9,15 a 59 anos-H,1
+Tarija,60101,Tarija,2007,9,15 a 59 anos-H,1
+Tarija,60202,Bermejo,2007,10,15 a 59 anos-H,1
+Cochabamba,31601,Tiraque (cbba),2007,10,15 a 59 anos-H,0
+Cochabamba,31003,Villa Tunari,2007,10,15 a 59 anos-H,0
+Potosí,50302,Chaqui,2007,11,15 a 59 anos-H,1
+Potosí,50203,Llallagua,2007,12,15 a 59 anos-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,15 a 59 anos-H,0
+Cochabamba,31601,Tiraque (cbba),2007,12,15 a 59 anos-H,0
+Tarija,60202,Bermejo,2007,1,15 a 59 anos-M,1
+Chuquisaca,10101,Sucre,2007,1,15 a 59 anos-M,0
+La Paz,20606,Tipuani,2007,1,15 a 59 anos-M,0
+Cochabamba,31601,Tiraque (cbba),2007,1,15 a 59 anos-M,0
+Potosí,51102,"Caiza ""d""",2007,2,15 a 59 anos-M,1
+La Paz,20101,La Paz,2007,2,15 a 59 anos-M,0
+La Paz,20606,Tipuani,2007,2,15 a 59 anos-M,0
+Cochabamba,31601,Tiraque (cbba),2007,2,15 a 59 anos-M,1
+Potosí,50801,Tupiza,2007,2,15 a 59 anos-M,1
+La Paz,22001,Caranavi,2007,3,15 a 59 anos-M,0
+La Paz,20602,Guanay,2007,3,15 a 59 anos-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,15 a 59 anos-M,0
+Chuquisaca,10101,Sucre,2007,3,15 a 59 anos-M,1
+La Paz,20606,Tipuani,2007,3,15 a 59 anos-M,1
+La Paz,20801,Viacha,2007,3,15 a 59 anos-M,0
+La Paz,22001,Caranavi,2007,4,15 a 59 anos-M,0
+La Paz,20101,La Paz,2007,4,15 a 59 anos-M,1
+Potosí,50203,Llallagua,2007,4,15 a 59 anos-M,1
+La Paz,20606,Tipuani,2007,4,15 a 59 anos-M,0
+Beni,80101,Trinidad,2007,4,15 a 59 anos-M,1
+La Paz,22001,Caranavi,2007,5,15 a 59 anos-M,0
+Chuquisaca,10902,Culpina,2007,5,15 a 59 anos-M,0
+La Paz,20105,El Alto,2007,5,15 a 59 anos-M,0
+Tarija,60502,El Puente(tja),2007,5,15 a 59 anos-M,0
+La Paz,20101,La Paz,2007,5,15 a 59 anos-M,1
+La Paz,20606,Tipuani,2007,5,15 a 59 anos-M,0
+Santa Cruz,71501,Ascencion De Guarayos,2007,6,15 a 59 anos-M,0
+Tarija,60202,Bermejo,2007,6,15 a 59 anos-M,1
+La Paz,21402,Coripata,2007,6,15 a 59 anos-M,0
+La Paz,21104,Palos Blancos,2007,6,15 a 59 anos-M,0
+La Paz,20606,Tipuani,2007,6,15 a 59 anos-M,0
+Pando,90502,Villa Nueva (loma Alta),2007,6,15 a 59 anos-M,0
+Santa Cruz,71501,Ascencion De Guarayos,2007,7,15 a 59 anos-M,0
+La Paz,22001,Caranavi,2007,7,15 a 59 anos-M,0
+Beni,80401,Santa Ana,2007,7,15 a 59 anos-M,5
+La Paz,20901,Luribay,2007,8,15 a 59 anos-M,0
+La Paz,20607,Mapiri,2007,8,15 a 59 anos-M,0
+Santa Cruz,71401,Puerto Suarez,2007,8,15 a 59 anos-M,1
+La Paz,20606,Tipuani,2007,8,15 a 59 anos-M,0
+Potosí,51102,"Caiza ""d""",2007,9,15 a 59 anos-M,1
+Santa Cruz,70706,Camiri,2007,9,15 a 59 anos-M,1
+La Paz,20105,El Alto,2007,9,15 a 59 anos-M,0
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,9,15 a 59 anos-M,0
+Tarija,60101,Tarija,2007,9,15 a 59 anos-M,0
+Tarija,60202,Bermejo,2007,10,15 a 59 anos-M,0
+Cochabamba,31601,Tiraque (cbba),2007,10,15 a 59 anos-M,0
+Cochabamba,31003,Villa Tunari,2007,10,15 a 59 anos-M,0
+Potosí,50302,Chaqui,2007,11,15 a 59 anos-M,0
+Potosí,50203,Llallagua,2007,12,15 a 59 anos-M,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,15 a 59 anos-M,1
+Cochabamba,31601,Tiraque (cbba),2007,12,15 a 59 anos-M,1
+Tarija,60202,Bermejo,2007,1,60 y mas-H,0
+Chuquisaca,10101,Sucre,2007,1,60 y mas-H,0
+La Paz,20606,Tipuani,2007,1,60 y mas-H,0
+Cochabamba,31601,Tiraque (cbba),2007,1,60 y mas-H,0
+Potosí,51102,"Caiza ""d""",2007,2,60 y mas-H,0
+La Paz,20101,La Paz,2007,2,60 y mas-H,0
+La Paz,20606,Tipuani,2007,2,60 y mas-H,0
+Cochabamba,31601,Tiraque (cbba),2007,2,60 y mas-H,0
+Potosí,50801,Tupiza,2007,2,60 y mas-H,0
+La Paz,22001,Caranavi,2007,3,60 y mas-H,0
+La Paz,20602,Guanay,2007,3,60 y mas-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,60 y mas-H,1
+Chuquisaca,10101,Sucre,2007,3,60 y mas-H,0
+La Paz,20606,Tipuani,2007,3,60 y mas-H,0
+La Paz,20801,Viacha,2007,3,60 y mas-H,0
+La Paz,22001,Caranavi,2007,4,60 y mas-H,0
+La Paz,20101,La Paz,2007,4,60 y mas-H,0
+Potosí,50203,Llallagua,2007,4,60 y mas-H,0
+La Paz,20606,Tipuani,2007,4,60 y mas-H,0
+Beni,80101,Trinidad,2007,4,60 y mas-H,0
+La Paz,22001,Caranavi,2007,5,60 y mas-H,0
+Chuquisaca,10902,Culpina,2007,5,60 y mas-H,1
+La Paz,20105,El Alto,2007,5,60 y mas-H,0
+Tarija,60502,El Puente(tja),2007,5,60 y mas-H,1
+La Paz,20101,La Paz,2007,5,60 y mas-H,0
+La Paz,20606,Tipuani,2007,5,60 y mas-H,0
+Santa Cruz,71501,Ascencion De Guarayos,2007,6,60 y mas-H,2
+Tarija,60202,Bermejo,2007,6,60 y mas-H,0
+La Paz,21402,Coripata,2007,6,60 y mas-H,0
+La Paz,21104,Palos Blancos,2007,6,60 y mas-H,0
+La Paz,20606,Tipuani,2007,6,60 y mas-H,1
+Pando,90502,Villa Nueva (loma Alta),2007,6,60 y mas-H,0
+Santa Cruz,71501,Ascencion De Guarayos,2007,7,60 y mas-H,0
+La Paz,22001,Caranavi,2007,7,60 y mas-H,0
+Beni,80401,Santa Ana,2007,7,60 y mas-H,0
+La Paz,20901,Luribay,2007,8,60 y mas-H,0
+La Paz,20607,Mapiri,2007,8,60 y mas-H,1
+Santa Cruz,71401,Puerto Suarez,2007,8,60 y mas-H,0
+La Paz,20606,Tipuani,2007,8,60 y mas-H,0
+Potosí,51102,"Caiza ""d""",2007,9,60 y mas-H,0
+Santa Cruz,70706,Camiri,2007,9,60 y mas-H,0
+La Paz,20105,El Alto,2007,9,60 y mas-H,0
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,9,60 y mas-H,0
+Tarija,60101,Tarija,2007,9,60 y mas-H,0
+Tarija,60202,Bermejo,2007,10,60 y mas-H,0
+Cochabamba,31601,Tiraque (cbba),2007,10,60 y mas-H,1
+Cochabamba,31003,Villa Tunari,2007,10,60 y mas-H,1
+Potosí,50302,Chaqui,2007,11,60 y mas-H,0
+Potosí,50203,Llallagua,2007,12,60 y mas-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,60 y mas-H,0
+Cochabamba,31601,Tiraque (cbba),2007,12,60 y mas-H,0
+Tarija,60202,Bermejo,2007,1,60 y mas-M,0
+Chuquisaca,10101,Sucre,2007,1,60 y mas-M,0
+La Paz,20606,Tipuani,2007,1,60 y mas-M,0
+Cochabamba,31601,Tiraque (cbba),2007,1,60 y mas-M,0
+Potosí,51102,"Caiza ""d""",2007,2,60 y mas-M,0
+La Paz,20101,La Paz,2007,2,60 y mas-M,0
+La Paz,20606,Tipuani,2007,2,60 y mas-M,0
+Cochabamba,31601,Tiraque (cbba),2007,2,60 y mas-M,0
+Potosí,50801,Tupiza,2007,2,60 y mas-M,0
+La Paz,22001,Caranavi,2007,3,60 y mas-M,0
+La Paz,20602,Guanay,2007,3,60 y mas-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,60 y mas-M,0
+Chuquisaca,10101,Sucre,2007,3,60 y mas-M,0
+La Paz,20606,Tipuani,2007,3,60 y mas-M,0
+La Paz,20801,Viacha,2007,3,60 y mas-M,1
+La Paz,22001,Caranavi,2007,4,60 y mas-M,0
+La Paz,20101,La Paz,2007,4,60 y mas-M,0
+Potosí,50203,Llallagua,2007,4,60 y mas-M,0
+La Paz,20606,Tipuani,2007,4,60 y mas-M,0
+Beni,80101,Trinidad,2007,4,60 y mas-M,0
+La Paz,22001,Caranavi,2007,5,60 y mas-M,0
+Chuquisaca,10902,Culpina,2007,5,60 y mas-M,0
+La Paz,20105,El Alto,2007,5,60 y mas-M,0
+Tarija,60502,El Puente(tja),2007,5,60 y mas-M,0
+La Paz,20101,La Paz,2007,5,60 y mas-M,0
+La Paz,20606,Tipuani,2007,5,60 y mas-M,0
+Santa Cruz,71501,Ascencion De Guarayos,2007,6,60 y mas-M,0
+Tarija,60202,Bermejo,2007,6,60 y mas-M,0
+La Paz,21402,Coripata,2007,6,60 y mas-M,1
+La Paz,21104,Palos Blancos,2007,6,60 y mas-M,0
+La Paz,20606,Tipuani,2007,6,60 y mas-M,0
+Pando,90502,Villa Nueva (loma Alta),2007,6,60 y mas-M,0
+Santa Cruz,71501,Ascencion De Guarayos,2007,7,60 y mas-M,0
+La Paz,22001,Caranavi,2007,7,60 y mas-M,0
+Beni,80401,Santa Ana,2007,7,60 y mas-M,0
+La Paz,20901,Luribay,2007,8,60 y mas-M,0
+La Paz,20607,Mapiri,2007,8,60 y mas-M,0
+Santa Cruz,71401,Puerto Suarez,2007,8,60 y mas-M,0
+La Paz,20606,Tipuani,2007,8,60 y mas-M,0
+Potosí,51102,"Caiza ""d""",2007,9,60 y mas-M,0
+Santa Cruz,70706,Camiri,2007,9,60 y mas-M,0
+La Paz,20105,El Alto,2007,9,60 y mas-M,0
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,9,60 y mas-M,0
+Tarija,60101,Tarija,2007,9,60 y mas-M,0
+Tarija,60202,Bermejo,2007,10,60 y mas-M,0
+Cochabamba,31601,Tiraque (cbba),2007,10,60 y mas-M,0
+Cochabamba,31003,Villa Tunari,2007,10,60 y mas-M,0
+Potosí,50302,Chaqui,2007,11,60 y mas-M,0
+Potosí,50203,Llallagua,2007,12,60 y mas-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,60 y mas-M,0
+Cochabamba,31601,Tiraque (cbba),2007,12,60 y mas-M,0
+Tarija,60202,Bermejo,2007,1,TOTAL-H,0
+Chuquisaca,10101,Sucre,2007,1,TOTAL-H,1
+La Paz,20606,Tipuani,2007,1,TOTAL-H,1
+Cochabamba,31601,Tiraque (cbba),2007,1,TOTAL-H,1
+Potosí,51102,"Caiza ""d""",2007,2,TOTAL-H,0
+La Paz,20101,La Paz,2007,2,TOTAL-H,1
+La Paz,20606,Tipuani,2007,2,TOTAL-H,1
+Cochabamba,31601,Tiraque (cbba),2007,2,TOTAL-H,0
+Potosí,50801,Tupiza,2007,2,TOTAL-H,0
+La Paz,22001,Caranavi,2007,3,TOTAL-H,1
+La Paz,20602,Guanay,2007,3,TOTAL-H,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,TOTAL-H,1
+Chuquisaca,10101,Sucre,2007,3,TOTAL-H,0
+La Paz,20606,Tipuani,2007,3,TOTAL-H,0
+La Paz,20801,Viacha,2007,3,TOTAL-H,0
+La Paz,22001,Caranavi,2007,4,TOTAL-H,2
+La Paz,20101,La Paz,2007,4,TOTAL-H,0
+Potosí,50203,Llallagua,2007,4,TOTAL-H,0
+La Paz,20606,Tipuani,2007,4,TOTAL-H,1
+Beni,80101,Trinidad,2007,4,TOTAL-H,0
+La Paz,22001,Caranavi,2007,5,TOTAL-H,1
+Chuquisaca,10902,Culpina,2007,5,TOTAL-H,1
+La Paz,20105,El Alto,2007,5,TOTAL-H,2
+Tarija,60502,El Puente(tja),2007,5,TOTAL-H,1
+La Paz,20101,La Paz,2007,5,TOTAL-H,1
+La Paz,20606,Tipuani,2007,5,TOTAL-H,2
+Santa Cruz,71501,Ascencion De Guarayos,2007,6,TOTAL-H,2
+Tarija,60202,Bermejo,2007,6,TOTAL-H,0
+La Paz,21402,Coripata,2007,6,TOTAL-H,0
+La Paz,21104,Palos Blancos,2007,6,TOTAL-H,1
+La Paz,20606,Tipuani,2007,6,TOTAL-H,1
+Pando,90502,Villa Nueva (loma Alta),2007,6,TOTAL-H,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,7,TOTAL-H,1
+La Paz,22001,Caranavi,2007,7,TOTAL-H,1
+Beni,80401,Santa Ana,2007,7,TOTAL-H,1
+La Paz,20901,Luribay,2007,8,TOTAL-H,1
+La Paz,20607,Mapiri,2007,8,TOTAL-H,2
+Santa Cruz,71401,Puerto Suarez,2007,8,TOTAL-H,0
+La Paz,20606,Tipuani,2007,8,TOTAL-H,1
+Potosí,51102,"Caiza ""d""",2007,9,TOTAL-H,0
+Santa Cruz,70706,Camiri,2007,9,TOTAL-H,0
+La Paz,20105,El Alto,2007,9,TOTAL-H,1
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,9,TOTAL-H,1
+Tarija,60101,Tarija,2007,9,TOTAL-H,1
+Tarija,60202,Bermejo,2007,10,TOTAL-H,1
+Cochabamba,31601,Tiraque (cbba),2007,10,TOTAL-H,1
+Cochabamba,31003,Villa Tunari,2007,10,TOTAL-H,1
+Potosí,50302,Chaqui,2007,11,TOTAL-H,1
+Potosí,50203,Llallagua,2007,12,TOTAL-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,TOTAL-H,0
+Cochabamba,31601,Tiraque (cbba),2007,12,TOTAL-H,0
+Tarija,60202,Bermejo,2007,1,TOTAL-M,1
+Chuquisaca,10101,Sucre,2007,1,TOTAL-M,0
+La Paz,20606,Tipuani,2007,1,TOTAL-M,0
+Cochabamba,31601,Tiraque (cbba),2007,1,TOTAL-M,0
+Potosí,51102,"Caiza ""d""",2007,2,TOTAL-M,1
+La Paz,20101,La Paz,2007,2,TOTAL-M,0
+La Paz,20606,Tipuani,2007,2,TOTAL-M,0
+Cochabamba,31601,Tiraque (cbba),2007,2,TOTAL-M,1
+Potosí,50801,Tupiza,2007,2,TOTAL-M,1
+La Paz,22001,Caranavi,2007,3,TOTAL-M,0
+La Paz,20602,Guanay,2007,3,TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,TOTAL-M,0
+Chuquisaca,10101,Sucre,2007,3,TOTAL-M,1
+La Paz,20606,Tipuani,2007,3,TOTAL-M,1
+La Paz,20801,Viacha,2007,3,TOTAL-M,1
+La Paz,22001,Caranavi,2007,4,TOTAL-M,0
+La Paz,20101,La Paz,2007,4,TOTAL-M,1
+Potosí,50203,Llallagua,2007,4,TOTAL-M,1
+La Paz,20606,Tipuani,2007,4,TOTAL-M,0
+Beni,80101,Trinidad,2007,4,TOTAL-M,1
+La Paz,22001,Caranavi,2007,5,TOTAL-M,0
+Chuquisaca,10902,Culpina,2007,5,TOTAL-M,0
+La Paz,20105,El Alto,2007,5,TOTAL-M,0
+Tarija,60502,El Puente(tja),2007,5,TOTAL-M,0
+La Paz,20101,La Paz,2007,5,TOTAL-M,1
+La Paz,20606,Tipuani,2007,5,TOTAL-M,0
+Santa Cruz,71501,Ascencion De Guarayos,2007,6,TOTAL-M,0
+Tarija,60202,Bermejo,2007,6,TOTAL-M,1
+La Paz,21402,Coripata,2007,6,TOTAL-M,1
+La Paz,21104,Palos Blancos,2007,6,TOTAL-M,0
+La Paz,20606,Tipuani,2007,6,TOTAL-M,0
+Pando,90502,Villa Nueva (loma Alta),2007,6,TOTAL-M,0
+Santa Cruz,71501,Ascencion De Guarayos,2007,7,TOTAL-M,0
+La Paz,22001,Caranavi,2007,7,TOTAL-M,0
+Beni,80401,Santa Ana,2007,7,TOTAL-M,9
+La Paz,20901,Luribay,2007,8,TOTAL-M,0
+La Paz,20607,Mapiri,2007,8,TOTAL-M,0
+Santa Cruz,71401,Puerto Suarez,2007,8,TOTAL-M,1
+La Paz,20606,Tipuani,2007,8,TOTAL-M,0
+Potosí,51102,"Caiza ""d""",2007,9,TOTAL-M,1
+Santa Cruz,70706,Camiri,2007,9,TOTAL-M,1
+La Paz,20105,El Alto,2007,9,TOTAL-M,0
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,9,TOTAL-M,0
+Tarija,60101,Tarija,2007,9,TOTAL-M,0
+Tarija,60202,Bermejo,2007,10,TOTAL-M,0
+Cochabamba,31601,Tiraque (cbba),2007,10,TOTAL-M,0
+Cochabamba,31003,Villa Tunari,2007,10,TOTAL-M,0
+Potosí,50302,Chaqui,2007,11,TOTAL-M,0
+Potosí,50203,Llallagua,2007,12,TOTAL-M,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,TOTAL-M,1
+Cochabamba,31601,Tiraque (cbba),2007,12,TOTAL-M,1
+Tarija,60202,Bermejo,2007,1,TOTAL,1
+Chuquisaca,10101,Sucre,2007,1,TOTAL,1
+La Paz,20606,Tipuani,2007,1,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2007,1,TOTAL,1
+Potosí,51102,"Caiza ""d""",2007,2,TOTAL,1
+La Paz,20101,La Paz,2007,2,TOTAL,1
+La Paz,20606,Tipuani,2007,2,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2007,2,TOTAL,1
+Potosí,50801,Tupiza,2007,2,TOTAL,1
+La Paz,22001,Caranavi,2007,3,TOTAL,1
+La Paz,20602,Guanay,2007,3,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,TOTAL,1
+Chuquisaca,10101,Sucre,2007,3,TOTAL,1
+La Paz,20606,Tipuani,2007,3,TOTAL,1
+La Paz,20801,Viacha,2007,3,TOTAL,1
+La Paz,22001,Caranavi,2007,4,TOTAL,2
+La Paz,20101,La Paz,2007,4,TOTAL,1
+Potosí,50203,Llallagua,2007,4,TOTAL,1
+La Paz,20606,Tipuani,2007,4,TOTAL,1
+Beni,80101,Trinidad,2007,4,TOTAL,1
+La Paz,22001,Caranavi,2007,5,TOTAL,1
+Chuquisaca,10902,Culpina,2007,5,TOTAL,1
+La Paz,20105,El Alto,2007,5,TOTAL,2
+Tarija,60502,El Puente(tja),2007,5,TOTAL,1
+La Paz,20101,La Paz,2007,5,TOTAL,2
+La Paz,20606,Tipuani,2007,5,TOTAL,2
+Santa Cruz,71501,Ascencion De Guarayos,2007,6,TOTAL,2
+Tarija,60202,Bermejo,2007,6,TOTAL,1
+La Paz,21402,Coripata,2007,6,TOTAL,1
+La Paz,21104,Palos Blancos,2007,6,TOTAL,1
+La Paz,20606,Tipuani,2007,6,TOTAL,1
+Pando,90502,Villa Nueva (loma Alta),2007,6,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,7,TOTAL,1
+La Paz,22001,Caranavi,2007,7,TOTAL,1
+Beni,80401,Santa Ana,2007,7,TOTAL,10
+La Paz,20901,Luribay,2007,8,TOTAL,1
+La Paz,20607,Mapiri,2007,8,TOTAL,2
+Santa Cruz,71401,Puerto Suarez,2007,8,TOTAL,1
+La Paz,20606,Tipuani,2007,8,TOTAL,1
+Potosí,51102,"Caiza ""d""",2007,9,TOTAL,1
+Santa Cruz,70706,Camiri,2007,9,TOTAL,1
+La Paz,20105,El Alto,2007,9,TOTAL,1
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,9,TOTAL,1
+Tarija,60101,Tarija,2007,9,TOTAL,1
+Tarija,60202,Bermejo,2007,10,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2007,10,TOTAL,1
+Cochabamba,31003,Villa Tunari,2007,10,TOTAL,1
+Potosí,50302,Chaqui,2007,11,TOTAL,1
+Potosí,50203,Llallagua,2007,12,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2007,12,TOTAL,1

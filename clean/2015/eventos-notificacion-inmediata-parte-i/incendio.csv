@@ -1,0 +1,41 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20607,Mapiri,2015,1,a. Nro. Eventos,1
+Santa Cruz,70301,San Ignacio De Velasco,2015,2,a. Nro. Eventos,1
+Pando,90402,Ingavi (humaita),2015,4,a. Nro. Eventos,1
+Santa Cruz,70301,San Ignacio De Velasco,2015,8,a. Nro. Eventos,2
+Potosí,51001,San Pablo De Lipez,2015,8,a. Nro. Eventos,1
+Tarija,60401,Uriondo (a. Concepcion),2015,8,a. Nro. Eventos,2
+Beni,80301,Reyes,2015,9,a. Nro. Eventos,1
+Santa Cruz,70301,San Ignacio De Velasco,2015,9,a. Nro. Eventos,1
+Beni,80301,Reyes,2015,10,a. Nro. Eventos,2
+Cochabamba,31205,Puerto Villarroel,2015,11,a. Nro. Eventos,1
+La Paz,20607,Mapiri,2015,1,b. Nro. Personas afectadas,1
+Santa Cruz,70301,San Ignacio De Velasco,2015,2,b. Nro. Personas afectadas,0
+Pando,90402,Ingavi (humaita),2015,4,b. Nro. Personas afectadas,6
+Santa Cruz,70301,San Ignacio De Velasco,2015,8,b. Nro. Personas afectadas,0
+Potosí,51001,San Pablo De Lipez,2015,8,b. Nro. Personas afectadas,2
+Tarija,60401,Uriondo (a. Concepcion),2015,8,b. Nro. Personas afectadas,0
+Beni,80301,Reyes,2015,9,b. Nro. Personas afectadas,7
+Santa Cruz,70301,San Ignacio De Velasco,2015,9,b. Nro. Personas afectadas,0
+Beni,80301,Reyes,2015,10,b. Nro. Personas afectadas,2
+Cochabamba,31205,Puerto Villarroel,2015,11,b. Nro. Personas afectadas,7
+La Paz,20607,Mapiri,2015,1,c. Nro. Personas fallecidas,0
+Santa Cruz,70301,San Ignacio De Velasco,2015,2,c. Nro. Personas fallecidas,0
+Pando,90402,Ingavi (humaita),2015,4,c. Nro. Personas fallecidas,0
+Santa Cruz,70301,San Ignacio De Velasco,2015,8,c. Nro. Personas fallecidas,0
+Potosí,51001,San Pablo De Lipez,2015,8,c. Nro. Personas fallecidas,1
+Tarija,60401,Uriondo (a. Concepcion),2015,8,c. Nro. Personas fallecidas,0
+Beni,80301,Reyes,2015,9,c. Nro. Personas fallecidas,0
+Santa Cruz,70301,San Ignacio De Velasco,2015,9,c. Nro. Personas fallecidas,0
+Beni,80301,Reyes,2015,10,c. Nro. Personas fallecidas,0
+Cochabamba,31205,Puerto Villarroel,2015,11,c. Nro. Personas fallecidas,2
+La Paz,20607,Mapiri,2015,1,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2015,2,TOTAL,1
+Pando,90402,Ingavi (humaita),2015,4,TOTAL,7
+Santa Cruz,70301,San Ignacio De Velasco,2015,8,TOTAL,2
+Potosí,51001,San Pablo De Lipez,2015,8,TOTAL,4
+Tarija,60401,Uriondo (a. Concepcion),2015,8,TOTAL,2
+Beni,80301,Reyes,2015,9,TOTAL,8
+Santa Cruz,70301,San Ignacio De Velasco,2015,9,TOTAL,1
+Beni,80301,Reyes,2015,10,TOTAL,4
+Cochabamba,31205,Puerto Villarroel,2015,11,TOTAL,10

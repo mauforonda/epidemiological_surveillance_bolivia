@@ -1,0 +1,716 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20101,La Paz,2006,1,< de 1 ano-H,0.0
+Oruro,40101,Oruro,2006,1,< de 1 ano-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,1,< de 1 ano-H,0.0
+Beni,80101,Trinidad,2006,1,< de 1 ano-H,0.0
+Cochabamba,30101,Cochabamba,2006,2,< de 1 ano-H,0.0
+Oruro,40101,Oruro,2006,2,< de 1 ano-H,0.0
+Santa Cruz,70301,San Ignacio De Velasco,2006,2,< de 1 ano-H,1.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,2,< de 1 ano-H,0.0
+Cochabamba,30101,Cochabamba,2006,3,< de 1 ano-H,0.0
+Santa Cruz,70105,El Torno,2006,3,< de 1 ano-H,0.0
+La Paz,20101,La Paz,2006,3,< de 1 ano-H,0.0
+Oruro,40101,Oruro,2006,3,< de 1 ano-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,< de 1 ano-H,0.0
+Tarija,60101,Tarija,2006,3,< de 1 ano-H,0.0
+Cochabamba,30101,Cochabamba,2006,4,< de 1 ano-H,0.0
+La Paz,20101,La Paz,2006,4,< de 1 ano-H,0.0
+Oruro,40101,Oruro,2006,4,< de 1 ano-H,0.0
+Cochabamba,30101,Cochabamba,2006,5,< de 1 ano-H,0.0
+Santa Cruz,70705,Gutierrez,2006,5,< de 1 ano-H,0.0
+Oruro,40101,Oruro,2006,5,< de 1 ano-H,0.0
+Santa Cruz,70301,San Ignacio De Velasco,2006,5,< de 1 ano-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,< de 1 ano-H,0.0
+Chuquisaca,10101,Sucre,2006,5,< de 1 ano-H,0.0
+Cochabamba,30101,Cochabamba,2006,6,< de 1 ano-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,< de 1 ano-H,0.0
+Chuquisaca,10101,Sucre,2006,6,< de 1 ano-H,0.0
+Tarija,60101,Tarija,2006,6,< de 1 ano-H,0.0
+Beni,80101,Trinidad,2006,6,< de 1 ano-H,0.0
+La Paz,20101,La Paz,2006,7,< de 1 ano-H,0.0
+Oruro,40101,Oruro,2006,7,< de 1 ano-H,0.0
+Chuquisaca,10202,Tarvita,2006,7,< de 1 ano-H,0.0
+Cochabamba,30101,Cochabamba,2006,8,< de 1 ano-H,0.0
+Santa Cruz,71001,Montero,2006,8,< de 1 ano-H,0.0
+Oruro,40101,Oruro,2006,8,< de 1 ano-H,0.0
+Beni,80101,Trinidad,2006,8,< de 1 ano-H,0.0
+Cochabamba,30101,Cochabamba,2006,9,< de 1 ano-H,0.0
+Oruro,40101,Oruro,2006,9,< de 1 ano-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,9,< de 1 ano-H,0.0
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,10,< de 1 ano-H,0.0
+Cochabamba,30101,Cochabamba,2006,10,< de 1 ano-H,0.0
+Oruro,40101,Oruro,2006,10,< de 1 ano-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,10,< de 1 ano-H,0.0
+Chuquisaca,10202,Tarvita,2006,10,< de 1 ano-H,0.0
+Beni,80101,Trinidad,2006,10,< de 1 ano-H,0.0
+Tarija,60202,Bermejo,2006,11,< de 1 ano-H,0.0
+Cochabamba,31204,Chimore,2006,11,< de 1 ano-H,0.0
+Cochabamba,30101,Cochabamba,2006,11,< de 1 ano-H,0.0
+Oruro,40101,Oruro,2006,11,< de 1 ano-H,0.0
+Santa Cruz,71402,Puerto Quijarro,2006,11,< de 1 ano-H,0.0
+Cochabamba,31401,Punata,2006,11,< de 1 ano-H,0.0
+Chuquisaca,10101,Sucre,2006,11,< de 1 ano-H,0.0
+Cochabamba,30903,Tiquipaya,2006,11,< de 1 ano-H,0.0
+Tarija,60301,Yacuiba,2006,11,< de 1 ano-H,0.0
+Cochabamba,30101,Cochabamba,2006,12,< de 1 ano-H,0.0
+Beni,80102,San Javier(bni),2006,12,< de 1 ano-H,0.0
+La Paz,20101,La Paz,2006,1,< de 1 ano-M,0.0
+Oruro,40101,Oruro,2006,1,< de 1 ano-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,1,< de 1 ano-M,0.0
+Beni,80101,Trinidad,2006,1,< de 1 ano-M,0.0
+Cochabamba,30101,Cochabamba,2006,2,< de 1 ano-M,0.0
+Oruro,40101,Oruro,2006,2,< de 1 ano-M,0.0
+Santa Cruz,70301,San Ignacio De Velasco,2006,2,< de 1 ano-M,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,2,< de 1 ano-M,0.0
+Cochabamba,30101,Cochabamba,2006,3,< de 1 ano-M,0.0
+Santa Cruz,70105,El Torno,2006,3,< de 1 ano-M,0.0
+La Paz,20101,La Paz,2006,3,< de 1 ano-M,0.0
+Oruro,40101,Oruro,2006,3,< de 1 ano-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,< de 1 ano-M,0.0
+Tarija,60101,Tarija,2006,3,< de 1 ano-M,0.0
+Cochabamba,30101,Cochabamba,2006,4,< de 1 ano-M,0.0
+La Paz,20101,La Paz,2006,4,< de 1 ano-M,0.0
+Oruro,40101,Oruro,2006,4,< de 1 ano-M,0.0
+Cochabamba,30101,Cochabamba,2006,5,< de 1 ano-M,0.0
+Santa Cruz,70705,Gutierrez,2006,5,< de 1 ano-M,0.0
+Oruro,40101,Oruro,2006,5,< de 1 ano-M,0.0
+Santa Cruz,70301,San Ignacio De Velasco,2006,5,< de 1 ano-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,< de 1 ano-M,0.0
+Chuquisaca,10101,Sucre,2006,5,< de 1 ano-M,0.0
+Cochabamba,30101,Cochabamba,2006,6,< de 1 ano-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,< de 1 ano-M,0.0
+Chuquisaca,10101,Sucre,2006,6,< de 1 ano-M,0.0
+Tarija,60101,Tarija,2006,6,< de 1 ano-M,0.0
+Beni,80101,Trinidad,2006,6,< de 1 ano-M,0.0
+La Paz,20101,La Paz,2006,7,< de 1 ano-M,0.0
+Oruro,40101,Oruro,2006,7,< de 1 ano-M,0.0
+Chuquisaca,10202,Tarvita,2006,7,< de 1 ano-M,0.0
+Cochabamba,30101,Cochabamba,2006,8,< de 1 ano-M,0.0
+Santa Cruz,71001,Montero,2006,8,< de 1 ano-M,0.0
+Oruro,40101,Oruro,2006,8,< de 1 ano-M,0.0
+Beni,80101,Trinidad,2006,8,< de 1 ano-M,0.0
+Cochabamba,30101,Cochabamba,2006,9,< de 1 ano-M,0.0
+Oruro,40101,Oruro,2006,9,< de 1 ano-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,9,< de 1 ano-M,0.0
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,10,< de 1 ano-M,0.0
+Cochabamba,30101,Cochabamba,2006,10,< de 1 ano-M,0.0
+Oruro,40101,Oruro,2006,10,< de 1 ano-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,10,< de 1 ano-M,0.0
+Chuquisaca,10202,Tarvita,2006,10,< de 1 ano-M,0.0
+Beni,80101,Trinidad,2006,10,< de 1 ano-M,0.0
+Tarija,60202,Bermejo,2006,11,< de 1 ano-M,0.0
+Cochabamba,31204,Chimore,2006,11,< de 1 ano-M,0.0
+Cochabamba,30101,Cochabamba,2006,11,< de 1 ano-M,0.0
+Oruro,40101,Oruro,2006,11,< de 1 ano-M,0.0
+Santa Cruz,71402,Puerto Quijarro,2006,11,< de 1 ano-M,0.0
+Cochabamba,31401,Punata,2006,11,< de 1 ano-M,0.0
+Chuquisaca,10101,Sucre,2006,11,< de 1 ano-M,0.0
+Cochabamba,30903,Tiquipaya,2006,11,< de 1 ano-M,0.0
+Tarija,60301,Yacuiba,2006,11,< de 1 ano-M,0.0
+Cochabamba,30101,Cochabamba,2006,12,< de 1 ano-M,0.0
+Beni,80102,San Javier(bni),2006,12,< de 1 ano-M,0.0
+La Paz,20101,La Paz,2006,1,1 a 4 anos-H,0.0
+Oruro,40101,Oruro,2006,1,1 a 4 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,1,1 a 4 anos-H,0.0
+Beni,80101,Trinidad,2006,1,1 a 4 anos-H,0.0
+Cochabamba,30101,Cochabamba,2006,2,1 a 4 anos-H,0.0
+Oruro,40101,Oruro,2006,2,1 a 4 anos-H,0.0
+Santa Cruz,70301,San Ignacio De Velasco,2006,2,1 a 4 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,2,1 a 4 anos-H,0.0
+Cochabamba,30101,Cochabamba,2006,3,1 a 4 anos-H,0.0
+Santa Cruz,70105,El Torno,2006,3,1 a 4 anos-H,0.0
+La Paz,20101,La Paz,2006,3,1 a 4 anos-H,0.0
+Oruro,40101,Oruro,2006,3,1 a 4 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,1 a 4 anos-H,0.0
+Tarija,60101,Tarija,2006,3,1 a 4 anos-H,0.0
+Cochabamba,30101,Cochabamba,2006,4,1 a 4 anos-H,0.0
+La Paz,20101,La Paz,2006,4,1 a 4 anos-H,0.0
+Oruro,40101,Oruro,2006,4,1 a 4 anos-H,0.0
+Cochabamba,30101,Cochabamba,2006,5,1 a 4 anos-H,0.0
+Santa Cruz,70705,Gutierrez,2006,5,1 a 4 anos-H,1.0
+Oruro,40101,Oruro,2006,5,1 a 4 anos-H,0.0
+Santa Cruz,70301,San Ignacio De Velasco,2006,5,1 a 4 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,1 a 4 anos-H,0.0
+Chuquisaca,10101,Sucre,2006,5,1 a 4 anos-H,0.0
+Cochabamba,30101,Cochabamba,2006,6,1 a 4 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,1 a 4 anos-H,0.0
+Chuquisaca,10101,Sucre,2006,6,1 a 4 anos-H,0.0
+Tarija,60101,Tarija,2006,6,1 a 4 anos-H,0.0
+Beni,80101,Trinidad,2006,6,1 a 4 anos-H,0.0
+La Paz,20101,La Paz,2006,7,1 a 4 anos-H,0.0
+Oruro,40101,Oruro,2006,7,1 a 4 anos-H,0.0
+Chuquisaca,10202,Tarvita,2006,7,1 a 4 anos-H,0.0
+Cochabamba,30101,Cochabamba,2006,8,1 a 4 anos-H,0.0
+Santa Cruz,71001,Montero,2006,8,1 a 4 anos-H,0.0
+Oruro,40101,Oruro,2006,8,1 a 4 anos-H,0.0
+Beni,80101,Trinidad,2006,8,1 a 4 anos-H,0.0
+Cochabamba,30101,Cochabamba,2006,9,1 a 4 anos-H,0.0
+Oruro,40101,Oruro,2006,9,1 a 4 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,9,1 a 4 anos-H,0.0
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,10,1 a 4 anos-H,0.0
+Cochabamba,30101,Cochabamba,2006,10,1 a 4 anos-H,0.0
+Oruro,40101,Oruro,2006,10,1 a 4 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,10,1 a 4 anos-H,0.0
+Chuquisaca,10202,Tarvita,2006,10,1 a 4 anos-H,0.0
+Beni,80101,Trinidad,2006,10,1 a 4 anos-H,0.0
+Tarija,60202,Bermejo,2006,11,1 a 4 anos-H,0.0
+Cochabamba,31204,Chimore,2006,11,1 a 4 anos-H,0.0
+Cochabamba,30101,Cochabamba,2006,11,1 a 4 anos-H,0.0
+Oruro,40101,Oruro,2006,11,1 a 4 anos-H,0.0
+Santa Cruz,71402,Puerto Quijarro,2006,11,1 a 4 anos-H,0.0
+Cochabamba,31401,Punata,2006,11,1 a 4 anos-H,0.0
+Chuquisaca,10101,Sucre,2006,11,1 a 4 anos-H,0.0
+Cochabamba,30903,Tiquipaya,2006,11,1 a 4 anos-H,0.0
+Tarija,60301,Yacuiba,2006,11,1 a 4 anos-H,0.0
+Cochabamba,30101,Cochabamba,2006,12,1 a 4 anos-H,1.0
+Beni,80102,San Javier(bni),2006,12,1 a 4 anos-H,0.0
+La Paz,20101,La Paz,2006,1,1 a 4 anos-M,0.0
+Oruro,40101,Oruro,2006,1,1 a 4 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,1,1 a 4 anos-M,0.0
+Beni,80101,Trinidad,2006,1,1 a 4 anos-M,0.0
+Cochabamba,30101,Cochabamba,2006,2,1 a 4 anos-M,0.0
+Oruro,40101,Oruro,2006,2,1 a 4 anos-M,0.0
+Santa Cruz,70301,San Ignacio De Velasco,2006,2,1 a 4 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,2,1 a 4 anos-M,0.0
+Cochabamba,30101,Cochabamba,2006,3,1 a 4 anos-M,0.0
+Santa Cruz,70105,El Torno,2006,3,1 a 4 anos-M,0.0
+La Paz,20101,La Paz,2006,3,1 a 4 anos-M,0.0
+Oruro,40101,Oruro,2006,3,1 a 4 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,1 a 4 anos-M,0.0
+Tarija,60101,Tarija,2006,3,1 a 4 anos-M,0.0
+Cochabamba,30101,Cochabamba,2006,4,1 a 4 anos-M,0.0
+La Paz,20101,La Paz,2006,4,1 a 4 anos-M,0.0
+Oruro,40101,Oruro,2006,4,1 a 4 anos-M,0.0
+Cochabamba,30101,Cochabamba,2006,5,1 a 4 anos-M,0.0
+Santa Cruz,70705,Gutierrez,2006,5,1 a 4 anos-M,
+Oruro,40101,Oruro,2006,5,1 a 4 anos-M,0.0
+Santa Cruz,70301,San Ignacio De Velasco,2006,5,1 a 4 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,1 a 4 anos-M,0.0
+Chuquisaca,10101,Sucre,2006,5,1 a 4 anos-M,0.0
+Cochabamba,30101,Cochabamba,2006,6,1 a 4 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,1 a 4 anos-M,0.0
+Chuquisaca,10101,Sucre,2006,6,1 a 4 anos-M,0.0
+Tarija,60101,Tarija,2006,6,1 a 4 anos-M,0.0
+Beni,80101,Trinidad,2006,6,1 a 4 anos-M,0.0
+La Paz,20101,La Paz,2006,7,1 a 4 anos-M,0.0
+Oruro,40101,Oruro,2006,7,1 a 4 anos-M,0.0
+Chuquisaca,10202,Tarvita,2006,7,1 a 4 anos-M,0.0
+Cochabamba,30101,Cochabamba,2006,8,1 a 4 anos-M,0.0
+Santa Cruz,71001,Montero,2006,8,1 a 4 anos-M,0.0
+Oruro,40101,Oruro,2006,8,1 a 4 anos-M,0.0
+Beni,80101,Trinidad,2006,8,1 a 4 anos-M,0.0
+Cochabamba,30101,Cochabamba,2006,9,1 a 4 anos-M,0.0
+Oruro,40101,Oruro,2006,9,1 a 4 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,9,1 a 4 anos-M,0.0
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,10,1 a 4 anos-M,0.0
+Cochabamba,30101,Cochabamba,2006,10,1 a 4 anos-M,0.0
+Oruro,40101,Oruro,2006,10,1 a 4 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,10,1 a 4 anos-M,0.0
+Chuquisaca,10202,Tarvita,2006,10,1 a 4 anos-M,0.0
+Beni,80101,Trinidad,2006,10,1 a 4 anos-M,0.0
+Tarija,60202,Bermejo,2006,11,1 a 4 anos-M,0.0
+Cochabamba,31204,Chimore,2006,11,1 a 4 anos-M,0.0
+Cochabamba,30101,Cochabamba,2006,11,1 a 4 anos-M,0.0
+Oruro,40101,Oruro,2006,11,1 a 4 anos-M,0.0
+Santa Cruz,71402,Puerto Quijarro,2006,11,1 a 4 anos-M,0.0
+Cochabamba,31401,Punata,2006,11,1 a 4 anos-M,0.0
+Chuquisaca,10101,Sucre,2006,11,1 a 4 anos-M,0.0
+Cochabamba,30903,Tiquipaya,2006,11,1 a 4 anos-M,0.0
+Tarija,60301,Yacuiba,2006,11,1 a 4 anos-M,0.0
+Cochabamba,30101,Cochabamba,2006,12,1 a 4 anos-M,0.0
+Beni,80102,San Javier(bni),2006,12,1 a 4 anos-M,0.0
+La Paz,20101,La Paz,2006,1,5 a 14 anos-H,0.0
+Oruro,40101,Oruro,2006,1,5 a 14 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,1,5 a 14 anos-H,0.0
+Beni,80101,Trinidad,2006,1,5 a 14 anos-H,0.0
+Cochabamba,30101,Cochabamba,2006,2,5 a 14 anos-H,0.0
+Oruro,40101,Oruro,2006,2,5 a 14 anos-H,0.0
+Santa Cruz,70301,San Ignacio De Velasco,2006,2,5 a 14 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,2,5 a 14 anos-H,0.0
+Cochabamba,30101,Cochabamba,2006,3,5 a 14 anos-H,0.0
+Santa Cruz,70105,El Torno,2006,3,5 a 14 anos-H,0.0
+La Paz,20101,La Paz,2006,3,5 a 14 anos-H,0.0
+Oruro,40101,Oruro,2006,3,5 a 14 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,5 a 14 anos-H,0.0
+Tarija,60101,Tarija,2006,3,5 a 14 anos-H,0.0
+Cochabamba,30101,Cochabamba,2006,4,5 a 14 anos-H,0.0
+La Paz,20101,La Paz,2006,4,5 a 14 anos-H,0.0
+Oruro,40101,Oruro,2006,4,5 a 14 anos-H,0.0
+Cochabamba,30101,Cochabamba,2006,5,5 a 14 anos-H,0.0
+Santa Cruz,70705,Gutierrez,2006,5,5 a 14 anos-H,0.0
+Oruro,40101,Oruro,2006,5,5 a 14 anos-H,0.0
+Santa Cruz,70301,San Ignacio De Velasco,2006,5,5 a 14 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,5 a 14 anos-H,0.0
+Chuquisaca,10101,Sucre,2006,5,5 a 14 anos-H,0.0
+Cochabamba,30101,Cochabamba,2006,6,5 a 14 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,5 a 14 anos-H,0.0
+Chuquisaca,10101,Sucre,2006,6,5 a 14 anos-H,0.0
+Tarija,60101,Tarija,2006,6,5 a 14 anos-H,0.0
+Beni,80101,Trinidad,2006,6,5 a 14 anos-H,0.0
+La Paz,20101,La Paz,2006,7,5 a 14 anos-H,0.0
+Oruro,40101,Oruro,2006,7,5 a 14 anos-H,0.0
+Chuquisaca,10202,Tarvita,2006,7,5 a 14 anos-H,0.0
+Cochabamba,30101,Cochabamba,2006,8,5 a 14 anos-H,0.0
+Santa Cruz,71001,Montero,2006,8,5 a 14 anos-H,0.0
+Oruro,40101,Oruro,2006,8,5 a 14 anos-H,0.0
+Beni,80101,Trinidad,2006,8,5 a 14 anos-H,0.0
+Cochabamba,30101,Cochabamba,2006,9,5 a 14 anos-H,0.0
+Oruro,40101,Oruro,2006,9,5 a 14 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,9,5 a 14 anos-H,0.0
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,10,5 a 14 anos-H,0.0
+Cochabamba,30101,Cochabamba,2006,10,5 a 14 anos-H,0.0
+Oruro,40101,Oruro,2006,10,5 a 14 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,10,5 a 14 anos-H,0.0
+Chuquisaca,10202,Tarvita,2006,10,5 a 14 anos-H,0.0
+Beni,80101,Trinidad,2006,10,5 a 14 anos-H,0.0
+Tarija,60202,Bermejo,2006,11,5 a 14 anos-H,0.0
+Cochabamba,31204,Chimore,2006,11,5 a 14 anos-H,0.0
+Cochabamba,30101,Cochabamba,2006,11,5 a 14 anos-H,0.0
+Oruro,40101,Oruro,2006,11,5 a 14 anos-H,0.0
+Santa Cruz,71402,Puerto Quijarro,2006,11,5 a 14 anos-H,0.0
+Cochabamba,31401,Punata,2006,11,5 a 14 anos-H,0.0
+Chuquisaca,10101,Sucre,2006,11,5 a 14 anos-H,0.0
+Cochabamba,30903,Tiquipaya,2006,11,5 a 14 anos-H,0.0
+Tarija,60301,Yacuiba,2006,11,5 a 14 anos-H,0.0
+Cochabamba,30101,Cochabamba,2006,12,5 a 14 anos-H,0.0
+Beni,80102,San Javier(bni),2006,12,5 a 14 anos-H,0.0
+La Paz,20101,La Paz,2006,1,5 a 14 anos-M,0.0
+Oruro,40101,Oruro,2006,1,5 a 14 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,1,5 a 14 anos-M,0.0
+Beni,80101,Trinidad,2006,1,5 a 14 anos-M,0.0
+Cochabamba,30101,Cochabamba,2006,2,5 a 14 anos-M,0.0
+Oruro,40101,Oruro,2006,2,5 a 14 anos-M,0.0
+Santa Cruz,70301,San Ignacio De Velasco,2006,2,5 a 14 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,2,5 a 14 anos-M,0.0
+Cochabamba,30101,Cochabamba,2006,3,5 a 14 anos-M,0.0
+Santa Cruz,70105,El Torno,2006,3,5 a 14 anos-M,0.0
+La Paz,20101,La Paz,2006,3,5 a 14 anos-M,0.0
+Oruro,40101,Oruro,2006,3,5 a 14 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,5 a 14 anos-M,0.0
+Tarija,60101,Tarija,2006,3,5 a 14 anos-M,0.0
+Cochabamba,30101,Cochabamba,2006,4,5 a 14 anos-M,0.0
+La Paz,20101,La Paz,2006,4,5 a 14 anos-M,0.0
+Oruro,40101,Oruro,2006,4,5 a 14 anos-M,0.0
+Cochabamba,30101,Cochabamba,2006,5,5 a 14 anos-M,0.0
+Santa Cruz,70705,Gutierrez,2006,5,5 a 14 anos-M,0.0
+Oruro,40101,Oruro,2006,5,5 a 14 anos-M,0.0
+Santa Cruz,70301,San Ignacio De Velasco,2006,5,5 a 14 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,5 a 14 anos-M,0.0
+Chuquisaca,10101,Sucre,2006,5,5 a 14 anos-M,0.0
+Cochabamba,30101,Cochabamba,2006,6,5 a 14 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,5 a 14 anos-M,0.0
+Chuquisaca,10101,Sucre,2006,6,5 a 14 anos-M,0.0
+Tarija,60101,Tarija,2006,6,5 a 14 anos-M,0.0
+Beni,80101,Trinidad,2006,6,5 a 14 anos-M,0.0
+La Paz,20101,La Paz,2006,7,5 a 14 anos-M,0.0
+Oruro,40101,Oruro,2006,7,5 a 14 anos-M,0.0
+Chuquisaca,10202,Tarvita,2006,7,5 a 14 anos-M,0.0
+Cochabamba,30101,Cochabamba,2006,8,5 a 14 anos-M,0.0
+Santa Cruz,71001,Montero,2006,8,5 a 14 anos-M,0.0
+Oruro,40101,Oruro,2006,8,5 a 14 anos-M,0.0
+Beni,80101,Trinidad,2006,8,5 a 14 anos-M,0.0
+Cochabamba,30101,Cochabamba,2006,9,5 a 14 anos-M,0.0
+Oruro,40101,Oruro,2006,9,5 a 14 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,9,5 a 14 anos-M,0.0
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,10,5 a 14 anos-M,0.0
+Cochabamba,30101,Cochabamba,2006,10,5 a 14 anos-M,0.0
+Oruro,40101,Oruro,2006,10,5 a 14 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,10,5 a 14 anos-M,0.0
+Chuquisaca,10202,Tarvita,2006,10,5 a 14 anos-M,0.0
+Beni,80101,Trinidad,2006,10,5 a 14 anos-M,0.0
+Tarija,60202,Bermejo,2006,11,5 a 14 anos-M,0.0
+Cochabamba,31204,Chimore,2006,11,5 a 14 anos-M,0.0
+Cochabamba,30101,Cochabamba,2006,11,5 a 14 anos-M,0.0
+Oruro,40101,Oruro,2006,11,5 a 14 anos-M,0.0
+Santa Cruz,71402,Puerto Quijarro,2006,11,5 a 14 anos-M,0.0
+Cochabamba,31401,Punata,2006,11,5 a 14 anos-M,0.0
+Chuquisaca,10101,Sucre,2006,11,5 a 14 anos-M,0.0
+Cochabamba,30903,Tiquipaya,2006,11,5 a 14 anos-M,0.0
+Tarija,60301,Yacuiba,2006,11,5 a 14 anos-M,0.0
+Cochabamba,30101,Cochabamba,2006,12,5 a 14 anos-M,0.0
+Beni,80102,San Javier(bni),2006,12,5 a 14 anos-M,0.0
+La Paz,20101,La Paz,2006,1,15 a 59 anos-H,1.0
+Oruro,40101,Oruro,2006,1,15 a 59 anos-H,1.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,1,15 a 59 anos-H,6.0
+Beni,80101,Trinidad,2006,1,15 a 59 anos-H,1.0
+Cochabamba,30101,Cochabamba,2006,2,15 a 59 anos-H,3.0
+Oruro,40101,Oruro,2006,2,15 a 59 anos-H,1.0
+Santa Cruz,70301,San Ignacio De Velasco,2006,2,15 a 59 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,2,15 a 59 anos-H,7.0
+Cochabamba,30101,Cochabamba,2006,3,15 a 59 anos-H,4.0
+Santa Cruz,70105,El Torno,2006,3,15 a 59 anos-H,1.0
+La Paz,20101,La Paz,2006,3,15 a 59 anos-H,3.0
+Oruro,40101,Oruro,2006,3,15 a 59 anos-H,1.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,15 a 59 anos-H,5.0
+Tarija,60101,Tarija,2006,3,15 a 59 anos-H,1.0
+Cochabamba,30101,Cochabamba,2006,4,15 a 59 anos-H,1.0
+La Paz,20101,La Paz,2006,4,15 a 59 anos-H,1.0
+Oruro,40101,Oruro,2006,4,15 a 59 anos-H,2.0
+Cochabamba,30101,Cochabamba,2006,5,15 a 59 anos-H,4.0
+Santa Cruz,70705,Gutierrez,2006,5,15 a 59 anos-H,0.0
+Oruro,40101,Oruro,2006,5,15 a 59 anos-H,2.0
+Santa Cruz,70301,San Ignacio De Velasco,2006,5,15 a 59 anos-H,1.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,15 a 59 anos-H,2.0
+Chuquisaca,10101,Sucre,2006,5,15 a 59 anos-H,1.0
+Cochabamba,30101,Cochabamba,2006,6,15 a 59 anos-H,7.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,15 a 59 anos-H,1.0
+Chuquisaca,10101,Sucre,2006,6,15 a 59 anos-H,1.0
+Tarija,60101,Tarija,2006,6,15 a 59 anos-H,2.0
+Beni,80101,Trinidad,2006,6,15 a 59 anos-H,1.0
+La Paz,20101,La Paz,2006,7,15 a 59 anos-H,2.0
+Oruro,40101,Oruro,2006,7,15 a 59 anos-H,2.0
+Chuquisaca,10202,Tarvita,2006,7,15 a 59 anos-H,1.0
+Cochabamba,30101,Cochabamba,2006,8,15 a 59 anos-H,3.0
+Santa Cruz,71001,Montero,2006,8,15 a 59 anos-H,1.0
+Oruro,40101,Oruro,2006,8,15 a 59 anos-H,1.0
+Beni,80101,Trinidad,2006,8,15 a 59 anos-H,1.0
+Cochabamba,30101,Cochabamba,2006,9,15 a 59 anos-H,1.0
+Oruro,40101,Oruro,2006,9,15 a 59 anos-H,3.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,9,15 a 59 anos-H,1.0
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,10,15 a 59 anos-H,0.0
+Cochabamba,30101,Cochabamba,2006,10,15 a 59 anos-H,6.0
+Oruro,40101,Oruro,2006,10,15 a 59 anos-H,1.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,10,15 a 59 anos-H,1.0
+Chuquisaca,10202,Tarvita,2006,10,15 a 59 anos-H,5.0
+Beni,80101,Trinidad,2006,10,15 a 59 anos-H,1.0
+Tarija,60202,Bermejo,2006,11,15 a 59 anos-H,1.0
+Cochabamba,31204,Chimore,2006,11,15 a 59 anos-H,1.0
+Cochabamba,30101,Cochabamba,2006,11,15 a 59 anos-H,5.0
+Oruro,40101,Oruro,2006,11,15 a 59 anos-H,3.0
+Santa Cruz,71402,Puerto Quijarro,2006,11,15 a 59 anos-H,2.0
+Cochabamba,31401,Punata,2006,11,15 a 59 anos-H,1.0
+Chuquisaca,10101,Sucre,2006,11,15 a 59 anos-H,1.0
+Cochabamba,30903,Tiquipaya,2006,11,15 a 59 anos-H,1.0
+Tarija,60301,Yacuiba,2006,11,15 a 59 anos-H,1.0
+Cochabamba,30101,Cochabamba,2006,12,15 a 59 anos-H,1.0
+Beni,80102,San Javier(bni),2006,12,15 a 59 anos-H,3.0
+La Paz,20101,La Paz,2006,1,15 a 59 anos-M,
+Oruro,40101,Oruro,2006,1,15 a 59 anos-M,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,1,15 a 59 anos-M,
+Beni,80101,Trinidad,2006,1,15 a 59 anos-M,
+Cochabamba,30101,Cochabamba,2006,2,15 a 59 anos-M,
+Oruro,40101,Oruro,2006,2,15 a 59 anos-M,
+Santa Cruz,70301,San Ignacio De Velasco,2006,2,15 a 59 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,2,15 a 59 anos-M,
+Cochabamba,30101,Cochabamba,2006,3,15 a 59 anos-M,
+Santa Cruz,70105,El Torno,2006,3,15 a 59 anos-M,
+La Paz,20101,La Paz,2006,3,15 a 59 anos-M,
+Oruro,40101,Oruro,2006,3,15 a 59 anos-M,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,15 a 59 anos-M,
+Tarija,60101,Tarija,2006,3,15 a 59 anos-M,
+Cochabamba,30101,Cochabamba,2006,4,15 a 59 anos-M,
+La Paz,20101,La Paz,2006,4,15 a 59 anos-M,
+Oruro,40101,Oruro,2006,4,15 a 59 anos-M,
+Cochabamba,30101,Cochabamba,2006,5,15 a 59 anos-M,0.0
+Santa Cruz,70705,Gutierrez,2006,5,15 a 59 anos-M,0.0
+Oruro,40101,Oruro,2006,5,15 a 59 anos-M,
+Santa Cruz,70301,San Ignacio De Velasco,2006,5,15 a 59 anos-M,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,15 a 59 anos-M,
+Chuquisaca,10101,Sucre,2006,5,15 a 59 anos-M,
+Cochabamba,30101,Cochabamba,2006,6,15 a 59 anos-M,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,15 a 59 anos-M,
+Chuquisaca,10101,Sucre,2006,6,15 a 59 anos-M,
+Tarija,60101,Tarija,2006,6,15 a 59 anos-M,
+Beni,80101,Trinidad,2006,6,15 a 59 anos-M,
+La Paz,20101,La Paz,2006,7,15 a 59 anos-M,
+Oruro,40101,Oruro,2006,7,15 a 59 anos-M,
+Chuquisaca,10202,Tarvita,2006,7,15 a 59 anos-M,
+Cochabamba,30101,Cochabamba,2006,8,15 a 59 anos-M,
+Santa Cruz,71001,Montero,2006,8,15 a 59 anos-M,
+Oruro,40101,Oruro,2006,8,15 a 59 anos-M,
+Beni,80101,Trinidad,2006,8,15 a 59 anos-M,
+Cochabamba,30101,Cochabamba,2006,9,15 a 59 anos-M,
+Oruro,40101,Oruro,2006,9,15 a 59 anos-M,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,9,15 a 59 anos-M,
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,10,15 a 59 anos-M,0.0
+Cochabamba,30101,Cochabamba,2006,10,15 a 59 anos-M,
+Oruro,40101,Oruro,2006,10,15 a 59 anos-M,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,10,15 a 59 anos-M,
+Chuquisaca,10202,Tarvita,2006,10,15 a 59 anos-M,
+Beni,80101,Trinidad,2006,10,15 a 59 anos-M,
+Tarija,60202,Bermejo,2006,11,15 a 59 anos-M,
+Cochabamba,31204,Chimore,2006,11,15 a 59 anos-M,
+Cochabamba,30101,Cochabamba,2006,11,15 a 59 anos-M,0.0
+Oruro,40101,Oruro,2006,11,15 a 59 anos-M,
+Santa Cruz,71402,Puerto Quijarro,2006,11,15 a 59 anos-M,
+Cochabamba,31401,Punata,2006,11,15 a 59 anos-M,
+Chuquisaca,10101,Sucre,2006,11,15 a 59 anos-M,
+Cochabamba,30903,Tiquipaya,2006,11,15 a 59 anos-M,
+Tarija,60301,Yacuiba,2006,11,15 a 59 anos-M,
+Cochabamba,30101,Cochabamba,2006,12,15 a 59 anos-M,0.0
+Beni,80102,San Javier(bni),2006,12,15 a 59 anos-M,
+La Paz,20101,La Paz,2006,1,60 y mas-H,0.0
+Oruro,40101,Oruro,2006,1,60 y mas-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,1,60 y mas-H,0.0
+Beni,80101,Trinidad,2006,1,60 y mas-H,0.0
+Cochabamba,30101,Cochabamba,2006,2,60 y mas-H,0.0
+Oruro,40101,Oruro,2006,2,60 y mas-H,0.0
+Santa Cruz,70301,San Ignacio De Velasco,2006,2,60 y mas-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,2,60 y mas-H,0.0
+Cochabamba,30101,Cochabamba,2006,3,60 y mas-H,0.0
+Santa Cruz,70105,El Torno,2006,3,60 y mas-H,0.0
+La Paz,20101,La Paz,2006,3,60 y mas-H,0.0
+Oruro,40101,Oruro,2006,3,60 y mas-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,60 y mas-H,0.0
+Tarija,60101,Tarija,2006,3,60 y mas-H,0.0
+Cochabamba,30101,Cochabamba,2006,4,60 y mas-H,0.0
+La Paz,20101,La Paz,2006,4,60 y mas-H,0.0
+Oruro,40101,Oruro,2006,4,60 y mas-H,0.0
+Cochabamba,30101,Cochabamba,2006,5,60 y mas-H,1.0
+Santa Cruz,70705,Gutierrez,2006,5,60 y mas-H,0.0
+Oruro,40101,Oruro,2006,5,60 y mas-H,0.0
+Santa Cruz,70301,San Ignacio De Velasco,2006,5,60 y mas-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,60 y mas-H,0.0
+Chuquisaca,10101,Sucre,2006,5,60 y mas-H,0.0
+Cochabamba,30101,Cochabamba,2006,6,60 y mas-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,60 y mas-H,0.0
+Chuquisaca,10101,Sucre,2006,6,60 y mas-H,0.0
+Tarija,60101,Tarija,2006,6,60 y mas-H,0.0
+Beni,80101,Trinidad,2006,6,60 y mas-H,0.0
+La Paz,20101,La Paz,2006,7,60 y mas-H,0.0
+Oruro,40101,Oruro,2006,7,60 y mas-H,0.0
+Chuquisaca,10202,Tarvita,2006,7,60 y mas-H,0.0
+Cochabamba,30101,Cochabamba,2006,8,60 y mas-H,0.0
+Santa Cruz,71001,Montero,2006,8,60 y mas-H,0.0
+Oruro,40101,Oruro,2006,8,60 y mas-H,0.0
+Beni,80101,Trinidad,2006,8,60 y mas-H,0.0
+Cochabamba,30101,Cochabamba,2006,9,60 y mas-H,0.0
+Oruro,40101,Oruro,2006,9,60 y mas-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,9,60 y mas-H,0.0
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,10,60 y mas-H,1.0
+Cochabamba,30101,Cochabamba,2006,10,60 y mas-H,0.0
+Oruro,40101,Oruro,2006,10,60 y mas-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,10,60 y mas-H,0.0
+Chuquisaca,10202,Tarvita,2006,10,60 y mas-H,0.0
+Beni,80101,Trinidad,2006,10,60 y mas-H,0.0
+Tarija,60202,Bermejo,2006,11,60 y mas-H,0.0
+Cochabamba,31204,Chimore,2006,11,60 y mas-H,0.0
+Cochabamba,30101,Cochabamba,2006,11,60 y mas-H,1.0
+Oruro,40101,Oruro,2006,11,60 y mas-H,0.0
+Santa Cruz,71402,Puerto Quijarro,2006,11,60 y mas-H,0.0
+Cochabamba,31401,Punata,2006,11,60 y mas-H,0.0
+Chuquisaca,10101,Sucre,2006,11,60 y mas-H,0.0
+Cochabamba,30903,Tiquipaya,2006,11,60 y mas-H,0.0
+Tarija,60301,Yacuiba,2006,11,60 y mas-H,0.0
+Cochabamba,30101,Cochabamba,2006,12,60 y mas-H,0.0
+Beni,80102,San Javier(bni),2006,12,60 y mas-H,0.0
+La Paz,20101,La Paz,2006,1,60 y mas-M,0.0
+Oruro,40101,Oruro,2006,1,60 y mas-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,1,60 y mas-M,0.0
+Beni,80101,Trinidad,2006,1,60 y mas-M,0.0
+Cochabamba,30101,Cochabamba,2006,2,60 y mas-M,0.0
+Oruro,40101,Oruro,2006,2,60 y mas-M,0.0
+Santa Cruz,70301,San Ignacio De Velasco,2006,2,60 y mas-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,2,60 y mas-M,0.0
+Cochabamba,30101,Cochabamba,2006,3,60 y mas-M,0.0
+Santa Cruz,70105,El Torno,2006,3,60 y mas-M,0.0
+La Paz,20101,La Paz,2006,3,60 y mas-M,0.0
+Oruro,40101,Oruro,2006,3,60 y mas-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,60 y mas-M,0.0
+Tarija,60101,Tarija,2006,3,60 y mas-M,0.0
+Cochabamba,30101,Cochabamba,2006,4,60 y mas-M,0.0
+La Paz,20101,La Paz,2006,4,60 y mas-M,0.0
+Oruro,40101,Oruro,2006,4,60 y mas-M,0.0
+Cochabamba,30101,Cochabamba,2006,5,60 y mas-M,0.0
+Santa Cruz,70705,Gutierrez,2006,5,60 y mas-M,0.0
+Oruro,40101,Oruro,2006,5,60 y mas-M,0.0
+Santa Cruz,70301,San Ignacio De Velasco,2006,5,60 y mas-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,60 y mas-M,0.0
+Chuquisaca,10101,Sucre,2006,5,60 y mas-M,0.0
+Cochabamba,30101,Cochabamba,2006,6,60 y mas-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,60 y mas-M,0.0
+Chuquisaca,10101,Sucre,2006,6,60 y mas-M,0.0
+Tarija,60101,Tarija,2006,6,60 y mas-M,0.0
+Beni,80101,Trinidad,2006,6,60 y mas-M,0.0
+La Paz,20101,La Paz,2006,7,60 y mas-M,0.0
+Oruro,40101,Oruro,2006,7,60 y mas-M,0.0
+Chuquisaca,10202,Tarvita,2006,7,60 y mas-M,0.0
+Cochabamba,30101,Cochabamba,2006,8,60 y mas-M,0.0
+Santa Cruz,71001,Montero,2006,8,60 y mas-M,0.0
+Oruro,40101,Oruro,2006,8,60 y mas-M,0.0
+Beni,80101,Trinidad,2006,8,60 y mas-M,0.0
+Cochabamba,30101,Cochabamba,2006,9,60 y mas-M,0.0
+Oruro,40101,Oruro,2006,9,60 y mas-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,9,60 y mas-M,0.0
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,10,60 y mas-M,
+Cochabamba,30101,Cochabamba,2006,10,60 y mas-M,0.0
+Oruro,40101,Oruro,2006,10,60 y mas-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,10,60 y mas-M,0.0
+Chuquisaca,10202,Tarvita,2006,10,60 y mas-M,0.0
+Beni,80101,Trinidad,2006,10,60 y mas-M,0.0
+Tarija,60202,Bermejo,2006,11,60 y mas-M,0.0
+Cochabamba,31204,Chimore,2006,11,60 y mas-M,0.0
+Cochabamba,30101,Cochabamba,2006,11,60 y mas-M,0.0
+Oruro,40101,Oruro,2006,11,60 y mas-M,0.0
+Santa Cruz,71402,Puerto Quijarro,2006,11,60 y mas-M,0.0
+Cochabamba,31401,Punata,2006,11,60 y mas-M,0.0
+Chuquisaca,10101,Sucre,2006,11,60 y mas-M,0.0
+Cochabamba,30903,Tiquipaya,2006,11,60 y mas-M,0.0
+Tarija,60301,Yacuiba,2006,11,60 y mas-M,0.0
+Cochabamba,30101,Cochabamba,2006,12,60 y mas-M,0.0
+Beni,80102,San Javier(bni),2006,12,60 y mas-M,0.0
+La Paz,20101,La Paz,2006,1,TOTAL-H,1.0
+Oruro,40101,Oruro,2006,1,TOTAL-H,1.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,1,TOTAL-H,6.0
+Beni,80101,Trinidad,2006,1,TOTAL-H,1.0
+Cochabamba,30101,Cochabamba,2006,2,TOTAL-H,3.0
+Oruro,40101,Oruro,2006,2,TOTAL-H,1.0
+Santa Cruz,70301,San Ignacio De Velasco,2006,2,TOTAL-H,1.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,2,TOTAL-H,7.0
+Cochabamba,30101,Cochabamba,2006,3,TOTAL-H,4.0
+Santa Cruz,70105,El Torno,2006,3,TOTAL-H,1.0
+La Paz,20101,La Paz,2006,3,TOTAL-H,3.0
+Oruro,40101,Oruro,2006,3,TOTAL-H,1.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,TOTAL-H,5.0
+Tarija,60101,Tarija,2006,3,TOTAL-H,1.0
+Cochabamba,30101,Cochabamba,2006,4,TOTAL-H,1.0
+La Paz,20101,La Paz,2006,4,TOTAL-H,1.0
+Oruro,40101,Oruro,2006,4,TOTAL-H,2.0
+Cochabamba,30101,Cochabamba,2006,5,TOTAL-H,5.0
+Santa Cruz,70705,Gutierrez,2006,5,TOTAL-H,1.0
+Oruro,40101,Oruro,2006,5,TOTAL-H,2.0
+Santa Cruz,70301,San Ignacio De Velasco,2006,5,TOTAL-H,1.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,TOTAL-H,2.0
+Chuquisaca,10101,Sucre,2006,5,TOTAL-H,1.0
+Cochabamba,30101,Cochabamba,2006,6,TOTAL-H,7.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,TOTAL-H,1.0
+Chuquisaca,10101,Sucre,2006,6,TOTAL-H,1.0
+Tarija,60101,Tarija,2006,6,TOTAL-H,2.0
+Beni,80101,Trinidad,2006,6,TOTAL-H,1.0
+La Paz,20101,La Paz,2006,7,TOTAL-H,2.0
+Oruro,40101,Oruro,2006,7,TOTAL-H,2.0
+Chuquisaca,10202,Tarvita,2006,7,TOTAL-H,1.0
+Cochabamba,30101,Cochabamba,2006,8,TOTAL-H,3.0
+Santa Cruz,71001,Montero,2006,8,TOTAL-H,1.0
+Oruro,40101,Oruro,2006,8,TOTAL-H,1.0
+Beni,80101,Trinidad,2006,8,TOTAL-H,1.0
+Cochabamba,30101,Cochabamba,2006,9,TOTAL-H,1.0
+Oruro,40101,Oruro,2006,9,TOTAL-H,3.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,9,TOTAL-H,1.0
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,10,TOTAL-H,1.0
+Cochabamba,30101,Cochabamba,2006,10,TOTAL-H,6.0
+Oruro,40101,Oruro,2006,10,TOTAL-H,1.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,10,TOTAL-H,1.0
+Chuquisaca,10202,Tarvita,2006,10,TOTAL-H,5.0
+Beni,80101,Trinidad,2006,10,TOTAL-H,1.0
+Tarija,60202,Bermejo,2006,11,TOTAL-H,1.0
+Cochabamba,31204,Chimore,2006,11,TOTAL-H,1.0
+Cochabamba,30101,Cochabamba,2006,11,TOTAL-H,6.0
+Oruro,40101,Oruro,2006,11,TOTAL-H,3.0
+Santa Cruz,71402,Puerto Quijarro,2006,11,TOTAL-H,2.0
+Cochabamba,31401,Punata,2006,11,TOTAL-H,1.0
+Chuquisaca,10101,Sucre,2006,11,TOTAL-H,1.0
+Cochabamba,30903,Tiquipaya,2006,11,TOTAL-H,1.0
+Tarija,60301,Yacuiba,2006,11,TOTAL-H,1.0
+Cochabamba,30101,Cochabamba,2006,12,TOTAL-H,2.0
+Beni,80102,San Javier(bni),2006,12,TOTAL-H,3.0
+La Paz,20101,La Paz,2006,1,TOTAL-M,
+Oruro,40101,Oruro,2006,1,TOTAL-M,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,1,TOTAL-M,
+Beni,80101,Trinidad,2006,1,TOTAL-M,
+Cochabamba,30101,Cochabamba,2006,2,TOTAL-M,
+Oruro,40101,Oruro,2006,2,TOTAL-M,
+Santa Cruz,70301,San Ignacio De Velasco,2006,2,TOTAL-M,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,2,TOTAL-M,
+Cochabamba,30101,Cochabamba,2006,3,TOTAL-M,
+Santa Cruz,70105,El Torno,2006,3,TOTAL-M,
+La Paz,20101,La Paz,2006,3,TOTAL-M,
+Oruro,40101,Oruro,2006,3,TOTAL-M,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,TOTAL-M,
+Tarija,60101,Tarija,2006,3,TOTAL-M,
+Cochabamba,30101,Cochabamba,2006,4,TOTAL-M,
+La Paz,20101,La Paz,2006,4,TOTAL-M,
+Oruro,40101,Oruro,2006,4,TOTAL-M,
+Cochabamba,30101,Cochabamba,2006,5,TOTAL-M,
+Santa Cruz,70705,Gutierrez,2006,5,TOTAL-M,
+Oruro,40101,Oruro,2006,5,TOTAL-M,
+Santa Cruz,70301,San Ignacio De Velasco,2006,5,TOTAL-M,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,TOTAL-M,
+Chuquisaca,10101,Sucre,2006,5,TOTAL-M,
+Cochabamba,30101,Cochabamba,2006,6,TOTAL-M,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,TOTAL-M,
+Chuquisaca,10101,Sucre,2006,6,TOTAL-M,
+Tarija,60101,Tarija,2006,6,TOTAL-M,
+Beni,80101,Trinidad,2006,6,TOTAL-M,
+La Paz,20101,La Paz,2006,7,TOTAL-M,
+Oruro,40101,Oruro,2006,7,TOTAL-M,
+Chuquisaca,10202,Tarvita,2006,7,TOTAL-M,
+Cochabamba,30101,Cochabamba,2006,8,TOTAL-M,
+Santa Cruz,71001,Montero,2006,8,TOTAL-M,
+Oruro,40101,Oruro,2006,8,TOTAL-M,
+Beni,80101,Trinidad,2006,8,TOTAL-M,
+Cochabamba,30101,Cochabamba,2006,9,TOTAL-M,
+Oruro,40101,Oruro,2006,9,TOTAL-M,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,9,TOTAL-M,
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,10,TOTAL-M,
+Cochabamba,30101,Cochabamba,2006,10,TOTAL-M,
+Oruro,40101,Oruro,2006,10,TOTAL-M,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,10,TOTAL-M,
+Chuquisaca,10202,Tarvita,2006,10,TOTAL-M,
+Beni,80101,Trinidad,2006,10,TOTAL-M,
+Tarija,60202,Bermejo,2006,11,TOTAL-M,
+Cochabamba,31204,Chimore,2006,11,TOTAL-M,
+Cochabamba,30101,Cochabamba,2006,11,TOTAL-M,
+Oruro,40101,Oruro,2006,11,TOTAL-M,
+Santa Cruz,71402,Puerto Quijarro,2006,11,TOTAL-M,
+Cochabamba,31401,Punata,2006,11,TOTAL-M,
+Chuquisaca,10101,Sucre,2006,11,TOTAL-M,
+Cochabamba,30903,Tiquipaya,2006,11,TOTAL-M,
+Tarija,60301,Yacuiba,2006,11,TOTAL-M,
+Cochabamba,30101,Cochabamba,2006,12,TOTAL-M,
+Beni,80102,San Javier(bni),2006,12,TOTAL-M,
+La Paz,20101,La Paz,2006,1,TOTAL,
+Oruro,40101,Oruro,2006,1,TOTAL,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,1,TOTAL,
+Beni,80101,Trinidad,2006,1,TOTAL,
+Cochabamba,30101,Cochabamba,2006,2,TOTAL,
+Oruro,40101,Oruro,2006,2,TOTAL,
+Santa Cruz,70301,San Ignacio De Velasco,2006,2,TOTAL,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,2,TOTAL,
+Cochabamba,30101,Cochabamba,2006,3,TOTAL,
+Santa Cruz,70105,El Torno,2006,3,TOTAL,
+La Paz,20101,La Paz,2006,3,TOTAL,
+Oruro,40101,Oruro,2006,3,TOTAL,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,TOTAL,
+Tarija,60101,Tarija,2006,3,TOTAL,
+Cochabamba,30101,Cochabamba,2006,4,TOTAL,
+La Paz,20101,La Paz,2006,4,TOTAL,
+Oruro,40101,Oruro,2006,4,TOTAL,
+Cochabamba,30101,Cochabamba,2006,5,TOTAL,
+Santa Cruz,70705,Gutierrez,2006,5,TOTAL,
+Oruro,40101,Oruro,2006,5,TOTAL,
+Santa Cruz,70301,San Ignacio De Velasco,2006,5,TOTAL,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,TOTAL,
+Chuquisaca,10101,Sucre,2006,5,TOTAL,
+Cochabamba,30101,Cochabamba,2006,6,TOTAL,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,6,TOTAL,
+Chuquisaca,10101,Sucre,2006,6,TOTAL,
+Tarija,60101,Tarija,2006,6,TOTAL,
+Beni,80101,Trinidad,2006,6,TOTAL,
+La Paz,20101,La Paz,2006,7,TOTAL,
+Oruro,40101,Oruro,2006,7,TOTAL,
+Chuquisaca,10202,Tarvita,2006,7,TOTAL,
+Cochabamba,30101,Cochabamba,2006,8,TOTAL,
+Santa Cruz,71001,Montero,2006,8,TOTAL,
+Oruro,40101,Oruro,2006,8,TOTAL,
+Beni,80101,Trinidad,2006,8,TOTAL,
+Cochabamba,30101,Cochabamba,2006,9,TOTAL,
+Oruro,40101,Oruro,2006,9,TOTAL,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,9,TOTAL,
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,10,TOTAL,
+Cochabamba,30101,Cochabamba,2006,10,TOTAL,
+Oruro,40101,Oruro,2006,10,TOTAL,
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,10,TOTAL,
+Chuquisaca,10202,Tarvita,2006,10,TOTAL,
+Beni,80101,Trinidad,2006,10,TOTAL,
+Tarija,60202,Bermejo,2006,11,TOTAL,
+Cochabamba,31204,Chimore,2006,11,TOTAL,
+Cochabamba,30101,Cochabamba,2006,11,TOTAL,
+Oruro,40101,Oruro,2006,11,TOTAL,
+Santa Cruz,71402,Puerto Quijarro,2006,11,TOTAL,
+Cochabamba,31401,Punata,2006,11,TOTAL,
+Chuquisaca,10101,Sucre,2006,11,TOTAL,
+Cochabamba,30903,Tiquipaya,2006,11,TOTAL,
+Tarija,60301,Yacuiba,2006,11,TOTAL,
+Cochabamba,30101,Cochabamba,2006,12,TOTAL,
+Beni,80102,San Javier(bni),2006,12,TOTAL,

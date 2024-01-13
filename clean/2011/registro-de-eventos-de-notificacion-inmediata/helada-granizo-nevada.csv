@@ -1,0 +1,113 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,Nro.,0
+Cochabamba,30401,Tarata,2011,1,Nro.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,Nro.,0
+Cochabamba,30903,Tiquipaya,2011,2,Nro.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,Nro.,0
+Potosí,50102,Tinguipaya,2011,3,Nro.,1
+Cochabamba,31601,Tiraque (cbba),2011,3,Nro.,2
+Santa Cruz,70502,Pailon,2011,4,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,Nro.,0
+Tarija,60201,Padcaya,2011,6,Nro.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,Nro.,0
+Potosí,51001,San Pablo De Lipez,2011,7,Nro.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,Nro.,0
+Cochabamba,31601,Tiraque (cbba),2011,7,Nro.,0
+Santa Cruz,70701,Lagunillas,2011,8,Nro.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,Nro.,0
+Cochabamba,30303,Cocapata,2011,9,Nro.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,Nro.,0
+Chuquisaca,10501,Monteagudo,2011,10,Nro.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,Nro.,0
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2011,10,Nro.,1
+Potosí,51501,Villazon,2011,10,Nro.,1
+Cochabamba,30303,Cocapata,2011,11,Nro.,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,Nro.,0
+Cochabamba,31601,Tiraque (cbba),2011,11,Nro.,1
+Potosí,51501,Villazon,2011,11,Nro.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,Nro. Afectados,0
+Cochabamba,30401,Tarata,2011,1,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,Nro. Afectados,0
+Cochabamba,30903,Tiquipaya,2011,2,Nro. Afectados,79
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,Nro. Afectados,0
+Potosí,50102,Tinguipaya,2011,3,Nro. Afectados,0
+Cochabamba,31601,Tiraque (cbba),2011,3,Nro. Afectados,129
+Santa Cruz,70502,Pailon,2011,4,Nro. Afectados,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,Nro. Afectados,0
+Tarija,60201,Padcaya,2011,6,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,Nro. Afectados,0
+Potosí,51001,San Pablo De Lipez,2011,7,Nro. Afectados,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,Nro. Afectados,0
+Cochabamba,31601,Tiraque (cbba),2011,7,Nro. Afectados,98
+Santa Cruz,70701,Lagunillas,2011,8,Nro. Afectados,56
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,Nro. Afectados,0
+Cochabamba,30303,Cocapata,2011,9,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,Nro. Afectados,0
+Chuquisaca,10501,Monteagudo,2011,10,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,Nro. Afectados,0
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2011,10,Nro. Afectados,5000
+Potosí,51501,Villazon,2011,10,Nro. Afectados,43
+Cochabamba,30303,Cocapata,2011,11,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,Nro. Afectados,0
+Cochabamba,31601,Tiraque (cbba),2011,11,Nro. Afectados,50
+Potosí,51501,Villazon,2011,11,Nro. Afectados,40
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,Nro. Fallecidos,0
+Cochabamba,30401,Tarata,2011,1,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,Nro. Fallecidos,0
+Cochabamba,30903,Tiquipaya,2011,2,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,Nro. Fallecidos,0
+Potosí,50102,Tinguipaya,2011,3,Nro. Fallecidos,0
+Cochabamba,31601,Tiraque (cbba),2011,3,Nro. Fallecidos,0
+Santa Cruz,70502,Pailon,2011,4,Nro. Fallecidos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,Nro. Fallecidos,0
+Tarija,60201,Padcaya,2011,6,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,Nro. Fallecidos,0
+Potosí,51001,San Pablo De Lipez,2011,7,Nro. Fallecidos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,Nro. Fallecidos,0
+Cochabamba,31601,Tiraque (cbba),2011,7,Nro. Fallecidos,0
+Santa Cruz,70701,Lagunillas,2011,8,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,Nro. Fallecidos,0
+Cochabamba,30303,Cocapata,2011,9,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,Nro. Fallecidos,0
+Chuquisaca,10501,Monteagudo,2011,10,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,Nro. Fallecidos,0
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2011,10,Nro. Fallecidos,0
+Potosí,51501,Villazon,2011,10,Nro. Fallecidos,0
+Cochabamba,30303,Cocapata,2011,11,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,Nro. Fallecidos,0
+Cochabamba,31601,Tiraque (cbba),2011,11,Nro. Fallecidos,0
+Potosí,51501,Villazon,2011,11,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,TOTAL,0
+Cochabamba,30401,Tarata,2011,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,TOTAL,0
+Cochabamba,30903,Tiquipaya,2011,2,TOTAL,80
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,TOTAL,0
+Potosí,50102,Tinguipaya,2011,3,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2011,3,TOTAL,131
+Santa Cruz,70502,Pailon,2011,4,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,TOTAL,0
+Tarija,60201,Padcaya,2011,6,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,TOTAL,0
+Potosí,51001,San Pablo De Lipez,2011,7,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,TOTAL,0
+Cochabamba,31601,Tiraque (cbba),2011,7,TOTAL,98
+Santa Cruz,70701,Lagunillas,2011,8,TOTAL,57
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,TOTAL,0
+Cochabamba,30303,Cocapata,2011,9,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,TOTAL,0
+Chuquisaca,10501,Monteagudo,2011,10,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,TOTAL,0
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2011,10,TOTAL,5001
+Potosí,51501,Villazon,2011,10,TOTAL,44
+Cochabamba,30303,Cocapata,2011,11,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,TOTAL,0
+Cochabamba,31601,Tiraque (cbba),2011,11,TOTAL,51
+Potosí,51501,Villazon,2011,11,TOTAL,41
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,TOTAL,0

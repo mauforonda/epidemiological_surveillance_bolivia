@@ -1,0 +1,45 @@
+department,municipality_id,municipality,year,month,population,value
+Beni,80201,Riberalta,2014,1,Nro.,1
+Santa Cruz,71501,Ascencion De Guarayos,2014,3,Nro.,1
+Potosí,50502,Toro Toro,2014,4,Nro.,1
+Santa Cruz,70302,San Miguel De Velasco,2014,5,Nro.,1
+Tarija,60501,San Lorenzo(tja),2014,6,Nro.,1
+La Paz,22001,Caranavi,2014,7,Nro.,4
+Pando,90302,San Lorenzo(pnd),2014,7,Nro.,1
+Chuquisaca,10202,Tarvita,2014,8,Nro.,1
+Santa Cruz,70801,Vallegrande,2014,8,Nro.,1
+Santa Cruz,70603,Colpa Belgica,2014,10,Nro.,1
+Santa Cruz,70801,Vallegrande,2014,10,Nro.,1
+Beni,80201,Riberalta,2014,1,Nro. Afectados,6
+Santa Cruz,71501,Ascencion De Guarayos,2014,3,Nro. Afectados,7
+Potosí,50502,Toro Toro,2014,4,Nro. Afectados,4
+Santa Cruz,70302,San Miguel De Velasco,2014,5,Nro. Afectados,13
+Tarija,60501,San Lorenzo(tja),2014,6,Nro. Afectados,0
+La Paz,22001,Caranavi,2014,7,Nro. Afectados,10
+Pando,90302,San Lorenzo(pnd),2014,7,Nro. Afectados,5
+Chuquisaca,10202,Tarvita,2014,8,Nro. Afectados,2
+Santa Cruz,70801,Vallegrande,2014,8,Nro. Afectados,0
+Santa Cruz,70603,Colpa Belgica,2014,10,Nro. Afectados,10
+Santa Cruz,70801,Vallegrande,2014,10,Nro. Afectados,13
+Beni,80201,Riberalta,2014,1,Nro. Fallecidos,0
+Santa Cruz,71501,Ascencion De Guarayos,2014,3,Nro. Fallecidos,0
+Potosí,50502,Toro Toro,2014,4,Nro. Fallecidos,0
+Santa Cruz,70302,San Miguel De Velasco,2014,5,Nro. Fallecidos,0
+Tarija,60501,San Lorenzo(tja),2014,6,Nro. Fallecidos,0
+La Paz,22001,Caranavi,2014,7,Nro. Fallecidos,0
+Pando,90302,San Lorenzo(pnd),2014,7,Nro. Fallecidos,0
+Chuquisaca,10202,Tarvita,2014,8,Nro. Fallecidos,0
+Santa Cruz,70801,Vallegrande,2014,8,Nro. Fallecidos,0
+Santa Cruz,70603,Colpa Belgica,2014,10,Nro. Fallecidos,0
+Santa Cruz,70801,Vallegrande,2014,10,Nro. Fallecidos,0
+Beni,80201,Riberalta,2014,1,TOTAL,7
+Santa Cruz,71501,Ascencion De Guarayos,2014,3,TOTAL,8
+Potosí,50502,Toro Toro,2014,4,TOTAL,5
+Santa Cruz,70302,San Miguel De Velasco,2014,5,TOTAL,14
+Tarija,60501,San Lorenzo(tja),2014,6,TOTAL,1
+La Paz,22001,Caranavi,2014,7,TOTAL,14
+Pando,90302,San Lorenzo(pnd),2014,7,TOTAL,6
+Chuquisaca,10202,Tarvita,2014,8,TOTAL,3
+Santa Cruz,70801,Vallegrande,2014,8,TOTAL,1
+Santa Cruz,70603,Colpa Belgica,2014,10,TOTAL,11
+Santa Cruz,70801,Vallegrande,2014,10,TOTAL,14

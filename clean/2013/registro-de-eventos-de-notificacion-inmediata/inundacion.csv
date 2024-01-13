@@ -1,0 +1,65 @@
+department,municipality_id,municipality,year,month,population,value
+Chuquisaca,10405,El Villar,2013,1,Nro.,16
+La Paz,20101,La Paz,2013,1,Nro.,1
+Cochabamba,31205,Puerto Villarroel,2013,1,Nro.,2
+Tarija,60303,Villa Montes,2013,1,Nro.,1
+Cochabamba,30801,Cliza,2013,2,Nro.,1
+Cochabamba,31205,Puerto Villarroel,2013,2,Nro.,1
+Santa Cruz,71501,Ascencion De Guarayos,2013,3,Nro.,2
+Cochabamba,31204,Chimore,2013,3,Nro.,1
+Pando,90201,Puerto Rico,2013,3,Nro.,3
+Cochabamba,31205,Puerto Villarroel,2013,3,Nro.,2
+Beni,80201,Riberalta,2013,3,Nro.,1
+Pando,90104,Bella Flor,2013,4,Nro.,1
+Cochabamba,31205,Puerto Villarroel,2013,4,Nro.,4
+Pando,90502,Villa Nueva (loma Alta),2013,4,Nro.,1
+Cochabamba,30302,Morochata,2013,8,Nro.,1
+Santa Cruz,70703,Cabezas,2013,10,Nro.,1
+Chuquisaca,10405,El Villar,2013,1,Nro. Afectados,48
+La Paz,20101,La Paz,2013,1,Nro. Afectados,3
+Cochabamba,31205,Puerto Villarroel,2013,1,Nro. Afectados,120
+Tarija,60303,Villa Montes,2013,1,Nro. Afectados,15
+Cochabamba,30801,Cliza,2013,2,Nro. Afectados,30
+Cochabamba,31205,Puerto Villarroel,2013,2,Nro. Afectados,0
+Santa Cruz,71501,Ascencion De Guarayos,2013,3,Nro. Afectados,28
+Cochabamba,31204,Chimore,2013,3,Nro. Afectados,650
+Pando,90201,Puerto Rico,2013,3,Nro. Afectados,44
+Cochabamba,31205,Puerto Villarroel,2013,3,Nro. Afectados,820
+Beni,80201,Riberalta,2013,3,Nro. Afectados,90
+Pando,90104,Bella Flor,2013,4,Nro. Afectados,73
+Cochabamba,31205,Puerto Villarroel,2013,4,Nro. Afectados,170
+Pando,90502,Villa Nueva (loma Alta),2013,4,Nro. Afectados,100
+Cochabamba,30302,Morochata,2013,8,Nro. Afectados,1
+Santa Cruz,70703,Cabezas,2013,10,Nro. Afectados,50
+Chuquisaca,10405,El Villar,2013,1,Nro. Fallecidos,0
+La Paz,20101,La Paz,2013,1,Nro. Fallecidos,0
+Cochabamba,31205,Puerto Villarroel,2013,1,Nro. Fallecidos,0
+Tarija,60303,Villa Montes,2013,1,Nro. Fallecidos,0
+Cochabamba,30801,Cliza,2013,2,Nro. Fallecidos,0
+Cochabamba,31205,Puerto Villarroel,2013,2,Nro. Fallecidos,0
+Santa Cruz,71501,Ascencion De Guarayos,2013,3,Nro. Fallecidos,0
+Cochabamba,31204,Chimore,2013,3,Nro. Fallecidos,0
+Pando,90201,Puerto Rico,2013,3,Nro. Fallecidos,0
+Cochabamba,31205,Puerto Villarroel,2013,3,Nro. Fallecidos,0
+Beni,80201,Riberalta,2013,3,Nro. Fallecidos,0
+Pando,90104,Bella Flor,2013,4,Nro. Fallecidos,0
+Cochabamba,31205,Puerto Villarroel,2013,4,Nro. Fallecidos,0
+Pando,90502,Villa Nueva (loma Alta),2013,4,Nro. Fallecidos,0
+Cochabamba,30302,Morochata,2013,8,Nro. Fallecidos,0
+Santa Cruz,70703,Cabezas,2013,10,Nro. Fallecidos,0
+Chuquisaca,10405,El Villar,2013,1,TOTAL,64
+La Paz,20101,La Paz,2013,1,TOTAL,4
+Cochabamba,31205,Puerto Villarroel,2013,1,TOTAL,122
+Tarija,60303,Villa Montes,2013,1,TOTAL,16
+Cochabamba,30801,Cliza,2013,2,TOTAL,31
+Cochabamba,31205,Puerto Villarroel,2013,2,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2013,3,TOTAL,30
+Cochabamba,31204,Chimore,2013,3,TOTAL,651
+Pando,90201,Puerto Rico,2013,3,TOTAL,47
+Cochabamba,31205,Puerto Villarroel,2013,3,TOTAL,822
+Beni,80201,Riberalta,2013,3,TOTAL,91
+Pando,90104,Bella Flor,2013,4,TOTAL,74
+Cochabamba,31205,Puerto Villarroel,2013,4,TOTAL,174
+Pando,90502,Villa Nueva (loma Alta),2013,4,TOTAL,101
+Cochabamba,30302,Morochata,2013,8,TOTAL,2
+Santa Cruz,70703,Cabezas,2013,10,TOTAL,51

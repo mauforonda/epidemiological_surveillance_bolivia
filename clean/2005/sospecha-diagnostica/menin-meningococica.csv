@@ -1,0 +1,55 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,2,< de 1 ano,0
+Chuquisaca,10101,Sucre,2005,4,< de 1 ano,2
+Santa Cruz,70103,Porongo,2005,6,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,7,< de 1 ano,1
+Beni,80401,Santa Ana,2005,8,< de 1 ano,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,< de 1 ano,0
+Tarija,60101,Tarija,2005,8,< de 1 ano,0
+Beni,80201,Riberalta,2005,9,< de 1 ano,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,2,1 a 4 anos,0
+Chuquisaca,10101,Sucre,2005,4,1 a 4 anos,1
+Santa Cruz,70103,Porongo,2005,6,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,7,1 a 4 anos,0
+Beni,80401,Santa Ana,2005,8,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,1 a 4 anos,1
+Tarija,60101,Tarija,2005,8,1 a 4 anos,0
+Beni,80201,Riberalta,2005,9,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,2,5 a 14 anos,0
+Chuquisaca,10101,Sucre,2005,4,5 a 14 anos,0
+Santa Cruz,70103,Porongo,2005,6,5 a 14 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,5 a 14 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,7,5 a 14 anos,0
+Beni,80401,Santa Ana,2005,8,5 a 14 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,5 a 14 anos,0
+Tarija,60101,Tarija,2005,8,5 a 14 anos,0
+Beni,80201,Riberalta,2005,9,5 a 14 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,2,15 a 59 anos,3
+Chuquisaca,10101,Sucre,2005,4,15 a 59 anos,0
+Santa Cruz,70103,Porongo,2005,6,15 a 59 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,15 a 59 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,7,15 a 59 anos,0
+Beni,80401,Santa Ana,2005,8,15 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,15 a 59 anos,1
+Tarija,60101,Tarija,2005,8,15 a 59 anos,1
+Beni,80201,Riberalta,2005,9,15 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,2,60 y mas,0
+Chuquisaca,10101,Sucre,2005,4,60 y mas,0
+Santa Cruz,70103,Porongo,2005,6,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,7,60 y mas,0
+Beni,80401,Santa Ana,2005,8,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,60 y mas,0
+Tarija,60101,Tarija,2005,8,60 y mas,1
+Beni,80201,Riberalta,2005,9,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,2,TOTAL,3
+Chuquisaca,10101,Sucre,2005,4,TOTAL,3
+Santa Cruz,70103,Porongo,2005,6,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,7,TOTAL,1
+Beni,80401,Santa Ana,2005,8,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,TOTAL,2
+Tarija,60101,Tarija,2005,8,TOTAL,2
+Beni,80201,Riberalta,2005,9,TOTAL,1

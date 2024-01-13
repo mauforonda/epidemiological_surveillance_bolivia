@@ -1,0 +1,376 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20101,La Paz,2013,1,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,< de 1 ano / MASCULINO,0
+Santa Cruz,70201,Warnes,2013,1,< de 1 ano / MASCULINO,0
+La Paz,20105,El Alto,2013,2,< de 1 ano / MASCULINO,0
+La Paz,20101,La Paz,2013,2,< de 1 ano / MASCULINO,0
+La Paz,20101,La Paz,2013,3,< de 1 ano / MASCULINO,0
+Cochabamba,30801,Cliza,2013,4,< de 1 ano / MASCULINO,0
+La Paz,20101,La Paz,2013,4,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,4,< de 1 ano / MASCULINO,0
+Santa Cruz,71503,El Puente(stc),2013,5,< de 1 ano / MASCULINO,0
+La Paz,20101,La Paz,2013,5,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,< de 1 ano / MASCULINO,0
+Tarija,60202,Bermejo,2013,6,< de 1 ano / MASCULINO,0
+La Paz,20101,La Paz,2013,6,< de 1 ano / MASCULINO,0
+Chuquisaca,10101,Sucre,2013,6,< de 1 ano / MASCULINO,0
+La Paz,20101,La Paz,2013,7,< de 1 ano / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,7,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,< de 1 ano / MASCULINO,0
+Cochabamba,30101,Cochabamba,2013,8,< de 1 ano / MASCULINO,0
+La Paz,20101,La Paz,2013,8,< de 1 ano / MASCULINO,0
+Tarija,60202,Bermejo,2013,9,< de 1 ano / MASCULINO,0
+La Paz,20101,La Paz,2013,9,< de 1 ano / MASCULINO,0
+La Paz,20105,El Alto,2013,10,< de 1 ano / MASCULINO,0
+La Paz,20101,La Paz,2013,10,< de 1 ano / MASCULINO,0
+La Paz,20101,La Paz,2013,11,< de 1 ano / MASCULINO,0
+La Paz,20101,La Paz,2013,1,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,< de 1 ano / FEMENINO,0
+Santa Cruz,70201,Warnes,2013,1,< de 1 ano / FEMENINO,0
+La Paz,20105,El Alto,2013,2,< de 1 ano / FEMENINO,0
+La Paz,20101,La Paz,2013,2,< de 1 ano / FEMENINO,0
+La Paz,20101,La Paz,2013,3,< de 1 ano / FEMENINO,0
+Cochabamba,30801,Cliza,2013,4,< de 1 ano / FEMENINO,0
+La Paz,20101,La Paz,2013,4,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,4,< de 1 ano / FEMENINO,0
+Santa Cruz,71503,El Puente(stc),2013,5,< de 1 ano / FEMENINO,0
+La Paz,20101,La Paz,2013,5,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,< de 1 ano / FEMENINO,0
+Tarija,60202,Bermejo,2013,6,< de 1 ano / FEMENINO,0
+La Paz,20101,La Paz,2013,6,< de 1 ano / FEMENINO,0
+Chuquisaca,10101,Sucre,2013,6,< de 1 ano / FEMENINO,0
+La Paz,20101,La Paz,2013,7,< de 1 ano / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,7,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,< de 1 ano / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,8,< de 1 ano / FEMENINO,0
+La Paz,20101,La Paz,2013,8,< de 1 ano / FEMENINO,0
+Tarija,60202,Bermejo,2013,9,< de 1 ano / FEMENINO,0
+La Paz,20101,La Paz,2013,9,< de 1 ano / FEMENINO,0
+La Paz,20105,El Alto,2013,10,< de 1 ano / FEMENINO,0
+La Paz,20101,La Paz,2013,10,< de 1 ano / FEMENINO,0
+La Paz,20101,La Paz,2013,11,< de 1 ano / FEMENINO,0
+La Paz,20101,La Paz,2013,1,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,1 a 4 anos / MASCULINO,0
+Santa Cruz,70201,Warnes,2013,1,1 a 4 anos / MASCULINO,0
+La Paz,20105,El Alto,2013,2,1 a 4 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,2,1 a 4 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,3,1 a 4 anos / MASCULINO,0
+Cochabamba,30801,Cliza,2013,4,1 a 4 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,4,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,4,1 a 4 anos / MASCULINO,0
+Santa Cruz,71503,El Puente(stc),2013,5,1 a 4 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,5,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,1 a 4 anos / MASCULINO,0
+Tarija,60202,Bermejo,2013,6,1 a 4 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,6,1 a 4 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2013,6,1 a 4 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,7,1 a 4 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,7,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,1 a 4 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2013,8,1 a 4 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,8,1 a 4 anos / MASCULINO,0
+Tarija,60202,Bermejo,2013,9,1 a 4 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,9,1 a 4 anos / MASCULINO,0
+La Paz,20105,El Alto,2013,10,1 a 4 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,10,1 a 4 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,11,1 a 4 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,1,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,1 a 4 anos / FEMENINO,0
+Santa Cruz,70201,Warnes,2013,1,1 a 4 anos / FEMENINO,0
+La Paz,20105,El Alto,2013,2,1 a 4 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,2,1 a 4 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,3,1 a 4 anos / FEMENINO,0
+Cochabamba,30801,Cliza,2013,4,1 a 4 anos / FEMENINO,1
+La Paz,20101,La Paz,2013,4,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,4,1 a 4 anos / FEMENINO,0
+Santa Cruz,71503,El Puente(stc),2013,5,1 a 4 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,5,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,1 a 4 anos / FEMENINO,0
+Tarija,60202,Bermejo,2013,6,1 a 4 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,6,1 a 4 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2013,6,1 a 4 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,7,1 a 4 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,7,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,1 a 4 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,8,1 a 4 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,8,1 a 4 anos / FEMENINO,0
+Tarija,60202,Bermejo,2013,9,1 a 4 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,9,1 a 4 anos / FEMENINO,0
+La Paz,20105,El Alto,2013,10,1 a 4 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,10,1 a 4 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,11,1 a 4 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,1,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,5 a 9 anos / MASCULINO,0
+Santa Cruz,70201,Warnes,2013,1,5 a 9 anos / MASCULINO,0
+La Paz,20105,El Alto,2013,2,5 a 9 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,2,5 a 9 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,3,5 a 9 anos / MASCULINO,0
+Cochabamba,30801,Cliza,2013,4,5 a 9 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,4,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,4,5 a 9 anos / MASCULINO,0
+Santa Cruz,71503,El Puente(stc),2013,5,5 a 9 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,5,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,5 a 9 anos / MASCULINO,0
+Tarija,60202,Bermejo,2013,6,5 a 9 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,6,5 a 9 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2013,6,5 a 9 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,7,5 a 9 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,7,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,5 a 9 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2013,8,5 a 9 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,8,5 a 9 anos / MASCULINO,0
+Tarija,60202,Bermejo,2013,9,5 a 9 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,9,5 a 9 anos / MASCULINO,0
+La Paz,20105,El Alto,2013,10,5 a 9 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,10,5 a 9 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,11,5 a 9 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,1,5 a 9 anos / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,5 a 9 anos / FEMENINO,0
+Santa Cruz,70201,Warnes,2013,1,5 a 9 anos / FEMENINO,0
+La Paz,20105,El Alto,2013,2,5 a 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,2,5 a 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,3,5 a 9 anos / FEMENINO,0
+Cochabamba,30801,Cliza,2013,4,5 a 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,4,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,4,5 a 9 anos / FEMENINO,0
+Santa Cruz,71503,El Puente(stc),2013,5,5 a 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,5,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,5 a 9 anos / FEMENINO,0
+Tarija,60202,Bermejo,2013,6,5 a 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,6,5 a 9 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2013,6,5 a 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,7,5 a 9 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,7,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,5 a 9 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,8,5 a 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,8,5 a 9 anos / FEMENINO,0
+Tarija,60202,Bermejo,2013,9,5 a 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,9,5 a 9 anos / FEMENINO,0
+La Paz,20105,El Alto,2013,10,5 a 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,10,5 a 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,11,5 a 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,1,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,10 a 20 anos / MASCULINO,0
+Santa Cruz,70201,Warnes,2013,1,10 a 20 anos / MASCULINO,1
+La Paz,20105,El Alto,2013,2,10 a 20 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,2,10 a 20 anos / MASCULINO,1
+La Paz,20101,La Paz,2013,3,10 a 20 anos / MASCULINO,0
+Cochabamba,30801,Cliza,2013,4,10 a 20 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,4,10 a 20 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,4,10 a 20 anos / MASCULINO,0
+Santa Cruz,71503,El Puente(stc),2013,5,10 a 20 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,5,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,10 a 20 anos / MASCULINO,0
+Tarija,60202,Bermejo,2013,6,10 a 20 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,6,10 a 20 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2013,6,10 a 20 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,7,10 a 20 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2013,7,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,10 a 20 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2013,8,10 a 20 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,8,10 a 20 anos / MASCULINO,0
+Tarija,60202,Bermejo,2013,9,10 a 20 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,9,10 a 20 anos / MASCULINO,1
+La Paz,20105,El Alto,2013,10,10 a 20 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,10,10 a 20 anos / MASCULINO,1
+La Paz,20101,La Paz,2013,11,10 a 20 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,1,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,10 a 20 anos / FEMENINO,0
+Santa Cruz,70201,Warnes,2013,1,10 a 20 anos / FEMENINO,0
+La Paz,20105,El Alto,2013,2,10 a 20 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,2,10 a 20 anos / FEMENINO,2
+La Paz,20101,La Paz,2013,3,10 a 20 anos / FEMENINO,0
+Cochabamba,30801,Cliza,2013,4,10 a 20 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,4,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,4,10 a 20 anos / FEMENINO,1
+Santa Cruz,71503,El Puente(stc),2013,5,10 a 20 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,5,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,10 a 20 anos / FEMENINO,0
+Tarija,60202,Bermejo,2013,6,10 a 20 anos / FEMENINO,1
+La Paz,20101,La Paz,2013,6,10 a 20 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2013,6,10 a 20 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,7,10 a 20 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,7,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,10 a 20 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,8,10 a 20 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,8,10 a 20 anos / FEMENINO,0
+Tarija,60202,Bermejo,2013,9,10 a 20 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,9,10 a 20 anos / FEMENINO,0
+La Paz,20105,El Alto,2013,10,10 a 20 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,10,10 a 20 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,11,10 a 20 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,1,21 a 59 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,21 a 59 anos / MASCULINO,0
+Santa Cruz,70201,Warnes,2013,1,21 a 59 anos / MASCULINO,0
+La Paz,20105,El Alto,2013,2,21 a 59 anos / MASCULINO,1
+La Paz,20101,La Paz,2013,2,21 a 59 anos / MASCULINO,3
+La Paz,20101,La Paz,2013,3,21 a 59 anos / MASCULINO,1
+Cochabamba,30801,Cliza,2013,4,21 a 59 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,4,21 a 59 anos / MASCULINO,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,4,21 a 59 anos / MASCULINO,0
+Santa Cruz,71503,El Puente(stc),2013,5,21 a 59 anos / MASCULINO,1
+La Paz,20101,La Paz,2013,5,21 a 59 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,21 a 59 anos / MASCULINO,0
+Tarija,60202,Bermejo,2013,6,21 a 59 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,6,21 a 59 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2013,6,21 a 59 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,7,21 a 59 anos / MASCULINO,4
+Chuquisaca,10501,Monteagudo,2013,7,21 a 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,21 a 59 anos / MASCULINO,1
+Cochabamba,30101,Cochabamba,2013,8,21 a 59 anos / MASCULINO,5
+La Paz,20101,La Paz,2013,8,21 a 59 anos / MASCULINO,1
+Tarija,60202,Bermejo,2013,9,21 a 59 anos / MASCULINO,1
+La Paz,20101,La Paz,2013,9,21 a 59 anos / MASCULINO,0
+La Paz,20105,El Alto,2013,10,21 a 59 anos / MASCULINO,1
+La Paz,20101,La Paz,2013,10,21 a 59 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,11,21 a 59 anos / MASCULINO,0
+La Paz,20101,La Paz,2013,1,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,21 a 59 anos / FEMENINO,1
+Santa Cruz,70201,Warnes,2013,1,21 a 59 anos / FEMENINO,0
+La Paz,20105,El Alto,2013,2,21 a 59 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,2,21 a 59 anos / FEMENINO,4
+La Paz,20101,La Paz,2013,3,21 a 59 anos / FEMENINO,1
+Cochabamba,30801,Cliza,2013,4,21 a 59 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,4,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,4,21 a 59 anos / FEMENINO,0
+Santa Cruz,71503,El Puente(stc),2013,5,21 a 59 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,5,21 a 59 anos / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,21 a 59 anos / FEMENINO,1
+Tarija,60202,Bermejo,2013,6,21 a 59 anos / FEMENINO,1
+La Paz,20101,La Paz,2013,6,21 a 59 anos / FEMENINO,1
+Chuquisaca,10101,Sucre,2013,6,21 a 59 anos / FEMENINO,1
+La Paz,20101,La Paz,2013,7,21 a 59 anos / FEMENINO,1
+Chuquisaca,10501,Monteagudo,2013,7,21 a 59 anos / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,21 a 59 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,8,21 a 59 anos / FEMENINO,2
+La Paz,20101,La Paz,2013,8,21 a 59 anos / FEMENINO,1
+Tarija,60202,Bermejo,2013,9,21 a 59 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,9,21 a 59 anos / FEMENINO,1
+La Paz,20105,El Alto,2013,10,21 a 59 anos / FEMENINO,0
+La Paz,20101,La Paz,2013,10,21 a 59 anos / FEMENINO,3
+La Paz,20101,La Paz,2013,11,21 a 59 anos / FEMENINO,1
+La Paz,20101,La Paz,2013,1,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,60 y mas / MASCULINO,0
+Santa Cruz,70201,Warnes,2013,1,60 y mas / MASCULINO,0
+La Paz,20105,El Alto,2013,2,60 y mas / MASCULINO,0
+La Paz,20101,La Paz,2013,2,60 y mas / MASCULINO,2
+La Paz,20101,La Paz,2013,3,60 y mas / MASCULINO,1
+Cochabamba,30801,Cliza,2013,4,60 y mas / MASCULINO,0
+La Paz,20101,La Paz,2013,4,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,4,60 y mas / MASCULINO,0
+Santa Cruz,71503,El Puente(stc),2013,5,60 y mas / MASCULINO,0
+La Paz,20101,La Paz,2013,5,60 y mas / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,60 y mas / MASCULINO,0
+Tarija,60202,Bermejo,2013,6,60 y mas / MASCULINO,0
+La Paz,20101,La Paz,2013,6,60 y mas / MASCULINO,0
+Chuquisaca,10101,Sucre,2013,6,60 y mas / MASCULINO,0
+La Paz,20101,La Paz,2013,7,60 y mas / MASCULINO,1
+Chuquisaca,10501,Monteagudo,2013,7,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,60 y mas / MASCULINO,0
+Cochabamba,30101,Cochabamba,2013,8,60 y mas / MASCULINO,0
+La Paz,20101,La Paz,2013,8,60 y mas / MASCULINO,1
+Tarija,60202,Bermejo,2013,9,60 y mas / MASCULINO,0
+La Paz,20101,La Paz,2013,9,60 y mas / MASCULINO,0
+La Paz,20105,El Alto,2013,10,60 y mas / MASCULINO,0
+La Paz,20101,La Paz,2013,10,60 y mas / MASCULINO,0
+La Paz,20101,La Paz,2013,11,60 y mas / MASCULINO,0
+La Paz,20101,La Paz,2013,1,60 y mas / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,60 y mas / FEMENINO,0
+Santa Cruz,70201,Warnes,2013,1,60 y mas / FEMENINO,0
+La Paz,20105,El Alto,2013,2,60 y mas / FEMENINO,0
+La Paz,20101,La Paz,2013,2,60 y mas / FEMENINO,0
+La Paz,20101,La Paz,2013,3,60 y mas / FEMENINO,0
+Cochabamba,30801,Cliza,2013,4,60 y mas / FEMENINO,0
+La Paz,20101,La Paz,2013,4,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,4,60 y mas / FEMENINO,0
+Santa Cruz,71503,El Puente(stc),2013,5,60 y mas / FEMENINO,0
+La Paz,20101,La Paz,2013,5,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,60 y mas / FEMENINO,0
+Tarija,60202,Bermejo,2013,6,60 y mas / FEMENINO,0
+La Paz,20101,La Paz,2013,6,60 y mas / FEMENINO,0
+Chuquisaca,10101,Sucre,2013,6,60 y mas / FEMENINO,0
+La Paz,20101,La Paz,2013,7,60 y mas / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2013,7,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,60 y mas / FEMENINO,0
+Cochabamba,30101,Cochabamba,2013,8,60 y mas / FEMENINO,0
+La Paz,20101,La Paz,2013,8,60 y mas / FEMENINO,0
+Tarija,60202,Bermejo,2013,9,60 y mas / FEMENINO,0
+La Paz,20101,La Paz,2013,9,60 y mas / FEMENINO,1
+La Paz,20105,El Alto,2013,10,60 y mas / FEMENINO,0
+La Paz,20101,La Paz,2013,10,60 y mas / FEMENINO,0
+La Paz,20101,La Paz,2013,11,60 y mas / FEMENINO,0
+La Paz,20101,La Paz,2013,1,TOTALES / TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,TOTALES / TOTAL-M,0
+Santa Cruz,70201,Warnes,2013,1,TOTALES / TOTAL-M,1
+La Paz,20105,El Alto,2013,2,TOTALES / TOTAL-M,1
+La Paz,20101,La Paz,2013,2,TOTALES / TOTAL-M,6
+La Paz,20101,La Paz,2013,3,TOTALES / TOTAL-M,2
+Cochabamba,30801,Cliza,2013,4,TOTALES / TOTAL-M,0
+La Paz,20101,La Paz,2013,4,TOTALES / TOTAL-M,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,4,TOTALES / TOTAL-M,0
+Santa Cruz,71503,El Puente(stc),2013,5,TOTALES / TOTAL-M,1
+La Paz,20101,La Paz,2013,5,TOTALES / TOTAL-M,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,TOTALES / TOTAL-M,0
+Tarija,60202,Bermejo,2013,6,TOTALES / TOTAL-M,0
+La Paz,20101,La Paz,2013,6,TOTALES / TOTAL-M,0
+Chuquisaca,10101,Sucre,2013,6,TOTALES / TOTAL-M,0
+La Paz,20101,La Paz,2013,7,TOTALES / TOTAL-M,5
+Chuquisaca,10501,Monteagudo,2013,7,TOTALES / TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,TOTALES / TOTAL-M,1
+Cochabamba,30101,Cochabamba,2013,8,TOTALES / TOTAL-M,5
+La Paz,20101,La Paz,2013,8,TOTALES / TOTAL-M,2
+Tarija,60202,Bermejo,2013,9,TOTALES / TOTAL-M,1
+La Paz,20101,La Paz,2013,9,TOTALES / TOTAL-M,1
+La Paz,20105,El Alto,2013,10,TOTALES / TOTAL-M,1
+La Paz,20101,La Paz,2013,10,TOTALES / TOTAL-M,1
+La Paz,20101,La Paz,2013,11,TOTALES / TOTAL-M,0
+La Paz,20101,La Paz,2013,1,TOTALES / TOTAL-F,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,TOTALES / TOTAL-F,1
+Santa Cruz,70201,Warnes,2013,1,TOTALES / TOTAL-F,0
+La Paz,20105,El Alto,2013,2,TOTALES / TOTAL-F,0
+La Paz,20101,La Paz,2013,2,TOTALES / TOTAL-F,6
+La Paz,20101,La Paz,2013,3,TOTALES / TOTAL-F,1
+Cochabamba,30801,Cliza,2013,4,TOTALES / TOTAL-F,1
+La Paz,20101,La Paz,2013,4,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,4,TOTALES / TOTAL-F,1
+Santa Cruz,71503,El Puente(stc),2013,5,TOTALES / TOTAL-F,0
+La Paz,20101,La Paz,2013,5,TOTALES / TOTAL-F,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,TOTALES / TOTAL-F,1
+Tarija,60202,Bermejo,2013,6,TOTALES / TOTAL-F,2
+La Paz,20101,La Paz,2013,6,TOTALES / TOTAL-F,1
+Chuquisaca,10101,Sucre,2013,6,TOTALES / TOTAL-F,1
+La Paz,20101,La Paz,2013,7,TOTALES / TOTAL-F,1
+Chuquisaca,10501,Monteagudo,2013,7,TOTALES / TOTAL-F,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,TOTALES / TOTAL-F,0
+Cochabamba,30101,Cochabamba,2013,8,TOTALES / TOTAL-F,2
+La Paz,20101,La Paz,2013,8,TOTALES / TOTAL-F,1
+Tarija,60202,Bermejo,2013,9,TOTALES / TOTAL-F,0
+La Paz,20101,La Paz,2013,9,TOTALES / TOTAL-F,2
+La Paz,20105,El Alto,2013,10,TOTALES / TOTAL-F,0
+La Paz,20101,La Paz,2013,10,TOTALES / TOTAL-F,3
+La Paz,20101,La Paz,2013,11,TOTALES / TOTAL-F,1
+La Paz,20101,La Paz,2013,1,TOTALES / TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,TOTALES / TOTAL,1
+Santa Cruz,70201,Warnes,2013,1,TOTALES / TOTAL,1
+La Paz,20105,El Alto,2013,2,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2013,2,TOTALES / TOTAL,12
+La Paz,20101,La Paz,2013,3,TOTALES / TOTAL,3
+Cochabamba,30801,Cliza,2013,4,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2013,4,TOTALES / TOTAL,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,4,TOTALES / TOTAL,1
+Santa Cruz,71503,El Puente(stc),2013,5,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2013,5,TOTALES / TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,TOTALES / TOTAL,1
+Tarija,60202,Bermejo,2013,6,TOTALES / TOTAL,2
+La Paz,20101,La Paz,2013,6,TOTALES / TOTAL,1
+Chuquisaca,10101,Sucre,2013,6,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2013,7,TOTALES / TOTAL,6
+Chuquisaca,10501,Monteagudo,2013,7,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2013,8,TOTALES / TOTAL,7
+La Paz,20101,La Paz,2013,8,TOTALES / TOTAL,3
+Tarija,60202,Bermejo,2013,9,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2013,9,TOTALES / TOTAL,3
+La Paz,20105,El Alto,2013,10,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2013,10,TOTALES / TOTAL,4
+La Paz,20101,La Paz,2013,11,TOTALES / TOTAL,1

@@ -1,0 +1,102 @@
+department,municipality_id,municipality,year,month,population,value
+Chuquisaca,10701,Camargo,2018,1,TOTAL,71
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2018,1,TOTAL,61
+Chuquisaca,10304,Icla,2018,1,TOTAL,185
+Chuquisaca,10903,Las Carreras,2018,1,TOTAL,281
+Chuquisaca,10702,San Lucas,2018,1,TOTAL,65
+La Paz,20803,Tiawanacu,2018,1,TOTAL,1
+Potosí,50102,Tinguipaya,2018,1,TOTAL,2
+Chuquisaca,10402,Tomina,2018,1,TOTAL,4
+Chuquisaca,10704,Villa Charcas,2018,1,TOTAL,257
+Chuquisaca,10301,Zudañez,2018,1,TOTAL,220
+Chuquisaca,10404,Alcala,2018,2,TOTAL,565
+La Paz,21304,Calamarca,2018,2,TOTAL,102
+La Paz,20302,Caquiaviri,2018,2,TOTAL,737
+La Paz,20304,Comanche,2018,2,TOTAL,86
+La Paz,20301,Coro Coro,2018,2,TOTAL,153
+La Paz,20806,Jesus De Machaca,2018,2,TOTAL,1159
+Chuquisaca,10501,Monteagudo,2018,2,TOTAL,81
+La Paz,20307,Nazacara De Pacajes,2018,2,TOTAL,21
+Potosí,50403,Pocoata,2018,2,TOTAL,1
+La Paz,21901,Santiago De Machaca,2018,2,TOTAL,51
+Chuquisaca,10403,Sopachuy,2018,2,TOTAL,7
+Chuquisaca,10101,Sucre,2018,2,TOTAL,6
+La Paz,20807,Taraco,2018,2,TOTAL,2
+Chuquisaca,10704,Villa Charcas,2018,2,TOTAL,125
+Chuquisaca,10801,Villa Serrano,2018,2,TOTAL,3
+Potosí,51501,Villazon,2018,2,TOTAL,205
+Chuquisaca,10102,Yotala,2018,2,TOTAL,61
+Chuquisaca,10301,Zudañez,2018,2,TOTAL,197
+Chuquisaca,10404,Alcala,2018,3,TOTAL,1
+Cochabamba,30601,Arque,2018,3,TOTAL,92
+Potosí,50301,Betanzos,2018,3,TOTAL,26
+Potosí,51102,"Caiza ""d""",2018,3,TOTAL,157
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2018,3,TOTAL,141
+Chuquisaca,10103,Poroma,2018,3,TOTAL,52
+Chuquisaca,10702,San Lucas,2018,3,TOTAL,145
+Chuquisaca,10601,Tarabuco,2018,3,TOTAL,142
+Beni,80101,Trinidad,2018,3,TOTAL,1
+Potosí,50301,Betanzos,2018,4,TOTAL,174
+Potosí,51103,Ckochas,2018,4,TOTAL,35
+Potosí,51501,Villazon,2018,4,TOTAL,43
+Chuquisaca,10103,Poroma,2018,5,TOTAL,31
+Chuquisaca,10702,San Lucas,2018,5,TOTAL,75
+Oruro,40401,Curahuara De Carangas,2018,6,TOTAL,1
+Santa Cruz,70805,Pucara,2018,6,TOTAL,1
+Potosí,50802,Atocha,2018,7,TOTAL,4
+Santa Cruz,71301,Comarapa,2018,7,TOTAL,169
+Oruro,40401,Curahuara De Carangas,2018,7,TOTAL,30
+Santa Cruz,70701,Lagunillas,2018,7,TOTAL,501
+Santa Cruz,70903,Mairana,2018,7,TOTAL,181
+Santa Cruz,70803,Moro Moro,2018,7,TOTAL,1
+Santa Cruz,70902,Pampa Grande,2018,7,TOTAL,150
+Santa Cruz,70805,Pucara,2018,7,TOTAL,3
+La Paz,21002,Quime,2018,7,TOTAL,2
+Oruro,41301,Totora(orr),2018,7,TOTAL,1
+Santa Cruz,70802,Trigal,2018,7,TOTAL,51
+Chuquisaca,10404,Alcala,2018,8,TOTAL,1
+Cochabamba,30402,Anzaldo,2018,8,TOTAL,1
+Potosí,51102,"Caiza ""d""",2018,8,TOTAL,1
+Chuquisaca,10304,Icla,2018,8,TOTAL,33
+La Paz,20806,Jesus De Machaca,2018,8,TOTAL,1
+Santa Cruz,70902,Pampa Grande,2018,8,TOTAL,81
+Cochabamba,31202,Pojo (cbba),2018,8,TOTAL,1
+Chuquisaca,10202,Tarvita,2018,8,TOTAL,1
+Potosí,50102,Tinguipaya,2018,8,TOTAL,163
+Santa Cruz,70802,Trigal,2018,8,TOTAL,51
+Santa Cruz,70801,Vallegrande,2018,8,TOTAL,1
+Cochabamba,31302,Vila Vila,2018,8,TOTAL,501
+Chuquisaca,10701,Camargo,2018,9,TOTAL,37
+Santa Cruz,70701,Lagunillas,2018,9,TOTAL,206
+Chuquisaca,10501,Monteagudo,2018,9,TOTAL,90
+Chuquisaca,10401,Padilla,2018,9,TOTAL,223
+Santa Cruz,70902,Pampa Grande,2018,9,TOTAL,102
+Santa Cruz,70805,Pucara,2018,9,TOTAL,2
+Chuquisaca,10403,Sopachuy,2018,9,TOTAL,108
+Tarija,60101,Tarija,2018,9,TOTAL,102
+Chuquisaca,10202,Tarvita,2018,9,TOTAL,1
+Chuquisaca,10402,Tomina,2018,9,TOTAL,107
+Chuquisaca,10301,Zudañez,2018,9,TOTAL,53
+La Paz,20201,Achacachi,2018,10,TOTAL,101
+Cochabamba,31303,Alalay,2018,10,TOTAL,31
+Chuquisaca,10701,Camargo,2018,10,TOTAL,455
+Tarija,60302,Carapari,2018,10,TOTAL,19
+Santa Cruz,70805,Pucara,2018,10,TOTAL,1
+Chuquisaca,10702,San Lucas,2018,10,TOTAL,26
+Potosí,51501,Villazon,2018,10,TOTAL,9
+Chuquisaca,10301,Zudañez,2018,10,TOTAL,236
+La Paz,20201,Achacachi,2018,11,TOTAL,16
+Potosí,51103,Ckochas,2018,11,TOTAL,103
+Chuquisaca,10304,Icla,2018,11,TOTAL,39
+Chuquisaca,10303,Mojocoya,2018,11,TOTAL,54
+Chuquisaca,10702,San Lucas,2018,11,TOTAL,41
+Oruro,41301,Totora(orr),2018,11,TOTAL,6
+Potosí,50602,Vitichi,2018,11,TOTAL,34
+Cochabamba,30601,Arque,2018,12,TOTAL,71
+Potosí,50901,"Colcha ""k""",2018,12,TOTAL,10
+Potosí,50601,Cotagaita,2018,12,TOTAL,101
+Chuquisaca,10902,Culpina,2018,12,TOTAL,21
+Chuquisaca,10702,San Lucas,2018,12,TOTAL,1731
+Chuquisaca,10101,Sucre,2018,12,TOTAL,1
+Potosí,50102,Tinguipaya,2018,12,TOTAL,201
+Potosí,51501,Villazon,2018,12,TOTAL,373

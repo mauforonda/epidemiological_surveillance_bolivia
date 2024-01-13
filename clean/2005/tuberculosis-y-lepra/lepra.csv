@@ -1,0 +1,417 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70703,Cabezas,2005,1,< de 1 ano-H,0.0
+Santa Cruz,70105,El Torno,2005,1,< de 1 ano-H,0.0
+Chuquisaca,10501,Monteagudo,2005,1,< de 1 ano-H,0.0
+Beni,80501,San Ignacio,2005,1,< de 1 ano-H,0.0
+Santa Cruz,70105,El Torno,2005,2,< de 1 ano-H,0.0
+Pando,90101,Cobija,2005,3,< de 1 ano-H,0.0
+Santa Cruz,70105,El Torno,2005,3,< de 1 ano-H,0.0
+Tarija,60601,Entre Rios,2005,3,< de 1 ano-H,0.0
+Chuquisaca,10501,Monteagudo,2005,3,< de 1 ano-H,0.0
+Cochabamba,30903,Tiquipaya,2005,3,< de 1 ano-H,0.0
+Santa Cruz,70701,Lagunillas,2005,4,< de 1 ano-H,0.0
+Chuquisaca,10501,Monteagudo,2005,4,< de 1 ano-H,0.0
+Santa Cruz,70105,El Torno,2005,5,< de 1 ano-H,0.0
+Chuquisaca,10501,Monteagudo,2005,5,< de 1 ano-H,0.0
+Beni,80201,Riberalta,2005,5,< de 1 ano-H,0.0
+Santa Cruz,70105,El Torno,2005,6,< de 1 ano-H,0.0
+Chuquisaca,10501,Monteagudo,2005,6,< de 1 ano-H,0.0
+Tarija,60101,Tarija,2005,6,< de 1 ano-H,0.0
+Santa Cruz,70801,Vallegrande,2005,6,< de 1 ano-H,0.0
+Tarija,60302,Carapari,2005,7,< de 1 ano-H,0.0
+Santa Cruz,70105,El Torno,2005,7,< de 1 ano-H,0.0
+Chuquisaca,10501,Monteagudo,2005,7,< de 1 ano-H,0.0
+Santa Cruz,70503,Robore,2005,7,< de 1 ano-H,0.0
+Santa Cruz,70105,El Torno,2005,8,< de 1 ano-H,0.0
+Chuquisaca,10501,Monteagudo,2005,8,< de 1 ano-H,0.0
+Tarija,60303,Villa Montes,2005,8,< de 1 ano-H,0.0
+Santa Cruz,70105,El Torno,2005,9,< de 1 ano-H,0.0
+Chuquisaca,10501,Monteagudo,2005,9,< de 1 ano-H,0.0
+Santa Cruz,70701,Lagunillas,2005,10,< de 1 ano-H,0.0
+Chuquisaca,10301,Zudañez,2005,10,< de 1 ano-H,0.0
+Santa Cruz,70601,Portachuelo,2005,12,< de 1 ano-H,0.0
+Beni,80201,Riberalta,2005,12,< de 1 ano-H,0.0
+Santa Cruz,70703,Cabezas,2005,1,< de 1 ano-M,0.0
+Santa Cruz,70105,El Torno,2005,1,< de 1 ano-M,0.0
+Chuquisaca,10501,Monteagudo,2005,1,< de 1 ano-M,0.0
+Beni,80501,San Ignacio,2005,1,< de 1 ano-M,0.0
+Santa Cruz,70105,El Torno,2005,2,< de 1 ano-M,0.0
+Pando,90101,Cobija,2005,3,< de 1 ano-M,0.0
+Santa Cruz,70105,El Torno,2005,3,< de 1 ano-M,0.0
+Tarija,60601,Entre Rios,2005,3,< de 1 ano-M,0.0
+Chuquisaca,10501,Monteagudo,2005,3,< de 1 ano-M,0.0
+Cochabamba,30903,Tiquipaya,2005,3,< de 1 ano-M,0.0
+Santa Cruz,70701,Lagunillas,2005,4,< de 1 ano-M,0.0
+Chuquisaca,10501,Monteagudo,2005,4,< de 1 ano-M,0.0
+Santa Cruz,70105,El Torno,2005,5,< de 1 ano-M,0.0
+Chuquisaca,10501,Monteagudo,2005,5,< de 1 ano-M,0.0
+Beni,80201,Riberalta,2005,5,< de 1 ano-M,0.0
+Santa Cruz,70105,El Torno,2005,6,< de 1 ano-M,0.0
+Chuquisaca,10501,Monteagudo,2005,6,< de 1 ano-M,0.0
+Tarija,60101,Tarija,2005,6,< de 1 ano-M,0.0
+Santa Cruz,70801,Vallegrande,2005,6,< de 1 ano-M,0.0
+Tarija,60302,Carapari,2005,7,< de 1 ano-M,0.0
+Santa Cruz,70105,El Torno,2005,7,< de 1 ano-M,0.0
+Chuquisaca,10501,Monteagudo,2005,7,< de 1 ano-M,0.0
+Santa Cruz,70503,Robore,2005,7,< de 1 ano-M,0.0
+Santa Cruz,70105,El Torno,2005,8,< de 1 ano-M,0.0
+Chuquisaca,10501,Monteagudo,2005,8,< de 1 ano-M,0.0
+Tarija,60303,Villa Montes,2005,8,< de 1 ano-M,0.0
+Santa Cruz,70105,El Torno,2005,9,< de 1 ano-M,0.0
+Chuquisaca,10501,Monteagudo,2005,9,< de 1 ano-M,0.0
+Santa Cruz,70701,Lagunillas,2005,10,< de 1 ano-M,0.0
+Chuquisaca,10301,Zudañez,2005,10,< de 1 ano-M,0.0
+Santa Cruz,70601,Portachuelo,2005,12,< de 1 ano-M,0.0
+Beni,80201,Riberalta,2005,12,< de 1 ano-M,0.0
+Santa Cruz,70703,Cabezas,2005,1,1 a 4 anos-H,0.0
+Santa Cruz,70105,El Torno,2005,1,1 a 4 anos-H,0.0
+Chuquisaca,10501,Monteagudo,2005,1,1 a 4 anos-H,0.0
+Beni,80501,San Ignacio,2005,1,1 a 4 anos-H,1.0
+Santa Cruz,70105,El Torno,2005,2,1 a 4 anos-H,0.0
+Pando,90101,Cobija,2005,3,1 a 4 anos-H,0.0
+Santa Cruz,70105,El Torno,2005,3,1 a 4 anos-H,0.0
+Tarija,60601,Entre Rios,2005,3,1 a 4 anos-H,1.0
+Chuquisaca,10501,Monteagudo,2005,3,1 a 4 anos-H,0.0
+Cochabamba,30903,Tiquipaya,2005,3,1 a 4 anos-H,0.0
+Santa Cruz,70701,Lagunillas,2005,4,1 a 4 anos-H,0.0
+Chuquisaca,10501,Monteagudo,2005,4,1 a 4 anos-H,0.0
+Santa Cruz,70105,El Torno,2005,5,1 a 4 anos-H,0.0
+Chuquisaca,10501,Monteagudo,2005,5,1 a 4 anos-H,0.0
+Beni,80201,Riberalta,2005,5,1 a 4 anos-H,0.0
+Santa Cruz,70105,El Torno,2005,6,1 a 4 anos-H,0.0
+Chuquisaca,10501,Monteagudo,2005,6,1 a 4 anos-H,0.0
+Tarija,60101,Tarija,2005,6,1 a 4 anos-H,0.0
+Santa Cruz,70801,Vallegrande,2005,6,1 a 4 anos-H,0.0
+Tarija,60302,Carapari,2005,7,1 a 4 anos-H,0.0
+Santa Cruz,70105,El Torno,2005,7,1 a 4 anos-H,0.0
+Chuquisaca,10501,Monteagudo,2005,7,1 a 4 anos-H,0.0
+Santa Cruz,70503,Robore,2005,7,1 a 4 anos-H,0.0
+Santa Cruz,70105,El Torno,2005,8,1 a 4 anos-H,0.0
+Chuquisaca,10501,Monteagudo,2005,8,1 a 4 anos-H,0.0
+Tarija,60303,Villa Montes,2005,8,1 a 4 anos-H,0.0
+Santa Cruz,70105,El Torno,2005,9,1 a 4 anos-H,0.0
+Chuquisaca,10501,Monteagudo,2005,9,1 a 4 anos-H,0.0
+Santa Cruz,70701,Lagunillas,2005,10,1 a 4 anos-H,0.0
+Chuquisaca,10301,Zudañez,2005,10,1 a 4 anos-H,0.0
+Santa Cruz,70601,Portachuelo,2005,12,1 a 4 anos-H,0.0
+Beni,80201,Riberalta,2005,12,1 a 4 anos-H,0.0
+Santa Cruz,70703,Cabezas,2005,1,1 a 4 anos-M,0.0
+Santa Cruz,70105,El Torno,2005,1,1 a 4 anos-M,0.0
+Chuquisaca,10501,Monteagudo,2005,1,1 a 4 anos-M,0.0
+Beni,80501,San Ignacio,2005,1,1 a 4 anos-M,0.0
+Santa Cruz,70105,El Torno,2005,2,1 a 4 anos-M,0.0
+Pando,90101,Cobija,2005,3,1 a 4 anos-M,0.0
+Santa Cruz,70105,El Torno,2005,3,1 a 4 anos-M,0.0
+Tarija,60601,Entre Rios,2005,3,1 a 4 anos-M,
+Chuquisaca,10501,Monteagudo,2005,3,1 a 4 anos-M,0.0
+Cochabamba,30903,Tiquipaya,2005,3,1 a 4 anos-M,0.0
+Santa Cruz,70701,Lagunillas,2005,4,1 a 4 anos-M,0.0
+Chuquisaca,10501,Monteagudo,2005,4,1 a 4 anos-M,0.0
+Santa Cruz,70105,El Torno,2005,5,1 a 4 anos-M,0.0
+Chuquisaca,10501,Monteagudo,2005,5,1 a 4 anos-M,0.0
+Beni,80201,Riberalta,2005,5,1 a 4 anos-M,0.0
+Santa Cruz,70105,El Torno,2005,6,1 a 4 anos-M,0.0
+Chuquisaca,10501,Monteagudo,2005,6,1 a 4 anos-M,0.0
+Tarija,60101,Tarija,2005,6,1 a 4 anos-M,0.0
+Santa Cruz,70801,Vallegrande,2005,6,1 a 4 anos-M,0.0
+Tarija,60302,Carapari,2005,7,1 a 4 anos-M,0.0
+Santa Cruz,70105,El Torno,2005,7,1 a 4 anos-M,0.0
+Chuquisaca,10501,Monteagudo,2005,7,1 a 4 anos-M,0.0
+Santa Cruz,70503,Robore,2005,7,1 a 4 anos-M,0.0
+Santa Cruz,70105,El Torno,2005,8,1 a 4 anos-M,0.0
+Chuquisaca,10501,Monteagudo,2005,8,1 a 4 anos-M,0.0
+Tarija,60303,Villa Montes,2005,8,1 a 4 anos-M,0.0
+Santa Cruz,70105,El Torno,2005,9,1 a 4 anos-M,0.0
+Chuquisaca,10501,Monteagudo,2005,9,1 a 4 anos-M,0.0
+Santa Cruz,70701,Lagunillas,2005,10,1 a 4 anos-M,0.0
+Chuquisaca,10301,Zudañez,2005,10,1 a 4 anos-M,0.0
+Santa Cruz,70601,Portachuelo,2005,12,1 a 4 anos-M,0.0
+Beni,80201,Riberalta,2005,12,1 a 4 anos-M,0.0
+Santa Cruz,70703,Cabezas,2005,1,5 a 14 anos-H,0.0
+Santa Cruz,70105,El Torno,2005,1,5 a 14 anos-H,0.0
+Chuquisaca,10501,Monteagudo,2005,1,5 a 14 anos-H,0.0
+Beni,80501,San Ignacio,2005,1,5 a 14 anos-H,0.0
+Santa Cruz,70105,El Torno,2005,2,5 a 14 anos-H,0.0
+Pando,90101,Cobija,2005,3,5 a 14 anos-H,0.0
+Santa Cruz,70105,El Torno,2005,3,5 a 14 anos-H,0.0
+Tarija,60601,Entre Rios,2005,3,5 a 14 anos-H,0.0
+Chuquisaca,10501,Monteagudo,2005,3,5 a 14 anos-H,1.0
+Cochabamba,30903,Tiquipaya,2005,3,5 a 14 anos-H,0.0
+Santa Cruz,70701,Lagunillas,2005,4,5 a 14 anos-H,0.0
+Chuquisaca,10501,Monteagudo,2005,4,5 a 14 anos-H,0.0
+Santa Cruz,70105,El Torno,2005,5,5 a 14 anos-H,0.0
+Chuquisaca,10501,Monteagudo,2005,5,5 a 14 anos-H,0.0
+Beni,80201,Riberalta,2005,5,5 a 14 anos-H,0.0
+Santa Cruz,70105,El Torno,2005,6,5 a 14 anos-H,0.0
+Chuquisaca,10501,Monteagudo,2005,6,5 a 14 anos-H,1.0
+Tarija,60101,Tarija,2005,6,5 a 14 anos-H,0.0
+Santa Cruz,70801,Vallegrande,2005,6,5 a 14 anos-H,0.0
+Tarija,60302,Carapari,2005,7,5 a 14 anos-H,0.0
+Santa Cruz,70105,El Torno,2005,7,5 a 14 anos-H,0.0
+Chuquisaca,10501,Monteagudo,2005,7,5 a 14 anos-H,2.0
+Santa Cruz,70503,Robore,2005,7,5 a 14 anos-H,0.0
+Santa Cruz,70105,El Torno,2005,8,5 a 14 anos-H,0.0
+Chuquisaca,10501,Monteagudo,2005,8,5 a 14 anos-H,1.0
+Tarija,60303,Villa Montes,2005,8,5 a 14 anos-H,0.0
+Santa Cruz,70105,El Torno,2005,9,5 a 14 anos-H,1.0
+Chuquisaca,10501,Monteagudo,2005,9,5 a 14 anos-H,1.0
+Santa Cruz,70701,Lagunillas,2005,10,5 a 14 anos-H,0.0
+Chuquisaca,10301,Zudañez,2005,10,5 a 14 anos-H,0.0
+Santa Cruz,70601,Portachuelo,2005,12,5 a 14 anos-H,0.0
+Beni,80201,Riberalta,2005,12,5 a 14 anos-H,0.0
+Santa Cruz,70703,Cabezas,2005,1,5 a 14 anos-M,0.0
+Santa Cruz,70105,El Torno,2005,1,5 a 14 anos-M,0.0
+Chuquisaca,10501,Monteagudo,2005,1,5 a 14 anos-M,0.0
+Beni,80501,San Ignacio,2005,1,5 a 14 anos-M,0.0
+Santa Cruz,70105,El Torno,2005,2,5 a 14 anos-M,0.0
+Pando,90101,Cobija,2005,3,5 a 14 anos-M,0.0
+Santa Cruz,70105,El Torno,2005,3,5 a 14 anos-M,0.0
+Tarija,60601,Entre Rios,2005,3,5 a 14 anos-M,0.0
+Chuquisaca,10501,Monteagudo,2005,3,5 a 14 anos-M,
+Cochabamba,30903,Tiquipaya,2005,3,5 a 14 anos-M,0.0
+Santa Cruz,70701,Lagunillas,2005,4,5 a 14 anos-M,0.0
+Chuquisaca,10501,Monteagudo,2005,4,5 a 14 anos-M,0.0
+Santa Cruz,70105,El Torno,2005,5,5 a 14 anos-M,0.0
+Chuquisaca,10501,Monteagudo,2005,5,5 a 14 anos-M,0.0
+Beni,80201,Riberalta,2005,5,5 a 14 anos-M,0.0
+Santa Cruz,70105,El Torno,2005,6,5 a 14 anos-M,0.0
+Chuquisaca,10501,Monteagudo,2005,6,5 a 14 anos-M,0.0
+Tarija,60101,Tarija,2005,6,5 a 14 anos-M,0.0
+Santa Cruz,70801,Vallegrande,2005,6,5 a 14 anos-M,0.0
+Tarija,60302,Carapari,2005,7,5 a 14 anos-M,0.0
+Santa Cruz,70105,El Torno,2005,7,5 a 14 anos-M,0.0
+Chuquisaca,10501,Monteagudo,2005,7,5 a 14 anos-M,0.0
+Santa Cruz,70503,Robore,2005,7,5 a 14 anos-M,0.0
+Santa Cruz,70105,El Torno,2005,8,5 a 14 anos-M,0.0
+Chuquisaca,10501,Monteagudo,2005,8,5 a 14 anos-M,0.0
+Tarija,60303,Villa Montes,2005,8,5 a 14 anos-M,0.0
+Santa Cruz,70105,El Torno,2005,9,5 a 14 anos-M,0.0
+Chuquisaca,10501,Monteagudo,2005,9,5 a 14 anos-M,
+Santa Cruz,70701,Lagunillas,2005,10,5 a 14 anos-M,0.0
+Chuquisaca,10301,Zudañez,2005,10,5 a 14 anos-M,0.0
+Santa Cruz,70601,Portachuelo,2005,12,5 a 14 anos-M,0.0
+Beni,80201,Riberalta,2005,12,5 a 14 anos-M,0.0
+Santa Cruz,70703,Cabezas,2005,1,15 a 59 anos-H,3.0
+Santa Cruz,70105,El Torno,2005,1,15 a 59 anos-H,1.0
+Chuquisaca,10501,Monteagudo,2005,1,15 a 59 anos-H,1.0
+Beni,80501,San Ignacio,2005,1,15 a 59 anos-H,2.0
+Santa Cruz,70105,El Torno,2005,2,15 a 59 anos-H,3.0
+Pando,90101,Cobija,2005,3,15 a 59 anos-H,2.0
+Santa Cruz,70105,El Torno,2005,3,15 a 59 anos-H,3.0
+Tarija,60601,Entre Rios,2005,3,15 a 59 anos-H,0.0
+Chuquisaca,10501,Monteagudo,2005,3,15 a 59 anos-H,0.0
+Cochabamba,30903,Tiquipaya,2005,3,15 a 59 anos-H,0.0
+Santa Cruz,70701,Lagunillas,2005,4,15 a 59 anos-H,1.0
+Chuquisaca,10501,Monteagudo,2005,4,15 a 59 anos-H,0.0
+Santa Cruz,70105,El Torno,2005,5,15 a 59 anos-H,5.0
+Chuquisaca,10501,Monteagudo,2005,5,15 a 59 anos-H,2.0
+Beni,80201,Riberalta,2005,5,15 a 59 anos-H,1.0
+Santa Cruz,70105,El Torno,2005,6,15 a 59 anos-H,1.0
+Chuquisaca,10501,Monteagudo,2005,6,15 a 59 anos-H,1.0
+Tarija,60101,Tarija,2005,6,15 a 59 anos-H,1.0
+Santa Cruz,70801,Vallegrande,2005,6,15 a 59 anos-H,0.0
+Tarija,60302,Carapari,2005,7,15 a 59 anos-H,1.0
+Santa Cruz,70105,El Torno,2005,7,15 a 59 anos-H,4.0
+Chuquisaca,10501,Monteagudo,2005,7,15 a 59 anos-H,2.0
+Santa Cruz,70503,Robore,2005,7,15 a 59 anos-H,1.0
+Santa Cruz,70105,El Torno,2005,8,15 a 59 anos-H,1.0
+Chuquisaca,10501,Monteagudo,2005,8,15 a 59 anos-H,2.0
+Tarija,60303,Villa Montes,2005,8,15 a 59 anos-H,2.0
+Santa Cruz,70105,El Torno,2005,9,15 a 59 anos-H,4.0
+Chuquisaca,10501,Monteagudo,2005,9,15 a 59 anos-H,0.0
+Santa Cruz,70701,Lagunillas,2005,10,15 a 59 anos-H,1.0
+Chuquisaca,10301,Zudañez,2005,10,15 a 59 anos-H,1.0
+Santa Cruz,70601,Portachuelo,2005,12,15 a 59 anos-H,1.0
+Beni,80201,Riberalta,2005,12,15 a 59 anos-H,1.0
+Santa Cruz,70703,Cabezas,2005,1,15 a 59 anos-M,
+Santa Cruz,70105,El Torno,2005,1,15 a 59 anos-M,
+Chuquisaca,10501,Monteagudo,2005,1,15 a 59 anos-M,
+Beni,80501,San Ignacio,2005,1,15 a 59 anos-M,0.0
+Santa Cruz,70105,El Torno,2005,2,15 a 59 anos-M,0.0
+Pando,90101,Cobija,2005,3,15 a 59 anos-M,
+Santa Cruz,70105,El Torno,2005,3,15 a 59 anos-M,
+Tarija,60601,Entre Rios,2005,3,15 a 59 anos-M,0.0
+Chuquisaca,10501,Monteagudo,2005,3,15 a 59 anos-M,0.0
+Cochabamba,30903,Tiquipaya,2005,3,15 a 59 anos-M,0.0
+Santa Cruz,70701,Lagunillas,2005,4,15 a 59 anos-M,
+Chuquisaca,10501,Monteagudo,2005,4,15 a 59 anos-M,0.0
+Santa Cruz,70105,El Torno,2005,5,15 a 59 anos-M,0.0
+Chuquisaca,10501,Monteagudo,2005,5,15 a 59 anos-M,
+Beni,80201,Riberalta,2005,5,15 a 59 anos-M,
+Santa Cruz,70105,El Torno,2005,6,15 a 59 anos-M,
+Chuquisaca,10501,Monteagudo,2005,6,15 a 59 anos-M,0.0
+Tarija,60101,Tarija,2005,6,15 a 59 anos-M,
+Santa Cruz,70801,Vallegrande,2005,6,15 a 59 anos-M,0.0
+Tarija,60302,Carapari,2005,7,15 a 59 anos-M,
+Santa Cruz,70105,El Torno,2005,7,15 a 59 anos-M,
+Chuquisaca,10501,Monteagudo,2005,7,15 a 59 anos-M,0.0
+Santa Cruz,70503,Robore,2005,7,15 a 59 anos-M,
+Santa Cruz,70105,El Torno,2005,8,15 a 59 anos-M,0.0
+Chuquisaca,10501,Monteagudo,2005,8,15 a 59 anos-M,0.0
+Tarija,60303,Villa Montes,2005,8,15 a 59 anos-M,
+Santa Cruz,70105,El Torno,2005,9,15 a 59 anos-M,0.0
+Chuquisaca,10501,Monteagudo,2005,9,15 a 59 anos-M,0.0
+Santa Cruz,70701,Lagunillas,2005,10,15 a 59 anos-M,
+Chuquisaca,10301,Zudañez,2005,10,15 a 59 anos-M,
+Santa Cruz,70601,Portachuelo,2005,12,15 a 59 anos-M,
+Beni,80201,Riberalta,2005,12,15 a 59 anos-M,
+Santa Cruz,70703,Cabezas,2005,1,60 y mas-H,0.0
+Santa Cruz,70105,El Torno,2005,1,60 y mas-H,0.0
+Chuquisaca,10501,Monteagudo,2005,1,60 y mas-H,0.0
+Beni,80501,San Ignacio,2005,1,60 y mas-H,0.0
+Santa Cruz,70105,El Torno,2005,2,60 y mas-H,1.0
+Pando,90101,Cobija,2005,3,60 y mas-H,0.0
+Santa Cruz,70105,El Torno,2005,3,60 y mas-H,0.0
+Tarija,60601,Entre Rios,2005,3,60 y mas-H,0.0
+Chuquisaca,10501,Monteagudo,2005,3,60 y mas-H,0.0
+Cochabamba,30903,Tiquipaya,2005,3,60 y mas-H,1.0
+Santa Cruz,70701,Lagunillas,2005,4,60 y mas-H,0.0
+Chuquisaca,10501,Monteagudo,2005,4,60 y mas-H,1.0
+Santa Cruz,70105,El Torno,2005,5,60 y mas-H,1.0
+Chuquisaca,10501,Monteagudo,2005,5,60 y mas-H,0.0
+Beni,80201,Riberalta,2005,5,60 y mas-H,0.0
+Santa Cruz,70105,El Torno,2005,6,60 y mas-H,0.0
+Chuquisaca,10501,Monteagudo,2005,6,60 y mas-H,0.0
+Tarija,60101,Tarija,2005,6,60 y mas-H,0.0
+Santa Cruz,70801,Vallegrande,2005,6,60 y mas-H,1.0
+Tarija,60302,Carapari,2005,7,60 y mas-H,0.0
+Santa Cruz,70105,El Torno,2005,7,60 y mas-H,0.0
+Chuquisaca,10501,Monteagudo,2005,7,60 y mas-H,1.0
+Santa Cruz,70503,Robore,2005,7,60 y mas-H,0.0
+Santa Cruz,70105,El Torno,2005,8,60 y mas-H,2.0
+Chuquisaca,10501,Monteagudo,2005,8,60 y mas-H,0.0
+Tarija,60303,Villa Montes,2005,8,60 y mas-H,0.0
+Santa Cruz,70105,El Torno,2005,9,60 y mas-H,1.0
+Chuquisaca,10501,Monteagudo,2005,9,60 y mas-H,0.0
+Santa Cruz,70701,Lagunillas,2005,10,60 y mas-H,0.0
+Chuquisaca,10301,Zudañez,2005,10,60 y mas-H,0.0
+Santa Cruz,70601,Portachuelo,2005,12,60 y mas-H,0.0
+Beni,80201,Riberalta,2005,12,60 y mas-H,0.0
+Santa Cruz,70703,Cabezas,2005,1,60 y mas-M,0.0
+Santa Cruz,70105,El Torno,2005,1,60 y mas-M,0.0
+Chuquisaca,10501,Monteagudo,2005,1,60 y mas-M,0.0
+Beni,80501,San Ignacio,2005,1,60 y mas-M,0.0
+Santa Cruz,70105,El Torno,2005,2,60 y mas-M,0.0
+Pando,90101,Cobija,2005,3,60 y mas-M,0.0
+Santa Cruz,70105,El Torno,2005,3,60 y mas-M,0.0
+Tarija,60601,Entre Rios,2005,3,60 y mas-M,0.0
+Chuquisaca,10501,Monteagudo,2005,3,60 y mas-M,0.0
+Cochabamba,30903,Tiquipaya,2005,3,60 y mas-M,
+Santa Cruz,70701,Lagunillas,2005,4,60 y mas-M,0.0
+Chuquisaca,10501,Monteagudo,2005,4,60 y mas-M,
+Santa Cruz,70105,El Torno,2005,5,60 y mas-M,0.0
+Chuquisaca,10501,Monteagudo,2005,5,60 y mas-M,0.0
+Beni,80201,Riberalta,2005,5,60 y mas-M,0.0
+Santa Cruz,70105,El Torno,2005,6,60 y mas-M,0.0
+Chuquisaca,10501,Monteagudo,2005,6,60 y mas-M,0.0
+Tarija,60101,Tarija,2005,6,60 y mas-M,0.0
+Santa Cruz,70801,Vallegrande,2005,6,60 y mas-M,
+Tarija,60302,Carapari,2005,7,60 y mas-M,0.0
+Santa Cruz,70105,El Torno,2005,7,60 y mas-M,0.0
+Chuquisaca,10501,Monteagudo,2005,7,60 y mas-M,0.0
+Santa Cruz,70503,Robore,2005,7,60 y mas-M,0.0
+Santa Cruz,70105,El Torno,2005,8,60 y mas-M,0.0
+Chuquisaca,10501,Monteagudo,2005,8,60 y mas-M,0.0
+Tarija,60303,Villa Montes,2005,8,60 y mas-M,0.0
+Santa Cruz,70105,El Torno,2005,9,60 y mas-M,0.0
+Chuquisaca,10501,Monteagudo,2005,9,60 y mas-M,0.0
+Santa Cruz,70701,Lagunillas,2005,10,60 y mas-M,0.0
+Chuquisaca,10301,Zudañez,2005,10,60 y mas-M,0.0
+Santa Cruz,70601,Portachuelo,2005,12,60 y mas-M,0.0
+Beni,80201,Riberalta,2005,12,60 y mas-M,0.0
+Santa Cruz,70703,Cabezas,2005,1,TOTAL-H,3.0
+Santa Cruz,70105,El Torno,2005,1,TOTAL-H,1.0
+Chuquisaca,10501,Monteagudo,2005,1,TOTAL-H,1.0
+Beni,80501,San Ignacio,2005,1,TOTAL-H,3.0
+Santa Cruz,70105,El Torno,2005,2,TOTAL-H,4.0
+Pando,90101,Cobija,2005,3,TOTAL-H,2.0
+Santa Cruz,70105,El Torno,2005,3,TOTAL-H,3.0
+Tarija,60601,Entre Rios,2005,3,TOTAL-H,1.0
+Chuquisaca,10501,Monteagudo,2005,3,TOTAL-H,1.0
+Cochabamba,30903,Tiquipaya,2005,3,TOTAL-H,1.0
+Santa Cruz,70701,Lagunillas,2005,4,TOTAL-H,1.0
+Chuquisaca,10501,Monteagudo,2005,4,TOTAL-H,1.0
+Santa Cruz,70105,El Torno,2005,5,TOTAL-H,6.0
+Chuquisaca,10501,Monteagudo,2005,5,TOTAL-H,2.0
+Beni,80201,Riberalta,2005,5,TOTAL-H,1.0
+Santa Cruz,70105,El Torno,2005,6,TOTAL-H,1.0
+Chuquisaca,10501,Monteagudo,2005,6,TOTAL-H,2.0
+Tarija,60101,Tarija,2005,6,TOTAL-H,1.0
+Santa Cruz,70801,Vallegrande,2005,6,TOTAL-H,1.0
+Tarija,60302,Carapari,2005,7,TOTAL-H,1.0
+Santa Cruz,70105,El Torno,2005,7,TOTAL-H,4.0
+Chuquisaca,10501,Monteagudo,2005,7,TOTAL-H,5.0
+Santa Cruz,70503,Robore,2005,7,TOTAL-H,1.0
+Santa Cruz,70105,El Torno,2005,8,TOTAL-H,3.0
+Chuquisaca,10501,Monteagudo,2005,8,TOTAL-H,3.0
+Tarija,60303,Villa Montes,2005,8,TOTAL-H,2.0
+Santa Cruz,70105,El Torno,2005,9,TOTAL-H,6.0
+Chuquisaca,10501,Monteagudo,2005,9,TOTAL-H,1.0
+Santa Cruz,70701,Lagunillas,2005,10,TOTAL-H,1.0
+Chuquisaca,10301,Zudañez,2005,10,TOTAL-H,1.0
+Santa Cruz,70601,Portachuelo,2005,12,TOTAL-H,1.0
+Beni,80201,Riberalta,2005,12,TOTAL-H,1.0
+Santa Cruz,70703,Cabezas,2005,1,TOTAL-M,
+Santa Cruz,70105,El Torno,2005,1,TOTAL-M,
+Chuquisaca,10501,Monteagudo,2005,1,TOTAL-M,
+Beni,80501,San Ignacio,2005,1,TOTAL-M,
+Santa Cruz,70105,El Torno,2005,2,TOTAL-M,
+Pando,90101,Cobija,2005,3,TOTAL-M,
+Santa Cruz,70105,El Torno,2005,3,TOTAL-M,
+Tarija,60601,Entre Rios,2005,3,TOTAL-M,
+Chuquisaca,10501,Monteagudo,2005,3,TOTAL-M,
+Cochabamba,30903,Tiquipaya,2005,3,TOTAL-M,
+Santa Cruz,70701,Lagunillas,2005,4,TOTAL-M,
+Chuquisaca,10501,Monteagudo,2005,4,TOTAL-M,
+Santa Cruz,70105,El Torno,2005,5,TOTAL-M,
+Chuquisaca,10501,Monteagudo,2005,5,TOTAL-M,
+Beni,80201,Riberalta,2005,5,TOTAL-M,
+Santa Cruz,70105,El Torno,2005,6,TOTAL-M,
+Chuquisaca,10501,Monteagudo,2005,6,TOTAL-M,
+Tarija,60101,Tarija,2005,6,TOTAL-M,
+Santa Cruz,70801,Vallegrande,2005,6,TOTAL-M,
+Tarija,60302,Carapari,2005,7,TOTAL-M,
+Santa Cruz,70105,El Torno,2005,7,TOTAL-M,
+Chuquisaca,10501,Monteagudo,2005,7,TOTAL-M,
+Santa Cruz,70503,Robore,2005,7,TOTAL-M,
+Santa Cruz,70105,El Torno,2005,8,TOTAL-M,
+Chuquisaca,10501,Monteagudo,2005,8,TOTAL-M,
+Tarija,60303,Villa Montes,2005,8,TOTAL-M,
+Santa Cruz,70105,El Torno,2005,9,TOTAL-M,
+Chuquisaca,10501,Monteagudo,2005,9,TOTAL-M,
+Santa Cruz,70701,Lagunillas,2005,10,TOTAL-M,
+Chuquisaca,10301,Zudañez,2005,10,TOTAL-M,
+Santa Cruz,70601,Portachuelo,2005,12,TOTAL-M,
+Beni,80201,Riberalta,2005,12,TOTAL-M,
+Santa Cruz,70703,Cabezas,2005,1,TOTAL,
+Santa Cruz,70105,El Torno,2005,1,TOTAL,
+Chuquisaca,10501,Monteagudo,2005,1,TOTAL,
+Beni,80501,San Ignacio,2005,1,TOTAL,
+Santa Cruz,70105,El Torno,2005,2,TOTAL,
+Pando,90101,Cobija,2005,3,TOTAL,
+Santa Cruz,70105,El Torno,2005,3,TOTAL,
+Tarija,60601,Entre Rios,2005,3,TOTAL,
+Chuquisaca,10501,Monteagudo,2005,3,TOTAL,
+Cochabamba,30903,Tiquipaya,2005,3,TOTAL,
+Santa Cruz,70701,Lagunillas,2005,4,TOTAL,
+Chuquisaca,10501,Monteagudo,2005,4,TOTAL,
+Santa Cruz,70105,El Torno,2005,5,TOTAL,
+Chuquisaca,10501,Monteagudo,2005,5,TOTAL,
+Beni,80201,Riberalta,2005,5,TOTAL,
+Santa Cruz,70105,El Torno,2005,6,TOTAL,
+Chuquisaca,10501,Monteagudo,2005,6,TOTAL,
+Tarija,60101,Tarija,2005,6,TOTAL,
+Santa Cruz,70801,Vallegrande,2005,6,TOTAL,
+Tarija,60302,Carapari,2005,7,TOTAL,
+Santa Cruz,70105,El Torno,2005,7,TOTAL,
+Chuquisaca,10501,Monteagudo,2005,7,TOTAL,
+Santa Cruz,70503,Robore,2005,7,TOTAL,
+Santa Cruz,70105,El Torno,2005,8,TOTAL,
+Chuquisaca,10501,Monteagudo,2005,8,TOTAL,
+Tarija,60303,Villa Montes,2005,8,TOTAL,
+Santa Cruz,70105,El Torno,2005,9,TOTAL,
+Chuquisaca,10501,Monteagudo,2005,9,TOTAL,
+Santa Cruz,70701,Lagunillas,2005,10,TOTAL,
+Chuquisaca,10301,Zudañez,2005,10,TOTAL,
+Santa Cruz,70601,Portachuelo,2005,12,TOTAL,
+Beni,80201,Riberalta,2005,12,TOTAL,

@@ -1,0 +1,38 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,31204,Chimore,2019,1,TOTAL,46
+Santa Cruz,70704,Cuevo,2019,1,TOTAL,33
+Santa Cruz,70104,La Guardia,2019,1,TOTAL,281
+Beni,80601,Loreto,2019,1,TOTAL,43
+La Paz,21802,Papel Pampa,2019,1,TOTAL,107
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,1,TOTAL,31
+La Paz,20606,Tipuani,2019,1,TOTAL,31
+Beni,80101,Trinidad,2019,1,TOTAL,84
+Chuquisaca,10301,Zudañez,2019,1,TOTAL,342
+La Paz,22002,Alto Beni,2019,2,TOTAL,53
+Chuquisaca,10201,Azurduy,2019,2,TOTAL,16
+Pando,90104,Bella Flor,2019,2,TOTAL,23
+Potosí,50702,Caripuyo,2019,2,TOTAL,23
+Potosí,51103,Ckochas,2019,2,TOTAL,1
+Potosí,50601,Cotagaita,2019,2,TOTAL,1
+Oruro,40101,Oruro,2019,2,TOTAL,7
+La Paz,21802,Papel Pampa,2019,2,TOTAL,71
+Beni,80301,Reyes,2019,2,TOTAL,375
+Beni,80201,Riberalta,2019,2,TOTAL,13
+Beni,80304,Rurrenabaque,2019,2,TOTAL,466
+La Paz,20805,San Andres De Machaca,2019,2,TOTAL,73
+La Paz,20807,Taraco,2019,2,TOTAL,1
+La Paz,20803,Tiahuanacu,2019,2,TOTAL,70
+Cochabamba,31003,Villa Tunari,2019,2,TOTAL,1
+Tarija,60301,Yacuiba,2019,2,TOTAL,701
+Chuquisaca,10301,Zudañez,2019,2,TOTAL,388
+Santa Cruz,70703,Cabezas,2019,3,TOTAL,18
+Santa Cruz,70706,Camiri,2019,3,TOTAL,107
+Santa Cruz,70701,Lagunillas,2019,3,TOTAL,63
+Beni,80201,Riberalta,2019,3,TOTAL,34
+Chuquisaca,10101,Sucre,2019,3,TOTAL,52
+Santa Cruz,70703,Cabezas,2019,4,TOTAL,18
+Santa Cruz,70706,Camiri,2019,4,TOTAL,63
+Santa Cruz,70104,La Guardia,2019,4,TOTAL,37
+Santa Cruz,70701,Lagunillas,2019,4,TOTAL,32
+Chuquisaca,10101,Sucre,2019,4,TOTAL,1
+Chuquisaca,10101,Sucre,2019,10,TOTAL,3

@@ -1,0 +1,1759 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20104,Achocalla,2013,1,Cantidad,1
+Cochabamba,30201,Aiquile,2013,1,Cantidad,5
+Cochabamba,30501,Arani,2013,1,Cantidad,1
+Tarija,60202,Bermejo,2013,1,Cantidad,2
+Potosí,50301,Betanzos,2013,1,Cantidad,1
+Santa Cruz,70703,Cabezas,2013,1,Cantidad,1
+Potosí,51102,"Caiza ""d""",2013,1,Cantidad,1
+La Paz,21304,Calamarca,2013,1,Cantidad,2
+Cochabamba,30701,Capinota,2013,1,Cantidad,1
+Oruro,40201,Challapata,2013,1,Cantidad,1
+Potosí,50202,Chayanta,2013,1,Cantidad,1
+Cochabamba,31204,Chimore,2013,1,Cantidad,2
+Potosí,50204,Chuquihuta Ayllu Jucumani,2013,1,Cantidad,1
+Pando,90101,Cobija,2013,1,Cantidad,1
+Cochabamba,30101,Cochabamba,2013,1,Cantidad,53
+Potosí,50401,Colquechaca,2013,1,Cantidad,1
+Santa Cruz,71101,Concepcion,2013,1,Cantidad,2
+Potosí,50601,Cotagaita,2013,1,Cantidad,3
+Santa Cruz,70102,Cotoca,2013,1,Cantidad,1
+Santa Cruz,71106,Cuatro Cañadas,2013,1,Cantidad,3
+La Paz,20105,El Alto,2013,1,Cantidad,44
+Santa Cruz,70105,El Torno,2013,1,Cantidad,7
+Chuquisaca,10405,El Villar,2013,1,Cantidad,1
+La Paz,20405,Escoma,2013,1,Cantidad,1
+La Paz,20602,Guanay,2013,1,Cantidad,1
+Beni,80202,Guayaramerin,2013,1,Cantidad,2
+Oruro,40501,Huachacalla,2013,1,Cantidad,1
+Oruro,40701,Huanuni,2013,1,Cantidad,3
+Pando,90402,Ingavi (humaita),2013,1,Cantidad,2
+La Paz,20806,Jesus De Machaca,2013,1,Cantidad,1
+Santa Cruz,70104,La Guardia,2013,1,Cantidad,4
+La Paz,20101,La Paz,2013,1,Cantidad,128
+Beni,80601,Loreto,2013,1,Cantidad,1
+Oruro,40702,Machacamarca,2013,1,Cantidad,1
+Santa Cruz,71003,Mineros,2013,1,Cantidad,3
+Cochabamba,31301,Mizque,2013,1,Cantidad,1
+Chuquisaca,10303,Mojocoya,2013,1,Cantidad,2
+Chuquisaca,10501,Monteagudo,2013,1,Cantidad,4
+Santa Cruz,71001,Montero,2013,1,Cantidad,9
+Oruro,40101,Oruro,2013,1,Cantidad,65
+Chuquisaca,10401,Padilla,2013,1,Cantidad,1
+La Paz,21104,Palos Blancos,2013,1,Cantidad,1
+Oruro,40602,Pazña,2013,1,Cantidad,1
+Santa Cruz,70103,Porongo,2013,1,Cantidad,1
+Potosí,50101,Potosi,2013,1,Cantidad,5
+Pando,90301,Puerto Gonzalo Moreno,2013,1,Cantidad,1
+La Paz,21204,Puerto Perez,2013,1,Cantidad,1
+Santa Cruz,71402,Puerto Quijarro,2013,1,Cantidad,1
+Pando,90201,Puerto Rico,2013,1,Cantidad,4
+Santa Cruz,71401,Puerto Suarez,2013,1,Cantidad,1
+Cochabamba,31205,Puerto Villarroel,2013,1,Cantidad,1
+La Paz,21002,Quime,2013,1,Cantidad,2
+Beni,80201,Riberalta,2013,1,Cantidad,5
+Beni,80304,Rurrenabaque,2013,1,Cantidad,1
+Cochabamba,31001,Sacaba,2013,1,Cantidad,6
+Cochabamba,31403,San Benito,2013,1,Cantidad,3
+Santa Cruz,70402,San Carlos,2013,1,Cantidad,4
+Santa Cruz,70301,San Ignacio De Velasco,2013,1,Cantidad,7
+Santa Cruz,71104,San Julian,2013,1,Cantidad,4
+Santa Cruz,71201,San Matias,2013,1,Cantidad,1
+Santa Cruz,70302,San Miguel De Velasco,2013,1,Cantidad,1
+Santa Cruz,71005,San Pedro,2013,1,Cantidad,2
+Santa Cruz,70303,San Rafael,2013,1,Cantidad,1
+Santa Cruz,71103,San Ramon Scz,2013,1,Cantidad,1
+Beni,80401,Santa Ana,2013,1,Cantidad,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,Cantidad,185
+Oruro,40202,Santuario De Quillacas,2013,1,Cantidad,1
+Cochabamba,31602,Shinaota,2013,1,Cantidad,11
+La Paz,20601,Sorata,2013,1,Cantidad,1
+Chuquisaca,10101,Sucre,2013,1,Cantidad,64
+Tarija,60101,Tarija,2013,1,Cantidad,24
+La Paz,20606,Tipuani,2013,1,Cantidad,1
+Cochabamba,30903,Tiquipaya,2013,1,Cantidad,7
+Potosí,51202,Tomave,2013,1,Cantidad,1
+Chuquisaca,10402,Tomina,2013,1,Cantidad,2
+Potosí,50502,Toro Toro,2013,1,Cantidad,1
+Oruro,41301,Totora(orr),2013,1,Cantidad,1
+Beni,80101,Trinidad,2013,1,Cantidad,11
+Chuquisaca,10704,Villa Charcas,2013,1,Cantidad,1
+Cochabamba,31003,Villa Tunari,2013,1,Cantidad,2
+Potosí,51501,Villazon,2013,1,Cantidad,4
+Santa Cruz,70201,Warnes,2013,1,Cantidad,6
+Tarija,60301,Yacuiba,2013,1,Cantidad,16
+La Paz,20104,Achocalla,2013,2,Cantidad,1
+Cochabamba,30201,Aiquile,2013,2,Cantidad,2
+Cochabamba,30501,Arani,2013,2,Cantidad,1
+Santa Cruz,70703,Cabezas,2013,2,Cantidad,8
+Santa Cruz,70706,Camiri,2013,2,Cantidad,3
+La Paz,22001,Caranavi,2013,2,Cantidad,1
+Cochabamba,30801,Cliza,2013,2,Cantidad,1
+Pando,90101,Cobija,2013,2,Cantidad,6
+Cochabamba,30101,Cochabamba,2013,2,Cantidad,40
+Potosí,50601,Cotagaita,2013,2,Cantidad,1
+Santa Cruz,71106,Cuatro Cañadas,2013,2,Cantidad,4
+La Paz,20105,El Alto,2013,2,Cantidad,35
+Santa Cruz,70105,El Torno,2013,2,Cantidad,2
+Santa Cruz,71004,Fernandez Alonso,2013,2,Cantidad,2
+Oruro,40501,Huachacalla,2013,2,Cantidad,1
+Oruro,40701,Huanuni,2013,2,Cantidad,9
+Chuquisaca,10304,Icla,2013,2,Cantidad,1
+La Paz,21001,Inquisivi,2013,2,Cantidad,2
+La Paz,20806,Jesus De Machaca,2013,2,Cantidad,1
+La Paz,21105,La Asunta,2013,2,Cantidad,2
+Santa Cruz,70104,La Guardia,2013,2,Cantidad,9
+La Paz,20101,La Paz,2013,2,Cantidad,145
+Potosí,50203,Llallagua,2013,2,Cantidad,1
+La Paz,20103,Mecapaca,2013,2,Cantidad,2
+Santa Cruz,71003,Mineros,2013,2,Cantidad,1
+Santa Cruz,71001,Montero,2013,2,Cantidad,13
+Potosí,50404,Ocuri,2013,2,Cantidad,2
+Oruro,40101,Oruro,2013,2,Cantidad,45
+Santa Cruz,70502,Pailon,2013,2,Cantidad,1
+La Paz,21104,Palos Blancos,2013,2,Cantidad,1
+Potosí,50403,Pocoata,2013,2,Cantidad,2
+Potosí,50101,Potosi,2013,2,Cantidad,14
+La Paz,21002,Quime,2013,2,Cantidad,2
+Beni,80201,Riberalta,2013,2,Cantidad,23
+Santa Cruz,70503,Robore,2013,2,Cantidad,1
+Cochabamba,31001,Sacaba,2013,2,Cantidad,11
+Cochabamba,31403,San Benito,2013,2,Cantidad,1
+Beni,80501,San Ignacio,2013,2,Cantidad,1
+Santa Cruz,70301,San Ignacio De Velasco,2013,2,Cantidad,8
+Santa Cruz,71104,San Julian,2013,2,Cantidad,1
+Santa Cruz,70302,San Miguel De Velasco,2013,2,Cantidad,1
+Santa Cruz,71005,San Pedro,2013,2,Cantidad,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,2,Cantidad,175
+Cochabamba,31602,Shinaota,2013,2,Cantidad,8
+La Paz,21301,Sica Sica (villa Aroma),2013,2,Cantidad,2
+Chuquisaca,10101,Sucre,2013,2,Cantidad,32
+Tarija,60101,Tarija,2013,2,Cantidad,24
+Potosí,50102,Tinguipaya,2013,2,Cantidad,1
+La Paz,20606,Tipuani,2013,2,Cantidad,2
+Cochabamba,30903,Tiquipaya,2013,2,Cantidad,6
+Beni,80101,Trinidad,2013,2,Cantidad,3
+Santa Cruz,71502,Urubicha,2013,2,Cantidad,1
+Potosí,51201,Uyuni,2013,2,Cantidad,1
+Chuquisaca,10704,Villa Charcas,2013,2,Cantidad,1
+Tarija,60303,Villa Montes,2013,2,Cantidad,3
+Potosí,51501,Villazon,2013,2,Cantidad,6
+Santa Cruz,70201,Warnes,2013,2,Cantidad,3
+Tarija,60301,Yacuiba,2013,2,Cantidad,5
+Potosí,51302,Acacio,2013,3,Cantidad,1
+Cochabamba,30201,Aiquile,2013,3,Cantidad,1
+La Paz,20202,Ancoraimes,2013,3,Cantidad,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2013,3,Cantidad,4
+Potosí,50301,Betanzos,2013,3,Cantidad,2
+La Paz,21304,Calamarca,2013,3,Cantidad,1
+Chuquisaca,10701,Camargo,2013,3,Cantidad,2
+Santa Cruz,70706,Camiri,2013,3,Cantidad,2
+La Paz,21101,Chulumani (v. De La Libertad),2013,3,Cantidad,11
+Potosí,50204,Chuquihuta Ayllu Jucumani,2013,3,Cantidad,1
+Cochabamba,30801,Cliza,2013,3,Cantidad,5
+Pando,90101,Cobija,2013,3,Cantidad,4
+Cochabamba,30101,Cochabamba,2013,3,Cantidad,36
+Potosí,50401,Colquechaca,2013,3,Cantidad,1
+Santa Cruz,71101,Concepcion,2013,3,Cantidad,3
+Santa Cruz,70102,Cotoca,2013,3,Cantidad,1
+Santa Cruz,71106,Cuatro Cañadas,2013,3,Cantidad,5
+La Paz,20105,El Alto,2013,3,Cantidad,37
+Santa Cruz,70105,El Torno,2013,3,Cantidad,1
+Santa Cruz,71004,Fernandez Alonso,2013,3,Cantidad,1
+La Paz,21601,Gral. J.j. Perez (charazani),2013,3,Cantidad,1
+Beni,80202,Guayaramerin,2013,3,Cantidad,1
+Oruro,40701,Huanuni,2013,3,Cantidad,7
+Chuquisaca,10703,Incahuasi,2013,3,Cantidad,1
+La Paz,21105,La Asunta,2013,3,Cantidad,2
+Santa Cruz,70104,La Guardia,2013,3,Cantidad,13
+La Paz,20101,La Paz,2013,3,Cantidad,80
+Potosí,50203,Llallagua,2013,3,Cantidad,1
+Chuquisaca,10501,Monteagudo,2013,3,Cantidad,3
+Santa Cruz,71001,Montero,2013,3,Cantidad,4
+Potosí,50404,Ocuri,2013,3,Cantidad,2
+Oruro,40101,Oruro,2013,3,Cantidad,46
+Chuquisaca,10401,Padilla,2013,3,Cantidad,1
+Cochabamba,31203,Pocona,2013,3,Cantidad,1
+Potosí,50101,Potosi,2013,3,Cantidad,7
+Chuquisaca,10302,Presto,2013,3,Cantidad,1
+Santa Cruz,71402,Puerto Quijarro,2013,3,Cantidad,3
+La Paz,21002,Quime,2013,3,Cantidad,5
+Beni,80201,Riberalta,2013,3,Cantidad,6
+Beni,80304,Rurrenabaque,2013,3,Cantidad,2
+Cochabamba,31001,Sacaba,2013,3,Cantidad,16
+Cochabamba,30404,Sacabamba,2013,3,Cantidad,1
+Santa Cruz,71302,Saipina,2013,3,Cantidad,1
+Santa Cruz,70301,San Ignacio De Velasco,2013,3,Cantidad,3
+Beni,80102,San Javier(bni),2013,3,Cantidad,1
+Santa Cruz,70501,San Jose De Chiquitos,2013,3,Cantidad,1
+Santa Cruz,71104,San Julian,2013,3,Cantidad,2
+Santa Cruz,71005,San Pedro,2013,3,Cantidad,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,3,Cantidad,170
+Pando,90303,Sena,2013,3,Cantidad,1
+Cochabamba,31602,Shinaota,2013,3,Cantidad,20
+La Paz,20601,Sorata,2013,3,Cantidad,2
+Chuquisaca,10101,Sucre,2013,3,Cantidad,32
+Tarija,60101,Tarija,2013,3,Cantidad,22
+La Paz,20606,Tipuani,2013,3,Cantidad,2
+Cochabamba,30903,Tiquipaya,2013,3,Cantidad,13
+Beni,80101,Trinidad,2013,3,Cantidad,2
+Santa Cruz,71502,Urubicha,2013,3,Cantidad,1
+Chuquisaca,10704,Villa Charcas,2013,3,Cantidad,1
+Cochabamba,31003,Villa Tunari,2013,3,Cantidad,6
+Potosí,51501,Villazon,2013,3,Cantidad,4
+Cochabamba,30904,Vinto,2013,3,Cantidad,1
+Santa Cruz,70201,Warnes,2013,3,Cantidad,2
+Tarija,60301,Yacuiba,2013,3,Cantidad,2
+Cochabamba,30501,Arani,2013,4,Cantidad,3
+Cochabamba,30301,Ayopaya (v. De Independencia),2013,4,Cantidad,2
+Pando,90104,Bella Flor,2013,4,Cantidad,1
+Potosí,50301,Betanzos,2013,4,Cantidad,3
+La Paz,21304,Calamarca,2013,4,Cantidad,1
+Chuquisaca,10701,Camargo,2013,4,Cantidad,2
+Santa Cruz,70706,Camiri,2013,4,Cantidad,1
+Cochabamba,30701,Capinota,2013,4,Cantidad,1
+La Paz,22001,Caranavi,2013,4,Cantidad,3
+Cochabamba,31204,Chimore,2013,4,Cantidad,1
+La Paz,21101,Chulumani (v. De La Libertad),2013,4,Cantidad,12
+Pando,90101,Cobija,2013,4,Cantidad,1
+Cochabamba,30101,Cochabamba,2013,4,Cantidad,51
+Cochabamba,31002,Colomi,2013,4,Cantidad,1
+Potosí,50401,Colquechaca,2013,4,Cantidad,5
+Santa Cruz,71101,Concepcion,2013,4,Cantidad,2
+Santa Cruz,71106,Cuatro Cañadas,2013,4,Cantidad,5
+La Paz,20105,El Alto,2013,4,Cantidad,39
+Santa Cruz,71503,El Puente(stc),2013,4,Cantidad,3
+Santa Cruz,70105,El Torno,2013,4,Cantidad,1
+La Paz,20405,Escoma,2013,4,Cantidad,1
+Santa Cruz,71004,Fernandez Alonso,2013,4,Cantidad,2
+Oruro,40701,Huanuni,2013,4,Cantidad,13
+La Paz,21102,Irupana (villa De Lanza),2013,4,Cantidad,1
+La Paz,20806,Jesus De Machaca,2013,4,Cantidad,2
+La Paz,21105,La Asunta,2013,4,Cantidad,2
+Santa Cruz,70104,La Guardia,2013,4,Cantidad,9
+La Paz,20101,La Paz,2013,4,Cantidad,132
+Potosí,50203,Llallagua,2013,4,Cantidad,2
+Chuquisaca,11003,Machareti,2013,4,Cantidad,1
+La Paz,20607,Mapiri,2013,4,Cantidad,2
+Santa Cruz,71003,Mineros,2013,4,Cantidad,1
+Chuquisaca,10303,Mojocoya,2013,4,Cantidad,1
+Chuquisaca,10501,Monteagudo,2013,4,Cantidad,2
+Santa Cruz,71001,Montero,2013,4,Cantidad,9
+Oruro,40101,Oruro,2013,4,Cantidad,64
+Chuquisaca,10401,Padilla,2013,4,Cantidad,1
+La Paz,21104,Palos Blancos,2013,4,Cantidad,2
+La Paz,21305,Patacamaya,2013,4,Cantidad,1
+Cochabamba,31203,Pocona,2013,4,Cantidad,1
+Oruro,40601,Poopo,2013,4,Cantidad,2
+Potosí,50101,Potosi,2013,4,Cantidad,6
+La Paz,21201,Pucarani,2013,4,Cantidad,3
+Santa Cruz,71402,Puerto Quijarro,2013,4,Cantidad,2
+Santa Cruz,71401,Puerto Suarez,2013,4,Cantidad,1
+Cochabamba,31205,Puerto Villarroel,2013,4,Cantidad,1
+Potosí,51101,Puna,2013,4,Cantidad,2
+Cochabamba,31401,Punata,2013,4,Cantidad,2
+Beni,80201,Riberalta,2013,4,Cantidad,16
+Santa Cruz,70503,Robore,2013,4,Cantidad,2
+Cochabamba,31403,San Benito,2013,4,Cantidad,1
+Santa Cruz,70402,San Carlos,2013,4,Cantidad,4
+Beni,80501,San Ignacio,2013,4,Cantidad,1
+Santa Cruz,70301,San Ignacio De Velasco,2013,4,Cantidad,4
+Santa Cruz,70501,San Jose De Chiquitos,2013,4,Cantidad,1
+Santa Cruz,70404,San Juan De Yapacani,2013,4,Cantidad,1
+Santa Cruz,71104,San Julian,2013,4,Cantidad,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,4,Cantidad,213
+Oruro,40202,Santuario De Quillacas,2013,4,Cantidad,1
+Pando,90303,Sena,2013,4,Cantidad,1
+Cochabamba,31602,Shinaota,2013,4,Cantidad,8
+Cochabamba,30902,Sipe Sipe,2013,4,Cantidad,1
+Oruro,40104,Soracachi,2013,4,Cantidad,1
+Chuquisaca,10101,Sucre,2013,4,Cantidad,73
+Cochabamba,30401,Tarata,2013,4,Cantidad,1
+Tarija,60101,Tarija,2013,4,Cantidad,27
+La Paz,20606,Tipuani,2013,4,Cantidad,5
+Cochabamba,30903,Tiquipaya,2013,4,Cantidad,11
+Chuquisaca,10402,Tomina,2013,4,Cantidad,1
+Beni,80101,Trinidad,2013,4,Cantidad,9
+Oruro,40402,Turco,2013,4,Cantidad,1
+La Paz,20801,Viacha,2013,4,Cantidad,1
+Chuquisaca,10704,Villa Charcas,2013,4,Cantidad,4
+Tarija,60303,Villa Montes,2013,4,Cantidad,4
+Cochabamba,31003,Villa Tunari,2013,4,Cantidad,1
+Potosí,51501,Villazon,2013,4,Cantidad,8
+Santa Cruz,70201,Warnes,2013,4,Cantidad,5
+Tarija,60301,Yacuiba,2013,4,Cantidad,2
+La Paz,20701,Apolo,2013,5,Cantidad,4
+Cochabamba,30301,Ayopaya (v. De Independencia),2013,5,Cantidad,2
+Potosí,50301,Betanzos,2013,5,Cantidad,2
+La Paz,21304,Calamarca,2013,5,Cantidad,2
+Chuquisaca,10701,Camargo,2013,5,Cantidad,4
+Santa Cruz,70706,Camiri,2013,5,Cantidad,1
+La Paz,22001,Caranavi,2013,5,Cantidad,1
+Potosí,50702,Caripuyo,2013,5,Cantidad,1
+La Paz,21101,Chulumani (v. De La Libertad),2013,5,Cantidad,4
+Potosí,50204,Chuquihuta Ayllu Jucumani,2013,5,Cantidad,1
+Pando,90101,Cobija,2013,5,Cantidad,6
+Cochabamba,30303,Cocapata,2013,5,Cantidad,1
+Cochabamba,30101,Cochabamba,2013,5,Cantidad,46
+Potosí,50401,Colquechaca,2013,5,Cantidad,1
+Santa Cruz,71101,Concepcion,2013,5,Cantidad,2
+La Paz,21402,Coripata,2013,5,Cantidad,1
+Santa Cruz,70102,Cotoca,2013,5,Cantidad,1
+Santa Cruz,71106,Cuatro Cañadas,2013,5,Cantidad,2
+Chuquisaca,10902,Culpina,2013,5,Cantidad,1
+La Paz,20105,El Alto,2013,5,Cantidad,85
+Santa Cruz,71503,El Puente(stc),2013,5,Cantidad,1
+Santa Cruz,70105,El Torno,2013,5,Cantidad,2
+Beni,80202,Guayaramerin,2013,5,Cantidad,1
+Oruro,40701,Huanuni,2013,5,Cantidad,4
+La Paz,20206,Huatajata,2013,5,Cantidad,1
+La Paz,21102,Irupana (villa De Lanza),2013,5,Cantidad,2
+La Paz,21105,La Asunta,2013,5,Cantidad,3
+Santa Cruz,70104,La Guardia,2013,5,Cantidad,9
+La Paz,20101,La Paz,2013,5,Cantidad,333
+Potosí,50203,Llallagua,2013,5,Cantidad,3
+Santa Cruz,71003,Mineros,2013,5,Cantidad,2
+La Paz,20402,Mocomoco,2013,5,Cantidad,1
+Chuquisaca,10303,Mojocoya,2013,5,Cantidad,1
+Santa Cruz,71001,Montero,2013,5,Cantidad,6
+Cochabamba,30302,Morochata,2013,5,Cantidad,1
+Oruro,40101,Oruro,2013,5,Cantidad,47
+Tarija,60201,Padcaya,2013,5,Cantidad,1
+Santa Cruz,70502,Pailon,2013,5,Cantidad,1
+La Paz,21305,Patacamaya,2013,5,Cantidad,1
+Potosí,50101,Potosi,2013,5,Cantidad,15
+Santa Cruz,71401,Puerto Suarez,2013,5,Cantidad,3
+Cochabamba,31401,Punata,2013,5,Cantidad,3
+Beni,80201,Riberalta,2013,5,Cantidad,8
+Cochabamba,31001,Sacaba,2013,5,Cantidad,4
+Oruro,40801,Salinas De Garci Mendoza,2013,5,Cantidad,1
+Santa Cruz,70402,San Carlos,2013,5,Cantidad,4
+Santa Cruz,70301,San Ignacio De Velasco,2013,5,Cantidad,4
+Santa Cruz,70404,San Juan De Yapacani,2013,5,Cantidad,1
+Santa Cruz,71104,San Julian,2013,5,Cantidad,4
+Santa Cruz,71201,San Matias,2013,5,Cantidad,2
+Santa Cruz,71005,San Pedro,2013,5,Cantidad,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,Cantidad,163
+Cochabamba,31602,Shinaota,2013,5,Cantidad,12
+Chuquisaca,10101,Sucre,2013,5,Cantidad,29
+La Paz,20603,Tacacoma,2013,5,Cantidad,1
+Potosí,50303,Tacobamba,2013,5,Cantidad,1
+Cochabamba,30401,Tarata,2013,5,Cantidad,4
+Tarija,60101,Tarija,2013,5,Cantidad,41
+Chuquisaca,10202,Tarvita,2013,5,Cantidad,2
+La Paz,20606,Tipuani,2013,5,Cantidad,2
+Cochabamba,30903,Tiquipaya,2013,5,Cantidad,3
+Potosí,50502,Toro Toro,2013,5,Cantidad,2
+Beni,80101,Trinidad,2013,5,Cantidad,8
+Cochabamba,31003,Villa Tunari,2013,5,Cantidad,3
+Potosí,51501,Villazon,2013,5,Cantidad,3
+Santa Cruz,70201,Warnes,2013,5,Cantidad,3
+Tarija,60301,Yacuiba,2013,5,Cantidad,3
+Potosí,51302,Acacio,2013,6,Cantidad,1
+Santa Cruz,71501,Ascencion De Guarayos,2013,6,Cantidad,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2013,6,Cantidad,1
+Potosí,50301,Betanzos,2013,6,Cantidad,3
+La Paz,21304,Calamarca,2013,6,Cantidad,1
+Santa Cruz,70706,Camiri,2013,6,Cantidad,2
+Cochabamba,30701,Capinota,2013,6,Cantidad,1
+Oruro,40302,Choque Cota,2013,6,Cantidad,1
+La Paz,21101,Chulumani (v. De La Libertad),2013,6,Cantidad,4
+Pando,90101,Cobija,2013,6,Cantidad,5
+Cochabamba,30101,Cochabamba,2013,6,Cantidad,64
+Santa Cruz,71101,Concepcion,2013,6,Cantidad,2
+Potosí,50601,Cotagaita,2013,6,Cantidad,1
+Santa Cruz,70102,Cotoca,2013,6,Cantidad,2
+Santa Cruz,71106,Cuatro Cañadas,2013,6,Cantidad,1
+La Paz,20105,El Alto,2013,6,Cantidad,91
+Santa Cruz,71503,El Puente(stc),2013,6,Cantidad,2
+Santa Cruz,70105,El Torno,2013,6,Cantidad,6
+Santa Cruz,71004,Fernandez Alonso,2013,6,Cantidad,1
+Chuquisaca,11002,Huacaya (villa De Huacaya),2013,6,Cantidad,1
+Oruro,40701,Huanuni,2013,6,Cantidad,2
+La Paz,21005,Ichoca,2013,6,Cantidad,2
+La Paz,21102,Irupana (villa De Lanza),2013,6,Cantidad,3
+La Paz,20806,Jesus De Machaca,2013,6,Cantidad,1
+Santa Cruz,70104,La Guardia,2013,6,Cantidad,14
+La Paz,20101,La Paz,2013,6,Cantidad,291
+Oruro,40702,Machacamarca,2013,6,Cantidad,1
+La Paz,20607,Mapiri,2013,6,Cantidad,1
+Santa Cruz,71003,Mineros,2013,6,Cantidad,5
+Chuquisaca,10501,Monteagudo,2013,6,Cantidad,1
+Santa Cruz,71001,Montero,2013,6,Cantidad,12
+Cochabamba,30302,Morochata,2013,6,Cantidad,3
+Oruro,40101,Oruro,2013,6,Cantidad,55
+Tarija,60201,Padcaya,2013,6,Cantidad,1
+Santa Cruz,70902,Pampa Grande,2013,6,Cantidad,1
+Oruro,40602,Pazña,2013,6,Cantidad,1
+Santa Cruz,70103,Porongo,2013,6,Cantidad,1
+Potosí,50101,Potosi,2013,6,Cantidad,8
+Pando,90301,Puerto Gonzalo Moreno,2013,6,Cantidad,2
+Pando,90201,Puerto Rico,2013,6,Cantidad,2
+Cochabamba,31205,Puerto Villarroel,2013,6,Cantidad,1
+Cochabamba,31401,Punata,2013,6,Cantidad,2
+Beni,80201,Riberalta,2013,6,Cantidad,19
+Cochabamba,31001,Sacaba,2013,6,Cantidad,7
+Santa Cruz,71302,Saipina,2013,6,Cantidad,1
+Oruro,40801,Salinas De Garci Mendoza,2013,6,Cantidad,1
+Beni,80302,San Borja,2013,6,Cantidad,2
+Santa Cruz,70402,San Carlos,2013,6,Cantidad,3
+Beni,80501,San Ignacio,2013,6,Cantidad,3
+Santa Cruz,70301,San Ignacio De Velasco,2013,6,Cantidad,12
+Santa Cruz,71104,San Julian,2013,6,Cantidad,3
+Santa Cruz,71005,San Pedro,2013,6,Cantidad,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,6,Cantidad,185
+Pando,90303,Sena,2013,6,Cantidad,1
+Cochabamba,31602,Shinaota,2013,6,Cantidad,15
+La Paz,20601,Sorata,2013,6,Cantidad,1
+Chuquisaca,10101,Sucre,2013,6,Cantidad,37
+La Paz,20603,Tacacoma,2013,6,Cantidad,2
+Potosí,50303,Tacobamba,2013,6,Cantidad,1
+Cochabamba,30401,Tarata,2013,6,Cantidad,1
+Tarija,60101,Tarija,2013,6,Cantidad,39
+La Paz,20608,Teoponte,2013,6,Cantidad,3
+La Paz,20606,Tipuani,2013,6,Cantidad,5
+Cochabamba,30903,Tiquipaya,2013,6,Cantidad,12
+Cochabamba,31601,Tiraque (cbba),2013,6,Cantidad,4
+Beni,80101,Trinidad,2013,6,Cantidad,9
+Oruro,40402,Turco,2013,6,Cantidad,2
+Cochabamba,31003,Villa Tunari,2013,6,Cantidad,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2013,6,Cantidad,1
+Potosí,51501,Villazon,2013,6,Cantidad,3
+Potosí,50602,Vitichi,2013,6,Cantidad,1
+Santa Cruz,70201,Warnes,2013,6,Cantidad,2
+Tarija,60301,Yacuiba,2013,6,Cantidad,5
+Cochabamba,30201,Aiquile,2013,7,Cantidad,1
+Potosí,50802,Atocha,2013,7,Cantidad,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2013,7,Cantidad,1
+Potosí,50301,Betanzos,2013,7,Cantidad,2
+Santa Cruz,70401,Buena Vista,2013,7,Cantidad,1
+La Paz,21003,Cajuata,2013,7,Cantidad,1
+La Paz,21304,Calamarca,2013,7,Cantidad,2
+Santa Cruz,70706,Camiri,2013,7,Cantidad,3
+Oruro,40102,Caracollo,2013,7,Cantidad,1
+La Paz,21101,Chulumani (v. De La Libertad),2013,7,Cantidad,2
+Cochabamba,30801,Cliza,2013,7,Cantidad,1
+Pando,90101,Cobija,2013,7,Cantidad,14
+Cochabamba,30101,Cochabamba,2013,7,Cantidad,65
+La Paz,21307,Collana,2013,7,Cantidad,1
+La Paz,21401,Coroico,2013,7,Cantidad,1
+Potosí,50601,Cotagaita,2013,7,Cantidad,1
+Santa Cruz,70102,Cotoca,2013,7,Cantidad,5
+Santa Cruz,71106,Cuatro Cañadas,2013,7,Cantidad,5
+La Paz,20105,El Alto,2013,7,Cantidad,83
+Santa Cruz,70105,El Torno,2013,7,Cantidad,4
+Cochabamba,31206,Entre Rios Cbba,2013,7,Cantidad,4
+La Paz,20405,Escoma,2013,7,Cantidad,1
+Santa Cruz,71004,Fernandez Alonso,2013,7,Cantidad,3
+Santa Cruz,71002,General Saavedra,2013,7,Cantidad,1
+Beni,80202,Guayaramerin,2013,7,Cantidad,1
+Oruro,40701,Huanuni,2013,7,Cantidad,6
+Chuquisaca,10304,Icla,2013,7,Cantidad,1
+Chuquisaca,10703,Incahuasi,2013,7,Cantidad,5
+La Paz,21102,Irupana (villa De Lanza),2013,7,Cantidad,4
+La Paz,20806,Jesus De Machaca,2013,7,Cantidad,1
+Santa Cruz,70104,La Guardia,2013,7,Cantidad,7
+La Paz,20101,La Paz,2013,7,Cantidad,346
+Chuquisaca,11003,Machareti,2013,7,Cantidad,1
+Beni,80801,Magdalena,2013,7,Cantidad,1
+Santa Cruz,71003,Mineros,2013,7,Cantidad,1
+Cochabamba,31301,Mizque,2013,7,Cantidad,2
+Chuquisaca,10501,Monteagudo,2013,7,Cantidad,4
+Santa Cruz,71001,Montero,2013,7,Cantidad,20
+Oruro,40101,Oruro,2013,7,Cantidad,75
+Santa Cruz,70502,Pailon,2013,7,Cantidad,1
+Potosí,50101,Potosi,2013,7,Cantidad,8
+La Paz,21201,Pucarani,2013,7,Cantidad,1
+Pando,90201,Puerto Rico,2013,7,Cantidad,1
+Santa Cruz,71401,Puerto Suarez,2013,7,Cantidad,1
+Cochabamba,31401,Punata,2013,7,Cantidad,3
+Cochabamba,30901,Quillacollo,2013,7,Cantidad,1
+Potosí,50402,Ravelo,2013,7,Cantidad,1
+Beni,80201,Riberalta,2013,7,Cantidad,16
+Beni,80304,Rurrenabaque,2013,7,Cantidad,2
+Oruro,40901,Sabaya,2013,7,Cantidad,1
+Cochabamba,31001,Sacaba,2013,7,Cantidad,5
+Cochabamba,30404,Sacabamba,2013,7,Cantidad,2
+Cochabamba,31403,San Benito,2013,7,Cantidad,2
+Santa Cruz,70402,San Carlos,2013,7,Cantidad,3
+Beni,80501,San Ignacio,2013,7,Cantidad,4
+Santa Cruz,70301,San Ignacio De Velasco,2013,7,Cantidad,13
+Santa Cruz,70501,San Jose De Chiquitos,2013,7,Cantidad,1
+Santa Cruz,71104,San Julian,2013,7,Cantidad,4
+Santa Cruz,71201,San Matias,2013,7,Cantidad,1
+Santa Cruz,71005,San Pedro,2013,7,Cantidad,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,Cantidad,268
+Cochabamba,31602,Shinaota,2013,7,Cantidad,18
+Chuquisaca,10101,Sucre,2013,7,Cantidad,40
+Cochabamba,30401,Tarata,2013,7,Cantidad,2
+Tarija,60101,Tarija,2013,7,Cantidad,44
+La Paz,20608,Teoponte,2013,7,Cantidad,1
+La Paz,20606,Tipuani,2013,7,Cantidad,2
+Cochabamba,30903,Tiquipaya,2013,7,Cantidad,14
+Beni,80101,Trinidad,2013,7,Cantidad,2
+Potosí,50201,Uncia,2013,7,Cantidad,2
+Tarija,60401,Uriondo (a. Concepcion),2013,7,Cantidad,1
+Chuquisaca,10704,Villa Charcas,2013,7,Cantidad,1
+Cochabamba,31003,Villa Tunari,2013,7,Cantidad,4
+Potosí,51501,Villazon,2013,7,Cantidad,6
+Santa Cruz,70201,Warnes,2013,7,Cantidad,5
+Tarija,60301,Yacuiba,2013,7,Cantidad,5
+Santa Cruz,70403,Yapacani,2013,7,Cantidad,1
+Chuquisaca,10301,Zudañez,2013,7,Cantidad,1
+La Paz,20104,Achocalla,2013,8,Cantidad,1
+Cochabamba,30201,Aiquile,2013,8,Cantidad,1
+Chuquisaca,10404,Alcala,2013,8,Cantidad,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2013,8,Cantidad,1
+Pando,90103,Bolpebra,2013,8,Cantidad,1
+Santa Cruz,70706,Camiri,2013,8,Cantidad,2
+La Paz,22001,Caranavi,2013,8,Cantidad,1
+Tarija,60302,Carapari,2013,8,Cantidad,1
+La Paz,21101,Chulumani (v. De La Libertad),2013,8,Cantidad,10
+Pando,90101,Cobija,2013,8,Cantidad,7
+Cochabamba,30303,Cocapata,2013,8,Cantidad,1
+Cochabamba,30101,Cochabamba,2013,8,Cantidad,53
+La Paz,21307,Collana,2013,8,Cantidad,2
+Santa Cruz,70102,Cotoca,2013,8,Cantidad,5
+Santa Cruz,71106,Cuatro Cañadas,2013,8,Cantidad,3
+La Paz,20105,El Alto,2013,8,Cantidad,76
+Santa Cruz,71503,El Puente(stc),2013,8,Cantidad,2
+Tarija,60502,El Puente(tja),2013,8,Cantidad,1
+Santa Cruz,70105,El Torno,2013,8,Cantidad,3
+Santa Cruz,71004,Fernandez Alonso,2013,8,Cantidad,1
+Oruro,40701,Huanuni,2013,8,Cantidad,3
+Chuquisaca,10703,Incahuasi,2013,8,Cantidad,2
+La Paz,21105,La Asunta,2013,8,Cantidad,1
+Santa Cruz,70104,La Guardia,2013,8,Cantidad,7
+La Paz,20101,La Paz,2013,8,Cantidad,318
+Potosí,50203,Llallagua,2013,8,Cantidad,1
+La Paz,20607,Mapiri,2013,8,Cantidad,8
+Santa Cruz,71003,Mineros,2013,8,Cantidad,2
+Chuquisaca,10501,Monteagudo,2013,8,Cantidad,2
+Santa Cruz,71001,Montero,2013,8,Cantidad,15
+Cochabamba,30302,Morochata,2013,8,Cantidad,1
+Oruro,40101,Oruro,2013,8,Cantidad,79
+Oruro,40601,Poopo,2013,8,Cantidad,1
+Potosí,50101,Potosi,2013,8,Cantidad,8
+La Paz,21201,Pucarani,2013,8,Cantidad,2
+Pando,90201,Puerto Rico,2013,8,Cantidad,1
+Santa Cruz,71401,Puerto Suarez,2013,8,Cantidad,5
+Beni,80201,Riberalta,2013,8,Cantidad,12
+Oruro,40901,Sabaya,2013,8,Cantidad,1
+Cochabamba,31001,Sacaba,2013,8,Cantidad,5
+Santa Cruz,70402,San Carlos,2013,8,Cantidad,3
+Santa Cruz,70301,San Ignacio De Velasco,2013,8,Cantidad,5
+Santa Cruz,70501,San Jose De Chiquitos,2013,8,Cantidad,1
+Santa Cruz,71104,San Julian,2013,8,Cantidad,1
+Santa Cruz,71005,San Pedro,2013,8,Cantidad,2
+Santa Cruz,70303,San Rafael,2013,8,Cantidad,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,8,Cantidad,238
+Oruro,40202,Santuario De Quillacas,2013,8,Cantidad,1
+Cochabamba,31602,Shinaota,2013,8,Cantidad,18
+Oruro,40104,Soracachi,2013,8,Cantidad,1
+Chuquisaca,10101,Sucre,2013,8,Cantidad,24
+Chuquisaca,10601,Tarabuco,2013,8,Cantidad,1
+Cochabamba,30401,Tarata,2013,8,Cantidad,3
+Tarija,60101,Tarija,2013,8,Cantidad,29
+Chuquisaca,10202,Tarvita,2013,8,Cantidad,1
+La Paz,20608,Teoponte,2013,8,Cantidad,1
+La Paz,20606,Tipuani,2013,8,Cantidad,3
+Cochabamba,30903,Tiquipaya,2013,8,Cantidad,8
+Beni,80101,Trinidad,2013,8,Cantidad,6
+Chuquisaca,10704,Villa Charcas,2013,8,Cantidad,2
+Cochabamba,31003,Villa Tunari,2013,8,Cantidad,57
+Potosí,51501,Villazon,2013,8,Cantidad,1
+Cochabamba,30904,Vinto,2013,8,Cantidad,2
+Santa Cruz,70201,Warnes,2013,8,Cantidad,5
+Tarija,60301,Yacuiba,2013,8,Cantidad,7
+Santa Cruz,70403,Yapacani,2013,8,Cantidad,2
+La Paz,20701,Apolo,2013,9,Cantidad,1
+Cochabamba,30501,Arani,2013,9,Cantidad,2
+Santa Cruz,71501,Ascencion De Guarayos,2013,9,Cantidad,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2013,9,Cantidad,2
+La Paz,21203,Batallas,2013,9,Cantidad,1
+Pando,90104,Bella Flor,2013,9,Cantidad,1
+Tarija,60202,Bermejo,2013,9,Cantidad,5
+Potosí,50301,Betanzos,2013,9,Cantidad,1
+La Paz,21304,Calamarca,2013,9,Cantidad,2
+Chuquisaca,10701,Camargo,2013,9,Cantidad,2
+Santa Cruz,70706,Camiri,2013,9,Cantidad,3
+Cochabamba,31204,Chimore,2013,9,Cantidad,1
+La Paz,21101,Chulumani (v. De La Libertad),2013,9,Cantidad,11
+Pando,90101,Cobija,2013,9,Cantidad,13
+Cochabamba,30101,Cochabamba,2013,9,Cantidad,39
+Cochabamba,30905,Colcapirhua,2013,9,Cantidad,2
+Potosí,50401,Colquechaca,2013,9,Cantidad,1
+Santa Cruz,71101,Concepcion,2013,9,Cantidad,1
+La Paz,21402,Coripata,2013,9,Cantidad,1
+Santa Cruz,70102,Cotoca,2013,9,Cantidad,4
+Santa Cruz,71106,Cuatro Cañadas,2013,9,Cantidad,6
+La Paz,20105,El Alto,2013,9,Cantidad,75
+Santa Cruz,71503,El Puente(stc),2013,9,Cantidad,3
+Santa Cruz,70105,El Torno,2013,9,Cantidad,10
+Cochabamba,31206,Entre Rios Cbba,2013,9,Cantidad,1
+Santa Cruz,71004,Fernandez Alonso,2013,9,Cantidad,3
+La Paz,21601,Gral. J.j. Perez (charazani),2013,9,Cantidad,2
+Oruro,40701,Huanuni,2013,9,Cantidad,6
+La Paz,21102,Irupana (villa De Lanza),2013,9,Cantidad,1
+Santa Cruz,70104,La Guardia,2013,9,Cantidad,12
+La Paz,20101,La Paz,2013,9,Cantidad,222
+Potosí,50203,Llallagua,2013,9,Cantidad,1
+Beni,80801,Magdalena,2013,9,Cantidad,1
+La Paz,20402,Mocomoco,2013,9,Cantidad,1
+Chuquisaca,10303,Mojocoya,2013,9,Cantidad,1
+Chuquisaca,10501,Monteagudo,2013,9,Cantidad,1
+Santa Cruz,71001,Montero,2013,9,Cantidad,11
+Oruro,40101,Oruro,2013,9,Cantidad,58
+Santa Cruz,70502,Pailon,2013,9,Cantidad,1
+La Paz,21104,Palos Blancos,2013,9,Cantidad,1
+Santa Cruz,70902,Pampa Grande,2013,9,Cantidad,1
+Potosí,50403,Pocoata,2013,9,Cantidad,1
+Oruro,40601,Poopo,2013,9,Cantidad,1
+Chuquisaca,10103,Poroma,2013,9,Cantidad,1
+Potosí,50101,Potosi,2013,9,Cantidad,5
+La Paz,21201,Pucarani,2013,9,Cantidad,1
+Santa Cruz,71401,Puerto Suarez,2013,9,Cantidad,1
+Cochabamba,31205,Puerto Villarroel,2013,9,Cantidad,1
+La Paz,20604,Quiabaya,2013,9,Cantidad,1
+Beni,80201,Riberalta,2013,9,Cantidad,16
+Santa Cruz,70503,Robore,2013,9,Cantidad,1
+Beni,80304,Rurrenabaque,2013,9,Cantidad,1
+Cochabamba,31001,Sacaba,2013,9,Cantidad,4
+Oruro,40801,Salinas De Garci Mendoza,2013,9,Cantidad,2
+Cochabamba,31403,San Benito,2013,9,Cantidad,2
+Beni,80302,San Borja,2013,9,Cantidad,1
+Santa Cruz,70402,San Carlos,2013,9,Cantidad,3
+Beni,80501,San Ignacio,2013,9,Cantidad,1
+Santa Cruz,70301,San Ignacio De Velasco,2013,9,Cantidad,4
+Santa Cruz,70501,San Jose De Chiquitos,2013,9,Cantidad,3
+Santa Cruz,70404,San Juan De Yapacani,2013,9,Cantidad,1
+Santa Cruz,71104,San Julian,2013,9,Cantidad,4
+Tarija,60501,San Lorenzo(tja),2013,9,Cantidad,1
+Santa Cruz,71201,San Matias,2013,9,Cantidad,1
+Santa Cruz,71005,San Pedro,2013,9,Cantidad,2
+Pando,90202,San Pedro(pnd),2013,9,Cantidad,1
+Santa Cruz,71103,San Ramon Scz,2013,9,Cantidad,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,9,Cantidad,282
+Santa Cruz,70602,Santa Rosa Del Sara,2013,9,Cantidad,1
+Cochabamba,31602,Shinaota,2013,9,Cantidad,20
+Cochabamba,30902,Sipe Sipe,2013,9,Cantidad,1
+Chuquisaca,10101,Sucre,2013,9,Cantidad,28
+La Paz,20603,Tacacoma,2013,9,Cantidad,1
+Cochabamba,31101,Tapacari,2013,9,Cantidad,1
+Cochabamba,30401,Tarata,2013,9,Cantidad,2
+Tarija,60101,Tarija,2013,9,Cantidad,53
+Cochabamba,30903,Tiquipaya,2013,9,Cantidad,5
+Cochabamba,31601,Tiraque (cbba),2013,9,Cantidad,1
+Beni,80101,Trinidad,2013,9,Cantidad,1
+Potosí,50801,Tupiza,2013,9,Cantidad,10
+Chuquisaca,10704,Villa Charcas,2013,9,Cantidad,1
+Tarija,60303,Villa Montes,2013,9,Cantidad,1
+Cochabamba,31003,Villa Tunari,2013,9,Cantidad,91
+Potosí,51501,Villazon,2013,9,Cantidad,5
+Cochabamba,30904,Vinto,2013,9,Cantidad,2
+Santa Cruz,70201,Warnes,2013,9,Cantidad,5
+Tarija,60301,Yacuiba,2013,9,Cantidad,2
+Chuquisaca,10602,Yamparaez,2013,9,Cantidad,1
+La Paz,21103,Yanacachi,2013,9,Cantidad,1
+Cochabamba,30501,Arani,2013,10,Cantidad,1
+Potosí,50802,Atocha,2013,10,Cantidad,1
+La Paz,21303,Ayo Ayo,2013,10,Cantidad,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2013,10,Cantidad,1
+Tarija,60202,Bermejo,2013,10,Cantidad,11
+Potosí,50301,Betanzos,2013,10,Cantidad,6
+Santa Cruz,70707,Boyuibe,2013,10,Cantidad,1
+Chuquisaca,10701,Camargo,2013,10,Cantidad,2
+Santa Cruz,70706,Camiri,2013,10,Cantidad,2
+Cochabamba,30701,Capinota,2013,10,Cantidad,1
+Tarija,60302,Carapari,2013,10,Cantidad,1
+La Paz,21101,Chulumani (v. De La Libertad),2013,10,Cantidad,12
+Pando,90101,Cobija,2013,10,Cantidad,4
+Cochabamba,30101,Cochabamba,2013,10,Cantidad,47
+Cochabamba,31002,Colomi,2013,10,Cantidad,2
+Potosí,50401,Colquechaca,2013,10,Cantidad,4
+La Paz,21004,Colquiri,2013,10,Cantidad,1
+La Paz,21402,Coripata,2013,10,Cantidad,2
+Potosí,50601,Cotagaita,2013,10,Cantidad,1
+Santa Cruz,70102,Cotoca,2013,10,Cantidad,1
+La Paz,20105,El Alto,2013,10,Cantidad,143
+Santa Cruz,71503,El Puente(stc),2013,10,Cantidad,1
+Tarija,60502,El Puente(tja),2013,10,Cantidad,1
+Santa Cruz,70105,El Torno,2013,10,Cantidad,3
+Santa Cruz,71004,Fernandez Alonso,2013,10,Cantidad,1
+Beni,80202,Guayaramerin,2013,10,Cantidad,1
+Chuquisaca,11002,Huacaya (villa De Huacaya),2013,10,Cantidad,1
+Oruro,40701,Huanuni,2013,10,Cantidad,6
+Oruro,41601,Huayllamarca,2013,10,Cantidad,1
+La Paz,20806,Jesus De Machaca,2013,10,Cantidad,1
+Santa Cruz,70104,La Guardia,2013,10,Cantidad,24
+La Paz,20101,La Paz,2013,10,Cantidad,265
+Santa Cruz,70701,Lagunillas,2013,10,Cantidad,1
+Potosí,50203,Llallagua,2013,10,Cantidad,3
+La Paz,20901,Luribay,2013,10,Cantidad,1
+Chuquisaca,11003,Machareti,2013,10,Cantidad,1
+Beni,80801,Magdalena,2013,10,Cantidad,1
+Santa Cruz,71003,Mineros,2013,10,Cantidad,7
+Cochabamba,31301,Mizque,2013,10,Cantidad,2
+Chuquisaca,10501,Monteagudo,2013,10,Cantidad,4
+Santa Cruz,71001,Montero,2013,10,Cantidad,20
+Potosí,50404,Ocuri,2013,10,Cantidad,1
+Oruro,40101,Oruro,2013,10,Cantidad,73
+La Paz,21305,Patacamaya,2013,10,Cantidad,2
+Oruro,40602,Pazña,2013,10,Cantidad,1
+Santa Cruz,70804,Postrer Valle,2013,10,Cantidad,2
+Potosí,50101,Potosi,2013,10,Cantidad,10
+Santa Cruz,71402,Puerto Quijarro,2013,10,Cantidad,1
+Santa Cruz,71401,Puerto Suarez,2013,10,Cantidad,2
+Cochabamba,31205,Puerto Villarroel,2013,10,Cantidad,3
+Potosí,51101,Puna,2013,10,Cantidad,1
+Cochabamba,31401,Punata,2013,10,Cantidad,3
+Beni,80201,Riberalta,2013,10,Cantidad,22
+Oruro,40901,Sabaya,2013,10,Cantidad,1
+Cochabamba,31001,Sacaba,2013,10,Cantidad,8
+Cochabamba,31403,San Benito,2013,10,Cantidad,3
+Beni,80302,San Borja,2013,10,Cantidad,28
+Santa Cruz,70402,San Carlos,2013,10,Cantidad,5
+Beni,80501,San Ignacio,2013,10,Cantidad,4
+Santa Cruz,70301,San Ignacio De Velasco,2013,10,Cantidad,11
+Santa Cruz,70501,San Jose De Chiquitos,2013,10,Cantidad,2
+Santa Cruz,71104,San Julian,2013,10,Cantidad,4
+Santa Cruz,71201,San Matias,2013,10,Cantidad,2
+Santa Cruz,71005,San Pedro,2013,10,Cantidad,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,10,Cantidad,288
+Pando,90303,Sena,2013,10,Cantidad,1
+Cochabamba,31602,Shinaota,2013,10,Cantidad,13
+Cochabamba,30902,Sipe Sipe,2013,10,Cantidad,4
+Chuquisaca,10403,Sopachuy,2013,10,Cantidad,2
+Chuquisaca,10101,Sucre,2013,10,Cantidad,37
+La Paz,20603,Tacacoma,2013,10,Cantidad,3
+Cochabamba,30401,Tarata,2013,10,Cantidad,2
+Tarija,60101,Tarija,2013,10,Cantidad,26
+Chuquisaca,10202,Tarvita,2013,10,Cantidad,4
+La Paz,20608,Teoponte,2013,10,Cantidad,1
+Potosí,50102,Tinguipaya,2013,10,Cantidad,1
+Cochabamba,30903,Tiquipaya,2013,10,Cantidad,8
+Beni,80101,Trinidad,2013,10,Cantidad,4
+Oruro,40402,Turco,2013,10,Cantidad,1
+Potosí,50201,Uncia,2013,10,Cantidad,1
+Chuquisaca,10704,Villa Charcas,2013,10,Cantidad,2
+Cochabamba,31402,Villa Rivero,2013,10,Cantidad,1
+Cochabamba,31003,Villa Tunari,2013,10,Cantidad,9
+Potosí,51501,Villazon,2013,10,Cantidad,4
+Cochabamba,30904,Vinto,2013,10,Cantidad,5
+Santa Cruz,70201,Warnes,2013,10,Cantidad,7
+Tarija,60301,Yacuiba,2013,10,Cantidad,6
+La Paz,21103,Yanacachi,2013,10,Cantidad,1
+Cochabamba,30201,Aiquile,2013,11,Cantidad,3
+La Paz,20701,Apolo,2013,11,Cantidad,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2013,11,Cantidad,4
+Tarija,60202,Bermejo,2013,11,Cantidad,9
+Potosí,50301,Betanzos,2013,11,Cantidad,7
+Potosí,51102,"Caiza ""d""",2013,11,Cantidad,1
+La Paz,21304,Calamarca,2013,11,Cantidad,1
+Cochabamba,30701,Capinota,2013,11,Cantidad,1
+Cochabamba,31204,Chimore,2013,11,Cantidad,3
+La Paz,21101,Chulumani (v. De La Libertad),2013,11,Cantidad,6
+Pando,90101,Cobija,2013,11,Cantidad,5
+Cochabamba,30101,Cochabamba,2013,11,Cantidad,24
+Potosí,50401,Colquechaca,2013,11,Cantidad,5
+Potosí,50601,Cotagaita,2013,11,Cantidad,1
+Santa Cruz,70102,Cotoca,2013,11,Cantidad,4
+La Paz,20105,El Alto,2013,11,Cantidad,84
+Santa Cruz,71002,General Saavedra,2013,11,Cantidad,1
+Oruro,40701,Huanuni,2013,11,Cantidad,5
+Santa Cruz,70104,La Guardia,2013,11,Cantidad,17
+La Paz,20101,La Paz,2013,11,Cantidad,265
+Potosí,50203,Llallagua,2013,11,Cantidad,1
+Santa Cruz,71003,Mineros,2013,11,Cantidad,2
+Chuquisaca,10501,Monteagudo,2013,11,Cantidad,2
+Santa Cruz,71001,Montero,2013,11,Cantidad,7
+Oruro,40101,Oruro,2013,11,Cantidad,58
+Tarija,60201,Padcaya,2013,11,Cantidad,1
+Potosí,50403,Pocoata,2013,11,Cantidad,1
+Santa Cruz,70804,Postrer Valle,2013,11,Cantidad,1
+Potosí,50101,Potosi,2013,11,Cantidad,16
+La Paz,21201,Pucarani,2013,11,Cantidad,1
+Santa Cruz,71402,Puerto Quijarro,2013,11,Cantidad,1
+Santa Cruz,71401,Puerto Suarez,2013,11,Cantidad,1
+Cochabamba,31205,Puerto Villarroel,2013,11,Cantidad,1
+Potosí,51101,Puna,2013,11,Cantidad,1
+Beni,80201,Riberalta,2013,11,Cantidad,26
+Santa Cruz,70503,Robore,2013,11,Cantidad,4
+Beni,80304,Rurrenabaque,2013,11,Cantidad,2
+Cochabamba,31001,Sacaba,2013,11,Cantidad,3
+Santa Cruz,71302,Saipina,2013,11,Cantidad,1
+Beni,80302,San Borja,2013,11,Cantidad,1
+Beni,80501,San Ignacio,2013,11,Cantidad,2
+Santa Cruz,70301,San Ignacio De Velasco,2013,11,Cantidad,13
+Santa Cruz,70501,San Jose De Chiquitos,2013,11,Cantidad,1
+Santa Cruz,71201,San Matias,2013,11,Cantidad,2
+Santa Cruz,70302,San Miguel De Velasco,2013,11,Cantidad,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,11,Cantidad,220
+Pando,90303,Sena,2013,11,Cantidad,3
+Cochabamba,31602,Shinaota,2013,11,Cantidad,15
+Chuquisaca,10403,Sopachuy,2013,11,Cantidad,2
+La Paz,20601,Sorata,2013,11,Cantidad,1
+Chuquisaca,10101,Sucre,2013,11,Cantidad,63
+La Paz,20603,Tacacoma,2013,11,Cantidad,1
+Tarija,60101,Tarija,2013,11,Cantidad,64
+Potosí,50102,Tinguipaya,2013,11,Cantidad,1
+La Paz,20606,Tipuani,2013,11,Cantidad,1
+Cochabamba,30903,Tiquipaya,2013,11,Cantidad,9
+Cochabamba,31601,Tiraque (cbba),2013,11,Cantidad,1
+Beni,80101,Trinidad,2013,11,Cantidad,2
+Potosí,50201,Uncia,2013,11,Cantidad,2
+Chuquisaca,10704,Villa Charcas,2013,11,Cantidad,3
+Cochabamba,31003,Villa Tunari,2013,11,Cantidad,49
+Potosí,51501,Villazon,2013,11,Cantidad,7
+Cochabamba,30904,Vinto,2013,11,Cantidad,2
+Santa Cruz,70201,Warnes,2013,11,Cantidad,3
+Tarija,60301,Yacuiba,2013,11,Cantidad,3
+Potosí,50802,Atocha,2013,12,Cantidad,1
+Tarija,60202,Bermejo,2013,12,Cantidad,5
+Potosí,50301,Betanzos,2013,12,Cantidad,5
+Santa Cruz,70703,Cabezas,2013,12,Cantidad,1
+Potosí,51102,"Caiza ""d""",2013,12,Cantidad,1
+La Paz,21304,Calamarca,2013,12,Cantidad,1
+Santa Cruz,70706,Camiri,2013,12,Cantidad,3
+Potosí,50302,Chaqui,2013,12,Cantidad,2
+La Paz,21101,Chulumani (v. De La Libertad),2013,12,Cantidad,6
+Pando,90101,Cobija,2013,12,Cantidad,6
+Cochabamba,30101,Cochabamba,2013,12,Cantidad,37
+Santa Cruz,71101,Concepcion,2013,12,Cantidad,1
+Santa Cruz,70102,Cotoca,2013,12,Cantidad,3
+La Paz,20105,El Alto,2013,12,Cantidad,75
+Santa Cruz,70105,El Torno,2013,12,Cantidad,7
+Santa Cruz,71002,General Saavedra,2013,12,Cantidad,1
+La Paz,20802,Guaqui,2013,12,Cantidad,1
+Santa Cruz,70705,Gutierrez,2013,12,Cantidad,1
+Oruro,40701,Huanuni,2013,12,Cantidad,5
+La Paz,21105,La Asunta,2013,12,Cantidad,6
+Santa Cruz,70104,La Guardia,2013,12,Cantidad,10
+La Paz,20101,La Paz,2013,12,Cantidad,52
+Potosí,50203,Llallagua,2013,12,Cantidad,2
+Santa Cruz,70903,Mairana,2013,12,Cantidad,1
+Chuquisaca,10501,Monteagudo,2013,12,Cantidad,1
+Santa Cruz,71001,Montero,2013,12,Cantidad,8
+Oruro,40101,Oruro,2013,12,Cantidad,66
+Cochabamba,31202,Pojo (cbba),2013,12,Cantidad,1
+Oruro,40601,Poopo,2013,12,Cantidad,1
+Pando,90102,Porvenir,2013,12,Cantidad,1
+Potosí,50101,Potosi,2013,12,Cantidad,24
+La Paz,20403,Puerto Carabuco,2013,12,Cantidad,1
+Pando,90201,Puerto Rico,2013,12,Cantidad,1
+Cochabamba,31205,Puerto Villarroel,2013,12,Cantidad,1
+Potosí,51101,Puna,2013,12,Cantidad,2
+Cochabamba,31401,Punata,2013,12,Cantidad,5
+La Paz,20604,Quiabaya,2013,12,Cantidad,3
+Beni,80201,Riberalta,2013,12,Cantidad,17
+Santa Cruz,70503,Robore,2013,12,Cantidad,3
+Beni,80304,Rurrenabaque,2013,12,Cantidad,1
+Cochabamba,31001,Sacaba,2013,12,Cantidad,5
+Beni,80501,San Ignacio,2013,12,Cantidad,2
+Santa Cruz,70301,San Ignacio De Velasco,2013,12,Cantidad,6
+Santa Cruz,71201,San Matias,2013,12,Cantidad,2
+Santa Cruz,70302,San Miguel De Velasco,2013,12,Cantidad,1
+Santa Cruz,71005,San Pedro,2013,12,Cantidad,1
+Santa Cruz,71103,San Ramon Scz,2013,12,Cantidad,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,12,Cantidad,217
+Pando,90303,Sena,2013,12,Cantidad,2
+Cochabamba,31602,Shinaota,2013,12,Cantidad,11
+Cochabamba,30902,Sipe Sipe,2013,12,Cantidad,1
+Chuquisaca,10101,Sucre,2013,12,Cantidad,70
+La Paz,20603,Tacacoma,2013,12,Cantidad,1
+Tarija,60101,Tarija,2013,12,Cantidad,30
+Potosí,50102,Tinguipaya,2013,12,Cantidad,2
+La Paz,20606,Tipuani,2013,12,Cantidad,2
+Cochabamba,30903,Tiquipaya,2013,12,Cantidad,4
+Cochabamba,31601,Tiraque (cbba),2013,12,Cantidad,1
+Beni,80101,Trinidad,2013,12,Cantidad,1
+Potosí,50201,Uncia,2013,12,Cantidad,1
+Chuquisaca,10704,Villa Charcas,2013,12,Cantidad,1
+Cochabamba,31003,Villa Tunari,2013,12,Cantidad,4
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2013,12,Cantidad,3
+Potosí,51501,Villazon,2013,12,Cantidad,7
+Potosí,50602,Vitichi,2013,12,Cantidad,1
+Tarija,60301,Yacuiba,2013,12,Cantidad,11
+La Paz,21103,Yanacachi,2013,12,Cantidad,1
+Santa Cruz,70403,Yapacani,2013,12,Cantidad,1
+Chuquisaca,10102,Yotala,2013,12,Cantidad,1
+Chuquisaca,10301,Zudañez,2013,12,Cantidad,1
+La Paz,20104,Achocalla,2013,1,TOTAL,1
+Cochabamba,30201,Aiquile,2013,1,TOTAL,5
+Cochabamba,30501,Arani,2013,1,TOTAL,1
+Tarija,60202,Bermejo,2013,1,TOTAL,2
+Potosí,50301,Betanzos,2013,1,TOTAL,1
+Santa Cruz,70703,Cabezas,2013,1,TOTAL,1
+Potosí,51102,"Caiza ""d""",2013,1,TOTAL,1
+La Paz,21304,Calamarca,2013,1,TOTAL,2
+Cochabamba,30701,Capinota,2013,1,TOTAL,1
+Oruro,40201,Challapata,2013,1,TOTAL,1
+Potosí,50202,Chayanta,2013,1,TOTAL,1
+Cochabamba,31204,Chimore,2013,1,TOTAL,2
+Potosí,50204,Chuquihuta Ayllu Jucumani,2013,1,TOTAL,1
+Pando,90101,Cobija,2013,1,TOTAL,1
+Cochabamba,30101,Cochabamba,2013,1,TOTAL,53
+Potosí,50401,Colquechaca,2013,1,TOTAL,1
+Santa Cruz,71101,Concepcion,2013,1,TOTAL,2
+Potosí,50601,Cotagaita,2013,1,TOTAL,3
+Santa Cruz,70102,Cotoca,2013,1,TOTAL,1
+Santa Cruz,71106,Cuatro Cañadas,2013,1,TOTAL,3
+La Paz,20105,El Alto,2013,1,TOTAL,44
+Santa Cruz,70105,El Torno,2013,1,TOTAL,7
+Chuquisaca,10405,El Villar,2013,1,TOTAL,1
+La Paz,20405,Escoma,2013,1,TOTAL,1
+La Paz,20602,Guanay,2013,1,TOTAL,1
+Beni,80202,Guayaramerin,2013,1,TOTAL,2
+Oruro,40501,Huachacalla,2013,1,TOTAL,1
+Oruro,40701,Huanuni,2013,1,TOTAL,3
+Pando,90402,Ingavi (humaita),2013,1,TOTAL,2
+La Paz,20806,Jesus De Machaca,2013,1,TOTAL,1
+Santa Cruz,70104,La Guardia,2013,1,TOTAL,4
+La Paz,20101,La Paz,2013,1,TOTAL,128
+Beni,80601,Loreto,2013,1,TOTAL,1
+Oruro,40702,Machacamarca,2013,1,TOTAL,1
+Santa Cruz,71003,Mineros,2013,1,TOTAL,3
+Cochabamba,31301,Mizque,2013,1,TOTAL,1
+Chuquisaca,10303,Mojocoya,2013,1,TOTAL,2
+Chuquisaca,10501,Monteagudo,2013,1,TOTAL,4
+Santa Cruz,71001,Montero,2013,1,TOTAL,9
+Oruro,40101,Oruro,2013,1,TOTAL,65
+Chuquisaca,10401,Padilla,2013,1,TOTAL,1
+La Paz,21104,Palos Blancos,2013,1,TOTAL,1
+Oruro,40602,Pazña,2013,1,TOTAL,1
+Santa Cruz,70103,Porongo,2013,1,TOTAL,1
+Potosí,50101,Potosi,2013,1,TOTAL,5
+Pando,90301,Puerto Gonzalo Moreno,2013,1,TOTAL,1
+La Paz,21204,Puerto Perez,2013,1,TOTAL,1
+Santa Cruz,71402,Puerto Quijarro,2013,1,TOTAL,1
+Pando,90201,Puerto Rico,2013,1,TOTAL,4
+Santa Cruz,71401,Puerto Suarez,2013,1,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2013,1,TOTAL,1
+La Paz,21002,Quime,2013,1,TOTAL,2
+Beni,80201,Riberalta,2013,1,TOTAL,5
+Beni,80304,Rurrenabaque,2013,1,TOTAL,1
+Cochabamba,31001,Sacaba,2013,1,TOTAL,6
+Cochabamba,31403,San Benito,2013,1,TOTAL,3
+Santa Cruz,70402,San Carlos,2013,1,TOTAL,4
+Santa Cruz,70301,San Ignacio De Velasco,2013,1,TOTAL,7
+Santa Cruz,71104,San Julian,2013,1,TOTAL,4
+Santa Cruz,71201,San Matias,2013,1,TOTAL,1
+Santa Cruz,70302,San Miguel De Velasco,2013,1,TOTAL,1
+Santa Cruz,71005,San Pedro,2013,1,TOTAL,2
+Santa Cruz,70303,San Rafael,2013,1,TOTAL,1
+Santa Cruz,71103,San Ramon Scz,2013,1,TOTAL,1
+Beni,80401,Santa Ana,2013,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,TOTAL,185
+Oruro,40202,Santuario De Quillacas,2013,1,TOTAL,1
+Cochabamba,31602,Shinaota,2013,1,TOTAL,11
+La Paz,20601,Sorata,2013,1,TOTAL,1
+Chuquisaca,10101,Sucre,2013,1,TOTAL,64
+Tarija,60101,Tarija,2013,1,TOTAL,24
+La Paz,20606,Tipuani,2013,1,TOTAL,1
+Cochabamba,30903,Tiquipaya,2013,1,TOTAL,7
+Potosí,51202,Tomave,2013,1,TOTAL,1
+Chuquisaca,10402,Tomina,2013,1,TOTAL,2
+Potosí,50502,Toro Toro,2013,1,TOTAL,1
+Oruro,41301,Totora(orr),2013,1,TOTAL,1
+Beni,80101,Trinidad,2013,1,TOTAL,11
+Chuquisaca,10704,Villa Charcas,2013,1,TOTAL,1
+Cochabamba,31003,Villa Tunari,2013,1,TOTAL,2
+Potosí,51501,Villazon,2013,1,TOTAL,4
+Santa Cruz,70201,Warnes,2013,1,TOTAL,6
+Tarija,60301,Yacuiba,2013,1,TOTAL,16
+La Paz,20104,Achocalla,2013,2,TOTAL,1
+Cochabamba,30201,Aiquile,2013,2,TOTAL,2
+Cochabamba,30501,Arani,2013,2,TOTAL,1
+Santa Cruz,70703,Cabezas,2013,2,TOTAL,8
+Santa Cruz,70706,Camiri,2013,2,TOTAL,3
+La Paz,22001,Caranavi,2013,2,TOTAL,1
+Cochabamba,30801,Cliza,2013,2,TOTAL,1
+Pando,90101,Cobija,2013,2,TOTAL,6
+Cochabamba,30101,Cochabamba,2013,2,TOTAL,40
+Potosí,50601,Cotagaita,2013,2,TOTAL,1
+Santa Cruz,71106,Cuatro Cañadas,2013,2,TOTAL,4
+La Paz,20105,El Alto,2013,2,TOTAL,35
+Santa Cruz,70105,El Torno,2013,2,TOTAL,2
+Santa Cruz,71004,Fernandez Alonso,2013,2,TOTAL,2
+Oruro,40501,Huachacalla,2013,2,TOTAL,1
+Oruro,40701,Huanuni,2013,2,TOTAL,9
+Chuquisaca,10304,Icla,2013,2,TOTAL,1
+La Paz,21001,Inquisivi,2013,2,TOTAL,2
+La Paz,20806,Jesus De Machaca,2013,2,TOTAL,1
+La Paz,21105,La Asunta,2013,2,TOTAL,2
+Santa Cruz,70104,La Guardia,2013,2,TOTAL,9
+La Paz,20101,La Paz,2013,2,TOTAL,145
+Potosí,50203,Llallagua,2013,2,TOTAL,1
+La Paz,20103,Mecapaca,2013,2,TOTAL,2
+Santa Cruz,71003,Mineros,2013,2,TOTAL,1
+Santa Cruz,71001,Montero,2013,2,TOTAL,13
+Potosí,50404,Ocuri,2013,2,TOTAL,2
+Oruro,40101,Oruro,2013,2,TOTAL,45
+Santa Cruz,70502,Pailon,2013,2,TOTAL,1
+La Paz,21104,Palos Blancos,2013,2,TOTAL,1
+Potosí,50403,Pocoata,2013,2,TOTAL,2
+Potosí,50101,Potosi,2013,2,TOTAL,14
+La Paz,21002,Quime,2013,2,TOTAL,2
+Beni,80201,Riberalta,2013,2,TOTAL,23
+Santa Cruz,70503,Robore,2013,2,TOTAL,1
+Cochabamba,31001,Sacaba,2013,2,TOTAL,11
+Cochabamba,31403,San Benito,2013,2,TOTAL,1
+Beni,80501,San Ignacio,2013,2,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2013,2,TOTAL,8
+Santa Cruz,71104,San Julian,2013,2,TOTAL,1
+Santa Cruz,70302,San Miguel De Velasco,2013,2,TOTAL,1
+Santa Cruz,71005,San Pedro,2013,2,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,2,TOTAL,175
+Cochabamba,31602,Shinaota,2013,2,TOTAL,8
+La Paz,21301,Sica Sica (villa Aroma),2013,2,TOTAL,2
+Chuquisaca,10101,Sucre,2013,2,TOTAL,32
+Tarija,60101,Tarija,2013,2,TOTAL,24
+Potosí,50102,Tinguipaya,2013,2,TOTAL,1
+La Paz,20606,Tipuani,2013,2,TOTAL,2
+Cochabamba,30903,Tiquipaya,2013,2,TOTAL,6
+Beni,80101,Trinidad,2013,2,TOTAL,3
+Santa Cruz,71502,Urubicha,2013,2,TOTAL,1
+Potosí,51201,Uyuni,2013,2,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2013,2,TOTAL,1
+Tarija,60303,Villa Montes,2013,2,TOTAL,3
+Potosí,51501,Villazon,2013,2,TOTAL,6
+Santa Cruz,70201,Warnes,2013,2,TOTAL,3
+Tarija,60301,Yacuiba,2013,2,TOTAL,5
+Potosí,51302,Acacio,2013,3,TOTAL,1
+Cochabamba,30201,Aiquile,2013,3,TOTAL,1
+La Paz,20202,Ancoraimes,2013,3,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2013,3,TOTAL,4
+Potosí,50301,Betanzos,2013,3,TOTAL,2
+La Paz,21304,Calamarca,2013,3,TOTAL,1
+Chuquisaca,10701,Camargo,2013,3,TOTAL,2
+Santa Cruz,70706,Camiri,2013,3,TOTAL,2
+La Paz,21101,Chulumani (v. De La Libertad),2013,3,TOTAL,11
+Potosí,50204,Chuquihuta Ayllu Jucumani,2013,3,TOTAL,1
+Cochabamba,30801,Cliza,2013,3,TOTAL,5
+Pando,90101,Cobija,2013,3,TOTAL,4
+Cochabamba,30101,Cochabamba,2013,3,TOTAL,36
+Potosí,50401,Colquechaca,2013,3,TOTAL,1
+Santa Cruz,71101,Concepcion,2013,3,TOTAL,3
+Santa Cruz,70102,Cotoca,2013,3,TOTAL,1
+Santa Cruz,71106,Cuatro Cañadas,2013,3,TOTAL,5
+La Paz,20105,El Alto,2013,3,TOTAL,37
+Santa Cruz,70105,El Torno,2013,3,TOTAL,1
+Santa Cruz,71004,Fernandez Alonso,2013,3,TOTAL,1
+La Paz,21601,Gral. J.j. Perez (charazani),2013,3,TOTAL,1
+Beni,80202,Guayaramerin,2013,3,TOTAL,1
+Oruro,40701,Huanuni,2013,3,TOTAL,7
+Chuquisaca,10703,Incahuasi,2013,3,TOTAL,1
+La Paz,21105,La Asunta,2013,3,TOTAL,2
+Santa Cruz,70104,La Guardia,2013,3,TOTAL,13
+La Paz,20101,La Paz,2013,3,TOTAL,80
+Potosí,50203,Llallagua,2013,3,TOTAL,1
+Chuquisaca,10501,Monteagudo,2013,3,TOTAL,3
+Santa Cruz,71001,Montero,2013,3,TOTAL,4
+Potosí,50404,Ocuri,2013,3,TOTAL,2
+Oruro,40101,Oruro,2013,3,TOTAL,46
+Chuquisaca,10401,Padilla,2013,3,TOTAL,1
+Cochabamba,31203,Pocona,2013,3,TOTAL,1
+Potosí,50101,Potosi,2013,3,TOTAL,7
+Chuquisaca,10302,Presto,2013,3,TOTAL,1
+Santa Cruz,71402,Puerto Quijarro,2013,3,TOTAL,3
+La Paz,21002,Quime,2013,3,TOTAL,5
+Beni,80201,Riberalta,2013,3,TOTAL,6
+Beni,80304,Rurrenabaque,2013,3,TOTAL,2
+Cochabamba,31001,Sacaba,2013,3,TOTAL,16
+Cochabamba,30404,Sacabamba,2013,3,TOTAL,1
+Santa Cruz,71302,Saipina,2013,3,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2013,3,TOTAL,3
+Beni,80102,San Javier(bni),2013,3,TOTAL,1
+Santa Cruz,70501,San Jose De Chiquitos,2013,3,TOTAL,1
+Santa Cruz,71104,San Julian,2013,3,TOTAL,2
+Santa Cruz,71005,San Pedro,2013,3,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,3,TOTAL,170
+Pando,90303,Sena,2013,3,TOTAL,1
+Cochabamba,31602,Shinaota,2013,3,TOTAL,20
+La Paz,20601,Sorata,2013,3,TOTAL,2
+Chuquisaca,10101,Sucre,2013,3,TOTAL,32
+Tarija,60101,Tarija,2013,3,TOTAL,22
+La Paz,20606,Tipuani,2013,3,TOTAL,2
+Cochabamba,30903,Tiquipaya,2013,3,TOTAL,13
+Beni,80101,Trinidad,2013,3,TOTAL,2
+Santa Cruz,71502,Urubicha,2013,3,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2013,3,TOTAL,1
+Cochabamba,31003,Villa Tunari,2013,3,TOTAL,6
+Potosí,51501,Villazon,2013,3,TOTAL,4
+Cochabamba,30904,Vinto,2013,3,TOTAL,1
+Santa Cruz,70201,Warnes,2013,3,TOTAL,2
+Tarija,60301,Yacuiba,2013,3,TOTAL,2
+Cochabamba,30501,Arani,2013,4,TOTAL,3
+Cochabamba,30301,Ayopaya (v. De Independencia),2013,4,TOTAL,2
+Pando,90104,Bella Flor,2013,4,TOTAL,1
+Potosí,50301,Betanzos,2013,4,TOTAL,3
+La Paz,21304,Calamarca,2013,4,TOTAL,1
+Chuquisaca,10701,Camargo,2013,4,TOTAL,2
+Santa Cruz,70706,Camiri,2013,4,TOTAL,1
+Cochabamba,30701,Capinota,2013,4,TOTAL,1
+La Paz,22001,Caranavi,2013,4,TOTAL,3
+Cochabamba,31204,Chimore,2013,4,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2013,4,TOTAL,12
+Pando,90101,Cobija,2013,4,TOTAL,1
+Cochabamba,30101,Cochabamba,2013,4,TOTAL,51
+Cochabamba,31002,Colomi,2013,4,TOTAL,1
+Potosí,50401,Colquechaca,2013,4,TOTAL,5
+Santa Cruz,71101,Concepcion,2013,4,TOTAL,2
+Santa Cruz,71106,Cuatro Cañadas,2013,4,TOTAL,5
+La Paz,20105,El Alto,2013,4,TOTAL,39
+Santa Cruz,71503,El Puente(stc),2013,4,TOTAL,3
+Santa Cruz,70105,El Torno,2013,4,TOTAL,1
+La Paz,20405,Escoma,2013,4,TOTAL,1
+Santa Cruz,71004,Fernandez Alonso,2013,4,TOTAL,2
+Oruro,40701,Huanuni,2013,4,TOTAL,13
+La Paz,21102,Irupana (villa De Lanza),2013,4,TOTAL,1
+La Paz,20806,Jesus De Machaca,2013,4,TOTAL,2
+La Paz,21105,La Asunta,2013,4,TOTAL,2
+Santa Cruz,70104,La Guardia,2013,4,TOTAL,9
+La Paz,20101,La Paz,2013,4,TOTAL,132
+Potosí,50203,Llallagua,2013,4,TOTAL,2
+Chuquisaca,11003,Machareti,2013,4,TOTAL,1
+La Paz,20607,Mapiri,2013,4,TOTAL,2
+Santa Cruz,71003,Mineros,2013,4,TOTAL,1
+Chuquisaca,10303,Mojocoya,2013,4,TOTAL,1
+Chuquisaca,10501,Monteagudo,2013,4,TOTAL,2
+Santa Cruz,71001,Montero,2013,4,TOTAL,9
+Oruro,40101,Oruro,2013,4,TOTAL,64
+Chuquisaca,10401,Padilla,2013,4,TOTAL,1
+La Paz,21104,Palos Blancos,2013,4,TOTAL,2
+La Paz,21305,Patacamaya,2013,4,TOTAL,1
+Cochabamba,31203,Pocona,2013,4,TOTAL,1
+Oruro,40601,Poopo,2013,4,TOTAL,2
+Potosí,50101,Potosi,2013,4,TOTAL,6
+La Paz,21201,Pucarani,2013,4,TOTAL,3
+Santa Cruz,71402,Puerto Quijarro,2013,4,TOTAL,2
+Santa Cruz,71401,Puerto Suarez,2013,4,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2013,4,TOTAL,1
+Potosí,51101,Puna,2013,4,TOTAL,2
+Cochabamba,31401,Punata,2013,4,TOTAL,2
+Beni,80201,Riberalta,2013,4,TOTAL,16
+Santa Cruz,70503,Robore,2013,4,TOTAL,2
+Cochabamba,31403,San Benito,2013,4,TOTAL,1
+Santa Cruz,70402,San Carlos,2013,4,TOTAL,4
+Beni,80501,San Ignacio,2013,4,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2013,4,TOTAL,4
+Santa Cruz,70501,San Jose De Chiquitos,2013,4,TOTAL,1
+Santa Cruz,70404,San Juan De Yapacani,2013,4,TOTAL,1
+Santa Cruz,71104,San Julian,2013,4,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,4,TOTAL,213
+Oruro,40202,Santuario De Quillacas,2013,4,TOTAL,1
+Pando,90303,Sena,2013,4,TOTAL,1
+Cochabamba,31602,Shinaota,2013,4,TOTAL,8
+Cochabamba,30902,Sipe Sipe,2013,4,TOTAL,1
+Oruro,40104,Soracachi,2013,4,TOTAL,1
+Chuquisaca,10101,Sucre,2013,4,TOTAL,73
+Cochabamba,30401,Tarata,2013,4,TOTAL,1
+Tarija,60101,Tarija,2013,4,TOTAL,27
+La Paz,20606,Tipuani,2013,4,TOTAL,5
+Cochabamba,30903,Tiquipaya,2013,4,TOTAL,11
+Chuquisaca,10402,Tomina,2013,4,TOTAL,1
+Beni,80101,Trinidad,2013,4,TOTAL,9
+Oruro,40402,Turco,2013,4,TOTAL,1
+La Paz,20801,Viacha,2013,4,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2013,4,TOTAL,4
+Tarija,60303,Villa Montes,2013,4,TOTAL,4
+Cochabamba,31003,Villa Tunari,2013,4,TOTAL,1
+Potosí,51501,Villazon,2013,4,TOTAL,8
+Santa Cruz,70201,Warnes,2013,4,TOTAL,5
+Tarija,60301,Yacuiba,2013,4,TOTAL,2
+La Paz,20701,Apolo,2013,5,TOTAL,4
+Cochabamba,30301,Ayopaya (v. De Independencia),2013,5,TOTAL,2
+Potosí,50301,Betanzos,2013,5,TOTAL,2
+La Paz,21304,Calamarca,2013,5,TOTAL,2
+Chuquisaca,10701,Camargo,2013,5,TOTAL,4
+Santa Cruz,70706,Camiri,2013,5,TOTAL,1
+La Paz,22001,Caranavi,2013,5,TOTAL,1
+Potosí,50702,Caripuyo,2013,5,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2013,5,TOTAL,4
+Potosí,50204,Chuquihuta Ayllu Jucumani,2013,5,TOTAL,1
+Pando,90101,Cobija,2013,5,TOTAL,6
+Cochabamba,30303,Cocapata,2013,5,TOTAL,1
+Cochabamba,30101,Cochabamba,2013,5,TOTAL,46
+Potosí,50401,Colquechaca,2013,5,TOTAL,1
+Santa Cruz,71101,Concepcion,2013,5,TOTAL,2
+La Paz,21402,Coripata,2013,5,TOTAL,1
+Santa Cruz,70102,Cotoca,2013,5,TOTAL,1
+Santa Cruz,71106,Cuatro Cañadas,2013,5,TOTAL,2
+Chuquisaca,10902,Culpina,2013,5,TOTAL,1
+La Paz,20105,El Alto,2013,5,TOTAL,85
+Santa Cruz,71503,El Puente(stc),2013,5,TOTAL,1
+Santa Cruz,70105,El Torno,2013,5,TOTAL,2
+Beni,80202,Guayaramerin,2013,5,TOTAL,1
+Oruro,40701,Huanuni,2013,5,TOTAL,4
+La Paz,20206,Huatajata,2013,5,TOTAL,1
+La Paz,21102,Irupana (villa De Lanza),2013,5,TOTAL,2
+La Paz,21105,La Asunta,2013,5,TOTAL,3
+Santa Cruz,70104,La Guardia,2013,5,TOTAL,9
+La Paz,20101,La Paz,2013,5,TOTAL,333
+Potosí,50203,Llallagua,2013,5,TOTAL,3
+Santa Cruz,71003,Mineros,2013,5,TOTAL,2
+La Paz,20402,Mocomoco,2013,5,TOTAL,1
+Chuquisaca,10303,Mojocoya,2013,5,TOTAL,1
+Santa Cruz,71001,Montero,2013,5,TOTAL,6
+Cochabamba,30302,Morochata,2013,5,TOTAL,1
+Oruro,40101,Oruro,2013,5,TOTAL,47
+Tarija,60201,Padcaya,2013,5,TOTAL,1
+Santa Cruz,70502,Pailon,2013,5,TOTAL,1
+La Paz,21305,Patacamaya,2013,5,TOTAL,1
+Potosí,50101,Potosi,2013,5,TOTAL,15
+Santa Cruz,71401,Puerto Suarez,2013,5,TOTAL,3
+Cochabamba,31401,Punata,2013,5,TOTAL,3
+Beni,80201,Riberalta,2013,5,TOTAL,8
+Cochabamba,31001,Sacaba,2013,5,TOTAL,4
+Oruro,40801,Salinas De Garci Mendoza,2013,5,TOTAL,1
+Santa Cruz,70402,San Carlos,2013,5,TOTAL,4
+Santa Cruz,70301,San Ignacio De Velasco,2013,5,TOTAL,4
+Santa Cruz,70404,San Juan De Yapacani,2013,5,TOTAL,1
+Santa Cruz,71104,San Julian,2013,5,TOTAL,4
+Santa Cruz,71201,San Matias,2013,5,TOTAL,2
+Santa Cruz,71005,San Pedro,2013,5,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,TOTAL,163
+Cochabamba,31602,Shinaota,2013,5,TOTAL,12
+Chuquisaca,10101,Sucre,2013,5,TOTAL,29
+La Paz,20603,Tacacoma,2013,5,TOTAL,1
+Potosí,50303,Tacobamba,2013,5,TOTAL,1
+Cochabamba,30401,Tarata,2013,5,TOTAL,4
+Tarija,60101,Tarija,2013,5,TOTAL,41
+Chuquisaca,10202,Tarvita,2013,5,TOTAL,2
+La Paz,20606,Tipuani,2013,5,TOTAL,2
+Cochabamba,30903,Tiquipaya,2013,5,TOTAL,3
+Potosí,50502,Toro Toro,2013,5,TOTAL,2
+Beni,80101,Trinidad,2013,5,TOTAL,8
+Cochabamba,31003,Villa Tunari,2013,5,TOTAL,3
+Potosí,51501,Villazon,2013,5,TOTAL,3
+Santa Cruz,70201,Warnes,2013,5,TOTAL,3
+Tarija,60301,Yacuiba,2013,5,TOTAL,3
+Potosí,51302,Acacio,2013,6,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2013,6,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2013,6,TOTAL,1
+Potosí,50301,Betanzos,2013,6,TOTAL,3
+La Paz,21304,Calamarca,2013,6,TOTAL,1
+Santa Cruz,70706,Camiri,2013,6,TOTAL,2
+Cochabamba,30701,Capinota,2013,6,TOTAL,1
+Oruro,40302,Choque Cota,2013,6,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2013,6,TOTAL,4
+Pando,90101,Cobija,2013,6,TOTAL,5
+Cochabamba,30101,Cochabamba,2013,6,TOTAL,64
+Santa Cruz,71101,Concepcion,2013,6,TOTAL,2
+Potosí,50601,Cotagaita,2013,6,TOTAL,1
+Santa Cruz,70102,Cotoca,2013,6,TOTAL,2
+Santa Cruz,71106,Cuatro Cañadas,2013,6,TOTAL,1
+La Paz,20105,El Alto,2013,6,TOTAL,91
+Santa Cruz,71503,El Puente(stc),2013,6,TOTAL,2
+Santa Cruz,70105,El Torno,2013,6,TOTAL,6
+Santa Cruz,71004,Fernandez Alonso,2013,6,TOTAL,1
+Chuquisaca,11002,Huacaya (villa De Huacaya),2013,6,TOTAL,1
+Oruro,40701,Huanuni,2013,6,TOTAL,2
+La Paz,21005,Ichoca,2013,6,TOTAL,2
+La Paz,21102,Irupana (villa De Lanza),2013,6,TOTAL,3
+La Paz,20806,Jesus De Machaca,2013,6,TOTAL,1
+Santa Cruz,70104,La Guardia,2013,6,TOTAL,14
+La Paz,20101,La Paz,2013,6,TOTAL,291
+Oruro,40702,Machacamarca,2013,6,TOTAL,1
+La Paz,20607,Mapiri,2013,6,TOTAL,1
+Santa Cruz,71003,Mineros,2013,6,TOTAL,5
+Chuquisaca,10501,Monteagudo,2013,6,TOTAL,1
+Santa Cruz,71001,Montero,2013,6,TOTAL,12
+Cochabamba,30302,Morochata,2013,6,TOTAL,3
+Oruro,40101,Oruro,2013,6,TOTAL,55
+Tarija,60201,Padcaya,2013,6,TOTAL,1
+Santa Cruz,70902,Pampa Grande,2013,6,TOTAL,1
+Oruro,40602,Pazña,2013,6,TOTAL,1
+Santa Cruz,70103,Porongo,2013,6,TOTAL,1
+Potosí,50101,Potosi,2013,6,TOTAL,8
+Pando,90301,Puerto Gonzalo Moreno,2013,6,TOTAL,2
+Pando,90201,Puerto Rico,2013,6,TOTAL,2
+Cochabamba,31205,Puerto Villarroel,2013,6,TOTAL,1
+Cochabamba,31401,Punata,2013,6,TOTAL,2
+Beni,80201,Riberalta,2013,6,TOTAL,19
+Cochabamba,31001,Sacaba,2013,6,TOTAL,7
+Santa Cruz,71302,Saipina,2013,6,TOTAL,1
+Oruro,40801,Salinas De Garci Mendoza,2013,6,TOTAL,1
+Beni,80302,San Borja,2013,6,TOTAL,2
+Santa Cruz,70402,San Carlos,2013,6,TOTAL,3
+Beni,80501,San Ignacio,2013,6,TOTAL,3
+Santa Cruz,70301,San Ignacio De Velasco,2013,6,TOTAL,12
+Santa Cruz,71104,San Julian,2013,6,TOTAL,3
+Santa Cruz,71005,San Pedro,2013,6,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,6,TOTAL,185
+Pando,90303,Sena,2013,6,TOTAL,1
+Cochabamba,31602,Shinaota,2013,6,TOTAL,15
+La Paz,20601,Sorata,2013,6,TOTAL,1
+Chuquisaca,10101,Sucre,2013,6,TOTAL,37
+La Paz,20603,Tacacoma,2013,6,TOTAL,2
+Potosí,50303,Tacobamba,2013,6,TOTAL,1
+Cochabamba,30401,Tarata,2013,6,TOTAL,1
+Tarija,60101,Tarija,2013,6,TOTAL,39
+La Paz,20608,Teoponte,2013,6,TOTAL,3
+La Paz,20606,Tipuani,2013,6,TOTAL,5
+Cochabamba,30903,Tiquipaya,2013,6,TOTAL,12
+Cochabamba,31601,Tiraque (cbba),2013,6,TOTAL,4
+Beni,80101,Trinidad,2013,6,TOTAL,9
+Oruro,40402,Turco,2013,6,TOTAL,2
+Cochabamba,31003,Villa Tunari,2013,6,TOTAL,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2013,6,TOTAL,1
+Potosí,51501,Villazon,2013,6,TOTAL,3
+Potosí,50602,Vitichi,2013,6,TOTAL,1
+Santa Cruz,70201,Warnes,2013,6,TOTAL,2
+Tarija,60301,Yacuiba,2013,6,TOTAL,5
+Cochabamba,30201,Aiquile,2013,7,TOTAL,1
+Potosí,50802,Atocha,2013,7,TOTAL,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2013,7,TOTAL,1
+Potosí,50301,Betanzos,2013,7,TOTAL,2
+Santa Cruz,70401,Buena Vista,2013,7,TOTAL,1
+La Paz,21003,Cajuata,2013,7,TOTAL,1
+La Paz,21304,Calamarca,2013,7,TOTAL,2
+Santa Cruz,70706,Camiri,2013,7,TOTAL,3
+Oruro,40102,Caracollo,2013,7,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2013,7,TOTAL,2
+Cochabamba,30801,Cliza,2013,7,TOTAL,1
+Pando,90101,Cobija,2013,7,TOTAL,14
+Cochabamba,30101,Cochabamba,2013,7,TOTAL,65
+La Paz,21307,Collana,2013,7,TOTAL,1
+La Paz,21401,Coroico,2013,7,TOTAL,1
+Potosí,50601,Cotagaita,2013,7,TOTAL,1
+Santa Cruz,70102,Cotoca,2013,7,TOTAL,5
+Santa Cruz,71106,Cuatro Cañadas,2013,7,TOTAL,5
+La Paz,20105,El Alto,2013,7,TOTAL,83
+Santa Cruz,70105,El Torno,2013,7,TOTAL,4
+Cochabamba,31206,Entre Rios Cbba,2013,7,TOTAL,4
+La Paz,20405,Escoma,2013,7,TOTAL,1
+Santa Cruz,71004,Fernandez Alonso,2013,7,TOTAL,3
+Santa Cruz,71002,General Saavedra,2013,7,TOTAL,1
+Beni,80202,Guayaramerin,2013,7,TOTAL,1
+Oruro,40701,Huanuni,2013,7,TOTAL,6
+Chuquisaca,10304,Icla,2013,7,TOTAL,1
+Chuquisaca,10703,Incahuasi,2013,7,TOTAL,5
+La Paz,21102,Irupana (villa De Lanza),2013,7,TOTAL,4
+La Paz,20806,Jesus De Machaca,2013,7,TOTAL,1
+Santa Cruz,70104,La Guardia,2013,7,TOTAL,7
+La Paz,20101,La Paz,2013,7,TOTAL,346
+Chuquisaca,11003,Machareti,2013,7,TOTAL,1
+Beni,80801,Magdalena,2013,7,TOTAL,1
+Santa Cruz,71003,Mineros,2013,7,TOTAL,1
+Cochabamba,31301,Mizque,2013,7,TOTAL,2
+Chuquisaca,10501,Monteagudo,2013,7,TOTAL,4
+Santa Cruz,71001,Montero,2013,7,TOTAL,20
+Oruro,40101,Oruro,2013,7,TOTAL,75
+Santa Cruz,70502,Pailon,2013,7,TOTAL,1
+Potosí,50101,Potosi,2013,7,TOTAL,8
+La Paz,21201,Pucarani,2013,7,TOTAL,1
+Pando,90201,Puerto Rico,2013,7,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2013,7,TOTAL,1
+Cochabamba,31401,Punata,2013,7,TOTAL,3
+Cochabamba,30901,Quillacollo,2013,7,TOTAL,1
+Potosí,50402,Ravelo,2013,7,TOTAL,1
+Beni,80201,Riberalta,2013,7,TOTAL,16
+Beni,80304,Rurrenabaque,2013,7,TOTAL,2
+Oruro,40901,Sabaya,2013,7,TOTAL,1
+Cochabamba,31001,Sacaba,2013,7,TOTAL,5
+Cochabamba,30404,Sacabamba,2013,7,TOTAL,2
+Cochabamba,31403,San Benito,2013,7,TOTAL,2
+Santa Cruz,70402,San Carlos,2013,7,TOTAL,3
+Beni,80501,San Ignacio,2013,7,TOTAL,4
+Santa Cruz,70301,San Ignacio De Velasco,2013,7,TOTAL,13
+Santa Cruz,70501,San Jose De Chiquitos,2013,7,TOTAL,1
+Santa Cruz,71104,San Julian,2013,7,TOTAL,4
+Santa Cruz,71201,San Matias,2013,7,TOTAL,1
+Santa Cruz,71005,San Pedro,2013,7,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,TOTAL,268
+Cochabamba,31602,Shinaota,2013,7,TOTAL,18
+Chuquisaca,10101,Sucre,2013,7,TOTAL,40
+Cochabamba,30401,Tarata,2013,7,TOTAL,2
+Tarija,60101,Tarija,2013,7,TOTAL,44
+La Paz,20608,Teoponte,2013,7,TOTAL,1
+La Paz,20606,Tipuani,2013,7,TOTAL,2
+Cochabamba,30903,Tiquipaya,2013,7,TOTAL,14
+Beni,80101,Trinidad,2013,7,TOTAL,2
+Potosí,50201,Uncia,2013,7,TOTAL,2
+Tarija,60401,Uriondo (a. Concepcion),2013,7,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2013,7,TOTAL,1
+Cochabamba,31003,Villa Tunari,2013,7,TOTAL,4
+Potosí,51501,Villazon,2013,7,TOTAL,6
+Santa Cruz,70201,Warnes,2013,7,TOTAL,5
+Tarija,60301,Yacuiba,2013,7,TOTAL,5
+Santa Cruz,70403,Yapacani,2013,7,TOTAL,1
+Chuquisaca,10301,Zudañez,2013,7,TOTAL,1
+La Paz,20104,Achocalla,2013,8,TOTAL,1
+Cochabamba,30201,Aiquile,2013,8,TOTAL,1
+Chuquisaca,10404,Alcala,2013,8,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2013,8,TOTAL,1
+Pando,90103,Bolpebra,2013,8,TOTAL,1
+Santa Cruz,70706,Camiri,2013,8,TOTAL,2
+La Paz,22001,Caranavi,2013,8,TOTAL,1
+Tarija,60302,Carapari,2013,8,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2013,8,TOTAL,10
+Pando,90101,Cobija,2013,8,TOTAL,7
+Cochabamba,30303,Cocapata,2013,8,TOTAL,1
+Cochabamba,30101,Cochabamba,2013,8,TOTAL,53
+La Paz,21307,Collana,2013,8,TOTAL,2
+Santa Cruz,70102,Cotoca,2013,8,TOTAL,5
+Santa Cruz,71106,Cuatro Cañadas,2013,8,TOTAL,3
+La Paz,20105,El Alto,2013,8,TOTAL,76
+Santa Cruz,71503,El Puente(stc),2013,8,TOTAL,2
+Tarija,60502,El Puente(tja),2013,8,TOTAL,1
+Santa Cruz,70105,El Torno,2013,8,TOTAL,3
+Santa Cruz,71004,Fernandez Alonso,2013,8,TOTAL,1
+Oruro,40701,Huanuni,2013,8,TOTAL,3
+Chuquisaca,10703,Incahuasi,2013,8,TOTAL,2
+La Paz,21105,La Asunta,2013,8,TOTAL,1
+Santa Cruz,70104,La Guardia,2013,8,TOTAL,7
+La Paz,20101,La Paz,2013,8,TOTAL,318
+Potosí,50203,Llallagua,2013,8,TOTAL,1
+La Paz,20607,Mapiri,2013,8,TOTAL,8
+Santa Cruz,71003,Mineros,2013,8,TOTAL,2
+Chuquisaca,10501,Monteagudo,2013,8,TOTAL,2
+Santa Cruz,71001,Montero,2013,8,TOTAL,15
+Cochabamba,30302,Morochata,2013,8,TOTAL,1
+Oruro,40101,Oruro,2013,8,TOTAL,79
+Oruro,40601,Poopo,2013,8,TOTAL,1
+Potosí,50101,Potosi,2013,8,TOTAL,8
+La Paz,21201,Pucarani,2013,8,TOTAL,2
+Pando,90201,Puerto Rico,2013,8,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2013,8,TOTAL,5
+Beni,80201,Riberalta,2013,8,TOTAL,12
+Oruro,40901,Sabaya,2013,8,TOTAL,1
+Cochabamba,31001,Sacaba,2013,8,TOTAL,5
+Santa Cruz,70402,San Carlos,2013,8,TOTAL,3
+Santa Cruz,70301,San Ignacio De Velasco,2013,8,TOTAL,5
+Santa Cruz,70501,San Jose De Chiquitos,2013,8,TOTAL,1
+Santa Cruz,71104,San Julian,2013,8,TOTAL,1
+Santa Cruz,71005,San Pedro,2013,8,TOTAL,2
+Santa Cruz,70303,San Rafael,2013,8,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,8,TOTAL,238
+Oruro,40202,Santuario De Quillacas,2013,8,TOTAL,1
+Cochabamba,31602,Shinaota,2013,8,TOTAL,18
+Oruro,40104,Soracachi,2013,8,TOTAL,1
+Chuquisaca,10101,Sucre,2013,8,TOTAL,24
+Chuquisaca,10601,Tarabuco,2013,8,TOTAL,1
+Cochabamba,30401,Tarata,2013,8,TOTAL,3
+Tarija,60101,Tarija,2013,8,TOTAL,29
+Chuquisaca,10202,Tarvita,2013,8,TOTAL,1
+La Paz,20608,Teoponte,2013,8,TOTAL,1
+La Paz,20606,Tipuani,2013,8,TOTAL,3
+Cochabamba,30903,Tiquipaya,2013,8,TOTAL,8
+Beni,80101,Trinidad,2013,8,TOTAL,6
+Chuquisaca,10704,Villa Charcas,2013,8,TOTAL,2
+Cochabamba,31003,Villa Tunari,2013,8,TOTAL,57
+Potosí,51501,Villazon,2013,8,TOTAL,1
+Cochabamba,30904,Vinto,2013,8,TOTAL,2
+Santa Cruz,70201,Warnes,2013,8,TOTAL,5
+Tarija,60301,Yacuiba,2013,8,TOTAL,7
+Santa Cruz,70403,Yapacani,2013,8,TOTAL,2
+La Paz,20701,Apolo,2013,9,TOTAL,1
+Cochabamba,30501,Arani,2013,9,TOTAL,2
+Santa Cruz,71501,Ascencion De Guarayos,2013,9,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2013,9,TOTAL,2
+La Paz,21203,Batallas,2013,9,TOTAL,1
+Pando,90104,Bella Flor,2013,9,TOTAL,1
+Tarija,60202,Bermejo,2013,9,TOTAL,5
+Potosí,50301,Betanzos,2013,9,TOTAL,1
+La Paz,21304,Calamarca,2013,9,TOTAL,2
+Chuquisaca,10701,Camargo,2013,9,TOTAL,2
+Santa Cruz,70706,Camiri,2013,9,TOTAL,3
+Cochabamba,31204,Chimore,2013,9,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2013,9,TOTAL,11
+Pando,90101,Cobija,2013,9,TOTAL,13
+Cochabamba,30101,Cochabamba,2013,9,TOTAL,39
+Cochabamba,30905,Colcapirhua,2013,9,TOTAL,2
+Potosí,50401,Colquechaca,2013,9,TOTAL,1
+Santa Cruz,71101,Concepcion,2013,9,TOTAL,1
+La Paz,21402,Coripata,2013,9,TOTAL,1
+Santa Cruz,70102,Cotoca,2013,9,TOTAL,4
+Santa Cruz,71106,Cuatro Cañadas,2013,9,TOTAL,6
+La Paz,20105,El Alto,2013,9,TOTAL,75
+Santa Cruz,71503,El Puente(stc),2013,9,TOTAL,3
+Santa Cruz,70105,El Torno,2013,9,TOTAL,10
+Cochabamba,31206,Entre Rios Cbba,2013,9,TOTAL,1
+Santa Cruz,71004,Fernandez Alonso,2013,9,TOTAL,3
+La Paz,21601,Gral. J.j. Perez (charazani),2013,9,TOTAL,2
+Oruro,40701,Huanuni,2013,9,TOTAL,6
+La Paz,21102,Irupana (villa De Lanza),2013,9,TOTAL,1
+Santa Cruz,70104,La Guardia,2013,9,TOTAL,12
+La Paz,20101,La Paz,2013,9,TOTAL,222
+Potosí,50203,Llallagua,2013,9,TOTAL,1
+Beni,80801,Magdalena,2013,9,TOTAL,1
+La Paz,20402,Mocomoco,2013,9,TOTAL,1
+Chuquisaca,10303,Mojocoya,2013,9,TOTAL,1
+Chuquisaca,10501,Monteagudo,2013,9,TOTAL,1
+Santa Cruz,71001,Montero,2013,9,TOTAL,11
+Oruro,40101,Oruro,2013,9,TOTAL,58
+Santa Cruz,70502,Pailon,2013,9,TOTAL,1
+La Paz,21104,Palos Blancos,2013,9,TOTAL,1
+Santa Cruz,70902,Pampa Grande,2013,9,TOTAL,1
+Potosí,50403,Pocoata,2013,9,TOTAL,1
+Oruro,40601,Poopo,2013,9,TOTAL,1
+Chuquisaca,10103,Poroma,2013,9,TOTAL,1
+Potosí,50101,Potosi,2013,9,TOTAL,5
+La Paz,21201,Pucarani,2013,9,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2013,9,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2013,9,TOTAL,1
+La Paz,20604,Quiabaya,2013,9,TOTAL,1
+Beni,80201,Riberalta,2013,9,TOTAL,16
+Santa Cruz,70503,Robore,2013,9,TOTAL,1
+Beni,80304,Rurrenabaque,2013,9,TOTAL,1
+Cochabamba,31001,Sacaba,2013,9,TOTAL,4
+Oruro,40801,Salinas De Garci Mendoza,2013,9,TOTAL,2
+Cochabamba,31403,San Benito,2013,9,TOTAL,2
+Beni,80302,San Borja,2013,9,TOTAL,1
+Santa Cruz,70402,San Carlos,2013,9,TOTAL,3
+Beni,80501,San Ignacio,2013,9,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2013,9,TOTAL,4
+Santa Cruz,70501,San Jose De Chiquitos,2013,9,TOTAL,3
+Santa Cruz,70404,San Juan De Yapacani,2013,9,TOTAL,1
+Santa Cruz,71104,San Julian,2013,9,TOTAL,4
+Tarija,60501,San Lorenzo(tja),2013,9,TOTAL,1
+Santa Cruz,71201,San Matias,2013,9,TOTAL,1
+Santa Cruz,71005,San Pedro,2013,9,TOTAL,2
+Pando,90202,San Pedro(pnd),2013,9,TOTAL,1
+Santa Cruz,71103,San Ramon Scz,2013,9,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,9,TOTAL,282
+Santa Cruz,70602,Santa Rosa Del Sara,2013,9,TOTAL,1
+Cochabamba,31602,Shinaota,2013,9,TOTAL,20
+Cochabamba,30902,Sipe Sipe,2013,9,TOTAL,1
+Chuquisaca,10101,Sucre,2013,9,TOTAL,28
+La Paz,20603,Tacacoma,2013,9,TOTAL,1
+Cochabamba,31101,Tapacari,2013,9,TOTAL,1
+Cochabamba,30401,Tarata,2013,9,TOTAL,2
+Tarija,60101,Tarija,2013,9,TOTAL,53
+Cochabamba,30903,Tiquipaya,2013,9,TOTAL,5
+Cochabamba,31601,Tiraque (cbba),2013,9,TOTAL,1
+Beni,80101,Trinidad,2013,9,TOTAL,1
+Potosí,50801,Tupiza,2013,9,TOTAL,10
+Chuquisaca,10704,Villa Charcas,2013,9,TOTAL,1
+Tarija,60303,Villa Montes,2013,9,TOTAL,1
+Cochabamba,31003,Villa Tunari,2013,9,TOTAL,91
+Potosí,51501,Villazon,2013,9,TOTAL,5
+Cochabamba,30904,Vinto,2013,9,TOTAL,2
+Santa Cruz,70201,Warnes,2013,9,TOTAL,5
+Tarija,60301,Yacuiba,2013,9,TOTAL,2
+Chuquisaca,10602,Yamparaez,2013,9,TOTAL,1
+La Paz,21103,Yanacachi,2013,9,TOTAL,1
+Cochabamba,30501,Arani,2013,10,TOTAL,1
+Potosí,50802,Atocha,2013,10,TOTAL,1
+La Paz,21303,Ayo Ayo,2013,10,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2013,10,TOTAL,1
+Tarija,60202,Bermejo,2013,10,TOTAL,11
+Potosí,50301,Betanzos,2013,10,TOTAL,6
+Santa Cruz,70707,Boyuibe,2013,10,TOTAL,1
+Chuquisaca,10701,Camargo,2013,10,TOTAL,2
+Santa Cruz,70706,Camiri,2013,10,TOTAL,2
+Cochabamba,30701,Capinota,2013,10,TOTAL,1
+Tarija,60302,Carapari,2013,10,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2013,10,TOTAL,12
+Pando,90101,Cobija,2013,10,TOTAL,4
+Cochabamba,30101,Cochabamba,2013,10,TOTAL,47
+Cochabamba,31002,Colomi,2013,10,TOTAL,2
+Potosí,50401,Colquechaca,2013,10,TOTAL,4
+La Paz,21004,Colquiri,2013,10,TOTAL,1
+La Paz,21402,Coripata,2013,10,TOTAL,2
+Potosí,50601,Cotagaita,2013,10,TOTAL,1
+Santa Cruz,70102,Cotoca,2013,10,TOTAL,1
+La Paz,20105,El Alto,2013,10,TOTAL,143
+Santa Cruz,71503,El Puente(stc),2013,10,TOTAL,1
+Tarija,60502,El Puente(tja),2013,10,TOTAL,1
+Santa Cruz,70105,El Torno,2013,10,TOTAL,3
+Santa Cruz,71004,Fernandez Alonso,2013,10,TOTAL,1
+Beni,80202,Guayaramerin,2013,10,TOTAL,1
+Chuquisaca,11002,Huacaya (villa De Huacaya),2013,10,TOTAL,1
+Oruro,40701,Huanuni,2013,10,TOTAL,6
+Oruro,41601,Huayllamarca,2013,10,TOTAL,1
+La Paz,20806,Jesus De Machaca,2013,10,TOTAL,1
+Santa Cruz,70104,La Guardia,2013,10,TOTAL,24
+La Paz,20101,La Paz,2013,10,TOTAL,265
+Santa Cruz,70701,Lagunillas,2013,10,TOTAL,1
+Potosí,50203,Llallagua,2013,10,TOTAL,3
+La Paz,20901,Luribay,2013,10,TOTAL,1
+Chuquisaca,11003,Machareti,2013,10,TOTAL,1
+Beni,80801,Magdalena,2013,10,TOTAL,1
+Santa Cruz,71003,Mineros,2013,10,TOTAL,7
+Cochabamba,31301,Mizque,2013,10,TOTAL,2
+Chuquisaca,10501,Monteagudo,2013,10,TOTAL,4
+Santa Cruz,71001,Montero,2013,10,TOTAL,20
+Potosí,50404,Ocuri,2013,10,TOTAL,1
+Oruro,40101,Oruro,2013,10,TOTAL,73
+La Paz,21305,Patacamaya,2013,10,TOTAL,2
+Oruro,40602,Pazña,2013,10,TOTAL,1
+Santa Cruz,70804,Postrer Valle,2013,10,TOTAL,2
+Potosí,50101,Potosi,2013,10,TOTAL,10
+Santa Cruz,71402,Puerto Quijarro,2013,10,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2013,10,TOTAL,2
+Cochabamba,31205,Puerto Villarroel,2013,10,TOTAL,3
+Potosí,51101,Puna,2013,10,TOTAL,1
+Cochabamba,31401,Punata,2013,10,TOTAL,3
+Beni,80201,Riberalta,2013,10,TOTAL,22
+Oruro,40901,Sabaya,2013,10,TOTAL,1
+Cochabamba,31001,Sacaba,2013,10,TOTAL,8
+Cochabamba,31403,San Benito,2013,10,TOTAL,3
+Beni,80302,San Borja,2013,10,TOTAL,28
+Santa Cruz,70402,San Carlos,2013,10,TOTAL,5
+Beni,80501,San Ignacio,2013,10,TOTAL,4
+Santa Cruz,70301,San Ignacio De Velasco,2013,10,TOTAL,11
+Santa Cruz,70501,San Jose De Chiquitos,2013,10,TOTAL,2
+Santa Cruz,71104,San Julian,2013,10,TOTAL,4
+Santa Cruz,71201,San Matias,2013,10,TOTAL,2
+Santa Cruz,71005,San Pedro,2013,10,TOTAL,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,10,TOTAL,288
+Pando,90303,Sena,2013,10,TOTAL,1
+Cochabamba,31602,Shinaota,2013,10,TOTAL,13
+Cochabamba,30902,Sipe Sipe,2013,10,TOTAL,4
+Chuquisaca,10403,Sopachuy,2013,10,TOTAL,2
+Chuquisaca,10101,Sucre,2013,10,TOTAL,37
+La Paz,20603,Tacacoma,2013,10,TOTAL,3
+Cochabamba,30401,Tarata,2013,10,TOTAL,2
+Tarija,60101,Tarija,2013,10,TOTAL,26
+Chuquisaca,10202,Tarvita,2013,10,TOTAL,4
+La Paz,20608,Teoponte,2013,10,TOTAL,1
+Potosí,50102,Tinguipaya,2013,10,TOTAL,1
+Cochabamba,30903,Tiquipaya,2013,10,TOTAL,8
+Beni,80101,Trinidad,2013,10,TOTAL,4
+Oruro,40402,Turco,2013,10,TOTAL,1
+Potosí,50201,Uncia,2013,10,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2013,10,TOTAL,2
+Cochabamba,31402,Villa Rivero,2013,10,TOTAL,1
+Cochabamba,31003,Villa Tunari,2013,10,TOTAL,9
+Potosí,51501,Villazon,2013,10,TOTAL,4
+Cochabamba,30904,Vinto,2013,10,TOTAL,5
+Santa Cruz,70201,Warnes,2013,10,TOTAL,7
+Tarija,60301,Yacuiba,2013,10,TOTAL,6
+La Paz,21103,Yanacachi,2013,10,TOTAL,1
+Cochabamba,30201,Aiquile,2013,11,TOTAL,3
+La Paz,20701,Apolo,2013,11,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2013,11,TOTAL,4
+Tarija,60202,Bermejo,2013,11,TOTAL,9
+Potosí,50301,Betanzos,2013,11,TOTAL,7
+Potosí,51102,"Caiza ""d""",2013,11,TOTAL,1
+La Paz,21304,Calamarca,2013,11,TOTAL,1
+Cochabamba,30701,Capinota,2013,11,TOTAL,1
+Cochabamba,31204,Chimore,2013,11,TOTAL,3
+La Paz,21101,Chulumani (v. De La Libertad),2013,11,TOTAL,6
+Pando,90101,Cobija,2013,11,TOTAL,5
+Cochabamba,30101,Cochabamba,2013,11,TOTAL,24
+Potosí,50401,Colquechaca,2013,11,TOTAL,5
+Potosí,50601,Cotagaita,2013,11,TOTAL,1
+Santa Cruz,70102,Cotoca,2013,11,TOTAL,4
+La Paz,20105,El Alto,2013,11,TOTAL,84
+Santa Cruz,71002,General Saavedra,2013,11,TOTAL,1
+Oruro,40701,Huanuni,2013,11,TOTAL,5
+Santa Cruz,70104,La Guardia,2013,11,TOTAL,17
+La Paz,20101,La Paz,2013,11,TOTAL,265
+Potosí,50203,Llallagua,2013,11,TOTAL,1
+Santa Cruz,71003,Mineros,2013,11,TOTAL,2
+Chuquisaca,10501,Monteagudo,2013,11,TOTAL,2
+Santa Cruz,71001,Montero,2013,11,TOTAL,7
+Oruro,40101,Oruro,2013,11,TOTAL,58
+Tarija,60201,Padcaya,2013,11,TOTAL,1
+Potosí,50403,Pocoata,2013,11,TOTAL,1
+Santa Cruz,70804,Postrer Valle,2013,11,TOTAL,1
+Potosí,50101,Potosi,2013,11,TOTAL,16
+La Paz,21201,Pucarani,2013,11,TOTAL,1
+Santa Cruz,71402,Puerto Quijarro,2013,11,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2013,11,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2013,11,TOTAL,1
+Potosí,51101,Puna,2013,11,TOTAL,1
+Beni,80201,Riberalta,2013,11,TOTAL,26
+Santa Cruz,70503,Robore,2013,11,TOTAL,4
+Beni,80304,Rurrenabaque,2013,11,TOTAL,2
+Cochabamba,31001,Sacaba,2013,11,TOTAL,3
+Santa Cruz,71302,Saipina,2013,11,TOTAL,1
+Beni,80302,San Borja,2013,11,TOTAL,1
+Beni,80501,San Ignacio,2013,11,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2013,11,TOTAL,13
+Santa Cruz,70501,San Jose De Chiquitos,2013,11,TOTAL,1
+Santa Cruz,71201,San Matias,2013,11,TOTAL,2
+Santa Cruz,70302,San Miguel De Velasco,2013,11,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,11,TOTAL,220
+Pando,90303,Sena,2013,11,TOTAL,3
+Cochabamba,31602,Shinaota,2013,11,TOTAL,15
+Chuquisaca,10403,Sopachuy,2013,11,TOTAL,2
+La Paz,20601,Sorata,2013,11,TOTAL,1
+Chuquisaca,10101,Sucre,2013,11,TOTAL,63
+La Paz,20603,Tacacoma,2013,11,TOTAL,1
+Tarija,60101,Tarija,2013,11,TOTAL,64
+Potosí,50102,Tinguipaya,2013,11,TOTAL,1
+La Paz,20606,Tipuani,2013,11,TOTAL,1
+Cochabamba,30903,Tiquipaya,2013,11,TOTAL,9
+Cochabamba,31601,Tiraque (cbba),2013,11,TOTAL,1
+Beni,80101,Trinidad,2013,11,TOTAL,2
+Potosí,50201,Uncia,2013,11,TOTAL,2
+Chuquisaca,10704,Villa Charcas,2013,11,TOTAL,3
+Cochabamba,31003,Villa Tunari,2013,11,TOTAL,49
+Potosí,51501,Villazon,2013,11,TOTAL,7
+Cochabamba,30904,Vinto,2013,11,TOTAL,2
+Santa Cruz,70201,Warnes,2013,11,TOTAL,3
+Tarija,60301,Yacuiba,2013,11,TOTAL,3
+Potosí,50802,Atocha,2013,12,TOTAL,1
+Tarija,60202,Bermejo,2013,12,TOTAL,5
+Potosí,50301,Betanzos,2013,12,TOTAL,5
+Santa Cruz,70703,Cabezas,2013,12,TOTAL,1
+Potosí,51102,"Caiza ""d""",2013,12,TOTAL,1
+La Paz,21304,Calamarca,2013,12,TOTAL,1
+Santa Cruz,70706,Camiri,2013,12,TOTAL,3
+Potosí,50302,Chaqui,2013,12,TOTAL,2
+La Paz,21101,Chulumani (v. De La Libertad),2013,12,TOTAL,6
+Pando,90101,Cobija,2013,12,TOTAL,6
+Cochabamba,30101,Cochabamba,2013,12,TOTAL,37
+Santa Cruz,71101,Concepcion,2013,12,TOTAL,1
+Santa Cruz,70102,Cotoca,2013,12,TOTAL,3
+La Paz,20105,El Alto,2013,12,TOTAL,75
+Santa Cruz,70105,El Torno,2013,12,TOTAL,7
+Santa Cruz,71002,General Saavedra,2013,12,TOTAL,1
+La Paz,20802,Guaqui,2013,12,TOTAL,1
+Santa Cruz,70705,Gutierrez,2013,12,TOTAL,1
+Oruro,40701,Huanuni,2013,12,TOTAL,5
+La Paz,21105,La Asunta,2013,12,TOTAL,6
+Santa Cruz,70104,La Guardia,2013,12,TOTAL,10
+La Paz,20101,La Paz,2013,12,TOTAL,52
+Potosí,50203,Llallagua,2013,12,TOTAL,2
+Santa Cruz,70903,Mairana,2013,12,TOTAL,1
+Chuquisaca,10501,Monteagudo,2013,12,TOTAL,1
+Santa Cruz,71001,Montero,2013,12,TOTAL,8
+Oruro,40101,Oruro,2013,12,TOTAL,66
+Cochabamba,31202,Pojo (cbba),2013,12,TOTAL,1
+Oruro,40601,Poopo,2013,12,TOTAL,1
+Pando,90102,Porvenir,2013,12,TOTAL,1
+Potosí,50101,Potosi,2013,12,TOTAL,24
+La Paz,20403,Puerto Carabuco,2013,12,TOTAL,1
+Pando,90201,Puerto Rico,2013,12,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2013,12,TOTAL,1
+Potosí,51101,Puna,2013,12,TOTAL,2
+Cochabamba,31401,Punata,2013,12,TOTAL,5
+La Paz,20604,Quiabaya,2013,12,TOTAL,3
+Beni,80201,Riberalta,2013,12,TOTAL,17
+Santa Cruz,70503,Robore,2013,12,TOTAL,3
+Beni,80304,Rurrenabaque,2013,12,TOTAL,1
+Cochabamba,31001,Sacaba,2013,12,TOTAL,5
+Beni,80501,San Ignacio,2013,12,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2013,12,TOTAL,6
+Santa Cruz,71201,San Matias,2013,12,TOTAL,2
+Santa Cruz,70302,San Miguel De Velasco,2013,12,TOTAL,1
+Santa Cruz,71005,San Pedro,2013,12,TOTAL,1
+Santa Cruz,71103,San Ramon Scz,2013,12,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,12,TOTAL,217
+Pando,90303,Sena,2013,12,TOTAL,2
+Cochabamba,31602,Shinaota,2013,12,TOTAL,11
+Cochabamba,30902,Sipe Sipe,2013,12,TOTAL,1
+Chuquisaca,10101,Sucre,2013,12,TOTAL,70
+La Paz,20603,Tacacoma,2013,12,TOTAL,1
+Tarija,60101,Tarija,2013,12,TOTAL,30
+Potosí,50102,Tinguipaya,2013,12,TOTAL,2
+La Paz,20606,Tipuani,2013,12,TOTAL,2
+Cochabamba,30903,Tiquipaya,2013,12,TOTAL,4
+Cochabamba,31601,Tiraque (cbba),2013,12,TOTAL,1
+Beni,80101,Trinidad,2013,12,TOTAL,1
+Potosí,50201,Uncia,2013,12,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2013,12,TOTAL,1
+Cochabamba,31003,Villa Tunari,2013,12,TOTAL,4
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2013,12,TOTAL,3
+Potosí,51501,Villazon,2013,12,TOTAL,7
+Potosí,50602,Vitichi,2013,12,TOTAL,1
+Tarija,60301,Yacuiba,2013,12,TOTAL,11
+La Paz,21103,Yanacachi,2013,12,TOTAL,1
+Santa Cruz,70403,Yapacani,2013,12,TOTAL,1
+Chuquisaca,10102,Yotala,2013,12,TOTAL,1
+Chuquisaca,10301,Zudañez,2013,12,TOTAL,1

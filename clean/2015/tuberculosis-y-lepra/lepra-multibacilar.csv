@@ -1,0 +1,852 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70105,El Torno,2015,1,a. Menor de 6 meses / MASCULINO,0
+Beni,80202,Guayaramerin,2015,1,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,71001,Montero,2015,1,a. Menor de 6 meses / MASCULINO,0
+Cochabamba,30901,Quillacollo,2015,1,a. Menor de 6 meses / MASCULINO,0
+Cochabamba,30101,Cochabamba,2015,2,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,2,a. Menor de 6 meses / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,2,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,3,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70602,Santa Rosa Del Sara,2015,3,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,4,a. Menor de 6 meses / MASCULINO,0
+Chuquisaca,11003,Machareti,2015,4,a. Menor de 6 meses / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,4,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,5,a. Menor de 6 meses / MASCULINO,0
+Cochabamba,31204,Chimore,2015,6,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,6,a. Menor de 6 meses / MASCULINO,0
+Cochabamba,31602,Shinaota,2015,6,a. Menor de 6 meses / MASCULINO,0
+Tarija,60303,Villa Montes,2015,6,a. Menor de 6 meses / MASCULINO,0
+Cochabamba,30905,Colcapirhua,2015,7,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,7,a. Menor de 6 meses / MASCULINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,8,a. Menor de 6 meses / MASCULINO,0
+Tarija,60601,Entre Rios Trj,2015,8,a. Menor de 6 meses / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,8,a. Menor de 6 meses / MASCULINO,0
+Beni,80501,San Ignacio,2015,8,a. Menor de 6 meses / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2015,8,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,9,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,10,a. Menor de 6 meses / MASCULINO,0
+Tarija,60401,Uriondo (a. Concepcion),2015,10,a. Menor de 6 meses / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,11,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,71001,Montero,2015,11,a. Menor de 6 meses / MASCULINO,0
+Cochabamba,31202,Pojo (cbba),2015,11,a. Menor de 6 meses / MASCULINO,0
+Beni,80101,Trinidad,2015,11,a. Menor de 6 meses / MASCULINO,0
+Cochabamba,30905,Colcapirhua,2015,12,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,12,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70104,La Guardia,2015,12,a. Menor de 6 meses / MASCULINO,0
+Cochabamba,30904,Vinto,2015,12,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,1,a. Menor de 6 meses / FEMENINO,0
+Beni,80202,Guayaramerin,2015,1,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,71001,Montero,2015,1,a. Menor de 6 meses / FEMENINO,0
+Cochabamba,30901,Quillacollo,2015,1,a. Menor de 6 meses / FEMENINO,0
+Cochabamba,30101,Cochabamba,2015,2,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,2,a. Menor de 6 meses / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,2,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,3,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70602,Santa Rosa Del Sara,2015,3,a. Menor de 6 meses / FEMENINO,1
+Santa Cruz,70105,El Torno,2015,4,a. Menor de 6 meses / FEMENINO,0
+Chuquisaca,11003,Machareti,2015,4,a. Menor de 6 meses / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,4,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,5,a. Menor de 6 meses / FEMENINO,0
+Cochabamba,31204,Chimore,2015,6,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,6,a. Menor de 6 meses / FEMENINO,0
+Cochabamba,31602,Shinaota,2015,6,a. Menor de 6 meses / FEMENINO,0
+Tarija,60303,Villa Montes,2015,6,a. Menor de 6 meses / FEMENINO,0
+Cochabamba,30905,Colcapirhua,2015,7,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,7,a. Menor de 6 meses / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,8,a. Menor de 6 meses / FEMENINO,0
+Tarija,60601,Entre Rios Trj,2015,8,a. Menor de 6 meses / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,8,a. Menor de 6 meses / FEMENINO,0
+Beni,80501,San Ignacio,2015,8,a. Menor de 6 meses / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2015,8,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,9,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,10,a. Menor de 6 meses / FEMENINO,0
+Tarija,60401,Uriondo (a. Concepcion),2015,10,a. Menor de 6 meses / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,11,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,71001,Montero,2015,11,a. Menor de 6 meses / FEMENINO,0
+Cochabamba,31202,Pojo (cbba),2015,11,a. Menor de 6 meses / FEMENINO,0
+Beni,80101,Trinidad,2015,11,a. Menor de 6 meses / FEMENINO,0
+Cochabamba,30905,Colcapirhua,2015,12,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,12,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70104,La Guardia,2015,12,a. Menor de 6 meses / FEMENINO,0
+Cochabamba,30904,Vinto,2015,12,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,1,b. 6 m a menor de 1 ano / MASCULINO,0
+Beni,80202,Guayaramerin,2015,1,b. 6 m a menor de 1 ano / MASCULINO,0
+Santa Cruz,71001,Montero,2015,1,b. 6 m a menor de 1 ano / MASCULINO,0
+Cochabamba,30901,Quillacollo,2015,1,b. 6 m a menor de 1 ano / MASCULINO,0
+Cochabamba,30101,Cochabamba,2015,2,b. 6 m a menor de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,2,b. 6 m a menor de 1 ano / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,2,b. 6 m a menor de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,3,b. 6 m a menor de 1 ano / MASCULINO,0
+Santa Cruz,70602,Santa Rosa Del Sara,2015,3,b. 6 m a menor de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,4,b. 6 m a menor de 1 ano / MASCULINO,0
+Chuquisaca,11003,Machareti,2015,4,b. 6 m a menor de 1 ano / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,4,b. 6 m a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,b. 6 m a menor de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,5,b. 6 m a menor de 1 ano / MASCULINO,0
+Cochabamba,31204,Chimore,2015,6,b. 6 m a menor de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,6,b. 6 m a menor de 1 ano / MASCULINO,0
+Cochabamba,31602,Shinaota,2015,6,b. 6 m a menor de 1 ano / MASCULINO,0
+Tarija,60303,Villa Montes,2015,6,b. 6 m a menor de 1 ano / MASCULINO,0
+Cochabamba,30905,Colcapirhua,2015,7,b. 6 m a menor de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,7,b. 6 m a menor de 1 ano / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,b. 6 m a menor de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,8,b. 6 m a menor de 1 ano / MASCULINO,0
+Tarija,60601,Entre Rios Trj,2015,8,b. 6 m a menor de 1 ano / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,8,b. 6 m a menor de 1 ano / MASCULINO,0
+Beni,80501,San Ignacio,2015,8,b. 6 m a menor de 1 ano / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2015,8,b. 6 m a menor de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,9,b. 6 m a menor de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,10,b. 6 m a menor de 1 ano / MASCULINO,0
+Tarija,60401,Uriondo (a. Concepcion),2015,10,b. 6 m a menor de 1 ano / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,11,b. 6 m a menor de 1 ano / MASCULINO,0
+Santa Cruz,71001,Montero,2015,11,b. 6 m a menor de 1 ano / MASCULINO,0
+Cochabamba,31202,Pojo (cbba),2015,11,b. 6 m a menor de 1 ano / MASCULINO,0
+Beni,80101,Trinidad,2015,11,b. 6 m a menor de 1 ano / MASCULINO,0
+Cochabamba,30905,Colcapirhua,2015,12,b. 6 m a menor de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,12,b. 6 m a menor de 1 ano / MASCULINO,0
+Santa Cruz,70104,La Guardia,2015,12,b. 6 m a menor de 1 ano / MASCULINO,0
+Cochabamba,30904,Vinto,2015,12,b. 6 m a menor de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,1,b. 6 m a menor de 1 ano / FEMENINO,0
+Beni,80202,Guayaramerin,2015,1,b. 6 m a menor de 1 ano / FEMENINO,0
+Santa Cruz,71001,Montero,2015,1,b. 6 m a menor de 1 ano / FEMENINO,0
+Cochabamba,30901,Quillacollo,2015,1,b. 6 m a menor de 1 ano / FEMENINO,0
+Cochabamba,30101,Cochabamba,2015,2,b. 6 m a menor de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,2,b. 6 m a menor de 1 ano / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,2,b. 6 m a menor de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,3,b. 6 m a menor de 1 ano / FEMENINO,0
+Santa Cruz,70602,Santa Rosa Del Sara,2015,3,b. 6 m a menor de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,4,b. 6 m a menor de 1 ano / FEMENINO,0
+Chuquisaca,11003,Machareti,2015,4,b. 6 m a menor de 1 ano / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,4,b. 6 m a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,b. 6 m a menor de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,5,b. 6 m a menor de 1 ano / FEMENINO,0
+Cochabamba,31204,Chimore,2015,6,b. 6 m a menor de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,6,b. 6 m a menor de 1 ano / FEMENINO,0
+Cochabamba,31602,Shinaota,2015,6,b. 6 m a menor de 1 ano / FEMENINO,0
+Tarija,60303,Villa Montes,2015,6,b. 6 m a menor de 1 ano / FEMENINO,0
+Cochabamba,30905,Colcapirhua,2015,7,b. 6 m a menor de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,7,b. 6 m a menor de 1 ano / FEMENINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,b. 6 m a menor de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,8,b. 6 m a menor de 1 ano / FEMENINO,0
+Tarija,60601,Entre Rios Trj,2015,8,b. 6 m a menor de 1 ano / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,8,b. 6 m a menor de 1 ano / FEMENINO,0
+Beni,80501,San Ignacio,2015,8,b. 6 m a menor de 1 ano / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2015,8,b. 6 m a menor de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,9,b. 6 m a menor de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,10,b. 6 m a menor de 1 ano / FEMENINO,0
+Tarija,60401,Uriondo (a. Concepcion),2015,10,b. 6 m a menor de 1 ano / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,11,b. 6 m a menor de 1 ano / FEMENINO,0
+Santa Cruz,71001,Montero,2015,11,b. 6 m a menor de 1 ano / FEMENINO,0
+Cochabamba,31202,Pojo (cbba),2015,11,b. 6 m a menor de 1 ano / FEMENINO,0
+Beni,80101,Trinidad,2015,11,b. 6 m a menor de 1 ano / FEMENINO,0
+Cochabamba,30905,Colcapirhua,2015,12,b. 6 m a menor de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,12,b. 6 m a menor de 1 ano / FEMENINO,0
+Santa Cruz,70104,La Guardia,2015,12,b. 6 m a menor de 1 ano / FEMENINO,0
+Cochabamba,30904,Vinto,2015,12,b. 6 m a menor de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,1,c. 1 - 4 anos / MASCULINO,0
+Beni,80202,Guayaramerin,2015,1,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,71001,Montero,2015,1,c. 1 - 4 anos / MASCULINO,0
+Cochabamba,30901,Quillacollo,2015,1,c. 1 - 4 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2015,2,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,2,c. 1 - 4 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,2,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,3,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70602,Santa Rosa Del Sara,2015,3,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,4,c. 1 - 4 anos / MASCULINO,0
+Chuquisaca,11003,Machareti,2015,4,c. 1 - 4 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,4,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,5,c. 1 - 4 anos / MASCULINO,0
+Cochabamba,31204,Chimore,2015,6,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,6,c. 1 - 4 anos / MASCULINO,0
+Cochabamba,31602,Shinaota,2015,6,c. 1 - 4 anos / MASCULINO,0
+Tarija,60303,Villa Montes,2015,6,c. 1 - 4 anos / MASCULINO,1
+Cochabamba,30905,Colcapirhua,2015,7,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,7,c. 1 - 4 anos / MASCULINO,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,8,c. 1 - 4 anos / MASCULINO,0
+Tarija,60601,Entre Rios Trj,2015,8,c. 1 - 4 anos / MASCULINO,1
+Chuquisaca,10501,Monteagudo,2015,8,c. 1 - 4 anos / MASCULINO,0
+Beni,80501,San Ignacio,2015,8,c. 1 - 4 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2015,8,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,9,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,10,c. 1 - 4 anos / MASCULINO,0
+Tarija,60401,Uriondo (a. Concepcion),2015,10,c. 1 - 4 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,11,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,71001,Montero,2015,11,c. 1 - 4 anos / MASCULINO,0
+Cochabamba,31202,Pojo (cbba),2015,11,c. 1 - 4 anos / MASCULINO,0
+Beni,80101,Trinidad,2015,11,c. 1 - 4 anos / MASCULINO,0
+Cochabamba,30905,Colcapirhua,2015,12,c. 1 - 4 anos / MASCULINO,1
+Santa Cruz,70105,El Torno,2015,12,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70104,La Guardia,2015,12,c. 1 - 4 anos / MASCULINO,0
+Cochabamba,30904,Vinto,2015,12,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,1,c. 1 - 4 anos / FEMENINO,0
+Beni,80202,Guayaramerin,2015,1,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,71001,Montero,2015,1,c. 1 - 4 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2015,1,c. 1 - 4 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2015,2,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,2,c. 1 - 4 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,2,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,3,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70602,Santa Rosa Del Sara,2015,3,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,4,c. 1 - 4 anos / FEMENINO,0
+Chuquisaca,11003,Machareti,2015,4,c. 1 - 4 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,4,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,5,c. 1 - 4 anos / FEMENINO,0
+Cochabamba,31204,Chimore,2015,6,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,6,c. 1 - 4 anos / FEMENINO,0
+Cochabamba,31602,Shinaota,2015,6,c. 1 - 4 anos / FEMENINO,0
+Tarija,60303,Villa Montes,2015,6,c. 1 - 4 anos / FEMENINO,1
+Cochabamba,30905,Colcapirhua,2015,7,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,7,c. 1 - 4 anos / FEMENINO,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,8,c. 1 - 4 anos / FEMENINO,0
+Tarija,60601,Entre Rios Trj,2015,8,c. 1 - 4 anos / FEMENINO,2
+Chuquisaca,10501,Monteagudo,2015,8,c. 1 - 4 anos / FEMENINO,0
+Beni,80501,San Ignacio,2015,8,c. 1 - 4 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2015,8,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,9,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,10,c. 1 - 4 anos / FEMENINO,0
+Tarija,60401,Uriondo (a. Concepcion),2015,10,c. 1 - 4 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,11,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,71001,Montero,2015,11,c. 1 - 4 anos / FEMENINO,0
+Cochabamba,31202,Pojo (cbba),2015,11,c. 1 - 4 anos / FEMENINO,0
+Beni,80101,Trinidad,2015,11,c. 1 - 4 anos / FEMENINO,0
+Cochabamba,30905,Colcapirhua,2015,12,c. 1 - 4 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2015,12,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70104,La Guardia,2015,12,c. 1 - 4 anos / FEMENINO,0
+Cochabamba,30904,Vinto,2015,12,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,1,d. 5 - 9 anos / MASCULINO,0
+Beni,80202,Guayaramerin,2015,1,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,71001,Montero,2015,1,d. 5 - 9 anos / MASCULINO,0
+Cochabamba,30901,Quillacollo,2015,1,d. 5 - 9 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2015,2,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,2,d. 5 - 9 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,2,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,3,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70602,Santa Rosa Del Sara,2015,3,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,4,d. 5 - 9 anos / MASCULINO,0
+Chuquisaca,11003,Machareti,2015,4,d. 5 - 9 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,4,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,5,d. 5 - 9 anos / MASCULINO,0
+Cochabamba,31204,Chimore,2015,6,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,6,d. 5 - 9 anos / MASCULINO,0
+Cochabamba,31602,Shinaota,2015,6,d. 5 - 9 anos / MASCULINO,0
+Tarija,60303,Villa Montes,2015,6,d. 5 - 9 anos / MASCULINO,2
+Cochabamba,30905,Colcapirhua,2015,7,d. 5 - 9 anos / MASCULINO,2
+Santa Cruz,70105,El Torno,2015,7,d. 5 - 9 anos / MASCULINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,8,d. 5 - 9 anos / MASCULINO,0
+Tarija,60601,Entre Rios Trj,2015,8,d. 5 - 9 anos / MASCULINO,4
+Chuquisaca,10501,Monteagudo,2015,8,d. 5 - 9 anos / MASCULINO,0
+Beni,80501,San Ignacio,2015,8,d. 5 - 9 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2015,8,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,9,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,10,d. 5 - 9 anos / MASCULINO,0
+Tarija,60401,Uriondo (a. Concepcion),2015,10,d. 5 - 9 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,11,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,71001,Montero,2015,11,d. 5 - 9 anos / MASCULINO,0
+Cochabamba,31202,Pojo (cbba),2015,11,d. 5 - 9 anos / MASCULINO,1
+Beni,80101,Trinidad,2015,11,d. 5 - 9 anos / MASCULINO,0
+Cochabamba,30905,Colcapirhua,2015,12,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,12,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70104,La Guardia,2015,12,d. 5 - 9 anos / MASCULINO,0
+Cochabamba,30904,Vinto,2015,12,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,1,d. 5 - 9 anos / FEMENINO,0
+Beni,80202,Guayaramerin,2015,1,d. 5 - 9 anos / FEMENINO,1
+Santa Cruz,71001,Montero,2015,1,d. 5 - 9 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2015,1,d. 5 - 9 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2015,2,d. 5 - 9 anos / FEMENINO,2
+Santa Cruz,70105,El Torno,2015,2,d. 5 - 9 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,2,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,3,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70602,Santa Rosa Del Sara,2015,3,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,4,d. 5 - 9 anos / FEMENINO,0
+Chuquisaca,11003,Machareti,2015,4,d. 5 - 9 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,4,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,5,d. 5 - 9 anos / FEMENINO,0
+Cochabamba,31204,Chimore,2015,6,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,6,d. 5 - 9 anos / FEMENINO,0
+Cochabamba,31602,Shinaota,2015,6,d. 5 - 9 anos / FEMENINO,0
+Tarija,60303,Villa Montes,2015,6,d. 5 - 9 anos / FEMENINO,2
+Cochabamba,30905,Colcapirhua,2015,7,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,7,d. 5 - 9 anos / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,8,d. 5 - 9 anos / FEMENINO,0
+Tarija,60601,Entre Rios Trj,2015,8,d. 5 - 9 anos / FEMENINO,7
+Chuquisaca,10501,Monteagudo,2015,8,d. 5 - 9 anos / FEMENINO,0
+Beni,80501,San Ignacio,2015,8,d. 5 - 9 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2015,8,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,9,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,10,d. 5 - 9 anos / FEMENINO,0
+Tarija,60401,Uriondo (a. Concepcion),2015,10,d. 5 - 9 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,11,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,71001,Montero,2015,11,d. 5 - 9 anos / FEMENINO,0
+Cochabamba,31202,Pojo (cbba),2015,11,d. 5 - 9 anos / FEMENINO,0
+Beni,80101,Trinidad,2015,11,d. 5 - 9 anos / FEMENINO,0
+Cochabamba,30905,Colcapirhua,2015,12,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,12,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70104,La Guardia,2015,12,d. 5 - 9 anos / FEMENINO,0
+Cochabamba,30904,Vinto,2015,12,d. 5 - 9 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2015,1,e. 10 - 14 anos / MASCULINO,0
+Beni,80202,Guayaramerin,2015,1,e. 10 - 14 anos / MASCULINO,3
+Santa Cruz,71001,Montero,2015,1,e. 10 - 14 anos / MASCULINO,0
+Cochabamba,30901,Quillacollo,2015,1,e. 10 - 14 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2015,2,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,2,e. 10 - 14 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,2,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,3,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70602,Santa Rosa Del Sara,2015,3,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,4,e. 10 - 14 anos / MASCULINO,0
+Chuquisaca,11003,Machareti,2015,4,e. 10 - 14 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,4,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,5,e. 10 - 14 anos / MASCULINO,0
+Cochabamba,31204,Chimore,2015,6,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,6,e. 10 - 14 anos / MASCULINO,0
+Cochabamba,31602,Shinaota,2015,6,e. 10 - 14 anos / MASCULINO,0
+Tarija,60303,Villa Montes,2015,6,e. 10 - 14 anos / MASCULINO,3
+Cochabamba,30905,Colcapirhua,2015,7,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,7,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,8,e. 10 - 14 anos / MASCULINO,0
+Tarija,60601,Entre Rios Trj,2015,8,e. 10 - 14 anos / MASCULINO,4
+Chuquisaca,10501,Monteagudo,2015,8,e. 10 - 14 anos / MASCULINO,0
+Beni,80501,San Ignacio,2015,8,e. 10 - 14 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2015,8,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,9,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,10,e. 10 - 14 anos / MASCULINO,0
+Tarija,60401,Uriondo (a. Concepcion),2015,10,e. 10 - 14 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,11,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,71001,Montero,2015,11,e. 10 - 14 anos / MASCULINO,0
+Cochabamba,31202,Pojo (cbba),2015,11,e. 10 - 14 anos / MASCULINO,0
+Beni,80101,Trinidad,2015,11,e. 10 - 14 anos / MASCULINO,0
+Cochabamba,30905,Colcapirhua,2015,12,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,12,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70104,La Guardia,2015,12,e. 10 - 14 anos / MASCULINO,1
+Cochabamba,30904,Vinto,2015,12,e. 10 - 14 anos / MASCULINO,1
+Santa Cruz,70105,El Torno,2015,1,e. 10 - 14 anos / FEMENINO,0
+Beni,80202,Guayaramerin,2015,1,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,71001,Montero,2015,1,e. 10 - 14 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2015,1,e. 10 - 14 anos / FEMENINO,1
+Cochabamba,30101,Cochabamba,2015,2,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,2,e. 10 - 14 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,2,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,3,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70602,Santa Rosa Del Sara,2015,3,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,4,e. 10 - 14 anos / FEMENINO,0
+Chuquisaca,11003,Machareti,2015,4,e. 10 - 14 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,4,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,5,e. 10 - 14 anos / FEMENINO,0
+Cochabamba,31204,Chimore,2015,6,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,6,e. 10 - 14 anos / FEMENINO,0
+Cochabamba,31602,Shinaota,2015,6,e. 10 - 14 anos / FEMENINO,0
+Tarija,60303,Villa Montes,2015,6,e. 10 - 14 anos / FEMENINO,2
+Cochabamba,30905,Colcapirhua,2015,7,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,7,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,8,e. 10 - 14 anos / FEMENINO,0
+Tarija,60601,Entre Rios Trj,2015,8,e. 10 - 14 anos / FEMENINO,1
+Chuquisaca,10501,Monteagudo,2015,8,e. 10 - 14 anos / FEMENINO,0
+Beni,80501,San Ignacio,2015,8,e. 10 - 14 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2015,8,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,9,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,10,e. 10 - 14 anos / FEMENINO,0
+Tarija,60401,Uriondo (a. Concepcion),2015,10,e. 10 - 14 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,11,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,71001,Montero,2015,11,e. 10 - 14 anos / FEMENINO,0
+Cochabamba,31202,Pojo (cbba),2015,11,e. 10 - 14 anos / FEMENINO,0
+Beni,80101,Trinidad,2015,11,e. 10 - 14 anos / FEMENINO,0
+Cochabamba,30905,Colcapirhua,2015,12,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,12,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70104,La Guardia,2015,12,e. 10 - 14 anos / FEMENINO,0
+Cochabamba,30904,Vinto,2015,12,e. 10 - 14 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2015,1,f. 15 - 19 anos / MASCULINO,0
+Beni,80202,Guayaramerin,2015,1,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,71001,Montero,2015,1,f. 15 - 19 anos / MASCULINO,0
+Cochabamba,30901,Quillacollo,2015,1,f. 15 - 19 anos / MASCULINO,1
+Cochabamba,30101,Cochabamba,2015,2,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,2,f. 15 - 19 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,2,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,3,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70602,Santa Rosa Del Sara,2015,3,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,4,f. 15 - 19 anos / MASCULINO,0
+Chuquisaca,11003,Machareti,2015,4,f. 15 - 19 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,4,f. 15 - 19 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,5,f. 15 - 19 anos / MASCULINO,0
+Cochabamba,31204,Chimore,2015,6,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,6,f. 15 - 19 anos / MASCULINO,0
+Cochabamba,31602,Shinaota,2015,6,f. 15 - 19 anos / MASCULINO,0
+Tarija,60303,Villa Montes,2015,6,f. 15 - 19 anos / MASCULINO,5
+Cochabamba,30905,Colcapirhua,2015,7,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,7,f. 15 - 19 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,8,f. 15 - 19 anos / MASCULINO,0
+Tarija,60601,Entre Rios Trj,2015,8,f. 15 - 19 anos / MASCULINO,1
+Chuquisaca,10501,Monteagudo,2015,8,f. 15 - 19 anos / MASCULINO,0
+Beni,80501,San Ignacio,2015,8,f. 15 - 19 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2015,8,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,9,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,10,f. 15 - 19 anos / MASCULINO,0
+Tarija,60401,Uriondo (a. Concepcion),2015,10,f. 15 - 19 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,11,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,71001,Montero,2015,11,f. 15 - 19 anos / MASCULINO,1
+Cochabamba,31202,Pojo (cbba),2015,11,f. 15 - 19 anos / MASCULINO,0
+Beni,80101,Trinidad,2015,11,f. 15 - 19 anos / MASCULINO,0
+Cochabamba,30905,Colcapirhua,2015,12,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,12,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70104,La Guardia,2015,12,f. 15 - 19 anos / MASCULINO,0
+Cochabamba,30904,Vinto,2015,12,f. 15 - 19 anos / MASCULINO,1
+Santa Cruz,70105,El Torno,2015,1,f. 15 - 19 anos / FEMENINO,0
+Beni,80202,Guayaramerin,2015,1,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,71001,Montero,2015,1,f. 15 - 19 anos / FEMENINO,1
+Cochabamba,30901,Quillacollo,2015,1,f. 15 - 19 anos / FEMENINO,3
+Cochabamba,30101,Cochabamba,2015,2,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,2,f. 15 - 19 anos / FEMENINO,1
+Chuquisaca,10501,Monteagudo,2015,2,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,3,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70602,Santa Rosa Del Sara,2015,3,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,4,f. 15 - 19 anos / FEMENINO,0
+Chuquisaca,11003,Machareti,2015,4,f. 15 - 19 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,4,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,5,f. 15 - 19 anos / FEMENINO,0
+Cochabamba,31204,Chimore,2015,6,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,6,f. 15 - 19 anos / FEMENINO,0
+Cochabamba,31602,Shinaota,2015,6,f. 15 - 19 anos / FEMENINO,0
+Tarija,60303,Villa Montes,2015,6,f. 15 - 19 anos / FEMENINO,6
+Cochabamba,30905,Colcapirhua,2015,7,f. 15 - 19 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2015,7,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,8,f. 15 - 19 anos / FEMENINO,0
+Tarija,60601,Entre Rios Trj,2015,8,f. 15 - 19 anos / FEMENINO,1
+Chuquisaca,10501,Monteagudo,2015,8,f. 15 - 19 anos / FEMENINO,0
+Beni,80501,San Ignacio,2015,8,f. 15 - 19 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2015,8,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,9,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,10,f. 15 - 19 anos / FEMENINO,0
+Tarija,60401,Uriondo (a. Concepcion),2015,10,f. 15 - 19 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,11,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,71001,Montero,2015,11,f. 15 - 19 anos / FEMENINO,0
+Cochabamba,31202,Pojo (cbba),2015,11,f. 15 - 19 anos / FEMENINO,0
+Beni,80101,Trinidad,2015,11,f. 15 - 19 anos / FEMENINO,0
+Cochabamba,30905,Colcapirhua,2015,12,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,12,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70104,La Guardia,2015,12,f. 15 - 19 anos / FEMENINO,0
+Cochabamba,30904,Vinto,2015,12,f. 15 - 19 anos / FEMENINO,2
+Santa Cruz,70105,El Torno,2015,1,g. 20 - 39 anos / MASCULINO,1
+Beni,80202,Guayaramerin,2015,1,g. 20 - 39 anos / MASCULINO,3
+Santa Cruz,71001,Montero,2015,1,g. 20 - 39 anos / MASCULINO,0
+Cochabamba,30901,Quillacollo,2015,1,g. 20 - 39 anos / MASCULINO,3
+Cochabamba,30101,Cochabamba,2015,2,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,2,g. 20 - 39 anos / MASCULINO,2
+Chuquisaca,10501,Monteagudo,2015,2,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,3,g. 20 - 39 anos / MASCULINO,1
+Santa Cruz,70602,Santa Rosa Del Sara,2015,3,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,4,g. 20 - 39 anos / MASCULINO,0
+Chuquisaca,11003,Machareti,2015,4,g. 20 - 39 anos / MASCULINO,2
+Chuquisaca,10501,Monteagudo,2015,4,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,5,g. 20 - 39 anos / MASCULINO,1
+Cochabamba,31204,Chimore,2015,6,g. 20 - 39 anos / MASCULINO,1
+Santa Cruz,70105,El Torno,2015,6,g. 20 - 39 anos / MASCULINO,0
+Cochabamba,31602,Shinaota,2015,6,g. 20 - 39 anos / MASCULINO,1
+Tarija,60303,Villa Montes,2015,6,g. 20 - 39 anos / MASCULINO,27
+Cochabamba,30905,Colcapirhua,2015,7,g. 20 - 39 anos / MASCULINO,1
+Santa Cruz,70105,El Torno,2015,7,g. 20 - 39 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,8,g. 20 - 39 anos / MASCULINO,0
+Tarija,60601,Entre Rios Trj,2015,8,g. 20 - 39 anos / MASCULINO,4
+Chuquisaca,10501,Monteagudo,2015,8,g. 20 - 39 anos / MASCULINO,1
+Beni,80501,San Ignacio,2015,8,g. 20 - 39 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2015,8,g. 20 - 39 anos / MASCULINO,1
+Santa Cruz,70105,El Torno,2015,9,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,10,g. 20 - 39 anos / MASCULINO,1
+Tarija,60401,Uriondo (a. Concepcion),2015,10,g. 20 - 39 anos / MASCULINO,1
+Chuquisaca,10501,Monteagudo,2015,11,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,71001,Montero,2015,11,g. 20 - 39 anos / MASCULINO,0
+Cochabamba,31202,Pojo (cbba),2015,11,g. 20 - 39 anos / MASCULINO,0
+Beni,80101,Trinidad,2015,11,g. 20 - 39 anos / MASCULINO,0
+Cochabamba,30905,Colcapirhua,2015,12,g. 20 - 39 anos / MASCULINO,1
+Santa Cruz,70105,El Torno,2015,12,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70104,La Guardia,2015,12,g. 20 - 39 anos / MASCULINO,0
+Cochabamba,30904,Vinto,2015,12,g. 20 - 39 anos / MASCULINO,3
+Santa Cruz,70105,El Torno,2015,1,g. 20 - 39 anos / FEMENINO,1
+Beni,80202,Guayaramerin,2015,1,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,71001,Montero,2015,1,g. 20 - 39 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2015,1,g. 20 - 39 anos / FEMENINO,1
+Cochabamba,30101,Cochabamba,2015,2,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,2,g. 20 - 39 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,2,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,3,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70602,Santa Rosa Del Sara,2015,3,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,4,g. 20 - 39 anos / FEMENINO,0
+Chuquisaca,11003,Machareti,2015,4,g. 20 - 39 anos / FEMENINO,2
+Chuquisaca,10501,Monteagudo,2015,4,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,5,g. 20 - 39 anos / FEMENINO,1
+Cochabamba,31204,Chimore,2015,6,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,6,g. 20 - 39 anos / FEMENINO,0
+Cochabamba,31602,Shinaota,2015,6,g. 20 - 39 anos / FEMENINO,0
+Tarija,60303,Villa Montes,2015,6,g. 20 - 39 anos / FEMENINO,5
+Cochabamba,30905,Colcapirhua,2015,7,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,7,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,g. 20 - 39 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2015,8,g. 20 - 39 anos / FEMENINO,0
+Tarija,60601,Entre Rios Trj,2015,8,g. 20 - 39 anos / FEMENINO,12
+Chuquisaca,10501,Monteagudo,2015,8,g. 20 - 39 anos / FEMENINO,0
+Beni,80501,San Ignacio,2015,8,g. 20 - 39 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2015,8,g. 20 - 39 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2015,9,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,10,g. 20 - 39 anos / FEMENINO,0
+Tarija,60401,Uriondo (a. Concepcion),2015,10,g. 20 - 39 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,11,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,71001,Montero,2015,11,g. 20 - 39 anos / FEMENINO,0
+Cochabamba,31202,Pojo (cbba),2015,11,g. 20 - 39 anos / FEMENINO,0
+Beni,80101,Trinidad,2015,11,g. 20 - 39 anos / FEMENINO,0
+Cochabamba,30905,Colcapirhua,2015,12,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,12,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70104,La Guardia,2015,12,g. 20 - 39 anos / FEMENINO,0
+Cochabamba,30904,Vinto,2015,12,g. 20 - 39 anos / FEMENINO,7
+Santa Cruz,70105,El Torno,2015,1,h. 40 - 49 anos / MASCULINO,0
+Beni,80202,Guayaramerin,2015,1,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,71001,Montero,2015,1,h. 40 - 49 anos / MASCULINO,0
+Cochabamba,30901,Quillacollo,2015,1,h. 40 - 49 anos / MASCULINO,1
+Cochabamba,30101,Cochabamba,2015,2,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,2,h. 40 - 49 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,2,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,3,h. 40 - 49 anos / MASCULINO,3
+Santa Cruz,70602,Santa Rosa Del Sara,2015,3,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,4,h. 40 - 49 anos / MASCULINO,1
+Chuquisaca,11003,Machareti,2015,4,h. 40 - 49 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,4,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,5,h. 40 - 49 anos / MASCULINO,0
+Cochabamba,31204,Chimore,2015,6,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,6,h. 40 - 49 anos / MASCULINO,0
+Cochabamba,31602,Shinaota,2015,6,h. 40 - 49 anos / MASCULINO,0
+Tarija,60303,Villa Montes,2015,6,h. 40 - 49 anos / MASCULINO,8
+Cochabamba,30905,Colcapirhua,2015,7,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,7,h. 40 - 49 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,8,h. 40 - 49 anos / MASCULINO,1
+Tarija,60601,Entre Rios Trj,2015,8,h. 40 - 49 anos / MASCULINO,4
+Chuquisaca,10501,Monteagudo,2015,8,h. 40 - 49 anos / MASCULINO,0
+Beni,80501,San Ignacio,2015,8,h. 40 - 49 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2015,8,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,9,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,10,h. 40 - 49 anos / MASCULINO,1
+Tarija,60401,Uriondo (a. Concepcion),2015,10,h. 40 - 49 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,11,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,71001,Montero,2015,11,h. 40 - 49 anos / MASCULINO,0
+Cochabamba,31202,Pojo (cbba),2015,11,h. 40 - 49 anos / MASCULINO,0
+Beni,80101,Trinidad,2015,11,h. 40 - 49 anos / MASCULINO,1
+Cochabamba,30905,Colcapirhua,2015,12,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,12,h. 40 - 49 anos / MASCULINO,2
+Santa Cruz,70104,La Guardia,2015,12,h. 40 - 49 anos / MASCULINO,0
+Cochabamba,30904,Vinto,2015,12,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,1,h. 40 - 49 anos / FEMENINO,0
+Beni,80202,Guayaramerin,2015,1,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,71001,Montero,2015,1,h. 40 - 49 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2015,1,h. 40 - 49 anos / FEMENINO,1
+Cochabamba,30101,Cochabamba,2015,2,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,2,h. 40 - 49 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,2,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,3,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70602,Santa Rosa Del Sara,2015,3,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,4,h. 40 - 49 anos / FEMENINO,0
+Chuquisaca,11003,Machareti,2015,4,h. 40 - 49 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,4,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,5,h. 40 - 49 anos / FEMENINO,0
+Cochabamba,31204,Chimore,2015,6,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,6,h. 40 - 49 anos / FEMENINO,1
+Cochabamba,31602,Shinaota,2015,6,h. 40 - 49 anos / FEMENINO,0
+Tarija,60303,Villa Montes,2015,6,h. 40 - 49 anos / FEMENINO,2
+Cochabamba,30905,Colcapirhua,2015,7,h. 40 - 49 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2015,7,h. 40 - 49 anos / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,h. 40 - 49 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2015,8,h. 40 - 49 anos / FEMENINO,0
+Tarija,60601,Entre Rios Trj,2015,8,h. 40 - 49 anos / FEMENINO,1
+Chuquisaca,10501,Monteagudo,2015,8,h. 40 - 49 anos / FEMENINO,0
+Beni,80501,San Ignacio,2015,8,h. 40 - 49 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2015,8,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,9,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,10,h. 40 - 49 anos / FEMENINO,0
+Tarija,60401,Uriondo (a. Concepcion),2015,10,h. 40 - 49 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,11,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,71001,Montero,2015,11,h. 40 - 49 anos / FEMENINO,0
+Cochabamba,31202,Pojo (cbba),2015,11,h. 40 - 49 anos / FEMENINO,0
+Beni,80101,Trinidad,2015,11,h. 40 - 49 anos / FEMENINO,0
+Cochabamba,30905,Colcapirhua,2015,12,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,12,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70104,La Guardia,2015,12,h. 40 - 49 anos / FEMENINO,0
+Cochabamba,30904,Vinto,2015,12,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,1,i. 50 - 59 anos / MASCULINO,0
+Beni,80202,Guayaramerin,2015,1,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,71001,Montero,2015,1,i. 50 - 59 anos / MASCULINO,0
+Cochabamba,30901,Quillacollo,2015,1,i. 50 - 59 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2015,2,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,2,i. 50 - 59 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,2,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,3,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70602,Santa Rosa Del Sara,2015,3,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,4,i. 50 - 59 anos / MASCULINO,0
+Chuquisaca,11003,Machareti,2015,4,i. 50 - 59 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,4,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,5,i. 50 - 59 anos / MASCULINO,0
+Cochabamba,31204,Chimore,2015,6,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,6,i. 50 - 59 anos / MASCULINO,1
+Cochabamba,31602,Shinaota,2015,6,i. 50 - 59 anos / MASCULINO,0
+Tarija,60303,Villa Montes,2015,6,i. 50 - 59 anos / MASCULINO,3
+Cochabamba,30905,Colcapirhua,2015,7,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,7,i. 50 - 59 anos / MASCULINO,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,8,i. 50 - 59 anos / MASCULINO,0
+Tarija,60601,Entre Rios Trj,2015,8,i. 50 - 59 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,8,i. 50 - 59 anos / MASCULINO,0
+Beni,80501,San Ignacio,2015,8,i. 50 - 59 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2015,8,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,9,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,10,i. 50 - 59 anos / MASCULINO,1
+Tarija,60401,Uriondo (a. Concepcion),2015,10,i. 50 - 59 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,11,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,71001,Montero,2015,11,i. 50 - 59 anos / MASCULINO,0
+Cochabamba,31202,Pojo (cbba),2015,11,i. 50 - 59 anos / MASCULINO,0
+Beni,80101,Trinidad,2015,11,i. 50 - 59 anos / MASCULINO,0
+Cochabamba,30905,Colcapirhua,2015,12,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,12,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70104,La Guardia,2015,12,i. 50 - 59 anos / MASCULINO,0
+Cochabamba,30904,Vinto,2015,12,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,1,i. 50 - 59 anos / FEMENINO,1
+Beni,80202,Guayaramerin,2015,1,i. 50 - 59 anos / FEMENINO,2
+Santa Cruz,71001,Montero,2015,1,i. 50 - 59 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2015,1,i. 50 - 59 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2015,2,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,2,i. 50 - 59 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,2,i. 50 - 59 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2015,3,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70602,Santa Rosa Del Sara,2015,3,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,4,i. 50 - 59 anos / FEMENINO,1
+Chuquisaca,11003,Machareti,2015,4,i. 50 - 59 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,4,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,5,i. 50 - 59 anos / FEMENINO,0
+Cochabamba,31204,Chimore,2015,6,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,6,i. 50 - 59 anos / FEMENINO,0
+Cochabamba,31602,Shinaota,2015,6,i. 50 - 59 anos / FEMENINO,0
+Tarija,60303,Villa Montes,2015,6,i. 50 - 59 anos / FEMENINO,1
+Cochabamba,30905,Colcapirhua,2015,7,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,7,i. 50 - 59 anos / FEMENINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,8,i. 50 - 59 anos / FEMENINO,0
+Tarija,60601,Entre Rios Trj,2015,8,i. 50 - 59 anos / FEMENINO,1
+Chuquisaca,10501,Monteagudo,2015,8,i. 50 - 59 anos / FEMENINO,0
+Beni,80501,San Ignacio,2015,8,i. 50 - 59 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2015,8,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,9,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,10,i. 50 - 59 anos / FEMENINO,1
+Tarija,60401,Uriondo (a. Concepcion),2015,10,i. 50 - 59 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,11,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,71001,Montero,2015,11,i. 50 - 59 anos / FEMENINO,0
+Cochabamba,31202,Pojo (cbba),2015,11,i. 50 - 59 anos / FEMENINO,0
+Beni,80101,Trinidad,2015,11,i. 50 - 59 anos / FEMENINO,0
+Cochabamba,30905,Colcapirhua,2015,12,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,12,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70104,La Guardia,2015,12,i. 50 - 59 anos / FEMENINO,0
+Cochabamba,30904,Vinto,2015,12,i. 50 - 59 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2015,1,j. 60 anos y mas / MASCULINO,1
+Beni,80202,Guayaramerin,2015,1,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,71001,Montero,2015,1,j. 60 anos y mas / MASCULINO,0
+Cochabamba,30901,Quillacollo,2015,1,j. 60 anos y mas / MASCULINO,0
+Cochabamba,30101,Cochabamba,2015,2,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,2,j. 60 anos y mas / MASCULINO,3
+Chuquisaca,10501,Monteagudo,2015,2,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,3,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70602,Santa Rosa Del Sara,2015,3,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,4,j. 60 anos y mas / MASCULINO,0
+Chuquisaca,11003,Machareti,2015,4,j. 60 anos y mas / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,4,j. 60 anos y mas / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,5,j. 60 anos y mas / MASCULINO,0
+Cochabamba,31204,Chimore,2015,6,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,6,j. 60 anos y mas / MASCULINO,1
+Cochabamba,31602,Shinaota,2015,6,j. 60 anos y mas / MASCULINO,0
+Tarija,60303,Villa Montes,2015,6,j. 60 anos y mas / MASCULINO,3
+Cochabamba,30905,Colcapirhua,2015,7,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,7,j. 60 anos y mas / MASCULINO,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,8,j. 60 anos y mas / MASCULINO,0
+Tarija,60601,Entre Rios Trj,2015,8,j. 60 anos y mas / MASCULINO,1
+Chuquisaca,10501,Monteagudo,2015,8,j. 60 anos y mas / MASCULINO,0
+Beni,80501,San Ignacio,2015,8,j. 60 anos y mas / MASCULINO,1
+Cochabamba,31003,Villa Tunari,2015,8,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,9,j. 60 anos y mas / MASCULINO,1
+Santa Cruz,70105,El Torno,2015,10,j. 60 anos y mas / MASCULINO,1
+Tarija,60401,Uriondo (a. Concepcion),2015,10,j. 60 anos y mas / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2015,11,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,71001,Montero,2015,11,j. 60 anos y mas / MASCULINO,0
+Cochabamba,31202,Pojo (cbba),2015,11,j. 60 anos y mas / MASCULINO,0
+Beni,80101,Trinidad,2015,11,j. 60 anos y mas / MASCULINO,0
+Cochabamba,30905,Colcapirhua,2015,12,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2015,12,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70104,La Guardia,2015,12,j. 60 anos y mas / MASCULINO,0
+Cochabamba,30904,Vinto,2015,12,j. 60 anos y mas / MASCULINO,2
+Santa Cruz,70105,El Torno,2015,1,j. 60 anos y mas / FEMENINO,0
+Beni,80202,Guayaramerin,2015,1,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,71001,Montero,2015,1,j. 60 anos y mas / FEMENINO,0
+Cochabamba,30901,Quillacollo,2015,1,j. 60 anos y mas / FEMENINO,0
+Cochabamba,30101,Cochabamba,2015,2,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,2,j. 60 anos y mas / FEMENINO,2
+Chuquisaca,10501,Monteagudo,2015,2,j. 60 anos y mas / FEMENINO,1
+Santa Cruz,70105,El Torno,2015,3,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70602,Santa Rosa Del Sara,2015,3,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,4,j. 60 anos y mas / FEMENINO,0
+Chuquisaca,11003,Machareti,2015,4,j. 60 anos y mas / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,4,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,j. 60 anos y mas / FEMENINO,1
+Santa Cruz,70105,El Torno,2015,5,j. 60 anos y mas / FEMENINO,1
+Cochabamba,31204,Chimore,2015,6,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,6,j. 60 anos y mas / FEMENINO,0
+Cochabamba,31602,Shinaota,2015,6,j. 60 anos y mas / FEMENINO,0
+Tarija,60303,Villa Montes,2015,6,j. 60 anos y mas / FEMENINO,3
+Cochabamba,30905,Colcapirhua,2015,7,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,7,j. 60 anos y mas / FEMENINO,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,8,j. 60 anos y mas / FEMENINO,0
+Tarija,60601,Entre Rios Trj,2015,8,j. 60 anos y mas / FEMENINO,2
+Chuquisaca,10501,Monteagudo,2015,8,j. 60 anos y mas / FEMENINO,0
+Beni,80501,San Ignacio,2015,8,j. 60 anos y mas / FEMENINO,1
+Cochabamba,31003,Villa Tunari,2015,8,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,9,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,10,j. 60 anos y mas / FEMENINO,0
+Tarija,60401,Uriondo (a. Concepcion),2015,10,j. 60 anos y mas / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2015,11,j. 60 anos y mas / FEMENINO,2
+Santa Cruz,71001,Montero,2015,11,j. 60 anos y mas / FEMENINO,0
+Cochabamba,31202,Pojo (cbba),2015,11,j. 60 anos y mas / FEMENINO,0
+Beni,80101,Trinidad,2015,11,j. 60 anos y mas / FEMENINO,0
+Cochabamba,30905,Colcapirhua,2015,12,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2015,12,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70104,La Guardia,2015,12,j. 60 anos y mas / FEMENINO,0
+Cochabamba,30904,Vinto,2015,12,j. 60 anos y mas / FEMENINO,3
+Santa Cruz,70105,El Torno,2015,1,TOTALES / TOTAL-M,2
+Beni,80202,Guayaramerin,2015,1,TOTALES / TOTAL-M,6
+Santa Cruz,71001,Montero,2015,1,TOTALES / TOTAL-M,0
+Cochabamba,30901,Quillacollo,2015,1,TOTALES / TOTAL-M,5
+Cochabamba,30101,Cochabamba,2015,2,TOTALES / TOTAL-M,0
+Santa Cruz,70105,El Torno,2015,2,TOTALES / TOTAL-M,5
+Chuquisaca,10501,Monteagudo,2015,2,TOTALES / TOTAL-M,0
+Santa Cruz,70105,El Torno,2015,3,TOTALES / TOTAL-M,4
+Santa Cruz,70602,Santa Rosa Del Sara,2015,3,TOTALES / TOTAL-M,0
+Santa Cruz,70105,El Torno,2015,4,TOTALES / TOTAL-M,1
+Chuquisaca,11003,Machareti,2015,4,TOTALES / TOTAL-M,2
+Chuquisaca,10501,Monteagudo,2015,4,TOTALES / TOTAL-M,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,TOTALES / TOTAL-M,0
+Santa Cruz,70105,El Torno,2015,5,TOTALES / TOTAL-M,1
+Cochabamba,31204,Chimore,2015,6,TOTALES / TOTAL-M,1
+Santa Cruz,70105,El Torno,2015,6,TOTALES / TOTAL-M,2
+Cochabamba,31602,Shinaota,2015,6,TOTALES / TOTAL-M,1
+Tarija,60303,Villa Montes,2015,6,TOTALES / TOTAL-M,52
+Cochabamba,30905,Colcapirhua,2015,7,TOTALES / TOTAL-M,3
+Santa Cruz,70105,El Torno,2015,7,TOTALES / TOTAL-M,18
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,TOTALES / TOTAL-M,0
+Santa Cruz,70105,El Torno,2015,8,TOTALES / TOTAL-M,1
+Tarija,60601,Entre Rios Trj,2015,8,TOTALES / TOTAL-M,19
+Chuquisaca,10501,Monteagudo,2015,8,TOTALES / TOTAL-M,1
+Beni,80501,San Ignacio,2015,8,TOTALES / TOTAL-M,1
+Cochabamba,31003,Villa Tunari,2015,8,TOTALES / TOTAL-M,1
+Santa Cruz,70105,El Torno,2015,9,TOTALES / TOTAL-M,1
+Santa Cruz,70105,El Torno,2015,10,TOTALES / TOTAL-M,4
+Tarija,60401,Uriondo (a. Concepcion),2015,10,TOTALES / TOTAL-M,1
+Chuquisaca,10501,Monteagudo,2015,11,TOTALES / TOTAL-M,0
+Santa Cruz,71001,Montero,2015,11,TOTALES / TOTAL-M,1
+Cochabamba,31202,Pojo (cbba),2015,11,TOTALES / TOTAL-M,1
+Beni,80101,Trinidad,2015,11,TOTALES / TOTAL-M,1
+Cochabamba,30905,Colcapirhua,2015,12,TOTALES / TOTAL-M,2
+Santa Cruz,70105,El Torno,2015,12,TOTALES / TOTAL-M,2
+Santa Cruz,70104,La Guardia,2015,12,TOTALES / TOTAL-M,1
+Cochabamba,30904,Vinto,2015,12,TOTALES / TOTAL-M,7
+Santa Cruz,70105,El Torno,2015,1,TOTALES / TOTAL-F,2
+Beni,80202,Guayaramerin,2015,1,TOTALES / TOTAL-F,3
+Santa Cruz,71001,Montero,2015,1,TOTALES / TOTAL-F,1
+Cochabamba,30901,Quillacollo,2015,1,TOTALES / TOTAL-F,6
+Cochabamba,30101,Cochabamba,2015,2,TOTALES / TOTAL-F,2
+Santa Cruz,70105,El Torno,2015,2,TOTALES / TOTAL-F,3
+Chuquisaca,10501,Monteagudo,2015,2,TOTALES / TOTAL-F,2
+Santa Cruz,70105,El Torno,2015,3,TOTALES / TOTAL-F,0
+Santa Cruz,70602,Santa Rosa Del Sara,2015,3,TOTALES / TOTAL-F,1
+Santa Cruz,70105,El Torno,2015,4,TOTALES / TOTAL-F,1
+Chuquisaca,11003,Machareti,2015,4,TOTALES / TOTAL-F,2
+Chuquisaca,10501,Monteagudo,2015,4,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,TOTALES / TOTAL-F,1
+Santa Cruz,70105,El Torno,2015,5,TOTALES / TOTAL-F,2
+Cochabamba,31204,Chimore,2015,6,TOTALES / TOTAL-F,0
+Santa Cruz,70105,El Torno,2015,6,TOTALES / TOTAL-F,1
+Cochabamba,31602,Shinaota,2015,6,TOTALES / TOTAL-F,0
+Tarija,60303,Villa Montes,2015,6,TOTALES / TOTAL-F,22
+Cochabamba,30905,Colcapirhua,2015,7,TOTALES / TOTAL-F,2
+Santa Cruz,70105,El Torno,2015,7,TOTALES / TOTAL-F,17
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,TOTALES / TOTAL-F,2
+Santa Cruz,70105,El Torno,2015,8,TOTALES / TOTAL-F,0
+Tarija,60601,Entre Rios Trj,2015,8,TOTALES / TOTAL-F,27
+Chuquisaca,10501,Monteagudo,2015,8,TOTALES / TOTAL-F,0
+Beni,80501,San Ignacio,2015,8,TOTALES / TOTAL-F,1
+Cochabamba,31003,Villa Tunari,2015,8,TOTALES / TOTAL-F,1
+Santa Cruz,70105,El Torno,2015,9,TOTALES / TOTAL-F,0
+Santa Cruz,70105,El Torno,2015,10,TOTALES / TOTAL-F,1
+Tarija,60401,Uriondo (a. Concepcion),2015,10,TOTALES / TOTAL-F,0
+Chuquisaca,10501,Monteagudo,2015,11,TOTALES / TOTAL-F,2
+Santa Cruz,71001,Montero,2015,11,TOTALES / TOTAL-F,0
+Cochabamba,31202,Pojo (cbba),2015,11,TOTALES / TOTAL-F,0
+Beni,80101,Trinidad,2015,11,TOTALES / TOTAL-F,0
+Cochabamba,30905,Colcapirhua,2015,12,TOTALES / TOTAL-F,1
+Santa Cruz,70105,El Torno,2015,12,TOTALES / TOTAL-F,0
+Santa Cruz,70104,La Guardia,2015,12,TOTALES / TOTAL-F,0
+Cochabamba,30904,Vinto,2015,12,TOTALES / TOTAL-F,15
+Santa Cruz,70105,El Torno,2015,1,TOTALES / TOTAL,4
+Beni,80202,Guayaramerin,2015,1,TOTALES / TOTAL,9
+Santa Cruz,71001,Montero,2015,1,TOTALES / TOTAL,1
+Cochabamba,30901,Quillacollo,2015,1,TOTALES / TOTAL,11
+Cochabamba,30101,Cochabamba,2015,2,TOTALES / TOTAL,2
+Santa Cruz,70105,El Torno,2015,2,TOTALES / TOTAL,8
+Chuquisaca,10501,Monteagudo,2015,2,TOTALES / TOTAL,2
+Santa Cruz,70105,El Torno,2015,3,TOTALES / TOTAL,4
+Santa Cruz,70602,Santa Rosa Del Sara,2015,3,TOTALES / TOTAL,1
+Santa Cruz,70105,El Torno,2015,4,TOTALES / TOTAL,2
+Chuquisaca,11003,Machareti,2015,4,TOTALES / TOTAL,4
+Chuquisaca,10501,Monteagudo,2015,4,TOTALES / TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,TOTALES / TOTAL,1
+Santa Cruz,70105,El Torno,2015,5,TOTALES / TOTAL,3
+Cochabamba,31204,Chimore,2015,6,TOTALES / TOTAL,1
+Santa Cruz,70105,El Torno,2015,6,TOTALES / TOTAL,3
+Cochabamba,31602,Shinaota,2015,6,TOTALES / TOTAL,1
+Tarija,60303,Villa Montes,2015,6,TOTALES / TOTAL,74
+Cochabamba,30905,Colcapirhua,2015,7,TOTALES / TOTAL,5
+Santa Cruz,70105,El Torno,2015,7,TOTALES / TOTAL,35
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,TOTALES / TOTAL,2
+Santa Cruz,70105,El Torno,2015,8,TOTALES / TOTAL,1
+Tarija,60601,Entre Rios Trj,2015,8,TOTALES / TOTAL,46
+Chuquisaca,10501,Monteagudo,2015,8,TOTALES / TOTAL,1
+Beni,80501,San Ignacio,2015,8,TOTALES / TOTAL,2
+Cochabamba,31003,Villa Tunari,2015,8,TOTALES / TOTAL,2
+Santa Cruz,70105,El Torno,2015,9,TOTALES / TOTAL,1
+Santa Cruz,70105,El Torno,2015,10,TOTALES / TOTAL,5
+Tarija,60401,Uriondo (a. Concepcion),2015,10,TOTALES / TOTAL,1
+Chuquisaca,10501,Monteagudo,2015,11,TOTALES / TOTAL,2
+Santa Cruz,71001,Montero,2015,11,TOTALES / TOTAL,1
+Cochabamba,31202,Pojo (cbba),2015,11,TOTALES / TOTAL,1
+Beni,80101,Trinidad,2015,11,TOTALES / TOTAL,1
+Cochabamba,30905,Colcapirhua,2015,12,TOTALES / TOTAL,3
+Santa Cruz,70105,El Torno,2015,12,TOTALES / TOTAL,2
+Santa Cruz,70104,La Guardia,2015,12,TOTALES / TOTAL,1
+Cochabamba,30904,Vinto,2015,12,TOTALES / TOTAL,22

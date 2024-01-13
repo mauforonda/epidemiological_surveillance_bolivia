@@ -1,0 +1,50 @@
+department,municipality_id,municipality,year,month,population,value
+Tarija,60101,Tarija,2013,1,< de 1 ano,0
+Cochabamba,31003,Villa Tunari,2013,1,< de 1 ano,0
+Tarija,60303,Villa Montes,2013,5,< de 1 ano,0
+Santa Cruz,70301,San Ignacio De Velasco,2013,8,< de 1 ano,0
+Cochabamba,31003,Villa Tunari,2013,9,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,10,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,11,< de 1 ano,0
+Tarija,60101,Tarija,2013,1,1 a 4 anos,0
+Cochabamba,31003,Villa Tunari,2013,1,1 a 4 anos,0
+Tarija,60303,Villa Montes,2013,5,1 a 4 anos,0
+Santa Cruz,70301,San Ignacio De Velasco,2013,8,1 a 4 anos,1
+Cochabamba,31003,Villa Tunari,2013,9,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,10,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,11,1 a 4 anos,0
+Tarija,60101,Tarija,2013,1,5 a 9 anos,0
+Cochabamba,31003,Villa Tunari,2013,1,5 a 9 anos,0
+Tarija,60303,Villa Montes,2013,5,5 a 9 anos,0
+Santa Cruz,70301,San Ignacio De Velasco,2013,8,5 a 9 anos,0
+Cochabamba,31003,Villa Tunari,2013,9,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,10,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,11,5 a 9 anos,0
+Tarija,60101,Tarija,2013,1,10 a 20 anos,0
+Cochabamba,31003,Villa Tunari,2013,1,10 a 20 anos,0
+Tarija,60303,Villa Montes,2013,5,10 a 20 anos,0
+Santa Cruz,70301,San Ignacio De Velasco,2013,8,10 a 20 anos,0
+Cochabamba,31003,Villa Tunari,2013,9,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,10,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,11,10 a 20 anos,0
+Tarija,60101,Tarija,2013,1,21 a 59 anos,1
+Cochabamba,31003,Villa Tunari,2013,1,21 a 59 anos,0
+Tarija,60303,Villa Montes,2013,5,21 a 59 anos,1
+Santa Cruz,70301,San Ignacio De Velasco,2013,8,21 a 59 anos,0
+Cochabamba,31003,Villa Tunari,2013,9,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,10,21 a 59 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,11,21 a 59 anos,0
+Tarija,60101,Tarija,2013,1,60 y mas,0
+Cochabamba,31003,Villa Tunari,2013,1,60 y mas,0
+Tarija,60303,Villa Montes,2013,5,60 y mas,0
+Santa Cruz,70301,San Ignacio De Velasco,2013,8,60 y mas,0
+Cochabamba,31003,Villa Tunari,2013,9,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,10,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,11,60 y mas,1
+Tarija,60101,Tarija,2013,1,TOTAL,1
+Cochabamba,31003,Villa Tunari,2013,1,TOTAL,0
+Tarija,60303,Villa Montes,2013,5,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2013,8,TOTAL,1
+Cochabamba,31003,Villa Tunari,2013,9,TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,10,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,11,TOTAL,1

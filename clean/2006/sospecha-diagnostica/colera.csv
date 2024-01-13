@@ -1,0 +1,13 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,30101,Cochabamba,2006,2,< de 1 ano,0
+Santa Cruz,70104,La Guardia,2006,12,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2006,2,1 a 4 anos,0
+Santa Cruz,70104,La Guardia,2006,12,1 a 4 anos,0
+Cochabamba,30101,Cochabamba,2006,2,5 a 14 anos,0
+Santa Cruz,70104,La Guardia,2006,12,5 a 14 anos,0
+Cochabamba,30101,Cochabamba,2006,2,15 a 59 anos,0
+Santa Cruz,70104,La Guardia,2006,12,15 a 59 anos,1
+Cochabamba,30101,Cochabamba,2006,2,60 y mas,1
+Santa Cruz,70104,La Guardia,2006,12,60 y mas,0
+Cochabamba,30101,Cochabamba,2006,2,TOTAL,1
+Santa Cruz,70104,La Guardia,2006,12,TOTAL,1

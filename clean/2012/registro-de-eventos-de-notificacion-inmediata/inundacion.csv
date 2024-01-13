@@ -1,0 +1,73 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,30901,Quillacollo,2012,1,Nro.,1
+Beni,80102,San Javier(bni),2012,1,Nro.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,Nro.,0
+Pando,90104,Bella Flor,2012,2,Nro.,1
+Pando,90103,Bolpebra,2012,2,Nro.,1
+Santa Cruz,70703,Cabezas,2012,2,Nro.,1
+Pando,90101,Cobija,2012,2,Nro.,1
+Pando,90203,Filadelfia,2012,2,Nro.,1
+Santa Cruz,70104,La Guardia,2012,2,Nro.,90
+Santa Cruz,70404,San Juan De Yapacani,2012,2,Nro.,60
+Potosí,50801,Tupiza,2012,2,Nro.,1
+Oruro,40903,Chipaya,2012,3,Nro.,4
+Beni,80201,Riberalta,2012,3,Nro.,1
+Santa Cruz,70702,Charagua,2012,4,Nro.,6
+Cochabamba,31205,Puerto Villarroel,2012,4,Nro.,1
+Santa Cruz,70602,Santa Rosa Del Sara,2012,6,Nro.,1
+Santa Cruz,71104,San Julian,2012,11,Nro.,48
+Cochabamba,31205,Puerto Villarroel,2012,12,Nro.,1
+Cochabamba,30901,Quillacollo,2012,1,Nro. Afectados,35
+Beni,80102,San Javier(bni),2012,1,Nro. Afectados,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,Nro. Afectados,0
+Pando,90104,Bella Flor,2012,2,Nro. Afectados,40
+Pando,90103,Bolpebra,2012,2,Nro. Afectados,93
+Santa Cruz,70703,Cabezas,2012,2,Nro. Afectados,12
+Pando,90101,Cobija,2012,2,Nro. Afectados,463
+Pando,90203,Filadelfia,2012,2,Nro. Afectados,0
+Santa Cruz,70104,La Guardia,2012,2,Nro. Afectados,270
+Santa Cruz,70404,San Juan De Yapacani,2012,2,Nro. Afectados,240
+Potosí,50801,Tupiza,2012,2,Nro. Afectados,27
+Oruro,40903,Chipaya,2012,3,Nro. Afectados,1400
+Beni,80201,Riberalta,2012,3,Nro. Afectados,60
+Santa Cruz,70702,Charagua,2012,4,Nro. Afectados,43
+Cochabamba,31205,Puerto Villarroel,2012,4,Nro. Afectados,200
+Santa Cruz,70602,Santa Rosa Del Sara,2012,6,Nro. Afectados,320
+Santa Cruz,71104,San Julian,2012,11,Nro. Afectados,0
+Cochabamba,31205,Puerto Villarroel,2012,12,Nro. Afectados,200
+Cochabamba,30901,Quillacollo,2012,1,Nro. Fallecidos,0
+Beni,80102,San Javier(bni),2012,1,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,Nro. Fallecidos,0
+Pando,90104,Bella Flor,2012,2,Nro. Fallecidos,0
+Pando,90103,Bolpebra,2012,2,Nro. Fallecidos,0
+Santa Cruz,70703,Cabezas,2012,2,Nro. Fallecidos,0
+Pando,90101,Cobija,2012,2,Nro. Fallecidos,0
+Pando,90203,Filadelfia,2012,2,Nro. Fallecidos,0
+Santa Cruz,70104,La Guardia,2012,2,Nro. Fallecidos,0
+Santa Cruz,70404,San Juan De Yapacani,2012,2,Nro. Fallecidos,0
+Potosí,50801,Tupiza,2012,2,Nro. Fallecidos,0
+Oruro,40903,Chipaya,2012,3,Nro. Fallecidos,0
+Beni,80201,Riberalta,2012,3,Nro. Fallecidos,0
+Santa Cruz,70702,Charagua,2012,4,Nro. Fallecidos,0
+Cochabamba,31205,Puerto Villarroel,2012,4,Nro. Fallecidos,0
+Santa Cruz,70602,Santa Rosa Del Sara,2012,6,Nro. Fallecidos,0
+Santa Cruz,71104,San Julian,2012,11,Nro. Fallecidos,0
+Cochabamba,31205,Puerto Villarroel,2012,12,Nro. Fallecidos,0
+Cochabamba,30901,Quillacollo,2012,1,TOTAL,36
+Beni,80102,San Javier(bni),2012,1,TOTAL,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,TOTAL,0
+Pando,90104,Bella Flor,2012,2,TOTAL,41
+Pando,90103,Bolpebra,2012,2,TOTAL,94
+Santa Cruz,70703,Cabezas,2012,2,TOTAL,13
+Pando,90101,Cobija,2012,2,TOTAL,464
+Pando,90203,Filadelfia,2012,2,TOTAL,1
+Santa Cruz,70104,La Guardia,2012,2,TOTAL,360
+Santa Cruz,70404,San Juan De Yapacani,2012,2,TOTAL,300
+Potosí,50801,Tupiza,2012,2,TOTAL,28
+Oruro,40903,Chipaya,2012,3,TOTAL,1404
+Beni,80201,Riberalta,2012,3,TOTAL,61
+Santa Cruz,70702,Charagua,2012,4,TOTAL,49
+Cochabamba,31205,Puerto Villarroel,2012,4,TOTAL,201
+Santa Cruz,70602,Santa Rosa Del Sara,2012,6,TOTAL,321
+Santa Cruz,71104,San Julian,2012,11,TOTAL,48
+Cochabamba,31205,Puerto Villarroel,2012,12,TOTAL,201

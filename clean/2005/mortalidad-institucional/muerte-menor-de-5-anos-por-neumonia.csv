@@ -1,0 +1,771 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70705,Gutierrez,2005,1,Dentro-H,0
+La Paz,20101,La Paz,2005,1,Dentro-H,3
+Potosí,50203,Llallagua,2005,1,Dentro-H,0
+Potosí,50101,Potosi,2005,1,Dentro-H,1
+Potosí,50701,Sacaca,2005,1,Dentro-H,0
+Santa Cruz,71104,San Julian,2005,1,Dentro-H,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,1,Dentro-H,1
+Cochabamba,30101,Cochabamba,2005,2,Dentro-H,1
+Chuquisaca,10703,Incahuasi,2005,2,Dentro-H,0
+La Paz,20101,La Paz,2005,2,Dentro-H,2
+Potosí,50203,Llallagua,2005,2,Dentro-H,0
+Beni,80401,Santa Ana,2005,2,Dentro-H,0
+Santa Cruz,70403,Yapacani,2005,2,Dentro-H,0
+Cochabamba,30905,Colcapirhua,2005,3,Dentro-H,1
+Santa Cruz,71001,Montero,2005,3,Dentro-H,0
+Potosí,50101,Potosi,2005,3,Dentro-H,0
+La Paz,21502,San Buena Ventura,2005,3,Dentro-H,1
+Tarija,60101,Tarija,2005,3,Dentro-H,1
+Cochabamba,31003,Villa Tunari,2005,3,Dentro-H,1
+Potosí,51102,"Caiza ""d""",2005,4,Dentro-H,0
+Cochabamba,30101,Cochabamba,2005,4,Dentro-H,0
+Cochabamba,31002,Colomi,2005,4,Dentro-H,0
+La Paz,20602,Guanay,2005,4,Dentro-H,1
+La Paz,20101,La Paz,2005,4,Dentro-H,0
+Potosí,50101,Potosi,2005,4,Dentro-H,1
+Cochabamba,31401,Punata,2005,4,Dentro-H,0
+Beni,80201,Riberalta,2005,4,Dentro-H,0
+Potosí,50901,"Colcha ""k""",2005,5,Dentro-H,0
+La Paz,20101,La Paz,2005,5,Dentro-H,1
+Potosí,50203,Llallagua,2005,5,Dentro-H,0
+Cochabamba,31301,Mizque,2005,5,Dentro-H,0
+Potosí,50404,Ocuri,2005,5,Dentro-H,0
+Potosí,50101,Potosi,2005,5,Dentro-H,1
+Cochabamba,31001,Sacaba,2005,5,Dentro-H,0
+Cochabamba,30601,Arque,2005,6,Dentro-H,0
+Tarija,60302,Carapari,2005,6,Dentro-H,1
+Cochabamba,30101,Cochabamba,2005,6,Dentro-H,1
+Beni,80402,Exaltacion,2005,6,Dentro-H,1
+Oruro,40701,Huanuni,2005,6,Dentro-H,1
+La Paz,20101,La Paz,2005,6,Dentro-H,3
+Chuquisaca,10303,Mojocoya,2005,6,Dentro-H,0
+Potosí,50404,Ocuri,2005,6,Dentro-H,0
+Oruro,40101,Oruro,2005,6,Dentro-H,1
+La Paz,20702,Pelechuco,2005,6,Dentro-H,0
+Santa Cruz,71402,Puerto Quijarro,2005,6,Dentro-H,0
+Potosí,50402,Ravelo,2005,6,Dentro-H,0
+Beni,80201,Riberalta,2005,6,Dentro-H,0
+Beni,80302,San Borja,2005,6,Dentro-H,1
+Santa Cruz,70301,San Ignacio De Velasco,2005,6,Dentro-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,Dentro-H,0
+Chuquisaca,10202,Tarvita,2005,6,Dentro-H,0
+Potosí,50801,Tupiza,2005,6,Dentro-H,1
+Chuquisaca,10201,Azurduy,2005,7,Dentro-H,0
+Potosí,50301,Betanzos,2005,7,Dentro-H,1
+Potosí,50901,"Colcha ""k""",2005,7,Dentro-H,0
+La Paz,20105,El Alto,2005,7,Dentro-H,0
+Potosí,50203,Llallagua,2005,7,Dentro-H,0
+Potosí,50101,Potosi,2005,7,Dentro-H,2
+Santa Cruz,70402,San Carlos,2005,7,Dentro-H,0
+Chuquisaca,10702,San Lucas,2005,7,Dentro-H,0
+Potosí,50501,San Pedro De Buena Vista,2005,7,Dentro-H,0
+Potosí,50303,Tacobamba,2005,7,Dentro-H,0
+Cochabamba,31303,Alalay,2005,8,Dentro-H,0
+La Paz,21203,Batallas,2005,8,Dentro-H,0
+Cochabamba,30101,Cochabamba,2005,8,Dentro-H,1
+Chuquisaca,10902,Culpina,2005,8,Dentro-H,0
+La Paz,20105,El Alto,2005,8,Dentro-H,0
+La Paz,20101,La Paz,2005,8,Dentro-H,3
+Cochabamba,31301,Mizque,2005,8,Dentro-H,0
+Potosí,50404,Ocuri,2005,8,Dentro-H,0
+Potosí,50101,Potosi,2005,8,Dentro-H,1
+Santa Cruz,71104,San Julian,2005,8,Dentro-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,Dentro-H,1
+Potosí,50202,Chayanta,2005,9,Dentro-H,0
+La Paz,20105,El Alto,2005,9,Dentro-H,1
+La Paz,20101,La Paz,2005,9,Dentro-H,4
+La Paz,21305,Patacamaya,2005,9,Dentro-H,1
+Potosí,50101,Potosi,2005,9,Dentro-H,0
+Potosí,50402,Ravelo,2005,9,Dentro-H,0
+Chuquisaca,10702,San Lucas,2005,9,Dentro-H,0
+Beni,80401,Santa Ana,2005,9,Dentro-H,1
+Chuquisaca,10601,Tarabuco,2005,9,Dentro-H,1
+Potosí,50201,Uncia,2005,9,Dentro-H,0
+Chuquisaca,10801,Villa Serrano,2005,9,Dentro-H,0
+La Paz,20503,Aucapata,2005,10,Dentro-H,0
+La Paz,20105,El Alto,2005,10,Dentro-H,0
+Oruro,40103,El Choro,2005,10,Dentro-H,0
+Santa Cruz,71004,Fernandez Alonso,2005,10,Dentro-H,0
+La Paz,20101,La Paz,2005,10,Dentro-H,2
+Cochabamba,31301,Mizque,2005,10,Dentro-H,0
+Santa Cruz,71001,Montero,2005,10,Dentro-H,0
+Potosí,50404,Ocuri,2005,10,Dentro-H,0
+Potosí,50101,Potosi,2005,10,Dentro-H,1
+Chuquisaca,10101,Sucre,2005,10,Dentro-H,0
+Potosí,50303,Tacobamba,2005,10,Dentro-H,1
+Cochabamba,31303,Alalay,2005,11,Dentro-H,0
+Chuquisaca,10201,Azurduy,2005,11,Dentro-H,0
+Cochabamba,30101,Cochabamba,2005,11,Dentro-H,1
+La Paz,20101,La Paz,2005,11,Dentro-H,0
+Chuquisaca,10501,Monteagudo,2005,11,Dentro-H,0
+Oruro,40101,Oruro,2005,11,Dentro-H,0
+Potosí,50101,Potosi,2005,11,Dentro-H,2
+Beni,80302,San Borja,2005,11,Dentro-H,1
+Potosí,50501,San Pedro De Buena Vista,2005,11,Dentro-H,0
+Chuquisaca,10101,Sucre,2005,11,Dentro-H,0
+Pando,90502,Villa Nueva (loma Alta),2005,11,Dentro-H,0
+Potosí,50301,Betanzos,2005,12,Dentro-H,0
+La Paz,20101,La Paz,2005,12,Dentro-H,4
+La Paz,21305,Patacamaya,2005,12,Dentro-H,0
+Potosí,50101,Potosi,2005,12,Dentro-H,1
+Santa Cruz,70705,Gutierrez,2005,1,Dentro-M,1
+La Paz,20101,La Paz,2005,1,Dentro-M,1
+Potosí,50203,Llallagua,2005,1,Dentro-M,0
+Potosí,50101,Potosi,2005,1,Dentro-M,0
+Potosí,50701,Sacaca,2005,1,Dentro-M,0
+Santa Cruz,71104,San Julian,2005,1,Dentro-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,1,Dentro-M,0
+Cochabamba,30101,Cochabamba,2005,2,Dentro-M,0
+Chuquisaca,10703,Incahuasi,2005,2,Dentro-M,0
+La Paz,20101,La Paz,2005,2,Dentro-M,0
+Potosí,50203,Llallagua,2005,2,Dentro-M,1
+Beni,80401,Santa Ana,2005,2,Dentro-M,1
+Santa Cruz,70403,Yapacani,2005,2,Dentro-M,0
+Cochabamba,30905,Colcapirhua,2005,3,Dentro-M,0
+Santa Cruz,71001,Montero,2005,3,Dentro-M,0
+Potosí,50101,Potosi,2005,3,Dentro-M,0
+La Paz,21502,San Buena Ventura,2005,3,Dentro-M,0
+Tarija,60101,Tarija,2005,3,Dentro-M,0
+Cochabamba,31003,Villa Tunari,2005,3,Dentro-M,0
+Potosí,51102,"Caiza ""d""",2005,4,Dentro-M,0
+Cochabamba,30101,Cochabamba,2005,4,Dentro-M,1
+Cochabamba,31002,Colomi,2005,4,Dentro-M,0
+La Paz,20602,Guanay,2005,4,Dentro-M,0
+La Paz,20101,La Paz,2005,4,Dentro-M,1
+Potosí,50101,Potosi,2005,4,Dentro-M,0
+Cochabamba,31401,Punata,2005,4,Dentro-M,1
+Beni,80201,Riberalta,2005,4,Dentro-M,0
+Potosí,50901,"Colcha ""k""",2005,5,Dentro-M,0
+La Paz,20101,La Paz,2005,5,Dentro-M,0
+Potosí,50203,Llallagua,2005,5,Dentro-M,0
+Cochabamba,31301,Mizque,2005,5,Dentro-M,0
+Potosí,50404,Ocuri,2005,5,Dentro-M,0
+Potosí,50101,Potosi,2005,5,Dentro-M,0
+Cochabamba,31001,Sacaba,2005,5,Dentro-M,0
+Cochabamba,30601,Arque,2005,6,Dentro-M,0
+Tarija,60302,Carapari,2005,6,Dentro-M,0
+Cochabamba,30101,Cochabamba,2005,6,Dentro-M,1
+Beni,80402,Exaltacion,2005,6,Dentro-M,0
+Oruro,40701,Huanuni,2005,6,Dentro-M,0
+La Paz,20101,La Paz,2005,6,Dentro-M,2
+Chuquisaca,10303,Mojocoya,2005,6,Dentro-M,0
+Potosí,50404,Ocuri,2005,6,Dentro-M,0
+Oruro,40101,Oruro,2005,6,Dentro-M,0
+La Paz,20702,Pelechuco,2005,6,Dentro-M,0
+Santa Cruz,71402,Puerto Quijarro,2005,6,Dentro-M,0
+Potosí,50402,Ravelo,2005,6,Dentro-M,0
+Beni,80201,Riberalta,2005,6,Dentro-M,0
+Beni,80302,San Borja,2005,6,Dentro-M,1
+Santa Cruz,70301,San Ignacio De Velasco,2005,6,Dentro-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,Dentro-M,1
+Chuquisaca,10202,Tarvita,2005,6,Dentro-M,0
+Potosí,50801,Tupiza,2005,6,Dentro-M,0
+Chuquisaca,10201,Azurduy,2005,7,Dentro-M,1
+Potosí,50301,Betanzos,2005,7,Dentro-M,0
+Potosí,50901,"Colcha ""k""",2005,7,Dentro-M,0
+La Paz,20105,El Alto,2005,7,Dentro-M,1
+Potosí,50203,Llallagua,2005,7,Dentro-M,0
+Potosí,50101,Potosi,2005,7,Dentro-M,1
+Santa Cruz,70402,San Carlos,2005,7,Dentro-M,1
+Chuquisaca,10702,San Lucas,2005,7,Dentro-M,0
+Potosí,50501,San Pedro De Buena Vista,2005,7,Dentro-M,0
+Potosí,50303,Tacobamba,2005,7,Dentro-M,0
+Cochabamba,31303,Alalay,2005,8,Dentro-M,0
+La Paz,21203,Batallas,2005,8,Dentro-M,1
+Cochabamba,30101,Cochabamba,2005,8,Dentro-M,0
+Chuquisaca,10902,Culpina,2005,8,Dentro-M,0
+La Paz,20105,El Alto,2005,8,Dentro-M,1
+La Paz,20101,La Paz,2005,8,Dentro-M,2
+Cochabamba,31301,Mizque,2005,8,Dentro-M,1
+Potosí,50404,Ocuri,2005,8,Dentro-M,0
+Potosí,50101,Potosi,2005,8,Dentro-M,1
+Santa Cruz,71104,San Julian,2005,8,Dentro-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,Dentro-M,1
+Potosí,50202,Chayanta,2005,9,Dentro-M,0
+La Paz,20105,El Alto,2005,9,Dentro-M,0
+La Paz,20101,La Paz,2005,9,Dentro-M,1
+La Paz,21305,Patacamaya,2005,9,Dentro-M,0
+Potosí,50101,Potosi,2005,9,Dentro-M,1
+Potosí,50402,Ravelo,2005,9,Dentro-M,0
+Chuquisaca,10702,San Lucas,2005,9,Dentro-M,0
+Beni,80401,Santa Ana,2005,9,Dentro-M,0
+Chuquisaca,10601,Tarabuco,2005,9,Dentro-M,0
+Potosí,50201,Uncia,2005,9,Dentro-M,0
+Chuquisaca,10801,Villa Serrano,2005,9,Dentro-M,0
+La Paz,20503,Aucapata,2005,10,Dentro-M,0
+La Paz,20105,El Alto,2005,10,Dentro-M,0
+Oruro,40103,El Choro,2005,10,Dentro-M,0
+Santa Cruz,71004,Fernandez Alonso,2005,10,Dentro-M,0
+La Paz,20101,La Paz,2005,10,Dentro-M,0
+Cochabamba,31301,Mizque,2005,10,Dentro-M,0
+Santa Cruz,71001,Montero,2005,10,Dentro-M,1
+Potosí,50404,Ocuri,2005,10,Dentro-M,0
+Potosí,50101,Potosi,2005,10,Dentro-M,0
+Chuquisaca,10101,Sucre,2005,10,Dentro-M,1
+Potosí,50303,Tacobamba,2005,10,Dentro-M,0
+Cochabamba,31303,Alalay,2005,11,Dentro-M,0
+Chuquisaca,10201,Azurduy,2005,11,Dentro-M,0
+Cochabamba,30101,Cochabamba,2005,11,Dentro-M,0
+La Paz,20101,La Paz,2005,11,Dentro-M,3
+Chuquisaca,10501,Monteagudo,2005,11,Dentro-M,0
+Oruro,40101,Oruro,2005,11,Dentro-M,1
+Potosí,50101,Potosi,2005,11,Dentro-M,0
+Beni,80302,San Borja,2005,11,Dentro-M,0
+Potosí,50501,San Pedro De Buena Vista,2005,11,Dentro-M,0
+Chuquisaca,10101,Sucre,2005,11,Dentro-M,2
+Pando,90502,Villa Nueva (loma Alta),2005,11,Dentro-M,0
+Potosí,50301,Betanzos,2005,12,Dentro-M,0
+La Paz,20101,La Paz,2005,12,Dentro-M,2
+La Paz,21305,Patacamaya,2005,12,Dentro-M,0
+Potosí,50101,Potosi,2005,12,Dentro-M,0
+Santa Cruz,70705,Gutierrez,2005,1,Fuera-H,0
+La Paz,20101,La Paz,2005,1,Fuera-H,0
+Potosí,50203,Llallagua,2005,1,Fuera-H,1
+Potosí,50101,Potosi,2005,1,Fuera-H,0
+Potosí,50701,Sacaca,2005,1,Fuera-H,1
+Santa Cruz,71104,San Julian,2005,1,Fuera-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,1,Fuera-H,0
+Cochabamba,30101,Cochabamba,2005,2,Fuera-H,0
+Chuquisaca,10703,Incahuasi,2005,2,Fuera-H,0
+La Paz,20101,La Paz,2005,2,Fuera-H,0
+Potosí,50203,Llallagua,2005,2,Fuera-H,0
+Beni,80401,Santa Ana,2005,2,Fuera-H,0
+Santa Cruz,70403,Yapacani,2005,2,Fuera-H,0
+Cochabamba,30905,Colcapirhua,2005,3,Fuera-H,0
+Santa Cruz,71001,Montero,2005,3,Fuera-H,0
+Potosí,50101,Potosi,2005,3,Fuera-H,1
+La Paz,21502,San Buena Ventura,2005,3,Fuera-H,0
+Tarija,60101,Tarija,2005,3,Fuera-H,0
+Cochabamba,31003,Villa Tunari,2005,3,Fuera-H,0
+Potosí,51102,"Caiza ""d""",2005,4,Fuera-H,0
+Cochabamba,30101,Cochabamba,2005,4,Fuera-H,0
+Cochabamba,31002,Colomi,2005,4,Fuera-H,1
+La Paz,20602,Guanay,2005,4,Fuera-H,0
+La Paz,20101,La Paz,2005,4,Fuera-H,1
+Potosí,50101,Potosi,2005,4,Fuera-H,0
+Cochabamba,31401,Punata,2005,4,Fuera-H,0
+Beni,80201,Riberalta,2005,4,Fuera-H,1
+Potosí,50901,"Colcha ""k""",2005,5,Fuera-H,0
+La Paz,20101,La Paz,2005,5,Fuera-H,0
+Potosí,50203,Llallagua,2005,5,Fuera-H,1
+Cochabamba,31301,Mizque,2005,5,Fuera-H,0
+Potosí,50404,Ocuri,2005,5,Fuera-H,1
+Potosí,50101,Potosi,2005,5,Fuera-H,0
+Cochabamba,31001,Sacaba,2005,5,Fuera-H,1
+Cochabamba,30601,Arque,2005,6,Fuera-H,0
+Tarija,60302,Carapari,2005,6,Fuera-H,0
+Cochabamba,30101,Cochabamba,2005,6,Fuera-H,1
+Beni,80402,Exaltacion,2005,6,Fuera-H,0
+Oruro,40701,Huanuni,2005,6,Fuera-H,0
+La Paz,20101,La Paz,2005,6,Fuera-H,0
+Chuquisaca,10303,Mojocoya,2005,6,Fuera-H,1
+Potosí,50404,Ocuri,2005,6,Fuera-H,0
+Oruro,40101,Oruro,2005,6,Fuera-H,0
+La Paz,20702,Pelechuco,2005,6,Fuera-H,1
+Santa Cruz,71402,Puerto Quijarro,2005,6,Fuera-H,1
+Potosí,50402,Ravelo,2005,6,Fuera-H,0
+Beni,80201,Riberalta,2005,6,Fuera-H,1
+Beni,80302,San Borja,2005,6,Fuera-H,0
+Santa Cruz,70301,San Ignacio De Velasco,2005,6,Fuera-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,Fuera-H,0
+Chuquisaca,10202,Tarvita,2005,6,Fuera-H,1
+Potosí,50801,Tupiza,2005,6,Fuera-H,0
+Chuquisaca,10201,Azurduy,2005,7,Fuera-H,0
+Potosí,50301,Betanzos,2005,7,Fuera-H,0
+Potosí,50901,"Colcha ""k""",2005,7,Fuera-H,0
+La Paz,20105,El Alto,2005,7,Fuera-H,0
+Potosí,50203,Llallagua,2005,7,Fuera-H,0
+Potosí,50101,Potosi,2005,7,Fuera-H,0
+Santa Cruz,70402,San Carlos,2005,7,Fuera-H,0
+Chuquisaca,10702,San Lucas,2005,7,Fuera-H,1
+Potosí,50501,San Pedro De Buena Vista,2005,7,Fuera-H,1
+Potosí,50303,Tacobamba,2005,7,Fuera-H,1
+Cochabamba,31303,Alalay,2005,8,Fuera-H,0
+La Paz,21203,Batallas,2005,8,Fuera-H,0
+Cochabamba,30101,Cochabamba,2005,8,Fuera-H,0
+Chuquisaca,10902,Culpina,2005,8,Fuera-H,0
+La Paz,20105,El Alto,2005,8,Fuera-H,0
+La Paz,20101,La Paz,2005,8,Fuera-H,0
+Cochabamba,31301,Mizque,2005,8,Fuera-H,0
+Potosí,50404,Ocuri,2005,8,Fuera-H,1
+Potosí,50101,Potosi,2005,8,Fuera-H,0
+Santa Cruz,71104,San Julian,2005,8,Fuera-H,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,Fuera-H,0
+Potosí,50202,Chayanta,2005,9,Fuera-H,0
+La Paz,20105,El Alto,2005,9,Fuera-H,1
+La Paz,20101,La Paz,2005,9,Fuera-H,0
+La Paz,21305,Patacamaya,2005,9,Fuera-H,0
+Potosí,50101,Potosi,2005,9,Fuera-H,0
+Potosí,50402,Ravelo,2005,9,Fuera-H,0
+Chuquisaca,10702,San Lucas,2005,9,Fuera-H,0
+Beni,80401,Santa Ana,2005,9,Fuera-H,0
+Chuquisaca,10601,Tarabuco,2005,9,Fuera-H,0
+Potosí,50201,Uncia,2005,9,Fuera-H,1
+Chuquisaca,10801,Villa Serrano,2005,9,Fuera-H,0
+La Paz,20503,Aucapata,2005,10,Fuera-H,1
+La Paz,20105,El Alto,2005,10,Fuera-H,1
+Oruro,40103,El Choro,2005,10,Fuera-H,0
+Santa Cruz,71004,Fernandez Alonso,2005,10,Fuera-H,1
+La Paz,20101,La Paz,2005,10,Fuera-H,0
+Cochabamba,31301,Mizque,2005,10,Fuera-H,0
+Santa Cruz,71001,Montero,2005,10,Fuera-H,0
+Potosí,50404,Ocuri,2005,10,Fuera-H,0
+Potosí,50101,Potosi,2005,10,Fuera-H,0
+Chuquisaca,10101,Sucre,2005,10,Fuera-H,0
+Potosí,50303,Tacobamba,2005,10,Fuera-H,0
+Cochabamba,31303,Alalay,2005,11,Fuera-H,0
+Chuquisaca,10201,Azurduy,2005,11,Fuera-H,1
+Cochabamba,30101,Cochabamba,2005,11,Fuera-H,0
+La Paz,20101,La Paz,2005,11,Fuera-H,0
+Chuquisaca,10501,Monteagudo,2005,11,Fuera-H,1
+Oruro,40101,Oruro,2005,11,Fuera-H,0
+Potosí,50101,Potosi,2005,11,Fuera-H,0
+Beni,80302,San Borja,2005,11,Fuera-H,0
+Potosí,50501,San Pedro De Buena Vista,2005,11,Fuera-H,0
+Chuquisaca,10101,Sucre,2005,11,Fuera-H,0
+Pando,90502,Villa Nueva (loma Alta),2005,11,Fuera-H,0
+Potosí,50301,Betanzos,2005,12,Fuera-H,1
+La Paz,20101,La Paz,2005,12,Fuera-H,0
+La Paz,21305,Patacamaya,2005,12,Fuera-H,1
+Potosí,50101,Potosi,2005,12,Fuera-H,0
+Santa Cruz,70705,Gutierrez,2005,1,Fuera-M,0
+La Paz,20101,La Paz,2005,1,Fuera-M,0
+Potosí,50203,Llallagua,2005,1,Fuera-M,0
+Potosí,50101,Potosi,2005,1,Fuera-M,0
+Potosí,50701,Sacaca,2005,1,Fuera-M,0
+Santa Cruz,71104,San Julian,2005,1,Fuera-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,1,Fuera-M,0
+Cochabamba,30101,Cochabamba,2005,2,Fuera-M,0
+Chuquisaca,10703,Incahuasi,2005,2,Fuera-M,2
+La Paz,20101,La Paz,2005,2,Fuera-M,0
+Potosí,50203,Llallagua,2005,2,Fuera-M,0
+Beni,80401,Santa Ana,2005,2,Fuera-M,0
+Santa Cruz,70403,Yapacani,2005,2,Fuera-M,2
+Cochabamba,30905,Colcapirhua,2005,3,Fuera-M,0
+Santa Cruz,71001,Montero,2005,3,Fuera-M,1
+Potosí,50101,Potosi,2005,3,Fuera-M,0
+La Paz,21502,San Buena Ventura,2005,3,Fuera-M,0
+Tarija,60101,Tarija,2005,3,Fuera-M,0
+Cochabamba,31003,Villa Tunari,2005,3,Fuera-M,0
+Potosí,51102,"Caiza ""d""",2005,4,Fuera-M,1
+Cochabamba,30101,Cochabamba,2005,4,Fuera-M,0
+Cochabamba,31002,Colomi,2005,4,Fuera-M,0
+La Paz,20602,Guanay,2005,4,Fuera-M,0
+La Paz,20101,La Paz,2005,4,Fuera-M,0
+Potosí,50101,Potosi,2005,4,Fuera-M,0
+Cochabamba,31401,Punata,2005,4,Fuera-M,0
+Beni,80201,Riberalta,2005,4,Fuera-M,0
+Potosí,50901,"Colcha ""k""",2005,5,Fuera-M,1
+La Paz,20101,La Paz,2005,5,Fuera-M,0
+Potosí,50203,Llallagua,2005,5,Fuera-M,0
+Cochabamba,31301,Mizque,2005,5,Fuera-M,1
+Potosí,50404,Ocuri,2005,5,Fuera-M,1
+Potosí,50101,Potosi,2005,5,Fuera-M,0
+Cochabamba,31001,Sacaba,2005,5,Fuera-M,0
+Cochabamba,30601,Arque,2005,6,Fuera-M,1
+Tarija,60302,Carapari,2005,6,Fuera-M,0
+Cochabamba,30101,Cochabamba,2005,6,Fuera-M,0
+Beni,80402,Exaltacion,2005,6,Fuera-M,0
+Oruro,40701,Huanuni,2005,6,Fuera-M,0
+La Paz,20101,La Paz,2005,6,Fuera-M,0
+Chuquisaca,10303,Mojocoya,2005,6,Fuera-M,0
+Potosí,50404,Ocuri,2005,6,Fuera-M,1
+Oruro,40101,Oruro,2005,6,Fuera-M,0
+La Paz,20702,Pelechuco,2005,6,Fuera-M,0
+Santa Cruz,71402,Puerto Quijarro,2005,6,Fuera-M,0
+Potosí,50402,Ravelo,2005,6,Fuera-M,1
+Beni,80201,Riberalta,2005,6,Fuera-M,0
+Beni,80302,San Borja,2005,6,Fuera-M,0
+Santa Cruz,70301,San Ignacio De Velasco,2005,6,Fuera-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,Fuera-M,0
+Chuquisaca,10202,Tarvita,2005,6,Fuera-M,1
+Potosí,50801,Tupiza,2005,6,Fuera-M,0
+Chuquisaca,10201,Azurduy,2005,7,Fuera-M,0
+Potosí,50301,Betanzos,2005,7,Fuera-M,0
+Potosí,50901,"Colcha ""k""",2005,7,Fuera-M,1
+La Paz,20105,El Alto,2005,7,Fuera-M,0
+Potosí,50203,Llallagua,2005,7,Fuera-M,1
+Potosí,50101,Potosi,2005,7,Fuera-M,0
+Santa Cruz,70402,San Carlos,2005,7,Fuera-M,0
+Chuquisaca,10702,San Lucas,2005,7,Fuera-M,0
+Potosí,50501,San Pedro De Buena Vista,2005,7,Fuera-M,0
+Potosí,50303,Tacobamba,2005,7,Fuera-M,0
+Cochabamba,31303,Alalay,2005,8,Fuera-M,1
+La Paz,21203,Batallas,2005,8,Fuera-M,0
+Cochabamba,30101,Cochabamba,2005,8,Fuera-M,0
+Chuquisaca,10902,Culpina,2005,8,Fuera-M,1
+La Paz,20105,El Alto,2005,8,Fuera-M,0
+La Paz,20101,La Paz,2005,8,Fuera-M,0
+Cochabamba,31301,Mizque,2005,8,Fuera-M,0
+Potosí,50404,Ocuri,2005,8,Fuera-M,0
+Potosí,50101,Potosi,2005,8,Fuera-M,0
+Santa Cruz,71104,San Julian,2005,8,Fuera-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,Fuera-M,0
+Potosí,50202,Chayanta,2005,9,Fuera-M,1
+La Paz,20105,El Alto,2005,9,Fuera-M,0
+La Paz,20101,La Paz,2005,9,Fuera-M,0
+La Paz,21305,Patacamaya,2005,9,Fuera-M,0
+Potosí,50101,Potosi,2005,9,Fuera-M,0
+Potosí,50402,Ravelo,2005,9,Fuera-M,1
+Chuquisaca,10702,San Lucas,2005,9,Fuera-M,1
+Beni,80401,Santa Ana,2005,9,Fuera-M,0
+Chuquisaca,10601,Tarabuco,2005,9,Fuera-M,0
+Potosí,50201,Uncia,2005,9,Fuera-M,0
+Chuquisaca,10801,Villa Serrano,2005,9,Fuera-M,1
+La Paz,20503,Aucapata,2005,10,Fuera-M,0
+La Paz,20105,El Alto,2005,10,Fuera-M,0
+Oruro,40103,El Choro,2005,10,Fuera-M,1
+Santa Cruz,71004,Fernandez Alonso,2005,10,Fuera-M,0
+La Paz,20101,La Paz,2005,10,Fuera-M,0
+Cochabamba,31301,Mizque,2005,10,Fuera-M,2
+Santa Cruz,71001,Montero,2005,10,Fuera-M,0
+Potosí,50404,Ocuri,2005,10,Fuera-M,1
+Potosí,50101,Potosi,2005,10,Fuera-M,0
+Chuquisaca,10101,Sucre,2005,10,Fuera-M,0
+Potosí,50303,Tacobamba,2005,10,Fuera-M,0
+Cochabamba,31303,Alalay,2005,11,Fuera-M,1
+Chuquisaca,10201,Azurduy,2005,11,Fuera-M,0
+Cochabamba,30101,Cochabamba,2005,11,Fuera-M,0
+La Paz,20101,La Paz,2005,11,Fuera-M,0
+Chuquisaca,10501,Monteagudo,2005,11,Fuera-M,0
+Oruro,40101,Oruro,2005,11,Fuera-M,0
+Potosí,50101,Potosi,2005,11,Fuera-M,0
+Beni,80302,San Borja,2005,11,Fuera-M,0
+Potosí,50501,San Pedro De Buena Vista,2005,11,Fuera-M,1
+Chuquisaca,10101,Sucre,2005,11,Fuera-M,0
+Pando,90502,Villa Nueva (loma Alta),2005,11,Fuera-M,1
+Potosí,50301,Betanzos,2005,12,Fuera-M,0
+La Paz,20101,La Paz,2005,12,Fuera-M,0
+La Paz,21305,Patacamaya,2005,12,Fuera-M,0
+Potosí,50101,Potosi,2005,12,Fuera-M,0
+Santa Cruz,70705,Gutierrez,2005,1,TOTAL-H,0
+La Paz,20101,La Paz,2005,1,TOTAL-H,3
+Potosí,50203,Llallagua,2005,1,TOTAL-H,1
+Potosí,50101,Potosi,2005,1,TOTAL-H,1
+Potosí,50701,Sacaca,2005,1,TOTAL-H,1
+Santa Cruz,71104,San Julian,2005,1,TOTAL-H,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,1,TOTAL-H,1
+Cochabamba,30101,Cochabamba,2005,2,TOTAL-H,1
+Chuquisaca,10703,Incahuasi,2005,2,TOTAL-H,0
+La Paz,20101,La Paz,2005,2,TOTAL-H,2
+Potosí,50203,Llallagua,2005,2,TOTAL-H,0
+Beni,80401,Santa Ana,2005,2,TOTAL-H,0
+Santa Cruz,70403,Yapacani,2005,2,TOTAL-H,0
+Cochabamba,30905,Colcapirhua,2005,3,TOTAL-H,1
+Santa Cruz,71001,Montero,2005,3,TOTAL-H,0
+Potosí,50101,Potosi,2005,3,TOTAL-H,1
+La Paz,21502,San Buena Ventura,2005,3,TOTAL-H,1
+Tarija,60101,Tarija,2005,3,TOTAL-H,1
+Cochabamba,31003,Villa Tunari,2005,3,TOTAL-H,1
+Potosí,51102,"Caiza ""d""",2005,4,TOTAL-H,0
+Cochabamba,30101,Cochabamba,2005,4,TOTAL-H,0
+Cochabamba,31002,Colomi,2005,4,TOTAL-H,1
+La Paz,20602,Guanay,2005,4,TOTAL-H,1
+La Paz,20101,La Paz,2005,4,TOTAL-H,1
+Potosí,50101,Potosi,2005,4,TOTAL-H,1
+Cochabamba,31401,Punata,2005,4,TOTAL-H,0
+Beni,80201,Riberalta,2005,4,TOTAL-H,1
+Potosí,50901,"Colcha ""k""",2005,5,TOTAL-H,0
+La Paz,20101,La Paz,2005,5,TOTAL-H,1
+Potosí,50203,Llallagua,2005,5,TOTAL-H,1
+Cochabamba,31301,Mizque,2005,5,TOTAL-H,0
+Potosí,50404,Ocuri,2005,5,TOTAL-H,1
+Potosí,50101,Potosi,2005,5,TOTAL-H,1
+Cochabamba,31001,Sacaba,2005,5,TOTAL-H,1
+Cochabamba,30601,Arque,2005,6,TOTAL-H,0
+Tarija,60302,Carapari,2005,6,TOTAL-H,1
+Cochabamba,30101,Cochabamba,2005,6,TOTAL-H,2
+Beni,80402,Exaltacion,2005,6,TOTAL-H,1
+Oruro,40701,Huanuni,2005,6,TOTAL-H,1
+La Paz,20101,La Paz,2005,6,TOTAL-H,3
+Chuquisaca,10303,Mojocoya,2005,6,TOTAL-H,1
+Potosí,50404,Ocuri,2005,6,TOTAL-H,0
+Oruro,40101,Oruro,2005,6,TOTAL-H,1
+La Paz,20702,Pelechuco,2005,6,TOTAL-H,1
+Santa Cruz,71402,Puerto Quijarro,2005,6,TOTAL-H,1
+Potosí,50402,Ravelo,2005,6,TOTAL-H,0
+Beni,80201,Riberalta,2005,6,TOTAL-H,1
+Beni,80302,San Borja,2005,6,TOTAL-H,1
+Santa Cruz,70301,San Ignacio De Velasco,2005,6,TOTAL-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,TOTAL-H,0
+Chuquisaca,10202,Tarvita,2005,6,TOTAL-H,1
+Potosí,50801,Tupiza,2005,6,TOTAL-H,1
+Chuquisaca,10201,Azurduy,2005,7,TOTAL-H,0
+Potosí,50301,Betanzos,2005,7,TOTAL-H,1
+Potosí,50901,"Colcha ""k""",2005,7,TOTAL-H,0
+La Paz,20105,El Alto,2005,7,TOTAL-H,0
+Potosí,50203,Llallagua,2005,7,TOTAL-H,0
+Potosí,50101,Potosi,2005,7,TOTAL-H,2
+Santa Cruz,70402,San Carlos,2005,7,TOTAL-H,0
+Chuquisaca,10702,San Lucas,2005,7,TOTAL-H,1
+Potosí,50501,San Pedro De Buena Vista,2005,7,TOTAL-H,1
+Potosí,50303,Tacobamba,2005,7,TOTAL-H,1
+Cochabamba,31303,Alalay,2005,8,TOTAL-H,0
+La Paz,21203,Batallas,2005,8,TOTAL-H,0
+Cochabamba,30101,Cochabamba,2005,8,TOTAL-H,1
+Chuquisaca,10902,Culpina,2005,8,TOTAL-H,0
+La Paz,20105,El Alto,2005,8,TOTAL-H,0
+La Paz,20101,La Paz,2005,8,TOTAL-H,3
+Cochabamba,31301,Mizque,2005,8,TOTAL-H,0
+Potosí,50404,Ocuri,2005,8,TOTAL-H,1
+Potosí,50101,Potosi,2005,8,TOTAL-H,1
+Santa Cruz,71104,San Julian,2005,8,TOTAL-H,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,TOTAL-H,1
+Potosí,50202,Chayanta,2005,9,TOTAL-H,0
+La Paz,20105,El Alto,2005,9,TOTAL-H,2
+La Paz,20101,La Paz,2005,9,TOTAL-H,4
+La Paz,21305,Patacamaya,2005,9,TOTAL-H,1
+Potosí,50101,Potosi,2005,9,TOTAL-H,0
+Potosí,50402,Ravelo,2005,9,TOTAL-H,0
+Chuquisaca,10702,San Lucas,2005,9,TOTAL-H,0
+Beni,80401,Santa Ana,2005,9,TOTAL-H,1
+Chuquisaca,10601,Tarabuco,2005,9,TOTAL-H,1
+Potosí,50201,Uncia,2005,9,TOTAL-H,1
+Chuquisaca,10801,Villa Serrano,2005,9,TOTAL-H,0
+La Paz,20503,Aucapata,2005,10,TOTAL-H,1
+La Paz,20105,El Alto,2005,10,TOTAL-H,1
+Oruro,40103,El Choro,2005,10,TOTAL-H,0
+Santa Cruz,71004,Fernandez Alonso,2005,10,TOTAL-H,1
+La Paz,20101,La Paz,2005,10,TOTAL-H,2
+Cochabamba,31301,Mizque,2005,10,TOTAL-H,0
+Santa Cruz,71001,Montero,2005,10,TOTAL-H,0
+Potosí,50404,Ocuri,2005,10,TOTAL-H,0
+Potosí,50101,Potosi,2005,10,TOTAL-H,1
+Chuquisaca,10101,Sucre,2005,10,TOTAL-H,0
+Potosí,50303,Tacobamba,2005,10,TOTAL-H,1
+Cochabamba,31303,Alalay,2005,11,TOTAL-H,0
+Chuquisaca,10201,Azurduy,2005,11,TOTAL-H,1
+Cochabamba,30101,Cochabamba,2005,11,TOTAL-H,1
+La Paz,20101,La Paz,2005,11,TOTAL-H,0
+Chuquisaca,10501,Monteagudo,2005,11,TOTAL-H,1
+Oruro,40101,Oruro,2005,11,TOTAL-H,0
+Potosí,50101,Potosi,2005,11,TOTAL-H,2
+Beni,80302,San Borja,2005,11,TOTAL-H,1
+Potosí,50501,San Pedro De Buena Vista,2005,11,TOTAL-H,0
+Chuquisaca,10101,Sucre,2005,11,TOTAL-H,0
+Pando,90502,Villa Nueva (loma Alta),2005,11,TOTAL-H,0
+Potosí,50301,Betanzos,2005,12,TOTAL-H,1
+La Paz,20101,La Paz,2005,12,TOTAL-H,4
+La Paz,21305,Patacamaya,2005,12,TOTAL-H,1
+Potosí,50101,Potosi,2005,12,TOTAL-H,1
+Santa Cruz,70705,Gutierrez,2005,1,TOTAL-M,1
+La Paz,20101,La Paz,2005,1,TOTAL-M,1
+Potosí,50203,Llallagua,2005,1,TOTAL-M,0
+Potosí,50101,Potosi,2005,1,TOTAL-M,0
+Potosí,50701,Sacaca,2005,1,TOTAL-M,0
+Santa Cruz,71104,San Julian,2005,1,TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,1,TOTAL-M,0
+Cochabamba,30101,Cochabamba,2005,2,TOTAL-M,0
+Chuquisaca,10703,Incahuasi,2005,2,TOTAL-M,2
+La Paz,20101,La Paz,2005,2,TOTAL-M,0
+Potosí,50203,Llallagua,2005,2,TOTAL-M,1
+Beni,80401,Santa Ana,2005,2,TOTAL-M,1
+Santa Cruz,70403,Yapacani,2005,2,TOTAL-M,2
+Cochabamba,30905,Colcapirhua,2005,3,TOTAL-M,0
+Santa Cruz,71001,Montero,2005,3,TOTAL-M,1
+Potosí,50101,Potosi,2005,3,TOTAL-M,0
+La Paz,21502,San Buena Ventura,2005,3,TOTAL-M,0
+Tarija,60101,Tarija,2005,3,TOTAL-M,0
+Cochabamba,31003,Villa Tunari,2005,3,TOTAL-M,0
+Potosí,51102,"Caiza ""d""",2005,4,TOTAL-M,1
+Cochabamba,30101,Cochabamba,2005,4,TOTAL-M,1
+Cochabamba,31002,Colomi,2005,4,TOTAL-M,0
+La Paz,20602,Guanay,2005,4,TOTAL-M,0
+La Paz,20101,La Paz,2005,4,TOTAL-M,1
+Potosí,50101,Potosi,2005,4,TOTAL-M,0
+Cochabamba,31401,Punata,2005,4,TOTAL-M,1
+Beni,80201,Riberalta,2005,4,TOTAL-M,0
+Potosí,50901,"Colcha ""k""",2005,5,TOTAL-M,1
+La Paz,20101,La Paz,2005,5,TOTAL-M,0
+Potosí,50203,Llallagua,2005,5,TOTAL-M,0
+Cochabamba,31301,Mizque,2005,5,TOTAL-M,1
+Potosí,50404,Ocuri,2005,5,TOTAL-M,1
+Potosí,50101,Potosi,2005,5,TOTAL-M,0
+Cochabamba,31001,Sacaba,2005,5,TOTAL-M,0
+Cochabamba,30601,Arque,2005,6,TOTAL-M,1
+Tarija,60302,Carapari,2005,6,TOTAL-M,0
+Cochabamba,30101,Cochabamba,2005,6,TOTAL-M,1
+Beni,80402,Exaltacion,2005,6,TOTAL-M,0
+Oruro,40701,Huanuni,2005,6,TOTAL-M,0
+La Paz,20101,La Paz,2005,6,TOTAL-M,2
+Chuquisaca,10303,Mojocoya,2005,6,TOTAL-M,0
+Potosí,50404,Ocuri,2005,6,TOTAL-M,1
+Oruro,40101,Oruro,2005,6,TOTAL-M,0
+La Paz,20702,Pelechuco,2005,6,TOTAL-M,0
+Santa Cruz,71402,Puerto Quijarro,2005,6,TOTAL-M,0
+Potosí,50402,Ravelo,2005,6,TOTAL-M,1
+Beni,80201,Riberalta,2005,6,TOTAL-M,0
+Beni,80302,San Borja,2005,6,TOTAL-M,1
+Santa Cruz,70301,San Ignacio De Velasco,2005,6,TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,TOTAL-M,1
+Chuquisaca,10202,Tarvita,2005,6,TOTAL-M,1
+Potosí,50801,Tupiza,2005,6,TOTAL-M,0
+Chuquisaca,10201,Azurduy,2005,7,TOTAL-M,1
+Potosí,50301,Betanzos,2005,7,TOTAL-M,0
+Potosí,50901,"Colcha ""k""",2005,7,TOTAL-M,1
+La Paz,20105,El Alto,2005,7,TOTAL-M,1
+Potosí,50203,Llallagua,2005,7,TOTAL-M,1
+Potosí,50101,Potosi,2005,7,TOTAL-M,1
+Santa Cruz,70402,San Carlos,2005,7,TOTAL-M,1
+Chuquisaca,10702,San Lucas,2005,7,TOTAL-M,0
+Potosí,50501,San Pedro De Buena Vista,2005,7,TOTAL-M,0
+Potosí,50303,Tacobamba,2005,7,TOTAL-M,0
+Cochabamba,31303,Alalay,2005,8,TOTAL-M,1
+La Paz,21203,Batallas,2005,8,TOTAL-M,1
+Cochabamba,30101,Cochabamba,2005,8,TOTAL-M,0
+Chuquisaca,10902,Culpina,2005,8,TOTAL-M,1
+La Paz,20105,El Alto,2005,8,TOTAL-M,1
+La Paz,20101,La Paz,2005,8,TOTAL-M,2
+Cochabamba,31301,Mizque,2005,8,TOTAL-M,1
+Potosí,50404,Ocuri,2005,8,TOTAL-M,0
+Potosí,50101,Potosi,2005,8,TOTAL-M,1
+Santa Cruz,71104,San Julian,2005,8,TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,TOTAL-M,1
+Potosí,50202,Chayanta,2005,9,TOTAL-M,1
+La Paz,20105,El Alto,2005,9,TOTAL-M,0
+La Paz,20101,La Paz,2005,9,TOTAL-M,1
+La Paz,21305,Patacamaya,2005,9,TOTAL-M,0
+Potosí,50101,Potosi,2005,9,TOTAL-M,1
+Potosí,50402,Ravelo,2005,9,TOTAL-M,1
+Chuquisaca,10702,San Lucas,2005,9,TOTAL-M,1
+Beni,80401,Santa Ana,2005,9,TOTAL-M,0
+Chuquisaca,10601,Tarabuco,2005,9,TOTAL-M,0
+Potosí,50201,Uncia,2005,9,TOTAL-M,0
+Chuquisaca,10801,Villa Serrano,2005,9,TOTAL-M,1
+La Paz,20503,Aucapata,2005,10,TOTAL-M,0
+La Paz,20105,El Alto,2005,10,TOTAL-M,0
+Oruro,40103,El Choro,2005,10,TOTAL-M,1
+Santa Cruz,71004,Fernandez Alonso,2005,10,TOTAL-M,0
+La Paz,20101,La Paz,2005,10,TOTAL-M,0
+Cochabamba,31301,Mizque,2005,10,TOTAL-M,2
+Santa Cruz,71001,Montero,2005,10,TOTAL-M,1
+Potosí,50404,Ocuri,2005,10,TOTAL-M,1
+Potosí,50101,Potosi,2005,10,TOTAL-M,0
+Chuquisaca,10101,Sucre,2005,10,TOTAL-M,1
+Potosí,50303,Tacobamba,2005,10,TOTAL-M,0
+Cochabamba,31303,Alalay,2005,11,TOTAL-M,1
+Chuquisaca,10201,Azurduy,2005,11,TOTAL-M,0
+Cochabamba,30101,Cochabamba,2005,11,TOTAL-M,0
+La Paz,20101,La Paz,2005,11,TOTAL-M,3
+Chuquisaca,10501,Monteagudo,2005,11,TOTAL-M,0
+Oruro,40101,Oruro,2005,11,TOTAL-M,1
+Potosí,50101,Potosi,2005,11,TOTAL-M,0
+Beni,80302,San Borja,2005,11,TOTAL-M,0
+Potosí,50501,San Pedro De Buena Vista,2005,11,TOTAL-M,1
+Chuquisaca,10101,Sucre,2005,11,TOTAL-M,2
+Pando,90502,Villa Nueva (loma Alta),2005,11,TOTAL-M,1
+Potosí,50301,Betanzos,2005,12,TOTAL-M,0
+La Paz,20101,La Paz,2005,12,TOTAL-M,2
+La Paz,21305,Patacamaya,2005,12,TOTAL-M,0
+Potosí,50101,Potosi,2005,12,TOTAL-M,0
+Santa Cruz,70705,Gutierrez,2005,1,TOTAL,1
+La Paz,20101,La Paz,2005,1,TOTAL,4
+Potosí,50203,Llallagua,2005,1,TOTAL,1
+Potosí,50101,Potosi,2005,1,TOTAL,1
+Potosí,50701,Sacaca,2005,1,TOTAL,1
+Santa Cruz,71104,San Julian,2005,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,1,TOTAL,1
+Cochabamba,30101,Cochabamba,2005,2,TOTAL,1
+Chuquisaca,10703,Incahuasi,2005,2,TOTAL,2
+La Paz,20101,La Paz,2005,2,TOTAL,2
+Potosí,50203,Llallagua,2005,2,TOTAL,1
+Beni,80401,Santa Ana,2005,2,TOTAL,1
+Santa Cruz,70403,Yapacani,2005,2,TOTAL,2
+Cochabamba,30905,Colcapirhua,2005,3,TOTAL,1
+Santa Cruz,71001,Montero,2005,3,TOTAL,1
+Potosí,50101,Potosi,2005,3,TOTAL,1
+La Paz,21502,San Buena Ventura,2005,3,TOTAL,1
+Tarija,60101,Tarija,2005,3,TOTAL,1
+Cochabamba,31003,Villa Tunari,2005,3,TOTAL,1
+Potosí,51102,"Caiza ""d""",2005,4,TOTAL,1
+Cochabamba,30101,Cochabamba,2005,4,TOTAL,1
+Cochabamba,31002,Colomi,2005,4,TOTAL,1
+La Paz,20602,Guanay,2005,4,TOTAL,1
+La Paz,20101,La Paz,2005,4,TOTAL,2
+Potosí,50101,Potosi,2005,4,TOTAL,1
+Cochabamba,31401,Punata,2005,4,TOTAL,1
+Beni,80201,Riberalta,2005,4,TOTAL,1
+Potosí,50901,"Colcha ""k""",2005,5,TOTAL,1
+La Paz,20101,La Paz,2005,5,TOTAL,1
+Potosí,50203,Llallagua,2005,5,TOTAL,1
+Cochabamba,31301,Mizque,2005,5,TOTAL,1
+Potosí,50404,Ocuri,2005,5,TOTAL,2
+Potosí,50101,Potosi,2005,5,TOTAL,1
+Cochabamba,31001,Sacaba,2005,5,TOTAL,1
+Cochabamba,30601,Arque,2005,6,TOTAL,1
+Tarija,60302,Carapari,2005,6,TOTAL,1
+Cochabamba,30101,Cochabamba,2005,6,TOTAL,3
+Beni,80402,Exaltacion,2005,6,TOTAL,1
+Oruro,40701,Huanuni,2005,6,TOTAL,1
+La Paz,20101,La Paz,2005,6,TOTAL,5
+Chuquisaca,10303,Mojocoya,2005,6,TOTAL,1
+Potosí,50404,Ocuri,2005,6,TOTAL,1
+Oruro,40101,Oruro,2005,6,TOTAL,1
+La Paz,20702,Pelechuco,2005,6,TOTAL,1
+Santa Cruz,71402,Puerto Quijarro,2005,6,TOTAL,1
+Potosí,50402,Ravelo,2005,6,TOTAL,1
+Beni,80201,Riberalta,2005,6,TOTAL,1
+Beni,80302,San Borja,2005,6,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2005,6,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,TOTAL,1
+Chuquisaca,10202,Tarvita,2005,6,TOTAL,2
+Potosí,50801,Tupiza,2005,6,TOTAL,1
+Chuquisaca,10201,Azurduy,2005,7,TOTAL,1
+Potosí,50301,Betanzos,2005,7,TOTAL,1
+Potosí,50901,"Colcha ""k""",2005,7,TOTAL,1
+La Paz,20105,El Alto,2005,7,TOTAL,1
+Potosí,50203,Llallagua,2005,7,TOTAL,1
+Potosí,50101,Potosi,2005,7,TOTAL,3
+Santa Cruz,70402,San Carlos,2005,7,TOTAL,1
+Chuquisaca,10702,San Lucas,2005,7,TOTAL,1
+Potosí,50501,San Pedro De Buena Vista,2005,7,TOTAL,1
+Potosí,50303,Tacobamba,2005,7,TOTAL,1
+Cochabamba,31303,Alalay,2005,8,TOTAL,1
+La Paz,21203,Batallas,2005,8,TOTAL,1
+Cochabamba,30101,Cochabamba,2005,8,TOTAL,1
+Chuquisaca,10902,Culpina,2005,8,TOTAL,1
+La Paz,20105,El Alto,2005,8,TOTAL,1
+La Paz,20101,La Paz,2005,8,TOTAL,5
+Cochabamba,31301,Mizque,2005,8,TOTAL,1
+Potosí,50404,Ocuri,2005,8,TOTAL,1
+Potosí,50101,Potosi,2005,8,TOTAL,2
+Santa Cruz,71104,San Julian,2005,8,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,TOTAL,2
+Potosí,50202,Chayanta,2005,9,TOTAL,1
+La Paz,20105,El Alto,2005,9,TOTAL,2
+La Paz,20101,La Paz,2005,9,TOTAL,5
+La Paz,21305,Patacamaya,2005,9,TOTAL,1
+Potosí,50101,Potosi,2005,9,TOTAL,1
+Potosí,50402,Ravelo,2005,9,TOTAL,1
+Chuquisaca,10702,San Lucas,2005,9,TOTAL,1
+Beni,80401,Santa Ana,2005,9,TOTAL,1
+Chuquisaca,10601,Tarabuco,2005,9,TOTAL,1
+Potosí,50201,Uncia,2005,9,TOTAL,1
+Chuquisaca,10801,Villa Serrano,2005,9,TOTAL,1
+La Paz,20503,Aucapata,2005,10,TOTAL,1
+La Paz,20105,El Alto,2005,10,TOTAL,1
+Oruro,40103,El Choro,2005,10,TOTAL,1
+Santa Cruz,71004,Fernandez Alonso,2005,10,TOTAL,1
+La Paz,20101,La Paz,2005,10,TOTAL,2
+Cochabamba,31301,Mizque,2005,10,TOTAL,2
+Santa Cruz,71001,Montero,2005,10,TOTAL,1
+Potosí,50404,Ocuri,2005,10,TOTAL,1
+Potosí,50101,Potosi,2005,10,TOTAL,1
+Chuquisaca,10101,Sucre,2005,10,TOTAL,1
+Potosí,50303,Tacobamba,2005,10,TOTAL,1
+Cochabamba,31303,Alalay,2005,11,TOTAL,1
+Chuquisaca,10201,Azurduy,2005,11,TOTAL,1
+Cochabamba,30101,Cochabamba,2005,11,TOTAL,1
+La Paz,20101,La Paz,2005,11,TOTAL,3
+Chuquisaca,10501,Monteagudo,2005,11,TOTAL,1
+Oruro,40101,Oruro,2005,11,TOTAL,1
+Potosí,50101,Potosi,2005,11,TOTAL,2
+Beni,80302,San Borja,2005,11,TOTAL,1
+Potosí,50501,San Pedro De Buena Vista,2005,11,TOTAL,1
+Chuquisaca,10101,Sucre,2005,11,TOTAL,2
+Pando,90502,Villa Nueva (loma Alta),2005,11,TOTAL,1
+Potosí,50301,Betanzos,2005,12,TOTAL,1
+La Paz,20101,La Paz,2005,12,TOTAL,6
+La Paz,21305,Patacamaya,2005,12,TOTAL,1
+Potosí,50101,Potosi,2005,12,TOTAL,1

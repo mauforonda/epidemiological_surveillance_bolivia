@@ -1,0 +1,231 @@
+department,municipality_id,municipality,year,month,population,value
+Chuquisaca,10101,Sucre,2016,2,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,a. Menor de 6 meses / MASCULINO,0
+Chuquisaca,10902,Culpina,2016,9,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,a. Menor de 6 meses / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,9,a. Menor de 6 meses / MASCULINO,0
+Tarija,60101,Tarija,2016,9,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,a. Menor de 6 meses / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,12,a. Menor de 6 meses / MASCULINO,0
+Tarija,60101,Tarija,2016,12,a. Menor de 6 meses / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,2,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,a. Menor de 6 meses / FEMENINO,0
+Chuquisaca,10902,Culpina,2016,9,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,a. Menor de 6 meses / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,9,a. Menor de 6 meses / FEMENINO,0
+Tarija,60101,Tarija,2016,9,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,a. Menor de 6 meses / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,12,a. Menor de 6 meses / FEMENINO,0
+Tarija,60101,Tarija,2016,12,a. Menor de 6 meses / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,2,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,b. 6 meses a menor de 1 ano / MASCULINO,0
+Chuquisaca,10902,Culpina,2016,9,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,b. 6 meses a menor de 1 ano / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,9,b. 6 meses a menor de 1 ano / MASCULINO,0
+Tarija,60101,Tarija,2016,9,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,b. 6 meses a menor de 1 ano / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,12,b. 6 meses a menor de 1 ano / MASCULINO,0
+Tarija,60101,Tarija,2016,12,b. 6 meses a menor de 1 ano / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,2,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,b. 6 meses a menor de 1 ano / FEMENINO,0
+Chuquisaca,10902,Culpina,2016,9,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,b. 6 meses a menor de 1 ano / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,9,b. 6 meses a menor de 1 ano / FEMENINO,0
+Tarija,60101,Tarija,2016,9,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,b. 6 meses a menor de 1 ano / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,12,b. 6 meses a menor de 1 ano / FEMENINO,0
+Tarija,60101,Tarija,2016,12,b. 6 meses a menor de 1 ano / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,2,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,c. 1 - 4 anos / MASCULINO,0
+Chuquisaca,10902,Culpina,2016,9,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,c. 1 - 4 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,9,c. 1 - 4 anos / MASCULINO,0
+Tarija,60101,Tarija,2016,9,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,c. 1 - 4 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,12,c. 1 - 4 anos / MASCULINO,0
+Tarija,60101,Tarija,2016,12,c. 1 - 4 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,2,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,c. 1 - 4 anos / FEMENINO,0
+Chuquisaca,10902,Culpina,2016,9,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,c. 1 - 4 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,9,c. 1 - 4 anos / FEMENINO,0
+Tarija,60101,Tarija,2016,9,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,c. 1 - 4 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,12,c. 1 - 4 anos / FEMENINO,0
+Tarija,60101,Tarija,2016,12,c. 1 - 4 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,2,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,d. 5 - 9 anos / MASCULINO,0
+Chuquisaca,10902,Culpina,2016,9,d. 5 - 9 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,d. 5 - 9 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,9,d. 5 - 9 anos / MASCULINO,0
+Tarija,60101,Tarija,2016,9,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,d. 5 - 9 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,12,d. 5 - 9 anos / MASCULINO,0
+Tarija,60101,Tarija,2016,12,d. 5 - 9 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,2,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,d. 5 - 9 anos / FEMENINO,0
+Chuquisaca,10902,Culpina,2016,9,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,d. 5 - 9 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,9,d. 5 - 9 anos / FEMENINO,0
+Tarija,60101,Tarija,2016,9,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,d. 5 - 9 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,12,d. 5 - 9 anos / FEMENINO,0
+Tarija,60101,Tarija,2016,12,d. 5 - 9 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,2,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,e. 10 - 14 anos / MASCULINO,0
+Chuquisaca,10902,Culpina,2016,9,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,e. 10 - 14 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,9,e. 10 - 14 anos / MASCULINO,0
+Tarija,60101,Tarija,2016,9,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,e. 10 - 14 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,12,e. 10 - 14 anos / MASCULINO,0
+Tarija,60101,Tarija,2016,12,e. 10 - 14 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,2,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,e. 10 - 14 anos / FEMENINO,1
+Chuquisaca,10902,Culpina,2016,9,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,e. 10 - 14 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,9,e. 10 - 14 anos / FEMENINO,0
+Tarija,60101,Tarija,2016,9,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,e. 10 - 14 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,12,e. 10 - 14 anos / FEMENINO,0
+Tarija,60101,Tarija,2016,12,e. 10 - 14 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,2,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,f. 15 - 19 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,f. 15 - 19 anos / MASCULINO,0
+Chuquisaca,10902,Culpina,2016,9,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,f. 15 - 19 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,9,f. 15 - 19 anos / MASCULINO,0
+Tarija,60101,Tarija,2016,9,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,f. 15 - 19 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,12,f. 15 - 19 anos / MASCULINO,0
+Tarija,60101,Tarija,2016,12,f. 15 - 19 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,2,f. 15 - 19 anos / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,f. 15 - 19 anos / FEMENINO,0
+Chuquisaca,10902,Culpina,2016,9,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,f. 15 - 19 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,9,f. 15 - 19 anos / FEMENINO,0
+Tarija,60101,Tarija,2016,9,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,f. 15 - 19 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,12,f. 15 - 19 anos / FEMENINO,0
+Tarija,60101,Tarija,2016,12,f. 15 - 19 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,2,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,g. 20 - 39 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,g. 20 - 39 anos / MASCULINO,1
+Chuquisaca,10902,Culpina,2016,9,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,g. 20 - 39 anos / MASCULINO,1
+Chuquisaca,10101,Sucre,2016,9,g. 20 - 39 anos / MASCULINO,0
+Tarija,60101,Tarija,2016,9,g. 20 - 39 anos / MASCULINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,g. 20 - 39 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,12,g. 20 - 39 anos / MASCULINO,0
+Tarija,60101,Tarija,2016,12,g. 20 - 39 anos / MASCULINO,1
+Chuquisaca,10101,Sucre,2016,2,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,g. 20 - 39 anos / FEMENINO,0
+Chuquisaca,10902,Culpina,2016,9,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,g. 20 - 39 anos / FEMENINO,1
+Chuquisaca,10101,Sucre,2016,9,g. 20 - 39 anos / FEMENINO,1
+Tarija,60101,Tarija,2016,9,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,g. 20 - 39 anos / FEMENINO,1
+Chuquisaca,10101,Sucre,2016,12,g. 20 - 39 anos / FEMENINO,0
+Tarija,60101,Tarija,2016,12,g. 20 - 39 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,2,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,h. 40 - 49 anos / MASCULINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,h. 40 - 49 anos / MASCULINO,0
+Chuquisaca,10902,Culpina,2016,9,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,h. 40 - 49 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,9,h. 40 - 49 anos / MASCULINO,0
+Tarija,60101,Tarija,2016,9,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,h. 40 - 49 anos / MASCULINO,1
+Chuquisaca,10101,Sucre,2016,12,h. 40 - 49 anos / MASCULINO,0
+Tarija,60101,Tarija,2016,12,h. 40 - 49 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,2,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,h. 40 - 49 anos / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,h. 40 - 49 anos / FEMENINO,0
+Chuquisaca,10902,Culpina,2016,9,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,h. 40 - 49 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,9,h. 40 - 49 anos / FEMENINO,0
+Tarija,60101,Tarija,2016,9,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,h. 40 - 49 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,12,h. 40 - 49 anos / FEMENINO,0
+Tarija,60101,Tarija,2016,12,h. 40 - 49 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,2,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,i. 50 - 59 anos / MASCULINO,1
+Chuquisaca,10902,Culpina,2016,9,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,i. 50 - 59 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,9,i. 50 - 59 anos / MASCULINO,0
+Tarija,60101,Tarija,2016,9,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,i. 50 - 59 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,12,i. 50 - 59 anos / MASCULINO,0
+Tarija,60101,Tarija,2016,12,i. 50 - 59 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,2,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,i. 50 - 59 anos / FEMENINO,0
+Chuquisaca,10902,Culpina,2016,9,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,i. 50 - 59 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,9,i. 50 - 59 anos / FEMENINO,0
+Tarija,60101,Tarija,2016,9,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,i. 50 - 59 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,12,i. 50 - 59 anos / FEMENINO,0
+Tarija,60101,Tarija,2016,12,i. 50 - 59 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,2,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,j. 60 anos y mas / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,j. 60 anos y mas / MASCULINO,0
+Chuquisaca,10902,Culpina,2016,9,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,j. 60 anos y mas / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,9,j. 60 anos y mas / MASCULINO,0
+Tarija,60101,Tarija,2016,9,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,j. 60 anos y mas / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,12,j. 60 anos y mas / MASCULINO,1
+Tarija,60101,Tarija,2016,12,j. 60 anos y mas / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,2,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,j. 60 anos y mas / FEMENINO,0
+Chuquisaca,10902,Culpina,2016,9,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,j. 60 anos y mas / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,9,j. 60 anos y mas / FEMENINO,0
+Tarija,60101,Tarija,2016,9,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,j. 60 anos y mas / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,12,j. 60 anos y mas / FEMENINO,0
+Tarija,60101,Tarija,2016,12,j. 60 anos y mas / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,2,TOTALES / TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,TOTALES / TOTAL-M,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,TOTALES / TOTAL-M,2
+Chuquisaca,10902,Culpina,2016,9,TOTALES / TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,TOTALES / TOTAL-M,1
+Chuquisaca,10101,Sucre,2016,9,TOTALES / TOTAL-M,0
+Tarija,60101,Tarija,2016,9,TOTALES / TOTAL-M,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,TOTALES / TOTAL-M,1
+Chuquisaca,10101,Sucre,2016,12,TOTALES / TOTAL-M,1
+Tarija,60101,Tarija,2016,12,TOTALES / TOTAL-M,1
+Chuquisaca,10101,Sucre,2016,2,TOTALES / TOTAL-F,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,TOTALES / TOTAL-F,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,TOTALES / TOTAL-F,1
+Chuquisaca,10902,Culpina,2016,9,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,TOTALES / TOTAL-F,1
+Chuquisaca,10101,Sucre,2016,9,TOTALES / TOTAL-F,1
+Tarija,60101,Tarija,2016,9,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,TOTALES / TOTAL-F,1
+Chuquisaca,10101,Sucre,2016,12,TOTALES / TOTAL-F,0
+Tarija,60101,Tarija,2016,12,TOTALES / TOTAL-F,0
+Chuquisaca,10101,Sucre,2016,2,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,TOTALES / TOTAL,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,TOTALES / TOTAL,3
+Chuquisaca,10902,Culpina,2016,9,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,TOTALES / TOTAL,2
+Chuquisaca,10101,Sucre,2016,9,TOTALES / TOTAL,1
+Tarija,60101,Tarija,2016,9,TOTALES / TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,TOTALES / TOTAL,2
+Chuquisaca,10101,Sucre,2016,12,TOTALES / TOTAL,1
+Tarija,60101,Tarija,2016,12,TOTALES / TOTAL,1

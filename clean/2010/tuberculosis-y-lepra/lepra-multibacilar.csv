@@ -1,0 +1,331 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70105,El Torno,2010,1,< de 1 ano / MASCULINO,0
+Beni,80304,Rurrenabaque,2010,1,< de 1 ano / MASCULINO,0
+Chuquisaca,10403,Sopachuy,2010,1,< de 1 ano / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2010,1,< de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2010,2,< de 1 ano / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2010,2,< de 1 ano / MASCULINO,0
+Chuquisaca,10401,Padilla,2010,2,< de 1 ano / MASCULINO,0
+Cochabamba,31403,San Benito,2010,2,< de 1 ano / MASCULINO,0
+Tarija,60501,San Lorenzo(tja),2010,3,< de 1 ano / MASCULINO,0
+Tarija,60101,Tarija,2010,3,< de 1 ano / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2010,4,< de 1 ano / MASCULINO,0
+Pando,90401,Nacebe (santa Rosa Del Abuna),2010,4,< de 1 ano / MASCULINO,0
+Beni,80304,Rurrenabaque,2010,6,< de 1 ano / MASCULINO,0
+Santa Cruz,70301,San Ignacio De Velasco,2010,6,< de 1 ano / MASCULINO,0
+Tarija,60501,San Lorenzo(tja),2010,8,< de 1 ano / MASCULINO,0
+Santa Cruz,71005,San Pedro,2010,8,< de 1 ano / MASCULINO,0
+Cochabamba,30902,Sipe Sipe,2010,8,< de 1 ano / MASCULINO,0
+Cochabamba,30101,Cochabamba,2010,10,< de 1 ano / MASCULINO,1
+Cochabamba,31402,Villa Rivero,2010,10,< de 1 ano / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2010,10,< de 1 ano / MASCULINO,0
+La Paz,21501,Ixiamas,2010,11,< de 1 ano / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2010,12,< de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2010,1,< de 1 ano / FEMENINO,0
+Beni,80304,Rurrenabaque,2010,1,< de 1 ano / FEMENINO,0
+Chuquisaca,10403,Sopachuy,2010,1,< de 1 ano / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2010,1,< de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2010,2,< de 1 ano / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2010,2,< de 1 ano / FEMENINO,0
+Chuquisaca,10401,Padilla,2010,2,< de 1 ano / FEMENINO,0
+Cochabamba,31403,San Benito,2010,2,< de 1 ano / FEMENINO,0
+Tarija,60501,San Lorenzo(tja),2010,3,< de 1 ano / FEMENINO,0
+Tarija,60101,Tarija,2010,3,< de 1 ano / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2010,4,< de 1 ano / FEMENINO,0
+Pando,90401,Nacebe (santa Rosa Del Abuna),2010,4,< de 1 ano / FEMENINO,0
+Beni,80304,Rurrenabaque,2010,6,< de 1 ano / FEMENINO,0
+Santa Cruz,70301,San Ignacio De Velasco,2010,6,< de 1 ano / FEMENINO,0
+Tarija,60501,San Lorenzo(tja),2010,8,< de 1 ano / FEMENINO,0
+Santa Cruz,71005,San Pedro,2010,8,< de 1 ano / FEMENINO,1
+Cochabamba,30902,Sipe Sipe,2010,8,< de 1 ano / FEMENINO,0
+Cochabamba,30101,Cochabamba,2010,10,< de 1 ano / FEMENINO,0
+Cochabamba,31402,Villa Rivero,2010,10,< de 1 ano / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2010,10,< de 1 ano / FEMENINO,0
+La Paz,21501,Ixiamas,2010,11,< de 1 ano / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2010,12,< de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2010,1,1 a 4 anos / MASCULINO,0
+Beni,80304,Rurrenabaque,2010,1,1 a 4 anos / MASCULINO,0
+Chuquisaca,10403,Sopachuy,2010,1,1 a 4 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2010,1,1 a 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2010,2,1 a 4 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2010,2,1 a 4 anos / MASCULINO,0
+Chuquisaca,10401,Padilla,2010,2,1 a 4 anos / MASCULINO,0
+Cochabamba,31403,San Benito,2010,2,1 a 4 anos / MASCULINO,0
+Tarija,60501,San Lorenzo(tja),2010,3,1 a 4 anos / MASCULINO,0
+Tarija,60101,Tarija,2010,3,1 a 4 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2010,4,1 a 4 anos / MASCULINO,0
+Pando,90401,Nacebe (santa Rosa Del Abuna),2010,4,1 a 4 anos / MASCULINO,0
+Beni,80304,Rurrenabaque,2010,6,1 a 4 anos / MASCULINO,0
+Santa Cruz,70301,San Ignacio De Velasco,2010,6,1 a 4 anos / MASCULINO,1
+Tarija,60501,San Lorenzo(tja),2010,8,1 a 4 anos / MASCULINO,0
+Santa Cruz,71005,San Pedro,2010,8,1 a 4 anos / MASCULINO,0
+Cochabamba,30902,Sipe Sipe,2010,8,1 a 4 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2010,10,1 a 4 anos / MASCULINO,1
+Cochabamba,31402,Villa Rivero,2010,10,1 a 4 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2010,10,1 a 4 anos / MASCULINO,0
+La Paz,21501,Ixiamas,2010,11,1 a 4 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2010,12,1 a 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2010,1,1 a 4 anos / FEMENINO,0
+Beni,80304,Rurrenabaque,2010,1,1 a 4 anos / FEMENINO,0
+Chuquisaca,10403,Sopachuy,2010,1,1 a 4 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2010,1,1 a 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2010,2,1 a 4 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2010,2,1 a 4 anos / FEMENINO,0
+Chuquisaca,10401,Padilla,2010,2,1 a 4 anos / FEMENINO,0
+Cochabamba,31403,San Benito,2010,2,1 a 4 anos / FEMENINO,0
+Tarija,60501,San Lorenzo(tja),2010,3,1 a 4 anos / FEMENINO,0
+Tarija,60101,Tarija,2010,3,1 a 4 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2010,4,1 a 4 anos / FEMENINO,0
+Pando,90401,Nacebe (santa Rosa Del Abuna),2010,4,1 a 4 anos / FEMENINO,0
+Beni,80304,Rurrenabaque,2010,6,1 a 4 anos / FEMENINO,0
+Santa Cruz,70301,San Ignacio De Velasco,2010,6,1 a 4 anos / FEMENINO,0
+Tarija,60501,San Lorenzo(tja),2010,8,1 a 4 anos / FEMENINO,0
+Santa Cruz,71005,San Pedro,2010,8,1 a 4 anos / FEMENINO,1
+Cochabamba,30902,Sipe Sipe,2010,8,1 a 4 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2010,10,1 a 4 anos / FEMENINO,0
+Cochabamba,31402,Villa Rivero,2010,10,1 a 4 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2010,10,1 a 4 anos / FEMENINO,0
+La Paz,21501,Ixiamas,2010,11,1 a 4 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2010,12,1 a 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2010,1,5 a 9 anos / MASCULINO,0
+Beni,80304,Rurrenabaque,2010,1,5 a 9 anos / MASCULINO,1
+Chuquisaca,10403,Sopachuy,2010,1,5 a 9 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2010,1,5 a 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2010,2,5 a 9 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2010,2,5 a 9 anos / MASCULINO,0
+Chuquisaca,10401,Padilla,2010,2,5 a 9 anos / MASCULINO,0
+Cochabamba,31403,San Benito,2010,2,5 a 9 anos / MASCULINO,0
+Tarija,60501,San Lorenzo(tja),2010,3,5 a 9 anos / MASCULINO,0
+Tarija,60101,Tarija,2010,3,5 a 9 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2010,4,5 a 9 anos / MASCULINO,0
+Pando,90401,Nacebe (santa Rosa Del Abuna),2010,4,5 a 9 anos / MASCULINO,0
+Beni,80304,Rurrenabaque,2010,6,5 a 9 anos / MASCULINO,0
+Santa Cruz,70301,San Ignacio De Velasco,2010,6,5 a 9 anos / MASCULINO,0
+Tarija,60501,San Lorenzo(tja),2010,8,5 a 9 anos / MASCULINO,0
+Santa Cruz,71005,San Pedro,2010,8,5 a 9 anos / MASCULINO,0
+Cochabamba,30902,Sipe Sipe,2010,8,5 a 9 anos / MASCULINO,2
+Cochabamba,30101,Cochabamba,2010,10,5 a 9 anos / MASCULINO,1
+Cochabamba,31402,Villa Rivero,2010,10,5 a 9 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2010,10,5 a 9 anos / MASCULINO,2
+La Paz,21501,Ixiamas,2010,11,5 a 9 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2010,12,5 a 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2010,1,5 a 9 anos / FEMENINO,0
+Beni,80304,Rurrenabaque,2010,1,5 a 9 anos / FEMENINO,0
+Chuquisaca,10403,Sopachuy,2010,1,5 a 9 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2010,1,5 a 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2010,2,5 a 9 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2010,2,5 a 9 anos / FEMENINO,0
+Chuquisaca,10401,Padilla,2010,2,5 a 9 anos / FEMENINO,0
+Cochabamba,31403,San Benito,2010,2,5 a 9 anos / FEMENINO,0
+Tarija,60501,San Lorenzo(tja),2010,3,5 a 9 anos / FEMENINO,0
+Tarija,60101,Tarija,2010,3,5 a 9 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2010,4,5 a 9 anos / FEMENINO,0
+Pando,90401,Nacebe (santa Rosa Del Abuna),2010,4,5 a 9 anos / FEMENINO,0
+Beni,80304,Rurrenabaque,2010,6,5 a 9 anos / FEMENINO,0
+Santa Cruz,70301,San Ignacio De Velasco,2010,6,5 a 9 anos / FEMENINO,0
+Tarija,60501,San Lorenzo(tja),2010,8,5 a 9 anos / FEMENINO,0
+Santa Cruz,71005,San Pedro,2010,8,5 a 9 anos / FEMENINO,0
+Cochabamba,30902,Sipe Sipe,2010,8,5 a 9 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2010,10,5 a 9 anos / FEMENINO,0
+Cochabamba,31402,Villa Rivero,2010,10,5 a 9 anos / FEMENINO,1
+Cochabamba,31003,Villa Tunari,2010,10,5 a 9 anos / FEMENINO,0
+La Paz,21501,Ixiamas,2010,11,5 a 9 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2010,12,5 a 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2010,1,10 a 20 anos / MASCULINO,1
+Beni,80304,Rurrenabaque,2010,1,10 a 20 anos / MASCULINO,0
+Chuquisaca,10403,Sopachuy,2010,1,10 a 20 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2010,1,10 a 20 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2010,2,10 a 20 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2010,2,10 a 20 anos / MASCULINO,0
+Chuquisaca,10401,Padilla,2010,2,10 a 20 anos / MASCULINO,0
+Cochabamba,31403,San Benito,2010,2,10 a 20 anos / MASCULINO,0
+Tarija,60501,San Lorenzo(tja),2010,3,10 a 20 anos / MASCULINO,0
+Tarija,60101,Tarija,2010,3,10 a 20 anos / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2010,4,10 a 20 anos / MASCULINO,0
+Pando,90401,Nacebe (santa Rosa Del Abuna),2010,4,10 a 20 anos / MASCULINO,0
+Beni,80304,Rurrenabaque,2010,6,10 a 20 anos / MASCULINO,0
+Santa Cruz,70301,San Ignacio De Velasco,2010,6,10 a 20 anos / MASCULINO,0
+Tarija,60501,San Lorenzo(tja),2010,8,10 a 20 anos / MASCULINO,0
+Santa Cruz,71005,San Pedro,2010,8,10 a 20 anos / MASCULINO,1
+Cochabamba,30902,Sipe Sipe,2010,8,10 a 20 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2010,10,10 a 20 anos / MASCULINO,2
+Cochabamba,31402,Villa Rivero,2010,10,10 a 20 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2010,10,10 a 20 anos / MASCULINO,0
+La Paz,21501,Ixiamas,2010,11,10 a 20 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2010,12,10 a 20 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2010,1,10 a 20 anos / FEMENINO,0
+Beni,80304,Rurrenabaque,2010,1,10 a 20 anos / FEMENINO,0
+Chuquisaca,10403,Sopachuy,2010,1,10 a 20 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2010,1,10 a 20 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2010,2,10 a 20 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2010,2,10 a 20 anos / FEMENINO,0
+Chuquisaca,10401,Padilla,2010,2,10 a 20 anos / FEMENINO,0
+Cochabamba,31403,San Benito,2010,2,10 a 20 anos / FEMENINO,0
+Tarija,60501,San Lorenzo(tja),2010,3,10 a 20 anos / FEMENINO,0
+Tarija,60101,Tarija,2010,3,10 a 20 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2010,4,10 a 20 anos / FEMENINO,0
+Pando,90401,Nacebe (santa Rosa Del Abuna),2010,4,10 a 20 anos / FEMENINO,0
+Beni,80304,Rurrenabaque,2010,6,10 a 20 anos / FEMENINO,0
+Santa Cruz,70301,San Ignacio De Velasco,2010,6,10 a 20 anos / FEMENINO,1
+Tarija,60501,San Lorenzo(tja),2010,8,10 a 20 anos / FEMENINO,0
+Santa Cruz,71005,San Pedro,2010,8,10 a 20 anos / FEMENINO,0
+Cochabamba,30902,Sipe Sipe,2010,8,10 a 20 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2010,10,10 a 20 anos / FEMENINO,1
+Cochabamba,31402,Villa Rivero,2010,10,10 a 20 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2010,10,10 a 20 anos / FEMENINO,0
+La Paz,21501,Ixiamas,2010,11,10 a 20 anos / FEMENINO,1
+Cochabamba,31003,Villa Tunari,2010,12,10 a 20 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2010,1,21 a 59 anos / MASCULINO,1
+Beni,80304,Rurrenabaque,2010,1,21 a 59 anos / MASCULINO,0
+Chuquisaca,10403,Sopachuy,2010,1,21 a 59 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2010,1,21 a 59 anos / MASCULINO,1
+Santa Cruz,70105,El Torno,2010,2,21 a 59 anos / MASCULINO,1
+Chuquisaca,10501,Monteagudo,2010,2,21 a 59 anos / MASCULINO,0
+Chuquisaca,10401,Padilla,2010,2,21 a 59 anos / MASCULINO,0
+Cochabamba,31403,San Benito,2010,2,21 a 59 anos / MASCULINO,1
+Tarija,60501,San Lorenzo(tja),2010,3,21 a 59 anos / MASCULINO,1
+Tarija,60101,Tarija,2010,3,21 a 59 anos / MASCULINO,1
+Chuquisaca,10501,Monteagudo,2010,4,21 a 59 anos / MASCULINO,0
+Pando,90401,Nacebe (santa Rosa Del Abuna),2010,4,21 a 59 anos / MASCULINO,1
+Beni,80304,Rurrenabaque,2010,6,21 a 59 anos / MASCULINO,1
+Santa Cruz,70301,San Ignacio De Velasco,2010,6,21 a 59 anos / MASCULINO,1
+Tarija,60501,San Lorenzo(tja),2010,8,21 a 59 anos / MASCULINO,0
+Santa Cruz,71005,San Pedro,2010,8,21 a 59 anos / MASCULINO,2
+Cochabamba,30902,Sipe Sipe,2010,8,21 a 59 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2010,10,21 a 59 anos / MASCULINO,3
+Cochabamba,31402,Villa Rivero,2010,10,21 a 59 anos / MASCULINO,1
+Cochabamba,31003,Villa Tunari,2010,10,21 a 59 anos / MASCULINO,0
+La Paz,21501,Ixiamas,2010,11,21 a 59 anos / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2010,12,21 a 59 anos / MASCULINO,2
+Santa Cruz,70105,El Torno,2010,1,21 a 59 anos / FEMENINO,0
+Beni,80304,Rurrenabaque,2010,1,21 a 59 anos / FEMENINO,0
+Chuquisaca,10403,Sopachuy,2010,1,21 a 59 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2010,1,21 a 59 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2010,2,21 a 59 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2010,2,21 a 59 anos / FEMENINO,0
+Chuquisaca,10401,Padilla,2010,2,21 a 59 anos / FEMENINO,0
+Cochabamba,31403,San Benito,2010,2,21 a 59 anos / FEMENINO,0
+Tarija,60501,San Lorenzo(tja),2010,3,21 a 59 anos / FEMENINO,0
+Tarija,60101,Tarija,2010,3,21 a 59 anos / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2010,4,21 a 59 anos / FEMENINO,0
+Pando,90401,Nacebe (santa Rosa Del Abuna),2010,4,21 a 59 anos / FEMENINO,0
+Beni,80304,Rurrenabaque,2010,6,21 a 59 anos / FEMENINO,0
+Santa Cruz,70301,San Ignacio De Velasco,2010,6,21 a 59 anos / FEMENINO,0
+Tarija,60501,San Lorenzo(tja),2010,8,21 a 59 anos / FEMENINO,0
+Santa Cruz,71005,San Pedro,2010,8,21 a 59 anos / FEMENINO,0
+Cochabamba,30902,Sipe Sipe,2010,8,21 a 59 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2010,10,21 a 59 anos / FEMENINO,2
+Cochabamba,31402,Villa Rivero,2010,10,21 a 59 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2010,10,21 a 59 anos / FEMENINO,0
+La Paz,21501,Ixiamas,2010,11,21 a 59 anos / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2010,12,21 a 59 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2010,1,60 y mas / MASCULINO,0
+Beni,80304,Rurrenabaque,2010,1,60 y mas / MASCULINO,0
+Chuquisaca,10403,Sopachuy,2010,1,60 y mas / MASCULINO,1
+Cochabamba,31003,Villa Tunari,2010,1,60 y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2010,2,60 y mas / MASCULINO,1
+Chuquisaca,10501,Monteagudo,2010,2,60 y mas / MASCULINO,1
+Chuquisaca,10401,Padilla,2010,2,60 y mas / MASCULINO,0
+Cochabamba,31403,San Benito,2010,2,60 y mas / MASCULINO,0
+Tarija,60501,San Lorenzo(tja),2010,3,60 y mas / MASCULINO,0
+Tarija,60101,Tarija,2010,3,60 y mas / MASCULINO,0
+Chuquisaca,10501,Monteagudo,2010,4,60 y mas / MASCULINO,0
+Pando,90401,Nacebe (santa Rosa Del Abuna),2010,4,60 y mas / MASCULINO,0
+Beni,80304,Rurrenabaque,2010,6,60 y mas / MASCULINO,0
+Santa Cruz,70301,San Ignacio De Velasco,2010,6,60 y mas / MASCULINO,0
+Tarija,60501,San Lorenzo(tja),2010,8,60 y mas / MASCULINO,1
+Santa Cruz,71005,San Pedro,2010,8,60 y mas / MASCULINO,0
+Cochabamba,30902,Sipe Sipe,2010,8,60 y mas / MASCULINO,0
+Cochabamba,30101,Cochabamba,2010,10,60 y mas / MASCULINO,0
+Cochabamba,31402,Villa Rivero,2010,10,60 y mas / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2010,10,60 y mas / MASCULINO,0
+La Paz,21501,Ixiamas,2010,11,60 y mas / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2010,12,60 y mas / MASCULINO,1
+Santa Cruz,70105,El Torno,2010,1,60 y mas / FEMENINO,0
+Beni,80304,Rurrenabaque,2010,1,60 y mas / FEMENINO,0
+Chuquisaca,10403,Sopachuy,2010,1,60 y mas / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2010,1,60 y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2010,2,60 y mas / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2010,2,60 y mas / FEMENINO,0
+Chuquisaca,10401,Padilla,2010,2,60 y mas / FEMENINO,1
+Cochabamba,31403,San Benito,2010,2,60 y mas / FEMENINO,0
+Tarija,60501,San Lorenzo(tja),2010,3,60 y mas / FEMENINO,0
+Tarija,60101,Tarija,2010,3,60 y mas / FEMENINO,0
+Chuquisaca,10501,Monteagudo,2010,4,60 y mas / FEMENINO,1
+Pando,90401,Nacebe (santa Rosa Del Abuna),2010,4,60 y mas / FEMENINO,0
+Beni,80304,Rurrenabaque,2010,6,60 y mas / FEMENINO,0
+Santa Cruz,70301,San Ignacio De Velasco,2010,6,60 y mas / FEMENINO,1
+Tarija,60501,San Lorenzo(tja),2010,8,60 y mas / FEMENINO,0
+Santa Cruz,71005,San Pedro,2010,8,60 y mas / FEMENINO,0
+Cochabamba,30902,Sipe Sipe,2010,8,60 y mas / FEMENINO,0
+Cochabamba,30101,Cochabamba,2010,10,60 y mas / FEMENINO,0
+Cochabamba,31402,Villa Rivero,2010,10,60 y mas / FEMENINO,2
+Cochabamba,31003,Villa Tunari,2010,10,60 y mas / FEMENINO,0
+La Paz,21501,Ixiamas,2010,11,60 y mas / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2010,12,60 y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2010,1,TOTALES / TOTAL-M,2
+Beni,80304,Rurrenabaque,2010,1,TOTALES / TOTAL-M,1
+Chuquisaca,10403,Sopachuy,2010,1,TOTALES / TOTAL-M,1
+Cochabamba,31003,Villa Tunari,2010,1,TOTALES / TOTAL-M,1
+Santa Cruz,70105,El Torno,2010,2,TOTALES / TOTAL-M,2
+Chuquisaca,10501,Monteagudo,2010,2,TOTALES / TOTAL-M,1
+Chuquisaca,10401,Padilla,2010,2,TOTALES / TOTAL-M,0
+Cochabamba,31403,San Benito,2010,2,TOTALES / TOTAL-M,1
+Tarija,60501,San Lorenzo(tja),2010,3,TOTALES / TOTAL-M,1
+Tarija,60101,Tarija,2010,3,TOTALES / TOTAL-M,1
+Chuquisaca,10501,Monteagudo,2010,4,TOTALES / TOTAL-M,0
+Pando,90401,Nacebe (santa Rosa Del Abuna),2010,4,TOTALES / TOTAL-M,1
+Beni,80304,Rurrenabaque,2010,6,TOTALES / TOTAL-M,1
+Santa Cruz,70301,San Ignacio De Velasco,2010,6,TOTALES / TOTAL-M,2
+Tarija,60501,San Lorenzo(tja),2010,8,TOTALES / TOTAL-M,1
+Santa Cruz,71005,San Pedro,2010,8,TOTALES / TOTAL-M,3
+Cochabamba,30902,Sipe Sipe,2010,8,TOTALES / TOTAL-M,2
+Cochabamba,30101,Cochabamba,2010,10,TOTALES / TOTAL-M,8
+Cochabamba,31402,Villa Rivero,2010,10,TOTALES / TOTAL-M,1
+Cochabamba,31003,Villa Tunari,2010,10,TOTALES / TOTAL-M,2
+La Paz,21501,Ixiamas,2010,11,TOTALES / TOTAL-M,0
+Cochabamba,31003,Villa Tunari,2010,12,TOTALES / TOTAL-M,3
+Santa Cruz,70105,El Torno,2010,1,TOTALES / TOTAL-F,0
+Beni,80304,Rurrenabaque,2010,1,TOTALES / TOTAL-F,0
+Chuquisaca,10403,Sopachuy,2010,1,TOTALES / TOTAL-F,0
+Cochabamba,31003,Villa Tunari,2010,1,TOTALES / TOTAL-F,2
+Santa Cruz,70105,El Torno,2010,2,TOTALES / TOTAL-F,0
+Chuquisaca,10501,Monteagudo,2010,2,TOTALES / TOTAL-F,0
+Chuquisaca,10401,Padilla,2010,2,TOTALES / TOTAL-F,1
+Cochabamba,31403,San Benito,2010,2,TOTALES / TOTAL-F,0
+Tarija,60501,San Lorenzo(tja),2010,3,TOTALES / TOTAL-F,0
+Tarija,60101,Tarija,2010,3,TOTALES / TOTAL-F,0
+Chuquisaca,10501,Monteagudo,2010,4,TOTALES / TOTAL-F,1
+Pando,90401,Nacebe (santa Rosa Del Abuna),2010,4,TOTALES / TOTAL-F,0
+Beni,80304,Rurrenabaque,2010,6,TOTALES / TOTAL-F,0
+Santa Cruz,70301,San Ignacio De Velasco,2010,6,TOTALES / TOTAL-F,2
+Tarija,60501,San Lorenzo(tja),2010,8,TOTALES / TOTAL-F,0
+Santa Cruz,71005,San Pedro,2010,8,TOTALES / TOTAL-F,2
+Cochabamba,30902,Sipe Sipe,2010,8,TOTALES / TOTAL-F,0
+Cochabamba,30101,Cochabamba,2010,10,TOTALES / TOTAL-F,3
+Cochabamba,31402,Villa Rivero,2010,10,TOTALES / TOTAL-F,3
+Cochabamba,31003,Villa Tunari,2010,10,TOTALES / TOTAL-F,0
+La Paz,21501,Ixiamas,2010,11,TOTALES / TOTAL-F,1
+Cochabamba,31003,Villa Tunari,2010,12,TOTALES / TOTAL-F,1
+Santa Cruz,70105,El Torno,2010,1,TOTALES / TOTAL,2
+Beni,80304,Rurrenabaque,2010,1,TOTALES / TOTAL,1
+Chuquisaca,10403,Sopachuy,2010,1,TOTALES / TOTAL,1
+Cochabamba,31003,Villa Tunari,2010,1,TOTALES / TOTAL,3
+Santa Cruz,70105,El Torno,2010,2,TOTALES / TOTAL,2
+Chuquisaca,10501,Monteagudo,2010,2,TOTALES / TOTAL,1
+Chuquisaca,10401,Padilla,2010,2,TOTALES / TOTAL,1
+Cochabamba,31403,San Benito,2010,2,TOTALES / TOTAL,1
+Tarija,60501,San Lorenzo(tja),2010,3,TOTALES / TOTAL,1
+Tarija,60101,Tarija,2010,3,TOTALES / TOTAL,1
+Chuquisaca,10501,Monteagudo,2010,4,TOTALES / TOTAL,1
+Pando,90401,Nacebe (santa Rosa Del Abuna),2010,4,TOTALES / TOTAL,1
+Beni,80304,Rurrenabaque,2010,6,TOTALES / TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2010,6,TOTALES / TOTAL,4
+Tarija,60501,San Lorenzo(tja),2010,8,TOTALES / TOTAL,1
+Santa Cruz,71005,San Pedro,2010,8,TOTALES / TOTAL,5
+Cochabamba,30902,Sipe Sipe,2010,8,TOTALES / TOTAL,2
+Cochabamba,30101,Cochabamba,2010,10,TOTALES / TOTAL,11
+Cochabamba,31402,Villa Rivero,2010,10,TOTALES / TOTAL,4
+Cochabamba,31003,Villa Tunari,2010,10,TOTALES / TOTAL,2
+La Paz,21501,Ixiamas,2010,11,TOTALES / TOTAL,1
+Cochabamba,31003,Villa Tunari,2010,12,TOTALES / TOTAL,4

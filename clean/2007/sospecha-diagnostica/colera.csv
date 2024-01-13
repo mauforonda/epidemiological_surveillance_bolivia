@@ -1,0 +1,55 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70301,San Ignacio De Velasco,2007,1,< de 1 ano,2
+Tarija,60301,Yacuiba,2007,1,< de 1 ano,0
+Tarija,60601,Entre Rios,2007,2,< de 1 ano,0
+Tarija,60301,Yacuiba,2007,2,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2007,3,< de 1 ano,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,< de 1 ano,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,< de 1 ano,1
+Pando,90101,Cobija,2007,12,< de 1 ano,0
+Potosí,50602,Vitichi,2007,12,< de 1 ano,3
+Santa Cruz,70301,San Ignacio De Velasco,2007,1,1 a 4 anos,0
+Tarija,60301,Yacuiba,2007,1,1 a 4 anos,0
+Tarija,60601,Entre Rios,2007,2,1 a 4 anos,0
+Tarija,60301,Yacuiba,2007,2,1 a 4 anos,0
+Cochabamba,30101,Cochabamba,2007,3,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,1 a 4 anos,0
+Pando,90101,Cobija,2007,12,1 a 4 anos,0
+Potosí,50602,Vitichi,2007,12,1 a 4 anos,0
+Santa Cruz,70301,San Ignacio De Velasco,2007,1,5 a 14 anos,0
+Tarija,60301,Yacuiba,2007,1,5 a 14 anos,0
+Tarija,60601,Entre Rios,2007,2,5 a 14 anos,0
+Tarija,60301,Yacuiba,2007,2,5 a 14 anos,0
+Cochabamba,30101,Cochabamba,2007,3,5 a 14 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,5 a 14 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,5 a 14 anos,0
+Pando,90101,Cobija,2007,12,5 a 14 anos,0
+Potosí,50602,Vitichi,2007,12,5 a 14 anos,0
+Santa Cruz,70301,San Ignacio De Velasco,2007,1,15 a 59 anos,0
+Tarija,60301,Yacuiba,2007,1,15 a 59 anos,1
+Tarija,60601,Entre Rios,2007,2,15 a 59 anos,1
+Tarija,60301,Yacuiba,2007,2,15 a 59 anos,1
+Cochabamba,30101,Cochabamba,2007,3,15 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,15 a 59 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,15 a 59 anos,0
+Pando,90101,Cobija,2007,12,15 a 59 anos,1
+Potosí,50602,Vitichi,2007,12,15 a 59 anos,0
+Santa Cruz,70301,San Ignacio De Velasco,2007,1,60 y mas,0
+Tarija,60301,Yacuiba,2007,1,60 y mas,0
+Tarija,60601,Entre Rios,2007,2,60 y mas,0
+Tarija,60301,Yacuiba,2007,2,60 y mas,0
+Cochabamba,30101,Cochabamba,2007,3,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,60 y mas,0
+Pando,90101,Cobija,2007,12,60 y mas,0
+Potosí,50602,Vitichi,2007,12,60 y mas,0
+Santa Cruz,70301,San Ignacio De Velasco,2007,1,TOTAL,2
+Tarija,60301,Yacuiba,2007,1,TOTAL,1
+Tarija,60601,Entre Rios,2007,2,TOTAL,1
+Tarija,60301,Yacuiba,2007,2,TOTAL,1
+Cochabamba,30101,Cochabamba,2007,3,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,TOTAL,1
+Pando,90101,Cobija,2007,12,TOTAL,1
+Potosí,50602,Vitichi,2007,12,TOTAL,3

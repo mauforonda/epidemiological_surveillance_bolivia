@@ -1,0 +1,61 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,Nro.,0
+La Paz,20701,Apolo,2012,2,Nro.,3
+Pando,90203,Filadelfia,2012,2,Nro.,1
+La Paz,21005,Ichoca,2012,2,Nro.,4
+Chuquisaca,10501,Monteagudo,2012,2,Nro.,1
+Potosí,50801,Tupiza,2012,2,Nro.,1
+Tarija,60303,Villa Montes,2012,2,Nro.,1
+La Paz,20701,Apolo,2012,3,Nro.,1
+Potosí,50601,Cotagaita,2012,3,Nro.,1
+Chuquisaca,10301,Zudañez,2012,10,Nro.,1
+Pando,90101,Cobija,2012,11,Nro.,0
+La Paz,20606,Tipuani,2012,11,Nro.,1
+Potosí,50204,Chuquihuta Ayllu Jucumani,2012,12,Nro.,1
+La Paz,21601,Gral. J.j. Perez (charazani),2012,12,Nro.,1
+Chuquisaca,10304,Icla,2012,12,Nro.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,Nro. Afectados,0
+La Paz,20701,Apolo,2012,2,Nro. Afectados,0
+Pando,90203,Filadelfia,2012,2,Nro. Afectados,0
+La Paz,21005,Ichoca,2012,2,Nro. Afectados,87
+Chuquisaca,10501,Monteagudo,2012,2,Nro. Afectados,100
+Potosí,50801,Tupiza,2012,2,Nro. Afectados,37
+Tarija,60303,Villa Montes,2012,2,Nro. Afectados,21
+La Paz,20701,Apolo,2012,3,Nro. Afectados,3
+Potosí,50601,Cotagaita,2012,3,Nro. Afectados,20
+Chuquisaca,10301,Zudañez,2012,10,Nro. Afectados,0
+Pando,90101,Cobija,2012,11,Nro. Afectados,1
+La Paz,20606,Tipuani,2012,11,Nro. Afectados,40
+Potosí,50204,Chuquihuta Ayllu Jucumani,2012,12,Nro. Afectados,120
+La Paz,21601,Gral. J.j. Perez (charazani),2012,12,Nro. Afectados,27
+Chuquisaca,10304,Icla,2012,12,Nro. Afectados,30
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,Nro. Fallecidos,0
+La Paz,20701,Apolo,2012,2,Nro. Fallecidos,0
+Pando,90203,Filadelfia,2012,2,Nro. Fallecidos,0
+La Paz,21005,Ichoca,2012,2,Nro. Fallecidos,0
+Chuquisaca,10501,Monteagudo,2012,2,Nro. Fallecidos,0
+Potosí,50801,Tupiza,2012,2,Nro. Fallecidos,0
+Tarija,60303,Villa Montes,2012,2,Nro. Fallecidos,0
+La Paz,20701,Apolo,2012,3,Nro. Fallecidos,0
+Potosí,50601,Cotagaita,2012,3,Nro. Fallecidos,0
+Chuquisaca,10301,Zudañez,2012,10,Nro. Fallecidos,0
+Pando,90101,Cobija,2012,11,Nro. Fallecidos,0
+La Paz,20606,Tipuani,2012,11,Nro. Fallecidos,0
+Potosí,50204,Chuquihuta Ayllu Jucumani,2012,12,Nro. Fallecidos,0
+La Paz,21601,Gral. J.j. Perez (charazani),2012,12,Nro. Fallecidos,0
+Chuquisaca,10304,Icla,2012,12,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,TOTAL,0
+La Paz,20701,Apolo,2012,2,TOTAL,3
+Pando,90203,Filadelfia,2012,2,TOTAL,1
+La Paz,21005,Ichoca,2012,2,TOTAL,91
+Chuquisaca,10501,Monteagudo,2012,2,TOTAL,101
+Potosí,50801,Tupiza,2012,2,TOTAL,38
+Tarija,60303,Villa Montes,2012,2,TOTAL,22
+La Paz,20701,Apolo,2012,3,TOTAL,4
+Potosí,50601,Cotagaita,2012,3,TOTAL,21
+Chuquisaca,10301,Zudañez,2012,10,TOTAL,1
+Pando,90101,Cobija,2012,11,TOTAL,1
+La Paz,20606,Tipuani,2012,11,TOTAL,41
+Potosí,50204,Chuquihuta Ayllu Jucumani,2012,12,TOTAL,121
+La Paz,21601,Gral. J.j. Perez (charazani),2012,12,TOTAL,28
+Chuquisaca,10304,Icla,2012,12,TOTAL,31

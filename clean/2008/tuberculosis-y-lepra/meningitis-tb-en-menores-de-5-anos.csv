@@ -1,0 +1,466 @@
+department,municipality_id,municipality,year,month,population,value
+Tarija,60502,El Puente(tja),2008,1,< de 1 ano / MASCULINO,1
+La Paz,20101,La Paz,2008,1,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,< de 1 ano / MASCULINO,0
+Potosí,51202,Tomave,2008,1,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,< de 1 ano / MASCULINO,0
+Potosí,50103,Yocalla,2008,4,< de 1 ano / MASCULINO,1
+La Paz,20101,La Paz,2008,5,< de 1 ano / MASCULINO,1
+Cochabamba,31001,Sacaba,2008,5,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,< de 1 ano / MASCULINO,0
+Potosí,51202,Tomave,2008,5,< de 1 ano / MASCULINO,1
+La Paz,20101,La Paz,2008,6,< de 1 ano / MASCULINO,0
+Santa Cruz,71001,Montero,2008,6,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,< de 1 ano / MASCULINO,0
+Potosí,51202,Tomave,2008,6,< de 1 ano / MASCULINO,0
+Cochabamba,30101,Cochabamba,2008,7,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,< de 1 ano / MASCULINO,0
+Santa Cruz,70701,Lagunillas,2008,8,< de 1 ano / MASCULINO,0
+Santa Cruz,70402,San Carlos,2008,8,< de 1 ano / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,< de 1 ano / MASCULINO,0
+Tarija,60101,Tarija,2008,8,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,< de 1 ano / MASCULINO,0
+Chuquisaca,10101,Sucre,2008,9,< de 1 ano / MASCULINO,0
+Tarija,60402,Yunchara,2008,9,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,< de 1 ano / MASCULINO,3
+La Paz,20101,La Paz,2008,11,< de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,< de 1 ano / MASCULINO,0
+Santa Cruz,70403,Yapacani,2008,11,< de 1 ano / MASCULINO,1
+Cochabamba,30101,Cochabamba,2008,12,< de 1 ano / MASCULINO,0
+Santa Cruz,71106,Cuatro Cañadas,2008,12,< de 1 ano / MASCULINO,0
+Tarija,60502,El Puente(tja),2008,1,< de 1 ano / FEMENINO,1
+La Paz,20101,La Paz,2008,1,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,< de 1 ano / FEMENINO,0
+Potosí,51202,Tomave,2008,1,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,< de 1 ano / FEMENINO,0
+Potosí,50103,Yocalla,2008,4,< de 1 ano / FEMENINO,0
+La Paz,20101,La Paz,2008,5,< de 1 ano / FEMENINO,0
+Cochabamba,31001,Sacaba,2008,5,< de 1 ano / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,< de 1 ano / FEMENINO,0
+Potosí,51202,Tomave,2008,5,< de 1 ano / FEMENINO,0
+La Paz,20101,La Paz,2008,6,< de 1 ano / FEMENINO,0
+Santa Cruz,71001,Montero,2008,6,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,< de 1 ano / FEMENINO,0
+Potosí,51202,Tomave,2008,6,< de 1 ano / FEMENINO,0
+Cochabamba,30101,Cochabamba,2008,7,< de 1 ano / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,< de 1 ano / FEMENINO,0
+Santa Cruz,70701,Lagunillas,2008,8,< de 1 ano / FEMENINO,1
+Santa Cruz,70402,San Carlos,2008,8,< de 1 ano / FEMENINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,< de 1 ano / FEMENINO,0
+Tarija,60101,Tarija,2008,8,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,< de 1 ano / FEMENINO,0
+Chuquisaca,10101,Sucre,2008,9,< de 1 ano / FEMENINO,0
+Tarija,60402,Yunchara,2008,9,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,< de 1 ano / FEMENINO,2
+La Paz,20101,La Paz,2008,11,< de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,< de 1 ano / FEMENINO,1
+Santa Cruz,70403,Yapacani,2008,11,< de 1 ano / FEMENINO,0
+Cochabamba,30101,Cochabamba,2008,12,< de 1 ano / FEMENINO,1
+Santa Cruz,71106,Cuatro Cañadas,2008,12,< de 1 ano / FEMENINO,1
+Tarija,60502,El Puente(tja),2008,1,1 a 4 anos / MASCULINO,0
+La Paz,20101,La Paz,2008,1,1 a 4 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,1 a 4 anos / MASCULINO,0
+Potosí,51202,Tomave,2008,1,1 a 4 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,1 a 4 anos / MASCULINO,0
+Potosí,50103,Yocalla,2008,4,1 a 4 anos / MASCULINO,0
+La Paz,20101,La Paz,2008,5,1 a 4 anos / MASCULINO,0
+Cochabamba,31001,Sacaba,2008,5,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,1 a 4 anos / MASCULINO,0
+Potosí,51202,Tomave,2008,5,1 a 4 anos / MASCULINO,0
+La Paz,20101,La Paz,2008,6,1 a 4 anos / MASCULINO,0
+Santa Cruz,71001,Montero,2008,6,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,1 a 4 anos / MASCULINO,0
+Potosí,51202,Tomave,2008,6,1 a 4 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2008,7,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,1 a 4 anos / MASCULINO,0
+Santa Cruz,70701,Lagunillas,2008,8,1 a 4 anos / MASCULINO,0
+Santa Cruz,70402,San Carlos,2008,8,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,1 a 4 anos / MASCULINO,0
+Tarija,60101,Tarija,2008,8,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,1 a 4 anos / MASCULINO,1
+Chuquisaca,10101,Sucre,2008,9,1 a 4 anos / MASCULINO,1
+Tarija,60402,Yunchara,2008,9,1 a 4 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,1 a 4 anos / MASCULINO,6
+La Paz,20101,La Paz,2008,11,1 a 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,1 a 4 anos / MASCULINO,0
+Santa Cruz,70403,Yapacani,2008,11,1 a 4 anos / MASCULINO,2
+Cochabamba,30101,Cochabamba,2008,12,1 a 4 anos / MASCULINO,0
+Santa Cruz,71106,Cuatro Cañadas,2008,12,1 a 4 anos / MASCULINO,0
+Tarija,60502,El Puente(tja),2008,1,1 a 4 anos / FEMENINO,1
+La Paz,20101,La Paz,2008,1,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,1 a 4 anos / FEMENINO,0
+Potosí,51202,Tomave,2008,1,1 a 4 anos / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,1 a 4 anos / FEMENINO,0
+Potosí,50103,Yocalla,2008,4,1 a 4 anos / FEMENINO,0
+La Paz,20101,La Paz,2008,5,1 a 4 anos / FEMENINO,0
+Cochabamba,31001,Sacaba,2008,5,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,1 a 4 anos / FEMENINO,0
+Potosí,51202,Tomave,2008,5,1 a 4 anos / FEMENINO,2
+La Paz,20101,La Paz,2008,6,1 a 4 anos / FEMENINO,1
+Santa Cruz,71001,Montero,2008,6,1 a 4 anos / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,1 a 4 anos / FEMENINO,0
+Potosí,51202,Tomave,2008,6,1 a 4 anos / FEMENINO,1
+Cochabamba,30101,Cochabamba,2008,7,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,1 a 4 anos / FEMENINO,0
+Santa Cruz,70701,Lagunillas,2008,8,1 a 4 anos / FEMENINO,2
+Santa Cruz,70402,San Carlos,2008,8,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,1 a 4 anos / FEMENINO,0
+Tarija,60101,Tarija,2008,8,1 a 4 anos / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,1 a 4 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2008,9,1 a 4 anos / FEMENINO,0
+Tarija,60402,Yunchara,2008,9,1 a 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,1 a 4 anos / FEMENINO,4
+La Paz,20101,La Paz,2008,11,1 a 4 anos / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,1 a 4 anos / FEMENINO,0
+Santa Cruz,70403,Yapacani,2008,11,1 a 4 anos / FEMENINO,1
+Cochabamba,30101,Cochabamba,2008,12,1 a 4 anos / FEMENINO,0
+Santa Cruz,71106,Cuatro Cañadas,2008,12,1 a 4 anos / FEMENINO,0
+Tarija,60502,El Puente(tja),2008,1,5 a 9 anos / MASCULINO,0
+La Paz,20101,La Paz,2008,1,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,5 a 9 anos / MASCULINO,0
+Potosí,51202,Tomave,2008,1,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,5 a 9 anos / MASCULINO,0
+Potosí,50103,Yocalla,2008,4,5 a 9 anos / MASCULINO,0
+La Paz,20101,La Paz,2008,5,5 a 9 anos / MASCULINO,0
+Cochabamba,31001,Sacaba,2008,5,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,5 a 9 anos / MASCULINO,0
+Potosí,51202,Tomave,2008,5,5 a 9 anos / MASCULINO,0
+La Paz,20101,La Paz,2008,6,5 a 9 anos / MASCULINO,0
+Santa Cruz,71001,Montero,2008,6,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,5 a 9 anos / MASCULINO,0
+Potosí,51202,Tomave,2008,6,5 a 9 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2008,7,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,5 a 9 anos / MASCULINO,0
+Santa Cruz,70701,Lagunillas,2008,8,5 a 9 anos / MASCULINO,0
+Santa Cruz,70402,San Carlos,2008,8,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,5 a 9 anos / MASCULINO,0
+Tarija,60101,Tarija,2008,8,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,5 a 9 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2008,9,5 a 9 anos / MASCULINO,0
+Tarija,60402,Yunchara,2008,9,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,5 a 9 anos / MASCULINO,0
+La Paz,20101,La Paz,2008,11,5 a 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,5 a 9 anos / MASCULINO,0
+Santa Cruz,70403,Yapacani,2008,11,5 a 9 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2008,12,5 a 9 anos / MASCULINO,0
+Santa Cruz,71106,Cuatro Cañadas,2008,12,5 a 9 anos / MASCULINO,0
+Tarija,60502,El Puente(tja),2008,1,5 a 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2008,1,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,5 a 9 anos / FEMENINO,0
+Potosí,51202,Tomave,2008,1,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,5 a 9 anos / FEMENINO,0
+Potosí,50103,Yocalla,2008,4,5 a 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2008,5,5 a 9 anos / FEMENINO,0
+Cochabamba,31001,Sacaba,2008,5,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,5 a 9 anos / FEMENINO,0
+Potosí,51202,Tomave,2008,5,5 a 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2008,6,5 a 9 anos / FEMENINO,0
+Santa Cruz,71001,Montero,2008,6,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,5 a 9 anos / FEMENINO,0
+Potosí,51202,Tomave,2008,6,5 a 9 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2008,7,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,5 a 9 anos / FEMENINO,0
+Santa Cruz,70701,Lagunillas,2008,8,5 a 9 anos / FEMENINO,0
+Santa Cruz,70402,San Carlos,2008,8,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,5 a 9 anos / FEMENINO,0
+Tarija,60101,Tarija,2008,8,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,5 a 9 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2008,9,5 a 9 anos / FEMENINO,0
+Tarija,60402,Yunchara,2008,9,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,5 a 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2008,11,5 a 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,5 a 9 anos / FEMENINO,0
+Santa Cruz,70403,Yapacani,2008,11,5 a 9 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2008,12,5 a 9 anos / FEMENINO,0
+Santa Cruz,71106,Cuatro Cañadas,2008,12,5 a 9 anos / FEMENINO,0
+Tarija,60502,El Puente(tja),2008,1,10 a 20 anos / MASCULINO,0
+La Paz,20101,La Paz,2008,1,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,10 a 20 anos / MASCULINO,0
+Potosí,51202,Tomave,2008,1,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,10 a 20 anos / MASCULINO,0
+Potosí,50103,Yocalla,2008,4,10 a 20 anos / MASCULINO,0
+La Paz,20101,La Paz,2008,5,10 a 20 anos / MASCULINO,0
+Cochabamba,31001,Sacaba,2008,5,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,10 a 20 anos / MASCULINO,0
+Potosí,51202,Tomave,2008,5,10 a 20 anos / MASCULINO,0
+La Paz,20101,La Paz,2008,6,10 a 20 anos / MASCULINO,0
+Santa Cruz,71001,Montero,2008,6,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,10 a 20 anos / MASCULINO,0
+Potosí,51202,Tomave,2008,6,10 a 20 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2008,7,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,10 a 20 anos / MASCULINO,0
+Santa Cruz,70701,Lagunillas,2008,8,10 a 20 anos / MASCULINO,0
+Santa Cruz,70402,San Carlos,2008,8,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,10 a 20 anos / MASCULINO,0
+Tarija,60101,Tarija,2008,8,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,10 a 20 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2008,9,10 a 20 anos / MASCULINO,0
+Tarija,60402,Yunchara,2008,9,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,10 a 20 anos / MASCULINO,0
+La Paz,20101,La Paz,2008,11,10 a 20 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,10 a 20 anos / MASCULINO,0
+Santa Cruz,70403,Yapacani,2008,11,10 a 20 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2008,12,10 a 20 anos / MASCULINO,0
+Santa Cruz,71106,Cuatro Cañadas,2008,12,10 a 20 anos / MASCULINO,0
+Tarija,60502,El Puente(tja),2008,1,10 a 20 anos / FEMENINO,0
+La Paz,20101,La Paz,2008,1,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,10 a 20 anos / FEMENINO,0
+Potosí,51202,Tomave,2008,1,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,10 a 20 anos / FEMENINO,0
+Potosí,50103,Yocalla,2008,4,10 a 20 anos / FEMENINO,0
+La Paz,20101,La Paz,2008,5,10 a 20 anos / FEMENINO,0
+Cochabamba,31001,Sacaba,2008,5,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,10 a 20 anos / FEMENINO,0
+Potosí,51202,Tomave,2008,5,10 a 20 anos / FEMENINO,0
+La Paz,20101,La Paz,2008,6,10 a 20 anos / FEMENINO,0
+Santa Cruz,71001,Montero,2008,6,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,10 a 20 anos / FEMENINO,0
+Potosí,51202,Tomave,2008,6,10 a 20 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2008,7,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,10 a 20 anos / FEMENINO,0
+Santa Cruz,70701,Lagunillas,2008,8,10 a 20 anos / FEMENINO,0
+Santa Cruz,70402,San Carlos,2008,8,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,10 a 20 anos / FEMENINO,0
+Tarija,60101,Tarija,2008,8,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,10 a 20 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2008,9,10 a 20 anos / FEMENINO,0
+Tarija,60402,Yunchara,2008,9,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,10 a 20 anos / FEMENINO,0
+La Paz,20101,La Paz,2008,11,10 a 20 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,10 a 20 anos / FEMENINO,0
+Santa Cruz,70403,Yapacani,2008,11,10 a 20 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2008,12,10 a 20 anos / FEMENINO,0
+Santa Cruz,71106,Cuatro Cañadas,2008,12,10 a 20 anos / FEMENINO,0
+Tarija,60502,El Puente(tja),2008,1,21 a 59 anos / MASCULINO,0
+La Paz,20101,La Paz,2008,1,21 a 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,21 a 59 anos / MASCULINO,0
+Potosí,51202,Tomave,2008,1,21 a 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,21 a 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,21 a 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,21 a 59 anos / MASCULINO,0
+Potosí,50103,Yocalla,2008,4,21 a 59 anos / MASCULINO,0
+La Paz,20101,La Paz,2008,5,21 a 59 anos / MASCULINO,0
+Cochabamba,31001,Sacaba,2008,5,21 a 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,21 a 59 anos / MASCULINO,0
+Potosí,51202,Tomave,2008,5,21 a 59 anos / MASCULINO,0
+La Paz,20101,La Paz,2008,6,21 a 59 anos / MASCULINO,0
+Santa Cruz,71001,Montero,2008,6,21 a 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,21 a 59 anos / MASCULINO,0
+Potosí,51202,Tomave,2008,6,21 a 59 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2008,7,21 a 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,21 a 59 anos / MASCULINO,0
+Santa Cruz,70701,Lagunillas,2008,8,21 a 59 anos / MASCULINO,0
+Santa Cruz,70402,San Carlos,2008,8,21 a 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,21 a 59 anos / MASCULINO,0
+Tarija,60101,Tarija,2008,8,21 a 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,21 a 59 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2008,9,21 a 59 anos / MASCULINO,0
+Tarija,60402,Yunchara,2008,9,21 a 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,21 a 59 anos / MASCULINO,0
+La Paz,20101,La Paz,2008,11,21 a 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,21 a 59 anos / MASCULINO,0
+Santa Cruz,70403,Yapacani,2008,11,21 a 59 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2008,12,21 a 59 anos / MASCULINO,0
+Santa Cruz,71106,Cuatro Cañadas,2008,12,21 a 59 anos / MASCULINO,0
+Tarija,60502,El Puente(tja),2008,1,21 a 59 anos / FEMENINO,0
+La Paz,20101,La Paz,2008,1,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,21 a 59 anos / FEMENINO,0
+Potosí,51202,Tomave,2008,1,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,21 a 59 anos / FEMENINO,0
+Potosí,50103,Yocalla,2008,4,21 a 59 anos / FEMENINO,0
+La Paz,20101,La Paz,2008,5,21 a 59 anos / FEMENINO,0
+Cochabamba,31001,Sacaba,2008,5,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,21 a 59 anos / FEMENINO,0
+Potosí,51202,Tomave,2008,5,21 a 59 anos / FEMENINO,0
+La Paz,20101,La Paz,2008,6,21 a 59 anos / FEMENINO,0
+Santa Cruz,71001,Montero,2008,6,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,21 a 59 anos / FEMENINO,0
+Potosí,51202,Tomave,2008,6,21 a 59 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2008,7,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,21 a 59 anos / FEMENINO,0
+Santa Cruz,70701,Lagunillas,2008,8,21 a 59 anos / FEMENINO,0
+Santa Cruz,70402,San Carlos,2008,8,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,21 a 59 anos / FEMENINO,0
+Tarija,60101,Tarija,2008,8,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,21 a 59 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2008,9,21 a 59 anos / FEMENINO,0
+Tarija,60402,Yunchara,2008,9,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,21 a 59 anos / FEMENINO,0
+La Paz,20101,La Paz,2008,11,21 a 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,21 a 59 anos / FEMENINO,0
+Santa Cruz,70403,Yapacani,2008,11,21 a 59 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2008,12,21 a 59 anos / FEMENINO,0
+Santa Cruz,71106,Cuatro Cañadas,2008,12,21 a 59 anos / FEMENINO,0
+Tarija,60502,El Puente(tja),2008,1,60 y mas / MASCULINO,0
+La Paz,20101,La Paz,2008,1,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,60 y mas / MASCULINO,0
+Potosí,51202,Tomave,2008,1,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,60 y mas / MASCULINO,0
+Potosí,50103,Yocalla,2008,4,60 y mas / MASCULINO,0
+La Paz,20101,La Paz,2008,5,60 y mas / MASCULINO,0
+Cochabamba,31001,Sacaba,2008,5,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,60 y mas / MASCULINO,0
+Potosí,51202,Tomave,2008,5,60 y mas / MASCULINO,0
+La Paz,20101,La Paz,2008,6,60 y mas / MASCULINO,0
+Santa Cruz,71001,Montero,2008,6,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,60 y mas / MASCULINO,0
+Potosí,51202,Tomave,2008,6,60 y mas / MASCULINO,0
+Cochabamba,30101,Cochabamba,2008,7,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,60 y mas / MASCULINO,0
+Santa Cruz,70701,Lagunillas,2008,8,60 y mas / MASCULINO,0
+Santa Cruz,70402,San Carlos,2008,8,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,60 y mas / MASCULINO,0
+Tarija,60101,Tarija,2008,8,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,60 y mas / MASCULINO,0
+Chuquisaca,10101,Sucre,2008,9,60 y mas / MASCULINO,0
+Tarija,60402,Yunchara,2008,9,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,60 y mas / MASCULINO,0
+La Paz,20101,La Paz,2008,11,60 y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,60 y mas / MASCULINO,0
+Santa Cruz,70403,Yapacani,2008,11,60 y mas / MASCULINO,0
+Cochabamba,30101,Cochabamba,2008,12,60 y mas / MASCULINO,0
+Santa Cruz,71106,Cuatro Cañadas,2008,12,60 y mas / MASCULINO,0
+Tarija,60502,El Puente(tja),2008,1,60 y mas / FEMENINO,0
+La Paz,20101,La Paz,2008,1,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,60 y mas / FEMENINO,0
+Potosí,51202,Tomave,2008,1,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,60 y mas / FEMENINO,0
+Potosí,50103,Yocalla,2008,4,60 y mas / FEMENINO,0
+La Paz,20101,La Paz,2008,5,60 y mas / FEMENINO,0
+Cochabamba,31001,Sacaba,2008,5,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,60 y mas / FEMENINO,0
+Potosí,51202,Tomave,2008,5,60 y mas / FEMENINO,0
+La Paz,20101,La Paz,2008,6,60 y mas / FEMENINO,0
+Santa Cruz,71001,Montero,2008,6,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,60 y mas / FEMENINO,0
+Potosí,51202,Tomave,2008,6,60 y mas / FEMENINO,0
+Cochabamba,30101,Cochabamba,2008,7,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,60 y mas / FEMENINO,0
+Santa Cruz,70701,Lagunillas,2008,8,60 y mas / FEMENINO,0
+Santa Cruz,70402,San Carlos,2008,8,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,60 y mas / FEMENINO,0
+Tarija,60101,Tarija,2008,8,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,60 y mas / FEMENINO,0
+Chuquisaca,10101,Sucre,2008,9,60 y mas / FEMENINO,0
+Tarija,60402,Yunchara,2008,9,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,60 y mas / FEMENINO,0
+La Paz,20101,La Paz,2008,11,60 y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,60 y mas / FEMENINO,0
+Santa Cruz,70403,Yapacani,2008,11,60 y mas / FEMENINO,0
+Cochabamba,30101,Cochabamba,2008,12,60 y mas / FEMENINO,0
+Santa Cruz,71106,Cuatro Cañadas,2008,12,60 y mas / FEMENINO,0
+Tarija,60502,El Puente(tja),2008,1,TOTALES / TOTAL-M,1
+La Paz,20101,La Paz,2008,1,TOTALES / TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,TOTALES / TOTAL-M,0
+Potosí,51202,Tomave,2008,1,TOTALES / TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,TOTALES / TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,TOTALES / TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,TOTALES / TOTAL-M,0
+Potosí,50103,Yocalla,2008,4,TOTALES / TOTAL-M,1
+La Paz,20101,La Paz,2008,5,TOTALES / TOTAL-M,1
+Cochabamba,31001,Sacaba,2008,5,TOTALES / TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,TOTALES / TOTAL-M,0
+Potosí,51202,Tomave,2008,5,TOTALES / TOTAL-M,1
+La Paz,20101,La Paz,2008,6,TOTALES / TOTAL-M,0
+Santa Cruz,71001,Montero,2008,6,TOTALES / TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,TOTALES / TOTAL-M,0
+Potosí,51202,Tomave,2008,6,TOTALES / TOTAL-M,0
+Cochabamba,30101,Cochabamba,2008,7,TOTALES / TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,TOTALES / TOTAL-M,0
+Santa Cruz,70701,Lagunillas,2008,8,TOTALES / TOTAL-M,0
+Santa Cruz,70402,San Carlos,2008,8,TOTALES / TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,TOTALES / TOTAL-M,0
+Tarija,60101,Tarija,2008,8,TOTALES / TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,TOTALES / TOTAL-M,1
+Chuquisaca,10101,Sucre,2008,9,TOTALES / TOTAL-M,1
+Tarija,60402,Yunchara,2008,9,TOTALES / TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,TOTALES / TOTAL-M,9
+La Paz,20101,La Paz,2008,11,TOTALES / TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,TOTALES / TOTAL-M,0
+Santa Cruz,70403,Yapacani,2008,11,TOTALES / TOTAL-M,3
+Cochabamba,30101,Cochabamba,2008,12,TOTALES / TOTAL-M,0
+Santa Cruz,71106,Cuatro Cañadas,2008,12,TOTALES / TOTAL-M,0
+Tarija,60502,El Puente(tja),2008,1,TOTALES / TOTAL-F,2
+La Paz,20101,La Paz,2008,1,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,TOTALES / TOTAL-F,0
+Potosí,51202,Tomave,2008,1,TOTALES / TOTAL-F,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,TOTALES / TOTAL-F,0
+Potosí,50103,Yocalla,2008,4,TOTALES / TOTAL-F,0
+La Paz,20101,La Paz,2008,5,TOTALES / TOTAL-F,0
+Cochabamba,31001,Sacaba,2008,5,TOTALES / TOTAL-F,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,TOTALES / TOTAL-F,0
+Potosí,51202,Tomave,2008,5,TOTALES / TOTAL-F,2
+La Paz,20101,La Paz,2008,6,TOTALES / TOTAL-F,1
+Santa Cruz,71001,Montero,2008,6,TOTALES / TOTAL-F,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,TOTALES / TOTAL-F,0
+Potosí,51202,Tomave,2008,6,TOTALES / TOTAL-F,1
+Cochabamba,30101,Cochabamba,2008,7,TOTALES / TOTAL-F,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,TOTALES / TOTAL-F,0
+Santa Cruz,70701,Lagunillas,2008,8,TOTALES / TOTAL-F,3
+Santa Cruz,70402,San Carlos,2008,8,TOTALES / TOTAL-F,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,TOTALES / TOTAL-F,0
+Tarija,60101,Tarija,2008,8,TOTALES / TOTAL-F,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,TOTALES / TOTAL-F,0
+Chuquisaca,10101,Sucre,2008,9,TOTALES / TOTAL-F,0
+Tarija,60402,Yunchara,2008,9,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,TOTALES / TOTAL-F,6
+La Paz,20101,La Paz,2008,11,TOTALES / TOTAL-F,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,TOTALES / TOTAL-F,1
+Santa Cruz,70403,Yapacani,2008,11,TOTALES / TOTAL-F,1
+Cochabamba,30101,Cochabamba,2008,12,TOTALES / TOTAL-F,1
+Santa Cruz,71106,Cuatro Cañadas,2008,12,TOTALES / TOTAL-F,1
+Tarija,60502,El Puente(tja),2008,1,TOTALES / TOTAL,3
+La Paz,20101,La Paz,2008,1,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,TOTALES / TOTAL,0
+Potosí,51202,Tomave,2008,1,TOTALES / TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,TOTALES / TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,TOTALES / TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,TOTALES / TOTAL,0
+Potosí,50103,Yocalla,2008,4,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2008,5,TOTALES / TOTAL,1
+Cochabamba,31001,Sacaba,2008,5,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,TOTALES / TOTAL,0
+Potosí,51202,Tomave,2008,5,TOTALES / TOTAL,3
+La Paz,20101,La Paz,2008,6,TOTALES / TOTAL,1
+Santa Cruz,71001,Montero,2008,6,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,TOTALES / TOTAL,0
+Potosí,51202,Tomave,2008,6,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2008,7,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,TOTALES / TOTAL,0
+Santa Cruz,70701,Lagunillas,2008,8,TOTALES / TOTAL,3
+Santa Cruz,70402,San Carlos,2008,8,TOTALES / TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,TOTALES / TOTAL,0
+Tarija,60101,Tarija,2008,8,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,TOTALES / TOTAL,1
+Chuquisaca,10101,Sucre,2008,9,TOTALES / TOTAL,1
+Tarija,60402,Yunchara,2008,9,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,TOTALES / TOTAL,15
+La Paz,20101,La Paz,2008,11,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,TOTALES / TOTAL,1
+Santa Cruz,70403,Yapacani,2008,11,TOTALES / TOTAL,4
+Cochabamba,30101,Cochabamba,2008,12,TOTALES / TOTAL,1
+Santa Cruz,71106,Cuatro Cañadas,2008,12,TOTALES / TOTAL,1

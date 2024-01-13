@@ -1,0 +1,211 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,30101,Cochabamba,2012,1,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,< de 1 ano,0
+Tarija,60101,Tarija,2012,1,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2012,2,< de 1 ano,0
+Chuquisaca,10502,Huacareta,2012,2,< de 1 ano,0
+Chuquisaca,10501,Monteagudo,2012,2,< de 1 ano,0
+Santa Cruz,71001,Montero,2012,2,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2012,3,< de 1 ano,0
+Beni,80302,San Borja,2012,3,< de 1 ano,0
+Santa Cruz,71104,San Julian,2012,3,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,3,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2012,4,< de 1 ano,0
+La Paz,20105,El Alto,2012,4,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,4,< de 1 ano,0
+Santa Cruz,71104,San Julian,2012,5,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,5,< de 1 ano,0
+Tarija,60301,Yacuiba,2012,5,< de 1 ano,0
+La Paz,20105,El Alto,2012,7,< de 1 ano,0
+La Paz,20105,El Alto,2012,8,< de 1 ano,0
+Oruro,40101,Oruro,2012,8,< de 1 ano,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,9,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2012,10,< de 1 ano,0
+La Paz,20105,El Alto,2012,10,< de 1 ano,0
+Tarija,60301,Yacuiba,2012,10,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2012,11,< de 1 ano,0
+Potosí,50101,Potosi,2012,11,< de 1 ano,0
+Beni,80702,San Ramon Beni,2012,11,< de 1 ano,0
+Tarija,60301,Yacuiba,2012,11,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2012,12,< de 1 ano,0
+Tarija,60101,Tarija,2012,12,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2012,1,1 a 4 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,1 a 4 anos,0
+Tarija,60101,Tarija,2012,1,1 a 4 anos,1
+Cochabamba,30101,Cochabamba,2012,2,1 a 4 anos,1
+Chuquisaca,10502,Huacareta,2012,2,1 a 4 anos,1
+Chuquisaca,10501,Monteagudo,2012,2,1 a 4 anos,1
+Santa Cruz,71001,Montero,2012,2,1 a 4 anos,0
+Cochabamba,30101,Cochabamba,2012,3,1 a 4 anos,1
+Beni,80302,San Borja,2012,3,1 a 4 anos,0
+Santa Cruz,71104,San Julian,2012,3,1 a 4 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,3,1 a 4 anos,2
+Cochabamba,30101,Cochabamba,2012,4,1 a 4 anos,1
+La Paz,20105,El Alto,2012,4,1 a 4 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,4,1 a 4 anos,0
+Santa Cruz,71104,San Julian,2012,5,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,5,1 a 4 anos,1
+Tarija,60301,Yacuiba,2012,5,1 a 4 anos,1
+La Paz,20105,El Alto,2012,7,1 a 4 anos,1
+La Paz,20105,El Alto,2012,8,1 a 4 anos,0
+Oruro,40101,Oruro,2012,8,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,9,1 a 4 anos,0
+Cochabamba,30101,Cochabamba,2012,10,1 a 4 anos,0
+La Paz,20105,El Alto,2012,10,1 a 4 anos,0
+Tarija,60301,Yacuiba,2012,10,1 a 4 anos,0
+Cochabamba,30101,Cochabamba,2012,11,1 a 4 anos,1
+Potosí,50101,Potosi,2012,11,1 a 4 anos,0
+Beni,80702,San Ramon Beni,2012,11,1 a 4 anos,1
+Tarija,60301,Yacuiba,2012,11,1 a 4 anos,2
+Cochabamba,30101,Cochabamba,2012,12,1 a 4 anos,0
+Tarija,60101,Tarija,2012,12,1 a 4 anos,1
+Cochabamba,30101,Cochabamba,2012,1,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,5 a 9 anos,0
+Tarija,60101,Tarija,2012,1,5 a 9 anos,0
+Cochabamba,30101,Cochabamba,2012,2,5 a 9 anos,0
+Chuquisaca,10502,Huacareta,2012,2,5 a 9 anos,0
+Chuquisaca,10501,Monteagudo,2012,2,5 a 9 anos,0
+Santa Cruz,71001,Montero,2012,2,5 a 9 anos,0
+Cochabamba,30101,Cochabamba,2012,3,5 a 9 anos,0
+Beni,80302,San Borja,2012,3,5 a 9 anos,0
+Santa Cruz,71104,San Julian,2012,3,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,3,5 a 9 anos,0
+Cochabamba,30101,Cochabamba,2012,4,5 a 9 anos,0
+La Paz,20105,El Alto,2012,4,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,4,5 a 9 anos,0
+Santa Cruz,71104,San Julian,2012,5,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,5,5 a 9 anos,0
+Tarija,60301,Yacuiba,2012,5,5 a 9 anos,0
+La Paz,20105,El Alto,2012,7,5 a 9 anos,0
+La Paz,20105,El Alto,2012,8,5 a 9 anos,0
+Oruro,40101,Oruro,2012,8,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,9,5 a 9 anos,1
+Cochabamba,30101,Cochabamba,2012,10,5 a 9 anos,1
+La Paz,20105,El Alto,2012,10,5 a 9 anos,0
+Tarija,60301,Yacuiba,2012,10,5 a 9 anos,0
+Cochabamba,30101,Cochabamba,2012,11,5 a 9 anos,0
+Potosí,50101,Potosi,2012,11,5 a 9 anos,1
+Beni,80702,San Ramon Beni,2012,11,5 a 9 anos,0
+Tarija,60301,Yacuiba,2012,11,5 a 9 anos,0
+Cochabamba,30101,Cochabamba,2012,12,5 a 9 anos,0
+Tarija,60101,Tarija,2012,12,5 a 9 anos,0
+Cochabamba,30101,Cochabamba,2012,1,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,10 a 20 anos,0
+Tarija,60101,Tarija,2012,1,10 a 20 anos,0
+Cochabamba,30101,Cochabamba,2012,2,10 a 20 anos,0
+Chuquisaca,10502,Huacareta,2012,2,10 a 20 anos,0
+Chuquisaca,10501,Monteagudo,2012,2,10 a 20 anos,0
+Santa Cruz,71001,Montero,2012,2,10 a 20 anos,1
+Cochabamba,30101,Cochabamba,2012,3,10 a 20 anos,0
+Beni,80302,San Borja,2012,3,10 a 20 anos,1
+Santa Cruz,71104,San Julian,2012,3,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,3,10 a 20 anos,0
+Cochabamba,30101,Cochabamba,2012,4,10 a 20 anos,0
+La Paz,20105,El Alto,2012,4,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,4,10 a 20 anos,1
+Santa Cruz,71104,San Julian,2012,5,10 a 20 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,5,10 a 20 anos,0
+Tarija,60301,Yacuiba,2012,5,10 a 20 anos,0
+La Paz,20105,El Alto,2012,7,10 a 20 anos,0
+La Paz,20105,El Alto,2012,8,10 a 20 anos,1
+Oruro,40101,Oruro,2012,8,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,9,10 a 20 anos,0
+Cochabamba,30101,Cochabamba,2012,10,10 a 20 anos,0
+La Paz,20105,El Alto,2012,10,10 a 20 anos,0
+Tarija,60301,Yacuiba,2012,10,10 a 20 anos,1
+Cochabamba,30101,Cochabamba,2012,11,10 a 20 anos,0
+Potosí,50101,Potosi,2012,11,10 a 20 anos,0
+Beni,80702,San Ramon Beni,2012,11,10 a 20 anos,0
+Tarija,60301,Yacuiba,2012,11,10 a 20 anos,0
+Cochabamba,30101,Cochabamba,2012,12,10 a 20 anos,1
+Tarija,60101,Tarija,2012,12,10 a 20 anos,0
+Cochabamba,30101,Cochabamba,2012,1,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,21 a 59 anos,0
+Tarija,60101,Tarija,2012,1,21 a 59 anos,0
+Cochabamba,30101,Cochabamba,2012,2,21 a 59 anos,0
+Chuquisaca,10502,Huacareta,2012,2,21 a 59 anos,0
+Chuquisaca,10501,Monteagudo,2012,2,21 a 59 anos,0
+Santa Cruz,71001,Montero,2012,2,21 a 59 anos,0
+Cochabamba,30101,Cochabamba,2012,3,21 a 59 anos,0
+Beni,80302,San Borja,2012,3,21 a 59 anos,0
+Santa Cruz,71104,San Julian,2012,3,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,3,21 a 59 anos,0
+Cochabamba,30101,Cochabamba,2012,4,21 a 59 anos,0
+La Paz,20105,El Alto,2012,4,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,4,21 a 59 anos,0
+Santa Cruz,71104,San Julian,2012,5,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,5,21 a 59 anos,0
+Tarija,60301,Yacuiba,2012,5,21 a 59 anos,0
+La Paz,20105,El Alto,2012,7,21 a 59 anos,0
+La Paz,20105,El Alto,2012,8,21 a 59 anos,2
+Oruro,40101,Oruro,2012,8,21 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,9,21 a 59 anos,0
+Cochabamba,30101,Cochabamba,2012,10,21 a 59 anos,0
+La Paz,20105,El Alto,2012,10,21 a 59 anos,1
+Tarija,60301,Yacuiba,2012,10,21 a 59 anos,0
+Cochabamba,30101,Cochabamba,2012,11,21 a 59 anos,0
+Potosí,50101,Potosi,2012,11,21 a 59 anos,0
+Beni,80702,San Ramon Beni,2012,11,21 a 59 anos,0
+Tarija,60301,Yacuiba,2012,11,21 a 59 anos,0
+Cochabamba,30101,Cochabamba,2012,12,21 a 59 anos,0
+Tarija,60101,Tarija,2012,12,21 a 59 anos,0
+Cochabamba,30101,Cochabamba,2012,1,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,60 y mas,0
+Tarija,60101,Tarija,2012,1,60 y mas,0
+Cochabamba,30101,Cochabamba,2012,2,60 y mas,0
+Chuquisaca,10502,Huacareta,2012,2,60 y mas,0
+Chuquisaca,10501,Monteagudo,2012,2,60 y mas,0
+Santa Cruz,71001,Montero,2012,2,60 y mas,0
+Cochabamba,30101,Cochabamba,2012,3,60 y mas,0
+Beni,80302,San Borja,2012,3,60 y mas,0
+Santa Cruz,71104,San Julian,2012,3,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,3,60 y mas,0
+Cochabamba,30101,Cochabamba,2012,4,60 y mas,0
+La Paz,20105,El Alto,2012,4,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,4,60 y mas,0
+Santa Cruz,71104,San Julian,2012,5,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,5,60 y mas,0
+Tarija,60301,Yacuiba,2012,5,60 y mas,0
+La Paz,20105,El Alto,2012,7,60 y mas,1
+La Paz,20105,El Alto,2012,8,60 y mas,0
+Oruro,40101,Oruro,2012,8,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,9,60 y mas,0
+Cochabamba,30101,Cochabamba,2012,10,60 y mas,0
+La Paz,20105,El Alto,2012,10,60 y mas,0
+Tarija,60301,Yacuiba,2012,10,60 y mas,0
+Cochabamba,30101,Cochabamba,2012,11,60 y mas,0
+Potosí,50101,Potosi,2012,11,60 y mas,0
+Beni,80702,San Ramon Beni,2012,11,60 y mas,0
+Tarija,60301,Yacuiba,2012,11,60 y mas,0
+Cochabamba,30101,Cochabamba,2012,12,60 y mas,0
+Tarija,60101,Tarija,2012,12,60 y mas,0
+Cochabamba,30101,Cochabamba,2012,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,TOTAL,0
+Tarija,60101,Tarija,2012,1,TOTAL,1
+Cochabamba,30101,Cochabamba,2012,2,TOTAL,1
+Chuquisaca,10502,Huacareta,2012,2,TOTAL,1
+Chuquisaca,10501,Monteagudo,2012,2,TOTAL,1
+Santa Cruz,71001,Montero,2012,2,TOTAL,1
+Cochabamba,30101,Cochabamba,2012,3,TOTAL,1
+Beni,80302,San Borja,2012,3,TOTAL,1
+Santa Cruz,71104,San Julian,2012,3,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,3,TOTAL,2
+Cochabamba,30101,Cochabamba,2012,4,TOTAL,1
+La Paz,20105,El Alto,2012,4,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,4,TOTAL,1
+Santa Cruz,71104,San Julian,2012,5,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,5,TOTAL,1
+Tarija,60301,Yacuiba,2012,5,TOTAL,1
+La Paz,20105,El Alto,2012,7,TOTAL,2
+La Paz,20105,El Alto,2012,8,TOTAL,3
+Oruro,40101,Oruro,2012,8,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,9,TOTAL,1
+Cochabamba,30101,Cochabamba,2012,10,TOTAL,1
+La Paz,20105,El Alto,2012,10,TOTAL,1
+Tarija,60301,Yacuiba,2012,10,TOTAL,1
+Cochabamba,30101,Cochabamba,2012,11,TOTAL,1
+Potosí,50101,Potosi,2012,11,TOTAL,1
+Beni,80702,San Ramon Beni,2012,11,TOTAL,1
+Tarija,60301,Yacuiba,2012,11,TOTAL,2
+Cochabamba,30101,Cochabamba,2012,12,TOTAL,1
+Tarija,60101,Tarija,2012,12,TOTAL,1

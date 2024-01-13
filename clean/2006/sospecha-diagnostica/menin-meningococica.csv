@@ -1,0 +1,19 @@
+department,municipality_id,municipality,year,month,population,value
+Beni,80802,Baures,2006,1,< de 1 ano,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,< de 1 ano,0
+Pando,90101,Cobija,2006,12,< de 1 ano,0
+Beni,80802,Baures,2006,1,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,1 a 4 anos,0
+Pando,90101,Cobija,2006,12,1 a 4 anos,0
+Beni,80802,Baures,2006,1,5 a 14 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,5 a 14 anos,1
+Pando,90101,Cobija,2006,12,5 a 14 anos,1
+Beni,80802,Baures,2006,1,15 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,15 a 59 anos,1
+Pando,90101,Cobija,2006,12,15 a 59 anos,0
+Beni,80802,Baures,2006,1,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,60 y mas,1
+Pando,90101,Cobija,2006,12,60 y mas,0
+Beni,80802,Baures,2006,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,5,TOTAL,3
+Pando,90101,Cobija,2006,12,TOTAL,1

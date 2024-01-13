@@ -1,0 +1,4229 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,30403,Arbieto,2007,1,< de 2 anos-H,2
+Oruro,41202,Belen De Andamarca,2007,1,< de 2 anos-H,1
+Oruro,40201,Challapata,2007,1,< de 2 anos-H,17
+Oruro,40302,Choque Cota,2007,1,< de 2 anos-H,1
+La Paz,21004,Colquiri,2007,1,< de 2 anos-H,15
+Oruro,40301,Corque,2007,1,< de 2 anos-H,2
+Oruro,40401,Curahuara De Carangas,2007,1,< de 2 anos-H,3
+Oruro,41101,Eucaliptus,2007,1,< de 2 anos-H,4
+La Paz,21005,Ichoca,2007,1,< de 2 anos-H,0
+La Paz,21001,Inquisivi,2007,1,< de 2 anos-H,12
+Santa Cruz,70104,La Guardia,2007,1,< de 2 anos-H,9
+Potosí,50203,Llallagua,2007,1,< de 2 anos-H,5
+Cochabamba,30302,Morochata,2007,1,< de 2 anos-H,9
+Oruro,40101,Oruro,2007,1,< de 2 anos-H,41
+Oruro,40601,Poopo,2007,1,< de 2 anos-H,3
+Beni,80301,Reyes,2007,1,< de 2 anos-H,2
+Beni,80304,Rurrenabaque,2007,1,< de 2 anos-H,0
+Oruro,40901,Sabaya,2007,1,< de 2 anos-H,2
+Oruro,40801,Salinas De Garci Mendoza,2007,1,< de 2 anos-H,4
+Beni,80602,San Andres,2007,1,< de 2 anos-H,3
+Beni,80102,San Javier(bni),2007,1,< de 2 anos-H,0
+Tarija,60501,San Lorenzo(tja),2007,1,< de 2 anos-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,1,< de 2 anos-H,13
+Oruro,40104,Soracachi,2007,1,< de 2 anos-H,1
+Chuquisaca,10101,Sucre,2007,1,< de 2 anos-H,1
+Cochabamba,30401,Tarata,2007,1,< de 2 anos-H,1
+Tarija,60101,Tarija,2007,1,< de 2 anos-H,11
+Cochabamba,30803,Tolata,2007,1,< de 2 anos-H,0
+Potosí,50502,Toro Toro,2007,1,< de 2 anos-H,2
+Oruro,41301,Totora(orr),2007,1,< de 2 anos-H,4
+Beni,80101,Trinidad,2007,1,< de 2 anos-H,8
+Oruro,40402,Turco,2007,1,< de 2 anos-H,10
+Cochabamba,31003,Villa Tunari,2007,1,< de 2 anos-H,1
+Tarija,60301,Yacuiba,2007,1,< de 2 anos-H,6
+Oruro,41201,Andamarca,2007,2,< de 2 anos-H,4
+Cochabamba,30402,Anzaldo,2007,2,< de 2 anos-H,4
+Santa Cruz,71501,Ascencion De Guarayos,2007,2,< de 2 anos-H,5
+Oruro,41202,Belen De Andamarca,2007,2,< de 2 anos-H,1
+Oruro,40201,Challapata,2007,2,< de 2 anos-H,11
+Oruro,40903,Chipaya,2007,2,< de 2 anos-H,0
+Oruro,40302,Choque Cota,2007,2,< de 2 anos-H,1
+Oruro,40902,Coipasa,2007,2,< de 2 anos-H,1
+Potosí,50401,Colquechaca,2007,2,< de 2 anos-H,0
+La Paz,21004,Colquiri,2007,2,< de 2 anos-H,14
+Oruro,40301,Corque,2007,2,< de 2 anos-H,1
+Oruro,40401,Curahuara De Carangas,2007,2,< de 2 anos-H,0
+Oruro,40103,El Choro,2007,2,< de 2 anos-H,1
+Oruro,41101,Eucaliptus,2007,2,< de 2 anos-H,0
+Oruro,40701,Huanuni,2007,2,< de 2 anos-H,0
+La Paz,21005,Ichoca,2007,2,< de 2 anos-H,3
+La Paz,21001,Inquisivi,2007,2,< de 2 anos-H,13
+Potosí,50203,Llallagua,2007,2,< de 2 anos-H,1
+Oruro,40702,Machacamarca,2007,2,< de 2 anos-H,3
+Oruro,40101,Oruro,2007,2,< de 2 anos-H,45
+Oruro,40601,Poopo,2007,2,< de 2 anos-H,1
+Pando,90301,Puerto Gonzalo Moreno,2007,2,< de 2 anos-H,2
+Oruro,40901,Sabaya,2007,2,< de 2 anos-H,1
+Cochabamba,30404,Sacabamba,2007,2,< de 2 anos-H,1
+Oruro,40801,Salinas De Garci Mendoza,2007,2,< de 2 anos-H,0
+Beni,80102,San Javier(bni),2007,2,< de 2 anos-H,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,2,< de 2 anos-H,15
+Oruro,40104,Soracachi,2007,2,< de 2 anos-H,1
+Chuquisaca,10101,Sucre,2007,2,< de 2 anos-H,0
+Tarija,60101,Tarija,2007,2,< de 2 anos-H,18
+Cochabamba,30803,Tolata,2007,2,< de 2 anos-H,0
+Oruro,41001,Toledo,2007,2,< de 2 anos-H,1
+Potosí,50502,Toro Toro,2007,2,< de 2 anos-H,7
+Oruro,41301,Totora(orr),2007,2,< de 2 anos-H,2
+Oruro,40402,Turco,2007,2,< de 2 anos-H,2
+Tarija,60301,Yacuiba,2007,2,< de 2 anos-H,3
+Oruro,41201,Andamarca,2007,3,< de 2 anos-H,10
+Cochabamba,30402,Anzaldo,2007,3,< de 2 anos-H,2
+Cochabamba,30403,Arbieto,2007,3,< de 2 anos-H,1
+Oruro,41202,Belen De Andamarca,2007,3,< de 2 anos-H,1
+Tarija,60202,Bermejo,2007,3,< de 2 anos-H,1
+Santa Cruz,70401,Buena Vista,2007,3,< de 2 anos-H,1
+Santa Cruz,70706,Camiri,2007,3,< de 2 anos-H,0
+Oruro,40201,Challapata,2007,3,< de 2 anos-H,20
+Oruro,40903,Chipaya,2007,3,< de 2 anos-H,0
+Oruro,40301,Corque,2007,3,< de 2 anos-H,7
+Santa Cruz,70102,Cotoca,2007,3,< de 2 anos-H,2
+Oruro,40401,Curahuara De Carangas,2007,3,< de 2 anos-H,3
+Tarija,60502,El Puente(tja),2007,3,< de 2 anos-H,0
+Oruro,40505,Esmeralda,2007,3,< de 2 anos-H,0
+Oruro,40701,Huanuni,2007,3,< de 2 anos-H,0
+La Paz,21005,Ichoca,2007,3,< de 2 anos-H,2
+La Paz,21001,Inquisivi,2007,3,< de 2 anos-H,13
+Santa Cruz,70104,La Guardia,2007,3,< de 2 anos-H,8
+Potosí,50203,Llallagua,2007,3,< de 2 anos-H,2
+Oruro,40101,Oruro,2007,3,< de 2 anos-H,55
+Potosí,50403,Pocoata,2007,3,< de 2 anos-H,6
+Oruro,40601,Poopo,2007,3,< de 2 anos-H,0
+Chuquisaca,10302,Presto,2007,3,< de 2 anos-H,10
+Cochabamba,30901,Quillacollo,2007,3,< de 2 anos-H,0
+Oruro,40901,Sabaya,2007,3,< de 2 anos-H,2
+Oruro,40801,Salinas De Garci Mendoza,2007,3,< de 2 anos-H,19
+Cochabamba,31403,San Benito,2007,3,< de 2 anos-H,2
+Beni,80501,San Ignacio,2007,3,< de 2 anos-H,0
+Chuquisaca,10702,San Lucas,2007,3,< de 2 anos-H,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,< de 2 anos-H,53
+Beni,80303,Santa Rosa,2007,3,< de 2 anos-H,4
+Oruro,40104,Soracachi,2007,3,< de 2 anos-H,6
+Chuquisaca,10101,Sucre,2007,3,< de 2 anos-H,1
+Tarija,60101,Tarija,2007,3,< de 2 anos-H,27
+Cochabamba,30802,Toco,2007,3,< de 2 anos-H,0
+Cochabamba,30803,Tolata,2007,3,< de 2 anos-H,0
+Oruro,41001,Toledo,2007,3,< de 2 anos-H,1
+Potosí,50502,Toro Toro,2007,3,< de 2 anos-H,9
+Oruro,41301,Totora(orr),2007,3,< de 2 anos-H,0
+Oruro,40402,Turco,2007,3,< de 2 anos-H,10
+Cochabamba,31402,Villa Rivero,2007,3,< de 2 anos-H,0
+Tarija,60301,Yacuiba,2007,3,< de 2 anos-H,0
+Oruro,41201,Andamarca,2007,4,< de 2 anos-H,8
+Cochabamba,30402,Anzaldo,2007,4,< de 2 anos-H,3
+Cochabamba,30403,Arbieto,2007,4,< de 2 anos-H,0
+Oruro,41202,Belen De Andamarca,2007,4,< de 2 anos-H,0
+La Paz,21003,Cajuata,2007,4,< de 2 anos-H,0
+Cochabamba,30701,Capinota,2007,4,< de 2 anos-H,0
+Oruro,40201,Challapata,2007,4,< de 2 anos-H,25
+Oruro,40302,Choque Cota,2007,4,< de 2 anos-H,1
+Oruro,40301,Corque,2007,4,< de 2 anos-H,3
+Santa Cruz,70102,Cotoca,2007,4,< de 2 anos-H,3
+Oruro,40401,Curahuara De Carangas,2007,4,< de 2 anos-H,1
+Santa Cruz,70105,El Torno,2007,4,< de 2 anos-H,5
+Oruro,40505,Esmeralda,2007,4,< de 2 anos-H,0
+Oruro,40701,Huanuni,2007,4,< de 2 anos-H,0
+La Paz,21005,Ichoca,2007,4,< de 2 anos-H,2
+La Paz,21001,Inquisivi,2007,4,< de 2 anos-H,12
+Santa Cruz,70104,La Guardia,2007,4,< de 2 anos-H,17
+Potosí,50203,Llallagua,2007,4,< de 2 anos-H,1
+Oruro,40101,Oruro,2007,4,< de 2 anos-H,61
+Potosí,50403,Pocoata,2007,4,< de 2 anos-H,4
+Oruro,40601,Poopo,2007,4,< de 2 anos-H,6
+Potosí,51203,Porco,2007,4,< de 2 anos-H,1
+Chuquisaca,10302,Presto,2007,4,< de 2 anos-H,8
+Beni,80304,Rurrenabaque,2007,4,< de 2 anos-H,1
+Oruro,40901,Sabaya,2007,4,< de 2 anos-H,1
+Oruro,40801,Salinas De Garci Mendoza,2007,4,< de 2 anos-H,5
+Beni,80302,San Borja,2007,4,< de 2 anos-H,1
+Chuquisaca,10702,San Lucas,2007,4,< de 2 anos-H,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,< de 2 anos-H,11
+Oruro,40104,Soracachi,2007,4,< de 2 anos-H,0
+Tarija,60101,Tarija,2007,4,< de 2 anos-H,12
+Cochabamba,31601,Tiraque (cbba),2007,4,< de 2 anos-H,0
+Oruro,41301,Totora(orr),2007,4,< de 2 anos-H,2
+Oruro,40402,Turco,2007,4,< de 2 anos-H,7
+Cochabamba,31003,Villa Tunari,2007,4,< de 2 anos-H,0
+Tarija,60301,Yacuiba,2007,4,< de 2 anos-H,2
+Santa Cruz,70403,Yapacani,2007,4,< de 2 anos-H,0
+Cochabamba,31303,Alalay,2007,5,< de 2 anos-H,2
+Oruro,41201,Andamarca,2007,5,< de 2 anos-H,8
+Cochabamba,30402,Anzaldo,2007,5,< de 2 anos-H,0
+Cochabamba,30403,Arbieto,2007,5,< de 2 anos-H,0
+Oruro,41202,Belen De Andamarca,2007,5,< de 2 anos-H,0
+Potosí,50301,Betanzos,2007,5,< de 2 anos-H,3
+Oruro,40201,Challapata,2007,5,< de 2 anos-H,32
+Oruro,40302,Choque Cota,2007,5,< de 2 anos-H,1
+Oruro,40301,Corque,2007,5,< de 2 anos-H,19
+Santa Cruz,70102,Cotoca,2007,5,< de 2 anos-H,6
+Oruro,40401,Curahuara De Carangas,2007,5,< de 2 anos-H,8
+Oruro,40103,El Choro,2007,5,< de 2 anos-H,0
+Santa Cruz,70105,El Torno,2007,5,< de 2 anos-H,7
+Oruro,40505,Esmeralda,2007,5,< de 2 anos-H,2
+Beni,80402,Exaltacion,2007,5,< de 2 anos-H,0
+Oruro,40501,Huachacalla,2007,5,< de 2 anos-H,0
+Oruro,40701,Huanuni,2007,5,< de 2 anos-H,2
+La Paz,21005,Ichoca,2007,5,< de 2 anos-H,0
+La Paz,21001,Inquisivi,2007,5,< de 2 anos-H,5
+Santa Cruz,70104,La Guardia,2007,5,< de 2 anos-H,17
+Potosí,50203,Llallagua,2007,5,< de 2 anos-H,0
+Oruro,40702,Machacamarca,2007,5,< de 2 anos-H,3
+Oruro,40101,Oruro,2007,5,< de 2 anos-H,71
+Tarija,60201,Padcaya,2007,5,< de 2 anos-H,0
+Potosí,50403,Pocoata,2007,5,< de 2 anos-H,5
+Cochabamba,31202,Pojo (cbba),2007,5,< de 2 anos-H,0
+Oruro,40601,Poopo,2007,5,< de 2 anos-H,4
+Santa Cruz,70103,Porongo,2007,5,< de 2 anos-H,0
+Chuquisaca,10302,Presto,2007,5,< de 2 anos-H,10
+Beni,80304,Rurrenabaque,2007,5,< de 2 anos-H,2
+Oruro,40901,Sabaya,2007,5,< de 2 anos-H,5
+Cochabamba,30404,Sacabamba,2007,5,< de 2 anos-H,2
+Oruro,40801,Salinas De Garci Mendoza,2007,5,< de 2 anos-H,22
+Beni,80602,San Andres,2007,5,< de 2 anos-H,1
+Santa Cruz,71104,San Julian,2007,5,< de 2 anos-H,3
+Tarija,60501,San Lorenzo(tja),2007,5,< de 2 anos-H,1
+Chuquisaca,10702,San Lucas,2007,5,< de 2 anos-H,7
+Beni,80401,Santa Ana,2007,5,< de 2 anos-H,12
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,< de 2 anos-H,5
+Oruro,41401,Santiago De Huari,2007,5,< de 2 anos-H,0
+Pando,90303,Sena,2007,5,< de 2 anos-H,4
+Cochabamba,31101,Tapacari,2007,5,< de 2 anos-H,4
+Tarija,60101,Tarija,2007,5,< de 2 anos-H,1
+Oruro,41001,Toledo,2007,5,< de 2 anos-H,0
+Potosí,50502,Toro Toro,2007,5,< de 2 anos-H,6
+Oruro,41301,Totora(orr),2007,5,< de 2 anos-H,0
+Beni,80101,Trinidad,2007,5,< de 2 anos-H,4
+Oruro,40402,Turco,2007,5,< de 2 anos-H,4
+Cochabamba,31402,Villa Rivero,2007,5,< de 2 anos-H,0
+Tarija,60301,Yacuiba,2007,5,< de 2 anos-H,1
+Cochabamba,31303,Alalay,2007,6,< de 2 anos-H,0
+Oruro,41201,Andamarca,2007,6,< de 2 anos-H,12
+Cochabamba,30402,Anzaldo,2007,6,< de 2 anos-H,2
+Cochabamba,30501,Arani,2007,6,< de 2 anos-H,6
+Cochabamba,30403,Arbieto,2007,6,< de 2 anos-H,0
+Oruro,40102,Caracollo,2007,6,< de 2 anos-H,1
+Oruro,40201,Challapata,2007,6,< de 2 anos-H,36
+Oruro,40302,Choque Cota,2007,6,< de 2 anos-H,3
+La Paz,21004,Colquiri,2007,6,< de 2 anos-H,14
+Oruro,40301,Corque,2007,6,< de 2 anos-H,8
+Santa Cruz,70102,Cotoca,2007,6,< de 2 anos-H,3
+Oruro,40401,Curahuara De Carangas,2007,6,< de 2 anos-H,6
+Oruro,40103,El Choro,2007,6,< de 2 anos-H,3
+Santa Cruz,70105,El Torno,2007,6,< de 2 anos-H,15
+Oruro,40501,Huachacalla,2007,6,< de 2 anos-H,1
+Oruro,40701,Huanuni,2007,6,< de 2 anos-H,2
+La Paz,21005,Ichoca,2007,6,< de 2 anos-H,3
+La Paz,21001,Inquisivi,2007,6,< de 2 anos-H,32
+Santa Cruz,70104,La Guardia,2007,6,< de 2 anos-H,13
+Potosí,50203,Llallagua,2007,6,< de 2 anos-H,1
+Oruro,40702,Machacamarca,2007,6,< de 2 anos-H,0
+Oruro,40101,Oruro,2007,6,< de 2 anos-H,81
+Oruro,40602,Pazña,2007,6,< de 2 anos-H,3
+Potosí,50403,Pocoata,2007,6,< de 2 anos-H,4
+Oruro,40601,Poopo,2007,6,< de 2 anos-H,2
+Chuquisaca,10302,Presto,2007,6,< de 2 anos-H,16
+Santa Cruz,70503,Robore,2007,6,< de 2 anos-H,1
+Beni,80304,Rurrenabaque,2007,6,< de 2 anos-H,7
+Oruro,40901,Sabaya,2007,6,< de 2 anos-H,6
+Cochabamba,30404,Sacabamba,2007,6,< de 2 anos-H,3
+Potosí,50701,Sacaca,2007,6,< de 2 anos-H,4
+Oruro,40801,Salinas De Garci Mendoza,2007,6,< de 2 anos-H,6
+Beni,80602,San Andres,2007,6,< de 2 anos-H,0
+Cochabamba,31403,San Benito,2007,6,< de 2 anos-H,3
+Chuquisaca,10702,San Lucas,2007,6,< de 2 anos-H,8
+Santa Cruz,71201,San Matias,2007,6,< de 2 anos-H,1
+Beni,80401,Santa Ana,2007,6,< de 2 anos-H,10
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,6,< de 2 anos-H,6
+Beni,80303,Santa Rosa,2007,6,< de 2 anos-H,0
+Oruro,40104,Soracachi,2007,6,< de 2 anos-H,8
+Chuquisaca,10101,Sucre,2007,6,< de 2 anos-H,0
+Cochabamba,31101,Tapacari,2007,6,< de 2 anos-H,5
+Cochabamba,30401,Tarata,2007,6,< de 2 anos-H,1
+Cochabamba,30802,Toco,2007,6,< de 2 anos-H,0
+Oruro,41001,Toledo,2007,6,< de 2 anos-H,0
+Potosí,50502,Toro Toro,2007,6,< de 2 anos-H,19
+Oruro,41301,Totora(orr),2007,6,< de 2 anos-H,0
+Beni,80101,Trinidad,2007,6,< de 2 anos-H,19
+Oruro,40402,Turco,2007,6,< de 2 anos-H,4
+Cochabamba,31402,Villa Rivero,2007,6,< de 2 anos-H,0
+Tarija,60301,Yacuiba,2007,6,< de 2 anos-H,1
+Chuquisaca,10102,Yotala,2007,6,< de 2 anos-H,7
+Cochabamba,30201,Aiquile,2007,7,< de 2 anos-H,2
+Cochabamba,31303,Alalay,2007,7,< de 2 anos-H,3
+Oruro,41201,Andamarca,2007,7,< de 2 anos-H,10
+Cochabamba,30402,Anzaldo,2007,7,< de 2 anos-H,2
+Cochabamba,30403,Arbieto,2007,7,< de 2 anos-H,0
+Oruro,41202,Belen De Andamarca,2007,7,< de 2 anos-H,1
+Tarija,60202,Bermejo,2007,7,< de 2 anos-H,1
+Potosí,50301,Betanzos,2007,7,< de 2 anos-H,8
+Santa Cruz,70703,Cabezas,2007,7,< de 2 anos-H,0
+Oruro,40201,Challapata,2007,7,< de 2 anos-H,39
+Oruro,40302,Choque Cota,2007,7,< de 2 anos-H,1
+La Paz,21004,Colquiri,2007,7,< de 2 anos-H,19
+Santa Cruz,71301,Comarapa,2007,7,< de 2 anos-H,1
+Oruro,40301,Corque,2007,7,< de 2 anos-H,11
+Santa Cruz,70102,Cotoca,2007,7,< de 2 anos-H,8
+Oruro,40401,Curahuara De Carangas,2007,7,< de 2 anos-H,3
+Oruro,40103,El Choro,2007,7,< de 2 anos-H,2
+Santa Cruz,70105,El Torno,2007,7,< de 2 anos-H,5
+Tarija,60601,Entre Rios,2007,7,< de 2 anos-H,1
+Oruro,40501,Huachacalla,2007,7,< de 2 anos-H,1
+Oruro,40701,Huanuni,2007,7,< de 2 anos-H,2
+La Paz,21005,Ichoca,2007,7,< de 2 anos-H,0
+La Paz,21001,Inquisivi,2007,7,< de 2 anos-H,35
+Santa Cruz,70104,La Guardia,2007,7,< de 2 anos-H,21
+Santa Cruz,70701,Lagunillas,2007,7,< de 2 anos-H,0
+La Paz,21006,Licoma Pampa,2007,7,< de 2 anos-H,0
+Oruro,40702,Machacamarca,2007,7,< de 2 anos-H,0
+Oruro,40101,Oruro,2007,7,< de 2 anos-H,110
+Oruro,40802,Pampa Aullagas,2007,7,< de 2 anos-H,5
+Oruro,40602,Pazña,2007,7,< de 2 anos-H,3
+Potosí,50403,Pocoata,2007,7,< de 2 anos-H,2
+Potosí,51203,Porco,2007,7,< de 2 anos-H,1
+Chuquisaca,10302,Presto,2007,7,< de 2 anos-H,9
+Beni,80201,Riberalta,2007,7,< de 2 anos-H,1
+Oruro,40801,Salinas De Garci Mendoza,2007,7,< de 2 anos-H,3
+Cochabamba,31403,San Benito,2007,7,< de 2 anos-H,0
+Beni,80501,San Ignacio,2007,7,< de 2 anos-H,1
+Chuquisaca,10702,San Lucas,2007,7,< de 2 anos-H,4
+Beni,80401,Santa Ana,2007,7,< de 2 anos-H,8
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,7,< de 2 anos-H,7
+Beni,80303,Santa Rosa,2007,7,< de 2 anos-H,0
+Oruro,40104,Soracachi,2007,7,< de 2 anos-H,5
+Cochabamba,31101,Tapacari,2007,7,< de 2 anos-H,2
+Cochabamba,30401,Tarata,2007,7,< de 2 anos-H,2
+Tarija,60101,Tarija,2007,7,< de 2 anos-H,1
+Oruro,41001,Toledo,2007,7,< de 2 anos-H,2
+Potosí,50502,Toro Toro,2007,7,< de 2 anos-H,4
+Oruro,41301,Totora(orr),2007,7,< de 2 anos-H,3
+Oruro,40402,Turco,2007,7,< de 2 anos-H,8
+La Paz,20801,Viacha,2007,7,< de 2 anos-H,2
+Cochabamba,31003,Villa Tunari,2007,7,< de 2 anos-H,0
+Tarija,60301,Yacuiba,2007,7,< de 2 anos-H,5
+Potosí,51302,Acacio,2007,8,< de 2 anos-H,1
+Cochabamba,31303,Alalay,2007,8,< de 2 anos-H,1
+Oruro,41201,Andamarca,2007,8,< de 2 anos-H,18
+Cochabamba,30403,Arbieto,2007,8,< de 2 anos-H,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,8,< de 2 anos-H,7
+Potosí,50301,Betanzos,2007,8,< de 2 anos-H,12
+Oruro,40201,Challapata,2007,8,< de 2 anos-H,35
+Oruro,40302,Choque Cota,2007,8,< de 2 anos-H,1
+Oruro,40902,Coipasa,2007,8,< de 2 anos-H,0
+La Paz,21004,Colquiri,2007,8,< de 2 anos-H,42
+Oruro,40301,Corque,2007,8,< de 2 anos-H,11
+Santa Cruz,70102,Cotoca,2007,8,< de 2 anos-H,9
+Oruro,40401,Curahuara De Carangas,2007,8,< de 2 anos-H,10
+La Paz,21602,Curva,2007,8,< de 2 anos-H,3
+Oruro,40103,El Choro,2007,8,< de 2 anos-H,4
+Santa Cruz,70105,El Torno,2007,8,< de 2 anos-H,9
+Tarija,60601,Entre Rios,2007,8,< de 2 anos-H,2
+Oruro,40501,Huachacalla,2007,8,< de 2 anos-H,2
+Oruro,40701,Huanuni,2007,8,< de 2 anos-H,9
+Oruro,41601,Huayllamarca,2007,8,< de 2 anos-H,0
+La Paz,21001,Inquisivi,2007,8,< de 2 anos-H,10
+Santa Cruz,70104,La Guardia,2007,8,< de 2 anos-H,35
+Beni,80601,Loreto,2007,8,< de 2 anos-H,2
+Oruro,40101,Oruro,2007,8,< de 2 anos-H,170
+Tarija,60201,Padcaya,2007,8,< de 2 anos-H,0
+Oruro,40802,Pampa Aullagas,2007,8,< de 2 anos-H,6
+Oruro,40602,Pazña,2007,8,< de 2 anos-H,5
+Potosí,50403,Pocoata,2007,8,< de 2 anos-H,2
+Oruro,40601,Poopo,2007,8,< de 2 anos-H,3
+Potosí,51203,Porco,2007,8,< de 2 anos-H,2
+Potosí,50101,Potosi,2007,8,< de 2 anos-H,1
+Chuquisaca,10302,Presto,2007,8,< de 2 anos-H,8
+Potosí,51101,Puna,2007,8,< de 2 anos-H,1
+Cochabamba,30901,Quillacollo,2007,8,< de 2 anos-H,0
+Beni,80201,Riberalta,2007,8,< de 2 anos-H,0
+Beni,80304,Rurrenabaque,2007,8,< de 2 anos-H,0
+Potosí,50701,Sacaca,2007,8,< de 2 anos-H,2
+Oruro,40801,Salinas De Garci Mendoza,2007,8,< de 2 anos-H,5
+Beni,80602,San Andres,2007,8,< de 2 anos-H,10
+Beni,80501,San Ignacio,2007,8,< de 2 anos-H,2
+Beni,80102,San Javier(bni),2007,8,< de 2 anos-H,2
+Chuquisaca,10702,San Lucas,2007,8,< de 2 anos-H,4
+Beni,80401,Santa Ana,2007,8,< de 2 anos-H,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,8,< de 2 anos-H,2
+Beni,80303,Santa Rosa,2007,8,< de 2 anos-H,3
+Oruro,41401,Santiago De Huari,2007,8,< de 2 anos-H,0
+Oruro,40104,Soracachi,2007,8,< de 2 anos-H,6
+Chuquisaca,10101,Sucre,2007,8,< de 2 anos-H,1
+Cochabamba,30903,Tiquipaya,2007,8,< de 2 anos-H,1
+Cochabamba,30803,Tolata,2007,8,< de 2 anos-H,0
+Oruro,41001,Toledo,2007,8,< de 2 anos-H,0
+Potosí,50502,Toro Toro,2007,8,< de 2 anos-H,29
+Oruro,41301,Totora(orr),2007,8,< de 2 anos-H,1
+Beni,80101,Trinidad,2007,8,< de 2 anos-H,11
+Oruro,40402,Turco,2007,8,< de 2 anos-H,10
+La Paz,20801,Viacha,2007,8,< de 2 anos-H,3
+Cochabamba,31402,Villa Rivero,2007,8,< de 2 anos-H,0
+Tarija,60301,Yacuiba,2007,8,< de 2 anos-H,8
+Chuquisaca,10102,Yotala,2007,8,< de 2 anos-H,30
+Tarija,60402,Yunchara,2007,8,< de 2 anos-H,0
+Chuquisaca,10301,Zudañez,2007,8,< de 2 anos-H,1
+Cochabamba,31303,Alalay,2007,9,< de 2 anos-H,1
+Oruro,41201,Andamarca,2007,9,< de 2 anos-H,9
+Cochabamba,30403,Arbieto,2007,9,< de 2 anos-H,0
+Oruro,41202,Belen De Andamarca,2007,9,< de 2 anos-H,0
+Potosí,50301,Betanzos,2007,9,< de 2 anos-H,6
+Santa Cruz,70703,Cabezas,2007,9,< de 2 anos-H,0
+Oruro,40201,Challapata,2007,9,< de 2 anos-H,42
+Oruro,40302,Choque Cota,2007,9,< de 2 anos-H,0
+La Paz,21004,Colquiri,2007,9,< de 2 anos-H,35
+Oruro,40301,Corque,2007,9,< de 2 anos-H,6
+Potosí,50601,Cotagaita,2007,9,< de 2 anos-H,8
+Santa Cruz,70102,Cotoca,2007,9,< de 2 anos-H,9
+Oruro,40401,Curahuara De Carangas,2007,9,< de 2 anos-H,1
+La Paz,21602,Curva,2007,9,< de 2 anos-H,3
+Santa Cruz,70105,El Torno,2007,9,< de 2 anos-H,7
+Oruro,41101,Eucaliptus,2007,9,< de 2 anos-H,5
+Oruro,40501,Huachacalla,2007,9,< de 2 anos-H,3
+Oruro,40701,Huanuni,2007,9,< de 2 anos-H,8
+Oruro,41601,Huayllamarca,2007,9,< de 2 anos-H,1
+La Paz,21001,Inquisivi,2007,9,< de 2 anos-H,25
+Santa Cruz,70104,La Guardia,2007,9,< de 2 anos-H,31
+Chuquisaca,10303,Mojocoya,2007,9,< de 2 anos-H,1
+Oruro,40101,Oruro,2007,9,< de 2 anos-H,100
+La Paz,20102,Palca,2007,9,< de 2 anos-H,0
+Oruro,40602,Pazña,2007,9,< de 2 anos-H,3
+Potosí,50403,Pocoata,2007,9,< de 2 anos-H,1
+Cochabamba,31203,Pocona,2007,9,< de 2 anos-H,0
+Potosí,51203,Porco,2007,9,< de 2 anos-H,3
+Potosí,50101,Potosi,2007,9,< de 2 anos-H,11
+Chuquisaca,10302,Presto,2007,9,< de 2 anos-H,6
+Beni,80301,Reyes,2007,9,< de 2 anos-H,1
+Beni,80201,Riberalta,2007,9,< de 2 anos-H,23
+Santa Cruz,70503,Robore,2007,9,< de 2 anos-H,0
+Beni,80304,Rurrenabaque,2007,9,< de 2 anos-H,3
+Oruro,40901,Sabaya,2007,9,< de 2 anos-H,0
+Potosí,50701,Sacaca,2007,9,< de 2 anos-H,14
+Oruro,40801,Salinas De Garci Mendoza,2007,9,< de 2 anos-H,7
+Beni,80602,San Andres,2007,9,< de 2 anos-H,1
+Cochabamba,31403,San Benito,2007,9,< de 2 anos-H,2
+Beni,80501,San Ignacio,2007,9,< de 2 anos-H,6
+Beni,80102,San Javier(bni),2007,9,< de 2 anos-H,1
+Chuquisaca,10702,San Lucas,2007,9,< de 2 anos-H,1
+Beni,80401,Santa Ana,2007,9,< de 2 anos-H,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,9,< de 2 anos-H,0
+Beni,80303,Santa Rosa,2007,9,< de 2 anos-H,1
+Oruro,41401,Santiago De Huari,2007,9,< de 2 anos-H,1
+Oruro,40104,Soracachi,2007,9,< de 2 anos-H,3
+Chuquisaca,10101,Sucre,2007,9,< de 2 anos-H,0
+Cochabamba,31101,Tapacari,2007,9,< de 2 anos-H,1
+Cochabamba,30802,Toco,2007,9,< de 2 anos-H,0
+Oruro,41001,Toledo,2007,9,< de 2 anos-H,1
+Potosí,50502,Toro Toro,2007,9,< de 2 anos-H,39
+Oruro,41301,Totora(orr),2007,9,< de 2 anos-H,2
+Beni,80101,Trinidad,2007,9,< de 2 anos-H,23
+Oruro,40402,Turco,2007,9,< de 2 anos-H,9
+Cochabamba,31003,Villa Tunari,2007,9,< de 2 anos-H,1
+Tarija,60301,Yacuiba,2007,9,< de 2 anos-H,2
+Chuquisaca,10102,Yotala,2007,9,< de 2 anos-H,33
+Tarija,60402,Yunchara,2007,9,< de 2 anos-H,0
+Chuquisaca,10301,Zudañez,2007,9,< de 2 anos-H,2
+La Paz,20104,Achocalla,2007,10,< de 2 anos-H,7
+Oruro,41201,Andamarca,2007,10,< de 2 anos-H,12
+Cochabamba,30403,Arbieto,2007,10,< de 2 anos-H,0
+Oruro,41202,Belen De Andamarca,2007,10,< de 2 anos-H,1
+Potosí,50301,Betanzos,2007,10,< de 2 anos-H,7
+Santa Cruz,70703,Cabezas,2007,10,< de 2 anos-H,1
+Cochabamba,30701,Capinota,2007,10,< de 2 anos-H,0
+Oruro,40102,Caracollo,2007,10,< de 2 anos-H,2
+Oruro,40201,Challapata,2007,10,< de 2 anos-H,57
+La Paz,21004,Colquiri,2007,10,< de 2 anos-H,38
+Oruro,40301,Corque,2007,10,< de 2 anos-H,8
+Potosí,50601,Cotagaita,2007,10,< de 2 anos-H,8
+Santa Cruz,70102,Cotoca,2007,10,< de 2 anos-H,7
+Oruro,40401,Curahuara De Carangas,2007,10,< de 2 anos-H,8
+Oruro,40103,El Choro,2007,10,< de 2 anos-H,0
+Santa Cruz,70105,El Torno,2007,10,< de 2 anos-H,4
+Oruro,41101,Eucaliptus,2007,10,< de 2 anos-H,13
+Beni,80402,Exaltacion,2007,10,< de 2 anos-H,5
+Oruro,40501,Huachacalla,2007,10,< de 2 anos-H,5
+Oruro,40701,Huanuni,2007,10,< de 2 anos-H,28
+Oruro,41601,Huayllamarca,2007,10,< de 2 anos-H,0
+La Paz,21001,Inquisivi,2007,10,< de 2 anos-H,17
+Santa Cruz,70104,La Guardia,2007,10,< de 2 anos-H,34
+Oruro,41501,La Rivera,2007,10,< de 2 anos-H,0
+La Paz,21006,Licoma Pampa,2007,10,< de 2 anos-H,0
+Beni,80601,Loreto,2007,10,< de 2 anos-H,0
+Oruro,40702,Machacamarca,2007,10,< de 2 anos-H,1
+La Paz,20103,Mecapaca,2007,10,< de 2 anos-H,0
+Oruro,40101,Oruro,2007,10,< de 2 anos-H,121
+Oruro,40802,Pampa Aullagas,2007,10,< de 2 anos-H,18
+Oruro,40602,Pazña,2007,10,< de 2 anos-H,2
+Oruro,40601,Poopo,2007,10,< de 2 anos-H,0
+Potosí,51203,Porco,2007,10,< de 2 anos-H,0
+Potosí,50101,Potosi,2007,10,< de 2 anos-H,1
+Chuquisaca,10302,Presto,2007,10,< de 2 anos-H,6
+Cochabamba,31205,Puerto Villarroel,2007,10,< de 2 anos-H,0
+Beni,80201,Riberalta,2007,10,< de 2 anos-H,35
+Santa Cruz,70503,Robore,2007,10,< de 2 anos-H,0
+Beni,80304,Rurrenabaque,2007,10,< de 2 anos-H,0
+Potosí,50701,Sacaca,2007,10,< de 2 anos-H,13
+Oruro,40801,Salinas De Garci Mendoza,2007,10,< de 2 anos-H,10
+Beni,80602,San Andres,2007,10,< de 2 anos-H,1
+Cochabamba,31403,San Benito,2007,10,< de 2 anos-H,0
+Beni,80501,San Ignacio,2007,10,< de 2 anos-H,2
+Chuquisaca,10702,San Lucas,2007,10,< de 2 anos-H,1
+Santa Cruz,71201,San Matias,2007,10,< de 2 anos-H,0
+Beni,80401,Santa Ana,2007,10,< de 2 anos-H,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,10,< de 2 anos-H,3
+Beni,80303,Santa Rosa,2007,10,< de 2 anos-H,3
+Oruro,41401,Santiago De Huari,2007,10,< de 2 anos-H,4
+Oruro,40104,Soracachi,2007,10,< de 2 anos-H,6
+Cochabamba,30401,Tarata,2007,10,< de 2 anos-H,1
+Cochabamba,30802,Toco,2007,10,< de 2 anos-H,0
+Cochabamba,30803,Tolata,2007,10,< de 2 anos-H,0
+Oruro,41001,Toledo,2007,10,< de 2 anos-H,7
+Potosí,50502,Toro Toro,2007,10,< de 2 anos-H,38
+Cochabamba,31201,Totora(cbba),2007,10,< de 2 anos-H,1
+Beni,80101,Trinidad,2007,10,< de 2 anos-H,18
+Oruro,40402,Turco,2007,10,< de 2 anos-H,12
+Cochabamba,31302,Vila Vila,2007,10,< de 2 anos-H,7
+Cochabamba,31402,Villa Rivero,2007,10,< de 2 anos-H,0
+Tarija,60301,Yacuiba,2007,10,< de 2 anos-H,4
+Chuquisaca,10102,Yotala,2007,10,< de 2 anos-H,27
+Chuquisaca,10301,Zudañez,2007,10,< de 2 anos-H,2
+La Paz,20104,Achocalla,2007,11,< de 2 anos-H,1
+Oruro,41201,Andamarca,2007,11,< de 2 anos-H,20
+Cochabamba,30402,Anzaldo,2007,11,< de 2 anos-H,0
+Oruro,41202,Belen De Andamarca,2007,11,< de 2 anos-H,3
+Potosí,50301,Betanzos,2007,11,< de 2 anos-H,10
+Cochabamba,30701,Capinota,2007,11,< de 2 anos-H,1
+Oruro,40201,Challapata,2007,11,< de 2 anos-H,36
+La Paz,21004,Colquiri,2007,11,< de 2 anos-H,15
+Oruro,40301,Corque,2007,11,< de 2 anos-H,9
+Potosí,50601,Cotagaita,2007,11,< de 2 anos-H,4
+Santa Cruz,70102,Cotoca,2007,11,< de 2 anos-H,6
+Oruro,40401,Curahuara De Carangas,2007,11,< de 2 anos-H,21
+Oruro,40103,El Choro,2007,11,< de 2 anos-H,3
+Santa Cruz,70105,El Torno,2007,11,< de 2 anos-H,10
+Tarija,60601,Entre Rios,2007,11,< de 2 anos-H,0
+Oruro,41101,Eucaliptus,2007,11,< de 2 anos-H,6
+Beni,80402,Exaltacion,2007,11,< de 2 anos-H,0
+Oruro,40501,Huachacalla,2007,11,< de 2 anos-H,3
+Oruro,40701,Huanuni,2007,11,< de 2 anos-H,27
+Oruro,41601,Huayllamarca,2007,11,< de 2 anos-H,0
+La Paz,21001,Inquisivi,2007,11,< de 2 anos-H,23
+Santa Cruz,70104,La Guardia,2007,11,< de 2 anos-H,23
+Beni,80601,Loreto,2007,11,< de 2 anos-H,0
+Oruro,40101,Oruro,2007,11,< de 2 anos-H,95
+Tarija,60201,Padcaya,2007,11,< de 2 anos-H,1
+Oruro,40802,Pampa Aullagas,2007,11,< de 2 anos-H,4
+Oruro,40602,Pazña,2007,11,< de 2 anos-H,7
+Oruro,40601,Poopo,2007,11,< de 2 anos-H,2
+Chuquisaca,10302,Presto,2007,11,< de 2 anos-H,5
+Cochabamba,31205,Puerto Villarroel,2007,11,< de 2 anos-H,0
+Beni,80301,Reyes,2007,11,< de 2 anos-H,0
+Beni,80201,Riberalta,2007,11,< de 2 anos-H,37
+Beni,80304,Rurrenabaque,2007,11,< de 2 anos-H,0
+Potosí,50701,Sacaca,2007,11,< de 2 anos-H,7
+Oruro,40801,Salinas De Garci Mendoza,2007,11,< de 2 anos-H,11
+Beni,80501,San Ignacio,2007,11,< de 2 anos-H,0
+Santa Cruz,70301,San Ignacio De Velasco,2007,11,< de 2 anos-H,1
+Santa Cruz,71201,San Matias,2007,11,< de 2 anos-H,1
+Beni,80401,Santa Ana,2007,11,< de 2 anos-H,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,< de 2 anos-H,1
+Beni,80303,Santa Rosa,2007,11,< de 2 anos-H,2
+Oruro,40104,Soracachi,2007,11,< de 2 anos-H,2
+Chuquisaca,10101,Sucre,2007,11,< de 2 anos-H,0
+Cochabamba,30602,Tacopaya,2007,11,< de 2 anos-H,5
+Cochabamba,30401,Tarata,2007,11,< de 2 anos-H,0
+Cochabamba,30802,Toco,2007,11,< de 2 anos-H,1
+Cochabamba,30803,Tolata,2007,11,< de 2 anos-H,0
+Oruro,41001,Toledo,2007,11,< de 2 anos-H,1
+Potosí,50502,Toro Toro,2007,11,< de 2 anos-H,10
+Beni,80101,Trinidad,2007,11,< de 2 anos-H,5
+Oruro,40402,Turco,2007,11,< de 2 anos-H,7
+Cochabamba,31402,Villa Rivero,2007,11,< de 2 anos-H,0
+Tarija,60301,Yacuiba,2007,11,< de 2 anos-H,2
+Chuquisaca,10102,Yotala,2007,11,< de 2 anos-H,35
+Chuquisaca,10301,Zudañez,2007,11,< de 2 anos-H,2
+La Paz,20104,Achocalla,2007,12,< de 2 anos-H,3
+Cochabamba,31303,Alalay,2007,12,< de 2 anos-H,1
+Oruro,41201,Andamarca,2007,12,< de 2 anos-H,12
+Santa Cruz,71501,Ascencion De Guarayos,2007,12,< de 2 anos-H,29
+Oruro,41202,Belen De Andamarca,2007,12,< de 2 anos-H,3
+Potosí,50301,Betanzos,2007,12,< de 2 anos-H,8
+Cochabamba,30701,Capinota,2007,12,< de 2 anos-H,1
+Oruro,40102,Caracollo,2007,12,< de 2 anos-H,1
+Oruro,40201,Challapata,2007,12,< de 2 anos-H,28
+La Paz,21004,Colquiri,2007,12,< de 2 anos-H,36
+Oruro,40301,Corque,2007,12,< de 2 anos-H,10
+Potosí,50601,Cotagaita,2007,12,< de 2 anos-H,11
+Santa Cruz,70102,Cotoca,2007,12,< de 2 anos-H,10
+Oruro,40401,Curahuara De Carangas,2007,12,< de 2 anos-H,18
+Oruro,40103,El Choro,2007,12,< de 2 anos-H,0
+Santa Cruz,70105,El Torno,2007,12,< de 2 anos-H,4
+Oruro,41101,Eucaliptus,2007,12,< de 2 anos-H,6
+Oruro,40501,Huachacalla,2007,12,< de 2 anos-H,1
+Oruro,40701,Huanuni,2007,12,< de 2 anos-H,25
+La Paz,21001,Inquisivi,2007,12,< de 2 anos-H,16
+Santa Cruz,70104,La Guardia,2007,12,< de 2 anos-H,21
+Beni,80601,Loreto,2007,12,< de 2 anos-H,0
+Oruro,40702,Machacamarca,2007,12,< de 2 anos-H,1
+Oruro,40101,Oruro,2007,12,< de 2 anos-H,30
+Oruro,40802,Pampa Aullagas,2007,12,< de 2 anos-H,1
+Oruro,40602,Pazña,2007,12,< de 2 anos-H,4
+Oruro,40601,Poopo,2007,12,< de 2 anos-H,0
+Potosí,51203,Porco,2007,12,< de 2 anos-H,4
+Chuquisaca,10302,Presto,2007,12,< de 2 anos-H,3
+Santa Cruz,71402,Puerto Quijarro,2007,12,< de 2 anos-H,2
+Beni,80301,Reyes,2007,12,< de 2 anos-H,0
+Beni,80201,Riberalta,2007,12,< de 2 anos-H,19
+Santa Cruz,70503,Robore,2007,12,< de 2 anos-H,3
+Beni,80304,Rurrenabaque,2007,12,< de 2 anos-H,0
+Cochabamba,30404,Sacabamba,2007,12,< de 2 anos-H,1
+Oruro,40801,Salinas De Garci Mendoza,2007,12,< de 2 anos-H,16
+Beni,80602,San Andres,2007,12,< de 2 anos-H,1
+Beni,80501,San Ignacio,2007,12,< de 2 anos-H,0
+Santa Cruz,70301,San Ignacio De Velasco,2007,12,< de 2 anos-H,0
+Chuquisaca,10702,San Lucas,2007,12,< de 2 anos-H,2
+Santa Cruz,71201,San Matias,2007,12,< de 2 anos-H,2
+Beni,80401,Santa Ana,2007,12,< de 2 anos-H,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,< de 2 anos-H,1
+Beni,80303,Santa Rosa,2007,12,< de 2 anos-H,1
+Oruro,41401,Santiago De Huari,2007,12,< de 2 anos-H,1
+Oruro,40104,Soracachi,2007,12,< de 2 anos-H,2
+Chuquisaca,10101,Sucre,2007,12,< de 2 anos-H,1
+Cochabamba,30602,Tacopaya,2007,12,< de 2 anos-H,3
+Chuquisaca,10601,Tarabuco,2007,12,< de 2 anos-H,5
+Cochabamba,30401,Tarata,2007,12,< de 2 anos-H,1
+Cochabamba,30802,Toco,2007,12,< de 2 anos-H,2
+Oruro,41001,Toledo,2007,12,< de 2 anos-H,2
+Potosí,50502,Toro Toro,2007,12,< de 2 anos-H,19
+Cochabamba,31201,Totora(cbba),2007,12,< de 2 anos-H,2
+Oruro,41301,Totora(orr),2007,12,< de 2 anos-H,2
+Beni,80101,Trinidad,2007,12,< de 2 anos-H,12
+Oruro,40402,Turco,2007,12,< de 2 anos-H,6
+Cochabamba,31003,Villa Tunari,2007,12,< de 2 anos-H,7
+Tarija,60301,Yacuiba,2007,12,< de 2 anos-H,4
+Chuquisaca,10102,Yotala,2007,12,< de 2 anos-H,32
+Tarija,60402,Yunchara,2007,12,< de 2 anos-H,2
+Cochabamba,30403,Arbieto,2007,1,< de 2 anos-M,0
+Oruro,41202,Belen De Andamarca,2007,1,< de 2 anos-M,0
+Oruro,40201,Challapata,2007,1,< de 2 anos-M,23
+Oruro,40302,Choque Cota,2007,1,< de 2 anos-M,4
+La Paz,21004,Colquiri,2007,1,< de 2 anos-M,15
+Oruro,40301,Corque,2007,1,< de 2 anos-M,1
+Oruro,40401,Curahuara De Carangas,2007,1,< de 2 anos-M,1
+Oruro,41101,Eucaliptus,2007,1,< de 2 anos-M,2
+La Paz,21005,Ichoca,2007,1,< de 2 anos-M,2
+La Paz,21001,Inquisivi,2007,1,< de 2 anos-M,2
+Santa Cruz,70104,La Guardia,2007,1,< de 2 anos-M,11
+Potosí,50203,Llallagua,2007,1,< de 2 anos-M,2
+Cochabamba,30302,Morochata,2007,1,< de 2 anos-M,0
+Oruro,40101,Oruro,2007,1,< de 2 anos-M,37
+Oruro,40601,Poopo,2007,1,< de 2 anos-M,3
+Beni,80301,Reyes,2007,1,< de 2 anos-M,4
+Beni,80304,Rurrenabaque,2007,1,< de 2 anos-M,0
+Oruro,40901,Sabaya,2007,1,< de 2 anos-M,3
+Oruro,40801,Salinas De Garci Mendoza,2007,1,< de 2 anos-M,1
+Beni,80602,San Andres,2007,1,< de 2 anos-M,10
+Beni,80102,San Javier(bni),2007,1,< de 2 anos-M,0
+Tarija,60501,San Lorenzo(tja),2007,1,< de 2 anos-M,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,1,< de 2 anos-M,11
+Oruro,40104,Soracachi,2007,1,< de 2 anos-M,1
+Chuquisaca,10101,Sucre,2007,1,< de 2 anos-M,0
+Cochabamba,30401,Tarata,2007,1,< de 2 anos-M,0
+Tarija,60101,Tarija,2007,1,< de 2 anos-M,20
+Cochabamba,30803,Tolata,2007,1,< de 2 anos-M,0
+Potosí,50502,Toro Toro,2007,1,< de 2 anos-M,0
+Oruro,41301,Totora(orr),2007,1,< de 2 anos-M,6
+Beni,80101,Trinidad,2007,1,< de 2 anos-M,9
+Oruro,40402,Turco,2007,1,< de 2 anos-M,7
+Cochabamba,31003,Villa Tunari,2007,1,< de 2 anos-M,0
+Tarija,60301,Yacuiba,2007,1,< de 2 anos-M,3
+Oruro,41201,Andamarca,2007,2,< de 2 anos-M,2
+Cochabamba,30402,Anzaldo,2007,2,< de 2 anos-M,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,2,< de 2 anos-M,4
+Oruro,41202,Belen De Andamarca,2007,2,< de 2 anos-M,0
+Oruro,40201,Challapata,2007,2,< de 2 anos-M,16
+Oruro,40903,Chipaya,2007,2,< de 2 anos-M,0
+Oruro,40302,Choque Cota,2007,2,< de 2 anos-M,0
+Oruro,40902,Coipasa,2007,2,< de 2 anos-M,0
+Potosí,50401,Colquechaca,2007,2,< de 2 anos-M,0
+La Paz,21004,Colquiri,2007,2,< de 2 anos-M,9
+Oruro,40301,Corque,2007,2,< de 2 anos-M,1
+Oruro,40401,Curahuara De Carangas,2007,2,< de 2 anos-M,2
+Oruro,40103,El Choro,2007,2,< de 2 anos-M,0
+Oruro,41101,Eucaliptus,2007,2,< de 2 anos-M,1
+Oruro,40701,Huanuni,2007,2,< de 2 anos-M,2
+La Paz,21005,Ichoca,2007,2,< de 2 anos-M,4
+La Paz,21001,Inquisivi,2007,2,< de 2 anos-M,1
+Potosí,50203,Llallagua,2007,2,< de 2 anos-M,2
+Oruro,40702,Machacamarca,2007,2,< de 2 anos-M,0
+Oruro,40101,Oruro,2007,2,< de 2 anos-M,26
+Oruro,40601,Poopo,2007,2,< de 2 anos-M,2
+Pando,90301,Puerto Gonzalo Moreno,2007,2,< de 2 anos-M,0
+Oruro,40901,Sabaya,2007,2,< de 2 anos-M,2
+Cochabamba,30404,Sacabamba,2007,2,< de 2 anos-M,1
+Oruro,40801,Salinas De Garci Mendoza,2007,2,< de 2 anos-M,2
+Beni,80102,San Javier(bni),2007,2,< de 2 anos-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,2,< de 2 anos-M,3
+Oruro,40104,Soracachi,2007,2,< de 2 anos-M,2
+Chuquisaca,10101,Sucre,2007,2,< de 2 anos-M,0
+Tarija,60101,Tarija,2007,2,< de 2 anos-M,30
+Cochabamba,30803,Tolata,2007,2,< de 2 anos-M,1
+Oruro,41001,Toledo,2007,2,< de 2 anos-M,0
+Potosí,50502,Toro Toro,2007,2,< de 2 anos-M,2
+Oruro,41301,Totora(orr),2007,2,< de 2 anos-M,1
+Oruro,40402,Turco,2007,2,< de 2 anos-M,10
+Tarija,60301,Yacuiba,2007,2,< de 2 anos-M,10
+Oruro,41201,Andamarca,2007,3,< de 2 anos-M,8
+Cochabamba,30402,Anzaldo,2007,3,< de 2 anos-M,2
+Cochabamba,30403,Arbieto,2007,3,< de 2 anos-M,0
+Oruro,41202,Belen De Andamarca,2007,3,< de 2 anos-M,0
+Tarija,60202,Bermejo,2007,3,< de 2 anos-M,0
+Santa Cruz,70401,Buena Vista,2007,3,< de 2 anos-M,1
+Santa Cruz,70706,Camiri,2007,3,< de 2 anos-M,0
+Oruro,40201,Challapata,2007,3,< de 2 anos-M,32
+Oruro,40903,Chipaya,2007,3,< de 2 anos-M,0
+Oruro,40301,Corque,2007,3,< de 2 anos-M,7
+Santa Cruz,70102,Cotoca,2007,3,< de 2 anos-M,0
+Oruro,40401,Curahuara De Carangas,2007,3,< de 2 anos-M,2
+Tarija,60502,El Puente(tja),2007,3,< de 2 anos-M,0
+Oruro,40505,Esmeralda,2007,3,< de 2 anos-M,0
+Oruro,40701,Huanuni,2007,3,< de 2 anos-M,2
+La Paz,21005,Ichoca,2007,3,< de 2 anos-M,0
+La Paz,21001,Inquisivi,2007,3,< de 2 anos-M,15
+Santa Cruz,70104,La Guardia,2007,3,< de 2 anos-M,10
+Potosí,50203,Llallagua,2007,3,< de 2 anos-M,3
+Oruro,40101,Oruro,2007,3,< de 2 anos-M,41
+Potosí,50403,Pocoata,2007,3,< de 2 anos-M,5
+Oruro,40601,Poopo,2007,3,< de 2 anos-M,1
+Chuquisaca,10302,Presto,2007,3,< de 2 anos-M,8
+Cochabamba,30901,Quillacollo,2007,3,< de 2 anos-M,1
+Oruro,40901,Sabaya,2007,3,< de 2 anos-M,0
+Oruro,40801,Salinas De Garci Mendoza,2007,3,< de 2 anos-M,11
+Cochabamba,31403,San Benito,2007,3,< de 2 anos-M,3
+Beni,80501,San Ignacio,2007,3,< de 2 anos-M,0
+Chuquisaca,10702,San Lucas,2007,3,< de 2 anos-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,< de 2 anos-M,37
+Beni,80303,Santa Rosa,2007,3,< de 2 anos-M,7
+Oruro,40104,Soracachi,2007,3,< de 2 anos-M,7
+Chuquisaca,10101,Sucre,2007,3,< de 2 anos-M,2
+Tarija,60101,Tarija,2007,3,< de 2 anos-M,23
+Cochabamba,30802,Toco,2007,3,< de 2 anos-M,0
+Cochabamba,30803,Tolata,2007,3,< de 2 anos-M,1
+Oruro,41001,Toledo,2007,3,< de 2 anos-M,1
+Potosí,50502,Toro Toro,2007,3,< de 2 anos-M,10
+Oruro,41301,Totora(orr),2007,3,< de 2 anos-M,0
+Oruro,40402,Turco,2007,3,< de 2 anos-M,2
+Cochabamba,31402,Villa Rivero,2007,3,< de 2 anos-M,1
+Tarija,60301,Yacuiba,2007,3,< de 2 anos-M,8
+Oruro,41201,Andamarca,2007,4,< de 2 anos-M,3
+Cochabamba,30402,Anzaldo,2007,4,< de 2 anos-M,5
+Cochabamba,30403,Arbieto,2007,4,< de 2 anos-M,0
+Oruro,41202,Belen De Andamarca,2007,4,< de 2 anos-M,2
+La Paz,21003,Cajuata,2007,4,< de 2 anos-M,0
+Cochabamba,30701,Capinota,2007,4,< de 2 anos-M,0
+Oruro,40201,Challapata,2007,4,< de 2 anos-M,29
+Oruro,40302,Choque Cota,2007,4,< de 2 anos-M,0
+Oruro,40301,Corque,2007,4,< de 2 anos-M,10
+Santa Cruz,70102,Cotoca,2007,4,< de 2 anos-M,12
+Oruro,40401,Curahuara De Carangas,2007,4,< de 2 anos-M,0
+Santa Cruz,70105,El Torno,2007,4,< de 2 anos-M,1
+Oruro,40505,Esmeralda,2007,4,< de 2 anos-M,1
+Oruro,40701,Huanuni,2007,4,< de 2 anos-M,0
+La Paz,21005,Ichoca,2007,4,< de 2 anos-M,2
+La Paz,21001,Inquisivi,2007,4,< de 2 anos-M,7
+Santa Cruz,70104,La Guardia,2007,4,< de 2 anos-M,20
+Potosí,50203,Llallagua,2007,4,< de 2 anos-M,1
+Oruro,40101,Oruro,2007,4,< de 2 anos-M,41
+Potosí,50403,Pocoata,2007,4,< de 2 anos-M,8
+Oruro,40601,Poopo,2007,4,< de 2 anos-M,5
+Potosí,51203,Porco,2007,4,< de 2 anos-M,3
+Chuquisaca,10302,Presto,2007,4,< de 2 anos-M,4
+Beni,80304,Rurrenabaque,2007,4,< de 2 anos-M,0
+Oruro,40901,Sabaya,2007,4,< de 2 anos-M,3
+Oruro,40801,Salinas De Garci Mendoza,2007,4,< de 2 anos-M,4
+Beni,80302,San Borja,2007,4,< de 2 anos-M,0
+Chuquisaca,10702,San Lucas,2007,4,< de 2 anos-M,9
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,< de 2 anos-M,9
+Oruro,40104,Soracachi,2007,4,< de 2 anos-M,0
+Tarija,60101,Tarija,2007,4,< de 2 anos-M,9
+Cochabamba,31601,Tiraque (cbba),2007,4,< de 2 anos-M,0
+Oruro,41301,Totora(orr),2007,4,< de 2 anos-M,1
+Oruro,40402,Turco,2007,4,< de 2 anos-M,4
+Cochabamba,31003,Villa Tunari,2007,4,< de 2 anos-M,1
+Tarija,60301,Yacuiba,2007,4,< de 2 anos-M,9
+Santa Cruz,70403,Yapacani,2007,4,< de 2 anos-M,3
+Cochabamba,31303,Alalay,2007,5,< de 2 anos-M,0
+Oruro,41201,Andamarca,2007,5,< de 2 anos-M,8
+Cochabamba,30402,Anzaldo,2007,5,< de 2 anos-M,0
+Cochabamba,30403,Arbieto,2007,5,< de 2 anos-M,1
+Oruro,41202,Belen De Andamarca,2007,5,< de 2 anos-M,0
+Potosí,50301,Betanzos,2007,5,< de 2 anos-M,0
+Oruro,40201,Challapata,2007,5,< de 2 anos-M,33
+Oruro,40302,Choque Cota,2007,5,< de 2 anos-M,0
+Oruro,40301,Corque,2007,5,< de 2 anos-M,13
+Santa Cruz,70102,Cotoca,2007,5,< de 2 anos-M,7
+Oruro,40401,Curahuara De Carangas,2007,5,< de 2 anos-M,5
+Oruro,40103,El Choro,2007,5,< de 2 anos-M,0
+Santa Cruz,70105,El Torno,2007,5,< de 2 anos-M,6
+Oruro,40505,Esmeralda,2007,5,< de 2 anos-M,2
+Beni,80402,Exaltacion,2007,5,< de 2 anos-M,0
+Oruro,40501,Huachacalla,2007,5,< de 2 anos-M,0
+Oruro,40701,Huanuni,2007,5,< de 2 anos-M,4
+La Paz,21005,Ichoca,2007,5,< de 2 anos-M,3
+La Paz,21001,Inquisivi,2007,5,< de 2 anos-M,4
+Santa Cruz,70104,La Guardia,2007,5,< de 2 anos-M,17
+Potosí,50203,Llallagua,2007,5,< de 2 anos-M,2
+Oruro,40702,Machacamarca,2007,5,< de 2 anos-M,0
+Oruro,40101,Oruro,2007,5,< de 2 anos-M,47
+Tarija,60201,Padcaya,2007,5,< de 2 anos-M,0
+Potosí,50403,Pocoata,2007,5,< de 2 anos-M,8
+Cochabamba,31202,Pojo (cbba),2007,5,< de 2 anos-M,0
+Oruro,40601,Poopo,2007,5,< de 2 anos-M,0
+Santa Cruz,70103,Porongo,2007,5,< de 2 anos-M,0
+Chuquisaca,10302,Presto,2007,5,< de 2 anos-M,6
+Beni,80304,Rurrenabaque,2007,5,< de 2 anos-M,2
+Oruro,40901,Sabaya,2007,5,< de 2 anos-M,2
+Cochabamba,30404,Sacabamba,2007,5,< de 2 anos-M,1
+Oruro,40801,Salinas De Garci Mendoza,2007,5,< de 2 anos-M,15
+Beni,80602,San Andres,2007,5,< de 2 anos-M,0
+Santa Cruz,71104,San Julian,2007,5,< de 2 anos-M,2
+Tarija,60501,San Lorenzo(tja),2007,5,< de 2 anos-M,1
+Chuquisaca,10702,San Lucas,2007,5,< de 2 anos-M,4
+Beni,80401,Santa Ana,2007,5,< de 2 anos-M,10
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,< de 2 anos-M,8
+Oruro,41401,Santiago De Huari,2007,5,< de 2 anos-M,0
+Pando,90303,Sena,2007,5,< de 2 anos-M,4
+Cochabamba,31101,Tapacari,2007,5,< de 2 anos-M,7
+Tarija,60101,Tarija,2007,5,< de 2 anos-M,1
+Oruro,41001,Toledo,2007,5,< de 2 anos-M,2
+Potosí,50502,Toro Toro,2007,5,< de 2 anos-M,8
+Oruro,41301,Totora(orr),2007,5,< de 2 anos-M,0
+Beni,80101,Trinidad,2007,5,< de 2 anos-M,2
+Oruro,40402,Turco,2007,5,< de 2 anos-M,0
+Cochabamba,31402,Villa Rivero,2007,5,< de 2 anos-M,0
+Tarija,60301,Yacuiba,2007,5,< de 2 anos-M,4
+Cochabamba,31303,Alalay,2007,6,< de 2 anos-M,0
+Oruro,41201,Andamarca,2007,6,< de 2 anos-M,6
+Cochabamba,30402,Anzaldo,2007,6,< de 2 anos-M,0
+Cochabamba,30501,Arani,2007,6,< de 2 anos-M,3
+Cochabamba,30403,Arbieto,2007,6,< de 2 anos-M,0
+Oruro,40102,Caracollo,2007,6,< de 2 anos-M,0
+Oruro,40201,Challapata,2007,6,< de 2 anos-M,29
+Oruro,40302,Choque Cota,2007,6,< de 2 anos-M,0
+La Paz,21004,Colquiri,2007,6,< de 2 anos-M,5
+Oruro,40301,Corque,2007,6,< de 2 anos-M,6
+Santa Cruz,70102,Cotoca,2007,6,< de 2 anos-M,5
+Oruro,40401,Curahuara De Carangas,2007,6,< de 2 anos-M,6
+Oruro,40103,El Choro,2007,6,< de 2 anos-M,1
+Santa Cruz,70105,El Torno,2007,6,< de 2 anos-M,1
+Oruro,40501,Huachacalla,2007,6,< de 2 anos-M,2
+Oruro,40701,Huanuni,2007,6,< de 2 anos-M,2
+La Paz,21005,Ichoca,2007,6,< de 2 anos-M,6
+La Paz,21001,Inquisivi,2007,6,< de 2 anos-M,22
+Santa Cruz,70104,La Guardia,2007,6,< de 2 anos-M,13
+Potosí,50203,Llallagua,2007,6,< de 2 anos-M,0
+Oruro,40702,Machacamarca,2007,6,< de 2 anos-M,0
+Oruro,40101,Oruro,2007,6,< de 2 anos-M,47
+Oruro,40602,Pazña,2007,6,< de 2 anos-M,1
+Potosí,50403,Pocoata,2007,6,< de 2 anos-M,6
+Oruro,40601,Poopo,2007,6,< de 2 anos-M,1
+Chuquisaca,10302,Presto,2007,6,< de 2 anos-M,6
+Santa Cruz,70503,Robore,2007,6,< de 2 anos-M,1
+Beni,80304,Rurrenabaque,2007,6,< de 2 anos-M,4
+Oruro,40901,Sabaya,2007,6,< de 2 anos-M,6
+Cochabamba,30404,Sacabamba,2007,6,< de 2 anos-M,2
+Potosí,50701,Sacaca,2007,6,< de 2 anos-M,3
+Oruro,40801,Salinas De Garci Mendoza,2007,6,< de 2 anos-M,5
+Beni,80602,San Andres,2007,6,< de 2 anos-M,1
+Cochabamba,31403,San Benito,2007,6,< de 2 anos-M,6
+Chuquisaca,10702,San Lucas,2007,6,< de 2 anos-M,7
+Santa Cruz,71201,San Matias,2007,6,< de 2 anos-M,1
+Beni,80401,Santa Ana,2007,6,< de 2 anos-M,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,6,< de 2 anos-M,1
+Beni,80303,Santa Rosa,2007,6,< de 2 anos-M,2
+Oruro,40104,Soracachi,2007,6,< de 2 anos-M,8
+Chuquisaca,10101,Sucre,2007,6,< de 2 anos-M,1
+Cochabamba,31101,Tapacari,2007,6,< de 2 anos-M,10
+Cochabamba,30401,Tarata,2007,6,< de 2 anos-M,1
+Cochabamba,30802,Toco,2007,6,< de 2 anos-M,0
+Oruro,41001,Toledo,2007,6,< de 2 anos-M,1
+Potosí,50502,Toro Toro,2007,6,< de 2 anos-M,30
+Oruro,41301,Totora(orr),2007,6,< de 2 anos-M,0
+Beni,80101,Trinidad,2007,6,< de 2 anos-M,11
+Oruro,40402,Turco,2007,6,< de 2 anos-M,2
+Cochabamba,31402,Villa Rivero,2007,6,< de 2 anos-M,0
+Tarija,60301,Yacuiba,2007,6,< de 2 anos-M,2
+Chuquisaca,10102,Yotala,2007,6,< de 2 anos-M,6
+Cochabamba,30201,Aiquile,2007,7,< de 2 anos-M,1
+Cochabamba,31303,Alalay,2007,7,< de 2 anos-M,0
+Oruro,41201,Andamarca,2007,7,< de 2 anos-M,1
+Cochabamba,30402,Anzaldo,2007,7,< de 2 anos-M,1
+Cochabamba,30403,Arbieto,2007,7,< de 2 anos-M,2
+Oruro,41202,Belen De Andamarca,2007,7,< de 2 anos-M,0
+Tarija,60202,Bermejo,2007,7,< de 2 anos-M,1
+Potosí,50301,Betanzos,2007,7,< de 2 anos-M,2
+Santa Cruz,70703,Cabezas,2007,7,< de 2 anos-M,0
+Oruro,40201,Challapata,2007,7,< de 2 anos-M,27
+Oruro,40302,Choque Cota,2007,7,< de 2 anos-M,0
+La Paz,21004,Colquiri,2007,7,< de 2 anos-M,6
+Santa Cruz,71301,Comarapa,2007,7,< de 2 anos-M,0
+Oruro,40301,Corque,2007,7,< de 2 anos-M,7
+Santa Cruz,70102,Cotoca,2007,7,< de 2 anos-M,4
+Oruro,40401,Curahuara De Carangas,2007,7,< de 2 anos-M,3
+Oruro,40103,El Choro,2007,7,< de 2 anos-M,0
+Santa Cruz,70105,El Torno,2007,7,< de 2 anos-M,12
+Tarija,60601,Entre Rios,2007,7,< de 2 anos-M,0
+Oruro,40501,Huachacalla,2007,7,< de 2 anos-M,1
+Oruro,40701,Huanuni,2007,7,< de 2 anos-M,1
+La Paz,21005,Ichoca,2007,7,< de 2 anos-M,2
+La Paz,21001,Inquisivi,2007,7,< de 2 anos-M,22
+Santa Cruz,70104,La Guardia,2007,7,< de 2 anos-M,15
+Santa Cruz,70701,Lagunillas,2007,7,< de 2 anos-M,1
+La Paz,21006,Licoma Pampa,2007,7,< de 2 anos-M,0
+Oruro,40702,Machacamarca,2007,7,< de 2 anos-M,2
+Oruro,40101,Oruro,2007,7,< de 2 anos-M,73
+Oruro,40802,Pampa Aullagas,2007,7,< de 2 anos-M,4
+Oruro,40602,Pazña,2007,7,< de 2 anos-M,0
+Potosí,50403,Pocoata,2007,7,< de 2 anos-M,8
+Potosí,51203,Porco,2007,7,< de 2 anos-M,2
+Chuquisaca,10302,Presto,2007,7,< de 2 anos-M,7
+Beni,80201,Riberalta,2007,7,< de 2 anos-M,0
+Oruro,40801,Salinas De Garci Mendoza,2007,7,< de 2 anos-M,0
+Cochabamba,31403,San Benito,2007,7,< de 2 anos-M,0
+Beni,80501,San Ignacio,2007,7,< de 2 anos-M,0
+Chuquisaca,10702,San Lucas,2007,7,< de 2 anos-M,6
+Beni,80401,Santa Ana,2007,7,< de 2 anos-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,7,< de 2 anos-M,8
+Beni,80303,Santa Rosa,2007,7,< de 2 anos-M,1
+Oruro,40104,Soracachi,2007,7,< de 2 anos-M,3
+Cochabamba,31101,Tapacari,2007,7,< de 2 anos-M,5
+Cochabamba,30401,Tarata,2007,7,< de 2 anos-M,1
+Tarija,60101,Tarija,2007,7,< de 2 anos-M,0
+Oruro,41001,Toledo,2007,7,< de 2 anos-M,3
+Potosí,50502,Toro Toro,2007,7,< de 2 anos-M,7
+Oruro,41301,Totora(orr),2007,7,< de 2 anos-M,0
+Oruro,40402,Turco,2007,7,< de 2 anos-M,4
+La Paz,20801,Viacha,2007,7,< de 2 anos-M,1
+Cochabamba,31003,Villa Tunari,2007,7,< de 2 anos-M,1
+Tarija,60301,Yacuiba,2007,7,< de 2 anos-M,2
+Potosí,51302,Acacio,2007,8,< de 2 anos-M,1
+Cochabamba,31303,Alalay,2007,8,< de 2 anos-M,0
+Oruro,41201,Andamarca,2007,8,< de 2 anos-M,12
+Cochabamba,30403,Arbieto,2007,8,< de 2 anos-M,0
+Santa Cruz,71501,Ascencion De Guarayos,2007,8,< de 2 anos-M,25
+Potosí,50301,Betanzos,2007,8,< de 2 anos-M,5
+Oruro,40201,Challapata,2007,8,< de 2 anos-M,35
+Oruro,40302,Choque Cota,2007,8,< de 2 anos-M,0
+Oruro,40902,Coipasa,2007,8,< de 2 anos-M,0
+La Paz,21004,Colquiri,2007,8,< de 2 anos-M,22
+Oruro,40301,Corque,2007,8,< de 2 anos-M,10
+Santa Cruz,70102,Cotoca,2007,8,< de 2 anos-M,14
+Oruro,40401,Curahuara De Carangas,2007,8,< de 2 anos-M,9
+La Paz,21602,Curva,2007,8,< de 2 anos-M,0
+Oruro,40103,El Choro,2007,8,< de 2 anos-M,2
+Santa Cruz,70105,El Torno,2007,8,< de 2 anos-M,6
+Tarija,60601,Entre Rios,2007,8,< de 2 anos-M,1
+Oruro,40501,Huachacalla,2007,8,< de 2 anos-M,0
+Oruro,40701,Huanuni,2007,8,< de 2 anos-M,6
+Oruro,41601,Huayllamarca,2007,8,< de 2 anos-M,1
+La Paz,21001,Inquisivi,2007,8,< de 2 anos-M,12
+Santa Cruz,70104,La Guardia,2007,8,< de 2 anos-M,17
+Beni,80601,Loreto,2007,8,< de 2 anos-M,2
+Oruro,40101,Oruro,2007,8,< de 2 anos-M,125
+Tarija,60201,Padcaya,2007,8,< de 2 anos-M,0
+Oruro,40802,Pampa Aullagas,2007,8,< de 2 anos-M,6
+Oruro,40602,Pazña,2007,8,< de 2 anos-M,3
+Potosí,50403,Pocoata,2007,8,< de 2 anos-M,9
+Oruro,40601,Poopo,2007,8,< de 2 anos-M,1
+Potosí,51203,Porco,2007,8,< de 2 anos-M,6
+Potosí,50101,Potosi,2007,8,< de 2 anos-M,0
+Chuquisaca,10302,Presto,2007,8,< de 2 anos-M,6
+Potosí,51101,Puna,2007,8,< de 2 anos-M,0
+Cochabamba,30901,Quillacollo,2007,8,< de 2 anos-M,1
+Beni,80201,Riberalta,2007,8,< de 2 anos-M,1
+Beni,80304,Rurrenabaque,2007,8,< de 2 anos-M,4
+Potosí,50701,Sacaca,2007,8,< de 2 anos-M,5
+Oruro,40801,Salinas De Garci Mendoza,2007,8,< de 2 anos-M,2
+Beni,80602,San Andres,2007,8,< de 2 anos-M,15
+Beni,80501,San Ignacio,2007,8,< de 2 anos-M,7
+Beni,80102,San Javier(bni),2007,8,< de 2 anos-M,1
+Chuquisaca,10702,San Lucas,2007,8,< de 2 anos-M,3
+Beni,80401,Santa Ana,2007,8,< de 2 anos-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,8,< de 2 anos-M,3
+Beni,80303,Santa Rosa,2007,8,< de 2 anos-M,4
+Oruro,41401,Santiago De Huari,2007,8,< de 2 anos-M,2
+Oruro,40104,Soracachi,2007,8,< de 2 anos-M,1
+Chuquisaca,10101,Sucre,2007,8,< de 2 anos-M,0
+Cochabamba,30903,Tiquipaya,2007,8,< de 2 anos-M,0
+Cochabamba,30803,Tolata,2007,8,< de 2 anos-M,1
+Oruro,41001,Toledo,2007,8,< de 2 anos-M,2
+Potosí,50502,Toro Toro,2007,8,< de 2 anos-M,26
+Oruro,41301,Totora(orr),2007,8,< de 2 anos-M,2
+Beni,80101,Trinidad,2007,8,< de 2 anos-M,11
+Oruro,40402,Turco,2007,8,< de 2 anos-M,6
+La Paz,20801,Viacha,2007,8,< de 2 anos-M,0
+Cochabamba,31402,Villa Rivero,2007,8,< de 2 anos-M,0
+Tarija,60301,Yacuiba,2007,8,< de 2 anos-M,4
+Chuquisaca,10102,Yotala,2007,8,< de 2 anos-M,42
+Tarija,60402,Yunchara,2007,8,< de 2 anos-M,0
+Chuquisaca,10301,Zudañez,2007,8,< de 2 anos-M,1
+Cochabamba,31303,Alalay,2007,9,< de 2 anos-M,0
+Oruro,41201,Andamarca,2007,9,< de 2 anos-M,5
+Cochabamba,30403,Arbieto,2007,9,< de 2 anos-M,1
+Oruro,41202,Belen De Andamarca,2007,9,< de 2 anos-M,1
+Potosí,50301,Betanzos,2007,9,< de 2 anos-M,5
+Santa Cruz,70703,Cabezas,2007,9,< de 2 anos-M,0
+Oruro,40201,Challapata,2007,9,< de 2 anos-M,33
+Oruro,40302,Choque Cota,2007,9,< de 2 anos-M,1
+La Paz,21004,Colquiri,2007,9,< de 2 anos-M,25
+Oruro,40301,Corque,2007,9,< de 2 anos-M,11
+Potosí,50601,Cotagaita,2007,9,< de 2 anos-M,12
+Santa Cruz,70102,Cotoca,2007,9,< de 2 anos-M,7
+Oruro,40401,Curahuara De Carangas,2007,9,< de 2 anos-M,0
+La Paz,21602,Curva,2007,9,< de 2 anos-M,2
+Santa Cruz,70105,El Torno,2007,9,< de 2 anos-M,4
+Oruro,41101,Eucaliptus,2007,9,< de 2 anos-M,2
+Oruro,40501,Huachacalla,2007,9,< de 2 anos-M,1
+Oruro,40701,Huanuni,2007,9,< de 2 anos-M,6
+Oruro,41601,Huayllamarca,2007,9,< de 2 anos-M,0
+La Paz,21001,Inquisivi,2007,9,< de 2 anos-M,18
+Santa Cruz,70104,La Guardia,2007,9,< de 2 anos-M,19
+Chuquisaca,10303,Mojocoya,2007,9,< de 2 anos-M,0
+Oruro,40101,Oruro,2007,9,< de 2 anos-M,69
+La Paz,20102,Palca,2007,9,< de 2 anos-M,0
+Oruro,40602,Pazña,2007,9,< de 2 anos-M,2
+Potosí,50403,Pocoata,2007,9,< de 2 anos-M,4
+Cochabamba,31203,Pocona,2007,9,< de 2 anos-M,2
+Potosí,51203,Porco,2007,9,< de 2 anos-M,3
+Potosí,50101,Potosi,2007,9,< de 2 anos-M,1
+Chuquisaca,10302,Presto,2007,9,< de 2 anos-M,2
+Beni,80301,Reyes,2007,9,< de 2 anos-M,0
+Beni,80201,Riberalta,2007,9,< de 2 anos-M,34
+Santa Cruz,70503,Robore,2007,9,< de 2 anos-M,0
+Beni,80304,Rurrenabaque,2007,9,< de 2 anos-M,0
+Oruro,40901,Sabaya,2007,9,< de 2 anos-M,1
+Potosí,50701,Sacaca,2007,9,< de 2 anos-M,12
+Oruro,40801,Salinas De Garci Mendoza,2007,9,< de 2 anos-M,6
+Beni,80602,San Andres,2007,9,< de 2 anos-M,3
+Cochabamba,31403,San Benito,2007,9,< de 2 anos-M,1
+Beni,80501,San Ignacio,2007,9,< de 2 anos-M,3
+Beni,80102,San Javier(bni),2007,9,< de 2 anos-M,0
+Chuquisaca,10702,San Lucas,2007,9,< de 2 anos-M,0
+Beni,80401,Santa Ana,2007,9,< de 2 anos-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,9,< de 2 anos-M,2
+Beni,80303,Santa Rosa,2007,9,< de 2 anos-M,1
+Oruro,41401,Santiago De Huari,2007,9,< de 2 anos-M,1
+Oruro,40104,Soracachi,2007,9,< de 2 anos-M,2
+Chuquisaca,10101,Sucre,2007,9,< de 2 anos-M,0
+Cochabamba,31101,Tapacari,2007,9,< de 2 anos-M,9
+Cochabamba,30802,Toco,2007,9,< de 2 anos-M,0
+Oruro,41001,Toledo,2007,9,< de 2 anos-M,12
+Potosí,50502,Toro Toro,2007,9,< de 2 anos-M,33
+Oruro,41301,Totora(orr),2007,9,< de 2 anos-M,2
+Beni,80101,Trinidad,2007,9,< de 2 anos-M,18
+Oruro,40402,Turco,2007,9,< de 2 anos-M,3
+Cochabamba,31003,Villa Tunari,2007,9,< de 2 anos-M,0
+Tarija,60301,Yacuiba,2007,9,< de 2 anos-M,3
+Chuquisaca,10102,Yotala,2007,9,< de 2 anos-M,23
+Tarija,60402,Yunchara,2007,9,< de 2 anos-M,0
+Chuquisaca,10301,Zudañez,2007,9,< de 2 anos-M,2
+La Paz,20104,Achocalla,2007,10,< de 2 anos-M,4
+Oruro,41201,Andamarca,2007,10,< de 2 anos-M,8
+Cochabamba,30403,Arbieto,2007,10,< de 2 anos-M,1
+Oruro,41202,Belen De Andamarca,2007,10,< de 2 anos-M,1
+Potosí,50301,Betanzos,2007,10,< de 2 anos-M,5
+Santa Cruz,70703,Cabezas,2007,10,< de 2 anos-M,0
+Cochabamba,30701,Capinota,2007,10,< de 2 anos-M,2
+Oruro,40102,Caracollo,2007,10,< de 2 anos-M,2
+Oruro,40201,Challapata,2007,10,< de 2 anos-M,54
+La Paz,21004,Colquiri,2007,10,< de 2 anos-M,16
+Oruro,40301,Corque,2007,10,< de 2 anos-M,12
+Potosí,50601,Cotagaita,2007,10,< de 2 anos-M,12
+Santa Cruz,70102,Cotoca,2007,10,< de 2 anos-M,6
+Oruro,40401,Curahuara De Carangas,2007,10,< de 2 anos-M,7
+Oruro,40103,El Choro,2007,10,< de 2 anos-M,2
+Santa Cruz,70105,El Torno,2007,10,< de 2 anos-M,5
+Oruro,41101,Eucaliptus,2007,10,< de 2 anos-M,13
+Beni,80402,Exaltacion,2007,10,< de 2 anos-M,1
+Oruro,40501,Huachacalla,2007,10,< de 2 anos-M,3
+Oruro,40701,Huanuni,2007,10,< de 2 anos-M,26
+Oruro,41601,Huayllamarca,2007,10,< de 2 anos-M,0
+La Paz,21001,Inquisivi,2007,10,< de 2 anos-M,6
+Santa Cruz,70104,La Guardia,2007,10,< de 2 anos-M,31
+Oruro,41501,La Rivera,2007,10,< de 2 anos-M,1
+La Paz,21006,Licoma Pampa,2007,10,< de 2 anos-M,1
+Beni,80601,Loreto,2007,10,< de 2 anos-M,0
+Oruro,40702,Machacamarca,2007,10,< de 2 anos-M,0
+La Paz,20103,Mecapaca,2007,10,< de 2 anos-M,0
+Oruro,40101,Oruro,2007,10,< de 2 anos-M,82
+Oruro,40802,Pampa Aullagas,2007,10,< de 2 anos-M,11
+Oruro,40602,Pazña,2007,10,< de 2 anos-M,2
+Oruro,40601,Poopo,2007,10,< de 2 anos-M,2
+Potosí,51203,Porco,2007,10,< de 2 anos-M,0
+Potosí,50101,Potosi,2007,10,< de 2 anos-M,0
+Chuquisaca,10302,Presto,2007,10,< de 2 anos-M,2
+Cochabamba,31205,Puerto Villarroel,2007,10,< de 2 anos-M,1
+Beni,80201,Riberalta,2007,10,< de 2 anos-M,33
+Santa Cruz,70503,Robore,2007,10,< de 2 anos-M,0
+Beni,80304,Rurrenabaque,2007,10,< de 2 anos-M,0
+Potosí,50701,Sacaca,2007,10,< de 2 anos-M,10
+Oruro,40801,Salinas De Garci Mendoza,2007,10,< de 2 anos-M,5
+Beni,80602,San Andres,2007,10,< de 2 anos-M,1
+Cochabamba,31403,San Benito,2007,10,< de 2 anos-M,2
+Beni,80501,San Ignacio,2007,10,< de 2 anos-M,6
+Chuquisaca,10702,San Lucas,2007,10,< de 2 anos-M,2
+Santa Cruz,71201,San Matias,2007,10,< de 2 anos-M,0
+Beni,80401,Santa Ana,2007,10,< de 2 anos-M,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,10,< de 2 anos-M,0
+Beni,80303,Santa Rosa,2007,10,< de 2 anos-M,2
+Oruro,41401,Santiago De Huari,2007,10,< de 2 anos-M,1
+Oruro,40104,Soracachi,2007,10,< de 2 anos-M,6
+Cochabamba,30401,Tarata,2007,10,< de 2 anos-M,1
+Cochabamba,30802,Toco,2007,10,< de 2 anos-M,2
+Cochabamba,30803,Tolata,2007,10,< de 2 anos-M,1
+Oruro,41001,Toledo,2007,10,< de 2 anos-M,4
+Potosí,50502,Toro Toro,2007,10,< de 2 anos-M,27
+Cochabamba,31201,Totora(cbba),2007,10,< de 2 anos-M,0
+Beni,80101,Trinidad,2007,10,< de 2 anos-M,23
+Oruro,40402,Turco,2007,10,< de 2 anos-M,5
+Cochabamba,31302,Vila Vila,2007,10,< de 2 anos-M,1
+Cochabamba,31402,Villa Rivero,2007,10,< de 2 anos-M,1
+Tarija,60301,Yacuiba,2007,10,< de 2 anos-M,5
+Chuquisaca,10102,Yotala,2007,10,< de 2 anos-M,20
+Chuquisaca,10301,Zudañez,2007,10,< de 2 anos-M,0
+La Paz,20104,Achocalla,2007,11,< de 2 anos-M,0
+Oruro,41201,Andamarca,2007,11,< de 2 anos-M,11
+Cochabamba,30402,Anzaldo,2007,11,< de 2 anos-M,1
+Oruro,41202,Belen De Andamarca,2007,11,< de 2 anos-M,0
+Potosí,50301,Betanzos,2007,11,< de 2 anos-M,8
+Cochabamba,30701,Capinota,2007,11,< de 2 anos-M,3
+Oruro,40201,Challapata,2007,11,< de 2 anos-M,40
+La Paz,21004,Colquiri,2007,11,< de 2 anos-M,13
+Oruro,40301,Corque,2007,11,< de 2 anos-M,13
+Potosí,50601,Cotagaita,2007,11,< de 2 anos-M,3
+Santa Cruz,70102,Cotoca,2007,11,< de 2 anos-M,10
+Oruro,40401,Curahuara De Carangas,2007,11,< de 2 anos-M,19
+Oruro,40103,El Choro,2007,11,< de 2 anos-M,2
+Santa Cruz,70105,El Torno,2007,11,< de 2 anos-M,4
+Tarija,60601,Entre Rios,2007,11,< de 2 anos-M,0
+Oruro,41101,Eucaliptus,2007,11,< de 2 anos-M,1
+Beni,80402,Exaltacion,2007,11,< de 2 anos-M,0
+Oruro,40501,Huachacalla,2007,11,< de 2 anos-M,2
+Oruro,40701,Huanuni,2007,11,< de 2 anos-M,14
+Oruro,41601,Huayllamarca,2007,11,< de 2 anos-M,0
+La Paz,21001,Inquisivi,2007,11,< de 2 anos-M,6
+Santa Cruz,70104,La Guardia,2007,11,< de 2 anos-M,9
+Beni,80601,Loreto,2007,11,< de 2 anos-M,0
+Oruro,40101,Oruro,2007,11,< de 2 anos-M,51
+Tarija,60201,Padcaya,2007,11,< de 2 anos-M,1
+Oruro,40802,Pampa Aullagas,2007,11,< de 2 anos-M,6
+Oruro,40602,Pazña,2007,11,< de 2 anos-M,4
+Oruro,40601,Poopo,2007,11,< de 2 anos-M,0
+Chuquisaca,10302,Presto,2007,11,< de 2 anos-M,3
+Cochabamba,31205,Puerto Villarroel,2007,11,< de 2 anos-M,0
+Beni,80301,Reyes,2007,11,< de 2 anos-M,1
+Beni,80201,Riberalta,2007,11,< de 2 anos-M,24
+Beni,80304,Rurrenabaque,2007,11,< de 2 anos-M,1
+Potosí,50701,Sacaca,2007,11,< de 2 anos-M,7
+Oruro,40801,Salinas De Garci Mendoza,2007,11,< de 2 anos-M,4
+Beni,80501,San Ignacio,2007,11,< de 2 anos-M,1
+Santa Cruz,70301,San Ignacio De Velasco,2007,11,< de 2 anos-M,1
+Santa Cruz,71201,San Matias,2007,11,< de 2 anos-M,2
+Beni,80401,Santa Ana,2007,11,< de 2 anos-M,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,< de 2 anos-M,0
+Beni,80303,Santa Rosa,2007,11,< de 2 anos-M,1
+Oruro,40104,Soracachi,2007,11,< de 2 anos-M,1
+Chuquisaca,10101,Sucre,2007,11,< de 2 anos-M,1
+Cochabamba,30602,Tacopaya,2007,11,< de 2 anos-M,10
+Cochabamba,30401,Tarata,2007,11,< de 2 anos-M,2
+Cochabamba,30802,Toco,2007,11,< de 2 anos-M,0
+Cochabamba,30803,Tolata,2007,11,< de 2 anos-M,1
+Oruro,41001,Toledo,2007,11,< de 2 anos-M,1
+Potosí,50502,Toro Toro,2007,11,< de 2 anos-M,12
+Beni,80101,Trinidad,2007,11,< de 2 anos-M,7
+Oruro,40402,Turco,2007,11,< de 2 anos-M,3
+Cochabamba,31402,Villa Rivero,2007,11,< de 2 anos-M,2
+Tarija,60301,Yacuiba,2007,11,< de 2 anos-M,1
+Chuquisaca,10102,Yotala,2007,11,< de 2 anos-M,20
+Chuquisaca,10301,Zudañez,2007,11,< de 2 anos-M,1
+La Paz,20104,Achocalla,2007,12,< de 2 anos-M,2
+Cochabamba,31303,Alalay,2007,12,< de 2 anos-M,1
+Oruro,41201,Andamarca,2007,12,< de 2 anos-M,7
+Santa Cruz,71501,Ascencion De Guarayos,2007,12,< de 2 anos-M,20
+Oruro,41202,Belen De Andamarca,2007,12,< de 2 anos-M,1
+Potosí,50301,Betanzos,2007,12,< de 2 anos-M,9
+Cochabamba,30701,Capinota,2007,12,< de 2 anos-M,1
+Oruro,40102,Caracollo,2007,12,< de 2 anos-M,5
+Oruro,40201,Challapata,2007,12,< de 2 anos-M,35
+La Paz,21004,Colquiri,2007,12,< de 2 anos-M,23
+Oruro,40301,Corque,2007,12,< de 2 anos-M,17
+Potosí,50601,Cotagaita,2007,12,< de 2 anos-M,8
+Santa Cruz,70102,Cotoca,2007,12,< de 2 anos-M,7
+Oruro,40401,Curahuara De Carangas,2007,12,< de 2 anos-M,6
+Oruro,40103,El Choro,2007,12,< de 2 anos-M,0
+Santa Cruz,70105,El Torno,2007,12,< de 2 anos-M,4
+Oruro,41101,Eucaliptus,2007,12,< de 2 anos-M,6
+Oruro,40501,Huachacalla,2007,12,< de 2 anos-M,3
+Oruro,40701,Huanuni,2007,12,< de 2 anos-M,7
+La Paz,21001,Inquisivi,2007,12,< de 2 anos-M,4
+Santa Cruz,70104,La Guardia,2007,12,< de 2 anos-M,16
+Beni,80601,Loreto,2007,12,< de 2 anos-M,0
+Oruro,40702,Machacamarca,2007,12,< de 2 anos-M,0
+Oruro,40101,Oruro,2007,12,< de 2 anos-M,24
+Oruro,40802,Pampa Aullagas,2007,12,< de 2 anos-M,5
+Oruro,40602,Pazña,2007,12,< de 2 anos-M,3
+Oruro,40601,Poopo,2007,12,< de 2 anos-M,0
+Potosí,51203,Porco,2007,12,< de 2 anos-M,1
+Chuquisaca,10302,Presto,2007,12,< de 2 anos-M,0
+Santa Cruz,71402,Puerto Quijarro,2007,12,< de 2 anos-M,0
+Beni,80301,Reyes,2007,12,< de 2 anos-M,0
+Beni,80201,Riberalta,2007,12,< de 2 anos-M,26
+Santa Cruz,70503,Robore,2007,12,< de 2 anos-M,2
+Beni,80304,Rurrenabaque,2007,12,< de 2 anos-M,4
+Cochabamba,30404,Sacabamba,2007,12,< de 2 anos-M,0
+Oruro,40801,Salinas De Garci Mendoza,2007,12,< de 2 anos-M,10
+Beni,80602,San Andres,2007,12,< de 2 anos-M,0
+Beni,80501,San Ignacio,2007,12,< de 2 anos-M,2
+Santa Cruz,70301,San Ignacio De Velasco,2007,12,< de 2 anos-M,1
+Chuquisaca,10702,San Lucas,2007,12,< de 2 anos-M,4
+Santa Cruz,71201,San Matias,2007,12,< de 2 anos-M,1
+Beni,80401,Santa Ana,2007,12,< de 2 anos-M,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,< de 2 anos-M,2
+Beni,80303,Santa Rosa,2007,12,< de 2 anos-M,3
+Oruro,41401,Santiago De Huari,2007,12,< de 2 anos-M,5
+Oruro,40104,Soracachi,2007,12,< de 2 anos-M,2
+Chuquisaca,10101,Sucre,2007,12,< de 2 anos-M,0
+Cochabamba,30602,Tacopaya,2007,12,< de 2 anos-M,6
+Chuquisaca,10601,Tarabuco,2007,12,< de 2 anos-M,4
+Cochabamba,30401,Tarata,2007,12,< de 2 anos-M,0
+Cochabamba,30802,Toco,2007,12,< de 2 anos-M,1
+Oruro,41001,Toledo,2007,12,< de 2 anos-M,5
+Potosí,50502,Toro Toro,2007,12,< de 2 anos-M,21
+Cochabamba,31201,Totora(cbba),2007,12,< de 2 anos-M,2
+Oruro,41301,Totora(orr),2007,12,< de 2 anos-M,1
+Beni,80101,Trinidad,2007,12,< de 2 anos-M,7
+Oruro,40402,Turco,2007,12,< de 2 anos-M,0
+Cochabamba,31003,Villa Tunari,2007,12,< de 2 anos-M,3
+Tarija,60301,Yacuiba,2007,12,< de 2 anos-M,5
+Chuquisaca,10102,Yotala,2007,12,< de 2 anos-M,22
+Tarija,60402,Yunchara,2007,12,< de 2 anos-M,0
+Cochabamba,30403,Arbieto,2007,1,2 a 4 anos-H,0
+Oruro,41202,Belen De Andamarca,2007,1,2 a 4 anos-H,0
+Oruro,40201,Challapata,2007,1,2 a 4 anos-H,18
+Oruro,40302,Choque Cota,2007,1,2 a 4 anos-H,2
+La Paz,21004,Colquiri,2007,1,2 a 4 anos-H,7
+Oruro,40301,Corque,2007,1,2 a 4 anos-H,3
+Oruro,40401,Curahuara De Carangas,2007,1,2 a 4 anos-H,5
+Oruro,41101,Eucaliptus,2007,1,2 a 4 anos-H,5
+La Paz,21005,Ichoca,2007,1,2 a 4 anos-H,0
+La Paz,21001,Inquisivi,2007,1,2 a 4 anos-H,15
+Santa Cruz,70104,La Guardia,2007,1,2 a 4 anos-H,3
+Potosí,50203,Llallagua,2007,1,2 a 4 anos-H,1
+Cochabamba,30302,Morochata,2007,1,2 a 4 anos-H,0
+Oruro,40101,Oruro,2007,1,2 a 4 anos-H,13
+Oruro,40601,Poopo,2007,1,2 a 4 anos-H,7
+Beni,80301,Reyes,2007,1,2 a 4 anos-H,4
+Beni,80304,Rurrenabaque,2007,1,2 a 4 anos-H,0
+Oruro,40901,Sabaya,2007,1,2 a 4 anos-H,1
+Oruro,40801,Salinas De Garci Mendoza,2007,1,2 a 4 anos-H,9
+Beni,80602,San Andres,2007,1,2 a 4 anos-H,4
+Beni,80102,San Javier(bni),2007,1,2 a 4 anos-H,1
+Tarija,60501,San Lorenzo(tja),2007,1,2 a 4 anos-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,1,2 a 4 anos-H,3
+Oruro,40104,Soracachi,2007,1,2 a 4 anos-H,2
+Chuquisaca,10101,Sucre,2007,1,2 a 4 anos-H,0
+Cochabamba,30401,Tarata,2007,1,2 a 4 anos-H,0
+Tarija,60101,Tarija,2007,1,2 a 4 anos-H,31
+Cochabamba,30803,Tolata,2007,1,2 a 4 anos-H,1
+Potosí,50502,Toro Toro,2007,1,2 a 4 anos-H,0
+Oruro,41301,Totora(orr),2007,1,2 a 4 anos-H,10
+Beni,80101,Trinidad,2007,1,2 a 4 anos-H,2
+Oruro,40402,Turco,2007,1,2 a 4 anos-H,3
+Cochabamba,31003,Villa Tunari,2007,1,2 a 4 anos-H,0
+Tarija,60301,Yacuiba,2007,1,2 a 4 anos-H,3
+Oruro,41201,Andamarca,2007,2,2 a 4 anos-H,3
+Cochabamba,30402,Anzaldo,2007,2,2 a 4 anos-H,2
+Santa Cruz,71501,Ascencion De Guarayos,2007,2,2 a 4 anos-H,1
+Oruro,41202,Belen De Andamarca,2007,2,2 a 4 anos-H,0
+Oruro,40201,Challapata,2007,2,2 a 4 anos-H,10
+Oruro,40903,Chipaya,2007,2,2 a 4 anos-H,0
+Oruro,40302,Choque Cota,2007,2,2 a 4 anos-H,1
+Oruro,40902,Coipasa,2007,2,2 a 4 anos-H,0
+Potosí,50401,Colquechaca,2007,2,2 a 4 anos-H,0
+La Paz,21004,Colquiri,2007,2,2 a 4 anos-H,4
+Oruro,40301,Corque,2007,2,2 a 4 anos-H,4
+Oruro,40401,Curahuara De Carangas,2007,2,2 a 4 anos-H,0
+Oruro,40103,El Choro,2007,2,2 a 4 anos-H,0
+Oruro,41101,Eucaliptus,2007,2,2 a 4 anos-H,0
+Oruro,40701,Huanuni,2007,2,2 a 4 anos-H,0
+La Paz,21005,Ichoca,2007,2,2 a 4 anos-H,0
+La Paz,21001,Inquisivi,2007,2,2 a 4 anos-H,8
+Potosí,50203,Llallagua,2007,2,2 a 4 anos-H,1
+Oruro,40702,Machacamarca,2007,2,2 a 4 anos-H,4
+Oruro,40101,Oruro,2007,2,2 a 4 anos-H,15
+Oruro,40601,Poopo,2007,2,2 a 4 anos-H,2
+Pando,90301,Puerto Gonzalo Moreno,2007,2,2 a 4 anos-H,0
+Oruro,40901,Sabaya,2007,2,2 a 4 anos-H,1
+Cochabamba,30404,Sacabamba,2007,2,2 a 4 anos-H,0
+Oruro,40801,Salinas De Garci Mendoza,2007,2,2 a 4 anos-H,2
+Beni,80102,San Javier(bni),2007,2,2 a 4 anos-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,2,2 a 4 anos-H,1
+Oruro,40104,Soracachi,2007,2,2 a 4 anos-H,1
+Chuquisaca,10101,Sucre,2007,2,2 a 4 anos-H,1
+Tarija,60101,Tarija,2007,2,2 a 4 anos-H,44
+Cochabamba,30803,Tolata,2007,2,2 a 4 anos-H,0
+Oruro,41001,Toledo,2007,2,2 a 4 anos-H,0
+Potosí,50502,Toro Toro,2007,2,2 a 4 anos-H,4
+Oruro,41301,Totora(orr),2007,2,2 a 4 anos-H,2
+Oruro,40402,Turco,2007,2,2 a 4 anos-H,5
+Tarija,60301,Yacuiba,2007,2,2 a 4 anos-H,3
+Oruro,41201,Andamarca,2007,3,2 a 4 anos-H,13
+Cochabamba,30402,Anzaldo,2007,3,2 a 4 anos-H,5
+Cochabamba,30403,Arbieto,2007,3,2 a 4 anos-H,1
+Oruro,41202,Belen De Andamarca,2007,3,2 a 4 anos-H,0
+Tarija,60202,Bermejo,2007,3,2 a 4 anos-H,0
+Santa Cruz,70401,Buena Vista,2007,3,2 a 4 anos-H,0
+Santa Cruz,70706,Camiri,2007,3,2 a 4 anos-H,5
+Oruro,40201,Challapata,2007,3,2 a 4 anos-H,20
+Oruro,40903,Chipaya,2007,3,2 a 4 anos-H,0
+Oruro,40301,Corque,2007,3,2 a 4 anos-H,9
+Santa Cruz,70102,Cotoca,2007,3,2 a 4 anos-H,1
+Oruro,40401,Curahuara De Carangas,2007,3,2 a 4 anos-H,6
+Tarija,60502,El Puente(tja),2007,3,2 a 4 anos-H,1
+Oruro,40505,Esmeralda,2007,3,2 a 4 anos-H,0
+Oruro,40701,Huanuni,2007,3,2 a 4 anos-H,1
+La Paz,21005,Ichoca,2007,3,2 a 4 anos-H,0
+La Paz,21001,Inquisivi,2007,3,2 a 4 anos-H,26
+Santa Cruz,70104,La Guardia,2007,3,2 a 4 anos-H,7
+Potosí,50203,Llallagua,2007,3,2 a 4 anos-H,1
+Oruro,40101,Oruro,2007,3,2 a 4 anos-H,34
+Potosí,50403,Pocoata,2007,3,2 a 4 anos-H,1
+Oruro,40601,Poopo,2007,3,2 a 4 anos-H,1
+Chuquisaca,10302,Presto,2007,3,2 a 4 anos-H,2
+Cochabamba,30901,Quillacollo,2007,3,2 a 4 anos-H,0
+Oruro,40901,Sabaya,2007,3,2 a 4 anos-H,2
+Oruro,40801,Salinas De Garci Mendoza,2007,3,2 a 4 anos-H,14
+Cochabamba,31403,San Benito,2007,3,2 a 4 anos-H,2
+Beni,80501,San Ignacio,2007,3,2 a 4 anos-H,0
+Chuquisaca,10702,San Lucas,2007,3,2 a 4 anos-H,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,2 a 4 anos-H,30
+Beni,80303,Santa Rosa,2007,3,2 a 4 anos-H,0
+Oruro,40104,Soracachi,2007,3,2 a 4 anos-H,12
+Chuquisaca,10101,Sucre,2007,3,2 a 4 anos-H,0
+Tarija,60101,Tarija,2007,3,2 a 4 anos-H,32
+Cochabamba,30802,Toco,2007,3,2 a 4 anos-H,3
+Cochabamba,30803,Tolata,2007,3,2 a 4 anos-H,0
+Oruro,41001,Toledo,2007,3,2 a 4 anos-H,1
+Potosí,50502,Toro Toro,2007,3,2 a 4 anos-H,16
+Oruro,41301,Totora(orr),2007,3,2 a 4 anos-H,2
+Oruro,40402,Turco,2007,3,2 a 4 anos-H,17
+Cochabamba,31402,Villa Rivero,2007,3,2 a 4 anos-H,2
+Tarija,60301,Yacuiba,2007,3,2 a 4 anos-H,5
+Oruro,41201,Andamarca,2007,4,2 a 4 anos-H,9
+Cochabamba,30402,Anzaldo,2007,4,2 a 4 anos-H,0
+Cochabamba,30403,Arbieto,2007,4,2 a 4 anos-H,2
+Oruro,41202,Belen De Andamarca,2007,4,2 a 4 anos-H,0
+La Paz,21003,Cajuata,2007,4,2 a 4 anos-H,2
+Cochabamba,30701,Capinota,2007,4,2 a 4 anos-H,0
+Oruro,40201,Challapata,2007,4,2 a 4 anos-H,16
+Oruro,40302,Choque Cota,2007,4,2 a 4 anos-H,0
+Oruro,40301,Corque,2007,4,2 a 4 anos-H,6
+Santa Cruz,70102,Cotoca,2007,4,2 a 4 anos-H,1
+Oruro,40401,Curahuara De Carangas,2007,4,2 a 4 anos-H,1
+Santa Cruz,70105,El Torno,2007,4,2 a 4 anos-H,6
+Oruro,40505,Esmeralda,2007,4,2 a 4 anos-H,0
+Oruro,40701,Huanuni,2007,4,2 a 4 anos-H,0
+La Paz,21005,Ichoca,2007,4,2 a 4 anos-H,0
+La Paz,21001,Inquisivi,2007,4,2 a 4 anos-H,14
+Santa Cruz,70104,La Guardia,2007,4,2 a 4 anos-H,13
+Potosí,50203,Llallagua,2007,4,2 a 4 anos-H,0
+Oruro,40101,Oruro,2007,4,2 a 4 anos-H,33
+Potosí,50403,Pocoata,2007,4,2 a 4 anos-H,0
+Oruro,40601,Poopo,2007,4,2 a 4 anos-H,2
+Potosí,51203,Porco,2007,4,2 a 4 anos-H,2
+Chuquisaca,10302,Presto,2007,4,2 a 4 anos-H,5
+Beni,80304,Rurrenabaque,2007,4,2 a 4 anos-H,1
+Oruro,40901,Sabaya,2007,4,2 a 4 anos-H,0
+Oruro,40801,Salinas De Garci Mendoza,2007,4,2 a 4 anos-H,5
+Beni,80302,San Borja,2007,4,2 a 4 anos-H,0
+Chuquisaca,10702,San Lucas,2007,4,2 a 4 anos-H,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,2 a 4 anos-H,4
+Oruro,40104,Soracachi,2007,4,2 a 4 anos-H,2
+Tarija,60101,Tarija,2007,4,2 a 4 anos-H,9
+Cochabamba,31601,Tiraque (cbba),2007,4,2 a 4 anos-H,0
+Oruro,41301,Totora(orr),2007,4,2 a 4 anos-H,1
+Oruro,40402,Turco,2007,4,2 a 4 anos-H,10
+Cochabamba,31003,Villa Tunari,2007,4,2 a 4 anos-H,0
+Tarija,60301,Yacuiba,2007,4,2 a 4 anos-H,1
+Santa Cruz,70403,Yapacani,2007,4,2 a 4 anos-H,0
+Cochabamba,31303,Alalay,2007,5,2 a 4 anos-H,0
+Oruro,41201,Andamarca,2007,5,2 a 4 anos-H,13
+Cochabamba,30402,Anzaldo,2007,5,2 a 4 anos-H,1
+Cochabamba,30403,Arbieto,2007,5,2 a 4 anos-H,1
+Oruro,41202,Belen De Andamarca,2007,5,2 a 4 anos-H,0
+Potosí,50301,Betanzos,2007,5,2 a 4 anos-H,2
+Oruro,40201,Challapata,2007,5,2 a 4 anos-H,17
+Oruro,40302,Choque Cota,2007,5,2 a 4 anos-H,0
+Oruro,40301,Corque,2007,5,2 a 4 anos-H,14
+Santa Cruz,70102,Cotoca,2007,5,2 a 4 anos-H,3
+Oruro,40401,Curahuara De Carangas,2007,5,2 a 4 anos-H,7
+Oruro,40103,El Choro,2007,5,2 a 4 anos-H,0
+Santa Cruz,70105,El Torno,2007,5,2 a 4 anos-H,14
+Oruro,40505,Esmeralda,2007,5,2 a 4 anos-H,0
+Beni,80402,Exaltacion,2007,5,2 a 4 anos-H,0
+Oruro,40501,Huachacalla,2007,5,2 a 4 anos-H,4
+Oruro,40701,Huanuni,2007,5,2 a 4 anos-H,5
+La Paz,21005,Ichoca,2007,5,2 a 4 anos-H,0
+La Paz,21001,Inquisivi,2007,5,2 a 4 anos-H,6
+Santa Cruz,70104,La Guardia,2007,5,2 a 4 anos-H,8
+Potosí,50203,Llallagua,2007,5,2 a 4 anos-H,1
+Oruro,40702,Machacamarca,2007,5,2 a 4 anos-H,1
+Oruro,40101,Oruro,2007,5,2 a 4 anos-H,55
+Tarija,60201,Padcaya,2007,5,2 a 4 anos-H,1
+Potosí,50403,Pocoata,2007,5,2 a 4 anos-H,0
+Cochabamba,31202,Pojo (cbba),2007,5,2 a 4 anos-H,1
+Oruro,40601,Poopo,2007,5,2 a 4 anos-H,1
+Santa Cruz,70103,Porongo,2007,5,2 a 4 anos-H,0
+Chuquisaca,10302,Presto,2007,5,2 a 4 anos-H,8
+Beni,80304,Rurrenabaque,2007,5,2 a 4 anos-H,0
+Oruro,40901,Sabaya,2007,5,2 a 4 anos-H,3
+Cochabamba,30404,Sacabamba,2007,5,2 a 4 anos-H,0
+Oruro,40801,Salinas De Garci Mendoza,2007,5,2 a 4 anos-H,13
+Beni,80602,San Andres,2007,5,2 a 4 anos-H,0
+Santa Cruz,71104,San Julian,2007,5,2 a 4 anos-H,0
+Tarija,60501,San Lorenzo(tja),2007,5,2 a 4 anos-H,0
+Chuquisaca,10702,San Lucas,2007,5,2 a 4 anos-H,5
+Beni,80401,Santa Ana,2007,5,2 a 4 anos-H,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,2 a 4 anos-H,2
+Oruro,41401,Santiago De Huari,2007,5,2 a 4 anos-H,0
+Pando,90303,Sena,2007,5,2 a 4 anos-H,2
+Cochabamba,31101,Tapacari,2007,5,2 a 4 anos-H,4
+Tarija,60101,Tarija,2007,5,2 a 4 anos-H,1
+Oruro,41001,Toledo,2007,5,2 a 4 anos-H,0
+Potosí,50502,Toro Toro,2007,5,2 a 4 anos-H,6
+Oruro,41301,Totora(orr),2007,5,2 a 4 anos-H,1
+Beni,80101,Trinidad,2007,5,2 a 4 anos-H,1
+Oruro,40402,Turco,2007,5,2 a 4 anos-H,2
+Cochabamba,31402,Villa Rivero,2007,5,2 a 4 anos-H,1
+Tarija,60301,Yacuiba,2007,5,2 a 4 anos-H,0
+Cochabamba,31303,Alalay,2007,6,2 a 4 anos-H,0
+Oruro,41201,Andamarca,2007,6,2 a 4 anos-H,16
+Cochabamba,30402,Anzaldo,2007,6,2 a 4 anos-H,0
+Cochabamba,30501,Arani,2007,6,2 a 4 anos-H,0
+Cochabamba,30403,Arbieto,2007,6,2 a 4 anos-H,0
+Oruro,40102,Caracollo,2007,6,2 a 4 anos-H,0
+Oruro,40201,Challapata,2007,6,2 a 4 anos-H,42
+Oruro,40302,Choque Cota,2007,6,2 a 4 anos-H,0
+La Paz,21004,Colquiri,2007,6,2 a 4 anos-H,5
+Oruro,40301,Corque,2007,6,2 a 4 anos-H,9
+Santa Cruz,70102,Cotoca,2007,6,2 a 4 anos-H,2
+Oruro,40401,Curahuara De Carangas,2007,6,2 a 4 anos-H,10
+Oruro,40103,El Choro,2007,6,2 a 4 anos-H,2
+Santa Cruz,70105,El Torno,2007,6,2 a 4 anos-H,10
+Oruro,40501,Huachacalla,2007,6,2 a 4 anos-H,2
+Oruro,40701,Huanuni,2007,6,2 a 4 anos-H,2
+La Paz,21005,Ichoca,2007,6,2 a 4 anos-H,7
+La Paz,21001,Inquisivi,2007,6,2 a 4 anos-H,15
+Santa Cruz,70104,La Guardia,2007,6,2 a 4 anos-H,9
+Potosí,50203,Llallagua,2007,6,2 a 4 anos-H,1
+Oruro,40702,Machacamarca,2007,6,2 a 4 anos-H,0
+Oruro,40101,Oruro,2007,6,2 a 4 anos-H,35
+Oruro,40602,Pazña,2007,6,2 a 4 anos-H,1
+Potosí,50403,Pocoata,2007,6,2 a 4 anos-H,1
+Oruro,40601,Poopo,2007,6,2 a 4 anos-H,0
+Chuquisaca,10302,Presto,2007,6,2 a 4 anos-H,3
+Santa Cruz,70503,Robore,2007,6,2 a 4 anos-H,0
+Beni,80304,Rurrenabaque,2007,6,2 a 4 anos-H,2
+Oruro,40901,Sabaya,2007,6,2 a 4 anos-H,1
+Cochabamba,30404,Sacabamba,2007,6,2 a 4 anos-H,1
+Potosí,50701,Sacaca,2007,6,2 a 4 anos-H,2
+Oruro,40801,Salinas De Garci Mendoza,2007,6,2 a 4 anos-H,13
+Beni,80602,San Andres,2007,6,2 a 4 anos-H,0
+Cochabamba,31403,San Benito,2007,6,2 a 4 anos-H,10
+Chuquisaca,10702,San Lucas,2007,6,2 a 4 anos-H,11
+Santa Cruz,71201,San Matias,2007,6,2 a 4 anos-H,1
+Beni,80401,Santa Ana,2007,6,2 a 4 anos-H,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,6,2 a 4 anos-H,0
+Beni,80303,Santa Rosa,2007,6,2 a 4 anos-H,2
+Oruro,40104,Soracachi,2007,6,2 a 4 anos-H,6
+Chuquisaca,10101,Sucre,2007,6,2 a 4 anos-H,0
+Cochabamba,31101,Tapacari,2007,6,2 a 4 anos-H,3
+Cochabamba,30401,Tarata,2007,6,2 a 4 anos-H,0
+Cochabamba,30802,Toco,2007,6,2 a 4 anos-H,3
+Oruro,41001,Toledo,2007,6,2 a 4 anos-H,0
+Potosí,50502,Toro Toro,2007,6,2 a 4 anos-H,37
+Oruro,41301,Totora(orr),2007,6,2 a 4 anos-H,1
+Beni,80101,Trinidad,2007,6,2 a 4 anos-H,3
+Oruro,40402,Turco,2007,6,2 a 4 anos-H,12
+Cochabamba,31402,Villa Rivero,2007,6,2 a 4 anos-H,0
+Tarija,60301,Yacuiba,2007,6,2 a 4 anos-H,2
+Chuquisaca,10102,Yotala,2007,6,2 a 4 anos-H,9
+Cochabamba,30201,Aiquile,2007,7,2 a 4 anos-H,0
+Cochabamba,31303,Alalay,2007,7,2 a 4 anos-H,1
+Oruro,41201,Andamarca,2007,7,2 a 4 anos-H,2
+Cochabamba,30402,Anzaldo,2007,7,2 a 4 anos-H,0
+Cochabamba,30403,Arbieto,2007,7,2 a 4 anos-H,1
+Oruro,41202,Belen De Andamarca,2007,7,2 a 4 anos-H,0
+Tarija,60202,Bermejo,2007,7,2 a 4 anos-H,0
+Potosí,50301,Betanzos,2007,7,2 a 4 anos-H,11
+Santa Cruz,70703,Cabezas,2007,7,2 a 4 anos-H,1
+Oruro,40201,Challapata,2007,7,2 a 4 anos-H,39
+Oruro,40302,Choque Cota,2007,7,2 a 4 anos-H,0
+La Paz,21004,Colquiri,2007,7,2 a 4 anos-H,12
+Santa Cruz,71301,Comarapa,2007,7,2 a 4 anos-H,1
+Oruro,40301,Corque,2007,7,2 a 4 anos-H,3
+Santa Cruz,70102,Cotoca,2007,7,2 a 4 anos-H,1
+Oruro,40401,Curahuara De Carangas,2007,7,2 a 4 anos-H,5
+Oruro,40103,El Choro,2007,7,2 a 4 anos-H,1
+Santa Cruz,70105,El Torno,2007,7,2 a 4 anos-H,6
+Tarija,60601,Entre Rios,2007,7,2 a 4 anos-H,0
+Oruro,40501,Huachacalla,2007,7,2 a 4 anos-H,0
+Oruro,40701,Huanuni,2007,7,2 a 4 anos-H,0
+La Paz,21005,Ichoca,2007,7,2 a 4 anos-H,0
+La Paz,21001,Inquisivi,2007,7,2 a 4 anos-H,35
+Santa Cruz,70104,La Guardia,2007,7,2 a 4 anos-H,6
+Santa Cruz,70701,Lagunillas,2007,7,2 a 4 anos-H,0
+La Paz,21006,Licoma Pampa,2007,7,2 a 4 anos-H,1
+Oruro,40702,Machacamarca,2007,7,2 a 4 anos-H,1
+Oruro,40101,Oruro,2007,7,2 a 4 anos-H,55
+Oruro,40802,Pampa Aullagas,2007,7,2 a 4 anos-H,1
+Oruro,40602,Pazña,2007,7,2 a 4 anos-H,3
+Potosí,50403,Pocoata,2007,7,2 a 4 anos-H,6
+Potosí,51203,Porco,2007,7,2 a 4 anos-H,1
+Chuquisaca,10302,Presto,2007,7,2 a 4 anos-H,4
+Beni,80201,Riberalta,2007,7,2 a 4 anos-H,1
+Oruro,40801,Salinas De Garci Mendoza,2007,7,2 a 4 anos-H,4
+Cochabamba,31403,San Benito,2007,7,2 a 4 anos-H,3
+Beni,80501,San Ignacio,2007,7,2 a 4 anos-H,0
+Chuquisaca,10702,San Lucas,2007,7,2 a 4 anos-H,2
+Beni,80401,Santa Ana,2007,7,2 a 4 anos-H,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,7,2 a 4 anos-H,2
+Beni,80303,Santa Rosa,2007,7,2 a 4 anos-H,1
+Oruro,40104,Soracachi,2007,7,2 a 4 anos-H,6
+Cochabamba,31101,Tapacari,2007,7,2 a 4 anos-H,3
+Cochabamba,30401,Tarata,2007,7,2 a 4 anos-H,0
+Tarija,60101,Tarija,2007,7,2 a 4 anos-H,0
+Oruro,41001,Toledo,2007,7,2 a 4 anos-H,0
+Potosí,50502,Toro Toro,2007,7,2 a 4 anos-H,9
+Oruro,41301,Totora(orr),2007,7,2 a 4 anos-H,3
+Oruro,40402,Turco,2007,7,2 a 4 anos-H,7
+La Paz,20801,Viacha,2007,7,2 a 4 anos-H,0
+Cochabamba,31003,Villa Tunari,2007,7,2 a 4 anos-H,1
+Tarija,60301,Yacuiba,2007,7,2 a 4 anos-H,7
+Potosí,51302,Acacio,2007,8,2 a 4 anos-H,0
+Cochabamba,31303,Alalay,2007,8,2 a 4 anos-H,0
+Oruro,41201,Andamarca,2007,8,2 a 4 anos-H,29
+Cochabamba,30403,Arbieto,2007,8,2 a 4 anos-H,0
+Santa Cruz,71501,Ascencion De Guarayos,2007,8,2 a 4 anos-H,7
+Potosí,50301,Betanzos,2007,8,2 a 4 anos-H,13
+Oruro,40201,Challapata,2007,8,2 a 4 anos-H,38
+Oruro,40302,Choque Cota,2007,8,2 a 4 anos-H,0
+Oruro,40902,Coipasa,2007,8,2 a 4 anos-H,0
+La Paz,21004,Colquiri,2007,8,2 a 4 anos-H,32
+Oruro,40301,Corque,2007,8,2 a 4 anos-H,16
+Santa Cruz,70102,Cotoca,2007,8,2 a 4 anos-H,9
+Oruro,40401,Curahuara De Carangas,2007,8,2 a 4 anos-H,12
+La Paz,21602,Curva,2007,8,2 a 4 anos-H,12
+Oruro,40103,El Choro,2007,8,2 a 4 anos-H,2
+Santa Cruz,70105,El Torno,2007,8,2 a 4 anos-H,8
+Tarija,60601,Entre Rios,2007,8,2 a 4 anos-H,1
+Oruro,40501,Huachacalla,2007,8,2 a 4 anos-H,3
+Oruro,40701,Huanuni,2007,8,2 a 4 anos-H,8
+Oruro,41601,Huayllamarca,2007,8,2 a 4 anos-H,3
+La Paz,21001,Inquisivi,2007,8,2 a 4 anos-H,14
+Santa Cruz,70104,La Guardia,2007,8,2 a 4 anos-H,11
+Beni,80601,Loreto,2007,8,2 a 4 anos-H,2
+Oruro,40101,Oruro,2007,8,2 a 4 anos-H,84
+Tarija,60201,Padcaya,2007,8,2 a 4 anos-H,0
+Oruro,40802,Pampa Aullagas,2007,8,2 a 4 anos-H,8
+Oruro,40602,Pazña,2007,8,2 a 4 anos-H,2
+Potosí,50403,Pocoata,2007,8,2 a 4 anos-H,1
+Oruro,40601,Poopo,2007,8,2 a 4 anos-H,1
+Potosí,51203,Porco,2007,8,2 a 4 anos-H,0
+Potosí,50101,Potosi,2007,8,2 a 4 anos-H,0
+Chuquisaca,10302,Presto,2007,8,2 a 4 anos-H,2
+Potosí,51101,Puna,2007,8,2 a 4 anos-H,0
+Cochabamba,30901,Quillacollo,2007,8,2 a 4 anos-H,0
+Beni,80201,Riberalta,2007,8,2 a 4 anos-H,0
+Beni,80304,Rurrenabaque,2007,8,2 a 4 anos-H,0
+Potosí,50701,Sacaca,2007,8,2 a 4 anos-H,4
+Oruro,40801,Salinas De Garci Mendoza,2007,8,2 a 4 anos-H,10
+Beni,80602,San Andres,2007,8,2 a 4 anos-H,1
+Beni,80501,San Ignacio,2007,8,2 a 4 anos-H,4
+Beni,80102,San Javier(bni),2007,8,2 a 4 anos-H,1
+Chuquisaca,10702,San Lucas,2007,8,2 a 4 anos-H,2
+Beni,80401,Santa Ana,2007,8,2 a 4 anos-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,8,2 a 4 anos-H,9
+Beni,80303,Santa Rosa,2007,8,2 a 4 anos-H,1
+Oruro,41401,Santiago De Huari,2007,8,2 a 4 anos-H,1
+Oruro,40104,Soracachi,2007,8,2 a 4 anos-H,14
+Chuquisaca,10101,Sucre,2007,8,2 a 4 anos-H,0
+Cochabamba,30903,Tiquipaya,2007,8,2 a 4 anos-H,0
+Cochabamba,30803,Tolata,2007,8,2 a 4 anos-H,0
+Oruro,41001,Toledo,2007,8,2 a 4 anos-H,4
+Potosí,50502,Toro Toro,2007,8,2 a 4 anos-H,25
+Oruro,41301,Totora(orr),2007,8,2 a 4 anos-H,2
+Beni,80101,Trinidad,2007,8,2 a 4 anos-H,3
+Oruro,40402,Turco,2007,8,2 a 4 anos-H,8
+La Paz,20801,Viacha,2007,8,2 a 4 anos-H,0
+Cochabamba,31402,Villa Rivero,2007,8,2 a 4 anos-H,0
+Tarija,60301,Yacuiba,2007,8,2 a 4 anos-H,4
+Chuquisaca,10102,Yotala,2007,8,2 a 4 anos-H,59
+Tarija,60402,Yunchara,2007,8,2 a 4 anos-H,2
+Chuquisaca,10301,Zudañez,2007,8,2 a 4 anos-H,3
+Cochabamba,31303,Alalay,2007,9,2 a 4 anos-H,0
+Oruro,41201,Andamarca,2007,9,2 a 4 anos-H,13
+Cochabamba,30403,Arbieto,2007,9,2 a 4 anos-H,0
+Oruro,41202,Belen De Andamarca,2007,9,2 a 4 anos-H,0
+Potosí,50301,Betanzos,2007,9,2 a 4 anos-H,12
+Santa Cruz,70703,Cabezas,2007,9,2 a 4 anos-H,0
+Oruro,40201,Challapata,2007,9,2 a 4 anos-H,43
+Oruro,40302,Choque Cota,2007,9,2 a 4 anos-H,0
+La Paz,21004,Colquiri,2007,9,2 a 4 anos-H,41
+Oruro,40301,Corque,2007,9,2 a 4 anos-H,11
+Potosí,50601,Cotagaita,2007,9,2 a 4 anos-H,21
+Santa Cruz,70102,Cotoca,2007,9,2 a 4 anos-H,8
+Oruro,40401,Curahuara De Carangas,2007,9,2 a 4 anos-H,1
+La Paz,21602,Curva,2007,9,2 a 4 anos-H,5
+Santa Cruz,70105,El Torno,2007,9,2 a 4 anos-H,8
+Oruro,41101,Eucaliptus,2007,9,2 a 4 anos-H,3
+Oruro,40501,Huachacalla,2007,9,2 a 4 anos-H,1
+Oruro,40701,Huanuni,2007,9,2 a 4 anos-H,5
+Oruro,41601,Huayllamarca,2007,9,2 a 4 anos-H,3
+La Paz,21001,Inquisivi,2007,9,2 a 4 anos-H,47
+Santa Cruz,70104,La Guardia,2007,9,2 a 4 anos-H,11
+Chuquisaca,10303,Mojocoya,2007,9,2 a 4 anos-H,0
+Oruro,40101,Oruro,2007,9,2 a 4 anos-H,52
+La Paz,20102,Palca,2007,9,2 a 4 anos-H,0
+Oruro,40602,Pazña,2007,9,2 a 4 anos-H,1
+Potosí,50403,Pocoata,2007,9,2 a 4 anos-H,3
+Cochabamba,31203,Pocona,2007,9,2 a 4 anos-H,0
+Potosí,51203,Porco,2007,9,2 a 4 anos-H,1
+Potosí,50101,Potosi,2007,9,2 a 4 anos-H,0
+Chuquisaca,10302,Presto,2007,9,2 a 4 anos-H,3
+Beni,80301,Reyes,2007,9,2 a 4 anos-H,2
+Beni,80201,Riberalta,2007,9,2 a 4 anos-H,11
+Santa Cruz,70503,Robore,2007,9,2 a 4 anos-H,1
+Beni,80304,Rurrenabaque,2007,9,2 a 4 anos-H,1
+Oruro,40901,Sabaya,2007,9,2 a 4 anos-H,0
+Potosí,50701,Sacaca,2007,9,2 a 4 anos-H,10
+Oruro,40801,Salinas De Garci Mendoza,2007,9,2 a 4 anos-H,13
+Beni,80602,San Andres,2007,9,2 a 4 anos-H,0
+Cochabamba,31403,San Benito,2007,9,2 a 4 anos-H,0
+Beni,80501,San Ignacio,2007,9,2 a 4 anos-H,1
+Beni,80102,San Javier(bni),2007,9,2 a 4 anos-H,0
+Chuquisaca,10702,San Lucas,2007,9,2 a 4 anos-H,0
+Beni,80401,Santa Ana,2007,9,2 a 4 anos-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,9,2 a 4 anos-H,0
+Beni,80303,Santa Rosa,2007,9,2 a 4 anos-H,0
+Oruro,41401,Santiago De Huari,2007,9,2 a 4 anos-H,3
+Oruro,40104,Soracachi,2007,9,2 a 4 anos-H,1
+Chuquisaca,10101,Sucre,2007,9,2 a 4 anos-H,0
+Cochabamba,31101,Tapacari,2007,9,2 a 4 anos-H,3
+Cochabamba,30802,Toco,2007,9,2 a 4 anos-H,1
+Oruro,41001,Toledo,2007,9,2 a 4 anos-H,1
+Potosí,50502,Toro Toro,2007,9,2 a 4 anos-H,50
+Oruro,41301,Totora(orr),2007,9,2 a 4 anos-H,1
+Beni,80101,Trinidad,2007,9,2 a 4 anos-H,5
+Oruro,40402,Turco,2007,9,2 a 4 anos-H,12
+Cochabamba,31003,Villa Tunari,2007,9,2 a 4 anos-H,0
+Tarija,60301,Yacuiba,2007,9,2 a 4 anos-H,5
+Chuquisaca,10102,Yotala,2007,9,2 a 4 anos-H,53
+Tarija,60402,Yunchara,2007,9,2 a 4 anos-H,1
+Chuquisaca,10301,Zudañez,2007,9,2 a 4 anos-H,2
+La Paz,20104,Achocalla,2007,10,2 a 4 anos-H,2
+Oruro,41201,Andamarca,2007,10,2 a 4 anos-H,19
+Cochabamba,30403,Arbieto,2007,10,2 a 4 anos-H,2
+Oruro,41202,Belen De Andamarca,2007,10,2 a 4 anos-H,0
+Potosí,50301,Betanzos,2007,10,2 a 4 anos-H,18
+Santa Cruz,70703,Cabezas,2007,10,2 a 4 anos-H,0
+Cochabamba,30701,Capinota,2007,10,2 a 4 anos-H,0
+Oruro,40102,Caracollo,2007,10,2 a 4 anos-H,0
+Oruro,40201,Challapata,2007,10,2 a 4 anos-H,55
+La Paz,21004,Colquiri,2007,10,2 a 4 anos-H,44
+Oruro,40301,Corque,2007,10,2 a 4 anos-H,6
+Potosí,50601,Cotagaita,2007,10,2 a 4 anos-H,13
+Santa Cruz,70102,Cotoca,2007,10,2 a 4 anos-H,7
+Oruro,40401,Curahuara De Carangas,2007,10,2 a 4 anos-H,11
+Oruro,40103,El Choro,2007,10,2 a 4 anos-H,2
+Santa Cruz,70105,El Torno,2007,10,2 a 4 anos-H,3
+Oruro,41101,Eucaliptus,2007,10,2 a 4 anos-H,23
+Beni,80402,Exaltacion,2007,10,2 a 4 anos-H,1
+Oruro,40501,Huachacalla,2007,10,2 a 4 anos-H,3
+Oruro,40701,Huanuni,2007,10,2 a 4 anos-H,16
+Oruro,41601,Huayllamarca,2007,10,2 a 4 anos-H,1
+La Paz,21001,Inquisivi,2007,10,2 a 4 anos-H,15
+Santa Cruz,70104,La Guardia,2007,10,2 a 4 anos-H,9
+Oruro,41501,La Rivera,2007,10,2 a 4 anos-H,0
+La Paz,21006,Licoma Pampa,2007,10,2 a 4 anos-H,0
+Beni,80601,Loreto,2007,10,2 a 4 anos-H,2
+Oruro,40702,Machacamarca,2007,10,2 a 4 anos-H,0
+La Paz,20103,Mecapaca,2007,10,2 a 4 anos-H,0
+Oruro,40101,Oruro,2007,10,2 a 4 anos-H,65
+Oruro,40802,Pampa Aullagas,2007,10,2 a 4 anos-H,7
+Oruro,40602,Pazña,2007,10,2 a 4 anos-H,1
+Oruro,40601,Poopo,2007,10,2 a 4 anos-H,0
+Potosí,51203,Porco,2007,10,2 a 4 anos-H,1
+Potosí,50101,Potosi,2007,10,2 a 4 anos-H,1
+Chuquisaca,10302,Presto,2007,10,2 a 4 anos-H,4
+Cochabamba,31205,Puerto Villarroel,2007,10,2 a 4 anos-H,0
+Beni,80201,Riberalta,2007,10,2 a 4 anos-H,20
+Santa Cruz,70503,Robore,2007,10,2 a 4 anos-H,0
+Beni,80304,Rurrenabaque,2007,10,2 a 4 anos-H,1
+Potosí,50701,Sacaca,2007,10,2 a 4 anos-H,15
+Oruro,40801,Salinas De Garci Mendoza,2007,10,2 a 4 anos-H,13
+Beni,80602,San Andres,2007,10,2 a 4 anos-H,2
+Cochabamba,31403,San Benito,2007,10,2 a 4 anos-H,0
+Beni,80501,San Ignacio,2007,10,2 a 4 anos-H,5
+Chuquisaca,10702,San Lucas,2007,10,2 a 4 anos-H,1
+Santa Cruz,71201,San Matias,2007,10,2 a 4 anos-H,0
+Beni,80401,Santa Ana,2007,10,2 a 4 anos-H,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,10,2 a 4 anos-H,0
+Beni,80303,Santa Rosa,2007,10,2 a 4 anos-H,0
+Oruro,41401,Santiago De Huari,2007,10,2 a 4 anos-H,4
+Oruro,40104,Soracachi,2007,10,2 a 4 anos-H,15
+Cochabamba,30401,Tarata,2007,10,2 a 4 anos-H,1
+Cochabamba,30802,Toco,2007,10,2 a 4 anos-H,2
+Cochabamba,30803,Tolata,2007,10,2 a 4 anos-H,0
+Oruro,41001,Toledo,2007,10,2 a 4 anos-H,2
+Potosí,50502,Toro Toro,2007,10,2 a 4 anos-H,26
+Cochabamba,31201,Totora(cbba),2007,10,2 a 4 anos-H,0
+Beni,80101,Trinidad,2007,10,2 a 4 anos-H,12
+Oruro,40402,Turco,2007,10,2 a 4 anos-H,5
+Cochabamba,31302,Vila Vila,2007,10,2 a 4 anos-H,1
+Cochabamba,31402,Villa Rivero,2007,10,2 a 4 anos-H,0
+Tarija,60301,Yacuiba,2007,10,2 a 4 anos-H,4
+Chuquisaca,10102,Yotala,2007,10,2 a 4 anos-H,58
+Chuquisaca,10301,Zudañez,2007,10,2 a 4 anos-H,5
+La Paz,20104,Achocalla,2007,11,2 a 4 anos-H,0
+Oruro,41201,Andamarca,2007,11,2 a 4 anos-H,28
+Cochabamba,30402,Anzaldo,2007,11,2 a 4 anos-H,0
+Oruro,41202,Belen De Andamarca,2007,11,2 a 4 anos-H,1
+Potosí,50301,Betanzos,2007,11,2 a 4 anos-H,3
+Cochabamba,30701,Capinota,2007,11,2 a 4 anos-H,0
+Oruro,40201,Challapata,2007,11,2 a 4 anos-H,33
+La Paz,21004,Colquiri,2007,11,2 a 4 anos-H,20
+Oruro,40301,Corque,2007,11,2 a 4 anos-H,16
+Potosí,50601,Cotagaita,2007,11,2 a 4 anos-H,10
+Santa Cruz,70102,Cotoca,2007,11,2 a 4 anos-H,4
+Oruro,40401,Curahuara De Carangas,2007,11,2 a 4 anos-H,10
+Oruro,40103,El Choro,2007,11,2 a 4 anos-H,5
+Santa Cruz,70105,El Torno,2007,11,2 a 4 anos-H,10
+Tarija,60601,Entre Rios,2007,11,2 a 4 anos-H,1
+Oruro,41101,Eucaliptus,2007,11,2 a 4 anos-H,12
+Beni,80402,Exaltacion,2007,11,2 a 4 anos-H,1
+Oruro,40501,Huachacalla,2007,11,2 a 4 anos-H,6
+Oruro,40701,Huanuni,2007,11,2 a 4 anos-H,12
+Oruro,41601,Huayllamarca,2007,11,2 a 4 anos-H,1
+La Paz,21001,Inquisivi,2007,11,2 a 4 anos-H,14
+Santa Cruz,70104,La Guardia,2007,11,2 a 4 anos-H,20
+Beni,80601,Loreto,2007,11,2 a 4 anos-H,1
+Oruro,40101,Oruro,2007,11,2 a 4 anos-H,44
+Tarija,60201,Padcaya,2007,11,2 a 4 anos-H,0
+Oruro,40802,Pampa Aullagas,2007,11,2 a 4 anos-H,4
+Oruro,40602,Pazña,2007,11,2 a 4 anos-H,4
+Oruro,40601,Poopo,2007,11,2 a 4 anos-H,1
+Chuquisaca,10302,Presto,2007,11,2 a 4 anos-H,2
+Cochabamba,31205,Puerto Villarroel,2007,11,2 a 4 anos-H,0
+Beni,80301,Reyes,2007,11,2 a 4 anos-H,0
+Beni,80201,Riberalta,2007,11,2 a 4 anos-H,15
+Beni,80304,Rurrenabaque,2007,11,2 a 4 anos-H,1
+Potosí,50701,Sacaca,2007,11,2 a 4 anos-H,5
+Oruro,40801,Salinas De Garci Mendoza,2007,11,2 a 4 anos-H,13
+Beni,80501,San Ignacio,2007,11,2 a 4 anos-H,0
+Santa Cruz,70301,San Ignacio De Velasco,2007,11,2 a 4 anos-H,0
+Santa Cruz,71201,San Matias,2007,11,2 a 4 anos-H,4
+Beni,80401,Santa Ana,2007,11,2 a 4 anos-H,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,2 a 4 anos-H,0
+Beni,80303,Santa Rosa,2007,11,2 a 4 anos-H,0
+Oruro,40104,Soracachi,2007,11,2 a 4 anos-H,1
+Chuquisaca,10101,Sucre,2007,11,2 a 4 anos-H,0
+Cochabamba,30602,Tacopaya,2007,11,2 a 4 anos-H,14
+Cochabamba,30401,Tarata,2007,11,2 a 4 anos-H,0
+Cochabamba,30802,Toco,2007,11,2 a 4 anos-H,0
+Cochabamba,30803,Tolata,2007,11,2 a 4 anos-H,0
+Oruro,41001,Toledo,2007,11,2 a 4 anos-H,5
+Potosí,50502,Toro Toro,2007,11,2 a 4 anos-H,11
+Beni,80101,Trinidad,2007,11,2 a 4 anos-H,0
+Oruro,40402,Turco,2007,11,2 a 4 anos-H,1
+Cochabamba,31402,Villa Rivero,2007,11,2 a 4 anos-H,1
+Tarija,60301,Yacuiba,2007,11,2 a 4 anos-H,0
+Chuquisaca,10102,Yotala,2007,11,2 a 4 anos-H,48
+Chuquisaca,10301,Zudañez,2007,11,2 a 4 anos-H,2
+La Paz,20104,Achocalla,2007,12,2 a 4 anos-H,0
+Cochabamba,31303,Alalay,2007,12,2 a 4 anos-H,0
+Oruro,41201,Andamarca,2007,12,2 a 4 anos-H,6
+Santa Cruz,71501,Ascencion De Guarayos,2007,12,2 a 4 anos-H,26
+Oruro,41202,Belen De Andamarca,2007,12,2 a 4 anos-H,0
+Potosí,50301,Betanzos,2007,12,2 a 4 anos-H,12
+Cochabamba,30701,Capinota,2007,12,2 a 4 anos-H,0
+Oruro,40102,Caracollo,2007,12,2 a 4 anos-H,2
+Oruro,40201,Challapata,2007,12,2 a 4 anos-H,20
+La Paz,21004,Colquiri,2007,12,2 a 4 anos-H,25
+Oruro,40301,Corque,2007,12,2 a 4 anos-H,7
+Potosí,50601,Cotagaita,2007,12,2 a 4 anos-H,13
+Santa Cruz,70102,Cotoca,2007,12,2 a 4 anos-H,1
+Oruro,40401,Curahuara De Carangas,2007,12,2 a 4 anos-H,7
+Oruro,40103,El Choro,2007,12,2 a 4 anos-H,0
+Santa Cruz,70105,El Torno,2007,12,2 a 4 anos-H,10
+Oruro,41101,Eucaliptus,2007,12,2 a 4 anos-H,8
+Oruro,40501,Huachacalla,2007,12,2 a 4 anos-H,2
+Oruro,40701,Huanuni,2007,12,2 a 4 anos-H,7
+La Paz,21001,Inquisivi,2007,12,2 a 4 anos-H,15
+Santa Cruz,70104,La Guardia,2007,12,2 a 4 anos-H,7
+Beni,80601,Loreto,2007,12,2 a 4 anos-H,0
+Oruro,40702,Machacamarca,2007,12,2 a 4 anos-H,0
+Oruro,40101,Oruro,2007,12,2 a 4 anos-H,33
+Oruro,40802,Pampa Aullagas,2007,12,2 a 4 anos-H,4
+Oruro,40602,Pazña,2007,12,2 a 4 anos-H,0
+Oruro,40601,Poopo,2007,12,2 a 4 anos-H,3
+Potosí,51203,Porco,2007,12,2 a 4 anos-H,0
+Chuquisaca,10302,Presto,2007,12,2 a 4 anos-H,5
+Santa Cruz,71402,Puerto Quijarro,2007,12,2 a 4 anos-H,0
+Beni,80301,Reyes,2007,12,2 a 4 anos-H,1
+Beni,80201,Riberalta,2007,12,2 a 4 anos-H,7
+Santa Cruz,70503,Robore,2007,12,2 a 4 anos-H,1
+Beni,80304,Rurrenabaque,2007,12,2 a 4 anos-H,0
+Cochabamba,30404,Sacabamba,2007,12,2 a 4 anos-H,2
+Oruro,40801,Salinas De Garci Mendoza,2007,12,2 a 4 anos-H,21
+Beni,80602,San Andres,2007,12,2 a 4 anos-H,1
+Beni,80501,San Ignacio,2007,12,2 a 4 anos-H,0
+Santa Cruz,70301,San Ignacio De Velasco,2007,12,2 a 4 anos-H,2
+Chuquisaca,10702,San Lucas,2007,12,2 a 4 anos-H,1
+Santa Cruz,71201,San Matias,2007,12,2 a 4 anos-H,0
+Beni,80401,Santa Ana,2007,12,2 a 4 anos-H,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,2 a 4 anos-H,0
+Beni,80303,Santa Rosa,2007,12,2 a 4 anos-H,0
+Oruro,41401,Santiago De Huari,2007,12,2 a 4 anos-H,3
+Oruro,40104,Soracachi,2007,12,2 a 4 anos-H,4
+Chuquisaca,10101,Sucre,2007,12,2 a 4 anos-H,0
+Cochabamba,30602,Tacopaya,2007,12,2 a 4 anos-H,2
+Chuquisaca,10601,Tarabuco,2007,12,2 a 4 anos-H,1
+Cochabamba,30401,Tarata,2007,12,2 a 4 anos-H,0
+Cochabamba,30802,Toco,2007,12,2 a 4 anos-H,2
+Oruro,41001,Toledo,2007,12,2 a 4 anos-H,8
+Potosí,50502,Toro Toro,2007,12,2 a 4 anos-H,36
+Cochabamba,31201,Totora(cbba),2007,12,2 a 4 anos-H,1
+Oruro,41301,Totora(orr),2007,12,2 a 4 anos-H,1
+Beni,80101,Trinidad,2007,12,2 a 4 anos-H,13
+Oruro,40402,Turco,2007,12,2 a 4 anos-H,6
+Cochabamba,31003,Villa Tunari,2007,12,2 a 4 anos-H,8
+Tarija,60301,Yacuiba,2007,12,2 a 4 anos-H,0
+Chuquisaca,10102,Yotala,2007,12,2 a 4 anos-H,36
+Tarija,60402,Yunchara,2007,12,2 a 4 anos-H,0
+Cochabamba,30403,Arbieto,2007,1,2 a 4 anos-M,0
+Oruro,41202,Belen De Andamarca,2007,1,2 a 4 anos-M,0
+Oruro,40201,Challapata,2007,1,2 a 4 anos-M,7
+Oruro,40302,Choque Cota,2007,1,2 a 4 anos-M,3
+La Paz,21004,Colquiri,2007,1,2 a 4 anos-M,2
+Oruro,40301,Corque,2007,1,2 a 4 anos-M,7
+Oruro,40401,Curahuara De Carangas,2007,1,2 a 4 anos-M,1
+Oruro,41101,Eucaliptus,2007,1,2 a 4 anos-M,1
+La Paz,21005,Ichoca,2007,1,2 a 4 anos-M,1
+La Paz,21001,Inquisivi,2007,1,2 a 4 anos-M,14
+Santa Cruz,70104,La Guardia,2007,1,2 a 4 anos-M,4
+Potosí,50203,Llallagua,2007,1,2 a 4 anos-M,0
+Cochabamba,30302,Morochata,2007,1,2 a 4 anos-M,0
+Oruro,40101,Oruro,2007,1,2 a 4 anos-M,19
+Oruro,40601,Poopo,2007,1,2 a 4 anos-M,3
+Beni,80301,Reyes,2007,1,2 a 4 anos-M,2
+Beni,80304,Rurrenabaque,2007,1,2 a 4 anos-M,1
+Oruro,40901,Sabaya,2007,1,2 a 4 anos-M,0
+Oruro,40801,Salinas De Garci Mendoza,2007,1,2 a 4 anos-M,5
+Beni,80602,San Andres,2007,1,2 a 4 anos-M,2
+Beni,80102,San Javier(bni),2007,1,2 a 4 anos-M,1
+Tarija,60501,San Lorenzo(tja),2007,1,2 a 4 anos-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,1,2 a 4 anos-M,3
+Oruro,40104,Soracachi,2007,1,2 a 4 anos-M,1
+Chuquisaca,10101,Sucre,2007,1,2 a 4 anos-M,1
+Cochabamba,30401,Tarata,2007,1,2 a 4 anos-M,0
+Tarija,60101,Tarija,2007,1,2 a 4 anos-M,25
+Cochabamba,30803,Tolata,2007,1,2 a 4 anos-M,0
+Potosí,50502,Toro Toro,2007,1,2 a 4 anos-M,0
+Oruro,41301,Totora(orr),2007,1,2 a 4 anos-M,3
+Beni,80101,Trinidad,2007,1,2 a 4 anos-M,3
+Oruro,40402,Turco,2007,1,2 a 4 anos-M,2
+Cochabamba,31003,Villa Tunari,2007,1,2 a 4 anos-M,0
+Tarija,60301,Yacuiba,2007,1,2 a 4 anos-M,5
+Oruro,41201,Andamarca,2007,2,2 a 4 anos-M,0
+Cochabamba,30402,Anzaldo,2007,2,2 a 4 anos-M,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,2,2 a 4 anos-M,2
+Oruro,41202,Belen De Andamarca,2007,2,2 a 4 anos-M,0
+Oruro,40201,Challapata,2007,2,2 a 4 anos-M,8
+Oruro,40903,Chipaya,2007,2,2 a 4 anos-M,1
+Oruro,40302,Choque Cota,2007,2,2 a 4 anos-M,0
+Oruro,40902,Coipasa,2007,2,2 a 4 anos-M,0
+Potosí,50401,Colquechaca,2007,2,2 a 4 anos-M,2
+La Paz,21004,Colquiri,2007,2,2 a 4 anos-M,1
+Oruro,40301,Corque,2007,2,2 a 4 anos-M,3
+Oruro,40401,Curahuara De Carangas,2007,2,2 a 4 anos-M,1
+Oruro,40103,El Choro,2007,2,2 a 4 anos-M,2
+Oruro,41101,Eucaliptus,2007,2,2 a 4 anos-M,0
+Oruro,40701,Huanuni,2007,2,2 a 4 anos-M,1
+La Paz,21005,Ichoca,2007,2,2 a 4 anos-M,2
+La Paz,21001,Inquisivi,2007,2,2 a 4 anos-M,6
+Potosí,50203,Llallagua,2007,2,2 a 4 anos-M,0
+Oruro,40702,Machacamarca,2007,2,2 a 4 anos-M,2
+Oruro,40101,Oruro,2007,2,2 a 4 anos-M,17
+Oruro,40601,Poopo,2007,2,2 a 4 anos-M,4
+Pando,90301,Puerto Gonzalo Moreno,2007,2,2 a 4 anos-M,0
+Oruro,40901,Sabaya,2007,2,2 a 4 anos-M,1
+Cochabamba,30404,Sacabamba,2007,2,2 a 4 anos-M,0
+Oruro,40801,Salinas De Garci Mendoza,2007,2,2 a 4 anos-M,3
+Beni,80102,San Javier(bni),2007,2,2 a 4 anos-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,2,2 a 4 anos-M,2
+Oruro,40104,Soracachi,2007,2,2 a 4 anos-M,2
+Chuquisaca,10101,Sucre,2007,2,2 a 4 anos-M,0
+Tarija,60101,Tarija,2007,2,2 a 4 anos-M,40
+Cochabamba,30803,Tolata,2007,2,2 a 4 anos-M,0
+Oruro,41001,Toledo,2007,2,2 a 4 anos-M,0
+Potosí,50502,Toro Toro,2007,2,2 a 4 anos-M,2
+Oruro,41301,Totora(orr),2007,2,2 a 4 anos-M,3
+Oruro,40402,Turco,2007,2,2 a 4 anos-M,0
+Tarija,60301,Yacuiba,2007,2,2 a 4 anos-M,12
+Oruro,41201,Andamarca,2007,3,2 a 4 anos-M,15
+Cochabamba,30402,Anzaldo,2007,3,2 a 4 anos-M,2
+Cochabamba,30403,Arbieto,2007,3,2 a 4 anos-M,1
+Oruro,41202,Belen De Andamarca,2007,3,2 a 4 anos-M,0
+Tarija,60202,Bermejo,2007,3,2 a 4 anos-M,2
+Santa Cruz,70401,Buena Vista,2007,3,2 a 4 anos-M,1
+Santa Cruz,70706,Camiri,2007,3,2 a 4 anos-M,0
+Oruro,40201,Challapata,2007,3,2 a 4 anos-M,23
+Oruro,40903,Chipaya,2007,3,2 a 4 anos-M,2
+Oruro,40301,Corque,2007,3,2 a 4 anos-M,8
+Santa Cruz,70102,Cotoca,2007,3,2 a 4 anos-M,0
+Oruro,40401,Curahuara De Carangas,2007,3,2 a 4 anos-M,2
+Tarija,60502,El Puente(tja),2007,3,2 a 4 anos-M,0
+Oruro,40505,Esmeralda,2007,3,2 a 4 anos-M,1
+Oruro,40701,Huanuni,2007,3,2 a 4 anos-M,4
+La Paz,21005,Ichoca,2007,3,2 a 4 anos-M,0
+La Paz,21001,Inquisivi,2007,3,2 a 4 anos-M,16
+Santa Cruz,70104,La Guardia,2007,3,2 a 4 anos-M,7
+Potosí,50203,Llallagua,2007,3,2 a 4 anos-M,0
+Oruro,40101,Oruro,2007,3,2 a 4 anos-M,28
+Potosí,50403,Pocoata,2007,3,2 a 4 anos-M,2
+Oruro,40601,Poopo,2007,3,2 a 4 anos-M,4
+Chuquisaca,10302,Presto,2007,3,2 a 4 anos-M,6
+Cochabamba,30901,Quillacollo,2007,3,2 a 4 anos-M,0
+Oruro,40901,Sabaya,2007,3,2 a 4 anos-M,5
+Oruro,40801,Salinas De Garci Mendoza,2007,3,2 a 4 anos-M,4
+Cochabamba,31403,San Benito,2007,3,2 a 4 anos-M,0
+Beni,80501,San Ignacio,2007,3,2 a 4 anos-M,1
+Chuquisaca,10702,San Lucas,2007,3,2 a 4 anos-M,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,2 a 4 anos-M,16
+Beni,80303,Santa Rosa,2007,3,2 a 4 anos-M,1
+Oruro,40104,Soracachi,2007,3,2 a 4 anos-M,10
+Chuquisaca,10101,Sucre,2007,3,2 a 4 anos-M,1
+Tarija,60101,Tarija,2007,3,2 a 4 anos-M,24
+Cochabamba,30802,Toco,2007,3,2 a 4 anos-M,1
+Cochabamba,30803,Tolata,2007,3,2 a 4 anos-M,1
+Oruro,41001,Toledo,2007,3,2 a 4 anos-M,1
+Potosí,50502,Toro Toro,2007,3,2 a 4 anos-M,15
+Oruro,41301,Totora(orr),2007,3,2 a 4 anos-M,1
+Oruro,40402,Turco,2007,3,2 a 4 anos-M,11
+Cochabamba,31402,Villa Rivero,2007,3,2 a 4 anos-M,1
+Tarija,60301,Yacuiba,2007,3,2 a 4 anos-M,9
+Oruro,41201,Andamarca,2007,4,2 a 4 anos-M,8
+Cochabamba,30402,Anzaldo,2007,4,2 a 4 anos-M,0
+Cochabamba,30403,Arbieto,2007,4,2 a 4 anos-M,0
+Oruro,41202,Belen De Andamarca,2007,4,2 a 4 anos-M,0
+La Paz,21003,Cajuata,2007,4,2 a 4 anos-M,1
+Cochabamba,30701,Capinota,2007,4,2 a 4 anos-M,1
+Oruro,40201,Challapata,2007,4,2 a 4 anos-M,24
+Oruro,40302,Choque Cota,2007,4,2 a 4 anos-M,0
+Oruro,40301,Corque,2007,4,2 a 4 anos-M,7
+Santa Cruz,70102,Cotoca,2007,4,2 a 4 anos-M,1
+Oruro,40401,Curahuara De Carangas,2007,4,2 a 4 anos-M,0
+Santa Cruz,70105,El Torno,2007,4,2 a 4 anos-M,10
+Oruro,40505,Esmeralda,2007,4,2 a 4 anos-M,1
+Oruro,40701,Huanuni,2007,4,2 a 4 anos-M,3
+La Paz,21005,Ichoca,2007,4,2 a 4 anos-M,0
+La Paz,21001,Inquisivi,2007,4,2 a 4 anos-M,12
+Santa Cruz,70104,La Guardia,2007,4,2 a 4 anos-M,10
+Potosí,50203,Llallagua,2007,4,2 a 4 anos-M,0
+Oruro,40101,Oruro,2007,4,2 a 4 anos-M,43
+Potosí,50403,Pocoata,2007,4,2 a 4 anos-M,0
+Oruro,40601,Poopo,2007,4,2 a 4 anos-M,1
+Potosí,51203,Porco,2007,4,2 a 4 anos-M,3
+Chuquisaca,10302,Presto,2007,4,2 a 4 anos-M,4
+Beni,80304,Rurrenabaque,2007,4,2 a 4 anos-M,0
+Oruro,40901,Sabaya,2007,4,2 a 4 anos-M,2
+Oruro,40801,Salinas De Garci Mendoza,2007,4,2 a 4 anos-M,2
+Beni,80302,San Borja,2007,4,2 a 4 anos-M,0
+Chuquisaca,10702,San Lucas,2007,4,2 a 4 anos-M,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,2 a 4 anos-M,3
+Oruro,40104,Soracachi,2007,4,2 a 4 anos-M,0
+Tarija,60101,Tarija,2007,4,2 a 4 anos-M,14
+Cochabamba,31601,Tiraque (cbba),2007,4,2 a 4 anos-M,6
+Oruro,41301,Totora(orr),2007,4,2 a 4 anos-M,0
+Oruro,40402,Turco,2007,4,2 a 4 anos-M,2
+Cochabamba,31003,Villa Tunari,2007,4,2 a 4 anos-M,0
+Tarija,60301,Yacuiba,2007,4,2 a 4 anos-M,9
+Santa Cruz,70403,Yapacani,2007,4,2 a 4 anos-M,2
+Cochabamba,31303,Alalay,2007,5,2 a 4 anos-M,0
+Oruro,41201,Andamarca,2007,5,2 a 4 anos-M,15
+Cochabamba,30402,Anzaldo,2007,5,2 a 4 anos-M,0
+Cochabamba,30403,Arbieto,2007,5,2 a 4 anos-M,2
+Oruro,41202,Belen De Andamarca,2007,5,2 a 4 anos-M,1
+Potosí,50301,Betanzos,2007,5,2 a 4 anos-M,0
+Oruro,40201,Challapata,2007,5,2 a 4 anos-M,21
+Oruro,40302,Choque Cota,2007,5,2 a 4 anos-M,0
+Oruro,40301,Corque,2007,5,2 a 4 anos-M,13
+Santa Cruz,70102,Cotoca,2007,5,2 a 4 anos-M,4
+Oruro,40401,Curahuara De Carangas,2007,5,2 a 4 anos-M,8
+Oruro,40103,El Choro,2007,5,2 a 4 anos-M,1
+Santa Cruz,70105,El Torno,2007,5,2 a 4 anos-M,13
+Oruro,40505,Esmeralda,2007,5,2 a 4 anos-M,2
+Beni,80402,Exaltacion,2007,5,2 a 4 anos-M,2
+Oruro,40501,Huachacalla,2007,5,2 a 4 anos-M,2
+Oruro,40701,Huanuni,2007,5,2 a 4 anos-M,6
+La Paz,21005,Ichoca,2007,5,2 a 4 anos-M,0
+La Paz,21001,Inquisivi,2007,5,2 a 4 anos-M,5
+Santa Cruz,70104,La Guardia,2007,5,2 a 4 anos-M,11
+Potosí,50203,Llallagua,2007,5,2 a 4 anos-M,1
+Oruro,40702,Machacamarca,2007,5,2 a 4 anos-M,0
+Oruro,40101,Oruro,2007,5,2 a 4 anos-M,44
+Tarija,60201,Padcaya,2007,5,2 a 4 anos-M,0
+Potosí,50403,Pocoata,2007,5,2 a 4 anos-M,0
+Cochabamba,31202,Pojo (cbba),2007,5,2 a 4 anos-M,0
+Oruro,40601,Poopo,2007,5,2 a 4 anos-M,0
+Santa Cruz,70103,Porongo,2007,5,2 a 4 anos-M,1
+Chuquisaca,10302,Presto,2007,5,2 a 4 anos-M,5
+Beni,80304,Rurrenabaque,2007,5,2 a 4 anos-M,2
+Oruro,40901,Sabaya,2007,5,2 a 4 anos-M,1
+Cochabamba,30404,Sacabamba,2007,5,2 a 4 anos-M,0
+Oruro,40801,Salinas De Garci Mendoza,2007,5,2 a 4 anos-M,12
+Beni,80602,San Andres,2007,5,2 a 4 anos-M,0
+Santa Cruz,71104,San Julian,2007,5,2 a 4 anos-M,0
+Tarija,60501,San Lorenzo(tja),2007,5,2 a 4 anos-M,0
+Chuquisaca,10702,San Lucas,2007,5,2 a 4 anos-M,6
+Beni,80401,Santa Ana,2007,5,2 a 4 anos-M,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,2 a 4 anos-M,7
+Oruro,41401,Santiago De Huari,2007,5,2 a 4 anos-M,1
+Pando,90303,Sena,2007,5,2 a 4 anos-M,3
+Cochabamba,31101,Tapacari,2007,5,2 a 4 anos-M,4
+Tarija,60101,Tarija,2007,5,2 a 4 anos-M,1
+Oruro,41001,Toledo,2007,5,2 a 4 anos-M,0
+Potosí,50502,Toro Toro,2007,5,2 a 4 anos-M,8
+Oruro,41301,Totora(orr),2007,5,2 a 4 anos-M,2
+Beni,80101,Trinidad,2007,5,2 a 4 anos-M,1
+Oruro,40402,Turco,2007,5,2 a 4 anos-M,2
+Cochabamba,31402,Villa Rivero,2007,5,2 a 4 anos-M,1
+Tarija,60301,Yacuiba,2007,5,2 a 4 anos-M,4
+Cochabamba,31303,Alalay,2007,6,2 a 4 anos-M,3
+Oruro,41201,Andamarca,2007,6,2 a 4 anos-M,19
+Cochabamba,30402,Anzaldo,2007,6,2 a 4 anos-M,1
+Cochabamba,30501,Arani,2007,6,2 a 4 anos-M,0
+Cochabamba,30403,Arbieto,2007,6,2 a 4 anos-M,1
+Oruro,40102,Caracollo,2007,6,2 a 4 anos-M,0
+Oruro,40201,Challapata,2007,6,2 a 4 anos-M,37
+Oruro,40302,Choque Cota,2007,6,2 a 4 anos-M,0
+La Paz,21004,Colquiri,2007,6,2 a 4 anos-M,8
+Oruro,40301,Corque,2007,6,2 a 4 anos-M,9
+Santa Cruz,70102,Cotoca,2007,6,2 a 4 anos-M,2
+Oruro,40401,Curahuara De Carangas,2007,6,2 a 4 anos-M,5
+Oruro,40103,El Choro,2007,6,2 a 4 anos-M,0
+Santa Cruz,70105,El Torno,2007,6,2 a 4 anos-M,12
+Oruro,40501,Huachacalla,2007,6,2 a 4 anos-M,3
+Oruro,40701,Huanuni,2007,6,2 a 4 anos-M,3
+La Paz,21005,Ichoca,2007,6,2 a 4 anos-M,8
+La Paz,21001,Inquisivi,2007,6,2 a 4 anos-M,12
+Santa Cruz,70104,La Guardia,2007,6,2 a 4 anos-M,8
+Potosí,50203,Llallagua,2007,6,2 a 4 anos-M,0
+Oruro,40702,Machacamarca,2007,6,2 a 4 anos-M,1
+Oruro,40101,Oruro,2007,6,2 a 4 anos-M,51
+Oruro,40602,Pazña,2007,6,2 a 4 anos-M,1
+Potosí,50403,Pocoata,2007,6,2 a 4 anos-M,3
+Oruro,40601,Poopo,2007,6,2 a 4 anos-M,0
+Chuquisaca,10302,Presto,2007,6,2 a 4 anos-M,10
+Santa Cruz,70503,Robore,2007,6,2 a 4 anos-M,0
+Beni,80304,Rurrenabaque,2007,6,2 a 4 anos-M,0
+Oruro,40901,Sabaya,2007,6,2 a 4 anos-M,0
+Cochabamba,30404,Sacabamba,2007,6,2 a 4 anos-M,1
+Potosí,50701,Sacaca,2007,6,2 a 4 anos-M,2
+Oruro,40801,Salinas De Garci Mendoza,2007,6,2 a 4 anos-M,6
+Beni,80602,San Andres,2007,6,2 a 4 anos-M,1
+Cochabamba,31403,San Benito,2007,6,2 a 4 anos-M,7
+Chuquisaca,10702,San Lucas,2007,6,2 a 4 anos-M,5
+Santa Cruz,71201,San Matias,2007,6,2 a 4 anos-M,0
+Beni,80401,Santa Ana,2007,6,2 a 4 anos-M,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,6,2 a 4 anos-M,4
+Beni,80303,Santa Rosa,2007,6,2 a 4 anos-M,0
+Oruro,40104,Soracachi,2007,6,2 a 4 anos-M,9
+Chuquisaca,10101,Sucre,2007,6,2 a 4 anos-M,0
+Cochabamba,31101,Tapacari,2007,6,2 a 4 anos-M,5
+Cochabamba,30401,Tarata,2007,6,2 a 4 anos-M,0
+Cochabamba,30802,Toco,2007,6,2 a 4 anos-M,0
+Oruro,41001,Toledo,2007,6,2 a 4 anos-M,0
+Potosí,50502,Toro Toro,2007,6,2 a 4 anos-M,48
+Oruro,41301,Totora(orr),2007,6,2 a 4 anos-M,2
+Beni,80101,Trinidad,2007,6,2 a 4 anos-M,1
+Oruro,40402,Turco,2007,6,2 a 4 anos-M,5
+Cochabamba,31402,Villa Rivero,2007,6,2 a 4 anos-M,3
+Tarija,60301,Yacuiba,2007,6,2 a 4 anos-M,1
+Chuquisaca,10102,Yotala,2007,6,2 a 4 anos-M,10
+Cochabamba,30201,Aiquile,2007,7,2 a 4 anos-M,1
+Cochabamba,31303,Alalay,2007,7,2 a 4 anos-M,0
+Oruro,41201,Andamarca,2007,7,2 a 4 anos-M,8
+Cochabamba,30402,Anzaldo,2007,7,2 a 4 anos-M,0
+Cochabamba,30403,Arbieto,2007,7,2 a 4 anos-M,0
+Oruro,41202,Belen De Andamarca,2007,7,2 a 4 anos-M,0
+Tarija,60202,Bermejo,2007,7,2 a 4 anos-M,1
+Potosí,50301,Betanzos,2007,7,2 a 4 anos-M,4
+Santa Cruz,70703,Cabezas,2007,7,2 a 4 anos-M,0
+Oruro,40201,Challapata,2007,7,2 a 4 anos-M,37
+Oruro,40302,Choque Cota,2007,7,2 a 4 anos-M,0
+La Paz,21004,Colquiri,2007,7,2 a 4 anos-M,12
+Santa Cruz,71301,Comarapa,2007,7,2 a 4 anos-M,0
+Oruro,40301,Corque,2007,7,2 a 4 anos-M,7
+Santa Cruz,70102,Cotoca,2007,7,2 a 4 anos-M,1
+Oruro,40401,Curahuara De Carangas,2007,7,2 a 4 anos-M,4
+Oruro,40103,El Choro,2007,7,2 a 4 anos-M,0
+Santa Cruz,70105,El Torno,2007,7,2 a 4 anos-M,11
+Tarija,60601,Entre Rios,2007,7,2 a 4 anos-M,1
+Oruro,40501,Huachacalla,2007,7,2 a 4 anos-M,0
+Oruro,40701,Huanuni,2007,7,2 a 4 anos-M,5
+La Paz,21005,Ichoca,2007,7,2 a 4 anos-M,0
+La Paz,21001,Inquisivi,2007,7,2 a 4 anos-M,20
+Santa Cruz,70104,La Guardia,2007,7,2 a 4 anos-M,5
+Santa Cruz,70701,Lagunillas,2007,7,2 a 4 anos-M,0
+La Paz,21006,Licoma Pampa,2007,7,2 a 4 anos-M,0
+Oruro,40702,Machacamarca,2007,7,2 a 4 anos-M,0
+Oruro,40101,Oruro,2007,7,2 a 4 anos-M,55
+Oruro,40802,Pampa Aullagas,2007,7,2 a 4 anos-M,8
+Oruro,40602,Pazña,2007,7,2 a 4 anos-M,0
+Potosí,50403,Pocoata,2007,7,2 a 4 anos-M,1
+Potosí,51203,Porco,2007,7,2 a 4 anos-M,0
+Chuquisaca,10302,Presto,2007,7,2 a 4 anos-M,7
+Beni,80201,Riberalta,2007,7,2 a 4 anos-M,0
+Oruro,40801,Salinas De Garci Mendoza,2007,7,2 a 4 anos-M,0
+Cochabamba,31403,San Benito,2007,7,2 a 4 anos-M,2
+Beni,80501,San Ignacio,2007,7,2 a 4 anos-M,1
+Chuquisaca,10702,San Lucas,2007,7,2 a 4 anos-M,2
+Beni,80401,Santa Ana,2007,7,2 a 4 anos-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,7,2 a 4 anos-M,1
+Beni,80303,Santa Rosa,2007,7,2 a 4 anos-M,0
+Oruro,40104,Soracachi,2007,7,2 a 4 anos-M,6
+Cochabamba,31101,Tapacari,2007,7,2 a 4 anos-M,3
+Cochabamba,30401,Tarata,2007,7,2 a 4 anos-M,0
+Tarija,60101,Tarija,2007,7,2 a 4 anos-M,1
+Oruro,41001,Toledo,2007,7,2 a 4 anos-M,2
+Potosí,50502,Toro Toro,2007,7,2 a 4 anos-M,5
+Oruro,41301,Totora(orr),2007,7,2 a 4 anos-M,5
+Oruro,40402,Turco,2007,7,2 a 4 anos-M,12
+La Paz,20801,Viacha,2007,7,2 a 4 anos-M,0
+Cochabamba,31003,Villa Tunari,2007,7,2 a 4 anos-M,1
+Tarija,60301,Yacuiba,2007,7,2 a 4 anos-M,0
+Potosí,51302,Acacio,2007,8,2 a 4 anos-M,0
+Cochabamba,31303,Alalay,2007,8,2 a 4 anos-M,0
+Oruro,41201,Andamarca,2007,8,2 a 4 anos-M,28
+Cochabamba,30403,Arbieto,2007,8,2 a 4 anos-M,0
+Santa Cruz,71501,Ascencion De Guarayos,2007,8,2 a 4 anos-M,16
+Potosí,50301,Betanzos,2007,8,2 a 4 anos-M,8
+Oruro,40201,Challapata,2007,8,2 a 4 anos-M,33
+Oruro,40302,Choque Cota,2007,8,2 a 4 anos-M,1
+Oruro,40902,Coipasa,2007,8,2 a 4 anos-M,1
+La Paz,21004,Colquiri,2007,8,2 a 4 anos-M,37
+Oruro,40301,Corque,2007,8,2 a 4 anos-M,17
+Santa Cruz,70102,Cotoca,2007,8,2 a 4 anos-M,9
+Oruro,40401,Curahuara De Carangas,2007,8,2 a 4 anos-M,11
+La Paz,21602,Curva,2007,8,2 a 4 anos-M,3
+Oruro,40103,El Choro,2007,8,2 a 4 anos-M,2
+Santa Cruz,70105,El Torno,2007,8,2 a 4 anos-M,11
+Tarija,60601,Entre Rios,2007,8,2 a 4 anos-M,4
+Oruro,40501,Huachacalla,2007,8,2 a 4 anos-M,2
+Oruro,40701,Huanuni,2007,8,2 a 4 anos-M,4
+Oruro,41601,Huayllamarca,2007,8,2 a 4 anos-M,3
+La Paz,21001,Inquisivi,2007,8,2 a 4 anos-M,10
+Santa Cruz,70104,La Guardia,2007,8,2 a 4 anos-M,7
+Beni,80601,Loreto,2007,8,2 a 4 anos-M,3
+Oruro,40101,Oruro,2007,8,2 a 4 anos-M,78
+Tarija,60201,Padcaya,2007,8,2 a 4 anos-M,2
+Oruro,40802,Pampa Aullagas,2007,8,2 a 4 anos-M,5
+Oruro,40602,Pazña,2007,8,2 a 4 anos-M,3
+Potosí,50403,Pocoata,2007,8,2 a 4 anos-M,0
+Oruro,40601,Poopo,2007,8,2 a 4 anos-M,2
+Potosí,51203,Porco,2007,8,2 a 4 anos-M,1
+Potosí,50101,Potosi,2007,8,2 a 4 anos-M,0
+Chuquisaca,10302,Presto,2007,8,2 a 4 anos-M,6
+Potosí,51101,Puna,2007,8,2 a 4 anos-M,2
+Cochabamba,30901,Quillacollo,2007,8,2 a 4 anos-M,0
+Beni,80201,Riberalta,2007,8,2 a 4 anos-M,0
+Beni,80304,Rurrenabaque,2007,8,2 a 4 anos-M,1
+Potosí,50701,Sacaca,2007,8,2 a 4 anos-M,3
+Oruro,40801,Salinas De Garci Mendoza,2007,8,2 a 4 anos-M,4
+Beni,80602,San Andres,2007,8,2 a 4 anos-M,3
+Beni,80501,San Ignacio,2007,8,2 a 4 anos-M,7
+Beni,80102,San Javier(bni),2007,8,2 a 4 anos-M,1
+Chuquisaca,10702,San Lucas,2007,8,2 a 4 anos-M,4
+Beni,80401,Santa Ana,2007,8,2 a 4 anos-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,8,2 a 4 anos-M,3
+Beni,80303,Santa Rosa,2007,8,2 a 4 anos-M,1
+Oruro,41401,Santiago De Huari,2007,8,2 a 4 anos-M,3
+Oruro,40104,Soracachi,2007,8,2 a 4 anos-M,12
+Chuquisaca,10101,Sucre,2007,8,2 a 4 anos-M,0
+Cochabamba,30903,Tiquipaya,2007,8,2 a 4 anos-M,1
+Cochabamba,30803,Tolata,2007,8,2 a 4 anos-M,0
+Oruro,41001,Toledo,2007,8,2 a 4 anos-M,4
+Potosí,50502,Toro Toro,2007,8,2 a 4 anos-M,28
+Oruro,41301,Totora(orr),2007,8,2 a 4 anos-M,1
+Beni,80101,Trinidad,2007,8,2 a 4 anos-M,3
+Oruro,40402,Turco,2007,8,2 a 4 anos-M,6
+La Paz,20801,Viacha,2007,8,2 a 4 anos-M,0
+Cochabamba,31402,Villa Rivero,2007,8,2 a 4 anos-M,1
+Tarija,60301,Yacuiba,2007,8,2 a 4 anos-M,5
+Chuquisaca,10102,Yotala,2007,8,2 a 4 anos-M,74
+Tarija,60402,Yunchara,2007,8,2 a 4 anos-M,1
+Chuquisaca,10301,Zudañez,2007,8,2 a 4 anos-M,4
+Cochabamba,31303,Alalay,2007,9,2 a 4 anos-M,0
+Oruro,41201,Andamarca,2007,9,2 a 4 anos-M,9
+Cochabamba,30403,Arbieto,2007,9,2 a 4 anos-M,0
+Oruro,41202,Belen De Andamarca,2007,9,2 a 4 anos-M,1
+Potosí,50301,Betanzos,2007,9,2 a 4 anos-M,2
+Santa Cruz,70703,Cabezas,2007,9,2 a 4 anos-M,1
+Oruro,40201,Challapata,2007,9,2 a 4 anos-M,39
+Oruro,40302,Choque Cota,2007,9,2 a 4 anos-M,0
+La Paz,21004,Colquiri,2007,9,2 a 4 anos-M,18
+Oruro,40301,Corque,2007,9,2 a 4 anos-M,10
+Potosí,50601,Cotagaita,2007,9,2 a 4 anos-M,15
+Santa Cruz,70102,Cotoca,2007,9,2 a 4 anos-M,6
+Oruro,40401,Curahuara De Carangas,2007,9,2 a 4 anos-M,3
+La Paz,21602,Curva,2007,9,2 a 4 anos-M,3
+Santa Cruz,70105,El Torno,2007,9,2 a 4 anos-M,18
+Oruro,41101,Eucaliptus,2007,9,2 a 4 anos-M,3
+Oruro,40501,Huachacalla,2007,9,2 a 4 anos-M,1
+Oruro,40701,Huanuni,2007,9,2 a 4 anos-M,10
+Oruro,41601,Huayllamarca,2007,9,2 a 4 anos-M,2
+La Paz,21001,Inquisivi,2007,9,2 a 4 anos-M,40
+Santa Cruz,70104,La Guardia,2007,9,2 a 4 anos-M,3
+Chuquisaca,10303,Mojocoya,2007,9,2 a 4 anos-M,0
+Oruro,40101,Oruro,2007,9,2 a 4 anos-M,53
+La Paz,20102,Palca,2007,9,2 a 4 anos-M,1
+Oruro,40602,Pazña,2007,9,2 a 4 anos-M,1
+Potosí,50403,Pocoata,2007,9,2 a 4 anos-M,3
+Cochabamba,31203,Pocona,2007,9,2 a 4 anos-M,0
+Potosí,51203,Porco,2007,9,2 a 4 anos-M,0
+Potosí,50101,Potosi,2007,9,2 a 4 anos-M,0
+Chuquisaca,10302,Presto,2007,9,2 a 4 anos-M,3
+Beni,80301,Reyes,2007,9,2 a 4 anos-M,0
+Beni,80201,Riberalta,2007,9,2 a 4 anos-M,7
+Santa Cruz,70503,Robore,2007,9,2 a 4 anos-M,0
+Beni,80304,Rurrenabaque,2007,9,2 a 4 anos-M,2
+Oruro,40901,Sabaya,2007,9,2 a 4 anos-M,1
+Potosí,50701,Sacaca,2007,9,2 a 4 anos-M,17
+Oruro,40801,Salinas De Garci Mendoza,2007,9,2 a 4 anos-M,4
+Beni,80602,San Andres,2007,9,2 a 4 anos-M,1
+Cochabamba,31403,San Benito,2007,9,2 a 4 anos-M,1
+Beni,80501,San Ignacio,2007,9,2 a 4 anos-M,0
+Beni,80102,San Javier(bni),2007,9,2 a 4 anos-M,1
+Chuquisaca,10702,San Lucas,2007,9,2 a 4 anos-M,2
+Beni,80401,Santa Ana,2007,9,2 a 4 anos-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,9,2 a 4 anos-M,1
+Beni,80303,Santa Rosa,2007,9,2 a 4 anos-M,0
+Oruro,41401,Santiago De Huari,2007,9,2 a 4 anos-M,6
+Oruro,40104,Soracachi,2007,9,2 a 4 anos-M,6
+Chuquisaca,10101,Sucre,2007,9,2 a 4 anos-M,2
+Cochabamba,31101,Tapacari,2007,9,2 a 4 anos-M,4
+Cochabamba,30802,Toco,2007,9,2 a 4 anos-M,3
+Oruro,41001,Toledo,2007,9,2 a 4 anos-M,1
+Potosí,50502,Toro Toro,2007,9,2 a 4 anos-M,55
+Oruro,41301,Totora(orr),2007,9,2 a 4 anos-M,5
+Beni,80101,Trinidad,2007,9,2 a 4 anos-M,13
+Oruro,40402,Turco,2007,9,2 a 4 anos-M,5
+Cochabamba,31003,Villa Tunari,2007,9,2 a 4 anos-M,0
+Tarija,60301,Yacuiba,2007,9,2 a 4 anos-M,3
+Chuquisaca,10102,Yotala,2007,9,2 a 4 anos-M,50
+Tarija,60402,Yunchara,2007,9,2 a 4 anos-M,0
+Chuquisaca,10301,Zudañez,2007,9,2 a 4 anos-M,3
+La Paz,20104,Achocalla,2007,10,2 a 4 anos-M,5
+Oruro,41201,Andamarca,2007,10,2 a 4 anos-M,24
+Cochabamba,30403,Arbieto,2007,10,2 a 4 anos-M,1
+Oruro,41202,Belen De Andamarca,2007,10,2 a 4 anos-M,1
+Potosí,50301,Betanzos,2007,10,2 a 4 anos-M,8
+Santa Cruz,70703,Cabezas,2007,10,2 a 4 anos-M,0
+Cochabamba,30701,Capinota,2007,10,2 a 4 anos-M,0
+Oruro,40102,Caracollo,2007,10,2 a 4 anos-M,1
+Oruro,40201,Challapata,2007,10,2 a 4 anos-M,73
+La Paz,21004,Colquiri,2007,10,2 a 4 anos-M,45
+Oruro,40301,Corque,2007,10,2 a 4 anos-M,11
+Potosí,50601,Cotagaita,2007,10,2 a 4 anos-M,15
+Santa Cruz,70102,Cotoca,2007,10,2 a 4 anos-M,6
+Oruro,40401,Curahuara De Carangas,2007,10,2 a 4 anos-M,10
+Oruro,40103,El Choro,2007,10,2 a 4 anos-M,1
+Santa Cruz,70105,El Torno,2007,10,2 a 4 anos-M,7
+Oruro,41101,Eucaliptus,2007,10,2 a 4 anos-M,16
+Beni,80402,Exaltacion,2007,10,2 a 4 anos-M,0
+Oruro,40501,Huachacalla,2007,10,2 a 4 anos-M,4
+Oruro,40701,Huanuni,2007,10,2 a 4 anos-M,18
+Oruro,41601,Huayllamarca,2007,10,2 a 4 anos-M,1
+La Paz,21001,Inquisivi,2007,10,2 a 4 anos-M,15
+Santa Cruz,70104,La Guardia,2007,10,2 a 4 anos-M,12
+Oruro,41501,La Rivera,2007,10,2 a 4 anos-M,0
+La Paz,21006,Licoma Pampa,2007,10,2 a 4 anos-M,0
+Beni,80601,Loreto,2007,10,2 a 4 anos-M,2
+Oruro,40702,Machacamarca,2007,10,2 a 4 anos-M,2
+La Paz,20103,Mecapaca,2007,10,2 a 4 anos-M,1
+Oruro,40101,Oruro,2007,10,2 a 4 anos-M,52
+Oruro,40802,Pampa Aullagas,2007,10,2 a 4 anos-M,13
+Oruro,40602,Pazña,2007,10,2 a 4 anos-M,0
+Oruro,40601,Poopo,2007,10,2 a 4 anos-M,1
+Potosí,51203,Porco,2007,10,2 a 4 anos-M,1
+Potosí,50101,Potosi,2007,10,2 a 4 anos-M,0
+Chuquisaca,10302,Presto,2007,10,2 a 4 anos-M,2
+Cochabamba,31205,Puerto Villarroel,2007,10,2 a 4 anos-M,3
+Beni,80201,Riberalta,2007,10,2 a 4 anos-M,22
+Santa Cruz,70503,Robore,2007,10,2 a 4 anos-M,1
+Beni,80304,Rurrenabaque,2007,10,2 a 4 anos-M,0
+Potosí,50701,Sacaca,2007,10,2 a 4 anos-M,17
+Oruro,40801,Salinas De Garci Mendoza,2007,10,2 a 4 anos-M,8
+Beni,80602,San Andres,2007,10,2 a 4 anos-M,0
+Cochabamba,31403,San Benito,2007,10,2 a 4 anos-M,0
+Beni,80501,San Ignacio,2007,10,2 a 4 anos-M,3
+Chuquisaca,10702,San Lucas,2007,10,2 a 4 anos-M,2
+Santa Cruz,71201,San Matias,2007,10,2 a 4 anos-M,1
+Beni,80401,Santa Ana,2007,10,2 a 4 anos-M,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,10,2 a 4 anos-M,0
+Beni,80303,Santa Rosa,2007,10,2 a 4 anos-M,1
+Oruro,41401,Santiago De Huari,2007,10,2 a 4 anos-M,2
+Oruro,40104,Soracachi,2007,10,2 a 4 anos-M,11
+Cochabamba,30401,Tarata,2007,10,2 a 4 anos-M,2
+Cochabamba,30802,Toco,2007,10,2 a 4 anos-M,2
+Cochabamba,30803,Tolata,2007,10,2 a 4 anos-M,0
+Oruro,41001,Toledo,2007,10,2 a 4 anos-M,0
+Potosí,50502,Toro Toro,2007,10,2 a 4 anos-M,35
+Cochabamba,31201,Totora(cbba),2007,10,2 a 4 anos-M,0
+Beni,80101,Trinidad,2007,10,2 a 4 anos-M,4
+Oruro,40402,Turco,2007,10,2 a 4 anos-M,8
+Cochabamba,31302,Vila Vila,2007,10,2 a 4 anos-M,2
+Cochabamba,31402,Villa Rivero,2007,10,2 a 4 anos-M,0
+Tarija,60301,Yacuiba,2007,10,2 a 4 anos-M,4
+Chuquisaca,10102,Yotala,2007,10,2 a 4 anos-M,60
+Chuquisaca,10301,Zudañez,2007,10,2 a 4 anos-M,5
+La Paz,20104,Achocalla,2007,11,2 a 4 anos-M,2
+Oruro,41201,Andamarca,2007,11,2 a 4 anos-M,32
+Cochabamba,30402,Anzaldo,2007,11,2 a 4 anos-M,0
+Oruro,41202,Belen De Andamarca,2007,11,2 a 4 anos-M,1
+Potosí,50301,Betanzos,2007,11,2 a 4 anos-M,4
+Cochabamba,30701,Capinota,2007,11,2 a 4 anos-M,0
+Oruro,40201,Challapata,2007,11,2 a 4 anos-M,52
+La Paz,21004,Colquiri,2007,11,2 a 4 anos-M,26
+Oruro,40301,Corque,2007,11,2 a 4 anos-M,16
+Potosí,50601,Cotagaita,2007,11,2 a 4 anos-M,8
+Santa Cruz,70102,Cotoca,2007,11,2 a 4 anos-M,10
+Oruro,40401,Curahuara De Carangas,2007,11,2 a 4 anos-M,12
+Oruro,40103,El Choro,2007,11,2 a 4 anos-M,2
+Santa Cruz,70105,El Torno,2007,11,2 a 4 anos-M,10
+Tarija,60601,Entre Rios,2007,11,2 a 4 anos-M,0
+Oruro,41101,Eucaliptus,2007,11,2 a 4 anos-M,7
+Beni,80402,Exaltacion,2007,11,2 a 4 anos-M,0
+Oruro,40501,Huachacalla,2007,11,2 a 4 anos-M,8
+Oruro,40701,Huanuni,2007,11,2 a 4 anos-M,14
+Oruro,41601,Huayllamarca,2007,11,2 a 4 anos-M,0
+La Paz,21001,Inquisivi,2007,11,2 a 4 anos-M,10
+Santa Cruz,70104,La Guardia,2007,11,2 a 4 anos-M,13
+Beni,80601,Loreto,2007,11,2 a 4 anos-M,1
+Oruro,40101,Oruro,2007,11,2 a 4 anos-M,37
+Tarija,60201,Padcaya,2007,11,2 a 4 anos-M,0
+Oruro,40802,Pampa Aullagas,2007,11,2 a 4 anos-M,4
+Oruro,40602,Pazña,2007,11,2 a 4 anos-M,0
+Oruro,40601,Poopo,2007,11,2 a 4 anos-M,0
+Chuquisaca,10302,Presto,2007,11,2 a 4 anos-M,2
+Cochabamba,31205,Puerto Villarroel,2007,11,2 a 4 anos-M,1
+Beni,80301,Reyes,2007,11,2 a 4 anos-M,1
+Beni,80201,Riberalta,2007,11,2 a 4 anos-M,15
+Beni,80304,Rurrenabaque,2007,11,2 a 4 anos-M,0
+Potosí,50701,Sacaca,2007,11,2 a 4 anos-M,7
+Oruro,40801,Salinas De Garci Mendoza,2007,11,2 a 4 anos-M,9
+Beni,80501,San Ignacio,2007,11,2 a 4 anos-M,0
+Santa Cruz,70301,San Ignacio De Velasco,2007,11,2 a 4 anos-M,5
+Santa Cruz,71201,San Matias,2007,11,2 a 4 anos-M,1
+Beni,80401,Santa Ana,2007,11,2 a 4 anos-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,2 a 4 anos-M,0
+Beni,80303,Santa Rosa,2007,11,2 a 4 anos-M,0
+Oruro,40104,Soracachi,2007,11,2 a 4 anos-M,1
+Chuquisaca,10101,Sucre,2007,11,2 a 4 anos-M,1
+Cochabamba,30602,Tacopaya,2007,11,2 a 4 anos-M,12
+Cochabamba,30401,Tarata,2007,11,2 a 4 anos-M,1
+Cochabamba,30802,Toco,2007,11,2 a 4 anos-M,0
+Cochabamba,30803,Tolata,2007,11,2 a 4 anos-M,0
+Oruro,41001,Toledo,2007,11,2 a 4 anos-M,2
+Potosí,50502,Toro Toro,2007,11,2 a 4 anos-M,11
+Beni,80101,Trinidad,2007,11,2 a 4 anos-M,3
+Oruro,40402,Turco,2007,11,2 a 4 anos-M,5
+Cochabamba,31402,Villa Rivero,2007,11,2 a 4 anos-M,0
+Tarija,60301,Yacuiba,2007,11,2 a 4 anos-M,2
+Chuquisaca,10102,Yotala,2007,11,2 a 4 anos-M,49
+Chuquisaca,10301,Zudañez,2007,11,2 a 4 anos-M,4
+La Paz,20104,Achocalla,2007,12,2 a 4 anos-M,1
+Cochabamba,31303,Alalay,2007,12,2 a 4 anos-M,0
+Oruro,41201,Andamarca,2007,12,2 a 4 anos-M,2
+Santa Cruz,71501,Ascencion De Guarayos,2007,12,2 a 4 anos-M,31
+Oruro,41202,Belen De Andamarca,2007,12,2 a 4 anos-M,2
+Potosí,50301,Betanzos,2007,12,2 a 4 anos-M,6
+Cochabamba,30701,Capinota,2007,12,2 a 4 anos-M,0
+Oruro,40102,Caracollo,2007,12,2 a 4 anos-M,2
+Oruro,40201,Challapata,2007,12,2 a 4 anos-M,27
+La Paz,21004,Colquiri,2007,12,2 a 4 anos-M,25
+Oruro,40301,Corque,2007,12,2 a 4 anos-M,11
+Potosí,50601,Cotagaita,2007,12,2 a 4 anos-M,7
+Santa Cruz,70102,Cotoca,2007,12,2 a 4 anos-M,2
+Oruro,40401,Curahuara De Carangas,2007,12,2 a 4 anos-M,9
+Oruro,40103,El Choro,2007,12,2 a 4 anos-M,1
+Santa Cruz,70105,El Torno,2007,12,2 a 4 anos-M,12
+Oruro,41101,Eucaliptus,2007,12,2 a 4 anos-M,7
+Oruro,40501,Huachacalla,2007,12,2 a 4 anos-M,7
+Oruro,40701,Huanuni,2007,12,2 a 4 anos-M,9
+La Paz,21001,Inquisivi,2007,12,2 a 4 anos-M,10
+Santa Cruz,70104,La Guardia,2007,12,2 a 4 anos-M,4
+Beni,80601,Loreto,2007,12,2 a 4 anos-M,1
+Oruro,40702,Machacamarca,2007,12,2 a 4 anos-M,1
+Oruro,40101,Oruro,2007,12,2 a 4 anos-M,18
+Oruro,40802,Pampa Aullagas,2007,12,2 a 4 anos-M,4
+Oruro,40602,Pazña,2007,12,2 a 4 anos-M,2
+Oruro,40601,Poopo,2007,12,2 a 4 anos-M,1
+Potosí,51203,Porco,2007,12,2 a 4 anos-M,0
+Chuquisaca,10302,Presto,2007,12,2 a 4 anos-M,3
+Santa Cruz,71402,Puerto Quijarro,2007,12,2 a 4 anos-M,0
+Beni,80301,Reyes,2007,12,2 a 4 anos-M,0
+Beni,80201,Riberalta,2007,12,2 a 4 anos-M,11
+Santa Cruz,70503,Robore,2007,12,2 a 4 anos-M,0
+Beni,80304,Rurrenabaque,2007,12,2 a 4 anos-M,0
+Cochabamba,30404,Sacabamba,2007,12,2 a 4 anos-M,0
+Oruro,40801,Salinas De Garci Mendoza,2007,12,2 a 4 anos-M,18
+Beni,80602,San Andres,2007,12,2 a 4 anos-M,2
+Beni,80501,San Ignacio,2007,12,2 a 4 anos-M,0
+Santa Cruz,70301,San Ignacio De Velasco,2007,12,2 a 4 anos-M,2
+Chuquisaca,10702,San Lucas,2007,12,2 a 4 anos-M,3
+Santa Cruz,71201,San Matias,2007,12,2 a 4 anos-M,0
+Beni,80401,Santa Ana,2007,12,2 a 4 anos-M,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,2 a 4 anos-M,0
+Beni,80303,Santa Rosa,2007,12,2 a 4 anos-M,0
+Oruro,41401,Santiago De Huari,2007,12,2 a 4 anos-M,8
+Oruro,40104,Soracachi,2007,12,2 a 4 anos-M,4
+Chuquisaca,10101,Sucre,2007,12,2 a 4 anos-M,0
+Cochabamba,30602,Tacopaya,2007,12,2 a 4 anos-M,4
+Chuquisaca,10601,Tarabuco,2007,12,2 a 4 anos-M,0
+Cochabamba,30401,Tarata,2007,12,2 a 4 anos-M,0
+Cochabamba,30802,Toco,2007,12,2 a 4 anos-M,0
+Oruro,41001,Toledo,2007,12,2 a 4 anos-M,5
+Potosí,50502,Toro Toro,2007,12,2 a 4 anos-M,48
+Cochabamba,31201,Totora(cbba),2007,12,2 a 4 anos-M,4
+Oruro,41301,Totora(orr),2007,12,2 a 4 anos-M,0
+Beni,80101,Trinidad,2007,12,2 a 4 anos-M,11
+Oruro,40402,Turco,2007,12,2 a 4 anos-M,5
+Cochabamba,31003,Villa Tunari,2007,12,2 a 4 anos-M,6
+Tarija,60301,Yacuiba,2007,12,2 a 4 anos-M,3
+Chuquisaca,10102,Yotala,2007,12,2 a 4 anos-M,35
+Tarija,60402,Yunchara,2007,12,2 a 4 anos-M,0
+Cochabamba,30403,Arbieto,2007,1,TOTAL-H,2
+Oruro,41202,Belen De Andamarca,2007,1,TOTAL-H,1
+Oruro,40201,Challapata,2007,1,TOTAL-H,35
+Oruro,40302,Choque Cota,2007,1,TOTAL-H,3
+La Paz,21004,Colquiri,2007,1,TOTAL-H,22
+Oruro,40301,Corque,2007,1,TOTAL-H,5
+Oruro,40401,Curahuara De Carangas,2007,1,TOTAL-H,8
+Oruro,41101,Eucaliptus,2007,1,TOTAL-H,9
+La Paz,21005,Ichoca,2007,1,TOTAL-H,0
+La Paz,21001,Inquisivi,2007,1,TOTAL-H,27
+Santa Cruz,70104,La Guardia,2007,1,TOTAL-H,12
+Potosí,50203,Llallagua,2007,1,TOTAL-H,6
+Cochabamba,30302,Morochata,2007,1,TOTAL-H,9
+Oruro,40101,Oruro,2007,1,TOTAL-H,54
+Oruro,40601,Poopo,2007,1,TOTAL-H,10
+Beni,80301,Reyes,2007,1,TOTAL-H,6
+Beni,80304,Rurrenabaque,2007,1,TOTAL-H,0
+Oruro,40901,Sabaya,2007,1,TOTAL-H,3
+Oruro,40801,Salinas De Garci Mendoza,2007,1,TOTAL-H,13
+Beni,80602,San Andres,2007,1,TOTAL-H,7
+Beni,80102,San Javier(bni),2007,1,TOTAL-H,1
+Tarija,60501,San Lorenzo(tja),2007,1,TOTAL-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,1,TOTAL-H,16
+Oruro,40104,Soracachi,2007,1,TOTAL-H,3
+Chuquisaca,10101,Sucre,2007,1,TOTAL-H,1
+Cochabamba,30401,Tarata,2007,1,TOTAL-H,1
+Tarija,60101,Tarija,2007,1,TOTAL-H,42
+Cochabamba,30803,Tolata,2007,1,TOTAL-H,1
+Potosí,50502,Toro Toro,2007,1,TOTAL-H,2
+Oruro,41301,Totora(orr),2007,1,TOTAL-H,14
+Beni,80101,Trinidad,2007,1,TOTAL-H,10
+Oruro,40402,Turco,2007,1,TOTAL-H,13
+Cochabamba,31003,Villa Tunari,2007,1,TOTAL-H,1
+Tarija,60301,Yacuiba,2007,1,TOTAL-H,9
+Oruro,41201,Andamarca,2007,2,TOTAL-H,7
+Cochabamba,30402,Anzaldo,2007,2,TOTAL-H,6
+Santa Cruz,71501,Ascencion De Guarayos,2007,2,TOTAL-H,6
+Oruro,41202,Belen De Andamarca,2007,2,TOTAL-H,1
+Oruro,40201,Challapata,2007,2,TOTAL-H,21
+Oruro,40903,Chipaya,2007,2,TOTAL-H,0
+Oruro,40302,Choque Cota,2007,2,TOTAL-H,2
+Oruro,40902,Coipasa,2007,2,TOTAL-H,1
+Potosí,50401,Colquechaca,2007,2,TOTAL-H,0
+La Paz,21004,Colquiri,2007,2,TOTAL-H,18
+Oruro,40301,Corque,2007,2,TOTAL-H,5
+Oruro,40401,Curahuara De Carangas,2007,2,TOTAL-H,0
+Oruro,40103,El Choro,2007,2,TOTAL-H,1
+Oruro,41101,Eucaliptus,2007,2,TOTAL-H,0
+Oruro,40701,Huanuni,2007,2,TOTAL-H,0
+La Paz,21005,Ichoca,2007,2,TOTAL-H,3
+La Paz,21001,Inquisivi,2007,2,TOTAL-H,21
+Potosí,50203,Llallagua,2007,2,TOTAL-H,2
+Oruro,40702,Machacamarca,2007,2,TOTAL-H,7
+Oruro,40101,Oruro,2007,2,TOTAL-H,60
+Oruro,40601,Poopo,2007,2,TOTAL-H,3
+Pando,90301,Puerto Gonzalo Moreno,2007,2,TOTAL-H,2
+Oruro,40901,Sabaya,2007,2,TOTAL-H,2
+Cochabamba,30404,Sacabamba,2007,2,TOTAL-H,1
+Oruro,40801,Salinas De Garci Mendoza,2007,2,TOTAL-H,2
+Beni,80102,San Javier(bni),2007,2,TOTAL-H,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,2,TOTAL-H,16
+Oruro,40104,Soracachi,2007,2,TOTAL-H,2
+Chuquisaca,10101,Sucre,2007,2,TOTAL-H,1
+Tarija,60101,Tarija,2007,2,TOTAL-H,62
+Cochabamba,30803,Tolata,2007,2,TOTAL-H,0
+Oruro,41001,Toledo,2007,2,TOTAL-H,1
+Potosí,50502,Toro Toro,2007,2,TOTAL-H,11
+Oruro,41301,Totora(orr),2007,2,TOTAL-H,4
+Oruro,40402,Turco,2007,2,TOTAL-H,7
+Tarija,60301,Yacuiba,2007,2,TOTAL-H,6
+Oruro,41201,Andamarca,2007,3,TOTAL-H,23
+Cochabamba,30402,Anzaldo,2007,3,TOTAL-H,7
+Cochabamba,30403,Arbieto,2007,3,TOTAL-H,2
+Oruro,41202,Belen De Andamarca,2007,3,TOTAL-H,1
+Tarija,60202,Bermejo,2007,3,TOTAL-H,1
+Santa Cruz,70401,Buena Vista,2007,3,TOTAL-H,1
+Santa Cruz,70706,Camiri,2007,3,TOTAL-H,5
+Oruro,40201,Challapata,2007,3,TOTAL-H,40
+Oruro,40903,Chipaya,2007,3,TOTAL-H,0
+Oruro,40301,Corque,2007,3,TOTAL-H,16
+Santa Cruz,70102,Cotoca,2007,3,TOTAL-H,3
+Oruro,40401,Curahuara De Carangas,2007,3,TOTAL-H,9
+Tarija,60502,El Puente(tja),2007,3,TOTAL-H,1
+Oruro,40505,Esmeralda,2007,3,TOTAL-H,0
+Oruro,40701,Huanuni,2007,3,TOTAL-H,1
+La Paz,21005,Ichoca,2007,3,TOTAL-H,2
+La Paz,21001,Inquisivi,2007,3,TOTAL-H,39
+Santa Cruz,70104,La Guardia,2007,3,TOTAL-H,15
+Potosí,50203,Llallagua,2007,3,TOTAL-H,3
+Oruro,40101,Oruro,2007,3,TOTAL-H,89
+Potosí,50403,Pocoata,2007,3,TOTAL-H,7
+Oruro,40601,Poopo,2007,3,TOTAL-H,1
+Chuquisaca,10302,Presto,2007,3,TOTAL-H,12
+Cochabamba,30901,Quillacollo,2007,3,TOTAL-H,0
+Oruro,40901,Sabaya,2007,3,TOTAL-H,4
+Oruro,40801,Salinas De Garci Mendoza,2007,3,TOTAL-H,33
+Cochabamba,31403,San Benito,2007,3,TOTAL-H,4
+Beni,80501,San Ignacio,2007,3,TOTAL-H,0
+Chuquisaca,10702,San Lucas,2007,3,TOTAL-H,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,TOTAL-H,83
+Beni,80303,Santa Rosa,2007,3,TOTAL-H,4
+Oruro,40104,Soracachi,2007,3,TOTAL-H,18
+Chuquisaca,10101,Sucre,2007,3,TOTAL-H,1
+Tarija,60101,Tarija,2007,3,TOTAL-H,59
+Cochabamba,30802,Toco,2007,3,TOTAL-H,3
+Cochabamba,30803,Tolata,2007,3,TOTAL-H,0
+Oruro,41001,Toledo,2007,3,TOTAL-H,2
+Potosí,50502,Toro Toro,2007,3,TOTAL-H,25
+Oruro,41301,Totora(orr),2007,3,TOTAL-H,2
+Oruro,40402,Turco,2007,3,TOTAL-H,27
+Cochabamba,31402,Villa Rivero,2007,3,TOTAL-H,2
+Tarija,60301,Yacuiba,2007,3,TOTAL-H,5
+Oruro,41201,Andamarca,2007,4,TOTAL-H,17
+Cochabamba,30402,Anzaldo,2007,4,TOTAL-H,3
+Cochabamba,30403,Arbieto,2007,4,TOTAL-H,2
+Oruro,41202,Belen De Andamarca,2007,4,TOTAL-H,0
+La Paz,21003,Cajuata,2007,4,TOTAL-H,2
+Cochabamba,30701,Capinota,2007,4,TOTAL-H,0
+Oruro,40201,Challapata,2007,4,TOTAL-H,41
+Oruro,40302,Choque Cota,2007,4,TOTAL-H,1
+Oruro,40301,Corque,2007,4,TOTAL-H,9
+Santa Cruz,70102,Cotoca,2007,4,TOTAL-H,4
+Oruro,40401,Curahuara De Carangas,2007,4,TOTAL-H,2
+Santa Cruz,70105,El Torno,2007,4,TOTAL-H,11
+Oruro,40505,Esmeralda,2007,4,TOTAL-H,0
+Oruro,40701,Huanuni,2007,4,TOTAL-H,0
+La Paz,21005,Ichoca,2007,4,TOTAL-H,2
+La Paz,21001,Inquisivi,2007,4,TOTAL-H,26
+Santa Cruz,70104,La Guardia,2007,4,TOTAL-H,30
+Potosí,50203,Llallagua,2007,4,TOTAL-H,1
+Oruro,40101,Oruro,2007,4,TOTAL-H,94
+Potosí,50403,Pocoata,2007,4,TOTAL-H,4
+Oruro,40601,Poopo,2007,4,TOTAL-H,8
+Potosí,51203,Porco,2007,4,TOTAL-H,3
+Chuquisaca,10302,Presto,2007,4,TOTAL-H,13
+Beni,80304,Rurrenabaque,2007,4,TOTAL-H,2
+Oruro,40901,Sabaya,2007,4,TOTAL-H,1
+Oruro,40801,Salinas De Garci Mendoza,2007,4,TOTAL-H,10
+Beni,80302,San Borja,2007,4,TOTAL-H,1
+Chuquisaca,10702,San Lucas,2007,4,TOTAL-H,9
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,TOTAL-H,15
+Oruro,40104,Soracachi,2007,4,TOTAL-H,2
+Tarija,60101,Tarija,2007,4,TOTAL-H,21
+Cochabamba,31601,Tiraque (cbba),2007,4,TOTAL-H,0
+Oruro,41301,Totora(orr),2007,4,TOTAL-H,3
+Oruro,40402,Turco,2007,4,TOTAL-H,17
+Cochabamba,31003,Villa Tunari,2007,4,TOTAL-H,0
+Tarija,60301,Yacuiba,2007,4,TOTAL-H,3
+Santa Cruz,70403,Yapacani,2007,4,TOTAL-H,0
+Cochabamba,31303,Alalay,2007,5,TOTAL-H,2
+Oruro,41201,Andamarca,2007,5,TOTAL-H,21
+Cochabamba,30402,Anzaldo,2007,5,TOTAL-H,1
+Cochabamba,30403,Arbieto,2007,5,TOTAL-H,1
+Oruro,41202,Belen De Andamarca,2007,5,TOTAL-H,0
+Potosí,50301,Betanzos,2007,5,TOTAL-H,5
+Oruro,40201,Challapata,2007,5,TOTAL-H,49
+Oruro,40302,Choque Cota,2007,5,TOTAL-H,1
+Oruro,40301,Corque,2007,5,TOTAL-H,33
+Santa Cruz,70102,Cotoca,2007,5,TOTAL-H,9
+Oruro,40401,Curahuara De Carangas,2007,5,TOTAL-H,15
+Oruro,40103,El Choro,2007,5,TOTAL-H,0
+Santa Cruz,70105,El Torno,2007,5,TOTAL-H,21
+Oruro,40505,Esmeralda,2007,5,TOTAL-H,2
+Beni,80402,Exaltacion,2007,5,TOTAL-H,0
+Oruro,40501,Huachacalla,2007,5,TOTAL-H,4
+Oruro,40701,Huanuni,2007,5,TOTAL-H,7
+La Paz,21005,Ichoca,2007,5,TOTAL-H,0
+La Paz,21001,Inquisivi,2007,5,TOTAL-H,11
+Santa Cruz,70104,La Guardia,2007,5,TOTAL-H,25
+Potosí,50203,Llallagua,2007,5,TOTAL-H,1
+Oruro,40702,Machacamarca,2007,5,TOTAL-H,4
+Oruro,40101,Oruro,2007,5,TOTAL-H,126
+Tarija,60201,Padcaya,2007,5,TOTAL-H,1
+Potosí,50403,Pocoata,2007,5,TOTAL-H,5
+Cochabamba,31202,Pojo (cbba),2007,5,TOTAL-H,1
+Oruro,40601,Poopo,2007,5,TOTAL-H,5
+Santa Cruz,70103,Porongo,2007,5,TOTAL-H,0
+Chuquisaca,10302,Presto,2007,5,TOTAL-H,18
+Beni,80304,Rurrenabaque,2007,5,TOTAL-H,2
+Oruro,40901,Sabaya,2007,5,TOTAL-H,8
+Cochabamba,30404,Sacabamba,2007,5,TOTAL-H,2
+Oruro,40801,Salinas De Garci Mendoza,2007,5,TOTAL-H,35
+Beni,80602,San Andres,2007,5,TOTAL-H,1
+Santa Cruz,71104,San Julian,2007,5,TOTAL-H,3
+Tarija,60501,San Lorenzo(tja),2007,5,TOTAL-H,1
+Chuquisaca,10702,San Lucas,2007,5,TOTAL-H,12
+Beni,80401,Santa Ana,2007,5,TOTAL-H,14
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,TOTAL-H,7
+Oruro,41401,Santiago De Huari,2007,5,TOTAL-H,0
+Pando,90303,Sena,2007,5,TOTAL-H,6
+Cochabamba,31101,Tapacari,2007,5,TOTAL-H,8
+Tarija,60101,Tarija,2007,5,TOTAL-H,2
+Oruro,41001,Toledo,2007,5,TOTAL-H,0
+Potosí,50502,Toro Toro,2007,5,TOTAL-H,12
+Oruro,41301,Totora(orr),2007,5,TOTAL-H,1
+Beni,80101,Trinidad,2007,5,TOTAL-H,5
+Oruro,40402,Turco,2007,5,TOTAL-H,6
+Cochabamba,31402,Villa Rivero,2007,5,TOTAL-H,1
+Tarija,60301,Yacuiba,2007,5,TOTAL-H,1
+Cochabamba,31303,Alalay,2007,6,TOTAL-H,0
+Oruro,41201,Andamarca,2007,6,TOTAL-H,28
+Cochabamba,30402,Anzaldo,2007,6,TOTAL-H,2
+Cochabamba,30501,Arani,2007,6,TOTAL-H,6
+Cochabamba,30403,Arbieto,2007,6,TOTAL-H,0
+Oruro,40102,Caracollo,2007,6,TOTAL-H,1
+Oruro,40201,Challapata,2007,6,TOTAL-H,78
+Oruro,40302,Choque Cota,2007,6,TOTAL-H,3
+La Paz,21004,Colquiri,2007,6,TOTAL-H,19
+Oruro,40301,Corque,2007,6,TOTAL-H,17
+Santa Cruz,70102,Cotoca,2007,6,TOTAL-H,5
+Oruro,40401,Curahuara De Carangas,2007,6,TOTAL-H,16
+Oruro,40103,El Choro,2007,6,TOTAL-H,5
+Santa Cruz,70105,El Torno,2007,6,TOTAL-H,25
+Oruro,40501,Huachacalla,2007,6,TOTAL-H,3
+Oruro,40701,Huanuni,2007,6,TOTAL-H,4
+La Paz,21005,Ichoca,2007,6,TOTAL-H,10
+La Paz,21001,Inquisivi,2007,6,TOTAL-H,47
+Santa Cruz,70104,La Guardia,2007,6,TOTAL-H,22
+Potosí,50203,Llallagua,2007,6,TOTAL-H,2
+Oruro,40702,Machacamarca,2007,6,TOTAL-H,0
+Oruro,40101,Oruro,2007,6,TOTAL-H,116
+Oruro,40602,Pazña,2007,6,TOTAL-H,4
+Potosí,50403,Pocoata,2007,6,TOTAL-H,5
+Oruro,40601,Poopo,2007,6,TOTAL-H,2
+Chuquisaca,10302,Presto,2007,6,TOTAL-H,19
+Santa Cruz,70503,Robore,2007,6,TOTAL-H,1
+Beni,80304,Rurrenabaque,2007,6,TOTAL-H,9
+Oruro,40901,Sabaya,2007,6,TOTAL-H,7
+Cochabamba,30404,Sacabamba,2007,6,TOTAL-H,4
+Potosí,50701,Sacaca,2007,6,TOTAL-H,6
+Oruro,40801,Salinas De Garci Mendoza,2007,6,TOTAL-H,19
+Beni,80602,San Andres,2007,6,TOTAL-H,0
+Cochabamba,31403,San Benito,2007,6,TOTAL-H,13
+Chuquisaca,10702,San Lucas,2007,6,TOTAL-H,19
+Santa Cruz,71201,San Matias,2007,6,TOTAL-H,2
+Beni,80401,Santa Ana,2007,6,TOTAL-H,14
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,6,TOTAL-H,6
+Beni,80303,Santa Rosa,2007,6,TOTAL-H,2
+Oruro,40104,Soracachi,2007,6,TOTAL-H,14
+Chuquisaca,10101,Sucre,2007,6,TOTAL-H,0
+Cochabamba,31101,Tapacari,2007,6,TOTAL-H,8
+Cochabamba,30401,Tarata,2007,6,TOTAL-H,1
+Cochabamba,30802,Toco,2007,6,TOTAL-H,3
+Oruro,41001,Toledo,2007,6,TOTAL-H,0
+Potosí,50502,Toro Toro,2007,6,TOTAL-H,56
+Oruro,41301,Totora(orr),2007,6,TOTAL-H,1
+Beni,80101,Trinidad,2007,6,TOTAL-H,22
+Oruro,40402,Turco,2007,6,TOTAL-H,16
+Cochabamba,31402,Villa Rivero,2007,6,TOTAL-H,0
+Tarija,60301,Yacuiba,2007,6,TOTAL-H,3
+Chuquisaca,10102,Yotala,2007,6,TOTAL-H,16
+Cochabamba,30201,Aiquile,2007,7,TOTAL-H,2
+Cochabamba,31303,Alalay,2007,7,TOTAL-H,4
+Oruro,41201,Andamarca,2007,7,TOTAL-H,12
+Cochabamba,30402,Anzaldo,2007,7,TOTAL-H,2
+Cochabamba,30403,Arbieto,2007,7,TOTAL-H,1
+Oruro,41202,Belen De Andamarca,2007,7,TOTAL-H,1
+Tarija,60202,Bermejo,2007,7,TOTAL-H,1
+Potosí,50301,Betanzos,2007,7,TOTAL-H,19
+Santa Cruz,70703,Cabezas,2007,7,TOTAL-H,1
+Oruro,40201,Challapata,2007,7,TOTAL-H,78
+Oruro,40302,Choque Cota,2007,7,TOTAL-H,1
+La Paz,21004,Colquiri,2007,7,TOTAL-H,31
+Santa Cruz,71301,Comarapa,2007,7,TOTAL-H,2
+Oruro,40301,Corque,2007,7,TOTAL-H,14
+Santa Cruz,70102,Cotoca,2007,7,TOTAL-H,9
+Oruro,40401,Curahuara De Carangas,2007,7,TOTAL-H,8
+Oruro,40103,El Choro,2007,7,TOTAL-H,3
+Santa Cruz,70105,El Torno,2007,7,TOTAL-H,11
+Tarija,60601,Entre Rios,2007,7,TOTAL-H,1
+Oruro,40501,Huachacalla,2007,7,TOTAL-H,1
+Oruro,40701,Huanuni,2007,7,TOTAL-H,2
+La Paz,21005,Ichoca,2007,7,TOTAL-H,0
+La Paz,21001,Inquisivi,2007,7,TOTAL-H,70
+Santa Cruz,70104,La Guardia,2007,7,TOTAL-H,27
+Santa Cruz,70701,Lagunillas,2007,7,TOTAL-H,0
+La Paz,21006,Licoma Pampa,2007,7,TOTAL-H,1
+Oruro,40702,Machacamarca,2007,7,TOTAL-H,1
+Oruro,40101,Oruro,2007,7,TOTAL-H,165
+Oruro,40802,Pampa Aullagas,2007,7,TOTAL-H,6
+Oruro,40602,Pazña,2007,7,TOTAL-H,6
+Potosí,50403,Pocoata,2007,7,TOTAL-H,8
+Potosí,51203,Porco,2007,7,TOTAL-H,2
+Chuquisaca,10302,Presto,2007,7,TOTAL-H,13
+Beni,80201,Riberalta,2007,7,TOTAL-H,2
+Oruro,40801,Salinas De Garci Mendoza,2007,7,TOTAL-H,7
+Cochabamba,31403,San Benito,2007,7,TOTAL-H,3
+Beni,80501,San Ignacio,2007,7,TOTAL-H,1
+Chuquisaca,10702,San Lucas,2007,7,TOTAL-H,6
+Beni,80401,Santa Ana,2007,7,TOTAL-H,9
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,7,TOTAL-H,9
+Beni,80303,Santa Rosa,2007,7,TOTAL-H,1
+Oruro,40104,Soracachi,2007,7,TOTAL-H,11
+Cochabamba,31101,Tapacari,2007,7,TOTAL-H,5
+Cochabamba,30401,Tarata,2007,7,TOTAL-H,2
+Tarija,60101,Tarija,2007,7,TOTAL-H,1
+Oruro,41001,Toledo,2007,7,TOTAL-H,2
+Potosí,50502,Toro Toro,2007,7,TOTAL-H,13
+Oruro,41301,Totora(orr),2007,7,TOTAL-H,6
+Oruro,40402,Turco,2007,7,TOTAL-H,15
+La Paz,20801,Viacha,2007,7,TOTAL-H,2
+Cochabamba,31003,Villa Tunari,2007,7,TOTAL-H,1
+Tarija,60301,Yacuiba,2007,7,TOTAL-H,12
+Potosí,51302,Acacio,2007,8,TOTAL-H,1
+Cochabamba,31303,Alalay,2007,8,TOTAL-H,1
+Oruro,41201,Andamarca,2007,8,TOTAL-H,47
+Cochabamba,30403,Arbieto,2007,8,TOTAL-H,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,8,TOTAL-H,14
+Potosí,50301,Betanzos,2007,8,TOTAL-H,25
+Oruro,40201,Challapata,2007,8,TOTAL-H,73
+Oruro,40302,Choque Cota,2007,8,TOTAL-H,1
+Oruro,40902,Coipasa,2007,8,TOTAL-H,0
+La Paz,21004,Colquiri,2007,8,TOTAL-H,74
+Oruro,40301,Corque,2007,8,TOTAL-H,27
+Santa Cruz,70102,Cotoca,2007,8,TOTAL-H,18
+Oruro,40401,Curahuara De Carangas,2007,8,TOTAL-H,22
+La Paz,21602,Curva,2007,8,TOTAL-H,15
+Oruro,40103,El Choro,2007,8,TOTAL-H,6
+Santa Cruz,70105,El Torno,2007,8,TOTAL-H,17
+Tarija,60601,Entre Rios,2007,8,TOTAL-H,3
+Oruro,40501,Huachacalla,2007,8,TOTAL-H,5
+Oruro,40701,Huanuni,2007,8,TOTAL-H,17
+Oruro,41601,Huayllamarca,2007,8,TOTAL-H,3
+La Paz,21001,Inquisivi,2007,8,TOTAL-H,24
+Santa Cruz,70104,La Guardia,2007,8,TOTAL-H,46
+Beni,80601,Loreto,2007,8,TOTAL-H,4
+Oruro,40101,Oruro,2007,8,TOTAL-H,254
+Tarija,60201,Padcaya,2007,8,TOTAL-H,0
+Oruro,40802,Pampa Aullagas,2007,8,TOTAL-H,14
+Oruro,40602,Pazña,2007,8,TOTAL-H,7
+Potosí,50403,Pocoata,2007,8,TOTAL-H,3
+Oruro,40601,Poopo,2007,8,TOTAL-H,4
+Potosí,51203,Porco,2007,8,TOTAL-H,2
+Potosí,50101,Potosi,2007,8,TOTAL-H,1
+Chuquisaca,10302,Presto,2007,8,TOTAL-H,10
+Potosí,51101,Puna,2007,8,TOTAL-H,1
+Cochabamba,30901,Quillacollo,2007,8,TOTAL-H,0
+Beni,80201,Riberalta,2007,8,TOTAL-H,0
+Beni,80304,Rurrenabaque,2007,8,TOTAL-H,0
+Potosí,50701,Sacaca,2007,8,TOTAL-H,6
+Oruro,40801,Salinas De Garci Mendoza,2007,8,TOTAL-H,15
+Beni,80602,San Andres,2007,8,TOTAL-H,11
+Beni,80501,San Ignacio,2007,8,TOTAL-H,6
+Beni,80102,San Javier(bni),2007,8,TOTAL-H,3
+Chuquisaca,10702,San Lucas,2007,8,TOTAL-H,6
+Beni,80401,Santa Ana,2007,8,TOTAL-H,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,8,TOTAL-H,11
+Beni,80303,Santa Rosa,2007,8,TOTAL-H,4
+Oruro,41401,Santiago De Huari,2007,8,TOTAL-H,1
+Oruro,40104,Soracachi,2007,8,TOTAL-H,20
+Chuquisaca,10101,Sucre,2007,8,TOTAL-H,1
+Cochabamba,30903,Tiquipaya,2007,8,TOTAL-H,1
+Cochabamba,30803,Tolata,2007,8,TOTAL-H,0
+Oruro,41001,Toledo,2007,8,TOTAL-H,4
+Potosí,50502,Toro Toro,2007,8,TOTAL-H,54
+Oruro,41301,Totora(orr),2007,8,TOTAL-H,3
+Beni,80101,Trinidad,2007,8,TOTAL-H,14
+Oruro,40402,Turco,2007,8,TOTAL-H,18
+La Paz,20801,Viacha,2007,8,TOTAL-H,3
+Cochabamba,31402,Villa Rivero,2007,8,TOTAL-H,0
+Tarija,60301,Yacuiba,2007,8,TOTAL-H,12
+Chuquisaca,10102,Yotala,2007,8,TOTAL-H,89
+Tarija,60402,Yunchara,2007,8,TOTAL-H,2
+Chuquisaca,10301,Zudañez,2007,8,TOTAL-H,4
+Cochabamba,31303,Alalay,2007,9,TOTAL-H,1
+Oruro,41201,Andamarca,2007,9,TOTAL-H,22
+Cochabamba,30403,Arbieto,2007,9,TOTAL-H,0
+Oruro,41202,Belen De Andamarca,2007,9,TOTAL-H,0
+Potosí,50301,Betanzos,2007,9,TOTAL-H,18
+Santa Cruz,70703,Cabezas,2007,9,TOTAL-H,0
+Oruro,40201,Challapata,2007,9,TOTAL-H,85
+Oruro,40302,Choque Cota,2007,9,TOTAL-H,0
+La Paz,21004,Colquiri,2007,9,TOTAL-H,76
+Oruro,40301,Corque,2007,9,TOTAL-H,17
+Potosí,50601,Cotagaita,2007,9,TOTAL-H,29
+Santa Cruz,70102,Cotoca,2007,9,TOTAL-H,17
+Oruro,40401,Curahuara De Carangas,2007,9,TOTAL-H,2
+La Paz,21602,Curva,2007,9,TOTAL-H,8
+Santa Cruz,70105,El Torno,2007,9,TOTAL-H,15
+Oruro,41101,Eucaliptus,2007,9,TOTAL-H,8
+Oruro,40501,Huachacalla,2007,9,TOTAL-H,4
+Oruro,40701,Huanuni,2007,9,TOTAL-H,13
+Oruro,41601,Huayllamarca,2007,9,TOTAL-H,4
+La Paz,21001,Inquisivi,2007,9,TOTAL-H,72
+Santa Cruz,70104,La Guardia,2007,9,TOTAL-H,42
+Chuquisaca,10303,Mojocoya,2007,9,TOTAL-H,1
+Oruro,40101,Oruro,2007,9,TOTAL-H,152
+La Paz,20102,Palca,2007,9,TOTAL-H,0
+Oruro,40602,Pazña,2007,9,TOTAL-H,4
+Potosí,50403,Pocoata,2007,9,TOTAL-H,4
+Cochabamba,31203,Pocona,2007,9,TOTAL-H,0
+Potosí,51203,Porco,2007,9,TOTAL-H,4
+Potosí,50101,Potosi,2007,9,TOTAL-H,11
+Chuquisaca,10302,Presto,2007,9,TOTAL-H,9
+Beni,80301,Reyes,2007,9,TOTAL-H,3
+Beni,80201,Riberalta,2007,9,TOTAL-H,34
+Santa Cruz,70503,Robore,2007,9,TOTAL-H,1
+Beni,80304,Rurrenabaque,2007,9,TOTAL-H,4
+Oruro,40901,Sabaya,2007,9,TOTAL-H,0
+Potosí,50701,Sacaca,2007,9,TOTAL-H,24
+Oruro,40801,Salinas De Garci Mendoza,2007,9,TOTAL-H,20
+Beni,80602,San Andres,2007,9,TOTAL-H,1
+Cochabamba,31403,San Benito,2007,9,TOTAL-H,2
+Beni,80501,San Ignacio,2007,9,TOTAL-H,7
+Beni,80102,San Javier(bni),2007,9,TOTAL-H,1
+Chuquisaca,10702,San Lucas,2007,9,TOTAL-H,1
+Beni,80401,Santa Ana,2007,9,TOTAL-H,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,9,TOTAL-H,0
+Beni,80303,Santa Rosa,2007,9,TOTAL-H,1
+Oruro,41401,Santiago De Huari,2007,9,TOTAL-H,4
+Oruro,40104,Soracachi,2007,9,TOTAL-H,4
+Chuquisaca,10101,Sucre,2007,9,TOTAL-H,0
+Cochabamba,31101,Tapacari,2007,9,TOTAL-H,4
+Cochabamba,30802,Toco,2007,9,TOTAL-H,1
+Oruro,41001,Toledo,2007,9,TOTAL-H,2
+Potosí,50502,Toro Toro,2007,9,TOTAL-H,89
+Oruro,41301,Totora(orr),2007,9,TOTAL-H,3
+Beni,80101,Trinidad,2007,9,TOTAL-H,28
+Oruro,40402,Turco,2007,9,TOTAL-H,21
+Cochabamba,31003,Villa Tunari,2007,9,TOTAL-H,1
+Tarija,60301,Yacuiba,2007,9,TOTAL-H,7
+Chuquisaca,10102,Yotala,2007,9,TOTAL-H,86
+Tarija,60402,Yunchara,2007,9,TOTAL-H,1
+Chuquisaca,10301,Zudañez,2007,9,TOTAL-H,4
+La Paz,20104,Achocalla,2007,10,TOTAL-H,9
+Oruro,41201,Andamarca,2007,10,TOTAL-H,31
+Cochabamba,30403,Arbieto,2007,10,TOTAL-H,2
+Oruro,41202,Belen De Andamarca,2007,10,TOTAL-H,1
+Potosí,50301,Betanzos,2007,10,TOTAL-H,25
+Santa Cruz,70703,Cabezas,2007,10,TOTAL-H,1
+Cochabamba,30701,Capinota,2007,10,TOTAL-H,0
+Oruro,40102,Caracollo,2007,10,TOTAL-H,2
+Oruro,40201,Challapata,2007,10,TOTAL-H,112
+La Paz,21004,Colquiri,2007,10,TOTAL-H,82
+Oruro,40301,Corque,2007,10,TOTAL-H,14
+Potosí,50601,Cotagaita,2007,10,TOTAL-H,21
+Santa Cruz,70102,Cotoca,2007,10,TOTAL-H,14
+Oruro,40401,Curahuara De Carangas,2007,10,TOTAL-H,19
+Oruro,40103,El Choro,2007,10,TOTAL-H,2
+Santa Cruz,70105,El Torno,2007,10,TOTAL-H,7
+Oruro,41101,Eucaliptus,2007,10,TOTAL-H,36
+Beni,80402,Exaltacion,2007,10,TOTAL-H,6
+Oruro,40501,Huachacalla,2007,10,TOTAL-H,8
+Oruro,40701,Huanuni,2007,10,TOTAL-H,44
+Oruro,41601,Huayllamarca,2007,10,TOTAL-H,1
+La Paz,21001,Inquisivi,2007,10,TOTAL-H,32
+Santa Cruz,70104,La Guardia,2007,10,TOTAL-H,43
+Oruro,41501,La Rivera,2007,10,TOTAL-H,0
+La Paz,21006,Licoma Pampa,2007,10,TOTAL-H,0
+Beni,80601,Loreto,2007,10,TOTAL-H,2
+Oruro,40702,Machacamarca,2007,10,TOTAL-H,1
+La Paz,20103,Mecapaca,2007,10,TOTAL-H,0
+Oruro,40101,Oruro,2007,10,TOTAL-H,186
+Oruro,40802,Pampa Aullagas,2007,10,TOTAL-H,25
+Oruro,40602,Pazña,2007,10,TOTAL-H,3
+Oruro,40601,Poopo,2007,10,TOTAL-H,0
+Potosí,51203,Porco,2007,10,TOTAL-H,1
+Potosí,50101,Potosi,2007,10,TOTAL-H,2
+Chuquisaca,10302,Presto,2007,10,TOTAL-H,10
+Cochabamba,31205,Puerto Villarroel,2007,10,TOTAL-H,0
+Beni,80201,Riberalta,2007,10,TOTAL-H,55
+Santa Cruz,70503,Robore,2007,10,TOTAL-H,0
+Beni,80304,Rurrenabaque,2007,10,TOTAL-H,1
+Potosí,50701,Sacaca,2007,10,TOTAL-H,28
+Oruro,40801,Salinas De Garci Mendoza,2007,10,TOTAL-H,23
+Beni,80602,San Andres,2007,10,TOTAL-H,3
+Cochabamba,31403,San Benito,2007,10,TOTAL-H,0
+Beni,80501,San Ignacio,2007,10,TOTAL-H,7
+Chuquisaca,10702,San Lucas,2007,10,TOTAL-H,2
+Santa Cruz,71201,San Matias,2007,10,TOTAL-H,0
+Beni,80401,Santa Ana,2007,10,TOTAL-H,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,10,TOTAL-H,3
+Beni,80303,Santa Rosa,2007,10,TOTAL-H,3
+Oruro,41401,Santiago De Huari,2007,10,TOTAL-H,8
+Oruro,40104,Soracachi,2007,10,TOTAL-H,21
+Cochabamba,30401,Tarata,2007,10,TOTAL-H,2
+Cochabamba,30802,Toco,2007,10,TOTAL-H,2
+Cochabamba,30803,Tolata,2007,10,TOTAL-H,0
+Oruro,41001,Toledo,2007,10,TOTAL-H,9
+Potosí,50502,Toro Toro,2007,10,TOTAL-H,64
+Cochabamba,31201,Totora(cbba),2007,10,TOTAL-H,1
+Beni,80101,Trinidad,2007,10,TOTAL-H,30
+Oruro,40402,Turco,2007,10,TOTAL-H,17
+Cochabamba,31302,Vila Vila,2007,10,TOTAL-H,8
+Cochabamba,31402,Villa Rivero,2007,10,TOTAL-H,0
+Tarija,60301,Yacuiba,2007,10,TOTAL-H,8
+Chuquisaca,10102,Yotala,2007,10,TOTAL-H,85
+Chuquisaca,10301,Zudañez,2007,10,TOTAL-H,7
+La Paz,20104,Achocalla,2007,11,TOTAL-H,1
+Oruro,41201,Andamarca,2007,11,TOTAL-H,48
+Cochabamba,30402,Anzaldo,2007,11,TOTAL-H,0
+Oruro,41202,Belen De Andamarca,2007,11,TOTAL-H,4
+Potosí,50301,Betanzos,2007,11,TOTAL-H,13
+Cochabamba,30701,Capinota,2007,11,TOTAL-H,1
+Oruro,40201,Challapata,2007,11,TOTAL-H,69
+La Paz,21004,Colquiri,2007,11,TOTAL-H,35
+Oruro,40301,Corque,2007,11,TOTAL-H,25
+Potosí,50601,Cotagaita,2007,11,TOTAL-H,14
+Santa Cruz,70102,Cotoca,2007,11,TOTAL-H,10
+Oruro,40401,Curahuara De Carangas,2007,11,TOTAL-H,31
+Oruro,40103,El Choro,2007,11,TOTAL-H,8
+Santa Cruz,70105,El Torno,2007,11,TOTAL-H,20
+Tarija,60601,Entre Rios,2007,11,TOTAL-H,1
+Oruro,41101,Eucaliptus,2007,11,TOTAL-H,18
+Beni,80402,Exaltacion,2007,11,TOTAL-H,1
+Oruro,40501,Huachacalla,2007,11,TOTAL-H,9
+Oruro,40701,Huanuni,2007,11,TOTAL-H,39
+Oruro,41601,Huayllamarca,2007,11,TOTAL-H,1
+La Paz,21001,Inquisivi,2007,11,TOTAL-H,37
+Santa Cruz,70104,La Guardia,2007,11,TOTAL-H,43
+Beni,80601,Loreto,2007,11,TOTAL-H,1
+Oruro,40101,Oruro,2007,11,TOTAL-H,139
+Tarija,60201,Padcaya,2007,11,TOTAL-H,1
+Oruro,40802,Pampa Aullagas,2007,11,TOTAL-H,8
+Oruro,40602,Pazña,2007,11,TOTAL-H,11
+Oruro,40601,Poopo,2007,11,TOTAL-H,3
+Chuquisaca,10302,Presto,2007,11,TOTAL-H,7
+Cochabamba,31205,Puerto Villarroel,2007,11,TOTAL-H,0
+Beni,80301,Reyes,2007,11,TOTAL-H,0
+Beni,80201,Riberalta,2007,11,TOTAL-H,52
+Beni,80304,Rurrenabaque,2007,11,TOTAL-H,1
+Potosí,50701,Sacaca,2007,11,TOTAL-H,12
+Oruro,40801,Salinas De Garci Mendoza,2007,11,TOTAL-H,24
+Beni,80501,San Ignacio,2007,11,TOTAL-H,0
+Santa Cruz,70301,San Ignacio De Velasco,2007,11,TOTAL-H,1
+Santa Cruz,71201,San Matias,2007,11,TOTAL-H,5
+Beni,80401,Santa Ana,2007,11,TOTAL-H,10
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,TOTAL-H,1
+Beni,80303,Santa Rosa,2007,11,TOTAL-H,2
+Oruro,40104,Soracachi,2007,11,TOTAL-H,3
+Chuquisaca,10101,Sucre,2007,11,TOTAL-H,0
+Cochabamba,30602,Tacopaya,2007,11,TOTAL-H,19
+Cochabamba,30401,Tarata,2007,11,TOTAL-H,0
+Cochabamba,30802,Toco,2007,11,TOTAL-H,1
+Cochabamba,30803,Tolata,2007,11,TOTAL-H,0
+Oruro,41001,Toledo,2007,11,TOTAL-H,6
+Potosí,50502,Toro Toro,2007,11,TOTAL-H,21
+Beni,80101,Trinidad,2007,11,TOTAL-H,5
+Oruro,40402,Turco,2007,11,TOTAL-H,8
+Cochabamba,31402,Villa Rivero,2007,11,TOTAL-H,1
+Tarija,60301,Yacuiba,2007,11,TOTAL-H,2
+Chuquisaca,10102,Yotala,2007,11,TOTAL-H,83
+Chuquisaca,10301,Zudañez,2007,11,TOTAL-H,4
+La Paz,20104,Achocalla,2007,12,TOTAL-H,3
+Cochabamba,31303,Alalay,2007,12,TOTAL-H,1
+Oruro,41201,Andamarca,2007,12,TOTAL-H,18
+Santa Cruz,71501,Ascencion De Guarayos,2007,12,TOTAL-H,55
+Oruro,41202,Belen De Andamarca,2007,12,TOTAL-H,3
+Potosí,50301,Betanzos,2007,12,TOTAL-H,20
+Cochabamba,30701,Capinota,2007,12,TOTAL-H,1
+Oruro,40102,Caracollo,2007,12,TOTAL-H,3
+Oruro,40201,Challapata,2007,12,TOTAL-H,48
+La Paz,21004,Colquiri,2007,12,TOTAL-H,61
+Oruro,40301,Corque,2007,12,TOTAL-H,17
+Potosí,50601,Cotagaita,2007,12,TOTAL-H,24
+Santa Cruz,70102,Cotoca,2007,12,TOTAL-H,11
+Oruro,40401,Curahuara De Carangas,2007,12,TOTAL-H,25
+Oruro,40103,El Choro,2007,12,TOTAL-H,0
+Santa Cruz,70105,El Torno,2007,12,TOTAL-H,14
+Oruro,41101,Eucaliptus,2007,12,TOTAL-H,14
+Oruro,40501,Huachacalla,2007,12,TOTAL-H,3
+Oruro,40701,Huanuni,2007,12,TOTAL-H,32
+La Paz,21001,Inquisivi,2007,12,TOTAL-H,31
+Santa Cruz,70104,La Guardia,2007,12,TOTAL-H,28
+Beni,80601,Loreto,2007,12,TOTAL-H,0
+Oruro,40702,Machacamarca,2007,12,TOTAL-H,1
+Oruro,40101,Oruro,2007,12,TOTAL-H,63
+Oruro,40802,Pampa Aullagas,2007,12,TOTAL-H,5
+Oruro,40602,Pazña,2007,12,TOTAL-H,4
+Oruro,40601,Poopo,2007,12,TOTAL-H,3
+Potosí,51203,Porco,2007,12,TOTAL-H,4
+Chuquisaca,10302,Presto,2007,12,TOTAL-H,8
+Santa Cruz,71402,Puerto Quijarro,2007,12,TOTAL-H,2
+Beni,80301,Reyes,2007,12,TOTAL-H,1
+Beni,80201,Riberalta,2007,12,TOTAL-H,26
+Santa Cruz,70503,Robore,2007,12,TOTAL-H,4
+Beni,80304,Rurrenabaque,2007,12,TOTAL-H,0
+Cochabamba,30404,Sacabamba,2007,12,TOTAL-H,3
+Oruro,40801,Salinas De Garci Mendoza,2007,12,TOTAL-H,37
+Beni,80602,San Andres,2007,12,TOTAL-H,2
+Beni,80501,San Ignacio,2007,12,TOTAL-H,0
+Santa Cruz,70301,San Ignacio De Velasco,2007,12,TOTAL-H,2
+Chuquisaca,10702,San Lucas,2007,12,TOTAL-H,3
+Santa Cruz,71201,San Matias,2007,12,TOTAL-H,2
+Beni,80401,Santa Ana,2007,12,TOTAL-H,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,TOTAL-H,1
+Beni,80303,Santa Rosa,2007,12,TOTAL-H,1
+Oruro,41401,Santiago De Huari,2007,12,TOTAL-H,4
+Oruro,40104,Soracachi,2007,12,TOTAL-H,6
+Chuquisaca,10101,Sucre,2007,12,TOTAL-H,1
+Cochabamba,30602,Tacopaya,2007,12,TOTAL-H,5
+Chuquisaca,10601,Tarabuco,2007,12,TOTAL-H,6
+Cochabamba,30401,Tarata,2007,12,TOTAL-H,1
+Cochabamba,30802,Toco,2007,12,TOTAL-H,4
+Oruro,41001,Toledo,2007,12,TOTAL-H,10
+Potosí,50502,Toro Toro,2007,12,TOTAL-H,55
+Cochabamba,31201,Totora(cbba),2007,12,TOTAL-H,3
+Oruro,41301,Totora(orr),2007,12,TOTAL-H,3
+Beni,80101,Trinidad,2007,12,TOTAL-H,25
+Oruro,40402,Turco,2007,12,TOTAL-H,12
+Cochabamba,31003,Villa Tunari,2007,12,TOTAL-H,15
+Tarija,60301,Yacuiba,2007,12,TOTAL-H,4
+Chuquisaca,10102,Yotala,2007,12,TOTAL-H,68
+Tarija,60402,Yunchara,2007,12,TOTAL-H,2
+Cochabamba,30403,Arbieto,2007,1,TOTAL-M,0
+Oruro,41202,Belen De Andamarca,2007,1,TOTAL-M,0
+Oruro,40201,Challapata,2007,1,TOTAL-M,30
+Oruro,40302,Choque Cota,2007,1,TOTAL-M,7
+La Paz,21004,Colquiri,2007,1,TOTAL-M,17
+Oruro,40301,Corque,2007,1,TOTAL-M,8
+Oruro,40401,Curahuara De Carangas,2007,1,TOTAL-M,2
+Oruro,41101,Eucaliptus,2007,1,TOTAL-M,3
+La Paz,21005,Ichoca,2007,1,TOTAL-M,3
+La Paz,21001,Inquisivi,2007,1,TOTAL-M,16
+Santa Cruz,70104,La Guardia,2007,1,TOTAL-M,15
+Potosí,50203,Llallagua,2007,1,TOTAL-M,2
+Cochabamba,30302,Morochata,2007,1,TOTAL-M,0
+Oruro,40101,Oruro,2007,1,TOTAL-M,56
+Oruro,40601,Poopo,2007,1,TOTAL-M,6
+Beni,80301,Reyes,2007,1,TOTAL-M,6
+Beni,80304,Rurrenabaque,2007,1,TOTAL-M,1
+Oruro,40901,Sabaya,2007,1,TOTAL-M,3
+Oruro,40801,Salinas De Garci Mendoza,2007,1,TOTAL-M,6
+Beni,80602,San Andres,2007,1,TOTAL-M,12
+Beni,80102,San Javier(bni),2007,1,TOTAL-M,1
+Tarija,60501,San Lorenzo(tja),2007,1,TOTAL-M,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,1,TOTAL-M,14
+Oruro,40104,Soracachi,2007,1,TOTAL-M,2
+Chuquisaca,10101,Sucre,2007,1,TOTAL-M,1
+Cochabamba,30401,Tarata,2007,1,TOTAL-M,0
+Tarija,60101,Tarija,2007,1,TOTAL-M,45
+Cochabamba,30803,Tolata,2007,1,TOTAL-M,0
+Potosí,50502,Toro Toro,2007,1,TOTAL-M,0
+Oruro,41301,Totora(orr),2007,1,TOTAL-M,9
+Beni,80101,Trinidad,2007,1,TOTAL-M,12
+Oruro,40402,Turco,2007,1,TOTAL-M,9
+Cochabamba,31003,Villa Tunari,2007,1,TOTAL-M,0
+Tarija,60301,Yacuiba,2007,1,TOTAL-M,8
+Oruro,41201,Andamarca,2007,2,TOTAL-M,2
+Cochabamba,30402,Anzaldo,2007,2,TOTAL-M,2
+Santa Cruz,71501,Ascencion De Guarayos,2007,2,TOTAL-M,6
+Oruro,41202,Belen De Andamarca,2007,2,TOTAL-M,0
+Oruro,40201,Challapata,2007,2,TOTAL-M,24
+Oruro,40903,Chipaya,2007,2,TOTAL-M,1
+Oruro,40302,Choque Cota,2007,2,TOTAL-M,0
+Oruro,40902,Coipasa,2007,2,TOTAL-M,0
+Potosí,50401,Colquechaca,2007,2,TOTAL-M,2
+La Paz,21004,Colquiri,2007,2,TOTAL-M,10
+Oruro,40301,Corque,2007,2,TOTAL-M,4
+Oruro,40401,Curahuara De Carangas,2007,2,TOTAL-M,3
+Oruro,40103,El Choro,2007,2,TOTAL-M,2
+Oruro,41101,Eucaliptus,2007,2,TOTAL-M,1
+Oruro,40701,Huanuni,2007,2,TOTAL-M,3
+La Paz,21005,Ichoca,2007,2,TOTAL-M,6
+La Paz,21001,Inquisivi,2007,2,TOTAL-M,7
+Potosí,50203,Llallagua,2007,2,TOTAL-M,2
+Oruro,40702,Machacamarca,2007,2,TOTAL-M,2
+Oruro,40101,Oruro,2007,2,TOTAL-M,43
+Oruro,40601,Poopo,2007,2,TOTAL-M,6
+Pando,90301,Puerto Gonzalo Moreno,2007,2,TOTAL-M,0
+Oruro,40901,Sabaya,2007,2,TOTAL-M,3
+Cochabamba,30404,Sacabamba,2007,2,TOTAL-M,1
+Oruro,40801,Salinas De Garci Mendoza,2007,2,TOTAL-M,5
+Beni,80102,San Javier(bni),2007,2,TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,2,TOTAL-M,5
+Oruro,40104,Soracachi,2007,2,TOTAL-M,4
+Chuquisaca,10101,Sucre,2007,2,TOTAL-M,0
+Tarija,60101,Tarija,2007,2,TOTAL-M,70
+Cochabamba,30803,Tolata,2007,2,TOTAL-M,1
+Oruro,41001,Toledo,2007,2,TOTAL-M,0
+Potosí,50502,Toro Toro,2007,2,TOTAL-M,4
+Oruro,41301,Totora(orr),2007,2,TOTAL-M,4
+Oruro,40402,Turco,2007,2,TOTAL-M,10
+Tarija,60301,Yacuiba,2007,2,TOTAL-M,22
+Oruro,41201,Andamarca,2007,3,TOTAL-M,23
+Cochabamba,30402,Anzaldo,2007,3,TOTAL-M,4
+Cochabamba,30403,Arbieto,2007,3,TOTAL-M,1
+Oruro,41202,Belen De Andamarca,2007,3,TOTAL-M,0
+Tarija,60202,Bermejo,2007,3,TOTAL-M,2
+Santa Cruz,70401,Buena Vista,2007,3,TOTAL-M,2
+Santa Cruz,70706,Camiri,2007,3,TOTAL-M,0
+Oruro,40201,Challapata,2007,3,TOTAL-M,55
+Oruro,40903,Chipaya,2007,3,TOTAL-M,2
+Oruro,40301,Corque,2007,3,TOTAL-M,15
+Santa Cruz,70102,Cotoca,2007,3,TOTAL-M,0
+Oruro,40401,Curahuara De Carangas,2007,3,TOTAL-M,4
+Tarija,60502,El Puente(tja),2007,3,TOTAL-M,0
+Oruro,40505,Esmeralda,2007,3,TOTAL-M,1
+Oruro,40701,Huanuni,2007,3,TOTAL-M,6
+La Paz,21005,Ichoca,2007,3,TOTAL-M,0
+La Paz,21001,Inquisivi,2007,3,TOTAL-M,31
+Santa Cruz,70104,La Guardia,2007,3,TOTAL-M,17
+Potosí,50203,Llallagua,2007,3,TOTAL-M,3
+Oruro,40101,Oruro,2007,3,TOTAL-M,69
+Potosí,50403,Pocoata,2007,3,TOTAL-M,7
+Oruro,40601,Poopo,2007,3,TOTAL-M,5
+Chuquisaca,10302,Presto,2007,3,TOTAL-M,14
+Cochabamba,30901,Quillacollo,2007,3,TOTAL-M,1
+Oruro,40901,Sabaya,2007,3,TOTAL-M,5
+Oruro,40801,Salinas De Garci Mendoza,2007,3,TOTAL-M,15
+Cochabamba,31403,San Benito,2007,3,TOTAL-M,3
+Beni,80501,San Ignacio,2007,3,TOTAL-M,1
+Chuquisaca,10702,San Lucas,2007,3,TOTAL-M,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,TOTAL-M,53
+Beni,80303,Santa Rosa,2007,3,TOTAL-M,8
+Oruro,40104,Soracachi,2007,3,TOTAL-M,17
+Chuquisaca,10101,Sucre,2007,3,TOTAL-M,3
+Tarija,60101,Tarija,2007,3,TOTAL-M,47
+Cochabamba,30802,Toco,2007,3,TOTAL-M,1
+Cochabamba,30803,Tolata,2007,3,TOTAL-M,2
+Oruro,41001,Toledo,2007,3,TOTAL-M,2
+Potosí,50502,Toro Toro,2007,3,TOTAL-M,25
+Oruro,41301,Totora(orr),2007,3,TOTAL-M,1
+Oruro,40402,Turco,2007,3,TOTAL-M,13
+Cochabamba,31402,Villa Rivero,2007,3,TOTAL-M,2
+Tarija,60301,Yacuiba,2007,3,TOTAL-M,17
+Oruro,41201,Andamarca,2007,4,TOTAL-M,11
+Cochabamba,30402,Anzaldo,2007,4,TOTAL-M,5
+Cochabamba,30403,Arbieto,2007,4,TOTAL-M,0
+Oruro,41202,Belen De Andamarca,2007,4,TOTAL-M,2
+La Paz,21003,Cajuata,2007,4,TOTAL-M,1
+Cochabamba,30701,Capinota,2007,4,TOTAL-M,1
+Oruro,40201,Challapata,2007,4,TOTAL-M,53
+Oruro,40302,Choque Cota,2007,4,TOTAL-M,0
+Oruro,40301,Corque,2007,4,TOTAL-M,17
+Santa Cruz,70102,Cotoca,2007,4,TOTAL-M,13
+Oruro,40401,Curahuara De Carangas,2007,4,TOTAL-M,0
+Santa Cruz,70105,El Torno,2007,4,TOTAL-M,11
+Oruro,40505,Esmeralda,2007,4,TOTAL-M,2
+Oruro,40701,Huanuni,2007,4,TOTAL-M,3
+La Paz,21005,Ichoca,2007,4,TOTAL-M,2
+La Paz,21001,Inquisivi,2007,4,TOTAL-M,19
+Santa Cruz,70104,La Guardia,2007,4,TOTAL-M,30
+Potosí,50203,Llallagua,2007,4,TOTAL-M,1
+Oruro,40101,Oruro,2007,4,TOTAL-M,84
+Potosí,50403,Pocoata,2007,4,TOTAL-M,8
+Oruro,40601,Poopo,2007,4,TOTAL-M,6
+Potosí,51203,Porco,2007,4,TOTAL-M,6
+Chuquisaca,10302,Presto,2007,4,TOTAL-M,8
+Beni,80304,Rurrenabaque,2007,4,TOTAL-M,0
+Oruro,40901,Sabaya,2007,4,TOTAL-M,5
+Oruro,40801,Salinas De Garci Mendoza,2007,4,TOTAL-M,6
+Beni,80302,San Borja,2007,4,TOTAL-M,0
+Chuquisaca,10702,San Lucas,2007,4,TOTAL-M,13
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,TOTAL-M,12
+Oruro,40104,Soracachi,2007,4,TOTAL-M,0
+Tarija,60101,Tarija,2007,4,TOTAL-M,23
+Cochabamba,31601,Tiraque (cbba),2007,4,TOTAL-M,6
+Oruro,41301,Totora(orr),2007,4,TOTAL-M,1
+Oruro,40402,Turco,2007,4,TOTAL-M,6
+Cochabamba,31003,Villa Tunari,2007,4,TOTAL-M,1
+Tarija,60301,Yacuiba,2007,4,TOTAL-M,18
+Santa Cruz,70403,Yapacani,2007,4,TOTAL-M,5
+Cochabamba,31303,Alalay,2007,5,TOTAL-M,0
+Oruro,41201,Andamarca,2007,5,TOTAL-M,23
+Cochabamba,30402,Anzaldo,2007,5,TOTAL-M,0
+Cochabamba,30403,Arbieto,2007,5,TOTAL-M,3
+Oruro,41202,Belen De Andamarca,2007,5,TOTAL-M,1
+Potosí,50301,Betanzos,2007,5,TOTAL-M,0
+Oruro,40201,Challapata,2007,5,TOTAL-M,54
+Oruro,40302,Choque Cota,2007,5,TOTAL-M,0
+Oruro,40301,Corque,2007,5,TOTAL-M,26
+Santa Cruz,70102,Cotoca,2007,5,TOTAL-M,11
+Oruro,40401,Curahuara De Carangas,2007,5,TOTAL-M,13
+Oruro,40103,El Choro,2007,5,TOTAL-M,1
+Santa Cruz,70105,El Torno,2007,5,TOTAL-M,19
+Oruro,40505,Esmeralda,2007,5,TOTAL-M,4
+Beni,80402,Exaltacion,2007,5,TOTAL-M,2
+Oruro,40501,Huachacalla,2007,5,TOTAL-M,2
+Oruro,40701,Huanuni,2007,5,TOTAL-M,10
+La Paz,21005,Ichoca,2007,5,TOTAL-M,3
+La Paz,21001,Inquisivi,2007,5,TOTAL-M,9
+Santa Cruz,70104,La Guardia,2007,5,TOTAL-M,28
+Potosí,50203,Llallagua,2007,5,TOTAL-M,3
+Oruro,40702,Machacamarca,2007,5,TOTAL-M,0
+Oruro,40101,Oruro,2007,5,TOTAL-M,91
+Tarija,60201,Padcaya,2007,5,TOTAL-M,0
+Potosí,50403,Pocoata,2007,5,TOTAL-M,8
+Cochabamba,31202,Pojo (cbba),2007,5,TOTAL-M,0
+Oruro,40601,Poopo,2007,5,TOTAL-M,0
+Santa Cruz,70103,Porongo,2007,5,TOTAL-M,1
+Chuquisaca,10302,Presto,2007,5,TOTAL-M,11
+Beni,80304,Rurrenabaque,2007,5,TOTAL-M,4
+Oruro,40901,Sabaya,2007,5,TOTAL-M,3
+Cochabamba,30404,Sacabamba,2007,5,TOTAL-M,1
+Oruro,40801,Salinas De Garci Mendoza,2007,5,TOTAL-M,27
+Beni,80602,San Andres,2007,5,TOTAL-M,0
+Santa Cruz,71104,San Julian,2007,5,TOTAL-M,2
+Tarija,60501,San Lorenzo(tja),2007,5,TOTAL-M,1
+Chuquisaca,10702,San Lucas,2007,5,TOTAL-M,10
+Beni,80401,Santa Ana,2007,5,TOTAL-M,14
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,TOTAL-M,15
+Oruro,41401,Santiago De Huari,2007,5,TOTAL-M,1
+Pando,90303,Sena,2007,5,TOTAL-M,7
+Cochabamba,31101,Tapacari,2007,5,TOTAL-M,11
+Tarija,60101,Tarija,2007,5,TOTAL-M,2
+Oruro,41001,Toledo,2007,5,TOTAL-M,2
+Potosí,50502,Toro Toro,2007,5,TOTAL-M,16
+Oruro,41301,Totora(orr),2007,5,TOTAL-M,2
+Beni,80101,Trinidad,2007,5,TOTAL-M,3
+Oruro,40402,Turco,2007,5,TOTAL-M,2
+Cochabamba,31402,Villa Rivero,2007,5,TOTAL-M,1
+Tarija,60301,Yacuiba,2007,5,TOTAL-M,8
+Cochabamba,31303,Alalay,2007,6,TOTAL-M,3
+Oruro,41201,Andamarca,2007,6,TOTAL-M,25
+Cochabamba,30402,Anzaldo,2007,6,TOTAL-M,1
+Cochabamba,30501,Arani,2007,6,TOTAL-M,3
+Cochabamba,30403,Arbieto,2007,6,TOTAL-M,1
+Oruro,40102,Caracollo,2007,6,TOTAL-M,0
+Oruro,40201,Challapata,2007,6,TOTAL-M,66
+Oruro,40302,Choque Cota,2007,6,TOTAL-M,0
+La Paz,21004,Colquiri,2007,6,TOTAL-M,13
+Oruro,40301,Corque,2007,6,TOTAL-M,15
+Santa Cruz,70102,Cotoca,2007,6,TOTAL-M,7
+Oruro,40401,Curahuara De Carangas,2007,6,TOTAL-M,11
+Oruro,40103,El Choro,2007,6,TOTAL-M,1
+Santa Cruz,70105,El Torno,2007,6,TOTAL-M,13
+Oruro,40501,Huachacalla,2007,6,TOTAL-M,5
+Oruro,40701,Huanuni,2007,6,TOTAL-M,5
+La Paz,21005,Ichoca,2007,6,TOTAL-M,14
+La Paz,21001,Inquisivi,2007,6,TOTAL-M,34
+Santa Cruz,70104,La Guardia,2007,6,TOTAL-M,21
+Potosí,50203,Llallagua,2007,6,TOTAL-M,0
+Oruro,40702,Machacamarca,2007,6,TOTAL-M,1
+Oruro,40101,Oruro,2007,6,TOTAL-M,98
+Oruro,40602,Pazña,2007,6,TOTAL-M,2
+Potosí,50403,Pocoata,2007,6,TOTAL-M,9
+Oruro,40601,Poopo,2007,6,TOTAL-M,1
+Chuquisaca,10302,Presto,2007,6,TOTAL-M,16
+Santa Cruz,70503,Robore,2007,6,TOTAL-M,1
+Beni,80304,Rurrenabaque,2007,6,TOTAL-M,4
+Oruro,40901,Sabaya,2007,6,TOTAL-M,6
+Cochabamba,30404,Sacabamba,2007,6,TOTAL-M,3
+Potosí,50701,Sacaca,2007,6,TOTAL-M,5
+Oruro,40801,Salinas De Garci Mendoza,2007,6,TOTAL-M,11
+Beni,80602,San Andres,2007,6,TOTAL-M,2
+Cochabamba,31403,San Benito,2007,6,TOTAL-M,13
+Chuquisaca,10702,San Lucas,2007,6,TOTAL-M,12
+Santa Cruz,71201,San Matias,2007,6,TOTAL-M,1
+Beni,80401,Santa Ana,2007,6,TOTAL-M,12
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,6,TOTAL-M,5
+Beni,80303,Santa Rosa,2007,6,TOTAL-M,2
+Oruro,40104,Soracachi,2007,6,TOTAL-M,17
+Chuquisaca,10101,Sucre,2007,6,TOTAL-M,1
+Cochabamba,31101,Tapacari,2007,6,TOTAL-M,15
+Cochabamba,30401,Tarata,2007,6,TOTAL-M,1
+Cochabamba,30802,Toco,2007,6,TOTAL-M,0
+Oruro,41001,Toledo,2007,6,TOTAL-M,1
+Potosí,50502,Toro Toro,2007,6,TOTAL-M,78
+Oruro,41301,Totora(orr),2007,6,TOTAL-M,2
+Beni,80101,Trinidad,2007,6,TOTAL-M,12
+Oruro,40402,Turco,2007,6,TOTAL-M,7
+Cochabamba,31402,Villa Rivero,2007,6,TOTAL-M,3
+Tarija,60301,Yacuiba,2007,6,TOTAL-M,3
+Chuquisaca,10102,Yotala,2007,6,TOTAL-M,16
+Cochabamba,30201,Aiquile,2007,7,TOTAL-M,2
+Cochabamba,31303,Alalay,2007,7,TOTAL-M,0
+Oruro,41201,Andamarca,2007,7,TOTAL-M,9
+Cochabamba,30402,Anzaldo,2007,7,TOTAL-M,1
+Cochabamba,30403,Arbieto,2007,7,TOTAL-M,2
+Oruro,41202,Belen De Andamarca,2007,7,TOTAL-M,0
+Tarija,60202,Bermejo,2007,7,TOTAL-M,2
+Potosí,50301,Betanzos,2007,7,TOTAL-M,6
+Santa Cruz,70703,Cabezas,2007,7,TOTAL-M,0
+Oruro,40201,Challapata,2007,7,TOTAL-M,64
+Oruro,40302,Choque Cota,2007,7,TOTAL-M,0
+La Paz,21004,Colquiri,2007,7,TOTAL-M,18
+Santa Cruz,71301,Comarapa,2007,7,TOTAL-M,0
+Oruro,40301,Corque,2007,7,TOTAL-M,14
+Santa Cruz,70102,Cotoca,2007,7,TOTAL-M,5
+Oruro,40401,Curahuara De Carangas,2007,7,TOTAL-M,7
+Oruro,40103,El Choro,2007,7,TOTAL-M,0
+Santa Cruz,70105,El Torno,2007,7,TOTAL-M,23
+Tarija,60601,Entre Rios,2007,7,TOTAL-M,1
+Oruro,40501,Huachacalla,2007,7,TOTAL-M,1
+Oruro,40701,Huanuni,2007,7,TOTAL-M,6
+La Paz,21005,Ichoca,2007,7,TOTAL-M,2
+La Paz,21001,Inquisivi,2007,7,TOTAL-M,42
+Santa Cruz,70104,La Guardia,2007,7,TOTAL-M,20
+Santa Cruz,70701,Lagunillas,2007,7,TOTAL-M,1
+La Paz,21006,Licoma Pampa,2007,7,TOTAL-M,0
+Oruro,40702,Machacamarca,2007,7,TOTAL-M,2
+Oruro,40101,Oruro,2007,7,TOTAL-M,128
+Oruro,40802,Pampa Aullagas,2007,7,TOTAL-M,12
+Oruro,40602,Pazña,2007,7,TOTAL-M,0
+Potosí,50403,Pocoata,2007,7,TOTAL-M,9
+Potosí,51203,Porco,2007,7,TOTAL-M,2
+Chuquisaca,10302,Presto,2007,7,TOTAL-M,14
+Beni,80201,Riberalta,2007,7,TOTAL-M,0
+Oruro,40801,Salinas De Garci Mendoza,2007,7,TOTAL-M,0
+Cochabamba,31403,San Benito,2007,7,TOTAL-M,2
+Beni,80501,San Ignacio,2007,7,TOTAL-M,1
+Chuquisaca,10702,San Lucas,2007,7,TOTAL-M,8
+Beni,80401,Santa Ana,2007,7,TOTAL-M,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,7,TOTAL-M,9
+Beni,80303,Santa Rosa,2007,7,TOTAL-M,1
+Oruro,40104,Soracachi,2007,7,TOTAL-M,9
+Cochabamba,31101,Tapacari,2007,7,TOTAL-M,8
+Cochabamba,30401,Tarata,2007,7,TOTAL-M,1
+Tarija,60101,Tarija,2007,7,TOTAL-M,1
+Oruro,41001,Toledo,2007,7,TOTAL-M,5
+Potosí,50502,Toro Toro,2007,7,TOTAL-M,12
+Oruro,41301,Totora(orr),2007,7,TOTAL-M,5
+Oruro,40402,Turco,2007,7,TOTAL-M,16
+La Paz,20801,Viacha,2007,7,TOTAL-M,1
+Cochabamba,31003,Villa Tunari,2007,7,TOTAL-M,2
+Tarija,60301,Yacuiba,2007,7,TOTAL-M,2
+Potosí,51302,Acacio,2007,8,TOTAL-M,1
+Cochabamba,31303,Alalay,2007,8,TOTAL-M,0
+Oruro,41201,Andamarca,2007,8,TOTAL-M,40
+Cochabamba,30403,Arbieto,2007,8,TOTAL-M,0
+Santa Cruz,71501,Ascencion De Guarayos,2007,8,TOTAL-M,41
+Potosí,50301,Betanzos,2007,8,TOTAL-M,13
+Oruro,40201,Challapata,2007,8,TOTAL-M,68
+Oruro,40302,Choque Cota,2007,8,TOTAL-M,1
+Oruro,40902,Coipasa,2007,8,TOTAL-M,1
+La Paz,21004,Colquiri,2007,8,TOTAL-M,59
+Oruro,40301,Corque,2007,8,TOTAL-M,27
+Santa Cruz,70102,Cotoca,2007,8,TOTAL-M,23
+Oruro,40401,Curahuara De Carangas,2007,8,TOTAL-M,20
+La Paz,21602,Curva,2007,8,TOTAL-M,3
+Oruro,40103,El Choro,2007,8,TOTAL-M,4
+Santa Cruz,70105,El Torno,2007,8,TOTAL-M,17
+Tarija,60601,Entre Rios,2007,8,TOTAL-M,5
+Oruro,40501,Huachacalla,2007,8,TOTAL-M,2
+Oruro,40701,Huanuni,2007,8,TOTAL-M,10
+Oruro,41601,Huayllamarca,2007,8,TOTAL-M,4
+La Paz,21001,Inquisivi,2007,8,TOTAL-M,22
+Santa Cruz,70104,La Guardia,2007,8,TOTAL-M,24
+Beni,80601,Loreto,2007,8,TOTAL-M,5
+Oruro,40101,Oruro,2007,8,TOTAL-M,203
+Tarija,60201,Padcaya,2007,8,TOTAL-M,2
+Oruro,40802,Pampa Aullagas,2007,8,TOTAL-M,11
+Oruro,40602,Pazña,2007,8,TOTAL-M,6
+Potosí,50403,Pocoata,2007,8,TOTAL-M,9
+Oruro,40601,Poopo,2007,8,TOTAL-M,3
+Potosí,51203,Porco,2007,8,TOTAL-M,7
+Potosí,50101,Potosi,2007,8,TOTAL-M,0
+Chuquisaca,10302,Presto,2007,8,TOTAL-M,12
+Potosí,51101,Puna,2007,8,TOTAL-M,2
+Cochabamba,30901,Quillacollo,2007,8,TOTAL-M,1
+Beni,80201,Riberalta,2007,8,TOTAL-M,1
+Beni,80304,Rurrenabaque,2007,8,TOTAL-M,5
+Potosí,50701,Sacaca,2007,8,TOTAL-M,8
+Oruro,40801,Salinas De Garci Mendoza,2007,8,TOTAL-M,6
+Beni,80602,San Andres,2007,8,TOTAL-M,18
+Beni,80501,San Ignacio,2007,8,TOTAL-M,14
+Beni,80102,San Javier(bni),2007,8,TOTAL-M,2
+Chuquisaca,10702,San Lucas,2007,8,TOTAL-M,7
+Beni,80401,Santa Ana,2007,8,TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,8,TOTAL-M,6
+Beni,80303,Santa Rosa,2007,8,TOTAL-M,5
+Oruro,41401,Santiago De Huari,2007,8,TOTAL-M,5
+Oruro,40104,Soracachi,2007,8,TOTAL-M,13
+Chuquisaca,10101,Sucre,2007,8,TOTAL-M,0
+Cochabamba,30903,Tiquipaya,2007,8,TOTAL-M,1
+Cochabamba,30803,Tolata,2007,8,TOTAL-M,1
+Oruro,41001,Toledo,2007,8,TOTAL-M,6
+Potosí,50502,Toro Toro,2007,8,TOTAL-M,54
+Oruro,41301,Totora(orr),2007,8,TOTAL-M,3
+Beni,80101,Trinidad,2007,8,TOTAL-M,14
+Oruro,40402,Turco,2007,8,TOTAL-M,12
+La Paz,20801,Viacha,2007,8,TOTAL-M,0
+Cochabamba,31402,Villa Rivero,2007,8,TOTAL-M,1
+Tarija,60301,Yacuiba,2007,8,TOTAL-M,9
+Chuquisaca,10102,Yotala,2007,8,TOTAL-M,116
+Tarija,60402,Yunchara,2007,8,TOTAL-M,1
+Chuquisaca,10301,Zudañez,2007,8,TOTAL-M,5
+Cochabamba,31303,Alalay,2007,9,TOTAL-M,0
+Oruro,41201,Andamarca,2007,9,TOTAL-M,14
+Cochabamba,30403,Arbieto,2007,9,TOTAL-M,1
+Oruro,41202,Belen De Andamarca,2007,9,TOTAL-M,2
+Potosí,50301,Betanzos,2007,9,TOTAL-M,7
+Santa Cruz,70703,Cabezas,2007,9,TOTAL-M,1
+Oruro,40201,Challapata,2007,9,TOTAL-M,72
+Oruro,40302,Choque Cota,2007,9,TOTAL-M,1
+La Paz,21004,Colquiri,2007,9,TOTAL-M,43
+Oruro,40301,Corque,2007,9,TOTAL-M,21
+Potosí,50601,Cotagaita,2007,9,TOTAL-M,27
+Santa Cruz,70102,Cotoca,2007,9,TOTAL-M,13
+Oruro,40401,Curahuara De Carangas,2007,9,TOTAL-M,3
+La Paz,21602,Curva,2007,9,TOTAL-M,5
+Santa Cruz,70105,El Torno,2007,9,TOTAL-M,22
+Oruro,41101,Eucaliptus,2007,9,TOTAL-M,5
+Oruro,40501,Huachacalla,2007,9,TOTAL-M,2
+Oruro,40701,Huanuni,2007,9,TOTAL-M,16
+Oruro,41601,Huayllamarca,2007,9,TOTAL-M,2
+La Paz,21001,Inquisivi,2007,9,TOTAL-M,58
+Santa Cruz,70104,La Guardia,2007,9,TOTAL-M,22
+Chuquisaca,10303,Mojocoya,2007,9,TOTAL-M,0
+Oruro,40101,Oruro,2007,9,TOTAL-M,122
+La Paz,20102,Palca,2007,9,TOTAL-M,1
+Oruro,40602,Pazña,2007,9,TOTAL-M,3
+Potosí,50403,Pocoata,2007,9,TOTAL-M,7
+Cochabamba,31203,Pocona,2007,9,TOTAL-M,2
+Potosí,51203,Porco,2007,9,TOTAL-M,3
+Potosí,50101,Potosi,2007,9,TOTAL-M,1
+Chuquisaca,10302,Presto,2007,9,TOTAL-M,5
+Beni,80301,Reyes,2007,9,TOTAL-M,0
+Beni,80201,Riberalta,2007,9,TOTAL-M,41
+Santa Cruz,70503,Robore,2007,9,TOTAL-M,0
+Beni,80304,Rurrenabaque,2007,9,TOTAL-M,2
+Oruro,40901,Sabaya,2007,9,TOTAL-M,2
+Potosí,50701,Sacaca,2007,9,TOTAL-M,29
+Oruro,40801,Salinas De Garci Mendoza,2007,9,TOTAL-M,10
+Beni,80602,San Andres,2007,9,TOTAL-M,4
+Cochabamba,31403,San Benito,2007,9,TOTAL-M,2
+Beni,80501,San Ignacio,2007,9,TOTAL-M,3
+Beni,80102,San Javier(bni),2007,9,TOTAL-M,1
+Chuquisaca,10702,San Lucas,2007,9,TOTAL-M,2
+Beni,80401,Santa Ana,2007,9,TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,9,TOTAL-M,3
+Beni,80303,Santa Rosa,2007,9,TOTAL-M,1
+Oruro,41401,Santiago De Huari,2007,9,TOTAL-M,7
+Oruro,40104,Soracachi,2007,9,TOTAL-M,8
+Chuquisaca,10101,Sucre,2007,9,TOTAL-M,2
+Cochabamba,31101,Tapacari,2007,9,TOTAL-M,13
+Cochabamba,30802,Toco,2007,9,TOTAL-M,3
+Oruro,41001,Toledo,2007,9,TOTAL-M,13
+Potosí,50502,Toro Toro,2007,9,TOTAL-M,88
+Oruro,41301,Totora(orr),2007,9,TOTAL-M,7
+Beni,80101,Trinidad,2007,9,TOTAL-M,31
+Oruro,40402,Turco,2007,9,TOTAL-M,8
+Cochabamba,31003,Villa Tunari,2007,9,TOTAL-M,0
+Tarija,60301,Yacuiba,2007,9,TOTAL-M,6
+Chuquisaca,10102,Yotala,2007,9,TOTAL-M,73
+Tarija,60402,Yunchara,2007,9,TOTAL-M,0
+Chuquisaca,10301,Zudañez,2007,9,TOTAL-M,5
+La Paz,20104,Achocalla,2007,10,TOTAL-M,9
+Oruro,41201,Andamarca,2007,10,TOTAL-M,32
+Cochabamba,30403,Arbieto,2007,10,TOTAL-M,2
+Oruro,41202,Belen De Andamarca,2007,10,TOTAL-M,2
+Potosí,50301,Betanzos,2007,10,TOTAL-M,13
+Santa Cruz,70703,Cabezas,2007,10,TOTAL-M,0
+Cochabamba,30701,Capinota,2007,10,TOTAL-M,2
+Oruro,40102,Caracollo,2007,10,TOTAL-M,3
+Oruro,40201,Challapata,2007,10,TOTAL-M,127
+La Paz,21004,Colquiri,2007,10,TOTAL-M,61
+Oruro,40301,Corque,2007,10,TOTAL-M,23
+Potosí,50601,Cotagaita,2007,10,TOTAL-M,27
+Santa Cruz,70102,Cotoca,2007,10,TOTAL-M,12
+Oruro,40401,Curahuara De Carangas,2007,10,TOTAL-M,17
+Oruro,40103,El Choro,2007,10,TOTAL-M,3
+Santa Cruz,70105,El Torno,2007,10,TOTAL-M,12
+Oruro,41101,Eucaliptus,2007,10,TOTAL-M,29
+Beni,80402,Exaltacion,2007,10,TOTAL-M,1
+Oruro,40501,Huachacalla,2007,10,TOTAL-M,7
+Oruro,40701,Huanuni,2007,10,TOTAL-M,44
+Oruro,41601,Huayllamarca,2007,10,TOTAL-M,1
+La Paz,21001,Inquisivi,2007,10,TOTAL-M,21
+Santa Cruz,70104,La Guardia,2007,10,TOTAL-M,43
+Oruro,41501,La Rivera,2007,10,TOTAL-M,1
+La Paz,21006,Licoma Pampa,2007,10,TOTAL-M,1
+Beni,80601,Loreto,2007,10,TOTAL-M,2
+Oruro,40702,Machacamarca,2007,10,TOTAL-M,2
+La Paz,20103,Mecapaca,2007,10,TOTAL-M,1
+Oruro,40101,Oruro,2007,10,TOTAL-M,134
+Oruro,40802,Pampa Aullagas,2007,10,TOTAL-M,24
+Oruro,40602,Pazña,2007,10,TOTAL-M,2
+Oruro,40601,Poopo,2007,10,TOTAL-M,3
+Potosí,51203,Porco,2007,10,TOTAL-M,1
+Potosí,50101,Potosi,2007,10,TOTAL-M,0
+Chuquisaca,10302,Presto,2007,10,TOTAL-M,4
+Cochabamba,31205,Puerto Villarroel,2007,10,TOTAL-M,4
+Beni,80201,Riberalta,2007,10,TOTAL-M,55
+Santa Cruz,70503,Robore,2007,10,TOTAL-M,1
+Beni,80304,Rurrenabaque,2007,10,TOTAL-M,0
+Potosí,50701,Sacaca,2007,10,TOTAL-M,27
+Oruro,40801,Salinas De Garci Mendoza,2007,10,TOTAL-M,13
+Beni,80602,San Andres,2007,10,TOTAL-M,1
+Cochabamba,31403,San Benito,2007,10,TOTAL-M,2
+Beni,80501,San Ignacio,2007,10,TOTAL-M,9
+Chuquisaca,10702,San Lucas,2007,10,TOTAL-M,4
+Santa Cruz,71201,San Matias,2007,10,TOTAL-M,1
+Beni,80401,Santa Ana,2007,10,TOTAL-M,8
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,10,TOTAL-M,0
+Beni,80303,Santa Rosa,2007,10,TOTAL-M,3
+Oruro,41401,Santiago De Huari,2007,10,TOTAL-M,3
+Oruro,40104,Soracachi,2007,10,TOTAL-M,17
+Cochabamba,30401,Tarata,2007,10,TOTAL-M,3
+Cochabamba,30802,Toco,2007,10,TOTAL-M,4
+Cochabamba,30803,Tolata,2007,10,TOTAL-M,1
+Oruro,41001,Toledo,2007,10,TOTAL-M,4
+Potosí,50502,Toro Toro,2007,10,TOTAL-M,62
+Cochabamba,31201,Totora(cbba),2007,10,TOTAL-M,0
+Beni,80101,Trinidad,2007,10,TOTAL-M,27
+Oruro,40402,Turco,2007,10,TOTAL-M,13
+Cochabamba,31302,Vila Vila,2007,10,TOTAL-M,3
+Cochabamba,31402,Villa Rivero,2007,10,TOTAL-M,1
+Tarija,60301,Yacuiba,2007,10,TOTAL-M,9
+Chuquisaca,10102,Yotala,2007,10,TOTAL-M,80
+Chuquisaca,10301,Zudañez,2007,10,TOTAL-M,5
+La Paz,20104,Achocalla,2007,11,TOTAL-M,2
+Oruro,41201,Andamarca,2007,11,TOTAL-M,43
+Cochabamba,30402,Anzaldo,2007,11,TOTAL-M,1
+Oruro,41202,Belen De Andamarca,2007,11,TOTAL-M,1
+Potosí,50301,Betanzos,2007,11,TOTAL-M,12
+Cochabamba,30701,Capinota,2007,11,TOTAL-M,3
+Oruro,40201,Challapata,2007,11,TOTAL-M,92
+La Paz,21004,Colquiri,2007,11,TOTAL-M,39
+Oruro,40301,Corque,2007,11,TOTAL-M,29
+Potosí,50601,Cotagaita,2007,11,TOTAL-M,11
+Santa Cruz,70102,Cotoca,2007,11,TOTAL-M,20
+Oruro,40401,Curahuara De Carangas,2007,11,TOTAL-M,31
+Oruro,40103,El Choro,2007,11,TOTAL-M,4
+Santa Cruz,70105,El Torno,2007,11,TOTAL-M,14
+Tarija,60601,Entre Rios,2007,11,TOTAL-M,0
+Oruro,41101,Eucaliptus,2007,11,TOTAL-M,8
+Beni,80402,Exaltacion,2007,11,TOTAL-M,0
+Oruro,40501,Huachacalla,2007,11,TOTAL-M,10
+Oruro,40701,Huanuni,2007,11,TOTAL-M,28
+Oruro,41601,Huayllamarca,2007,11,TOTAL-M,0
+La Paz,21001,Inquisivi,2007,11,TOTAL-M,16
+Santa Cruz,70104,La Guardia,2007,11,TOTAL-M,22
+Beni,80601,Loreto,2007,11,TOTAL-M,1
+Oruro,40101,Oruro,2007,11,TOTAL-M,88
+Tarija,60201,Padcaya,2007,11,TOTAL-M,1
+Oruro,40802,Pampa Aullagas,2007,11,TOTAL-M,10
+Oruro,40602,Pazña,2007,11,TOTAL-M,4
+Oruro,40601,Poopo,2007,11,TOTAL-M,0
+Chuquisaca,10302,Presto,2007,11,TOTAL-M,5
+Cochabamba,31205,Puerto Villarroel,2007,11,TOTAL-M,1
+Beni,80301,Reyes,2007,11,TOTAL-M,2
+Beni,80201,Riberalta,2007,11,TOTAL-M,39
+Beni,80304,Rurrenabaque,2007,11,TOTAL-M,1
+Potosí,50701,Sacaca,2007,11,TOTAL-M,14
+Oruro,40801,Salinas De Garci Mendoza,2007,11,TOTAL-M,13
+Beni,80501,San Ignacio,2007,11,TOTAL-M,1
+Santa Cruz,70301,San Ignacio De Velasco,2007,11,TOTAL-M,6
+Santa Cruz,71201,San Matias,2007,11,TOTAL-M,3
+Beni,80401,Santa Ana,2007,11,TOTAL-M,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,TOTAL-M,0
+Beni,80303,Santa Rosa,2007,11,TOTAL-M,1
+Oruro,40104,Soracachi,2007,11,TOTAL-M,2
+Chuquisaca,10101,Sucre,2007,11,TOTAL-M,2
+Cochabamba,30602,Tacopaya,2007,11,TOTAL-M,22
+Cochabamba,30401,Tarata,2007,11,TOTAL-M,3
+Cochabamba,30802,Toco,2007,11,TOTAL-M,0
+Cochabamba,30803,Tolata,2007,11,TOTAL-M,1
+Oruro,41001,Toledo,2007,11,TOTAL-M,3
+Potosí,50502,Toro Toro,2007,11,TOTAL-M,23
+Beni,80101,Trinidad,2007,11,TOTAL-M,10
+Oruro,40402,Turco,2007,11,TOTAL-M,8
+Cochabamba,31402,Villa Rivero,2007,11,TOTAL-M,2
+Tarija,60301,Yacuiba,2007,11,TOTAL-M,3
+Chuquisaca,10102,Yotala,2007,11,TOTAL-M,69
+Chuquisaca,10301,Zudañez,2007,11,TOTAL-M,5
+La Paz,20104,Achocalla,2007,12,TOTAL-M,3
+Cochabamba,31303,Alalay,2007,12,TOTAL-M,1
+Oruro,41201,Andamarca,2007,12,TOTAL-M,9
+Santa Cruz,71501,Ascencion De Guarayos,2007,12,TOTAL-M,51
+Oruro,41202,Belen De Andamarca,2007,12,TOTAL-M,3
+Potosí,50301,Betanzos,2007,12,TOTAL-M,15
+Cochabamba,30701,Capinota,2007,12,TOTAL-M,1
+Oruro,40102,Caracollo,2007,12,TOTAL-M,7
+Oruro,40201,Challapata,2007,12,TOTAL-M,62
+La Paz,21004,Colquiri,2007,12,TOTAL-M,48
+Oruro,40301,Corque,2007,12,TOTAL-M,28
+Potosí,50601,Cotagaita,2007,12,TOTAL-M,15
+Santa Cruz,70102,Cotoca,2007,12,TOTAL-M,9
+Oruro,40401,Curahuara De Carangas,2007,12,TOTAL-M,15
+Oruro,40103,El Choro,2007,12,TOTAL-M,1
+Santa Cruz,70105,El Torno,2007,12,TOTAL-M,16
+Oruro,41101,Eucaliptus,2007,12,TOTAL-M,13
+Oruro,40501,Huachacalla,2007,12,TOTAL-M,10
+Oruro,40701,Huanuni,2007,12,TOTAL-M,16
+La Paz,21001,Inquisivi,2007,12,TOTAL-M,14
+Santa Cruz,70104,La Guardia,2007,12,TOTAL-M,20
+Beni,80601,Loreto,2007,12,TOTAL-M,1
+Oruro,40702,Machacamarca,2007,12,TOTAL-M,1
+Oruro,40101,Oruro,2007,12,TOTAL-M,42
+Oruro,40802,Pampa Aullagas,2007,12,TOTAL-M,9
+Oruro,40602,Pazña,2007,12,TOTAL-M,5
+Oruro,40601,Poopo,2007,12,TOTAL-M,1
+Potosí,51203,Porco,2007,12,TOTAL-M,1
+Chuquisaca,10302,Presto,2007,12,TOTAL-M,3
+Santa Cruz,71402,Puerto Quijarro,2007,12,TOTAL-M,0
+Beni,80301,Reyes,2007,12,TOTAL-M,0
+Beni,80201,Riberalta,2007,12,TOTAL-M,37
+Santa Cruz,70503,Robore,2007,12,TOTAL-M,2
+Beni,80304,Rurrenabaque,2007,12,TOTAL-M,4
+Cochabamba,30404,Sacabamba,2007,12,TOTAL-M,0
+Oruro,40801,Salinas De Garci Mendoza,2007,12,TOTAL-M,28
+Beni,80602,San Andres,2007,12,TOTAL-M,2
+Beni,80501,San Ignacio,2007,12,TOTAL-M,2
+Santa Cruz,70301,San Ignacio De Velasco,2007,12,TOTAL-M,3
+Chuquisaca,10702,San Lucas,2007,12,TOTAL-M,7
+Santa Cruz,71201,San Matias,2007,12,TOTAL-M,1
+Beni,80401,Santa Ana,2007,12,TOTAL-M,9
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,TOTAL-M,2
+Beni,80303,Santa Rosa,2007,12,TOTAL-M,3
+Oruro,41401,Santiago De Huari,2007,12,TOTAL-M,13
+Oruro,40104,Soracachi,2007,12,TOTAL-M,6
+Chuquisaca,10101,Sucre,2007,12,TOTAL-M,0
+Cochabamba,30602,Tacopaya,2007,12,TOTAL-M,10
+Chuquisaca,10601,Tarabuco,2007,12,TOTAL-M,4
+Cochabamba,30401,Tarata,2007,12,TOTAL-M,0
+Cochabamba,30802,Toco,2007,12,TOTAL-M,1
+Oruro,41001,Toledo,2007,12,TOTAL-M,10
+Potosí,50502,Toro Toro,2007,12,TOTAL-M,69
+Cochabamba,31201,Totora(cbba),2007,12,TOTAL-M,6
+Oruro,41301,Totora(orr),2007,12,TOTAL-M,1
+Beni,80101,Trinidad,2007,12,TOTAL-M,18
+Oruro,40402,Turco,2007,12,TOTAL-M,5
+Cochabamba,31003,Villa Tunari,2007,12,TOTAL-M,9
+Tarija,60301,Yacuiba,2007,12,TOTAL-M,8
+Chuquisaca,10102,Yotala,2007,12,TOTAL-M,57
+Tarija,60402,Yunchara,2007,12,TOTAL-M,0
+Cochabamba,30403,Arbieto,2007,1,TOTAL,2
+Oruro,41202,Belen De Andamarca,2007,1,TOTAL,1
+Oruro,40201,Challapata,2007,1,TOTAL,65
+Oruro,40302,Choque Cota,2007,1,TOTAL,10
+La Paz,21004,Colquiri,2007,1,TOTAL,39
+Oruro,40301,Corque,2007,1,TOTAL,13
+Oruro,40401,Curahuara De Carangas,2007,1,TOTAL,10
+Oruro,41101,Eucaliptus,2007,1,TOTAL,12
+La Paz,21005,Ichoca,2007,1,TOTAL,3
+La Paz,21001,Inquisivi,2007,1,TOTAL,43
+Santa Cruz,70104,La Guardia,2007,1,TOTAL,27
+Potosí,50203,Llallagua,2007,1,TOTAL,8
+Cochabamba,30302,Morochata,2007,1,TOTAL,9
+Oruro,40101,Oruro,2007,1,TOTAL,110
+Oruro,40601,Poopo,2007,1,TOTAL,16
+Beni,80301,Reyes,2007,1,TOTAL,12
+Beni,80304,Rurrenabaque,2007,1,TOTAL,1
+Oruro,40901,Sabaya,2007,1,TOTAL,6
+Oruro,40801,Salinas De Garci Mendoza,2007,1,TOTAL,19
+Beni,80602,San Andres,2007,1,TOTAL,19
+Beni,80102,San Javier(bni),2007,1,TOTAL,2
+Tarija,60501,San Lorenzo(tja),2007,1,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,1,TOTAL,30
+Oruro,40104,Soracachi,2007,1,TOTAL,5
+Chuquisaca,10101,Sucre,2007,1,TOTAL,2
+Cochabamba,30401,Tarata,2007,1,TOTAL,1
+Tarija,60101,Tarija,2007,1,TOTAL,87
+Cochabamba,30803,Tolata,2007,1,TOTAL,1
+Potosí,50502,Toro Toro,2007,1,TOTAL,2
+Oruro,41301,Totora(orr),2007,1,TOTAL,23
+Beni,80101,Trinidad,2007,1,TOTAL,22
+Oruro,40402,Turco,2007,1,TOTAL,22
+Cochabamba,31003,Villa Tunari,2007,1,TOTAL,1
+Tarija,60301,Yacuiba,2007,1,TOTAL,17
+Oruro,41201,Andamarca,2007,2,TOTAL,9
+Cochabamba,30402,Anzaldo,2007,2,TOTAL,8
+Santa Cruz,71501,Ascencion De Guarayos,2007,2,TOTAL,12
+Oruro,41202,Belen De Andamarca,2007,2,TOTAL,1
+Oruro,40201,Challapata,2007,2,TOTAL,45
+Oruro,40903,Chipaya,2007,2,TOTAL,1
+Oruro,40302,Choque Cota,2007,2,TOTAL,2
+Oruro,40902,Coipasa,2007,2,TOTAL,1
+Potosí,50401,Colquechaca,2007,2,TOTAL,2
+La Paz,21004,Colquiri,2007,2,TOTAL,28
+Oruro,40301,Corque,2007,2,TOTAL,9
+Oruro,40401,Curahuara De Carangas,2007,2,TOTAL,3
+Oruro,40103,El Choro,2007,2,TOTAL,3
+Oruro,41101,Eucaliptus,2007,2,TOTAL,1
+Oruro,40701,Huanuni,2007,2,TOTAL,3
+La Paz,21005,Ichoca,2007,2,TOTAL,9
+La Paz,21001,Inquisivi,2007,2,TOTAL,28
+Potosí,50203,Llallagua,2007,2,TOTAL,4
+Oruro,40702,Machacamarca,2007,2,TOTAL,9
+Oruro,40101,Oruro,2007,2,TOTAL,103
+Oruro,40601,Poopo,2007,2,TOTAL,9
+Pando,90301,Puerto Gonzalo Moreno,2007,2,TOTAL,2
+Oruro,40901,Sabaya,2007,2,TOTAL,5
+Cochabamba,30404,Sacabamba,2007,2,TOTAL,2
+Oruro,40801,Salinas De Garci Mendoza,2007,2,TOTAL,7
+Beni,80102,San Javier(bni),2007,2,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,2,TOTAL,21
+Oruro,40104,Soracachi,2007,2,TOTAL,6
+Chuquisaca,10101,Sucre,2007,2,TOTAL,1
+Tarija,60101,Tarija,2007,2,TOTAL,132
+Cochabamba,30803,Tolata,2007,2,TOTAL,1
+Oruro,41001,Toledo,2007,2,TOTAL,1
+Potosí,50502,Toro Toro,2007,2,TOTAL,15
+Oruro,41301,Totora(orr),2007,2,TOTAL,8
+Oruro,40402,Turco,2007,2,TOTAL,17
+Tarija,60301,Yacuiba,2007,2,TOTAL,28
+Oruro,41201,Andamarca,2007,3,TOTAL,46
+Cochabamba,30402,Anzaldo,2007,3,TOTAL,11
+Cochabamba,30403,Arbieto,2007,3,TOTAL,3
+Oruro,41202,Belen De Andamarca,2007,3,TOTAL,1
+Tarija,60202,Bermejo,2007,3,TOTAL,3
+Santa Cruz,70401,Buena Vista,2007,3,TOTAL,3
+Santa Cruz,70706,Camiri,2007,3,TOTAL,5
+Oruro,40201,Challapata,2007,3,TOTAL,95
+Oruro,40903,Chipaya,2007,3,TOTAL,2
+Oruro,40301,Corque,2007,3,TOTAL,31
+Santa Cruz,70102,Cotoca,2007,3,TOTAL,3
+Oruro,40401,Curahuara De Carangas,2007,3,TOTAL,13
+Tarija,60502,El Puente(tja),2007,3,TOTAL,1
+Oruro,40505,Esmeralda,2007,3,TOTAL,1
+Oruro,40701,Huanuni,2007,3,TOTAL,7
+La Paz,21005,Ichoca,2007,3,TOTAL,2
+La Paz,21001,Inquisivi,2007,3,TOTAL,70
+Santa Cruz,70104,La Guardia,2007,3,TOTAL,32
+Potosí,50203,Llallagua,2007,3,TOTAL,6
+Oruro,40101,Oruro,2007,3,TOTAL,158
+Potosí,50403,Pocoata,2007,3,TOTAL,14
+Oruro,40601,Poopo,2007,3,TOTAL,6
+Chuquisaca,10302,Presto,2007,3,TOTAL,26
+Cochabamba,30901,Quillacollo,2007,3,TOTAL,1
+Oruro,40901,Sabaya,2007,3,TOTAL,9
+Oruro,40801,Salinas De Garci Mendoza,2007,3,TOTAL,48
+Cochabamba,31403,San Benito,2007,3,TOTAL,7
+Beni,80501,San Ignacio,2007,3,TOTAL,1
+Chuquisaca,10702,San Lucas,2007,3,TOTAL,9
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,TOTAL,136
+Beni,80303,Santa Rosa,2007,3,TOTAL,12
+Oruro,40104,Soracachi,2007,3,TOTAL,35
+Chuquisaca,10101,Sucre,2007,3,TOTAL,4
+Tarija,60101,Tarija,2007,3,TOTAL,106
+Cochabamba,30802,Toco,2007,3,TOTAL,4
+Cochabamba,30803,Tolata,2007,3,TOTAL,2
+Oruro,41001,Toledo,2007,3,TOTAL,4
+Potosí,50502,Toro Toro,2007,3,TOTAL,50
+Oruro,41301,Totora(orr),2007,3,TOTAL,3
+Oruro,40402,Turco,2007,3,TOTAL,40
+Cochabamba,31402,Villa Rivero,2007,3,TOTAL,4
+Tarija,60301,Yacuiba,2007,3,TOTAL,22
+Oruro,41201,Andamarca,2007,4,TOTAL,28
+Cochabamba,30402,Anzaldo,2007,4,TOTAL,8
+Cochabamba,30403,Arbieto,2007,4,TOTAL,2
+Oruro,41202,Belen De Andamarca,2007,4,TOTAL,2
+La Paz,21003,Cajuata,2007,4,TOTAL,3
+Cochabamba,30701,Capinota,2007,4,TOTAL,1
+Oruro,40201,Challapata,2007,4,TOTAL,94
+Oruro,40302,Choque Cota,2007,4,TOTAL,1
+Oruro,40301,Corque,2007,4,TOTAL,26
+Santa Cruz,70102,Cotoca,2007,4,TOTAL,17
+Oruro,40401,Curahuara De Carangas,2007,4,TOTAL,2
+Santa Cruz,70105,El Torno,2007,4,TOTAL,22
+Oruro,40505,Esmeralda,2007,4,TOTAL,2
+Oruro,40701,Huanuni,2007,4,TOTAL,3
+La Paz,21005,Ichoca,2007,4,TOTAL,4
+La Paz,21001,Inquisivi,2007,4,TOTAL,45
+Santa Cruz,70104,La Guardia,2007,4,TOTAL,60
+Potosí,50203,Llallagua,2007,4,TOTAL,2
+Oruro,40101,Oruro,2007,4,TOTAL,178
+Potosí,50403,Pocoata,2007,4,TOTAL,12
+Oruro,40601,Poopo,2007,4,TOTAL,14
+Potosí,51203,Porco,2007,4,TOTAL,9
+Chuquisaca,10302,Presto,2007,4,TOTAL,21
+Beni,80304,Rurrenabaque,2007,4,TOTAL,2
+Oruro,40901,Sabaya,2007,4,TOTAL,6
+Oruro,40801,Salinas De Garci Mendoza,2007,4,TOTAL,16
+Beni,80302,San Borja,2007,4,TOTAL,1
+Chuquisaca,10702,San Lucas,2007,4,TOTAL,22
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,TOTAL,27
+Oruro,40104,Soracachi,2007,4,TOTAL,2
+Tarija,60101,Tarija,2007,4,TOTAL,44
+Cochabamba,31601,Tiraque (cbba),2007,4,TOTAL,6
+Oruro,41301,Totora(orr),2007,4,TOTAL,4
+Oruro,40402,Turco,2007,4,TOTAL,23
+Cochabamba,31003,Villa Tunari,2007,4,TOTAL,1
+Tarija,60301,Yacuiba,2007,4,TOTAL,21
+Santa Cruz,70403,Yapacani,2007,4,TOTAL,5
+Cochabamba,31303,Alalay,2007,5,TOTAL,2
+Oruro,41201,Andamarca,2007,5,TOTAL,44
+Cochabamba,30402,Anzaldo,2007,5,TOTAL,1
+Cochabamba,30403,Arbieto,2007,5,TOTAL,4
+Oruro,41202,Belen De Andamarca,2007,5,TOTAL,1
+Potosí,50301,Betanzos,2007,5,TOTAL,5
+Oruro,40201,Challapata,2007,5,TOTAL,103
+Oruro,40302,Choque Cota,2007,5,TOTAL,1
+Oruro,40301,Corque,2007,5,TOTAL,59
+Santa Cruz,70102,Cotoca,2007,5,TOTAL,20
+Oruro,40401,Curahuara De Carangas,2007,5,TOTAL,28
+Oruro,40103,El Choro,2007,5,TOTAL,1
+Santa Cruz,70105,El Torno,2007,5,TOTAL,40
+Oruro,40505,Esmeralda,2007,5,TOTAL,6
+Beni,80402,Exaltacion,2007,5,TOTAL,2
+Oruro,40501,Huachacalla,2007,5,TOTAL,6
+Oruro,40701,Huanuni,2007,5,TOTAL,17
+La Paz,21005,Ichoca,2007,5,TOTAL,3
+La Paz,21001,Inquisivi,2007,5,TOTAL,20
+Santa Cruz,70104,La Guardia,2007,5,TOTAL,53
+Potosí,50203,Llallagua,2007,5,TOTAL,4
+Oruro,40702,Machacamarca,2007,5,TOTAL,4
+Oruro,40101,Oruro,2007,5,TOTAL,217
+Tarija,60201,Padcaya,2007,5,TOTAL,1
+Potosí,50403,Pocoata,2007,5,TOTAL,13
+Cochabamba,31202,Pojo (cbba),2007,5,TOTAL,1
+Oruro,40601,Poopo,2007,5,TOTAL,5
+Santa Cruz,70103,Porongo,2007,5,TOTAL,1
+Chuquisaca,10302,Presto,2007,5,TOTAL,29
+Beni,80304,Rurrenabaque,2007,5,TOTAL,6
+Oruro,40901,Sabaya,2007,5,TOTAL,11
+Cochabamba,30404,Sacabamba,2007,5,TOTAL,3
+Oruro,40801,Salinas De Garci Mendoza,2007,5,TOTAL,62
+Beni,80602,San Andres,2007,5,TOTAL,1
+Santa Cruz,71104,San Julian,2007,5,TOTAL,5
+Tarija,60501,San Lorenzo(tja),2007,5,TOTAL,2
+Chuquisaca,10702,San Lucas,2007,5,TOTAL,22
+Beni,80401,Santa Ana,2007,5,TOTAL,28
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,TOTAL,22
+Oruro,41401,Santiago De Huari,2007,5,TOTAL,1
+Pando,90303,Sena,2007,5,TOTAL,13
+Cochabamba,31101,Tapacari,2007,5,TOTAL,19
+Tarija,60101,Tarija,2007,5,TOTAL,4
+Oruro,41001,Toledo,2007,5,TOTAL,2
+Potosí,50502,Toro Toro,2007,5,TOTAL,28
+Oruro,41301,Totora(orr),2007,5,TOTAL,3
+Beni,80101,Trinidad,2007,5,TOTAL,8
+Oruro,40402,Turco,2007,5,TOTAL,8
+Cochabamba,31402,Villa Rivero,2007,5,TOTAL,2
+Tarija,60301,Yacuiba,2007,5,TOTAL,9
+Cochabamba,31303,Alalay,2007,6,TOTAL,3
+Oruro,41201,Andamarca,2007,6,TOTAL,53
+Cochabamba,30402,Anzaldo,2007,6,TOTAL,3
+Cochabamba,30501,Arani,2007,6,TOTAL,9
+Cochabamba,30403,Arbieto,2007,6,TOTAL,1
+Oruro,40102,Caracollo,2007,6,TOTAL,1
+Oruro,40201,Challapata,2007,6,TOTAL,144
+Oruro,40302,Choque Cota,2007,6,TOTAL,3
+La Paz,21004,Colquiri,2007,6,TOTAL,32
+Oruro,40301,Corque,2007,6,TOTAL,32
+Santa Cruz,70102,Cotoca,2007,6,TOTAL,12
+Oruro,40401,Curahuara De Carangas,2007,6,TOTAL,27
+Oruro,40103,El Choro,2007,6,TOTAL,6
+Santa Cruz,70105,El Torno,2007,6,TOTAL,38
+Oruro,40501,Huachacalla,2007,6,TOTAL,8
+Oruro,40701,Huanuni,2007,6,TOTAL,9
+La Paz,21005,Ichoca,2007,6,TOTAL,24
+La Paz,21001,Inquisivi,2007,6,TOTAL,81
+Santa Cruz,70104,La Guardia,2007,6,TOTAL,43
+Potosí,50203,Llallagua,2007,6,TOTAL,2
+Oruro,40702,Machacamarca,2007,6,TOTAL,1
+Oruro,40101,Oruro,2007,6,TOTAL,214
+Oruro,40602,Pazña,2007,6,TOTAL,6
+Potosí,50403,Pocoata,2007,6,TOTAL,14
+Oruro,40601,Poopo,2007,6,TOTAL,3
+Chuquisaca,10302,Presto,2007,6,TOTAL,35
+Santa Cruz,70503,Robore,2007,6,TOTAL,2
+Beni,80304,Rurrenabaque,2007,6,TOTAL,13
+Oruro,40901,Sabaya,2007,6,TOTAL,13
+Cochabamba,30404,Sacabamba,2007,6,TOTAL,7
+Potosí,50701,Sacaca,2007,6,TOTAL,11
+Oruro,40801,Salinas De Garci Mendoza,2007,6,TOTAL,30
+Beni,80602,San Andres,2007,6,TOTAL,2
+Cochabamba,31403,San Benito,2007,6,TOTAL,26
+Chuquisaca,10702,San Lucas,2007,6,TOTAL,31
+Santa Cruz,71201,San Matias,2007,6,TOTAL,3
+Beni,80401,Santa Ana,2007,6,TOTAL,26
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,6,TOTAL,11
+Beni,80303,Santa Rosa,2007,6,TOTAL,4
+Oruro,40104,Soracachi,2007,6,TOTAL,31
+Chuquisaca,10101,Sucre,2007,6,TOTAL,1
+Cochabamba,31101,Tapacari,2007,6,TOTAL,23
+Cochabamba,30401,Tarata,2007,6,TOTAL,2
+Cochabamba,30802,Toco,2007,6,TOTAL,3
+Oruro,41001,Toledo,2007,6,TOTAL,1
+Potosí,50502,Toro Toro,2007,6,TOTAL,134
+Oruro,41301,Totora(orr),2007,6,TOTAL,3
+Beni,80101,Trinidad,2007,6,TOTAL,34
+Oruro,40402,Turco,2007,6,TOTAL,23
+Cochabamba,31402,Villa Rivero,2007,6,TOTAL,3
+Tarija,60301,Yacuiba,2007,6,TOTAL,6
+Chuquisaca,10102,Yotala,2007,6,TOTAL,32
+Cochabamba,30201,Aiquile,2007,7,TOTAL,4
+Cochabamba,31303,Alalay,2007,7,TOTAL,4
+Oruro,41201,Andamarca,2007,7,TOTAL,21
+Cochabamba,30402,Anzaldo,2007,7,TOTAL,3
+Cochabamba,30403,Arbieto,2007,7,TOTAL,3
+Oruro,41202,Belen De Andamarca,2007,7,TOTAL,1
+Tarija,60202,Bermejo,2007,7,TOTAL,3
+Potosí,50301,Betanzos,2007,7,TOTAL,25
+Santa Cruz,70703,Cabezas,2007,7,TOTAL,1
+Oruro,40201,Challapata,2007,7,TOTAL,142
+Oruro,40302,Choque Cota,2007,7,TOTAL,1
+La Paz,21004,Colquiri,2007,7,TOTAL,49
+Santa Cruz,71301,Comarapa,2007,7,TOTAL,2
+Oruro,40301,Corque,2007,7,TOTAL,28
+Santa Cruz,70102,Cotoca,2007,7,TOTAL,14
+Oruro,40401,Curahuara De Carangas,2007,7,TOTAL,15
+Oruro,40103,El Choro,2007,7,TOTAL,3
+Santa Cruz,70105,El Torno,2007,7,TOTAL,34
+Tarija,60601,Entre Rios,2007,7,TOTAL,2
+Oruro,40501,Huachacalla,2007,7,TOTAL,2
+Oruro,40701,Huanuni,2007,7,TOTAL,8
+La Paz,21005,Ichoca,2007,7,TOTAL,2
+La Paz,21001,Inquisivi,2007,7,TOTAL,112
+Santa Cruz,70104,La Guardia,2007,7,TOTAL,47
+Santa Cruz,70701,Lagunillas,2007,7,TOTAL,1
+La Paz,21006,Licoma Pampa,2007,7,TOTAL,1
+Oruro,40702,Machacamarca,2007,7,TOTAL,3
+Oruro,40101,Oruro,2007,7,TOTAL,293
+Oruro,40802,Pampa Aullagas,2007,7,TOTAL,18
+Oruro,40602,Pazña,2007,7,TOTAL,6
+Potosí,50403,Pocoata,2007,7,TOTAL,17
+Potosí,51203,Porco,2007,7,TOTAL,4
+Chuquisaca,10302,Presto,2007,7,TOTAL,27
+Beni,80201,Riberalta,2007,7,TOTAL,2
+Oruro,40801,Salinas De Garci Mendoza,2007,7,TOTAL,7
+Cochabamba,31403,San Benito,2007,7,TOTAL,5
+Beni,80501,San Ignacio,2007,7,TOTAL,2
+Chuquisaca,10702,San Lucas,2007,7,TOTAL,14
+Beni,80401,Santa Ana,2007,7,TOTAL,11
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,7,TOTAL,18
+Beni,80303,Santa Rosa,2007,7,TOTAL,2
+Oruro,40104,Soracachi,2007,7,TOTAL,20
+Cochabamba,31101,Tapacari,2007,7,TOTAL,13
+Cochabamba,30401,Tarata,2007,7,TOTAL,3
+Tarija,60101,Tarija,2007,7,TOTAL,2
+Oruro,41001,Toledo,2007,7,TOTAL,7
+Potosí,50502,Toro Toro,2007,7,TOTAL,25
+Oruro,41301,Totora(orr),2007,7,TOTAL,11
+Oruro,40402,Turco,2007,7,TOTAL,31
+La Paz,20801,Viacha,2007,7,TOTAL,3
+Cochabamba,31003,Villa Tunari,2007,7,TOTAL,3
+Tarija,60301,Yacuiba,2007,7,TOTAL,14
+Potosí,51302,Acacio,2007,8,TOTAL,2
+Cochabamba,31303,Alalay,2007,8,TOTAL,1
+Oruro,41201,Andamarca,2007,8,TOTAL,87
+Cochabamba,30403,Arbieto,2007,8,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,8,TOTAL,55
+Potosí,50301,Betanzos,2007,8,TOTAL,38
+Oruro,40201,Challapata,2007,8,TOTAL,141
+Oruro,40302,Choque Cota,2007,8,TOTAL,2
+Oruro,40902,Coipasa,2007,8,TOTAL,1
+La Paz,21004,Colquiri,2007,8,TOTAL,133
+Oruro,40301,Corque,2007,8,TOTAL,54
+Santa Cruz,70102,Cotoca,2007,8,TOTAL,41
+Oruro,40401,Curahuara De Carangas,2007,8,TOTAL,42
+La Paz,21602,Curva,2007,8,TOTAL,18
+Oruro,40103,El Choro,2007,8,TOTAL,10
+Santa Cruz,70105,El Torno,2007,8,TOTAL,34
+Tarija,60601,Entre Rios,2007,8,TOTAL,8
+Oruro,40501,Huachacalla,2007,8,TOTAL,7
+Oruro,40701,Huanuni,2007,8,TOTAL,27
+Oruro,41601,Huayllamarca,2007,8,TOTAL,7
+La Paz,21001,Inquisivi,2007,8,TOTAL,46
+Santa Cruz,70104,La Guardia,2007,8,TOTAL,70
+Beni,80601,Loreto,2007,8,TOTAL,9
+Oruro,40101,Oruro,2007,8,TOTAL,457
+Tarija,60201,Padcaya,2007,8,TOTAL,2
+Oruro,40802,Pampa Aullagas,2007,8,TOTAL,25
+Oruro,40602,Pazña,2007,8,TOTAL,13
+Potosí,50403,Pocoata,2007,8,TOTAL,12
+Oruro,40601,Poopo,2007,8,TOTAL,7
+Potosí,51203,Porco,2007,8,TOTAL,9
+Potosí,50101,Potosi,2007,8,TOTAL,1
+Chuquisaca,10302,Presto,2007,8,TOTAL,22
+Potosí,51101,Puna,2007,8,TOTAL,3
+Cochabamba,30901,Quillacollo,2007,8,TOTAL,1
+Beni,80201,Riberalta,2007,8,TOTAL,1
+Beni,80304,Rurrenabaque,2007,8,TOTAL,5
+Potosí,50701,Sacaca,2007,8,TOTAL,14
+Oruro,40801,Salinas De Garci Mendoza,2007,8,TOTAL,21
+Beni,80602,San Andres,2007,8,TOTAL,29
+Beni,80501,San Ignacio,2007,8,TOTAL,20
+Beni,80102,San Javier(bni),2007,8,TOTAL,5
+Chuquisaca,10702,San Lucas,2007,8,TOTAL,13
+Beni,80401,Santa Ana,2007,8,TOTAL,8
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,8,TOTAL,17
+Beni,80303,Santa Rosa,2007,8,TOTAL,9
+Oruro,41401,Santiago De Huari,2007,8,TOTAL,6
+Oruro,40104,Soracachi,2007,8,TOTAL,33
+Chuquisaca,10101,Sucre,2007,8,TOTAL,1
+Cochabamba,30903,Tiquipaya,2007,8,TOTAL,2
+Cochabamba,30803,Tolata,2007,8,TOTAL,1
+Oruro,41001,Toledo,2007,8,TOTAL,10
+Potosí,50502,Toro Toro,2007,8,TOTAL,108
+Oruro,41301,Totora(orr),2007,8,TOTAL,6
+Beni,80101,Trinidad,2007,8,TOTAL,28
+Oruro,40402,Turco,2007,8,TOTAL,30
+La Paz,20801,Viacha,2007,8,TOTAL,3
+Cochabamba,31402,Villa Rivero,2007,8,TOTAL,1
+Tarija,60301,Yacuiba,2007,8,TOTAL,21
+Chuquisaca,10102,Yotala,2007,8,TOTAL,205
+Tarija,60402,Yunchara,2007,8,TOTAL,3
+Chuquisaca,10301,Zudañez,2007,8,TOTAL,9
+Cochabamba,31303,Alalay,2007,9,TOTAL,1
+Oruro,41201,Andamarca,2007,9,TOTAL,36
+Cochabamba,30403,Arbieto,2007,9,TOTAL,1
+Oruro,41202,Belen De Andamarca,2007,9,TOTAL,2
+Potosí,50301,Betanzos,2007,9,TOTAL,25
+Santa Cruz,70703,Cabezas,2007,9,TOTAL,1
+Oruro,40201,Challapata,2007,9,TOTAL,157
+Oruro,40302,Choque Cota,2007,9,TOTAL,1
+La Paz,21004,Colquiri,2007,9,TOTAL,119
+Oruro,40301,Corque,2007,9,TOTAL,38
+Potosí,50601,Cotagaita,2007,9,TOTAL,56
+Santa Cruz,70102,Cotoca,2007,9,TOTAL,30
+Oruro,40401,Curahuara De Carangas,2007,9,TOTAL,5
+La Paz,21602,Curva,2007,9,TOTAL,13
+Santa Cruz,70105,El Torno,2007,9,TOTAL,37
+Oruro,41101,Eucaliptus,2007,9,TOTAL,13
+Oruro,40501,Huachacalla,2007,9,TOTAL,6
+Oruro,40701,Huanuni,2007,9,TOTAL,29
+Oruro,41601,Huayllamarca,2007,9,TOTAL,6
+La Paz,21001,Inquisivi,2007,9,TOTAL,130
+Santa Cruz,70104,La Guardia,2007,9,TOTAL,64
+Chuquisaca,10303,Mojocoya,2007,9,TOTAL,1
+Oruro,40101,Oruro,2007,9,TOTAL,274
+La Paz,20102,Palca,2007,9,TOTAL,1
+Oruro,40602,Pazña,2007,9,TOTAL,7
+Potosí,50403,Pocoata,2007,9,TOTAL,11
+Cochabamba,31203,Pocona,2007,9,TOTAL,2
+Potosí,51203,Porco,2007,9,TOTAL,7
+Potosí,50101,Potosi,2007,9,TOTAL,12
+Chuquisaca,10302,Presto,2007,9,TOTAL,14
+Beni,80301,Reyes,2007,9,TOTAL,3
+Beni,80201,Riberalta,2007,9,TOTAL,75
+Santa Cruz,70503,Robore,2007,9,TOTAL,1
+Beni,80304,Rurrenabaque,2007,9,TOTAL,6
+Oruro,40901,Sabaya,2007,9,TOTAL,2
+Potosí,50701,Sacaca,2007,9,TOTAL,53
+Oruro,40801,Salinas De Garci Mendoza,2007,9,TOTAL,30
+Beni,80602,San Andres,2007,9,TOTAL,5
+Cochabamba,31403,San Benito,2007,9,TOTAL,4
+Beni,80501,San Ignacio,2007,9,TOTAL,10
+Beni,80102,San Javier(bni),2007,9,TOTAL,2
+Chuquisaca,10702,San Lucas,2007,9,TOTAL,3
+Beni,80401,Santa Ana,2007,9,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,9,TOTAL,3
+Beni,80303,Santa Rosa,2007,9,TOTAL,2
+Oruro,41401,Santiago De Huari,2007,9,TOTAL,11
+Oruro,40104,Soracachi,2007,9,TOTAL,12
+Chuquisaca,10101,Sucre,2007,9,TOTAL,2
+Cochabamba,31101,Tapacari,2007,9,TOTAL,17
+Cochabamba,30802,Toco,2007,9,TOTAL,4
+Oruro,41001,Toledo,2007,9,TOTAL,15
+Potosí,50502,Toro Toro,2007,9,TOTAL,177
+Oruro,41301,Totora(orr),2007,9,TOTAL,10
+Beni,80101,Trinidad,2007,9,TOTAL,59
+Oruro,40402,Turco,2007,9,TOTAL,29
+Cochabamba,31003,Villa Tunari,2007,9,TOTAL,1
+Tarija,60301,Yacuiba,2007,9,TOTAL,13
+Chuquisaca,10102,Yotala,2007,9,TOTAL,159
+Tarija,60402,Yunchara,2007,9,TOTAL,1
+Chuquisaca,10301,Zudañez,2007,9,TOTAL,9
+La Paz,20104,Achocalla,2007,10,TOTAL,18
+Oruro,41201,Andamarca,2007,10,TOTAL,63
+Cochabamba,30403,Arbieto,2007,10,TOTAL,4
+Oruro,41202,Belen De Andamarca,2007,10,TOTAL,3
+Potosí,50301,Betanzos,2007,10,TOTAL,38
+Santa Cruz,70703,Cabezas,2007,10,TOTAL,1
+Cochabamba,30701,Capinota,2007,10,TOTAL,2
+Oruro,40102,Caracollo,2007,10,TOTAL,5
+Oruro,40201,Challapata,2007,10,TOTAL,239
+La Paz,21004,Colquiri,2007,10,TOTAL,143
+Oruro,40301,Corque,2007,10,TOTAL,37
+Potosí,50601,Cotagaita,2007,10,TOTAL,48
+Santa Cruz,70102,Cotoca,2007,10,TOTAL,26
+Oruro,40401,Curahuara De Carangas,2007,10,TOTAL,36
+Oruro,40103,El Choro,2007,10,TOTAL,5
+Santa Cruz,70105,El Torno,2007,10,TOTAL,19
+Oruro,41101,Eucaliptus,2007,10,TOTAL,65
+Beni,80402,Exaltacion,2007,10,TOTAL,7
+Oruro,40501,Huachacalla,2007,10,TOTAL,15
+Oruro,40701,Huanuni,2007,10,TOTAL,88
+Oruro,41601,Huayllamarca,2007,10,TOTAL,2
+La Paz,21001,Inquisivi,2007,10,TOTAL,53
+Santa Cruz,70104,La Guardia,2007,10,TOTAL,86
+Oruro,41501,La Rivera,2007,10,TOTAL,1
+La Paz,21006,Licoma Pampa,2007,10,TOTAL,1
+Beni,80601,Loreto,2007,10,TOTAL,4
+Oruro,40702,Machacamarca,2007,10,TOTAL,3
+La Paz,20103,Mecapaca,2007,10,TOTAL,1
+Oruro,40101,Oruro,2007,10,TOTAL,320
+Oruro,40802,Pampa Aullagas,2007,10,TOTAL,49
+Oruro,40602,Pazña,2007,10,TOTAL,5
+Oruro,40601,Poopo,2007,10,TOTAL,3
+Potosí,51203,Porco,2007,10,TOTAL,2
+Potosí,50101,Potosi,2007,10,TOTAL,2
+Chuquisaca,10302,Presto,2007,10,TOTAL,14
+Cochabamba,31205,Puerto Villarroel,2007,10,TOTAL,4
+Beni,80201,Riberalta,2007,10,TOTAL,110
+Santa Cruz,70503,Robore,2007,10,TOTAL,1
+Beni,80304,Rurrenabaque,2007,10,TOTAL,1
+Potosí,50701,Sacaca,2007,10,TOTAL,55
+Oruro,40801,Salinas De Garci Mendoza,2007,10,TOTAL,36
+Beni,80602,San Andres,2007,10,TOTAL,4
+Cochabamba,31403,San Benito,2007,10,TOTAL,2
+Beni,80501,San Ignacio,2007,10,TOTAL,16
+Chuquisaca,10702,San Lucas,2007,10,TOTAL,6
+Santa Cruz,71201,San Matias,2007,10,TOTAL,1
+Beni,80401,Santa Ana,2007,10,TOTAL,14
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,10,TOTAL,3
+Beni,80303,Santa Rosa,2007,10,TOTAL,6
+Oruro,41401,Santiago De Huari,2007,10,TOTAL,11
+Oruro,40104,Soracachi,2007,10,TOTAL,38
+Cochabamba,30401,Tarata,2007,10,TOTAL,5
+Cochabamba,30802,Toco,2007,10,TOTAL,6
+Cochabamba,30803,Tolata,2007,10,TOTAL,1
+Oruro,41001,Toledo,2007,10,TOTAL,13
+Potosí,50502,Toro Toro,2007,10,TOTAL,126
+Cochabamba,31201,Totora(cbba),2007,10,TOTAL,1
+Beni,80101,Trinidad,2007,10,TOTAL,57
+Oruro,40402,Turco,2007,10,TOTAL,30
+Cochabamba,31302,Vila Vila,2007,10,TOTAL,11
+Cochabamba,31402,Villa Rivero,2007,10,TOTAL,1
+Tarija,60301,Yacuiba,2007,10,TOTAL,17
+Chuquisaca,10102,Yotala,2007,10,TOTAL,165
+Chuquisaca,10301,Zudañez,2007,10,TOTAL,12
+La Paz,20104,Achocalla,2007,11,TOTAL,3
+Oruro,41201,Andamarca,2007,11,TOTAL,91
+Cochabamba,30402,Anzaldo,2007,11,TOTAL,1
+Oruro,41202,Belen De Andamarca,2007,11,TOTAL,5
+Potosí,50301,Betanzos,2007,11,TOTAL,25
+Cochabamba,30701,Capinota,2007,11,TOTAL,4
+Oruro,40201,Challapata,2007,11,TOTAL,161
+La Paz,21004,Colquiri,2007,11,TOTAL,74
+Oruro,40301,Corque,2007,11,TOTAL,54
+Potosí,50601,Cotagaita,2007,11,TOTAL,25
+Santa Cruz,70102,Cotoca,2007,11,TOTAL,30
+Oruro,40401,Curahuara De Carangas,2007,11,TOTAL,62
+Oruro,40103,El Choro,2007,11,TOTAL,12
+Santa Cruz,70105,El Torno,2007,11,TOTAL,34
+Tarija,60601,Entre Rios,2007,11,TOTAL,1
+Oruro,41101,Eucaliptus,2007,11,TOTAL,26
+Beni,80402,Exaltacion,2007,11,TOTAL,1
+Oruro,40501,Huachacalla,2007,11,TOTAL,19
+Oruro,40701,Huanuni,2007,11,TOTAL,67
+Oruro,41601,Huayllamarca,2007,11,TOTAL,1
+La Paz,21001,Inquisivi,2007,11,TOTAL,53
+Santa Cruz,70104,La Guardia,2007,11,TOTAL,65
+Beni,80601,Loreto,2007,11,TOTAL,2
+Oruro,40101,Oruro,2007,11,TOTAL,227
+Tarija,60201,Padcaya,2007,11,TOTAL,2
+Oruro,40802,Pampa Aullagas,2007,11,TOTAL,18
+Oruro,40602,Pazña,2007,11,TOTAL,15
+Oruro,40601,Poopo,2007,11,TOTAL,3
+Chuquisaca,10302,Presto,2007,11,TOTAL,12
+Cochabamba,31205,Puerto Villarroel,2007,11,TOTAL,1
+Beni,80301,Reyes,2007,11,TOTAL,2
+Beni,80201,Riberalta,2007,11,TOTAL,91
+Beni,80304,Rurrenabaque,2007,11,TOTAL,2
+Potosí,50701,Sacaca,2007,11,TOTAL,26
+Oruro,40801,Salinas De Garci Mendoza,2007,11,TOTAL,37
+Beni,80501,San Ignacio,2007,11,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2007,11,TOTAL,7
+Santa Cruz,71201,San Matias,2007,11,TOTAL,8
+Beni,80401,Santa Ana,2007,11,TOTAL,16
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,TOTAL,1
+Beni,80303,Santa Rosa,2007,11,TOTAL,3
+Oruro,40104,Soracachi,2007,11,TOTAL,5
+Chuquisaca,10101,Sucre,2007,11,TOTAL,2
+Cochabamba,30602,Tacopaya,2007,11,TOTAL,41
+Cochabamba,30401,Tarata,2007,11,TOTAL,3
+Cochabamba,30802,Toco,2007,11,TOTAL,1
+Cochabamba,30803,Tolata,2007,11,TOTAL,1
+Oruro,41001,Toledo,2007,11,TOTAL,9
+Potosí,50502,Toro Toro,2007,11,TOTAL,44
+Beni,80101,Trinidad,2007,11,TOTAL,15
+Oruro,40402,Turco,2007,11,TOTAL,16
+Cochabamba,31402,Villa Rivero,2007,11,TOTAL,3
+Tarija,60301,Yacuiba,2007,11,TOTAL,5
+Chuquisaca,10102,Yotala,2007,11,TOTAL,152
+Chuquisaca,10301,Zudañez,2007,11,TOTAL,9
+La Paz,20104,Achocalla,2007,12,TOTAL,6
+Cochabamba,31303,Alalay,2007,12,TOTAL,2
+Oruro,41201,Andamarca,2007,12,TOTAL,27
+Santa Cruz,71501,Ascencion De Guarayos,2007,12,TOTAL,106
+Oruro,41202,Belen De Andamarca,2007,12,TOTAL,6
+Potosí,50301,Betanzos,2007,12,TOTAL,35
+Cochabamba,30701,Capinota,2007,12,TOTAL,2
+Oruro,40102,Caracollo,2007,12,TOTAL,10
+Oruro,40201,Challapata,2007,12,TOTAL,110
+La Paz,21004,Colquiri,2007,12,TOTAL,109
+Oruro,40301,Corque,2007,12,TOTAL,45
+Potosí,50601,Cotagaita,2007,12,TOTAL,39
+Santa Cruz,70102,Cotoca,2007,12,TOTAL,20
+Oruro,40401,Curahuara De Carangas,2007,12,TOTAL,40
+Oruro,40103,El Choro,2007,12,TOTAL,1
+Santa Cruz,70105,El Torno,2007,12,TOTAL,30
+Oruro,41101,Eucaliptus,2007,12,TOTAL,27
+Oruro,40501,Huachacalla,2007,12,TOTAL,13
+Oruro,40701,Huanuni,2007,12,TOTAL,48
+La Paz,21001,Inquisivi,2007,12,TOTAL,45
+Santa Cruz,70104,La Guardia,2007,12,TOTAL,48
+Beni,80601,Loreto,2007,12,TOTAL,1
+Oruro,40702,Machacamarca,2007,12,TOTAL,2
+Oruro,40101,Oruro,2007,12,TOTAL,105
+Oruro,40802,Pampa Aullagas,2007,12,TOTAL,14
+Oruro,40602,Pazña,2007,12,TOTAL,9
+Oruro,40601,Poopo,2007,12,TOTAL,4
+Potosí,51203,Porco,2007,12,TOTAL,5
+Chuquisaca,10302,Presto,2007,12,TOTAL,11
+Santa Cruz,71402,Puerto Quijarro,2007,12,TOTAL,2
+Beni,80301,Reyes,2007,12,TOTAL,1
+Beni,80201,Riberalta,2007,12,TOTAL,63
+Santa Cruz,70503,Robore,2007,12,TOTAL,6
+Beni,80304,Rurrenabaque,2007,12,TOTAL,4
+Cochabamba,30404,Sacabamba,2007,12,TOTAL,3
+Oruro,40801,Salinas De Garci Mendoza,2007,12,TOTAL,65
+Beni,80602,San Andres,2007,12,TOTAL,4
+Beni,80501,San Ignacio,2007,12,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2007,12,TOTAL,5
+Chuquisaca,10702,San Lucas,2007,12,TOTAL,10
+Santa Cruz,71201,San Matias,2007,12,TOTAL,3
+Beni,80401,Santa Ana,2007,12,TOTAL,15
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,TOTAL,3
+Beni,80303,Santa Rosa,2007,12,TOTAL,4
+Oruro,41401,Santiago De Huari,2007,12,TOTAL,17
+Oruro,40104,Soracachi,2007,12,TOTAL,12
+Chuquisaca,10101,Sucre,2007,12,TOTAL,1
+Cochabamba,30602,Tacopaya,2007,12,TOTAL,15
+Chuquisaca,10601,Tarabuco,2007,12,TOTAL,10
+Cochabamba,30401,Tarata,2007,12,TOTAL,1
+Cochabamba,30802,Toco,2007,12,TOTAL,5
+Oruro,41001,Toledo,2007,12,TOTAL,20
+Potosí,50502,Toro Toro,2007,12,TOTAL,124
+Cochabamba,31201,Totora(cbba),2007,12,TOTAL,9
+Oruro,41301,Totora(orr),2007,12,TOTAL,4
+Beni,80101,Trinidad,2007,12,TOTAL,43
+Oruro,40402,Turco,2007,12,TOTAL,17
+Cochabamba,31003,Villa Tunari,2007,12,TOTAL,24
+Tarija,60301,Yacuiba,2007,12,TOTAL,12
+Chuquisaca,10102,Yotala,2007,12,TOTAL,125
+Tarija,60402,Yunchara,2007,12,TOTAL,2

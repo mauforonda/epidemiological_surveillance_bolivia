@@ -1,0 +1,561 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,30404,Sacabamba,2006,1,< de 2 anos-H,2
+Beni,80602,San Andres,2006,1,< de 2 anos-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,1,< de 2 anos-H,3
+Beni,80101,Trinidad,2006,1,< de 2 anos-H,0
+Tarija,60301,Yacuiba,2006,1,< de 2 anos-H,1
+Santa Cruz,71402,Puerto Quijarro,2006,2,< de 2 anos-H,0
+Cochabamba,30404,Sacabamba,2006,2,< de 2 anos-H,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,2,< de 2 anos-H,2
+Beni,80101,Trinidad,2006,2,< de 2 anos-H,0
+Tarija,60301,Yacuiba,2006,2,< de 2 anos-H,1
+Santa Cruz,71402,Puerto Quijarro,2006,3,< de 2 anos-H,0
+Cochabamba,30404,Sacabamba,2006,3,< de 2 anos-H,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,< de 2 anos-H,0
+Beni,80101,Trinidad,2006,3,< de 2 anos-H,3
+Tarija,60301,Yacuiba,2006,3,< de 2 anos-H,1
+Santa Cruz,71402,Puerto Quijarro,2006,4,< de 2 anos-H,2
+Cochabamba,30404,Sacabamba,2006,4,< de 2 anos-H,0
+Beni,80101,Trinidad,2006,4,< de 2 anos-H,0
+Tarija,60301,Yacuiba,2006,4,< de 2 anos-H,0
+Beni,80601,Loreto,2006,5,< de 2 anos-H,0
+Santa Cruz,71402,Puerto Quijarro,2006,5,< de 2 anos-H,0
+Beni,80301,Reyes,2006,5,< de 2 anos-H,0
+Cochabamba,30404,Sacabamba,2006,5,< de 2 anos-H,0
+Chuquisaca,10101,Sucre,2006,5,< de 2 anos-H,0
+Oruro,41301,Totora(orr),2006,5,< de 2 anos-H,1
+Beni,80101,Trinidad,2006,5,< de 2 anos-H,1
+Tarija,60301,Yacuiba,2006,5,< de 2 anos-H,2
+Santa Cruz,70403,Yapacani,2006,5,< de 2 anos-H,1
+Santa Cruz,71501,Ascencion De Guarayos,2006,6,< de 2 anos-H,4
+Oruro,41202,Belen De Andamarca,2006,6,< de 2 anos-H,1
+Santa Cruz,71403,Carmen Rivero Torrez,2006,6,< de 2 anos-H,0
+Santa Cruz,70102,Cotoca,2006,6,< de 2 anos-H,1
+Santa Cruz,70105,El Torno,2006,6,< de 2 anos-H,2
+Santa Cruz,70104,La Guardia,2006,6,< de 2 anos-H,1
+Beni,80501,San Ignacio,2006,6,< de 2 anos-H,0
+Santa Cruz,70404,San Juan De Yapacani,2006,6,< de 2 anos-H,0
+Cochabamba,30702,Santivañes,2006,6,< de 2 anos-H,1
+Oruro,41301,Totora(orr),2006,6,< de 2 anos-H,1
+Beni,80101,Trinidad,2006,6,< de 2 anos-H,0
+Santa Cruz,70403,Yapacani,2006,6,< de 2 anos-H,7
+Oruro,41301,Totora(orr),2006,7,< de 2 anos-H,1
+Beni,80101,Trinidad,2006,7,< de 2 anos-H,2
+Tarija,60301,Yacuiba,2006,7,< de 2 anos-H,1
+Santa Cruz,70403,Yapacani,2006,7,< de 2 anos-H,4
+Cochabamba,30501,Arani,2006,8,< de 2 anos-H,1
+Santa Cruz,71501,Ascencion De Guarayos,2006,8,< de 2 anos-H,5
+Oruro,41202,Belen De Andamarca,2006,8,< de 2 anos-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,8,< de 2 anos-H,0
+Tarija,60101,Tarija,2006,8,< de 2 anos-H,0
+Oruro,41301,Totora(orr),2006,8,< de 2 anos-H,1
+Potosí,50801,Tupiza,2006,8,< de 2 anos-H,2
+Potosí,50201,Uncia,2006,8,< de 2 anos-H,1
+Tarija,60301,Yacuiba,2006,8,< de 2 anos-H,1
+Santa Cruz,70403,Yapacani,2006,8,< de 2 anos-H,1
+Potosí,50202,Chayanta,2006,9,< de 2 anos-H,0
+Santa Cruz,70503,Robore,2006,9,< de 2 anos-H,1
+Cochabamba,30404,Sacabamba,2006,9,< de 2 anos-H,0
+Cochabamba,30802,Toco,2006,9,< de 2 anos-H,2
+Oruro,41301,Totora(orr),2006,9,< de 2 anos-H,1
+Tarija,60301,Yacuiba,2006,9,< de 2 anos-H,1
+Santa Cruz,70403,Yapacani,2006,9,< de 2 anos-H,1
+Santa Cruz,71402,Puerto Quijarro,2006,10,< de 2 anos-H,0
+Beni,80301,Reyes,2006,10,< de 2 anos-H,1
+Cochabamba,30404,Sacabamba,2006,10,< de 2 anos-H,0
+Beni,80602,San Andres,2006,10,< de 2 anos-H,1
+Oruro,41301,Totora(orr),2006,10,< de 2 anos-H,1
+Tarija,60301,Yacuiba,2006,10,< de 2 anos-H,1
+Santa Cruz,70403,Yapacani,2006,10,< de 2 anos-H,1
+Cochabamba,30403,Arbieto,2006,11,< de 2 anos-H,0
+Santa Cruz,70703,Cabezas,2006,11,< de 2 anos-H,0
+Cochabamba,30404,Sacabamba,2006,11,< de 2 anos-H,1
+Beni,80602,San Andres,2006,11,< de 2 anos-H,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,11,< de 2 anos-H,2
+Tarija,60301,Yacuiba,2006,11,< de 2 anos-H,3
+Santa Cruz,70403,Yapacani,2006,11,< de 2 anos-H,4
+Santa Cruz,71501,Ascencion De Guarayos,2006,12,< de 2 anos-H,4
+Santa Cruz,71402,Puerto Quijarro,2006,12,< de 2 anos-H,1
+Oruro,41301,Totora(orr),2006,12,< de 2 anos-H,1
+Tarija,60301,Yacuiba,2006,12,< de 2 anos-H,0
+Santa Cruz,70403,Yapacani,2006,12,< de 2 anos-H,0
+Cochabamba,30404,Sacabamba,2006,1,< de 2 anos-M,2
+Beni,80602,San Andres,2006,1,< de 2 anos-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,1,< de 2 anos-M,1
+Beni,80101,Trinidad,2006,1,< de 2 anos-M,1
+Tarija,60301,Yacuiba,2006,1,< de 2 anos-M,0
+Santa Cruz,71402,Puerto Quijarro,2006,2,< de 2 anos-M,1
+Cochabamba,30404,Sacabamba,2006,2,< de 2 anos-M,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,2,< de 2 anos-M,3
+Beni,80101,Trinidad,2006,2,< de 2 anos-M,1
+Tarija,60301,Yacuiba,2006,2,< de 2 anos-M,0
+Santa Cruz,71402,Puerto Quijarro,2006,3,< de 2 anos-M,1
+Cochabamba,30404,Sacabamba,2006,3,< de 2 anos-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,< de 2 anos-M,1
+Beni,80101,Trinidad,2006,3,< de 2 anos-M,4
+Tarija,60301,Yacuiba,2006,3,< de 2 anos-M,0
+Santa Cruz,71402,Puerto Quijarro,2006,4,< de 2 anos-M,0
+Cochabamba,30404,Sacabamba,2006,4,< de 2 anos-M,0
+Beni,80101,Trinidad,2006,4,< de 2 anos-M,0
+Tarija,60301,Yacuiba,2006,4,< de 2 anos-M,0
+Beni,80601,Loreto,2006,5,< de 2 anos-M,1
+Santa Cruz,71402,Puerto Quijarro,2006,5,< de 2 anos-M,1
+Beni,80301,Reyes,2006,5,< de 2 anos-M,1
+Cochabamba,30404,Sacabamba,2006,5,< de 2 anos-M,0
+Chuquisaca,10101,Sucre,2006,5,< de 2 anos-M,1
+Oruro,41301,Totora(orr),2006,5,< de 2 anos-M,0
+Beni,80101,Trinidad,2006,5,< de 2 anos-M,0
+Tarija,60301,Yacuiba,2006,5,< de 2 anos-M,0
+Santa Cruz,70403,Yapacani,2006,5,< de 2 anos-M,2
+Santa Cruz,71501,Ascencion De Guarayos,2006,6,< de 2 anos-M,2
+Oruro,41202,Belen De Andamarca,2006,6,< de 2 anos-M,0
+Santa Cruz,71403,Carmen Rivero Torrez,2006,6,< de 2 anos-M,0
+Santa Cruz,70102,Cotoca,2006,6,< de 2 anos-M,1
+Santa Cruz,70105,El Torno,2006,6,< de 2 anos-M,7
+Santa Cruz,70104,La Guardia,2006,6,< de 2 anos-M,3
+Beni,80501,San Ignacio,2006,6,< de 2 anos-M,0
+Santa Cruz,70404,San Juan De Yapacani,2006,6,< de 2 anos-M,1
+Cochabamba,30702,Santivañes,2006,6,< de 2 anos-M,2
+Oruro,41301,Totora(orr),2006,6,< de 2 anos-M,0
+Beni,80101,Trinidad,2006,6,< de 2 anos-M,1
+Santa Cruz,70403,Yapacani,2006,6,< de 2 anos-M,2
+Oruro,41301,Totora(orr),2006,7,< de 2 anos-M,0
+Beni,80101,Trinidad,2006,7,< de 2 anos-M,0
+Tarija,60301,Yacuiba,2006,7,< de 2 anos-M,0
+Santa Cruz,70403,Yapacani,2006,7,< de 2 anos-M,2
+Cochabamba,30501,Arani,2006,8,< de 2 anos-M,0
+Santa Cruz,71501,Ascencion De Guarayos,2006,8,< de 2 anos-M,3
+Oruro,41202,Belen De Andamarca,2006,8,< de 2 anos-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,8,< de 2 anos-M,2
+Tarija,60101,Tarija,2006,8,< de 2 anos-M,1
+Oruro,41301,Totora(orr),2006,8,< de 2 anos-M,0
+Potosí,50801,Tupiza,2006,8,< de 2 anos-M,2
+Potosí,50201,Uncia,2006,8,< de 2 anos-M,0
+Tarija,60301,Yacuiba,2006,8,< de 2 anos-M,0
+Santa Cruz,70403,Yapacani,2006,8,< de 2 anos-M,3
+Potosí,50202,Chayanta,2006,9,< de 2 anos-M,1
+Santa Cruz,70503,Robore,2006,9,< de 2 anos-M,0
+Cochabamba,30404,Sacabamba,2006,9,< de 2 anos-M,0
+Cochabamba,30802,Toco,2006,9,< de 2 anos-M,0
+Oruro,41301,Totora(orr),2006,9,< de 2 anos-M,0
+Tarija,60301,Yacuiba,2006,9,< de 2 anos-M,2
+Santa Cruz,70403,Yapacani,2006,9,< de 2 anos-M,1
+Santa Cruz,71402,Puerto Quijarro,2006,10,< de 2 anos-M,0
+Beni,80301,Reyes,2006,10,< de 2 anos-M,1
+Cochabamba,30404,Sacabamba,2006,10,< de 2 anos-M,1
+Beni,80602,San Andres,2006,10,< de 2 anos-M,0
+Oruro,41301,Totora(orr),2006,10,< de 2 anos-M,0
+Tarija,60301,Yacuiba,2006,10,< de 2 anos-M,1
+Santa Cruz,70403,Yapacani,2006,10,< de 2 anos-M,1
+Cochabamba,30403,Arbieto,2006,11,< de 2 anos-M,0
+Santa Cruz,70703,Cabezas,2006,11,< de 2 anos-M,0
+Cochabamba,30404,Sacabamba,2006,11,< de 2 anos-M,1
+Beni,80602,San Andres,2006,11,< de 2 anos-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,11,< de 2 anos-M,2
+Tarija,60301,Yacuiba,2006,11,< de 2 anos-M,0
+Santa Cruz,70403,Yapacani,2006,11,< de 2 anos-M,2
+Santa Cruz,71501,Ascencion De Guarayos,2006,12,< de 2 anos-M,3
+Santa Cruz,71402,Puerto Quijarro,2006,12,< de 2 anos-M,2
+Oruro,41301,Totora(orr),2006,12,< de 2 anos-M,0
+Tarija,60301,Yacuiba,2006,12,< de 2 anos-M,1
+Santa Cruz,70403,Yapacani,2006,12,< de 2 anos-M,0
+Cochabamba,30404,Sacabamba,2006,1,2 a 4 anos-H,0
+Beni,80602,San Andres,2006,1,2 a 4 anos-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,1,2 a 4 anos-H,1
+Beni,80101,Trinidad,2006,1,2 a 4 anos-H,0
+Tarija,60301,Yacuiba,2006,1,2 a 4 anos-H,0
+Santa Cruz,71402,Puerto Quijarro,2006,2,2 a 4 anos-H,0
+Cochabamba,30404,Sacabamba,2006,2,2 a 4 anos-H,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,2,2 a 4 anos-H,3
+Beni,80101,Trinidad,2006,2,2 a 4 anos-H,1
+Tarija,60301,Yacuiba,2006,2,2 a 4 anos-H,0
+Santa Cruz,71402,Puerto Quijarro,2006,3,2 a 4 anos-H,0
+Cochabamba,30404,Sacabamba,2006,3,2 a 4 anos-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,2 a 4 anos-H,0
+Beni,80101,Trinidad,2006,3,2 a 4 anos-H,0
+Tarija,60301,Yacuiba,2006,3,2 a 4 anos-H,0
+Santa Cruz,71402,Puerto Quijarro,2006,4,2 a 4 anos-H,0
+Cochabamba,30404,Sacabamba,2006,4,2 a 4 anos-H,0
+Beni,80101,Trinidad,2006,4,2 a 4 anos-H,1
+Tarija,60301,Yacuiba,2006,4,2 a 4 anos-H,0
+Beni,80601,Loreto,2006,5,2 a 4 anos-H,0
+Santa Cruz,71402,Puerto Quijarro,2006,5,2 a 4 anos-H,0
+Beni,80301,Reyes,2006,5,2 a 4 anos-H,0
+Cochabamba,30404,Sacabamba,2006,5,2 a 4 anos-H,0
+Chuquisaca,10101,Sucre,2006,5,2 a 4 anos-H,0
+Oruro,41301,Totora(orr),2006,5,2 a 4 anos-H,0
+Beni,80101,Trinidad,2006,5,2 a 4 anos-H,1
+Tarija,60301,Yacuiba,2006,5,2 a 4 anos-H,0
+Santa Cruz,70403,Yapacani,2006,5,2 a 4 anos-H,0
+Santa Cruz,71501,Ascencion De Guarayos,2006,6,2 a 4 anos-H,2
+Oruro,41202,Belen De Andamarca,2006,6,2 a 4 anos-H,0
+Santa Cruz,71403,Carmen Rivero Torrez,2006,6,2 a 4 anos-H,1
+Santa Cruz,70102,Cotoca,2006,6,2 a 4 anos-H,0
+Santa Cruz,70105,El Torno,2006,6,2 a 4 anos-H,6
+Santa Cruz,70104,La Guardia,2006,6,2 a 4 anos-H,3
+Beni,80501,San Ignacio,2006,6,2 a 4 anos-H,1
+Santa Cruz,70404,San Juan De Yapacani,2006,6,2 a 4 anos-H,0
+Cochabamba,30702,Santivañes,2006,6,2 a 4 anos-H,1
+Oruro,41301,Totora(orr),2006,6,2 a 4 anos-H,0
+Beni,80101,Trinidad,2006,6,2 a 4 anos-H,0
+Santa Cruz,70403,Yapacani,2006,6,2 a 4 anos-H,8
+Oruro,41301,Totora(orr),2006,7,2 a 4 anos-H,0
+Beni,80101,Trinidad,2006,7,2 a 4 anos-H,0
+Tarija,60301,Yacuiba,2006,7,2 a 4 anos-H,0
+Santa Cruz,70403,Yapacani,2006,7,2 a 4 anos-H,4
+Cochabamba,30501,Arani,2006,8,2 a 4 anos-H,0
+Santa Cruz,71501,Ascencion De Guarayos,2006,8,2 a 4 anos-H,3
+Oruro,41202,Belen De Andamarca,2006,8,2 a 4 anos-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,8,2 a 4 anos-H,0
+Tarija,60101,Tarija,2006,8,2 a 4 anos-H,0
+Oruro,41301,Totora(orr),2006,8,2 a 4 anos-H,0
+Potosí,50801,Tupiza,2006,8,2 a 4 anos-H,1
+Potosí,50201,Uncia,2006,8,2 a 4 anos-H,0
+Tarija,60301,Yacuiba,2006,8,2 a 4 anos-H,0
+Santa Cruz,70403,Yapacani,2006,8,2 a 4 anos-H,5
+Potosí,50202,Chayanta,2006,9,2 a 4 anos-H,0
+Santa Cruz,70503,Robore,2006,9,2 a 4 anos-H,0
+Cochabamba,30404,Sacabamba,2006,9,2 a 4 anos-H,0
+Cochabamba,30802,Toco,2006,9,2 a 4 anos-H,0
+Oruro,41301,Totora(orr),2006,9,2 a 4 anos-H,0
+Tarija,60301,Yacuiba,2006,9,2 a 4 anos-H,2
+Santa Cruz,70403,Yapacani,2006,9,2 a 4 anos-H,0
+Santa Cruz,71402,Puerto Quijarro,2006,10,2 a 4 anos-H,0
+Beni,80301,Reyes,2006,10,2 a 4 anos-H,0
+Cochabamba,30404,Sacabamba,2006,10,2 a 4 anos-H,0
+Beni,80602,San Andres,2006,10,2 a 4 anos-H,0
+Oruro,41301,Totora(orr),2006,10,2 a 4 anos-H,0
+Tarija,60301,Yacuiba,2006,10,2 a 4 anos-H,0
+Santa Cruz,70403,Yapacani,2006,10,2 a 4 anos-H,3
+Cochabamba,30403,Arbieto,2006,11,2 a 4 anos-H,0
+Santa Cruz,70703,Cabezas,2006,11,2 a 4 anos-H,0
+Cochabamba,30404,Sacabamba,2006,11,2 a 4 anos-H,1
+Beni,80602,San Andres,2006,11,2 a 4 anos-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,11,2 a 4 anos-H,0
+Tarija,60301,Yacuiba,2006,11,2 a 4 anos-H,0
+Santa Cruz,70403,Yapacani,2006,11,2 a 4 anos-H,5
+Santa Cruz,71501,Ascencion De Guarayos,2006,12,2 a 4 anos-H,3
+Santa Cruz,71402,Puerto Quijarro,2006,12,2 a 4 anos-H,0
+Oruro,41301,Totora(orr),2006,12,2 a 4 anos-H,0
+Tarija,60301,Yacuiba,2006,12,2 a 4 anos-H,1
+Santa Cruz,70403,Yapacani,2006,12,2 a 4 anos-H,1
+Cochabamba,30404,Sacabamba,2006,1,2 a 4 anos-M,0
+Beni,80602,San Andres,2006,1,2 a 4 anos-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,1,2 a 4 anos-M,0
+Beni,80101,Trinidad,2006,1,2 a 4 anos-M,1
+Tarija,60301,Yacuiba,2006,1,2 a 4 anos-M,1
+Santa Cruz,71402,Puerto Quijarro,2006,2,2 a 4 anos-M,0
+Cochabamba,30404,Sacabamba,2006,2,2 a 4 anos-M,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,2,2 a 4 anos-M,1
+Beni,80101,Trinidad,2006,2,2 a 4 anos-M,1
+Tarija,60301,Yacuiba,2006,2,2 a 4 anos-M,0
+Santa Cruz,71402,Puerto Quijarro,2006,3,2 a 4 anos-M,0
+Cochabamba,30404,Sacabamba,2006,3,2 a 4 anos-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,2 a 4 anos-M,1
+Beni,80101,Trinidad,2006,3,2 a 4 anos-M,3
+Tarija,60301,Yacuiba,2006,3,2 a 4 anos-M,0
+Santa Cruz,71402,Puerto Quijarro,2006,4,2 a 4 anos-M,0
+Cochabamba,30404,Sacabamba,2006,4,2 a 4 anos-M,1
+Beni,80101,Trinidad,2006,4,2 a 4 anos-M,0
+Tarija,60301,Yacuiba,2006,4,2 a 4 anos-M,1
+Beni,80601,Loreto,2006,5,2 a 4 anos-M,0
+Santa Cruz,71402,Puerto Quijarro,2006,5,2 a 4 anos-M,0
+Beni,80301,Reyes,2006,5,2 a 4 anos-M,0
+Cochabamba,30404,Sacabamba,2006,5,2 a 4 anos-M,1
+Chuquisaca,10101,Sucre,2006,5,2 a 4 anos-M,2
+Oruro,41301,Totora(orr),2006,5,2 a 4 anos-M,0
+Beni,80101,Trinidad,2006,5,2 a 4 anos-M,0
+Tarija,60301,Yacuiba,2006,5,2 a 4 anos-M,0
+Santa Cruz,70403,Yapacani,2006,5,2 a 4 anos-M,1
+Santa Cruz,71501,Ascencion De Guarayos,2006,6,2 a 4 anos-M,2
+Oruro,41202,Belen De Andamarca,2006,6,2 a 4 anos-M,0
+Santa Cruz,71403,Carmen Rivero Torrez,2006,6,2 a 4 anos-M,0
+Santa Cruz,70102,Cotoca,2006,6,2 a 4 anos-M,0
+Santa Cruz,70105,El Torno,2006,6,2 a 4 anos-M,3
+Santa Cruz,70104,La Guardia,2006,6,2 a 4 anos-M,0
+Beni,80501,San Ignacio,2006,6,2 a 4 anos-M,0
+Santa Cruz,70404,San Juan De Yapacani,2006,6,2 a 4 anos-M,0
+Cochabamba,30702,Santivañes,2006,6,2 a 4 anos-M,0
+Oruro,41301,Totora(orr),2006,6,2 a 4 anos-M,0
+Beni,80101,Trinidad,2006,6,2 a 4 anos-M,0
+Santa Cruz,70403,Yapacani,2006,6,2 a 4 anos-M,10
+Oruro,41301,Totora(orr),2006,7,2 a 4 anos-M,0
+Beni,80101,Trinidad,2006,7,2 a 4 anos-M,0
+Tarija,60301,Yacuiba,2006,7,2 a 4 anos-M,1
+Santa Cruz,70403,Yapacani,2006,7,2 a 4 anos-M,5
+Cochabamba,30501,Arani,2006,8,2 a 4 anos-M,0
+Santa Cruz,71501,Ascencion De Guarayos,2006,8,2 a 4 anos-M,1
+Oruro,41202,Belen De Andamarca,2006,8,2 a 4 anos-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,8,2 a 4 anos-M,0
+Tarija,60101,Tarija,2006,8,2 a 4 anos-M,0
+Oruro,41301,Totora(orr),2006,8,2 a 4 anos-M,0
+Potosí,50801,Tupiza,2006,8,2 a 4 anos-M,0
+Potosí,50201,Uncia,2006,8,2 a 4 anos-M,0
+Tarija,60301,Yacuiba,2006,8,2 a 4 anos-M,0
+Santa Cruz,70403,Yapacani,2006,8,2 a 4 anos-M,11
+Potosí,50202,Chayanta,2006,9,2 a 4 anos-M,0
+Santa Cruz,70503,Robore,2006,9,2 a 4 anos-M,0
+Cochabamba,30404,Sacabamba,2006,9,2 a 4 anos-M,1
+Cochabamba,30802,Toco,2006,9,2 a 4 anos-M,0
+Oruro,41301,Totora(orr),2006,9,2 a 4 anos-M,0
+Tarija,60301,Yacuiba,2006,9,2 a 4 anos-M,0
+Santa Cruz,70403,Yapacani,2006,9,2 a 4 anos-M,2
+Santa Cruz,71402,Puerto Quijarro,2006,10,2 a 4 anos-M,1
+Beni,80301,Reyes,2006,10,2 a 4 anos-M,0
+Cochabamba,30404,Sacabamba,2006,10,2 a 4 anos-M,3
+Beni,80602,San Andres,2006,10,2 a 4 anos-M,0
+Oruro,41301,Totora(orr),2006,10,2 a 4 anos-M,0
+Tarija,60301,Yacuiba,2006,10,2 a 4 anos-M,2
+Santa Cruz,70403,Yapacani,2006,10,2 a 4 anos-M,3
+Cochabamba,30403,Arbieto,2006,11,2 a 4 anos-M,1
+Santa Cruz,70703,Cabezas,2006,11,2 a 4 anos-M,1
+Cochabamba,30404,Sacabamba,2006,11,2 a 4 anos-M,2
+Beni,80602,San Andres,2006,11,2 a 4 anos-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,11,2 a 4 anos-M,0
+Tarija,60301,Yacuiba,2006,11,2 a 4 anos-M,0
+Santa Cruz,70403,Yapacani,2006,11,2 a 4 anos-M,3
+Santa Cruz,71501,Ascencion De Guarayos,2006,12,2 a 4 anos-M,0
+Santa Cruz,71402,Puerto Quijarro,2006,12,2 a 4 anos-M,0
+Oruro,41301,Totora(orr),2006,12,2 a 4 anos-M,0
+Tarija,60301,Yacuiba,2006,12,2 a 4 anos-M,1
+Santa Cruz,70403,Yapacani,2006,12,2 a 4 anos-M,2
+Cochabamba,30404,Sacabamba,2006,1,TOTAL-H,2
+Beni,80602,San Andres,2006,1,TOTAL-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,1,TOTAL-H,4
+Beni,80101,Trinidad,2006,1,TOTAL-H,0
+Tarija,60301,Yacuiba,2006,1,TOTAL-H,1
+Santa Cruz,71402,Puerto Quijarro,2006,2,TOTAL-H,0
+Cochabamba,30404,Sacabamba,2006,2,TOTAL-H,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,2,TOTAL-H,5
+Beni,80101,Trinidad,2006,2,TOTAL-H,1
+Tarija,60301,Yacuiba,2006,2,TOTAL-H,1
+Santa Cruz,71402,Puerto Quijarro,2006,3,TOTAL-H,0
+Cochabamba,30404,Sacabamba,2006,3,TOTAL-H,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,TOTAL-H,0
+Beni,80101,Trinidad,2006,3,TOTAL-H,3
+Tarija,60301,Yacuiba,2006,3,TOTAL-H,1
+Santa Cruz,71402,Puerto Quijarro,2006,4,TOTAL-H,2
+Cochabamba,30404,Sacabamba,2006,4,TOTAL-H,0
+Beni,80101,Trinidad,2006,4,TOTAL-H,1
+Tarija,60301,Yacuiba,2006,4,TOTAL-H,0
+Beni,80601,Loreto,2006,5,TOTAL-H,0
+Santa Cruz,71402,Puerto Quijarro,2006,5,TOTAL-H,0
+Beni,80301,Reyes,2006,5,TOTAL-H,0
+Cochabamba,30404,Sacabamba,2006,5,TOTAL-H,0
+Chuquisaca,10101,Sucre,2006,5,TOTAL-H,0
+Oruro,41301,Totora(orr),2006,5,TOTAL-H,1
+Beni,80101,Trinidad,2006,5,TOTAL-H,2
+Tarija,60301,Yacuiba,2006,5,TOTAL-H,2
+Santa Cruz,70403,Yapacani,2006,5,TOTAL-H,1
+Santa Cruz,71501,Ascencion De Guarayos,2006,6,TOTAL-H,6
+Oruro,41202,Belen De Andamarca,2006,6,TOTAL-H,1
+Santa Cruz,71403,Carmen Rivero Torrez,2006,6,TOTAL-H,1
+Santa Cruz,70102,Cotoca,2006,6,TOTAL-H,1
+Santa Cruz,70105,El Torno,2006,6,TOTAL-H,8
+Santa Cruz,70104,La Guardia,2006,6,TOTAL-H,4
+Beni,80501,San Ignacio,2006,6,TOTAL-H,1
+Santa Cruz,70404,San Juan De Yapacani,2006,6,TOTAL-H,0
+Cochabamba,30702,Santivañes,2006,6,TOTAL-H,2
+Oruro,41301,Totora(orr),2006,6,TOTAL-H,1
+Beni,80101,Trinidad,2006,6,TOTAL-H,0
+Santa Cruz,70403,Yapacani,2006,6,TOTAL-H,15
+Oruro,41301,Totora(orr),2006,7,TOTAL-H,1
+Beni,80101,Trinidad,2006,7,TOTAL-H,2
+Tarija,60301,Yacuiba,2006,7,TOTAL-H,1
+Santa Cruz,70403,Yapacani,2006,7,TOTAL-H,8
+Cochabamba,30501,Arani,2006,8,TOTAL-H,1
+Santa Cruz,71501,Ascencion De Guarayos,2006,8,TOTAL-H,8
+Oruro,41202,Belen De Andamarca,2006,8,TOTAL-H,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,8,TOTAL-H,0
+Tarija,60101,Tarija,2006,8,TOTAL-H,0
+Oruro,41301,Totora(orr),2006,8,TOTAL-H,1
+Potosí,50801,Tupiza,2006,8,TOTAL-H,3
+Potosí,50201,Uncia,2006,8,TOTAL-H,1
+Tarija,60301,Yacuiba,2006,8,TOTAL-H,1
+Santa Cruz,70403,Yapacani,2006,8,TOTAL-H,6
+Potosí,50202,Chayanta,2006,9,TOTAL-H,0
+Santa Cruz,70503,Robore,2006,9,TOTAL-H,1
+Cochabamba,30404,Sacabamba,2006,9,TOTAL-H,0
+Cochabamba,30802,Toco,2006,9,TOTAL-H,2
+Oruro,41301,Totora(orr),2006,9,TOTAL-H,1
+Tarija,60301,Yacuiba,2006,9,TOTAL-H,3
+Santa Cruz,70403,Yapacani,2006,9,TOTAL-H,1
+Santa Cruz,71402,Puerto Quijarro,2006,10,TOTAL-H,0
+Beni,80301,Reyes,2006,10,TOTAL-H,1
+Cochabamba,30404,Sacabamba,2006,10,TOTAL-H,0
+Beni,80602,San Andres,2006,10,TOTAL-H,1
+Oruro,41301,Totora(orr),2006,10,TOTAL-H,1
+Tarija,60301,Yacuiba,2006,10,TOTAL-H,1
+Santa Cruz,70403,Yapacani,2006,10,TOTAL-H,4
+Cochabamba,30403,Arbieto,2006,11,TOTAL-H,0
+Santa Cruz,70703,Cabezas,2006,11,TOTAL-H,0
+Cochabamba,30404,Sacabamba,2006,11,TOTAL-H,2
+Beni,80602,San Andres,2006,11,TOTAL-H,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,11,TOTAL-H,2
+Tarija,60301,Yacuiba,2006,11,TOTAL-H,3
+Santa Cruz,70403,Yapacani,2006,11,TOTAL-H,9
+Santa Cruz,71501,Ascencion De Guarayos,2006,12,TOTAL-H,7
+Santa Cruz,71402,Puerto Quijarro,2006,12,TOTAL-H,1
+Oruro,41301,Totora(orr),2006,12,TOTAL-H,1
+Tarija,60301,Yacuiba,2006,12,TOTAL-H,1
+Santa Cruz,70403,Yapacani,2006,12,TOTAL-H,1
+Cochabamba,30404,Sacabamba,2006,1,TOTAL-M,2
+Beni,80602,San Andres,2006,1,TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,1,TOTAL-M,1
+Beni,80101,Trinidad,2006,1,TOTAL-M,2
+Tarija,60301,Yacuiba,2006,1,TOTAL-M,1
+Santa Cruz,71402,Puerto Quijarro,2006,2,TOTAL-M,1
+Cochabamba,30404,Sacabamba,2006,2,TOTAL-M,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,2,TOTAL-M,4
+Beni,80101,Trinidad,2006,2,TOTAL-M,2
+Tarija,60301,Yacuiba,2006,2,TOTAL-M,0
+Santa Cruz,71402,Puerto Quijarro,2006,3,TOTAL-M,1
+Cochabamba,30404,Sacabamba,2006,3,TOTAL-M,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,TOTAL-M,2
+Beni,80101,Trinidad,2006,3,TOTAL-M,7
+Tarija,60301,Yacuiba,2006,3,TOTAL-M,0
+Santa Cruz,71402,Puerto Quijarro,2006,4,TOTAL-M,0
+Cochabamba,30404,Sacabamba,2006,4,TOTAL-M,1
+Beni,80101,Trinidad,2006,4,TOTAL-M,0
+Tarija,60301,Yacuiba,2006,4,TOTAL-M,1
+Beni,80601,Loreto,2006,5,TOTAL-M,1
+Santa Cruz,71402,Puerto Quijarro,2006,5,TOTAL-M,1
+Beni,80301,Reyes,2006,5,TOTAL-M,1
+Cochabamba,30404,Sacabamba,2006,5,TOTAL-M,1
+Chuquisaca,10101,Sucre,2006,5,TOTAL-M,3
+Oruro,41301,Totora(orr),2006,5,TOTAL-M,0
+Beni,80101,Trinidad,2006,5,TOTAL-M,0
+Tarija,60301,Yacuiba,2006,5,TOTAL-M,0
+Santa Cruz,70403,Yapacani,2006,5,TOTAL-M,3
+Santa Cruz,71501,Ascencion De Guarayos,2006,6,TOTAL-M,4
+Oruro,41202,Belen De Andamarca,2006,6,TOTAL-M,0
+Santa Cruz,71403,Carmen Rivero Torrez,2006,6,TOTAL-M,0
+Santa Cruz,70102,Cotoca,2006,6,TOTAL-M,1
+Santa Cruz,70105,El Torno,2006,6,TOTAL-M,10
+Santa Cruz,70104,La Guardia,2006,6,TOTAL-M,3
+Beni,80501,San Ignacio,2006,6,TOTAL-M,0
+Santa Cruz,70404,San Juan De Yapacani,2006,6,TOTAL-M,1
+Cochabamba,30702,Santivañes,2006,6,TOTAL-M,2
+Oruro,41301,Totora(orr),2006,6,TOTAL-M,0
+Beni,80101,Trinidad,2006,6,TOTAL-M,1
+Santa Cruz,70403,Yapacani,2006,6,TOTAL-M,12
+Oruro,41301,Totora(orr),2006,7,TOTAL-M,0
+Beni,80101,Trinidad,2006,7,TOTAL-M,0
+Tarija,60301,Yacuiba,2006,7,TOTAL-M,1
+Santa Cruz,70403,Yapacani,2006,7,TOTAL-M,7
+Cochabamba,30501,Arani,2006,8,TOTAL-M,0
+Santa Cruz,71501,Ascencion De Guarayos,2006,8,TOTAL-M,4
+Oruro,41202,Belen De Andamarca,2006,8,TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,8,TOTAL-M,2
+Tarija,60101,Tarija,2006,8,TOTAL-M,1
+Oruro,41301,Totora(orr),2006,8,TOTAL-M,0
+Potosí,50801,Tupiza,2006,8,TOTAL-M,2
+Potosí,50201,Uncia,2006,8,TOTAL-M,0
+Tarija,60301,Yacuiba,2006,8,TOTAL-M,0
+Santa Cruz,70403,Yapacani,2006,8,TOTAL-M,14
+Potosí,50202,Chayanta,2006,9,TOTAL-M,1
+Santa Cruz,70503,Robore,2006,9,TOTAL-M,0
+Cochabamba,30404,Sacabamba,2006,9,TOTAL-M,1
+Cochabamba,30802,Toco,2006,9,TOTAL-M,0
+Oruro,41301,Totora(orr),2006,9,TOTAL-M,0
+Tarija,60301,Yacuiba,2006,9,TOTAL-M,2
+Santa Cruz,70403,Yapacani,2006,9,TOTAL-M,3
+Santa Cruz,71402,Puerto Quijarro,2006,10,TOTAL-M,1
+Beni,80301,Reyes,2006,10,TOTAL-M,1
+Cochabamba,30404,Sacabamba,2006,10,TOTAL-M,4
+Beni,80602,San Andres,2006,10,TOTAL-M,0
+Oruro,41301,Totora(orr),2006,10,TOTAL-M,0
+Tarija,60301,Yacuiba,2006,10,TOTAL-M,3
+Santa Cruz,70403,Yapacani,2006,10,TOTAL-M,4
+Cochabamba,30403,Arbieto,2006,11,TOTAL-M,1
+Santa Cruz,70703,Cabezas,2006,11,TOTAL-M,1
+Cochabamba,30404,Sacabamba,2006,11,TOTAL-M,3
+Beni,80602,San Andres,2006,11,TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,11,TOTAL-M,2
+Tarija,60301,Yacuiba,2006,11,TOTAL-M,0
+Santa Cruz,70403,Yapacani,2006,11,TOTAL-M,5
+Santa Cruz,71501,Ascencion De Guarayos,2006,12,TOTAL-M,3
+Santa Cruz,71402,Puerto Quijarro,2006,12,TOTAL-M,2
+Oruro,41301,Totora(orr),2006,12,TOTAL-M,0
+Tarija,60301,Yacuiba,2006,12,TOTAL-M,2
+Santa Cruz,70403,Yapacani,2006,12,TOTAL-M,2
+Cochabamba,30404,Sacabamba,2006,1,TOTAL,4
+Beni,80602,San Andres,2006,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,1,TOTAL,5
+Beni,80101,Trinidad,2006,1,TOTAL,2
+Tarija,60301,Yacuiba,2006,1,TOTAL,2
+Santa Cruz,71402,Puerto Quijarro,2006,2,TOTAL,1
+Cochabamba,30404,Sacabamba,2006,2,TOTAL,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,2,TOTAL,9
+Beni,80101,Trinidad,2006,2,TOTAL,3
+Tarija,60301,Yacuiba,2006,2,TOTAL,1
+Santa Cruz,71402,Puerto Quijarro,2006,3,TOTAL,1
+Cochabamba,30404,Sacabamba,2006,3,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,3,TOTAL,2
+Beni,80101,Trinidad,2006,3,TOTAL,10
+Tarija,60301,Yacuiba,2006,3,TOTAL,1
+Santa Cruz,71402,Puerto Quijarro,2006,4,TOTAL,2
+Cochabamba,30404,Sacabamba,2006,4,TOTAL,1
+Beni,80101,Trinidad,2006,4,TOTAL,1
+Tarija,60301,Yacuiba,2006,4,TOTAL,1
+Beni,80601,Loreto,2006,5,TOTAL,1
+Santa Cruz,71402,Puerto Quijarro,2006,5,TOTAL,1
+Beni,80301,Reyes,2006,5,TOTAL,1
+Cochabamba,30404,Sacabamba,2006,5,TOTAL,1
+Chuquisaca,10101,Sucre,2006,5,TOTAL,3
+Oruro,41301,Totora(orr),2006,5,TOTAL,1
+Beni,80101,Trinidad,2006,5,TOTAL,2
+Tarija,60301,Yacuiba,2006,5,TOTAL,2
+Santa Cruz,70403,Yapacani,2006,5,TOTAL,4
+Santa Cruz,71501,Ascencion De Guarayos,2006,6,TOTAL,10
+Oruro,41202,Belen De Andamarca,2006,6,TOTAL,1
+Santa Cruz,71403,Carmen Rivero Torrez,2006,6,TOTAL,1
+Santa Cruz,70102,Cotoca,2006,6,TOTAL,2
+Santa Cruz,70105,El Torno,2006,6,TOTAL,18
+Santa Cruz,70104,La Guardia,2006,6,TOTAL,7
+Beni,80501,San Ignacio,2006,6,TOTAL,1
+Santa Cruz,70404,San Juan De Yapacani,2006,6,TOTAL,1
+Cochabamba,30702,Santivañes,2006,6,TOTAL,4
+Oruro,41301,Totora(orr),2006,6,TOTAL,1
+Beni,80101,Trinidad,2006,6,TOTAL,1
+Santa Cruz,70403,Yapacani,2006,6,TOTAL,27
+Oruro,41301,Totora(orr),2006,7,TOTAL,1
+Beni,80101,Trinidad,2006,7,TOTAL,2
+Tarija,60301,Yacuiba,2006,7,TOTAL,2
+Santa Cruz,70403,Yapacani,2006,7,TOTAL,15
+Cochabamba,30501,Arani,2006,8,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2006,8,TOTAL,12
+Oruro,41202,Belen De Andamarca,2006,8,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,8,TOTAL,2
+Tarija,60101,Tarija,2006,8,TOTAL,1
+Oruro,41301,Totora(orr),2006,8,TOTAL,1
+Potosí,50801,Tupiza,2006,8,TOTAL,5
+Potosí,50201,Uncia,2006,8,TOTAL,1
+Tarija,60301,Yacuiba,2006,8,TOTAL,1
+Santa Cruz,70403,Yapacani,2006,8,TOTAL,20
+Potosí,50202,Chayanta,2006,9,TOTAL,1
+Santa Cruz,70503,Robore,2006,9,TOTAL,1
+Cochabamba,30404,Sacabamba,2006,9,TOTAL,1
+Cochabamba,30802,Toco,2006,9,TOTAL,2
+Oruro,41301,Totora(orr),2006,9,TOTAL,1
+Tarija,60301,Yacuiba,2006,9,TOTAL,5
+Santa Cruz,70403,Yapacani,2006,9,TOTAL,4
+Santa Cruz,71402,Puerto Quijarro,2006,10,TOTAL,1
+Beni,80301,Reyes,2006,10,TOTAL,2
+Cochabamba,30404,Sacabamba,2006,10,TOTAL,4
+Beni,80602,San Andres,2006,10,TOTAL,1
+Oruro,41301,Totora(orr),2006,10,TOTAL,1
+Tarija,60301,Yacuiba,2006,10,TOTAL,4
+Santa Cruz,70403,Yapacani,2006,10,TOTAL,8
+Cochabamba,30403,Arbieto,2006,11,TOTAL,1
+Santa Cruz,70703,Cabezas,2006,11,TOTAL,1
+Cochabamba,30404,Sacabamba,2006,11,TOTAL,5
+Beni,80602,San Andres,2006,11,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2006,11,TOTAL,4
+Tarija,60301,Yacuiba,2006,11,TOTAL,3
+Santa Cruz,70403,Yapacani,2006,11,TOTAL,14
+Santa Cruz,71501,Ascencion De Guarayos,2006,12,TOTAL,10
+Santa Cruz,71402,Puerto Quijarro,2006,12,TOTAL,3
+Oruro,41301,Totora(orr),2006,12,TOTAL,1
+Tarija,60301,Yacuiba,2006,12,TOTAL,3
+Santa Cruz,70403,Yapacani,2006,12,TOTAL,3

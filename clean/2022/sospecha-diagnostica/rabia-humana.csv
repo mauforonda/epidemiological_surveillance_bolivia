@@ -1,0 +1,93 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20105,El Alto,2022,6,a. Menor de 6 meses / MASCULINO,0
+Pando,90101,Cobija,2022,8,a. Menor de 6 meses / MASCULINO,0
+Pando,90101,Cobija,2022,9,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70502,Pailon,2022,11,a. Menor de 6 meses / MASCULINO,0
+La Paz,20105,El Alto,2022,6,a. Menor de 6 meses / FEMENINO,0
+Pando,90101,Cobija,2022,8,a. Menor de 6 meses / FEMENINO,0
+Pando,90101,Cobija,2022,9,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70502,Pailon,2022,11,a. Menor de 6 meses / FEMENINO,0
+La Paz,20105,El Alto,2022,6,b. 6 meses a menor de 1 ano / MASCULINO,0
+Pando,90101,Cobija,2022,8,b. 6 meses a menor de 1 ano / MASCULINO,0
+Pando,90101,Cobija,2022,9,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70502,Pailon,2022,11,b. 6 meses a menor de 1 ano / MASCULINO,0
+La Paz,20105,El Alto,2022,6,b. 6 meses a menor de 1 ano / FEMENINO,0
+Pando,90101,Cobija,2022,8,b. 6 meses a menor de 1 ano / FEMENINO,0
+Pando,90101,Cobija,2022,9,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70502,Pailon,2022,11,b. 6 meses a menor de 1 ano / FEMENINO,0
+La Paz,20105,El Alto,2022,6,c. 1 - 4 anos / MASCULINO,0
+Pando,90101,Cobija,2022,8,c. 1 - 4 anos / MASCULINO,0
+Pando,90101,Cobija,2022,9,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70502,Pailon,2022,11,c. 1 - 4 anos / MASCULINO,0
+La Paz,20105,El Alto,2022,6,c. 1 - 4 anos / FEMENINO,0
+Pando,90101,Cobija,2022,8,c. 1 - 4 anos / FEMENINO,0
+Pando,90101,Cobija,2022,9,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70502,Pailon,2022,11,c. 1 - 4 anos / FEMENINO,0
+La Paz,20105,El Alto,2022,6,d. 5 - 9 anos / MASCULINO,0
+Pando,90101,Cobija,2022,8,d. 5 - 9 anos / MASCULINO,0
+Pando,90101,Cobija,2022,9,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70502,Pailon,2022,11,d. 5 - 9 anos / MASCULINO,1
+La Paz,20105,El Alto,2022,6,d. 5 - 9 anos / FEMENINO,1
+Pando,90101,Cobija,2022,8,d. 5 - 9 anos / FEMENINO,0
+Pando,90101,Cobija,2022,9,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70502,Pailon,2022,11,d. 5 - 9 anos / FEMENINO,0
+La Paz,20105,El Alto,2022,6,e. 10 - 14 anos / MASCULINO,0
+Pando,90101,Cobija,2022,8,e. 10 - 14 anos / MASCULINO,0
+Pando,90101,Cobija,2022,9,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70502,Pailon,2022,11,e. 10 - 14 anos / MASCULINO,0
+La Paz,20105,El Alto,2022,6,e. 10 - 14 anos / FEMENINO,0
+Pando,90101,Cobija,2022,8,e. 10 - 14 anos / FEMENINO,0
+Pando,90101,Cobija,2022,9,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70502,Pailon,2022,11,e. 10 - 14 anos / FEMENINO,0
+La Paz,20105,El Alto,2022,6,f. 15 - 19 anos / MASCULINO,0
+Pando,90101,Cobija,2022,8,f. 15 - 19 anos / MASCULINO,0
+Pando,90101,Cobija,2022,9,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70502,Pailon,2022,11,f. 15 - 19 anos / MASCULINO,0
+La Paz,20105,El Alto,2022,6,f. 15 - 19 anos / FEMENINO,0
+Pando,90101,Cobija,2022,8,f. 15 - 19 anos / FEMENINO,0
+Pando,90101,Cobija,2022,9,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70502,Pailon,2022,11,f. 15 - 19 anos / FEMENINO,0
+La Paz,20105,El Alto,2022,6,g. 20 - 39 anos / MASCULINO,0
+Pando,90101,Cobija,2022,8,g. 20 - 39 anos / MASCULINO,0
+Pando,90101,Cobija,2022,9,g. 20 - 39 anos / MASCULINO,1
+Santa Cruz,70502,Pailon,2022,11,g. 20 - 39 anos / MASCULINO,0
+La Paz,20105,El Alto,2022,6,g. 20 - 39 anos / FEMENINO,0
+Pando,90101,Cobija,2022,8,g. 20 - 39 anos / FEMENINO,0
+Pando,90101,Cobija,2022,9,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70502,Pailon,2022,11,g. 20 - 39 anos / FEMENINO,0
+La Paz,20105,El Alto,2022,6,h. 40 - 49 anos / MASCULINO,0
+Pando,90101,Cobija,2022,8,h. 40 - 49 anos / MASCULINO,0
+Pando,90101,Cobija,2022,9,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70502,Pailon,2022,11,h. 40 - 49 anos / MASCULINO,0
+La Paz,20105,El Alto,2022,6,h. 40 - 49 anos / FEMENINO,0
+Pando,90101,Cobija,2022,8,h. 40 - 49 anos / FEMENINO,0
+Pando,90101,Cobija,2022,9,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70502,Pailon,2022,11,h. 40 - 49 anos / FEMENINO,0
+La Paz,20105,El Alto,2022,6,i. 50 - 59 anos / MASCULINO,0
+Pando,90101,Cobija,2022,8,i. 50 - 59 anos / MASCULINO,1
+Pando,90101,Cobija,2022,9,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70502,Pailon,2022,11,i. 50 - 59 anos / MASCULINO,0
+La Paz,20105,El Alto,2022,6,i. 50 - 59 anos / FEMENINO,0
+Pando,90101,Cobija,2022,8,i. 50 - 59 anos / FEMENINO,0
+Pando,90101,Cobija,2022,9,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70502,Pailon,2022,11,i. 50 - 59 anos / FEMENINO,0
+La Paz,20105,El Alto,2022,6,j. 60 anos y mas / MASCULINO,0
+Pando,90101,Cobija,2022,8,j. 60 anos y mas / MASCULINO,0
+Pando,90101,Cobija,2022,9,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70502,Pailon,2022,11,j. 60 anos y mas / MASCULINO,0
+La Paz,20105,El Alto,2022,6,j. 60 anos y mas / FEMENINO,0
+Pando,90101,Cobija,2022,8,j. 60 anos y mas / FEMENINO,0
+Pando,90101,Cobija,2022,9,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70502,Pailon,2022,11,j. 60 anos y mas / FEMENINO,0
+La Paz,20105,El Alto,2022,6,TOTALES / DENTRO,0
+Pando,90101,Cobija,2022,8,TOTALES / DENTRO,1
+Pando,90101,Cobija,2022,9,TOTALES / DENTRO,1
+Santa Cruz,70502,Pailon,2022,11,TOTALES / DENTRO,1
+La Paz,20105,El Alto,2022,6,TOTALES / FUERA,1
+Pando,90101,Cobija,2022,8,TOTALES / FUERA,0
+Pando,90101,Cobija,2022,9,TOTALES / FUERA,0
+Santa Cruz,70502,Pailon,2022,11,TOTALES / FUERA,0
+La Paz,20105,El Alto,2022,6,TOTALES / TOTAL,1
+Pando,90101,Cobija,2022,8,TOTALES / TOTAL,1
+Pando,90101,Cobija,2022,9,TOTALES / TOTAL,1
+Santa Cruz,70502,Pailon,2022,11,TOTALES / TOTAL,1

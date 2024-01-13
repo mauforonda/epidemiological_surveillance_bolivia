@@ -1,0 +1,277 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,31001,Sacaba,2016,1,a. Menor de 6 meses / MASCULINO,0
+La Paz,20105,El Alto,2016,2,a. Menor de 6 meses / MASCULINO,1
+Pando,90101,Cobija,2016,3,a. Menor de 6 meses / MASCULINO,0
+Pando,90101,Cobija,2016,4,a. Menor de 6 meses / MASCULINO,0
+Cochabamba,31001,Sacaba,2016,4,a. Menor de 6 meses / MASCULINO,1
+Pando,90101,Cobija,2016,5,a. Menor de 6 meses / MASCULINO,1
+Tarija,60301,Yacuiba,2016,6,a. Menor de 6 meses / MASCULINO,0
+Chuquisaca,10202,Tarvita,2016,7,a. Menor de 6 meses / MASCULINO,0
+Tarija,60301,Yacuiba,2016,8,a. Menor de 6 meses / MASCULINO,0
+Cochabamba,30101,Cochabamba,2016,10,a. Menor de 6 meses / MASCULINO,0
+La Paz,20105,El Alto,2016,10,a. Menor de 6 meses / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,11,a. Menor de 6 meses / MASCULINO,1
+Cochabamba,31001,Sacaba,2016,1,a. Menor de 6 meses / FEMENINO,0
+La Paz,20105,El Alto,2016,2,a. Menor de 6 meses / FEMENINO,1
+Pando,90101,Cobija,2016,3,a. Menor de 6 meses / FEMENINO,0
+Pando,90101,Cobija,2016,4,a. Menor de 6 meses / FEMENINO,0
+Cochabamba,31001,Sacaba,2016,4,a. Menor de 6 meses / FEMENINO,0
+Pando,90101,Cobija,2016,5,a. Menor de 6 meses / FEMENINO,0
+Tarija,60301,Yacuiba,2016,6,a. Menor de 6 meses / FEMENINO,0
+Chuquisaca,10202,Tarvita,2016,7,a. Menor de 6 meses / FEMENINO,0
+Tarija,60301,Yacuiba,2016,8,a. Menor de 6 meses / FEMENINO,0
+Cochabamba,30101,Cochabamba,2016,10,a. Menor de 6 meses / FEMENINO,0
+La Paz,20105,El Alto,2016,10,a. Menor de 6 meses / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,11,a. Menor de 6 meses / FEMENINO,0
+Cochabamba,31001,Sacaba,2016,1,b. 6 meses a menor de 1 ano / MASCULINO,0
+La Paz,20105,El Alto,2016,2,b. 6 meses a menor de 1 ano / MASCULINO,0
+Pando,90101,Cobija,2016,3,b. 6 meses a menor de 1 ano / MASCULINO,0
+Pando,90101,Cobija,2016,4,b. 6 meses a menor de 1 ano / MASCULINO,0
+Cochabamba,31001,Sacaba,2016,4,b. 6 meses a menor de 1 ano / MASCULINO,0
+Pando,90101,Cobija,2016,5,b. 6 meses a menor de 1 ano / MASCULINO,0
+Tarija,60301,Yacuiba,2016,6,b. 6 meses a menor de 1 ano / MASCULINO,0
+Chuquisaca,10202,Tarvita,2016,7,b. 6 meses a menor de 1 ano / MASCULINO,0
+Tarija,60301,Yacuiba,2016,8,b. 6 meses a menor de 1 ano / MASCULINO,0
+Cochabamba,30101,Cochabamba,2016,10,b. 6 meses a menor de 1 ano / MASCULINO,0
+La Paz,20105,El Alto,2016,10,b. 6 meses a menor de 1 ano / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,11,b. 6 meses a menor de 1 ano / MASCULINO,0
+Cochabamba,31001,Sacaba,2016,1,b. 6 meses a menor de 1 ano / FEMENINO,0
+La Paz,20105,El Alto,2016,2,b. 6 meses a menor de 1 ano / FEMENINO,0
+Pando,90101,Cobija,2016,3,b. 6 meses a menor de 1 ano / FEMENINO,0
+Pando,90101,Cobija,2016,4,b. 6 meses a menor de 1 ano / FEMENINO,0
+Cochabamba,31001,Sacaba,2016,4,b. 6 meses a menor de 1 ano / FEMENINO,0
+Pando,90101,Cobija,2016,5,b. 6 meses a menor de 1 ano / FEMENINO,0
+Tarija,60301,Yacuiba,2016,6,b. 6 meses a menor de 1 ano / FEMENINO,0
+Chuquisaca,10202,Tarvita,2016,7,b. 6 meses a menor de 1 ano / FEMENINO,0
+Tarija,60301,Yacuiba,2016,8,b. 6 meses a menor de 1 ano / FEMENINO,0
+Cochabamba,30101,Cochabamba,2016,10,b. 6 meses a menor de 1 ano / FEMENINO,0
+La Paz,20105,El Alto,2016,10,b. 6 meses a menor de 1 ano / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,11,b. 6 meses a menor de 1 ano / FEMENINO,0
+Cochabamba,31001,Sacaba,2016,1,c. 1 - 4 anos / MASCULINO,0
+La Paz,20105,El Alto,2016,2,c. 1 - 4 anos / MASCULINO,0
+Pando,90101,Cobija,2016,3,c. 1 - 4 anos / MASCULINO,0
+Pando,90101,Cobija,2016,4,c. 1 - 4 anos / MASCULINO,0
+Cochabamba,31001,Sacaba,2016,4,c. 1 - 4 anos / MASCULINO,0
+Pando,90101,Cobija,2016,5,c. 1 - 4 anos / MASCULINO,0
+Tarija,60301,Yacuiba,2016,6,c. 1 - 4 anos / MASCULINO,0
+Chuquisaca,10202,Tarvita,2016,7,c. 1 - 4 anos / MASCULINO,0
+Tarija,60301,Yacuiba,2016,8,c. 1 - 4 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2016,10,c. 1 - 4 anos / MASCULINO,0
+La Paz,20105,El Alto,2016,10,c. 1 - 4 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,11,c. 1 - 4 anos / MASCULINO,0
+Cochabamba,31001,Sacaba,2016,1,c. 1 - 4 anos / FEMENINO,0
+La Paz,20105,El Alto,2016,2,c. 1 - 4 anos / FEMENINO,0
+Pando,90101,Cobija,2016,3,c. 1 - 4 anos / FEMENINO,0
+Pando,90101,Cobija,2016,4,c. 1 - 4 anos / FEMENINO,0
+Cochabamba,31001,Sacaba,2016,4,c. 1 - 4 anos / FEMENINO,0
+Pando,90101,Cobija,2016,5,c. 1 - 4 anos / FEMENINO,0
+Tarija,60301,Yacuiba,2016,6,c. 1 - 4 anos / FEMENINO,0
+Chuquisaca,10202,Tarvita,2016,7,c. 1 - 4 anos / FEMENINO,0
+Tarija,60301,Yacuiba,2016,8,c. 1 - 4 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2016,10,c. 1 - 4 anos / FEMENINO,0
+La Paz,20105,El Alto,2016,10,c. 1 - 4 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,11,c. 1 - 4 anos / FEMENINO,0
+Cochabamba,31001,Sacaba,2016,1,d. 5 - 9 anos / MASCULINO,0
+La Paz,20105,El Alto,2016,2,d. 5 - 9 anos / MASCULINO,0
+Pando,90101,Cobija,2016,3,d. 5 - 9 anos / MASCULINO,0
+Pando,90101,Cobija,2016,4,d. 5 - 9 anos / MASCULINO,0
+Cochabamba,31001,Sacaba,2016,4,d. 5 - 9 anos / MASCULINO,0
+Pando,90101,Cobija,2016,5,d. 5 - 9 anos / MASCULINO,0
+Tarija,60301,Yacuiba,2016,6,d. 5 - 9 anos / MASCULINO,0
+Chuquisaca,10202,Tarvita,2016,7,d. 5 - 9 anos / MASCULINO,0
+Tarija,60301,Yacuiba,2016,8,d. 5 - 9 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2016,10,d. 5 - 9 anos / MASCULINO,0
+La Paz,20105,El Alto,2016,10,d. 5 - 9 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,11,d. 5 - 9 anos / MASCULINO,0
+Cochabamba,31001,Sacaba,2016,1,d. 5 - 9 anos / FEMENINO,0
+La Paz,20105,El Alto,2016,2,d. 5 - 9 anos / FEMENINO,0
+Pando,90101,Cobija,2016,3,d. 5 - 9 anos / FEMENINO,0
+Pando,90101,Cobija,2016,4,d. 5 - 9 anos / FEMENINO,0
+Cochabamba,31001,Sacaba,2016,4,d. 5 - 9 anos / FEMENINO,0
+Pando,90101,Cobija,2016,5,d. 5 - 9 anos / FEMENINO,0
+Tarija,60301,Yacuiba,2016,6,d. 5 - 9 anos / FEMENINO,0
+Chuquisaca,10202,Tarvita,2016,7,d. 5 - 9 anos / FEMENINO,1
+Tarija,60301,Yacuiba,2016,8,d. 5 - 9 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2016,10,d. 5 - 9 anos / FEMENINO,0
+La Paz,20105,El Alto,2016,10,d. 5 - 9 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,11,d. 5 - 9 anos / FEMENINO,0
+Cochabamba,31001,Sacaba,2016,1,e. 10 - 14 anos / MASCULINO,0
+La Paz,20105,El Alto,2016,2,e. 10 - 14 anos / MASCULINO,0
+Pando,90101,Cobija,2016,3,e. 10 - 14 anos / MASCULINO,1
+Pando,90101,Cobija,2016,4,e. 10 - 14 anos / MASCULINO,0
+Cochabamba,31001,Sacaba,2016,4,e. 10 - 14 anos / MASCULINO,0
+Pando,90101,Cobija,2016,5,e. 10 - 14 anos / MASCULINO,0
+Tarija,60301,Yacuiba,2016,6,e. 10 - 14 anos / MASCULINO,0
+Chuquisaca,10202,Tarvita,2016,7,e. 10 - 14 anos / MASCULINO,0
+Tarija,60301,Yacuiba,2016,8,e. 10 - 14 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2016,10,e. 10 - 14 anos / MASCULINO,0
+La Paz,20105,El Alto,2016,10,e. 10 - 14 anos / MASCULINO,1
+Chuquisaca,10101,Sucre,2016,11,e. 10 - 14 anos / MASCULINO,0
+Cochabamba,31001,Sacaba,2016,1,e. 10 - 14 anos / FEMENINO,0
+La Paz,20105,El Alto,2016,2,e. 10 - 14 anos / FEMENINO,0
+Pando,90101,Cobija,2016,3,e. 10 - 14 anos / FEMENINO,0
+Pando,90101,Cobija,2016,4,e. 10 - 14 anos / FEMENINO,0
+Cochabamba,31001,Sacaba,2016,4,e. 10 - 14 anos / FEMENINO,0
+Pando,90101,Cobija,2016,5,e. 10 - 14 anos / FEMENINO,0
+Tarija,60301,Yacuiba,2016,6,e. 10 - 14 anos / FEMENINO,0
+Chuquisaca,10202,Tarvita,2016,7,e. 10 - 14 anos / FEMENINO,0
+Tarija,60301,Yacuiba,2016,8,e. 10 - 14 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2016,10,e. 10 - 14 anos / FEMENINO,0
+La Paz,20105,El Alto,2016,10,e. 10 - 14 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,11,e. 10 - 14 anos / FEMENINO,0
+Cochabamba,31001,Sacaba,2016,1,f. 15 - 19 anos / MASCULINO,0
+La Paz,20105,El Alto,2016,2,f. 15 - 19 anos / MASCULINO,0
+Pando,90101,Cobija,2016,3,f. 15 - 19 anos / MASCULINO,0
+Pando,90101,Cobija,2016,4,f. 15 - 19 anos / MASCULINO,0
+Cochabamba,31001,Sacaba,2016,4,f. 15 - 19 anos / MASCULINO,0
+Pando,90101,Cobija,2016,5,f. 15 - 19 anos / MASCULINO,0
+Tarija,60301,Yacuiba,2016,6,f. 15 - 19 anos / MASCULINO,0
+Chuquisaca,10202,Tarvita,2016,7,f. 15 - 19 anos / MASCULINO,0
+Tarija,60301,Yacuiba,2016,8,f. 15 - 19 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2016,10,f. 15 - 19 anos / MASCULINO,0
+La Paz,20105,El Alto,2016,10,f. 15 - 19 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,11,f. 15 - 19 anos / MASCULINO,0
+Cochabamba,31001,Sacaba,2016,1,f. 15 - 19 anos / FEMENINO,0
+La Paz,20105,El Alto,2016,2,f. 15 - 19 anos / FEMENINO,0
+Pando,90101,Cobija,2016,3,f. 15 - 19 anos / FEMENINO,0
+Pando,90101,Cobija,2016,4,f. 15 - 19 anos / FEMENINO,1
+Cochabamba,31001,Sacaba,2016,4,f. 15 - 19 anos / FEMENINO,0
+Pando,90101,Cobija,2016,5,f. 15 - 19 anos / FEMENINO,1
+Tarija,60301,Yacuiba,2016,6,f. 15 - 19 anos / FEMENINO,0
+Chuquisaca,10202,Tarvita,2016,7,f. 15 - 19 anos / FEMENINO,0
+Tarija,60301,Yacuiba,2016,8,f. 15 - 19 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2016,10,f. 15 - 19 anos / FEMENINO,0
+La Paz,20105,El Alto,2016,10,f. 15 - 19 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,11,f. 15 - 19 anos / FEMENINO,0
+Cochabamba,31001,Sacaba,2016,1,g. 20 - 39 anos / MASCULINO,0
+La Paz,20105,El Alto,2016,2,g. 20 - 39 anos / MASCULINO,0
+Pando,90101,Cobija,2016,3,g. 20 - 39 anos / MASCULINO,0
+Pando,90101,Cobija,2016,4,g. 20 - 39 anos / MASCULINO,0
+Cochabamba,31001,Sacaba,2016,4,g. 20 - 39 anos / MASCULINO,0
+Pando,90101,Cobija,2016,5,g. 20 - 39 anos / MASCULINO,0
+Tarija,60301,Yacuiba,2016,6,g. 20 - 39 anos / MASCULINO,0
+Chuquisaca,10202,Tarvita,2016,7,g. 20 - 39 anos / MASCULINO,0
+Tarija,60301,Yacuiba,2016,8,g. 20 - 39 anos / MASCULINO,1
+Cochabamba,30101,Cochabamba,2016,10,g. 20 - 39 anos / MASCULINO,1
+La Paz,20105,El Alto,2016,10,g. 20 - 39 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,11,g. 20 - 39 anos / MASCULINO,0
+Cochabamba,31001,Sacaba,2016,1,g. 20 - 39 anos / FEMENINO,1
+La Paz,20105,El Alto,2016,2,g. 20 - 39 anos / FEMENINO,0
+Pando,90101,Cobija,2016,3,g. 20 - 39 anos / FEMENINO,0
+Pando,90101,Cobija,2016,4,g. 20 - 39 anos / FEMENINO,0
+Cochabamba,31001,Sacaba,2016,4,g. 20 - 39 anos / FEMENINO,0
+Pando,90101,Cobija,2016,5,g. 20 - 39 anos / FEMENINO,0
+Tarija,60301,Yacuiba,2016,6,g. 20 - 39 anos / FEMENINO,0
+Chuquisaca,10202,Tarvita,2016,7,g. 20 - 39 anos / FEMENINO,0
+Tarija,60301,Yacuiba,2016,8,g. 20 - 39 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2016,10,g. 20 - 39 anos / FEMENINO,0
+La Paz,20105,El Alto,2016,10,g. 20 - 39 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,11,g. 20 - 39 anos / FEMENINO,0
+Cochabamba,31001,Sacaba,2016,1,h. 40 - 49 anos / MASCULINO,0
+La Paz,20105,El Alto,2016,2,h. 40 - 49 anos / MASCULINO,0
+Pando,90101,Cobija,2016,3,h. 40 - 49 anos / MASCULINO,0
+Pando,90101,Cobija,2016,4,h. 40 - 49 anos / MASCULINO,0
+Cochabamba,31001,Sacaba,2016,4,h. 40 - 49 anos / MASCULINO,0
+Pando,90101,Cobija,2016,5,h. 40 - 49 anos / MASCULINO,1
+Tarija,60301,Yacuiba,2016,6,h. 40 - 49 anos / MASCULINO,0
+Chuquisaca,10202,Tarvita,2016,7,h. 40 - 49 anos / MASCULINO,0
+Tarija,60301,Yacuiba,2016,8,h. 40 - 49 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2016,10,h. 40 - 49 anos / MASCULINO,0
+La Paz,20105,El Alto,2016,10,h. 40 - 49 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,11,h. 40 - 49 anos / MASCULINO,0
+Cochabamba,31001,Sacaba,2016,1,h. 40 - 49 anos / FEMENINO,0
+La Paz,20105,El Alto,2016,2,h. 40 - 49 anos / FEMENINO,0
+Pando,90101,Cobija,2016,3,h. 40 - 49 anos / FEMENINO,0
+Pando,90101,Cobija,2016,4,h. 40 - 49 anos / FEMENINO,0
+Cochabamba,31001,Sacaba,2016,4,h. 40 - 49 anos / FEMENINO,0
+Pando,90101,Cobija,2016,5,h. 40 - 49 anos / FEMENINO,0
+Tarija,60301,Yacuiba,2016,6,h. 40 - 49 anos / FEMENINO,0
+Chuquisaca,10202,Tarvita,2016,7,h. 40 - 49 anos / FEMENINO,0
+Tarija,60301,Yacuiba,2016,8,h. 40 - 49 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2016,10,h. 40 - 49 anos / FEMENINO,0
+La Paz,20105,El Alto,2016,10,h. 40 - 49 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,11,h. 40 - 49 anos / FEMENINO,0
+Cochabamba,31001,Sacaba,2016,1,i. 50 - 59 anos / MASCULINO,0
+La Paz,20105,El Alto,2016,2,i. 50 - 59 anos / MASCULINO,0
+Pando,90101,Cobija,2016,3,i. 50 - 59 anos / MASCULINO,0
+Pando,90101,Cobija,2016,4,i. 50 - 59 anos / MASCULINO,0
+Cochabamba,31001,Sacaba,2016,4,i. 50 - 59 anos / MASCULINO,0
+Pando,90101,Cobija,2016,5,i. 50 - 59 anos / MASCULINO,0
+Tarija,60301,Yacuiba,2016,6,i. 50 - 59 anos / MASCULINO,0
+Chuquisaca,10202,Tarvita,2016,7,i. 50 - 59 anos / MASCULINO,0
+Tarija,60301,Yacuiba,2016,8,i. 50 - 59 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2016,10,i. 50 - 59 anos / MASCULINO,0
+La Paz,20105,El Alto,2016,10,i. 50 - 59 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,11,i. 50 - 59 anos / MASCULINO,0
+Cochabamba,31001,Sacaba,2016,1,i. 50 - 59 anos / FEMENINO,0
+La Paz,20105,El Alto,2016,2,i. 50 - 59 anos / FEMENINO,0
+Pando,90101,Cobija,2016,3,i. 50 - 59 anos / FEMENINO,0
+Pando,90101,Cobija,2016,4,i. 50 - 59 anos / FEMENINO,0
+Cochabamba,31001,Sacaba,2016,4,i. 50 - 59 anos / FEMENINO,0
+Pando,90101,Cobija,2016,5,i. 50 - 59 anos / FEMENINO,0
+Tarija,60301,Yacuiba,2016,6,i. 50 - 59 anos / FEMENINO,0
+Chuquisaca,10202,Tarvita,2016,7,i. 50 - 59 anos / FEMENINO,0
+Tarija,60301,Yacuiba,2016,8,i. 50 - 59 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2016,10,i. 50 - 59 anos / FEMENINO,0
+La Paz,20105,El Alto,2016,10,i. 50 - 59 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,11,i. 50 - 59 anos / FEMENINO,0
+Cochabamba,31001,Sacaba,2016,1,j. 60 anos y mas / MASCULINO,0
+La Paz,20105,El Alto,2016,2,j. 60 anos y mas / MASCULINO,0
+Pando,90101,Cobija,2016,3,j. 60 anos y mas / MASCULINO,0
+Pando,90101,Cobija,2016,4,j. 60 anos y mas / MASCULINO,0
+Cochabamba,31001,Sacaba,2016,4,j. 60 anos y mas / MASCULINO,0
+Pando,90101,Cobija,2016,5,j. 60 anos y mas / MASCULINO,0
+Tarija,60301,Yacuiba,2016,6,j. 60 anos y mas / MASCULINO,1
+Chuquisaca,10202,Tarvita,2016,7,j. 60 anos y mas / MASCULINO,0
+Tarija,60301,Yacuiba,2016,8,j. 60 anos y mas / MASCULINO,0
+Cochabamba,30101,Cochabamba,2016,10,j. 60 anos y mas / MASCULINO,0
+La Paz,20105,El Alto,2016,10,j. 60 anos y mas / MASCULINO,0
+Chuquisaca,10101,Sucre,2016,11,j. 60 anos y mas / MASCULINO,0
+Cochabamba,31001,Sacaba,2016,1,j. 60 anos y mas / FEMENINO,0
+La Paz,20105,El Alto,2016,2,j. 60 anos y mas / FEMENINO,0
+Pando,90101,Cobija,2016,3,j. 60 anos y mas / FEMENINO,0
+Pando,90101,Cobija,2016,4,j. 60 anos y mas / FEMENINO,0
+Cochabamba,31001,Sacaba,2016,4,j. 60 anos y mas / FEMENINO,0
+Pando,90101,Cobija,2016,5,j. 60 anos y mas / FEMENINO,0
+Tarija,60301,Yacuiba,2016,6,j. 60 anos y mas / FEMENINO,0
+Chuquisaca,10202,Tarvita,2016,7,j. 60 anos y mas / FEMENINO,0
+Tarija,60301,Yacuiba,2016,8,j. 60 anos y mas / FEMENINO,0
+Cochabamba,30101,Cochabamba,2016,10,j. 60 anos y mas / FEMENINO,0
+La Paz,20105,El Alto,2016,10,j. 60 anos y mas / FEMENINO,0
+Chuquisaca,10101,Sucre,2016,11,j. 60 anos y mas / FEMENINO,0
+Cochabamba,31001,Sacaba,2016,1,TOTALES / TOTAL-M,0
+La Paz,20105,El Alto,2016,2,TOTALES / TOTAL-M,1
+Pando,90101,Cobija,2016,3,TOTALES / TOTAL-M,1
+Pando,90101,Cobija,2016,4,TOTALES / TOTAL-M,0
+Cochabamba,31001,Sacaba,2016,4,TOTALES / TOTAL-M,1
+Pando,90101,Cobija,2016,5,TOTALES / TOTAL-M,2
+Tarija,60301,Yacuiba,2016,6,TOTALES / TOTAL-M,1
+Chuquisaca,10202,Tarvita,2016,7,TOTALES / TOTAL-M,0
+Tarija,60301,Yacuiba,2016,8,TOTALES / TOTAL-M,1
+Cochabamba,30101,Cochabamba,2016,10,TOTALES / TOTAL-M,1
+La Paz,20105,El Alto,2016,10,TOTALES / TOTAL-M,1
+Chuquisaca,10101,Sucre,2016,11,TOTALES / TOTAL-M,1
+Cochabamba,31001,Sacaba,2016,1,TOTALES / TOTAL-F,1
+La Paz,20105,El Alto,2016,2,TOTALES / TOTAL-F,1
+Pando,90101,Cobija,2016,3,TOTALES / TOTAL-F,0
+Pando,90101,Cobija,2016,4,TOTALES / TOTAL-F,1
+Cochabamba,31001,Sacaba,2016,4,TOTALES / TOTAL-F,0
+Pando,90101,Cobija,2016,5,TOTALES / TOTAL-F,1
+Tarija,60301,Yacuiba,2016,6,TOTALES / TOTAL-F,0
+Chuquisaca,10202,Tarvita,2016,7,TOTALES / TOTAL-F,1
+Tarija,60301,Yacuiba,2016,8,TOTALES / TOTAL-F,0
+Cochabamba,30101,Cochabamba,2016,10,TOTALES / TOTAL-F,0
+La Paz,20105,El Alto,2016,10,TOTALES / TOTAL-F,0
+Chuquisaca,10101,Sucre,2016,11,TOTALES / TOTAL-F,0
+Cochabamba,31001,Sacaba,2016,1,TOTALES / TOTAL,1
+La Paz,20105,El Alto,2016,2,TOTALES / TOTAL,2
+Pando,90101,Cobija,2016,3,TOTALES / TOTAL,1
+Pando,90101,Cobija,2016,4,TOTALES / TOTAL,1
+Cochabamba,31001,Sacaba,2016,4,TOTALES / TOTAL,1
+Pando,90101,Cobija,2016,5,TOTALES / TOTAL,3
+Tarija,60301,Yacuiba,2016,6,TOTALES / TOTAL,1
+Chuquisaca,10202,Tarvita,2016,7,TOTALES / TOTAL,1
+Tarija,60301,Yacuiba,2016,8,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2016,10,TOTALES / TOTAL,1
+La Paz,20105,El Alto,2016,10,TOTALES / TOTAL,1
+Chuquisaca,10101,Sucre,2016,11,TOTALES / TOTAL,1

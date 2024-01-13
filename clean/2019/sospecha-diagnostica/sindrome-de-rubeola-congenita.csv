@@ -1,0 +1,185 @@
+department,municipality_id,municipality,year,month,population,value
+Beni,80101,Trinidad,2019,2,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,3,a. Menor de 6 meses / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,4,a. Menor de 6 meses / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,5,a. Menor de 6 meses / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,6,a. Menor de 6 meses / MASCULINO,1
+Chuquisaca,10101,Sucre,2019,7,a. Menor de 6 meses / MASCULINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,a. Menor de 6 meses / MASCULINO,1
+Beni,80101,Trinidad,2019,2,a. Menor de 6 meses / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,3,a. Menor de 6 meses / FEMENINO,1
+Chuquisaca,10101,Sucre,2019,4,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,5,a. Menor de 6 meses / FEMENINO,1
+Chuquisaca,10101,Sucre,2019,6,a. Menor de 6 meses / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,7,a. Menor de 6 meses / FEMENINO,2
+La Paz,21702,San Pedro De Tiquina,2019,12,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,a. Menor de 6 meses / FEMENINO,0
+Beni,80101,Trinidad,2019,2,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,3,b. 6 meses a menor de 1 ano / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,4,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,5,b. 6 meses a menor de 1 ano / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,6,b. 6 meses a menor de 1 ano / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,7,b. 6 meses a menor de 1 ano / MASCULINO,1
+La Paz,21702,San Pedro De Tiquina,2019,12,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,b. 6 meses a menor de 1 ano / MASCULINO,0
+Beni,80101,Trinidad,2019,2,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,3,b. 6 meses a menor de 1 ano / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,4,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,5,b. 6 meses a menor de 1 ano / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,6,b. 6 meses a menor de 1 ano / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,7,b. 6 meses a menor de 1 ano / FEMENINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,b. 6 meses a menor de 1 ano / FEMENINO,0
+Beni,80101,Trinidad,2019,2,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,3,c. 1 - 4 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,4,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,5,c. 1 - 4 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,6,c. 1 - 4 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,7,c. 1 - 4 anos / MASCULINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,c. 1 - 4 anos / MASCULINO,0
+Beni,80101,Trinidad,2019,2,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,3,c. 1 - 4 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,4,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,5,c. 1 - 4 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,6,c. 1 - 4 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,7,c. 1 - 4 anos / FEMENINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,c. 1 - 4 anos / FEMENINO,0
+Beni,80101,Trinidad,2019,2,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,3,d. 5 - 9 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,4,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,5,d. 5 - 9 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,6,d. 5 - 9 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,7,d. 5 - 9 anos / MASCULINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,d. 5 - 9 anos / MASCULINO,0
+Beni,80101,Trinidad,2019,2,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,3,d. 5 - 9 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,4,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,5,d. 5 - 9 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,6,d. 5 - 9 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,7,d. 5 - 9 anos / FEMENINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,d. 5 - 9 anos / FEMENINO,0
+Beni,80101,Trinidad,2019,2,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,3,e. 10 - 14 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,4,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,5,e. 10 - 14 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,6,e. 10 - 14 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,7,e. 10 - 14 anos / MASCULINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,e. 10 - 14 anos / MASCULINO,0
+Beni,80101,Trinidad,2019,2,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,3,e. 10 - 14 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,4,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,5,e. 10 - 14 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,6,e. 10 - 14 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,7,e. 10 - 14 anos / FEMENINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,e. 10 - 14 anos / FEMENINO,0
+Beni,80101,Trinidad,2019,2,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,3,f. 15 - 19 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,4,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,5,f. 15 - 19 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,6,f. 15 - 19 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,7,f. 15 - 19 anos / MASCULINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,f. 15 - 19 anos / MASCULINO,0
+Beni,80101,Trinidad,2019,2,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,3,f. 15 - 19 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,4,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,5,f. 15 - 19 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,6,f. 15 - 19 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,7,f. 15 - 19 anos / FEMENINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,f. 15 - 19 anos / FEMENINO,0
+Beni,80101,Trinidad,2019,2,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,3,g. 20 - 39 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,4,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,5,g. 20 - 39 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,6,g. 20 - 39 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,7,g. 20 - 39 anos / MASCULINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,g. 20 - 39 anos / MASCULINO,0
+Beni,80101,Trinidad,2019,2,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,3,g. 20 - 39 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,4,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,5,g. 20 - 39 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,6,g. 20 - 39 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,7,g. 20 - 39 anos / FEMENINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,g. 20 - 39 anos / FEMENINO,0
+Beni,80101,Trinidad,2019,2,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,3,h. 40 - 49 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,4,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,5,h. 40 - 49 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,6,h. 40 - 49 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,7,h. 40 - 49 anos / MASCULINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,h. 40 - 49 anos / MASCULINO,0
+Beni,80101,Trinidad,2019,2,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,3,h. 40 - 49 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,4,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,5,h. 40 - 49 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,6,h. 40 - 49 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,7,h. 40 - 49 anos / FEMENINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,h. 40 - 49 anos / FEMENINO,0
+Beni,80101,Trinidad,2019,2,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,3,i. 50 - 59 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,4,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,5,i. 50 - 59 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,6,i. 50 - 59 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,7,i. 50 - 59 anos / MASCULINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,i. 50 - 59 anos / MASCULINO,0
+Beni,80101,Trinidad,2019,2,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,3,i. 50 - 59 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,4,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,5,i. 50 - 59 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,6,i. 50 - 59 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,7,i. 50 - 59 anos / FEMENINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,i. 50 - 59 anos / FEMENINO,0
+Beni,80101,Trinidad,2019,2,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,3,j. 60 anos y mas / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,4,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,5,j. 60 anos y mas / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,6,j. 60 anos y mas / MASCULINO,0
+Chuquisaca,10101,Sucre,2019,7,j. 60 anos y mas / MASCULINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,j. 60 anos y mas / MASCULINO,0
+Beni,80101,Trinidad,2019,2,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,3,j. 60 anos y mas / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,4,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,5,j. 60 anos y mas / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,6,j. 60 anos y mas / FEMENINO,0
+Chuquisaca,10101,Sucre,2019,7,j. 60 anos y mas / FEMENINO,0
+La Paz,21702,San Pedro De Tiquina,2019,12,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,j. 60 anos y mas / FEMENINO,0
+Beni,80101,Trinidad,2019,2,TOTALES / DENTRO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,3,TOTALES / DENTRO,0
+Chuquisaca,10101,Sucre,2019,4,TOTALES / DENTRO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,5,TOTALES / DENTRO,0
+Chuquisaca,10101,Sucre,2019,6,TOTALES / DENTRO,1
+Chuquisaca,10101,Sucre,2019,7,TOTALES / DENTRO,1
+La Paz,21702,San Pedro De Tiquina,2019,12,TOTALES / DENTRO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,TOTALES / DENTRO,1
+Beni,80101,Trinidad,2019,2,TOTALES / FUERA,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,3,TOTALES / FUERA,1
+Chuquisaca,10101,Sucre,2019,4,TOTALES / FUERA,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,5,TOTALES / FUERA,1
+Chuquisaca,10101,Sucre,2019,6,TOTALES / FUERA,0
+Chuquisaca,10101,Sucre,2019,7,TOTALES / FUERA,2
+La Paz,21702,San Pedro De Tiquina,2019,12,TOTALES / FUERA,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,TOTALES / FUERA,0
+Beni,80101,Trinidad,2019,2,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,3,TOTALES / TOTAL,1
+Chuquisaca,10101,Sucre,2019,4,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,5,TOTALES / TOTAL,1
+Chuquisaca,10101,Sucre,2019,6,TOTALES / TOTAL,1
+Chuquisaca,10101,Sucre,2019,7,TOTALES / TOTAL,3
+La Paz,21702,San Pedro De Tiquina,2019,12,TOTALES / TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,TOTALES / TOTAL,1

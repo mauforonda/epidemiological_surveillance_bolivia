@@ -1,0 +1,65 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20105,El Alto,2010,1,Nro.,1
+Santa Cruz,71002,General Saavedra,2010,1,Nro.,3
+Potosí,51501,Villazon,2010,1,Nro.,2
+Tarija,60302,Carapari,2010,2,Nro.,1
+Cochabamba,31204,Chimore,2010,2,Nro.,1
+Santa Cruz,71002,General Saavedra,2010,2,Nro.,0
+Tarija,60201,Padcaya,2010,2,Nro.,4
+Potosí,51003,San Antonio De Esmoruco,2010,2,Nro.,1
+Potosí,50801,Tupiza,2010,2,Nro.,8
+Potosí,51501,Villazon,2010,2,Nro.,2
+Santa Cruz,70401,Buena Vista,2010,3,Nro.,1
+Potosí,50801,Tupiza,2010,3,Nro.,1
+Potosí,50601,Cotagaita,2010,12,Nro.,1
+Santa Cruz,70804,Postrer Valle,2010,12,Nro.,1
+La Paz,21002,Quime,2010,12,Nro.,1
+Cochabamba,31003,Villa Tunari,2010,12,Nro.,1
+La Paz,20105,El Alto,2010,1,Nro. Afectados,450
+Santa Cruz,71002,General Saavedra,2010,1,Nro. Afectados,71
+Potosí,51501,Villazon,2010,1,Nro. Afectados,70
+Tarija,60302,Carapari,2010,2,Nro. Afectados,9
+Cochabamba,31204,Chimore,2010,2,Nro. Afectados,0
+Santa Cruz,71002,General Saavedra,2010,2,Nro. Afectados,31
+Tarija,60201,Padcaya,2010,2,Nro. Afectados,0
+Potosí,51003,San Antonio De Esmoruco,2010,2,Nro. Afectados,28
+Potosí,50801,Tupiza,2010,2,Nro. Afectados,132
+Potosí,51501,Villazon,2010,2,Nro. Afectados,9
+Santa Cruz,70401,Buena Vista,2010,3,Nro. Afectados,200
+Potosí,50801,Tupiza,2010,3,Nro. Afectados,432
+Potosí,50601,Cotagaita,2010,12,Nro. Afectados,300
+Santa Cruz,70804,Postrer Valle,2010,12,Nro. Afectados,1
+La Paz,21002,Quime,2010,12,Nro. Afectados,2
+Cochabamba,31003,Villa Tunari,2010,12,Nro. Afectados,0
+La Paz,20105,El Alto,2010,1,Nro. Fallecidos,0
+Santa Cruz,71002,General Saavedra,2010,1,Nro. Fallecidos,0
+Potosí,51501,Villazon,2010,1,Nro. Fallecidos,0
+Tarija,60302,Carapari,2010,2,Nro. Fallecidos,0
+Cochabamba,31204,Chimore,2010,2,Nro. Fallecidos,0
+Santa Cruz,71002,General Saavedra,2010,2,Nro. Fallecidos,0
+Tarija,60201,Padcaya,2010,2,Nro. Fallecidos,0
+Potosí,51003,San Antonio De Esmoruco,2010,2,Nro. Fallecidos,0
+Potosí,50801,Tupiza,2010,2,Nro. Fallecidos,0
+Potosí,51501,Villazon,2010,2,Nro. Fallecidos,0
+Santa Cruz,70401,Buena Vista,2010,3,Nro. Fallecidos,0
+Potosí,50801,Tupiza,2010,3,Nro. Fallecidos,0
+Potosí,50601,Cotagaita,2010,12,Nro. Fallecidos,0
+Santa Cruz,70804,Postrer Valle,2010,12,Nro. Fallecidos,0
+La Paz,21002,Quime,2010,12,Nro. Fallecidos,0
+Cochabamba,31003,Villa Tunari,2010,12,Nro. Fallecidos,0
+La Paz,20105,El Alto,2010,1,TOTAL,451
+Santa Cruz,71002,General Saavedra,2010,1,TOTAL,74
+Potosí,51501,Villazon,2010,1,TOTAL,72
+Tarija,60302,Carapari,2010,2,TOTAL,10
+Cochabamba,31204,Chimore,2010,2,TOTAL,1
+Santa Cruz,71002,General Saavedra,2010,2,TOTAL,31
+Tarija,60201,Padcaya,2010,2,TOTAL,4
+Potosí,51003,San Antonio De Esmoruco,2010,2,TOTAL,29
+Potosí,50801,Tupiza,2010,2,TOTAL,140
+Potosí,51501,Villazon,2010,2,TOTAL,11
+Santa Cruz,70401,Buena Vista,2010,3,TOTAL,201
+Potosí,50801,Tupiza,2010,3,TOTAL,433
+Potosí,50601,Cotagaita,2010,12,TOTAL,301
+Santa Cruz,70804,Postrer Valle,2010,12,TOTAL,2
+La Paz,21002,Quime,2010,12,TOTAL,3
+Cochabamba,31003,Villa Tunari,2010,12,TOTAL,1

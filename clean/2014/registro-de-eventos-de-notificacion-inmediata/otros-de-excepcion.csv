@@ -1,0 +1,69 @@
+department,municipality_id,municipality,year,month,population,value
+Chuquisaca,10201,Azurduy,2014,2,Nro.,0
+Cochabamba,31204,Chimore,2014,2,Nro.,1
+Chuquisaca,10304,Icla,2014,2,Nro.,1
+Santa Cruz,70701,Lagunillas,2014,2,Nro.,2
+Santa Cruz,70403,Yapacani,2014,2,Nro.,118
+Cochabamba,31206,Entre Rios Cbba,2014,3,Nro.,0
+Potosí,50701,Sacaca,2014,3,Nro.,1
+Potosí,50102,Tinguipaya,2014,3,Nro.,3
+Potosí,50101,Potosi,2014,4,Nro.,0
+Beni,80304,Rurrenabaque,2014,4,Nro.,1
+Potosí,51001,San Pablo De Lipez,2014,5,Nro.,1
+Potosí,50902,San Pedro De Quemes,2014,5,Nro.,5
+Chuquisaca,10201,Azurduy,2014,6,Nro.,1
+Chuquisaca,10401,Padilla,2014,9,Nro.,1
+La Paz,22002,Alto Beni,2014,10,Nro.,0
+La Paz,20607,Mapiri,2014,11,Nro.,0
+La Paz,20606,Tipuani,2014,11,Nro.,3
+Chuquisaca,10201,Azurduy,2014,2,Nro. Afectados,93
+Cochabamba,31204,Chimore,2014,2,Nro. Afectados,80
+Chuquisaca,10304,Icla,2014,2,Nro. Afectados,80
+Santa Cruz,70701,Lagunillas,2014,2,Nro. Afectados,1334
+Santa Cruz,70403,Yapacani,2014,2,Nro. Afectados,475
+Cochabamba,31206,Entre Rios Cbba,2014,3,Nro. Afectados,0
+Potosí,50701,Sacaca,2014,3,Nro. Afectados,1
+Potosí,50102,Tinguipaya,2014,3,Nro. Afectados,44
+Potosí,50101,Potosi,2014,4,Nro. Afectados,1
+Beni,80304,Rurrenabaque,2014,4,Nro. Afectados,6
+Potosí,51001,San Pablo De Lipez,2014,5,Nro. Afectados,3
+Potosí,50902,San Pedro De Quemes,2014,5,Nro. Afectados,14
+Chuquisaca,10201,Azurduy,2014,6,Nro. Afectados,40
+Chuquisaca,10401,Padilla,2014,9,Nro. Afectados,18
+La Paz,22002,Alto Beni,2014,10,Nro. Afectados,3
+La Paz,20607,Mapiri,2014,11,Nro. Afectados,0
+La Paz,20606,Tipuani,2014,11,Nro. Afectados,0
+Chuquisaca,10201,Azurduy,2014,2,Nro. Fallecidos,0
+Cochabamba,31204,Chimore,2014,2,Nro. Fallecidos,0
+Chuquisaca,10304,Icla,2014,2,Nro. Fallecidos,0
+Santa Cruz,70701,Lagunillas,2014,2,Nro. Fallecidos,0
+Santa Cruz,70403,Yapacani,2014,2,Nro. Fallecidos,0
+Cochabamba,31206,Entre Rios Cbba,2014,3,Nro. Fallecidos,1
+Potosí,50701,Sacaca,2014,3,Nro. Fallecidos,1
+Potosí,50102,Tinguipaya,2014,3,Nro. Fallecidos,1
+Potosí,50101,Potosi,2014,4,Nro. Fallecidos,0
+Beni,80304,Rurrenabaque,2014,4,Nro. Fallecidos,5
+Potosí,51001,San Pablo De Lipez,2014,5,Nro. Fallecidos,0
+Potosí,50902,San Pedro De Quemes,2014,5,Nro. Fallecidos,0
+Chuquisaca,10201,Azurduy,2014,6,Nro. Fallecidos,0
+Chuquisaca,10401,Padilla,2014,9,Nro. Fallecidos,0
+La Paz,22002,Alto Beni,2014,10,Nro. Fallecidos,0
+La Paz,20607,Mapiri,2014,11,Nro. Fallecidos,36
+La Paz,20606,Tipuani,2014,11,Nro. Fallecidos,0
+Chuquisaca,10201,Azurduy,2014,2,TOTAL,93
+Cochabamba,31204,Chimore,2014,2,TOTAL,81
+Chuquisaca,10304,Icla,2014,2,TOTAL,81
+Santa Cruz,70701,Lagunillas,2014,2,TOTAL,1336
+Santa Cruz,70403,Yapacani,2014,2,TOTAL,593
+Cochabamba,31206,Entre Rios Cbba,2014,3,TOTAL,1
+Potosí,50701,Sacaca,2014,3,TOTAL,3
+Potosí,50102,Tinguipaya,2014,3,TOTAL,48
+Potosí,50101,Potosi,2014,4,TOTAL,1
+Beni,80304,Rurrenabaque,2014,4,TOTAL,12
+Potosí,51001,San Pablo De Lipez,2014,5,TOTAL,4
+Potosí,50902,San Pedro De Quemes,2014,5,TOTAL,19
+Chuquisaca,10201,Azurduy,2014,6,TOTAL,41
+Chuquisaca,10401,Padilla,2014,9,TOTAL,19
+La Paz,22002,Alto Beni,2014,10,TOTAL,3
+La Paz,20607,Mapiri,2014,11,TOTAL,36
+La Paz,20606,Tipuani,2014,11,TOTAL,3

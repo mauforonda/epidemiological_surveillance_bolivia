@@ -1,0 +1,57 @@
+department,municipality_id,municipality,year,month,population,value
+Tarija,60601,Entre Rios Trj,2010,1,Nro.,1
+La Paz,21001,Inquisivi,2010,4,Nro.,1
+Santa Cruz,70707,Boyuibe,2010,6,Nro.,1
+Santa Cruz,70702,Charagua,2010,6,Nro.,112
+Potosí,51102,"Caiza ""d""",2010,7,Nro.,2
+Santa Cruz,70701,Lagunillas,2010,7,Nro.,2
+Santa Cruz,70701,Lagunillas,2010,8,Nro.,2
+Pando,90103,Bolpebra,2010,9,Nro.,1
+Santa Cruz,70704,Cuevo,2010,9,Nro.,1
+La Paz,20607,Mapiri,2010,9,Nro.,16
+Santa Cruz,70705,Gutierrez,2010,10,Nro.,16
+La Paz,21104,Palos Blancos,2010,10,Nro.,1
+Santa Cruz,70704,Cuevo,2010,11,Nro.,1
+Santa Cruz,70704,Cuevo,2010,12,Nro.,1
+Tarija,60601,Entre Rios Trj,2010,1,Nro. Afectados,3
+La Paz,21001,Inquisivi,2010,4,Nro. Afectados,5
+Santa Cruz,70707,Boyuibe,2010,6,Nro. Afectados,920
+Santa Cruz,70702,Charagua,2010,6,Nro. Afectados,2518
+Potosí,51102,"Caiza ""d""",2010,7,Nro. Afectados,2
+Santa Cruz,70701,Lagunillas,2010,7,Nro. Afectados,61
+Santa Cruz,70701,Lagunillas,2010,8,Nro. Afectados,1220
+Pando,90103,Bolpebra,2010,9,Nro. Afectados,2
+Santa Cruz,70704,Cuevo,2010,9,Nro. Afectados,8
+La Paz,20607,Mapiri,2010,9,Nro. Afectados,0
+Santa Cruz,70705,Gutierrez,2010,10,Nro. Afectados,0
+La Paz,21104,Palos Blancos,2010,10,Nro. Afectados,3
+Santa Cruz,70704,Cuevo,2010,11,Nro. Afectados,80
+Santa Cruz,70704,Cuevo,2010,12,Nro. Afectados,19
+Tarija,60601,Entre Rios Trj,2010,1,Nro. Fallecidos,1
+La Paz,21001,Inquisivi,2010,4,Nro. Fallecidos,5
+Santa Cruz,70707,Boyuibe,2010,6,Nro. Fallecidos,0
+Santa Cruz,70702,Charagua,2010,6,Nro. Fallecidos,0
+Potosí,51102,"Caiza ""d""",2010,7,Nro. Fallecidos,0
+Santa Cruz,70701,Lagunillas,2010,7,Nro. Fallecidos,0
+Santa Cruz,70701,Lagunillas,2010,8,Nro. Fallecidos,0
+Pando,90103,Bolpebra,2010,9,Nro. Fallecidos,0
+Santa Cruz,70704,Cuevo,2010,9,Nro. Fallecidos,0
+La Paz,20607,Mapiri,2010,9,Nro. Fallecidos,0
+Santa Cruz,70705,Gutierrez,2010,10,Nro. Fallecidos,0
+La Paz,21104,Palos Blancos,2010,10,Nro. Fallecidos,0
+Santa Cruz,70704,Cuevo,2010,11,Nro. Fallecidos,0
+Santa Cruz,70704,Cuevo,2010,12,Nro. Fallecidos,0
+Tarija,60601,Entre Rios Trj,2010,1,TOTAL,5
+La Paz,21001,Inquisivi,2010,4,TOTAL,11
+Santa Cruz,70707,Boyuibe,2010,6,TOTAL,921
+Santa Cruz,70702,Charagua,2010,6,TOTAL,2630
+Potosí,51102,"Caiza ""d""",2010,7,TOTAL,4
+Santa Cruz,70701,Lagunillas,2010,7,TOTAL,63
+Santa Cruz,70701,Lagunillas,2010,8,TOTAL,1222
+Pando,90103,Bolpebra,2010,9,TOTAL,3
+Santa Cruz,70704,Cuevo,2010,9,TOTAL,9
+La Paz,20607,Mapiri,2010,9,TOTAL,16
+Santa Cruz,70705,Gutierrez,2010,10,TOTAL,16
+La Paz,21104,Palos Blancos,2010,10,TOTAL,4
+Santa Cruz,70704,Cuevo,2010,11,TOTAL,81
+Santa Cruz,70704,Cuevo,2010,12,TOTAL,20

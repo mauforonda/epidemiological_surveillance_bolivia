@@ -1,0 +1,77 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,Nro.,1
+Oruro,41301,Totora(orr),2011,1,Nro.,1
+Chuquisaca,10502,Huacareta,2011,2,Nro.,1
+La Paz,21105,La Asunta,2011,2,Nro.,0
+La Paz,20103,Mecapaca,2011,2,Nro.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,Nro.,0
+Cochabamba,31003,Villa Tunari,2011,2,Nro.,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,Nro.,0
+La Paz,21005,Ichoca,2011,7,Nro.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,Nro.,0
+Santa Cruz,70701,Lagunillas,2011,11,Nro.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,Nro. Afectados,22
+Oruro,41301,Totora(orr),2011,1,Nro. Afectados,500
+Chuquisaca,10502,Huacareta,2011,2,Nro. Afectados,2
+La Paz,21105,La Asunta,2011,2,Nro. Afectados,8
+La Paz,20103,Mecapaca,2011,2,Nro. Afectados,16
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,Nro. Afectados,0
+Cochabamba,31003,Villa Tunari,2011,2,Nro. Afectados,10
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,Nro. Afectados,0
+La Paz,21005,Ichoca,2011,7,Nro. Afectados,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,Nro. Afectados,0
+Santa Cruz,70701,Lagunillas,2011,11,Nro. Afectados,1226
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,Nro. Afectados,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,Nro. Fallecidos,15
+Oruro,41301,Totora(orr),2011,1,Nro. Fallecidos,0
+Chuquisaca,10502,Huacareta,2011,2,Nro. Fallecidos,0
+La Paz,21105,La Asunta,2011,2,Nro. Fallecidos,0
+La Paz,20103,Mecapaca,2011,2,Nro. Fallecidos,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,Nro. Fallecidos,0
+Cochabamba,31003,Villa Tunari,2011,2,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,Nro. Fallecidos,0
+La Paz,21005,Ichoca,2011,7,Nro. Fallecidos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,Nro. Fallecidos,0
+Santa Cruz,70701,Lagunillas,2011,11,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,TOTAL,38
+Oruro,41301,Totora(orr),2011,1,TOTAL,501
+Chuquisaca,10502,Huacareta,2011,2,TOTAL,3
+La Paz,21105,La Asunta,2011,2,TOTAL,8
+La Paz,20103,Mecapaca,2011,2,TOTAL,22
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,TOTAL,0
+Cochabamba,31003,Villa Tunari,2011,2,TOTAL,12
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,TOTAL,0
+La Paz,21005,Ichoca,2011,7,TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,TOTAL,0
+Santa Cruz,70701,Lagunillas,2011,11,TOTAL,1227
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,TOTAL,0

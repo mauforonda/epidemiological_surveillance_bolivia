@@ -1,0 +1,757 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,31303,Alalay,2014,1,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2014,1,< de 1 ano,0
+Chuquisaca,11003,Machareti,2014,1,< de 1 ano,0
+Cochabamba,31301,Mizque,2014,1,< de 1 ano,0
+Beni,80201,Riberalta,2014,1,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,1,< de 1 ano,0
+Chuquisaca,10101,Sucre,2014,1,< de 1 ano,0
+Tarija,60101,Tarija,2014,1,< de 1 ano,0
+Beni,80101,Trinidad,2014,1,< de 1 ano,0
+Cochabamba,31003,Villa Tunari,2014,1,< de 1 ano,0
+Cochabamba,31303,Alalay,2014,2,< de 1 ano,0
+Beni,80202,Guayaramerin,2014,2,< de 1 ano,0
+Cochabamba,31301,Mizque,2014,2,< de 1 ano,0
+Beni,80201,Riberalta,2014,2,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,2,< de 1 ano,0
+Chuquisaca,10101,Sucre,2014,2,< de 1 ano,0
+Beni,80101,Trinidad,2014,2,< de 1 ano,0
+Cochabamba,31302,Vila Vila,2014,2,< de 1 ano,0
+Cochabamba,31303,Alalay,2014,3,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2014,3,< de 1 ano,0
+Chuquisaca,10502,Huacareta,2014,3,< de 1 ano,0
+Cochabamba,31301,Mizque,2014,3,< de 1 ano,0
+Chuquisaca,10501,Monteagudo,2014,3,< de 1 ano,0
+Beni,80702,San Ramon Beni,2014,3,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,3,< de 1 ano,0
+Tarija,60101,Tarija,2014,3,< de 1 ano,0
+Beni,80101,Trinidad,2014,3,< de 1 ano,0
+Cochabamba,31302,Vila Vila,2014,3,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2014,4,< de 1 ano,1
+Beni,80202,Guayaramerin,2014,4,< de 1 ano,0
+Chuquisaca,11003,Machareti,2014,4,< de 1 ano,0
+Cochabamba,31301,Mizque,2014,4,< de 1 ano,0
+Chuquisaca,10501,Monteagudo,2014,4,< de 1 ano,0
+Beni,80702,San Ramon Beni,2014,4,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,4,< de 1 ano,0
+Beni,80101,Trinidad,2014,4,< de 1 ano,0
+Cochabamba,31302,Vila Vila,2014,4,< de 1 ano,0
+Santa Cruz,70703,Cabezas,2014,5,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2014,5,< de 1 ano,0
+Beni,80202,Guayaramerin,2014,5,< de 1 ano,0
+Chuquisaca,11003,Machareti,2014,5,< de 1 ano,0
+Cochabamba,31301,Mizque,2014,5,< de 1 ano,0
+Chuquisaca,10501,Monteagudo,2014,5,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,5,< de 1 ano,0
+Cochabamba,31601,Tiraque (cbba),2014,5,< de 1 ano,0
+Beni,80101,Trinidad,2014,5,< de 1 ano,0
+Cochabamba,31003,Villa Tunari,2014,5,< de 1 ano,0
+Beni,80202,Guayaramerin,2014,6,< de 1 ano,0
+Cochabamba,31301,Mizque,2014,6,< de 1 ano,0
+Beni,80702,San Ramon Beni,2014,6,< de 1 ano,0
+Beni,80401,Santa Ana,2014,6,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,6,< de 1 ano,0
+Chuquisaca,10101,Sucre,2014,6,< de 1 ano,0
+Beni,80101,Trinidad,2014,6,< de 1 ano,1
+Cochabamba,31302,Vila Vila,2014,6,< de 1 ano,0
+Cochabamba,31003,Villa Tunari,2014,6,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2014,7,< de 1 ano,0
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2014,7,< de 1 ano,0
+Beni,80202,Guayaramerin,2014,7,< de 1 ano,0
+Cochabamba,31301,Mizque,2014,7,< de 1 ano,0
+Chuquisaca,10501,Monteagudo,2014,7,< de 1 ano,0
+Santa Cruz,70601,Portachuelo,2014,7,< de 1 ano,0
+Cochabamba,31401,Punata,2014,7,< de 1 ano,0
+Beni,80702,San Ramon Beni,2014,7,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,7,< de 1 ano,0
+Beni,80101,Trinidad,2014,7,< de 1 ano,0
+Cochabamba,31302,Vila Vila,2014,7,< de 1 ano,0
+Cochabamba,31003,Villa Tunari,2014,7,< de 1 ano,0
+Pando,90101,Cobija,2014,8,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2014,8,< de 1 ano,0
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2014,8,< de 1 ano,0
+Beni,80202,Guayaramerin,2014,8,< de 1 ano,0
+Cochabamba,31301,Mizque,2014,8,< de 1 ano,0
+Cochabamba,31401,Punata,2014,8,< de 1 ano,0
+Beni,80602,San Andres,2014,8,< de 1 ano,0
+Beni,80702,San Ramon Beni,2014,8,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,8,< de 1 ano,0
+Beni,80101,Trinidad,2014,8,< de 1 ano,0
+Cochabamba,31302,Vila Vila,2014,8,< de 1 ano,0
+Cochabamba,31003,Villa Tunari,2014,8,< de 1 ano,0
+Pando,90101,Cobija,2014,9,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2014,9,< de 1 ano,0
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2014,9,< de 1 ano,0
+Beni,80202,Guayaramerin,2014,9,< de 1 ano,0
+Beni,80801,Magdalena,2014,9,< de 1 ano,0
+Cochabamba,31301,Mizque,2014,9,< de 1 ano,0
+Cochabamba,31401,Punata,2014,9,< de 1 ano,0
+Beni,80702,San Ramon Beni,2014,9,< de 1 ano,0
+Beni,80401,Santa Ana,2014,9,< de 1 ano,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,9,< de 1 ano,0
+Beni,80101,Trinidad,2014,9,< de 1 ano,0
+Cochabamba,31302,Vila Vila,2014,9,< de 1 ano,0
+Cochabamba,31003,Villa Tunari,2014,9,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2014,10,< de 1 ano,0
+Chuquisaca,10501,Monteagudo,2014,10,< de 1 ano,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,10,< de 1 ano,0
+Chuquisaca,10101,Sucre,2014,10,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2014,11,< de 1 ano,0
+La Paz,20607,Mapiri,2014,11,< de 1 ano,0
+Chuquisaca,10501,Monteagudo,2014,11,< de 1 ano,0
+Cochabamba,31001,Sacaba,2014,11,< de 1 ano,0
+Tarija,60101,Tarija,2014,11,< de 1 ano,0
+Pando,90101,Cobija,2014,12,< de 1 ano,0
+Cochabamba,30101,Cochabamba,2014,12,< de 1 ano,0
+La Paz,20607,Mapiri,2014,12,< de 1 ano,0
+Chuquisaca,10501,Monteagudo,2014,12,< de 1 ano,0
+Tarija,60303,Villa Montes,2014,12,< de 1 ano,0
+Cochabamba,31003,Villa Tunari,2014,12,< de 1 ano,0
+Cochabamba,31303,Alalay,2014,1,1 a 4 anos,0
+Cochabamba,30101,Cochabamba,2014,1,1 a 4 anos,0
+Chuquisaca,11003,Machareti,2014,1,1 a 4 anos,0
+Cochabamba,31301,Mizque,2014,1,1 a 4 anos,0
+Beni,80201,Riberalta,2014,1,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,1,1 a 4 anos,0
+Chuquisaca,10101,Sucre,2014,1,1 a 4 anos,0
+Tarija,60101,Tarija,2014,1,1 a 4 anos,0
+Beni,80101,Trinidad,2014,1,1 a 4 anos,0
+Cochabamba,31003,Villa Tunari,2014,1,1 a 4 anos,0
+Cochabamba,31303,Alalay,2014,2,1 a 4 anos,0
+Beni,80202,Guayaramerin,2014,2,1 a 4 anos,0
+Cochabamba,31301,Mizque,2014,2,1 a 4 anos,0
+Beni,80201,Riberalta,2014,2,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,2,1 a 4 anos,0
+Chuquisaca,10101,Sucre,2014,2,1 a 4 anos,0
+Beni,80101,Trinidad,2014,2,1 a 4 anos,0
+Cochabamba,31302,Vila Vila,2014,2,1 a 4 anos,0
+Cochabamba,31303,Alalay,2014,3,1 a 4 anos,0
+Cochabamba,30101,Cochabamba,2014,3,1 a 4 anos,0
+Chuquisaca,10502,Huacareta,2014,3,1 a 4 anos,0
+Cochabamba,31301,Mizque,2014,3,1 a 4 anos,0
+Chuquisaca,10501,Monteagudo,2014,3,1 a 4 anos,0
+Beni,80702,San Ramon Beni,2014,3,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,3,1 a 4 anos,1
+Tarija,60101,Tarija,2014,3,1 a 4 anos,0
+Beni,80101,Trinidad,2014,3,1 a 4 anos,0
+Cochabamba,31302,Vila Vila,2014,3,1 a 4 anos,0
+Cochabamba,30101,Cochabamba,2014,4,1 a 4 anos,0
+Beni,80202,Guayaramerin,2014,4,1 a 4 anos,0
+Chuquisaca,11003,Machareti,2014,4,1 a 4 anos,0
+Cochabamba,31301,Mizque,2014,4,1 a 4 anos,0
+Chuquisaca,10501,Monteagudo,2014,4,1 a 4 anos,0
+Beni,80702,San Ramon Beni,2014,4,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,4,1 a 4 anos,0
+Beni,80101,Trinidad,2014,4,1 a 4 anos,0
+Cochabamba,31302,Vila Vila,2014,4,1 a 4 anos,0
+Santa Cruz,70703,Cabezas,2014,5,1 a 4 anos,0
+Cochabamba,30101,Cochabamba,2014,5,1 a 4 anos,0
+Beni,80202,Guayaramerin,2014,5,1 a 4 anos,0
+Chuquisaca,11003,Machareti,2014,5,1 a 4 anos,0
+Cochabamba,31301,Mizque,2014,5,1 a 4 anos,0
+Chuquisaca,10501,Monteagudo,2014,5,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,5,1 a 4 anos,0
+Cochabamba,31601,Tiraque (cbba),2014,5,1 a 4 anos,0
+Beni,80101,Trinidad,2014,5,1 a 4 anos,0
+Cochabamba,31003,Villa Tunari,2014,5,1 a 4 anos,0
+Beni,80202,Guayaramerin,2014,6,1 a 4 anos,0
+Cochabamba,31301,Mizque,2014,6,1 a 4 anos,0
+Beni,80702,San Ramon Beni,2014,6,1 a 4 anos,0
+Beni,80401,Santa Ana,2014,6,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,6,1 a 4 anos,0
+Chuquisaca,10101,Sucre,2014,6,1 a 4 anos,0
+Beni,80101,Trinidad,2014,6,1 a 4 anos,0
+Cochabamba,31302,Vila Vila,2014,6,1 a 4 anos,0
+Cochabamba,31003,Villa Tunari,2014,6,1 a 4 anos,0
+Cochabamba,30101,Cochabamba,2014,7,1 a 4 anos,0
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2014,7,1 a 4 anos,0
+Beni,80202,Guayaramerin,2014,7,1 a 4 anos,0
+Cochabamba,31301,Mizque,2014,7,1 a 4 anos,0
+Chuquisaca,10501,Monteagudo,2014,7,1 a 4 anos,0
+Santa Cruz,70601,Portachuelo,2014,7,1 a 4 anos,1
+Cochabamba,31401,Punata,2014,7,1 a 4 anos,0
+Beni,80702,San Ramon Beni,2014,7,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,7,1 a 4 anos,0
+Beni,80101,Trinidad,2014,7,1 a 4 anos,1
+Cochabamba,31302,Vila Vila,2014,7,1 a 4 anos,0
+Cochabamba,31003,Villa Tunari,2014,7,1 a 4 anos,0
+Pando,90101,Cobija,2014,8,1 a 4 anos,0
+Cochabamba,30101,Cochabamba,2014,8,1 a 4 anos,0
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2014,8,1 a 4 anos,0
+Beni,80202,Guayaramerin,2014,8,1 a 4 anos,0
+Cochabamba,31301,Mizque,2014,8,1 a 4 anos,0
+Cochabamba,31401,Punata,2014,8,1 a 4 anos,0
+Beni,80602,San Andres,2014,8,1 a 4 anos,0
+Beni,80702,San Ramon Beni,2014,8,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,8,1 a 4 anos,0
+Beni,80101,Trinidad,2014,8,1 a 4 anos,0
+Cochabamba,31302,Vila Vila,2014,8,1 a 4 anos,0
+Cochabamba,31003,Villa Tunari,2014,8,1 a 4 anos,0
+Pando,90101,Cobija,2014,9,1 a 4 anos,0
+Cochabamba,30101,Cochabamba,2014,9,1 a 4 anos,0
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2014,9,1 a 4 anos,0
+Beni,80202,Guayaramerin,2014,9,1 a 4 anos,0
+Beni,80801,Magdalena,2014,9,1 a 4 anos,0
+Cochabamba,31301,Mizque,2014,9,1 a 4 anos,0
+Cochabamba,31401,Punata,2014,9,1 a 4 anos,0
+Beni,80702,San Ramon Beni,2014,9,1 a 4 anos,0
+Beni,80401,Santa Ana,2014,9,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,9,1 a 4 anos,0
+Beni,80101,Trinidad,2014,9,1 a 4 anos,0
+Cochabamba,31302,Vila Vila,2014,9,1 a 4 anos,0
+Cochabamba,31003,Villa Tunari,2014,9,1 a 4 anos,0
+Cochabamba,30101,Cochabamba,2014,10,1 a 4 anos,0
+Chuquisaca,10501,Monteagudo,2014,10,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,10,1 a 4 anos,0
+Chuquisaca,10101,Sucre,2014,10,1 a 4 anos,1
+Cochabamba,30101,Cochabamba,2014,11,1 a 4 anos,0
+La Paz,20607,Mapiri,2014,11,1 a 4 anos,1
+Chuquisaca,10501,Monteagudo,2014,11,1 a 4 anos,1
+Cochabamba,31001,Sacaba,2014,11,1 a 4 anos,0
+Tarija,60101,Tarija,2014,11,1 a 4 anos,0
+Pando,90101,Cobija,2014,12,1 a 4 anos,0
+Cochabamba,30101,Cochabamba,2014,12,1 a 4 anos,0
+La Paz,20607,Mapiri,2014,12,1 a 4 anos,0
+Chuquisaca,10501,Monteagudo,2014,12,1 a 4 anos,4
+Tarija,60303,Villa Montes,2014,12,1 a 4 anos,0
+Cochabamba,31003,Villa Tunari,2014,12,1 a 4 anos,0
+Cochabamba,31303,Alalay,2014,1,5 a 9 anos,0
+Cochabamba,30101,Cochabamba,2014,1,5 a 9 anos,0
+Chuquisaca,11003,Machareti,2014,1,5 a 9 anos,0
+Cochabamba,31301,Mizque,2014,1,5 a 9 anos,0
+Beni,80201,Riberalta,2014,1,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,1,5 a 9 anos,0
+Chuquisaca,10101,Sucre,2014,1,5 a 9 anos,0
+Tarija,60101,Tarija,2014,1,5 a 9 anos,0
+Beni,80101,Trinidad,2014,1,5 a 9 anos,0
+Cochabamba,31003,Villa Tunari,2014,1,5 a 9 anos,0
+Cochabamba,31303,Alalay,2014,2,5 a 9 anos,0
+Beni,80202,Guayaramerin,2014,2,5 a 9 anos,0
+Cochabamba,31301,Mizque,2014,2,5 a 9 anos,0
+Beni,80201,Riberalta,2014,2,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,2,5 a 9 anos,0
+Chuquisaca,10101,Sucre,2014,2,5 a 9 anos,1
+Beni,80101,Trinidad,2014,2,5 a 9 anos,0
+Cochabamba,31302,Vila Vila,2014,2,5 a 9 anos,0
+Cochabamba,31303,Alalay,2014,3,5 a 9 anos,0
+Cochabamba,30101,Cochabamba,2014,3,5 a 9 anos,0
+Chuquisaca,10502,Huacareta,2014,3,5 a 9 anos,0
+Cochabamba,31301,Mizque,2014,3,5 a 9 anos,0
+Chuquisaca,10501,Monteagudo,2014,3,5 a 9 anos,0
+Beni,80702,San Ramon Beni,2014,3,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,3,5 a 9 anos,0
+Tarija,60101,Tarija,2014,3,5 a 9 anos,0
+Beni,80101,Trinidad,2014,3,5 a 9 anos,5
+Cochabamba,31302,Vila Vila,2014,3,5 a 9 anos,0
+Cochabamba,30101,Cochabamba,2014,4,5 a 9 anos,0
+Beni,80202,Guayaramerin,2014,4,5 a 9 anos,2
+Chuquisaca,11003,Machareti,2014,4,5 a 9 anos,0
+Cochabamba,31301,Mizque,2014,4,5 a 9 anos,0
+Chuquisaca,10501,Monteagudo,2014,4,5 a 9 anos,0
+Beni,80702,San Ramon Beni,2014,4,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,4,5 a 9 anos,0
+Beni,80101,Trinidad,2014,4,5 a 9 anos,2
+Cochabamba,31302,Vila Vila,2014,4,5 a 9 anos,0
+Santa Cruz,70703,Cabezas,2014,5,5 a 9 anos,0
+Cochabamba,30101,Cochabamba,2014,5,5 a 9 anos,0
+Beni,80202,Guayaramerin,2014,5,5 a 9 anos,2
+Chuquisaca,11003,Machareti,2014,5,5 a 9 anos,0
+Cochabamba,31301,Mizque,2014,5,5 a 9 anos,0
+Chuquisaca,10501,Monteagudo,2014,5,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,5,5 a 9 anos,0
+Cochabamba,31601,Tiraque (cbba),2014,5,5 a 9 anos,0
+Beni,80101,Trinidad,2014,5,5 a 9 anos,0
+Cochabamba,31003,Villa Tunari,2014,5,5 a 9 anos,0
+Beni,80202,Guayaramerin,2014,6,5 a 9 anos,1
+Cochabamba,31301,Mizque,2014,6,5 a 9 anos,0
+Beni,80702,San Ramon Beni,2014,6,5 a 9 anos,0
+Beni,80401,Santa Ana,2014,6,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,6,5 a 9 anos,1
+Chuquisaca,10101,Sucre,2014,6,5 a 9 anos,0
+Beni,80101,Trinidad,2014,6,5 a 9 anos,1
+Cochabamba,31302,Vila Vila,2014,6,5 a 9 anos,0
+Cochabamba,31003,Villa Tunari,2014,6,5 a 9 anos,0
+Cochabamba,30101,Cochabamba,2014,7,5 a 9 anos,0
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2014,7,5 a 9 anos,0
+Beni,80202,Guayaramerin,2014,7,5 a 9 anos,2
+Cochabamba,31301,Mizque,2014,7,5 a 9 anos,0
+Chuquisaca,10501,Monteagudo,2014,7,5 a 9 anos,0
+Santa Cruz,70601,Portachuelo,2014,7,5 a 9 anos,1
+Cochabamba,31401,Punata,2014,7,5 a 9 anos,0
+Beni,80702,San Ramon Beni,2014,7,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,7,5 a 9 anos,0
+Beni,80101,Trinidad,2014,7,5 a 9 anos,2
+Cochabamba,31302,Vila Vila,2014,7,5 a 9 anos,0
+Cochabamba,31003,Villa Tunari,2014,7,5 a 9 anos,0
+Pando,90101,Cobija,2014,8,5 a 9 anos,0
+Cochabamba,30101,Cochabamba,2014,8,5 a 9 anos,0
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2014,8,5 a 9 anos,0
+Beni,80202,Guayaramerin,2014,8,5 a 9 anos,2
+Cochabamba,31301,Mizque,2014,8,5 a 9 anos,0
+Cochabamba,31401,Punata,2014,8,5 a 9 anos,0
+Beni,80602,San Andres,2014,8,5 a 9 anos,0
+Beni,80702,San Ramon Beni,2014,8,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,8,5 a 9 anos,1
+Beni,80101,Trinidad,2014,8,5 a 9 anos,0
+Cochabamba,31302,Vila Vila,2014,8,5 a 9 anos,0
+Cochabamba,31003,Villa Tunari,2014,8,5 a 9 anos,0
+Pando,90101,Cobija,2014,9,5 a 9 anos,0
+Cochabamba,30101,Cochabamba,2014,9,5 a 9 anos,0
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2014,9,5 a 9 anos,0
+Beni,80202,Guayaramerin,2014,9,5 a 9 anos,0
+Beni,80801,Magdalena,2014,9,5 a 9 anos,0
+Cochabamba,31301,Mizque,2014,9,5 a 9 anos,0
+Cochabamba,31401,Punata,2014,9,5 a 9 anos,0
+Beni,80702,San Ramon Beni,2014,9,5 a 9 anos,0
+Beni,80401,Santa Ana,2014,9,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,9,5 a 9 anos,0
+Beni,80101,Trinidad,2014,9,5 a 9 anos,0
+Cochabamba,31302,Vila Vila,2014,9,5 a 9 anos,0
+Cochabamba,31003,Villa Tunari,2014,9,5 a 9 anos,0
+Cochabamba,30101,Cochabamba,2014,10,5 a 9 anos,0
+Chuquisaca,10501,Monteagudo,2014,10,5 a 9 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,10,5 a 9 anos,0
+Chuquisaca,10101,Sucre,2014,10,5 a 9 anos,0
+Cochabamba,30101,Cochabamba,2014,11,5 a 9 anos,0
+La Paz,20607,Mapiri,2014,11,5 a 9 anos,0
+Chuquisaca,10501,Monteagudo,2014,11,5 a 9 anos,0
+Cochabamba,31001,Sacaba,2014,11,5 a 9 anos,0
+Tarija,60101,Tarija,2014,11,5 a 9 anos,0
+Pando,90101,Cobija,2014,12,5 a 9 anos,0
+Cochabamba,30101,Cochabamba,2014,12,5 a 9 anos,0
+La Paz,20607,Mapiri,2014,12,5 a 9 anos,0
+Chuquisaca,10501,Monteagudo,2014,12,5 a 9 anos,0
+Tarija,60303,Villa Montes,2014,12,5 a 9 anos,0
+Cochabamba,31003,Villa Tunari,2014,12,5 a 9 anos,0
+Cochabamba,31303,Alalay,2014,1,10 a 20 anos,0
+Cochabamba,30101,Cochabamba,2014,1,10 a 20 anos,1
+Chuquisaca,11003,Machareti,2014,1,10 a 20 anos,0
+Cochabamba,31301,Mizque,2014,1,10 a 20 anos,0
+Beni,80201,Riberalta,2014,1,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,1,10 a 20 anos,0
+Chuquisaca,10101,Sucre,2014,1,10 a 20 anos,0
+Tarija,60101,Tarija,2014,1,10 a 20 anos,1
+Beni,80101,Trinidad,2014,1,10 a 20 anos,0
+Cochabamba,31003,Villa Tunari,2014,1,10 a 20 anos,0
+Cochabamba,31303,Alalay,2014,2,10 a 20 anos,0
+Beni,80202,Guayaramerin,2014,2,10 a 20 anos,0
+Cochabamba,31301,Mizque,2014,2,10 a 20 anos,0
+Beni,80201,Riberalta,2014,2,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,2,10 a 20 anos,0
+Chuquisaca,10101,Sucre,2014,2,10 a 20 anos,1
+Beni,80101,Trinidad,2014,2,10 a 20 anos,3
+Cochabamba,31302,Vila Vila,2014,2,10 a 20 anos,0
+Cochabamba,31303,Alalay,2014,3,10 a 20 anos,0
+Cochabamba,30101,Cochabamba,2014,3,10 a 20 anos,0
+Chuquisaca,10502,Huacareta,2014,3,10 a 20 anos,0
+Cochabamba,31301,Mizque,2014,3,10 a 20 anos,0
+Chuquisaca,10501,Monteagudo,2014,3,10 a 20 anos,2
+Beni,80702,San Ramon Beni,2014,3,10 a 20 anos,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,3,10 a 20 anos,0
+Tarija,60101,Tarija,2014,3,10 a 20 anos,0
+Beni,80101,Trinidad,2014,3,10 a 20 anos,18
+Cochabamba,31302,Vila Vila,2014,3,10 a 20 anos,0
+Cochabamba,30101,Cochabamba,2014,4,10 a 20 anos,2
+Beni,80202,Guayaramerin,2014,4,10 a 20 anos,16
+Chuquisaca,11003,Machareti,2014,4,10 a 20 anos,0
+Cochabamba,31301,Mizque,2014,4,10 a 20 anos,0
+Chuquisaca,10501,Monteagudo,2014,4,10 a 20 anos,2
+Beni,80702,San Ramon Beni,2014,4,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,4,10 a 20 anos,1
+Beni,80101,Trinidad,2014,4,10 a 20 anos,12
+Cochabamba,31302,Vila Vila,2014,4,10 a 20 anos,0
+Santa Cruz,70703,Cabezas,2014,5,10 a 20 anos,1
+Cochabamba,30101,Cochabamba,2014,5,10 a 20 anos,0
+Beni,80202,Guayaramerin,2014,5,10 a 20 anos,23
+Chuquisaca,11003,Machareti,2014,5,10 a 20 anos,0
+Cochabamba,31301,Mizque,2014,5,10 a 20 anos,0
+Chuquisaca,10501,Monteagudo,2014,5,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,5,10 a 20 anos,0
+Cochabamba,31601,Tiraque (cbba),2014,5,10 a 20 anos,0
+Beni,80101,Trinidad,2014,5,10 a 20 anos,5
+Cochabamba,31003,Villa Tunari,2014,5,10 a 20 anos,0
+Beni,80202,Guayaramerin,2014,6,10 a 20 anos,40
+Cochabamba,31301,Mizque,2014,6,10 a 20 anos,0
+Beni,80702,San Ramon Beni,2014,6,10 a 20 anos,0
+Beni,80401,Santa Ana,2014,6,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,6,10 a 20 anos,0
+Chuquisaca,10101,Sucre,2014,6,10 a 20 anos,0
+Beni,80101,Trinidad,2014,6,10 a 20 anos,3
+Cochabamba,31302,Vila Vila,2014,6,10 a 20 anos,0
+Cochabamba,31003,Villa Tunari,2014,6,10 a 20 anos,0
+Cochabamba,30101,Cochabamba,2014,7,10 a 20 anos,1
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2014,7,10 a 20 anos,0
+Beni,80202,Guayaramerin,2014,7,10 a 20 anos,31
+Cochabamba,31301,Mizque,2014,7,10 a 20 anos,0
+Chuquisaca,10501,Monteagudo,2014,7,10 a 20 anos,1
+Santa Cruz,70601,Portachuelo,2014,7,10 a 20 anos,0
+Cochabamba,31401,Punata,2014,7,10 a 20 anos,0
+Beni,80702,San Ramon Beni,2014,7,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,7,10 a 20 anos,0
+Beni,80101,Trinidad,2014,7,10 a 20 anos,3
+Cochabamba,31302,Vila Vila,2014,7,10 a 20 anos,0
+Cochabamba,31003,Villa Tunari,2014,7,10 a 20 anos,0
+Pando,90101,Cobija,2014,8,10 a 20 anos,0
+Cochabamba,30101,Cochabamba,2014,8,10 a 20 anos,0
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2014,8,10 a 20 anos,0
+Beni,80202,Guayaramerin,2014,8,10 a 20 anos,10
+Cochabamba,31301,Mizque,2014,8,10 a 20 anos,0
+Cochabamba,31401,Punata,2014,8,10 a 20 anos,0
+Beni,80602,San Andres,2014,8,10 a 20 anos,0
+Beni,80702,San Ramon Beni,2014,8,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,8,10 a 20 anos,2
+Beni,80101,Trinidad,2014,8,10 a 20 anos,8
+Cochabamba,31302,Vila Vila,2014,8,10 a 20 anos,0
+Cochabamba,31003,Villa Tunari,2014,8,10 a 20 anos,0
+Pando,90101,Cobija,2014,9,10 a 20 anos,0
+Cochabamba,30101,Cochabamba,2014,9,10 a 20 anos,0
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2014,9,10 a 20 anos,0
+Beni,80202,Guayaramerin,2014,9,10 a 20 anos,2
+Beni,80801,Magdalena,2014,9,10 a 20 anos,0
+Cochabamba,31301,Mizque,2014,9,10 a 20 anos,0
+Cochabamba,31401,Punata,2014,9,10 a 20 anos,0
+Beni,80702,San Ramon Beni,2014,9,10 a 20 anos,0
+Beni,80401,Santa Ana,2014,9,10 a 20 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,9,10 a 20 anos,0
+Beni,80101,Trinidad,2014,9,10 a 20 anos,1
+Cochabamba,31302,Vila Vila,2014,9,10 a 20 anos,0
+Cochabamba,31003,Villa Tunari,2014,9,10 a 20 anos,0
+Cochabamba,30101,Cochabamba,2014,10,10 a 20 anos,1
+Chuquisaca,10501,Monteagudo,2014,10,10 a 20 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,10,10 a 20 anos,0
+Chuquisaca,10101,Sucre,2014,10,10 a 20 anos,0
+Cochabamba,30101,Cochabamba,2014,11,10 a 20 anos,0
+La Paz,20607,Mapiri,2014,11,10 a 20 anos,5
+Chuquisaca,10501,Monteagudo,2014,11,10 a 20 anos,0
+Cochabamba,31001,Sacaba,2014,11,10 a 20 anos,0
+Tarija,60101,Tarija,2014,11,10 a 20 anos,0
+Pando,90101,Cobija,2014,12,10 a 20 anos,0
+Cochabamba,30101,Cochabamba,2014,12,10 a 20 anos,0
+La Paz,20607,Mapiri,2014,12,10 a 20 anos,1
+Chuquisaca,10501,Monteagudo,2014,12,10 a 20 anos,1
+Tarija,60303,Villa Montes,2014,12,10 a 20 anos,0
+Cochabamba,31003,Villa Tunari,2014,12,10 a 20 anos,0
+Cochabamba,31303,Alalay,2014,1,21 a 59 anos,0
+Cochabamba,30101,Cochabamba,2014,1,21 a 59 anos,4
+Chuquisaca,11003,Machareti,2014,1,21 a 59 anos,1
+Cochabamba,31301,Mizque,2014,1,21 a 59 anos,0
+Beni,80201,Riberalta,2014,1,21 a 59 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,1,21 a 59 anos,1
+Chuquisaca,10101,Sucre,2014,1,21 a 59 anos,1
+Tarija,60101,Tarija,2014,1,21 a 59 anos,2
+Beni,80101,Trinidad,2014,1,21 a 59 anos,7
+Cochabamba,31003,Villa Tunari,2014,1,21 a 59 anos,0
+Cochabamba,31303,Alalay,2014,2,21 a 59 anos,0
+Beni,80202,Guayaramerin,2014,2,21 a 59 anos,2
+Cochabamba,31301,Mizque,2014,2,21 a 59 anos,0
+Beni,80201,Riberalta,2014,2,21 a 59 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,2,21 a 59 anos,1
+Chuquisaca,10101,Sucre,2014,2,21 a 59 anos,0
+Beni,80101,Trinidad,2014,2,21 a 59 anos,1
+Cochabamba,31302,Vila Vila,2014,2,21 a 59 anos,0
+Cochabamba,31303,Alalay,2014,3,21 a 59 anos,0
+Cochabamba,30101,Cochabamba,2014,3,21 a 59 anos,5
+Chuquisaca,10502,Huacareta,2014,3,21 a 59 anos,1
+Cochabamba,31301,Mizque,2014,3,21 a 59 anos,0
+Chuquisaca,10501,Monteagudo,2014,3,21 a 59 anos,6
+Beni,80702,San Ramon Beni,2014,3,21 a 59 anos,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,3,21 a 59 anos,2
+Tarija,60101,Tarija,2014,3,21 a 59 anos,2
+Beni,80101,Trinidad,2014,3,21 a 59 anos,23
+Cochabamba,31302,Vila Vila,2014,3,21 a 59 anos,0
+Cochabamba,30101,Cochabamba,2014,4,21 a 59 anos,1
+Beni,80202,Guayaramerin,2014,4,21 a 59 anos,33
+Chuquisaca,11003,Machareti,2014,4,21 a 59 anos,1
+Cochabamba,31301,Mizque,2014,4,21 a 59 anos,0
+Chuquisaca,10501,Monteagudo,2014,4,21 a 59 anos,10
+Beni,80702,San Ramon Beni,2014,4,21 a 59 anos,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,4,21 a 59 anos,1
+Beni,80101,Trinidad,2014,4,21 a 59 anos,16
+Cochabamba,31302,Vila Vila,2014,4,21 a 59 anos,0
+Santa Cruz,70703,Cabezas,2014,5,21 a 59 anos,0
+Cochabamba,30101,Cochabamba,2014,5,21 a 59 anos,4
+Beni,80202,Guayaramerin,2014,5,21 a 59 anos,32
+Chuquisaca,11003,Machareti,2014,5,21 a 59 anos,1
+Cochabamba,31301,Mizque,2014,5,21 a 59 anos,0
+Chuquisaca,10501,Monteagudo,2014,5,21 a 59 anos,8
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,5,21 a 59 anos,2
+Cochabamba,31601,Tiraque (cbba),2014,5,21 a 59 anos,0
+Beni,80101,Trinidad,2014,5,21 a 59 anos,5
+Cochabamba,31003,Villa Tunari,2014,5,21 a 59 anos,0
+Beni,80202,Guayaramerin,2014,6,21 a 59 anos,39
+Cochabamba,31301,Mizque,2014,6,21 a 59 anos,0
+Beni,80702,San Ramon Beni,2014,6,21 a 59 anos,1
+Beni,80401,Santa Ana,2014,6,21 a 59 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,6,21 a 59 anos,15
+Chuquisaca,10101,Sucre,2014,6,21 a 59 anos,1
+Beni,80101,Trinidad,2014,6,21 a 59 anos,3
+Cochabamba,31302,Vila Vila,2014,6,21 a 59 anos,0
+Cochabamba,31003,Villa Tunari,2014,6,21 a 59 anos,0
+Cochabamba,30101,Cochabamba,2014,7,21 a 59 anos,1
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2014,7,21 a 59 anos,0
+Beni,80202,Guayaramerin,2014,7,21 a 59 anos,34
+Cochabamba,31301,Mizque,2014,7,21 a 59 anos,0
+Chuquisaca,10501,Monteagudo,2014,7,21 a 59 anos,0
+Santa Cruz,70601,Portachuelo,2014,7,21 a 59 anos,3
+Cochabamba,31401,Punata,2014,7,21 a 59 anos,0
+Beni,80702,San Ramon Beni,2014,7,21 a 59 anos,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,7,21 a 59 anos,6
+Beni,80101,Trinidad,2014,7,21 a 59 anos,2
+Cochabamba,31302,Vila Vila,2014,7,21 a 59 anos,0
+Cochabamba,31003,Villa Tunari,2014,7,21 a 59 anos,1
+Pando,90101,Cobija,2014,8,21 a 59 anos,1
+Cochabamba,30101,Cochabamba,2014,8,21 a 59 anos,1
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2014,8,21 a 59 anos,0
+Beni,80202,Guayaramerin,2014,8,21 a 59 anos,19
+Cochabamba,31301,Mizque,2014,8,21 a 59 anos,0
+Cochabamba,31401,Punata,2014,8,21 a 59 anos,0
+Beni,80602,San Andres,2014,8,21 a 59 anos,1
+Beni,80702,San Ramon Beni,2014,8,21 a 59 anos,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,8,21 a 59 anos,5
+Beni,80101,Trinidad,2014,8,21 a 59 anos,3
+Cochabamba,31302,Vila Vila,2014,8,21 a 59 anos,0
+Cochabamba,31003,Villa Tunari,2014,8,21 a 59 anos,0
+Pando,90101,Cobija,2014,9,21 a 59 anos,1
+Cochabamba,30101,Cochabamba,2014,9,21 a 59 anos,1
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2014,9,21 a 59 anos,0
+Beni,80202,Guayaramerin,2014,9,21 a 59 anos,6
+Beni,80801,Magdalena,2014,9,21 a 59 anos,2
+Cochabamba,31301,Mizque,2014,9,21 a 59 anos,0
+Cochabamba,31401,Punata,2014,9,21 a 59 anos,0
+Beni,80702,San Ramon Beni,2014,9,21 a 59 anos,4
+Beni,80401,Santa Ana,2014,9,21 a 59 anos,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,9,21 a 59 anos,2
+Beni,80101,Trinidad,2014,9,21 a 59 anos,2
+Cochabamba,31302,Vila Vila,2014,9,21 a 59 anos,0
+Cochabamba,31003,Villa Tunari,2014,9,21 a 59 anos,0
+Cochabamba,30101,Cochabamba,2014,10,21 a 59 anos,1
+Chuquisaca,10501,Monteagudo,2014,10,21 a 59 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,10,21 a 59 anos,1
+Chuquisaca,10101,Sucre,2014,10,21 a 59 anos,0
+Cochabamba,30101,Cochabamba,2014,11,21 a 59 anos,1
+La Paz,20607,Mapiri,2014,11,21 a 59 anos,17
+Chuquisaca,10501,Monteagudo,2014,11,21 a 59 anos,1
+Cochabamba,31001,Sacaba,2014,11,21 a 59 anos,1
+Tarija,60101,Tarija,2014,11,21 a 59 anos,1
+Pando,90101,Cobija,2014,12,21 a 59 anos,1
+Cochabamba,30101,Cochabamba,2014,12,21 a 59 anos,1
+La Paz,20607,Mapiri,2014,12,21 a 59 anos,1
+Chuquisaca,10501,Monteagudo,2014,12,21 a 59 anos,2
+Tarija,60303,Villa Montes,2014,12,21 a 59 anos,1
+Cochabamba,31003,Villa Tunari,2014,12,21 a 59 anos,2
+Cochabamba,31303,Alalay,2014,1,60 y mas,0
+Cochabamba,30101,Cochabamba,2014,1,60 y mas,0
+Chuquisaca,11003,Machareti,2014,1,60 y mas,0
+Cochabamba,31301,Mizque,2014,1,60 y mas,0
+Beni,80201,Riberalta,2014,1,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,1,60 y mas,0
+Chuquisaca,10101,Sucre,2014,1,60 y mas,0
+Tarija,60101,Tarija,2014,1,60 y mas,0
+Beni,80101,Trinidad,2014,1,60 y mas,1
+Cochabamba,31003,Villa Tunari,2014,1,60 y mas,0
+Cochabamba,31303,Alalay,2014,2,60 y mas,0
+Beni,80202,Guayaramerin,2014,2,60 y mas,0
+Cochabamba,31301,Mizque,2014,2,60 y mas,0
+Beni,80201,Riberalta,2014,2,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,2,60 y mas,0
+Chuquisaca,10101,Sucre,2014,2,60 y mas,0
+Beni,80101,Trinidad,2014,2,60 y mas,0
+Cochabamba,31302,Vila Vila,2014,2,60 y mas,0
+Cochabamba,31303,Alalay,2014,3,60 y mas,0
+Cochabamba,30101,Cochabamba,2014,3,60 y mas,0
+Chuquisaca,10502,Huacareta,2014,3,60 y mas,0
+Cochabamba,31301,Mizque,2014,3,60 y mas,0
+Chuquisaca,10501,Monteagudo,2014,3,60 y mas,3
+Beni,80702,San Ramon Beni,2014,3,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,3,60 y mas,0
+Tarija,60101,Tarija,2014,3,60 y mas,0
+Beni,80101,Trinidad,2014,3,60 y mas,0
+Cochabamba,31302,Vila Vila,2014,3,60 y mas,0
+Cochabamba,30101,Cochabamba,2014,4,60 y mas,0
+Beni,80202,Guayaramerin,2014,4,60 y mas,13
+Chuquisaca,11003,Machareti,2014,4,60 y mas,0
+Cochabamba,31301,Mizque,2014,4,60 y mas,0
+Chuquisaca,10501,Monteagudo,2014,4,60 y mas,4
+Beni,80702,San Ramon Beni,2014,4,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,4,60 y mas,1
+Beni,80101,Trinidad,2014,4,60 y mas,0
+Cochabamba,31302,Vila Vila,2014,4,60 y mas,0
+Santa Cruz,70703,Cabezas,2014,5,60 y mas,0
+Cochabamba,30101,Cochabamba,2014,5,60 y mas,0
+Beni,80202,Guayaramerin,2014,5,60 y mas,7
+Chuquisaca,11003,Machareti,2014,5,60 y mas,0
+Cochabamba,31301,Mizque,2014,5,60 y mas,0
+Chuquisaca,10501,Monteagudo,2014,5,60 y mas,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,5,60 y mas,2
+Cochabamba,31601,Tiraque (cbba),2014,5,60 y mas,0
+Beni,80101,Trinidad,2014,5,60 y mas,0
+Cochabamba,31003,Villa Tunari,2014,5,60 y mas,0
+Beni,80202,Guayaramerin,2014,6,60 y mas,3
+Cochabamba,31301,Mizque,2014,6,60 y mas,0
+Beni,80702,San Ramon Beni,2014,6,60 y mas,0
+Beni,80401,Santa Ana,2014,6,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,6,60 y mas,0
+Chuquisaca,10101,Sucre,2014,6,60 y mas,0
+Beni,80101,Trinidad,2014,6,60 y mas,1
+Cochabamba,31302,Vila Vila,2014,6,60 y mas,0
+Cochabamba,31003,Villa Tunari,2014,6,60 y mas,0
+Cochabamba,30101,Cochabamba,2014,7,60 y mas,0
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2014,7,60 y mas,0
+Beni,80202,Guayaramerin,2014,7,60 y mas,5
+Cochabamba,31301,Mizque,2014,7,60 y mas,0
+Chuquisaca,10501,Monteagudo,2014,7,60 y mas,0
+Santa Cruz,70601,Portachuelo,2014,7,60 y mas,0
+Cochabamba,31401,Punata,2014,7,60 y mas,0
+Beni,80702,San Ramon Beni,2014,7,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,7,60 y mas,1
+Beni,80101,Trinidad,2014,7,60 y mas,2
+Cochabamba,31302,Vila Vila,2014,7,60 y mas,0
+Cochabamba,31003,Villa Tunari,2014,7,60 y mas,0
+Pando,90101,Cobija,2014,8,60 y mas,0
+Cochabamba,30101,Cochabamba,2014,8,60 y mas,0
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2014,8,60 y mas,0
+Beni,80202,Guayaramerin,2014,8,60 y mas,0
+Cochabamba,31301,Mizque,2014,8,60 y mas,0
+Cochabamba,31401,Punata,2014,8,60 y mas,0
+Beni,80602,San Andres,2014,8,60 y mas,0
+Beni,80702,San Ramon Beni,2014,8,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,8,60 y mas,1
+Beni,80101,Trinidad,2014,8,60 y mas,0
+Cochabamba,31302,Vila Vila,2014,8,60 y mas,0
+Cochabamba,31003,Villa Tunari,2014,8,60 y mas,0
+Pando,90101,Cobija,2014,9,60 y mas,0
+Cochabamba,30101,Cochabamba,2014,9,60 y mas,0
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2014,9,60 y mas,0
+Beni,80202,Guayaramerin,2014,9,60 y mas,0
+Beni,80801,Magdalena,2014,9,60 y mas,0
+Cochabamba,31301,Mizque,2014,9,60 y mas,0
+Cochabamba,31401,Punata,2014,9,60 y mas,0
+Beni,80702,San Ramon Beni,2014,9,60 y mas,0
+Beni,80401,Santa Ana,2014,9,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,9,60 y mas,0
+Beni,80101,Trinidad,2014,9,60 y mas,0
+Cochabamba,31302,Vila Vila,2014,9,60 y mas,0
+Cochabamba,31003,Villa Tunari,2014,9,60 y mas,0
+Cochabamba,30101,Cochabamba,2014,10,60 y mas,0
+Chuquisaca,10501,Monteagudo,2014,10,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,10,60 y mas,0
+Chuquisaca,10101,Sucre,2014,10,60 y mas,0
+Cochabamba,30101,Cochabamba,2014,11,60 y mas,0
+La Paz,20607,Mapiri,2014,11,60 y mas,4
+Chuquisaca,10501,Monteagudo,2014,11,60 y mas,1
+Cochabamba,31001,Sacaba,2014,11,60 y mas,0
+Tarija,60101,Tarija,2014,11,60 y mas,0
+Pando,90101,Cobija,2014,12,60 y mas,0
+Cochabamba,30101,Cochabamba,2014,12,60 y mas,0
+La Paz,20607,Mapiri,2014,12,60 y mas,0
+Chuquisaca,10501,Monteagudo,2014,12,60 y mas,0
+Tarija,60303,Villa Montes,2014,12,60 y mas,0
+Cochabamba,31003,Villa Tunari,2014,12,60 y mas,0
+Cochabamba,31303,Alalay,2014,1,TOTAL,0
+Cochabamba,30101,Cochabamba,2014,1,TOTAL,5
+Chuquisaca,11003,Machareti,2014,1,TOTAL,1
+Cochabamba,31301,Mizque,2014,1,TOTAL,0
+Beni,80201,Riberalta,2014,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,1,TOTAL,1
+Chuquisaca,10101,Sucre,2014,1,TOTAL,1
+Tarija,60101,Tarija,2014,1,TOTAL,3
+Beni,80101,Trinidad,2014,1,TOTAL,8
+Cochabamba,31003,Villa Tunari,2014,1,TOTAL,0
+Cochabamba,31303,Alalay,2014,2,TOTAL,0
+Beni,80202,Guayaramerin,2014,2,TOTAL,2
+Cochabamba,31301,Mizque,2014,2,TOTAL,0
+Beni,80201,Riberalta,2014,2,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,2,TOTAL,1
+Chuquisaca,10101,Sucre,2014,2,TOTAL,2
+Beni,80101,Trinidad,2014,2,TOTAL,4
+Cochabamba,31302,Vila Vila,2014,2,TOTAL,0
+Cochabamba,31303,Alalay,2014,3,TOTAL,0
+Cochabamba,30101,Cochabamba,2014,3,TOTAL,5
+Chuquisaca,10502,Huacareta,2014,3,TOTAL,1
+Cochabamba,31301,Mizque,2014,3,TOTAL,0
+Chuquisaca,10501,Monteagudo,2014,3,TOTAL,11
+Beni,80702,San Ramon Beni,2014,3,TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,3,TOTAL,3
+Tarija,60101,Tarija,2014,3,TOTAL,2
+Beni,80101,Trinidad,2014,3,TOTAL,46
+Cochabamba,31302,Vila Vila,2014,3,TOTAL,0
+Cochabamba,30101,Cochabamba,2014,4,TOTAL,4
+Beni,80202,Guayaramerin,2014,4,TOTAL,64
+Chuquisaca,11003,Machareti,2014,4,TOTAL,1
+Cochabamba,31301,Mizque,2014,4,TOTAL,0
+Chuquisaca,10501,Monteagudo,2014,4,TOTAL,16
+Beni,80702,San Ramon Beni,2014,4,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,4,TOTAL,3
+Beni,80101,Trinidad,2014,4,TOTAL,30
+Cochabamba,31302,Vila Vila,2014,4,TOTAL,0
+Santa Cruz,70703,Cabezas,2014,5,TOTAL,1
+Cochabamba,30101,Cochabamba,2014,5,TOTAL,4
+Beni,80202,Guayaramerin,2014,5,TOTAL,64
+Chuquisaca,11003,Machareti,2014,5,TOTAL,1
+Cochabamba,31301,Mizque,2014,5,TOTAL,0
+Chuquisaca,10501,Monteagudo,2014,5,TOTAL,10
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,5,TOTAL,4
+Cochabamba,31601,Tiraque (cbba),2014,5,TOTAL,0
+Beni,80101,Trinidad,2014,5,TOTAL,10
+Cochabamba,31003,Villa Tunari,2014,5,TOTAL,0
+Beni,80202,Guayaramerin,2014,6,TOTAL,83
+Cochabamba,31301,Mizque,2014,6,TOTAL,0
+Beni,80702,San Ramon Beni,2014,6,TOTAL,1
+Beni,80401,Santa Ana,2014,6,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,6,TOTAL,16
+Chuquisaca,10101,Sucre,2014,6,TOTAL,1
+Beni,80101,Trinidad,2014,6,TOTAL,9
+Cochabamba,31302,Vila Vila,2014,6,TOTAL,0
+Cochabamba,31003,Villa Tunari,2014,6,TOTAL,0
+Cochabamba,30101,Cochabamba,2014,7,TOTAL,2
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2014,7,TOTAL,0
+Beni,80202,Guayaramerin,2014,7,TOTAL,72
+Cochabamba,31301,Mizque,2014,7,TOTAL,0
+Chuquisaca,10501,Monteagudo,2014,7,TOTAL,1
+Santa Cruz,70601,Portachuelo,2014,7,TOTAL,5
+Cochabamba,31401,Punata,2014,7,TOTAL,0
+Beni,80702,San Ramon Beni,2014,7,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,7,TOTAL,7
+Beni,80101,Trinidad,2014,7,TOTAL,10
+Cochabamba,31302,Vila Vila,2014,7,TOTAL,0
+Cochabamba,31003,Villa Tunari,2014,7,TOTAL,1
+Pando,90101,Cobija,2014,8,TOTAL,1
+Cochabamba,30101,Cochabamba,2014,8,TOTAL,1
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2014,8,TOTAL,0
+Beni,80202,Guayaramerin,2014,8,TOTAL,31
+Cochabamba,31301,Mizque,2014,8,TOTAL,0
+Cochabamba,31401,Punata,2014,8,TOTAL,0
+Beni,80602,San Andres,2014,8,TOTAL,1
+Beni,80702,San Ramon Beni,2014,8,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,8,TOTAL,9
+Beni,80101,Trinidad,2014,8,TOTAL,11
+Cochabamba,31302,Vila Vila,2014,8,TOTAL,0
+Cochabamba,31003,Villa Tunari,2014,8,TOTAL,0
+Pando,90101,Cobija,2014,9,TOTAL,1
+Cochabamba,30101,Cochabamba,2014,9,TOTAL,1
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2014,9,TOTAL,0
+Beni,80202,Guayaramerin,2014,9,TOTAL,8
+Beni,80801,Magdalena,2014,9,TOTAL,2
+Cochabamba,31301,Mizque,2014,9,TOTAL,0
+Cochabamba,31401,Punata,2014,9,TOTAL,0
+Beni,80702,San Ramon Beni,2014,9,TOTAL,4
+Beni,80401,Santa Ana,2014,9,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,9,TOTAL,2
+Beni,80101,Trinidad,2014,9,TOTAL,3
+Cochabamba,31302,Vila Vila,2014,9,TOTAL,0
+Cochabamba,31003,Villa Tunari,2014,9,TOTAL,0
+Cochabamba,30101,Cochabamba,2014,10,TOTAL,2
+Chuquisaca,10501,Monteagudo,2014,10,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2014,10,TOTAL,1
+Chuquisaca,10101,Sucre,2014,10,TOTAL,1
+Cochabamba,30101,Cochabamba,2014,11,TOTAL,1
+La Paz,20607,Mapiri,2014,11,TOTAL,27
+Chuquisaca,10501,Monteagudo,2014,11,TOTAL,3
+Cochabamba,31001,Sacaba,2014,11,TOTAL,1
+Tarija,60101,Tarija,2014,11,TOTAL,1
+Pando,90101,Cobija,2014,12,TOTAL,1
+Cochabamba,30101,Cochabamba,2014,12,TOTAL,1
+La Paz,20607,Mapiri,2014,12,TOTAL,2
+Chuquisaca,10501,Monteagudo,2014,12,TOTAL,7
+Tarija,60303,Villa Montes,2014,12,TOTAL,1
+Cochabamba,31003,Villa Tunari,2014,12,TOTAL,2

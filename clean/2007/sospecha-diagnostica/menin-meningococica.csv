@@ -1,0 +1,55 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70706,Camiri,2007,1,< de 1 ano,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,1,< de 1 ano,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,6,< de 1 ano,0
+Oruro,40101,Oruro,2007,7,< de 1 ano,0
+Oruro,40101,Oruro,2007,8,< de 1 ano,1
+Potosí,51101,Puna,2007,8,< de 1 ano,1
+Pando,90101,Cobija,2007,9,< de 1 ano,0
+Oruro,40101,Oruro,2007,11,< de 1 ano,0
+Chuquisaca,10101,Sucre,2007,12,< de 1 ano,1
+Santa Cruz,70706,Camiri,2007,1,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,1,1 a 4 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,6,1 a 4 anos,0
+Oruro,40101,Oruro,2007,7,1 a 4 anos,1
+Oruro,40101,Oruro,2007,8,1 a 4 anos,0
+Potosí,51101,Puna,2007,8,1 a 4 anos,0
+Pando,90101,Cobija,2007,9,1 a 4 anos,0
+Oruro,40101,Oruro,2007,11,1 a 4 anos,0
+Chuquisaca,10101,Sucre,2007,12,1 a 4 anos,0
+Santa Cruz,70706,Camiri,2007,1,5 a 14 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,1,5 a 14 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,6,5 a 14 anos,0
+Oruro,40101,Oruro,2007,7,5 a 14 anos,0
+Oruro,40101,Oruro,2007,8,5 a 14 anos,0
+Potosí,51101,Puna,2007,8,5 a 14 anos,0
+Pando,90101,Cobija,2007,9,5 a 14 anos,0
+Oruro,40101,Oruro,2007,11,5 a 14 anos,0
+Chuquisaca,10101,Sucre,2007,12,5 a 14 anos,0
+Santa Cruz,70706,Camiri,2007,1,15 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,1,15 a 59 anos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,6,15 a 59 anos,2
+Oruro,40101,Oruro,2007,7,15 a 59 anos,0
+Oruro,40101,Oruro,2007,8,15 a 59 anos,0
+Potosí,51101,Puna,2007,8,15 a 59 anos,0
+Pando,90101,Cobija,2007,9,15 a 59 anos,1
+Oruro,40101,Oruro,2007,11,15 a 59 anos,1
+Chuquisaca,10101,Sucre,2007,12,15 a 59 anos,0
+Santa Cruz,70706,Camiri,2007,1,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,1,60 y mas,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,6,60 y mas,0
+Oruro,40101,Oruro,2007,7,60 y mas,0
+Oruro,40101,Oruro,2007,8,60 y mas,0
+Potosí,51101,Puna,2007,8,60 y mas,0
+Pando,90101,Cobija,2007,9,60 y mas,0
+Oruro,40101,Oruro,2007,11,60 y mas,0
+Chuquisaca,10101,Sucre,2007,12,60 y mas,0
+Santa Cruz,70706,Camiri,2007,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,6,TOTAL,2
+Oruro,40101,Oruro,2007,7,TOTAL,1
+Oruro,40101,Oruro,2007,8,TOTAL,1
+Potosí,51101,Puna,2007,8,TOTAL,1
+Pando,90101,Cobija,2007,9,TOTAL,1
+Oruro,40101,Oruro,2007,11,TOTAL,1
+Chuquisaca,10101,Sucre,2007,12,TOTAL,1

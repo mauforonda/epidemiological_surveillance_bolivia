@@ -1,0 +1,222 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,30101,Cochabamba,2005,3,< de 1 ano-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,3,< de 1 ano-H,0.0
+Santa Cruz,70802,Trigal,2005,3,< de 1 ano-H,1.0
+Potosí,50801,Tupiza,2005,3,< de 1 ano-H,0.0
+Santa Cruz,71501,Ascencion De Guarayos,2005,4,< de 1 ano-H,0.0
+Santa Cruz,71001,Montero,2005,4,< de 1 ano-H,0.0
+Santa Cruz,71002,General Saavedra,2005,5,< de 1 ano-H,0.0
+Santa Cruz,71005,San Pedro,2005,5,< de 1 ano-H,9.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,< de 1 ano-H,0.0
+Cochabamba,30904,Vinto,2005,7,< de 1 ano-H,0.0
+Potosí,50202,Chayanta,2005,8,< de 1 ano-H,5.0
+Cochabamba,30101,Cochabamba,2005,8,< de 1 ano-H,2.0
+Beni,80702,San Ramon,2005,8,< de 1 ano-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,< de 1 ano-H,0.0
+Santa Cruz,70702,Charagua,2005,11,< de 1 ano-H,1.0
+Santa Cruz,70105,El Torno,2005,12,< de 1 ano-H,6.0
+Potosí,50102,Tinguipaya,2005,12,< de 1 ano-H,3.0
+Cochabamba,30101,Cochabamba,2005,3,< de 1 ano-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,3,< de 1 ano-M,0.0
+Santa Cruz,70802,Trigal,2005,3,< de 1 ano-M,
+Potosí,50801,Tupiza,2005,3,< de 1 ano-M,0.0
+Santa Cruz,71501,Ascencion De Guarayos,2005,4,< de 1 ano-M,0.0
+Santa Cruz,71001,Montero,2005,4,< de 1 ano-M,0.0
+Santa Cruz,71002,General Saavedra,2005,5,< de 1 ano-M,0.0
+Santa Cruz,71005,San Pedro,2005,5,< de 1 ano-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,< de 1 ano-M,0.0
+Cochabamba,30904,Vinto,2005,7,< de 1 ano-M,0.0
+Potosí,50202,Chayanta,2005,8,< de 1 ano-M,0.0
+Cochabamba,30101,Cochabamba,2005,8,< de 1 ano-M,
+Beni,80702,San Ramon,2005,8,< de 1 ano-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,< de 1 ano-M,0.0
+Santa Cruz,70702,Charagua,2005,11,< de 1 ano-M,0.0
+Santa Cruz,70105,El Torno,2005,12,< de 1 ano-M,0.0
+Potosí,50102,Tinguipaya,2005,12,< de 1 ano-M,0.0
+Cochabamba,30101,Cochabamba,2005,3,1 a 4 anos-H,1.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,3,1 a 4 anos-H,1.0
+Santa Cruz,70802,Trigal,2005,3,1 a 4 anos-H,0.0
+Potosí,50801,Tupiza,2005,3,1 a 4 anos-H,1.0
+Santa Cruz,71501,Ascencion De Guarayos,2005,4,1 a 4 anos-H,1.0
+Santa Cruz,71001,Montero,2005,4,1 a 4 anos-H,1.0
+Santa Cruz,71002,General Saavedra,2005,5,1 a 4 anos-H,2.0
+Santa Cruz,71005,San Pedro,2005,5,1 a 4 anos-H,3.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,1 a 4 anos-H,1.0
+Cochabamba,30904,Vinto,2005,7,1 a 4 anos-H,1.0
+Potosí,50202,Chayanta,2005,8,1 a 4 anos-H,4.0
+Cochabamba,30101,Cochabamba,2005,8,1 a 4 anos-H,0.0
+Beni,80702,San Ramon,2005,8,1 a 4 anos-H,1.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,1 a 4 anos-H,2.0
+Santa Cruz,70702,Charagua,2005,11,1 a 4 anos-H,2.0
+Santa Cruz,70105,El Torno,2005,12,1 a 4 anos-H,11.0
+Potosí,50102,Tinguipaya,2005,12,1 a 4 anos-H,1.0
+Cochabamba,30101,Cochabamba,2005,3,1 a 4 anos-M,
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,3,1 a 4 anos-M,
+Santa Cruz,70802,Trigal,2005,3,1 a 4 anos-M,0.0
+Potosí,50801,Tupiza,2005,3,1 a 4 anos-M,
+Santa Cruz,71501,Ascencion De Guarayos,2005,4,1 a 4 anos-M,
+Santa Cruz,71001,Montero,2005,4,1 a 4 anos-M,
+Santa Cruz,71002,General Saavedra,2005,5,1 a 4 anos-M,
+Santa Cruz,71005,San Pedro,2005,5,1 a 4 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,1 a 4 anos-M,
+Cochabamba,30904,Vinto,2005,7,1 a 4 anos-M,
+Potosí,50202,Chayanta,2005,8,1 a 4 anos-M,0.0
+Cochabamba,30101,Cochabamba,2005,8,1 a 4 anos-M,0.0
+Beni,80702,San Ramon,2005,8,1 a 4 anos-M,
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,1 a 4 anos-M,
+Santa Cruz,70702,Charagua,2005,11,1 a 4 anos-M,0.0
+Santa Cruz,70105,El Torno,2005,12,1 a 4 anos-M,0.0
+Potosí,50102,Tinguipaya,2005,12,1 a 4 anos-M,0.0
+Cochabamba,30101,Cochabamba,2005,3,5 a 14 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,3,5 a 14 anos-H,0.0
+Santa Cruz,70802,Trigal,2005,3,5 a 14 anos-H,0.0
+Potosí,50801,Tupiza,2005,3,5 a 14 anos-H,0.0
+Santa Cruz,71501,Ascencion De Guarayos,2005,4,5 a 14 anos-H,0.0
+Santa Cruz,71001,Montero,2005,4,5 a 14 anos-H,0.0
+Santa Cruz,71002,General Saavedra,2005,5,5 a 14 anos-H,0.0
+Santa Cruz,71005,San Pedro,2005,5,5 a 14 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,5 a 14 anos-H,0.0
+Cochabamba,30904,Vinto,2005,7,5 a 14 anos-H,0.0
+Potosí,50202,Chayanta,2005,8,5 a 14 anos-H,0.0
+Cochabamba,30101,Cochabamba,2005,8,5 a 14 anos-H,0.0
+Beni,80702,San Ramon,2005,8,5 a 14 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,5 a 14 anos-H,0.0
+Santa Cruz,70702,Charagua,2005,11,5 a 14 anos-H,0.0
+Santa Cruz,70105,El Torno,2005,12,5 a 14 anos-H,0.0
+Potosí,50102,Tinguipaya,2005,12,5 a 14 anos-H,0.0
+Cochabamba,30101,Cochabamba,2005,3,5 a 14 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,3,5 a 14 anos-M,0.0
+Santa Cruz,70802,Trigal,2005,3,5 a 14 anos-M,0.0
+Potosí,50801,Tupiza,2005,3,5 a 14 anos-M,0.0
+Santa Cruz,71501,Ascencion De Guarayos,2005,4,5 a 14 anos-M,0.0
+Santa Cruz,71001,Montero,2005,4,5 a 14 anos-M,0.0
+Santa Cruz,71002,General Saavedra,2005,5,5 a 14 anos-M,0.0
+Santa Cruz,71005,San Pedro,2005,5,5 a 14 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,5 a 14 anos-M,0.0
+Cochabamba,30904,Vinto,2005,7,5 a 14 anos-M,0.0
+Potosí,50202,Chayanta,2005,8,5 a 14 anos-M,0.0
+Cochabamba,30101,Cochabamba,2005,8,5 a 14 anos-M,0.0
+Beni,80702,San Ramon,2005,8,5 a 14 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,5 a 14 anos-M,0.0
+Santa Cruz,70702,Charagua,2005,11,5 a 14 anos-M,0.0
+Santa Cruz,70105,El Torno,2005,12,5 a 14 anos-M,0.0
+Potosí,50102,Tinguipaya,2005,12,5 a 14 anos-M,0.0
+Cochabamba,30101,Cochabamba,2005,3,15 a 59 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,3,15 a 59 anos-H,0.0
+Santa Cruz,70802,Trigal,2005,3,15 a 59 anos-H,0.0
+Potosí,50801,Tupiza,2005,3,15 a 59 anos-H,0.0
+Santa Cruz,71501,Ascencion De Guarayos,2005,4,15 a 59 anos-H,0.0
+Santa Cruz,71001,Montero,2005,4,15 a 59 anos-H,0.0
+Santa Cruz,71002,General Saavedra,2005,5,15 a 59 anos-H,0.0
+Santa Cruz,71005,San Pedro,2005,5,15 a 59 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,15 a 59 anos-H,0.0
+Cochabamba,30904,Vinto,2005,7,15 a 59 anos-H,0.0
+Potosí,50202,Chayanta,2005,8,15 a 59 anos-H,0.0
+Cochabamba,30101,Cochabamba,2005,8,15 a 59 anos-H,0.0
+Beni,80702,San Ramon,2005,8,15 a 59 anos-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,15 a 59 anos-H,0.0
+Santa Cruz,70702,Charagua,2005,11,15 a 59 anos-H,0.0
+Santa Cruz,70105,El Torno,2005,12,15 a 59 anos-H,0.0
+Potosí,50102,Tinguipaya,2005,12,15 a 59 anos-H,0.0
+Cochabamba,30101,Cochabamba,2005,3,15 a 59 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,3,15 a 59 anos-M,0.0
+Santa Cruz,70802,Trigal,2005,3,15 a 59 anos-M,0.0
+Potosí,50801,Tupiza,2005,3,15 a 59 anos-M,0.0
+Santa Cruz,71501,Ascencion De Guarayos,2005,4,15 a 59 anos-M,0.0
+Santa Cruz,71001,Montero,2005,4,15 a 59 anos-M,0.0
+Santa Cruz,71002,General Saavedra,2005,5,15 a 59 anos-M,0.0
+Santa Cruz,71005,San Pedro,2005,5,15 a 59 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,15 a 59 anos-M,0.0
+Cochabamba,30904,Vinto,2005,7,15 a 59 anos-M,0.0
+Potosí,50202,Chayanta,2005,8,15 a 59 anos-M,0.0
+Cochabamba,30101,Cochabamba,2005,8,15 a 59 anos-M,0.0
+Beni,80702,San Ramon,2005,8,15 a 59 anos-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,15 a 59 anos-M,0.0
+Santa Cruz,70702,Charagua,2005,11,15 a 59 anos-M,0.0
+Santa Cruz,70105,El Torno,2005,12,15 a 59 anos-M,0.0
+Potosí,50102,Tinguipaya,2005,12,15 a 59 anos-M,0.0
+Cochabamba,30101,Cochabamba,2005,3,60 y mas-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,3,60 y mas-H,0.0
+Santa Cruz,70802,Trigal,2005,3,60 y mas-H,0.0
+Potosí,50801,Tupiza,2005,3,60 y mas-H,0.0
+Santa Cruz,71501,Ascencion De Guarayos,2005,4,60 y mas-H,0.0
+Santa Cruz,71001,Montero,2005,4,60 y mas-H,0.0
+Santa Cruz,71002,General Saavedra,2005,5,60 y mas-H,0.0
+Santa Cruz,71005,San Pedro,2005,5,60 y mas-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,60 y mas-H,0.0
+Cochabamba,30904,Vinto,2005,7,60 y mas-H,0.0
+Potosí,50202,Chayanta,2005,8,60 y mas-H,0.0
+Cochabamba,30101,Cochabamba,2005,8,60 y mas-H,0.0
+Beni,80702,San Ramon,2005,8,60 y mas-H,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,60 y mas-H,0.0
+Santa Cruz,70702,Charagua,2005,11,60 y mas-H,0.0
+Santa Cruz,70105,El Torno,2005,12,60 y mas-H,0.0
+Potosí,50102,Tinguipaya,2005,12,60 y mas-H,0.0
+Cochabamba,30101,Cochabamba,2005,3,60 y mas-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,3,60 y mas-M,0.0
+Santa Cruz,70802,Trigal,2005,3,60 y mas-M,0.0
+Potosí,50801,Tupiza,2005,3,60 y mas-M,0.0
+Santa Cruz,71501,Ascencion De Guarayos,2005,4,60 y mas-M,0.0
+Santa Cruz,71001,Montero,2005,4,60 y mas-M,0.0
+Santa Cruz,71002,General Saavedra,2005,5,60 y mas-M,0.0
+Santa Cruz,71005,San Pedro,2005,5,60 y mas-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,60 y mas-M,0.0
+Cochabamba,30904,Vinto,2005,7,60 y mas-M,0.0
+Potosí,50202,Chayanta,2005,8,60 y mas-M,0.0
+Cochabamba,30101,Cochabamba,2005,8,60 y mas-M,0.0
+Beni,80702,San Ramon,2005,8,60 y mas-M,0.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,60 y mas-M,0.0
+Santa Cruz,70702,Charagua,2005,11,60 y mas-M,0.0
+Santa Cruz,70105,El Torno,2005,12,60 y mas-M,0.0
+Potosí,50102,Tinguipaya,2005,12,60 y mas-M,0.0
+Cochabamba,30101,Cochabamba,2005,3,TOTAL-H,1.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,3,TOTAL-H,1.0
+Santa Cruz,70802,Trigal,2005,3,TOTAL-H,1.0
+Potosí,50801,Tupiza,2005,3,TOTAL-H,1.0
+Santa Cruz,71501,Ascencion De Guarayos,2005,4,TOTAL-H,1.0
+Santa Cruz,71001,Montero,2005,4,TOTAL-H,1.0
+Santa Cruz,71002,General Saavedra,2005,5,TOTAL-H,2.0
+Santa Cruz,71005,San Pedro,2005,5,TOTAL-H,12.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,TOTAL-H,1.0
+Cochabamba,30904,Vinto,2005,7,TOTAL-H,1.0
+Potosí,50202,Chayanta,2005,8,TOTAL-H,9.0
+Cochabamba,30101,Cochabamba,2005,8,TOTAL-H,2.0
+Beni,80702,San Ramon,2005,8,TOTAL-H,1.0
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,TOTAL-H,2.0
+Santa Cruz,70702,Charagua,2005,11,TOTAL-H,3.0
+Santa Cruz,70105,El Torno,2005,12,TOTAL-H,17.0
+Potosí,50102,Tinguipaya,2005,12,TOTAL-H,4.0
+Cochabamba,30101,Cochabamba,2005,3,TOTAL-M,
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,3,TOTAL-M,
+Santa Cruz,70802,Trigal,2005,3,TOTAL-M,
+Potosí,50801,Tupiza,2005,3,TOTAL-M,
+Santa Cruz,71501,Ascencion De Guarayos,2005,4,TOTAL-M,
+Santa Cruz,71001,Montero,2005,4,TOTAL-M,
+Santa Cruz,71002,General Saavedra,2005,5,TOTAL-M,
+Santa Cruz,71005,San Pedro,2005,5,TOTAL-M,
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,TOTAL-M,
+Cochabamba,30904,Vinto,2005,7,TOTAL-M,
+Potosí,50202,Chayanta,2005,8,TOTAL-M,
+Cochabamba,30101,Cochabamba,2005,8,TOTAL-M,
+Beni,80702,San Ramon,2005,8,TOTAL-M,
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,TOTAL-M,
+Santa Cruz,70702,Charagua,2005,11,TOTAL-M,
+Santa Cruz,70105,El Torno,2005,12,TOTAL-M,
+Potosí,50102,Tinguipaya,2005,12,TOTAL-M,
+Cochabamba,30101,Cochabamba,2005,3,TOTAL,
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,3,TOTAL,
+Santa Cruz,70802,Trigal,2005,3,TOTAL,
+Potosí,50801,Tupiza,2005,3,TOTAL,
+Santa Cruz,71501,Ascencion De Guarayos,2005,4,TOTAL,
+Santa Cruz,71001,Montero,2005,4,TOTAL,
+Santa Cruz,71002,General Saavedra,2005,5,TOTAL,
+Santa Cruz,71005,San Pedro,2005,5,TOTAL,
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,TOTAL,
+Cochabamba,30904,Vinto,2005,7,TOTAL,
+Potosí,50202,Chayanta,2005,8,TOTAL,
+Cochabamba,30101,Cochabamba,2005,8,TOTAL,
+Beni,80702,San Ramon,2005,8,TOTAL,
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,TOTAL,
+Santa Cruz,70702,Charagua,2005,11,TOTAL,
+Santa Cruz,70105,El Torno,2005,12,TOTAL,
+Potosí,50102,Tinguipaya,2005,12,TOTAL,

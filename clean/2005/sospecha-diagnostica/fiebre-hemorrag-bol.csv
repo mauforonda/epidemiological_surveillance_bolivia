@@ -1,0 +1,13 @@
+department,municipality_id,municipality,year,month,population,value
+Beni,80803,Huaracaje,2005,5,< de 1 ano,0
+Beni,80702,San Ramon,2005,5,< de 1 ano,0
+Beni,80803,Huaracaje,2005,5,1 a 4 anos,0
+Beni,80702,San Ramon,2005,5,1 a 4 anos,0
+Beni,80803,Huaracaje,2005,5,5 a 14 anos,1
+Beni,80702,San Ramon,2005,5,5 a 14 anos,0
+Beni,80803,Huaracaje,2005,5,15 a 59 anos,0
+Beni,80702,San Ramon,2005,5,15 a 59 anos,3
+Beni,80803,Huaracaje,2005,5,60 y mas,0
+Beni,80702,San Ramon,2005,5,60 y mas,0
+Beni,80803,Huaracaje,2005,5,TOTAL,1
+Beni,80702,San Ramon,2005,5,TOTAL,3

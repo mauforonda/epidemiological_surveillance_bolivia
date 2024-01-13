@@ -1,0 +1,29 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,71401,Puerto Suarez,2012,1,Nro.,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,Nro.,0
+Santa Cruz,70701,Lagunillas,2012,9,Nro.,2
+Beni,80401,Santa Ana,2012,9,Nro.,1
+La Paz,21005,Ichoca,2012,12,Nro.,1
+Chuquisaca,10702,San Lucas,2012,12,Nro.,1
+La Paz,21301,Sica Sica (villa Aroma),2012,12,Nro.,2
+Santa Cruz,71401,Puerto Suarez,2012,1,Nro. Afectados,12
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,Nro. Afectados,0
+Santa Cruz,70701,Lagunillas,2012,9,Nro. Afectados,1180
+Beni,80401,Santa Ana,2012,9,Nro. Afectados,0
+La Paz,21005,Ichoca,2012,12,Nro. Afectados,2
+Chuquisaca,10702,San Lucas,2012,12,Nro. Afectados,5
+La Paz,21301,Sica Sica (villa Aroma),2012,12,Nro. Afectados,1
+Santa Cruz,71401,Puerto Suarez,2012,1,Nro. Fallecidos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,Nro. Fallecidos,0
+Santa Cruz,70701,Lagunillas,2012,9,Nro. Fallecidos,0
+Beni,80401,Santa Ana,2012,9,Nro. Fallecidos,0
+La Paz,21005,Ichoca,2012,12,Nro. Fallecidos,2
+Chuquisaca,10702,San Lucas,2012,12,Nro. Fallecidos,3
+La Paz,21301,Sica Sica (villa Aroma),2012,12,Nro. Fallecidos,1
+Santa Cruz,71401,Puerto Suarez,2012,1,TOTAL,12
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,TOTAL,0
+Santa Cruz,70701,Lagunillas,2012,9,TOTAL,1182
+Beni,80401,Santa Ana,2012,9,TOTAL,1
+La Paz,21005,Ichoca,2012,12,TOTAL,5
+Chuquisaca,10702,San Lucas,2012,12,TOTAL,9
+La Paz,21301,Sica Sica (villa Aroma),2012,12,TOTAL,4

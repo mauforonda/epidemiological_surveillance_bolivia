@@ -1,0 +1,576 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70105,El Torno,2017,1,a. Menor de 6 meses / MASCULINO,0
+Beni,80202,Guayaramerin,2017,1,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,1,a. Menor de 6 meses / MASCULINO,0
+Tarija,60101,Tarija,2017,1,a. Menor de 6 meses / MASCULINO,0
+Beni,80101,Trinidad,2017,1,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,2,a. Menor de 6 meses / MASCULINO,0
+La Paz,20101,La Paz,2017,2,a. Menor de 6 meses / MASCULINO,0
+Beni,80801,Magdalena,2017,2,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,2,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,3,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,71104,San Julian,2017,3,a. Menor de 6 meses / MASCULINO,0
+Beni,80401,Santa Ana,2017,3,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,3,a. Menor de 6 meses / MASCULINO,1
+Beni,80101,Trinidad,2017,3,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,4,a. Menor de 6 meses / MASCULINO,0
+La Paz,20101,La Paz,2017,4,a. Menor de 6 meses / MASCULINO,0
+Beni,80701,San Joaquin,2017,4,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,4,a. Menor de 6 meses / MASCULINO,0
+Beni,80101,Trinidad,2017,4,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,5,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,6,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,8,a. Menor de 6 meses / MASCULINO,0
+Beni,80201,Riberalta,2017,11,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,11,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,12,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,1,a. Menor de 6 meses / FEMENINO,0
+Beni,80202,Guayaramerin,2017,1,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,1,a. Menor de 6 meses / FEMENINO,0
+Tarija,60101,Tarija,2017,1,a. Menor de 6 meses / FEMENINO,0
+Beni,80101,Trinidad,2017,1,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,2,a. Menor de 6 meses / FEMENINO,0
+La Paz,20101,La Paz,2017,2,a. Menor de 6 meses / FEMENINO,0
+Beni,80801,Magdalena,2017,2,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,2,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,3,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,71104,San Julian,2017,3,a. Menor de 6 meses / FEMENINO,0
+Beni,80401,Santa Ana,2017,3,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,3,a. Menor de 6 meses / FEMENINO,0
+Beni,80101,Trinidad,2017,3,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,4,a. Menor de 6 meses / FEMENINO,0
+La Paz,20101,La Paz,2017,4,a. Menor de 6 meses / FEMENINO,0
+Beni,80701,San Joaquin,2017,4,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,4,a. Menor de 6 meses / FEMENINO,1
+Beni,80101,Trinidad,2017,4,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,5,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,6,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,8,a. Menor de 6 meses / FEMENINO,0
+Beni,80201,Riberalta,2017,11,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,11,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,12,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,1,b. 6 meses a menor de 1 ano / MASCULINO,0
+Beni,80202,Guayaramerin,2017,1,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,1,b. 6 meses a menor de 1 ano / MASCULINO,0
+Tarija,60101,Tarija,2017,1,b. 6 meses a menor de 1 ano / MASCULINO,0
+Beni,80101,Trinidad,2017,1,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,2,b. 6 meses a menor de 1 ano / MASCULINO,0
+La Paz,20101,La Paz,2017,2,b. 6 meses a menor de 1 ano / MASCULINO,0
+Beni,80801,Magdalena,2017,2,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,2,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,3,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,71104,San Julian,2017,3,b. 6 meses a menor de 1 ano / MASCULINO,0
+Beni,80401,Santa Ana,2017,3,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,3,b. 6 meses a menor de 1 ano / MASCULINO,0
+Beni,80101,Trinidad,2017,3,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,4,b. 6 meses a menor de 1 ano / MASCULINO,0
+La Paz,20101,La Paz,2017,4,b. 6 meses a menor de 1 ano / MASCULINO,0
+Beni,80701,San Joaquin,2017,4,b. 6 meses a menor de 1 ano / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,4,b. 6 meses a menor de 1 ano / MASCULINO,0
+Beni,80101,Trinidad,2017,4,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,5,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,6,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,8,b. 6 meses a menor de 1 ano / MASCULINO,0
+Beni,80201,Riberalta,2017,11,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,11,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,12,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,1,b. 6 meses a menor de 1 ano / FEMENINO,0
+Beni,80202,Guayaramerin,2017,1,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,1,b. 6 meses a menor de 1 ano / FEMENINO,0
+Tarija,60101,Tarija,2017,1,b. 6 meses a menor de 1 ano / FEMENINO,0
+Beni,80101,Trinidad,2017,1,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,2,b. 6 meses a menor de 1 ano / FEMENINO,0
+La Paz,20101,La Paz,2017,2,b. 6 meses a menor de 1 ano / FEMENINO,0
+Beni,80801,Magdalena,2017,2,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,2,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,3,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,71104,San Julian,2017,3,b. 6 meses a menor de 1 ano / FEMENINO,0
+Beni,80401,Santa Ana,2017,3,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,3,b. 6 meses a menor de 1 ano / FEMENINO,0
+Beni,80101,Trinidad,2017,3,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,4,b. 6 meses a menor de 1 ano / FEMENINO,0
+La Paz,20101,La Paz,2017,4,b. 6 meses a menor de 1 ano / FEMENINO,0
+Beni,80701,San Joaquin,2017,4,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,4,b. 6 meses a menor de 1 ano / FEMENINO,0
+Beni,80101,Trinidad,2017,4,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,5,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,6,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,8,b. 6 meses a menor de 1 ano / FEMENINO,0
+Beni,80201,Riberalta,2017,11,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,11,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,12,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,1,c. 1 - 4 anos / MASCULINO,0
+Beni,80202,Guayaramerin,2017,1,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,1,c. 1 - 4 anos / MASCULINO,0
+Tarija,60101,Tarija,2017,1,c. 1 - 4 anos / MASCULINO,0
+Beni,80101,Trinidad,2017,1,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,2,c. 1 - 4 anos / MASCULINO,0
+La Paz,20101,La Paz,2017,2,c. 1 - 4 anos / MASCULINO,0
+Beni,80801,Magdalena,2017,2,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,2,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,3,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,71104,San Julian,2017,3,c. 1 - 4 anos / MASCULINO,0
+Beni,80401,Santa Ana,2017,3,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,3,c. 1 - 4 anos / MASCULINO,0
+Beni,80101,Trinidad,2017,3,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,4,c. 1 - 4 anos / MASCULINO,0
+La Paz,20101,La Paz,2017,4,c. 1 - 4 anos / MASCULINO,0
+Beni,80701,San Joaquin,2017,4,c. 1 - 4 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,4,c. 1 - 4 anos / MASCULINO,0
+Beni,80101,Trinidad,2017,4,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,5,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,6,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,8,c. 1 - 4 anos / MASCULINO,0
+Beni,80201,Riberalta,2017,11,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,11,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,12,c. 1 - 4 anos / MASCULINO,1
+Santa Cruz,70105,El Torno,2017,1,c. 1 - 4 anos / FEMENINO,0
+Beni,80202,Guayaramerin,2017,1,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,1,c. 1 - 4 anos / FEMENINO,0
+Tarija,60101,Tarija,2017,1,c. 1 - 4 anos / FEMENINO,0
+Beni,80101,Trinidad,2017,1,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,2,c. 1 - 4 anos / FEMENINO,0
+La Paz,20101,La Paz,2017,2,c. 1 - 4 anos / FEMENINO,0
+Beni,80801,Magdalena,2017,2,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,2,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,3,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,71104,San Julian,2017,3,c. 1 - 4 anos / FEMENINO,0
+Beni,80401,Santa Ana,2017,3,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,3,c. 1 - 4 anos / FEMENINO,1
+Beni,80101,Trinidad,2017,3,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,4,c. 1 - 4 anos / FEMENINO,0
+La Paz,20101,La Paz,2017,4,c. 1 - 4 anos / FEMENINO,0
+Beni,80701,San Joaquin,2017,4,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,4,c. 1 - 4 anos / FEMENINO,0
+Beni,80101,Trinidad,2017,4,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,5,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,6,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,8,c. 1 - 4 anos / FEMENINO,0
+Beni,80201,Riberalta,2017,11,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,11,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,12,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,1,d. 5 - 9 anos / MASCULINO,0
+Beni,80202,Guayaramerin,2017,1,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,1,d. 5 - 9 anos / MASCULINO,0
+Tarija,60101,Tarija,2017,1,d. 5 - 9 anos / MASCULINO,0
+Beni,80101,Trinidad,2017,1,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,2,d. 5 - 9 anos / MASCULINO,0
+La Paz,20101,La Paz,2017,2,d. 5 - 9 anos / MASCULINO,0
+Beni,80801,Magdalena,2017,2,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,2,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,3,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,71104,San Julian,2017,3,d. 5 - 9 anos / MASCULINO,0
+Beni,80401,Santa Ana,2017,3,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,3,d. 5 - 9 anos / MASCULINO,0
+Beni,80101,Trinidad,2017,3,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,4,d. 5 - 9 anos / MASCULINO,0
+La Paz,20101,La Paz,2017,4,d. 5 - 9 anos / MASCULINO,0
+Beni,80701,San Joaquin,2017,4,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,4,d. 5 - 9 anos / MASCULINO,0
+Beni,80101,Trinidad,2017,4,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,5,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,6,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,8,d. 5 - 9 anos / MASCULINO,0
+Beni,80201,Riberalta,2017,11,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,11,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,12,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,1,d. 5 - 9 anos / FEMENINO,0
+Beni,80202,Guayaramerin,2017,1,d. 5 - 9 anos / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,1,d. 5 - 9 anos / FEMENINO,0
+Tarija,60101,Tarija,2017,1,d. 5 - 9 anos / FEMENINO,0
+Beni,80101,Trinidad,2017,1,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,2,d. 5 - 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2017,2,d. 5 - 9 anos / FEMENINO,0
+Beni,80801,Magdalena,2017,2,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,2,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,3,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,71104,San Julian,2017,3,d. 5 - 9 anos / FEMENINO,0
+Beni,80401,Santa Ana,2017,3,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,3,d. 5 - 9 anos / FEMENINO,0
+Beni,80101,Trinidad,2017,3,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,4,d. 5 - 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2017,4,d. 5 - 9 anos / FEMENINO,0
+Beni,80701,San Joaquin,2017,4,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,4,d. 5 - 9 anos / FEMENINO,0
+Beni,80101,Trinidad,2017,4,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,5,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,6,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,8,d. 5 - 9 anos / FEMENINO,0
+Beni,80201,Riberalta,2017,11,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,11,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,12,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,1,e. 10 - 14 anos / MASCULINO,0
+Beni,80202,Guayaramerin,2017,1,e. 10 - 14 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,1,e. 10 - 14 anos / MASCULINO,0
+Tarija,60101,Tarija,2017,1,e. 10 - 14 anos / MASCULINO,0
+Beni,80101,Trinidad,2017,1,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,2,e. 10 - 14 anos / MASCULINO,0
+La Paz,20101,La Paz,2017,2,e. 10 - 14 anos / MASCULINO,0
+Beni,80801,Magdalena,2017,2,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,2,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,3,e. 10 - 14 anos / MASCULINO,1
+Santa Cruz,71104,San Julian,2017,3,e. 10 - 14 anos / MASCULINO,0
+Beni,80401,Santa Ana,2017,3,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,3,e. 10 - 14 anos / MASCULINO,0
+Beni,80101,Trinidad,2017,3,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,4,e. 10 - 14 anos / MASCULINO,0
+La Paz,20101,La Paz,2017,4,e. 10 - 14 anos / MASCULINO,0
+Beni,80701,San Joaquin,2017,4,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,4,e. 10 - 14 anos / MASCULINO,0
+Beni,80101,Trinidad,2017,4,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,5,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,6,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,8,e. 10 - 14 anos / MASCULINO,0
+Beni,80201,Riberalta,2017,11,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,11,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,12,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,1,e. 10 - 14 anos / FEMENINO,0
+Beni,80202,Guayaramerin,2017,1,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,1,e. 10 - 14 anos / FEMENINO,0
+Tarija,60101,Tarija,2017,1,e. 10 - 14 anos / FEMENINO,0
+Beni,80101,Trinidad,2017,1,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,2,e. 10 - 14 anos / FEMENINO,0
+La Paz,20101,La Paz,2017,2,e. 10 - 14 anos / FEMENINO,0
+Beni,80801,Magdalena,2017,2,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,2,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,3,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,71104,San Julian,2017,3,e. 10 - 14 anos / FEMENINO,0
+Beni,80401,Santa Ana,2017,3,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,3,e. 10 - 14 anos / FEMENINO,0
+Beni,80101,Trinidad,2017,3,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,4,e. 10 - 14 anos / FEMENINO,0
+La Paz,20101,La Paz,2017,4,e. 10 - 14 anos / FEMENINO,0
+Beni,80701,San Joaquin,2017,4,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,4,e. 10 - 14 anos / FEMENINO,0
+Beni,80101,Trinidad,2017,4,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,5,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,6,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,8,e. 10 - 14 anos / FEMENINO,0
+Beni,80201,Riberalta,2017,11,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,11,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,12,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,1,f. 15 - 19 anos / MASCULINO,0
+Beni,80202,Guayaramerin,2017,1,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,1,f. 15 - 19 anos / MASCULINO,0
+Tarija,60101,Tarija,2017,1,f. 15 - 19 anos / MASCULINO,0
+Beni,80101,Trinidad,2017,1,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,2,f. 15 - 19 anos / MASCULINO,1
+La Paz,20101,La Paz,2017,2,f. 15 - 19 anos / MASCULINO,0
+Beni,80801,Magdalena,2017,2,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,2,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,3,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,71104,San Julian,2017,3,f. 15 - 19 anos / MASCULINO,0
+Beni,80401,Santa Ana,2017,3,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,3,f. 15 - 19 anos / MASCULINO,0
+Beni,80101,Trinidad,2017,3,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,4,f. 15 - 19 anos / MASCULINO,0
+La Paz,20101,La Paz,2017,4,f. 15 - 19 anos / MASCULINO,0
+Beni,80701,San Joaquin,2017,4,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,4,f. 15 - 19 anos / MASCULINO,0
+Beni,80101,Trinidad,2017,4,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,5,f. 15 - 19 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,6,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,8,f. 15 - 19 anos / MASCULINO,0
+Beni,80201,Riberalta,2017,11,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,11,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,12,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,1,f. 15 - 19 anos / FEMENINO,0
+Beni,80202,Guayaramerin,2017,1,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,1,f. 15 - 19 anos / FEMENINO,1
+Tarija,60101,Tarija,2017,1,f. 15 - 19 anos / FEMENINO,1
+Beni,80101,Trinidad,2017,1,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,2,f. 15 - 19 anos / FEMENINO,0
+La Paz,20101,La Paz,2017,2,f. 15 - 19 anos / FEMENINO,0
+Beni,80801,Magdalena,2017,2,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,2,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,3,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,71104,San Julian,2017,3,f. 15 - 19 anos / FEMENINO,0
+Beni,80401,Santa Ana,2017,3,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,3,f. 15 - 19 anos / FEMENINO,1
+Beni,80101,Trinidad,2017,3,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,4,f. 15 - 19 anos / FEMENINO,0
+La Paz,20101,La Paz,2017,4,f. 15 - 19 anos / FEMENINO,0
+Beni,80701,San Joaquin,2017,4,f. 15 - 19 anos / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,4,f. 15 - 19 anos / FEMENINO,0
+Beni,80101,Trinidad,2017,4,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,5,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,6,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,8,f. 15 - 19 anos / FEMENINO,0
+Beni,80201,Riberalta,2017,11,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,11,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,12,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,1,g. 20 - 39 anos / MASCULINO,1
+Beni,80202,Guayaramerin,2017,1,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,1,g. 20 - 39 anos / MASCULINO,0
+Tarija,60101,Tarija,2017,1,g. 20 - 39 anos / MASCULINO,0
+Beni,80101,Trinidad,2017,1,g. 20 - 39 anos / MASCULINO,1
+Santa Cruz,70105,El Torno,2017,2,g. 20 - 39 anos / MASCULINO,0
+La Paz,20101,La Paz,2017,2,g. 20 - 39 anos / MASCULINO,1
+Beni,80801,Magdalena,2017,2,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,2,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,3,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,71104,San Julian,2017,3,g. 20 - 39 anos / MASCULINO,0
+Beni,80401,Santa Ana,2017,3,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,3,g. 20 - 39 anos / MASCULINO,1
+Beni,80101,Trinidad,2017,3,g. 20 - 39 anos / MASCULINO,1
+Santa Cruz,70105,El Torno,2017,4,g. 20 - 39 anos / MASCULINO,1
+La Paz,20101,La Paz,2017,4,g. 20 - 39 anos / MASCULINO,0
+Beni,80701,San Joaquin,2017,4,g. 20 - 39 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,4,g. 20 - 39 anos / MASCULINO,1
+Beni,80101,Trinidad,2017,4,g. 20 - 39 anos / MASCULINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,5,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,6,g. 20 - 39 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,8,g. 20 - 39 anos / MASCULINO,0
+Beni,80201,Riberalta,2017,11,g. 20 - 39 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,11,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,12,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,1,g. 20 - 39 anos / FEMENINO,0
+Beni,80202,Guayaramerin,2017,1,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,1,g. 20 - 39 anos / FEMENINO,0
+Tarija,60101,Tarija,2017,1,g. 20 - 39 anos / FEMENINO,0
+Beni,80101,Trinidad,2017,1,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,2,g. 20 - 39 anos / FEMENINO,1
+La Paz,20101,La Paz,2017,2,g. 20 - 39 anos / FEMENINO,0
+Beni,80801,Magdalena,2017,2,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,2,g. 20 - 39 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2017,3,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,71104,San Julian,2017,3,g. 20 - 39 anos / FEMENINO,0
+Beni,80401,Santa Ana,2017,3,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,3,g. 20 - 39 anos / FEMENINO,3
+Beni,80101,Trinidad,2017,3,g. 20 - 39 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2017,4,g. 20 - 39 anos / FEMENINO,0
+La Paz,20101,La Paz,2017,4,g. 20 - 39 anos / FEMENINO,1
+Beni,80701,San Joaquin,2017,4,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,4,g. 20 - 39 anos / FEMENINO,7
+Beni,80101,Trinidad,2017,4,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,5,g. 20 - 39 anos / FEMENINO,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,6,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,8,g. 20 - 39 anos / FEMENINO,0
+Beni,80201,Riberalta,2017,11,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,11,g. 20 - 39 anos / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,12,g. 20 - 39 anos / FEMENINO,2
+Santa Cruz,70105,El Torno,2017,1,h. 40 - 49 anos / MASCULINO,0
+Beni,80202,Guayaramerin,2017,1,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,1,h. 40 - 49 anos / MASCULINO,0
+Tarija,60101,Tarija,2017,1,h. 40 - 49 anos / MASCULINO,0
+Beni,80101,Trinidad,2017,1,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,2,h. 40 - 49 anos / MASCULINO,0
+La Paz,20101,La Paz,2017,2,h. 40 - 49 anos / MASCULINO,0
+Beni,80801,Magdalena,2017,2,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,2,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,3,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,71104,San Julian,2017,3,h. 40 - 49 anos / MASCULINO,0
+Beni,80401,Santa Ana,2017,3,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,3,h. 40 - 49 anos / MASCULINO,0
+Beni,80101,Trinidad,2017,3,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,4,h. 40 - 49 anos / MASCULINO,0
+La Paz,20101,La Paz,2017,4,h. 40 - 49 anos / MASCULINO,0
+Beni,80701,San Joaquin,2017,4,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,4,h. 40 - 49 anos / MASCULINO,0
+Beni,80101,Trinidad,2017,4,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,5,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,6,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,8,h. 40 - 49 anos / MASCULINO,0
+Beni,80201,Riberalta,2017,11,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,11,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,12,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,1,h. 40 - 49 anos / FEMENINO,0
+Beni,80202,Guayaramerin,2017,1,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,1,h. 40 - 49 anos / FEMENINO,0
+Tarija,60101,Tarija,2017,1,h. 40 - 49 anos / FEMENINO,0
+Beni,80101,Trinidad,2017,1,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,2,h. 40 - 49 anos / FEMENINO,0
+La Paz,20101,La Paz,2017,2,h. 40 - 49 anos / FEMENINO,0
+Beni,80801,Magdalena,2017,2,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,2,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,3,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,71104,San Julian,2017,3,h. 40 - 49 anos / FEMENINO,0
+Beni,80401,Santa Ana,2017,3,h. 40 - 49 anos / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,3,h. 40 - 49 anos / FEMENINO,3
+Beni,80101,Trinidad,2017,3,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,4,h. 40 - 49 anos / FEMENINO,0
+La Paz,20101,La Paz,2017,4,h. 40 - 49 anos / FEMENINO,0
+Beni,80701,San Joaquin,2017,4,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,4,h. 40 - 49 anos / FEMENINO,0
+Beni,80101,Trinidad,2017,4,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,5,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,6,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,8,h. 40 - 49 anos / FEMENINO,0
+Beni,80201,Riberalta,2017,11,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,11,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,12,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,1,i. 50 - 59 anos / MASCULINO,0
+Beni,80202,Guayaramerin,2017,1,i. 50 - 59 anos / MASCULINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,1,i. 50 - 59 anos / MASCULINO,1
+Tarija,60101,Tarija,2017,1,i. 50 - 59 anos / MASCULINO,0
+Beni,80101,Trinidad,2017,1,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,2,i. 50 - 59 anos / MASCULINO,0
+La Paz,20101,La Paz,2017,2,i. 50 - 59 anos / MASCULINO,0
+Beni,80801,Magdalena,2017,2,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,2,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,3,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,71104,San Julian,2017,3,i. 50 - 59 anos / MASCULINO,0
+Beni,80401,Santa Ana,2017,3,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,3,i. 50 - 59 anos / MASCULINO,0
+Beni,80101,Trinidad,2017,3,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,4,i. 50 - 59 anos / MASCULINO,0
+La Paz,20101,La Paz,2017,4,i. 50 - 59 anos / MASCULINO,0
+Beni,80701,San Joaquin,2017,4,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,4,i. 50 - 59 anos / MASCULINO,0
+Beni,80101,Trinidad,2017,4,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,5,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,6,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,8,i. 50 - 59 anos / MASCULINO,0
+Beni,80201,Riberalta,2017,11,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,11,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,12,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,1,i. 50 - 59 anos / FEMENINO,0
+Beni,80202,Guayaramerin,2017,1,i. 50 - 59 anos / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,1,i. 50 - 59 anos / FEMENINO,0
+Tarija,60101,Tarija,2017,1,i. 50 - 59 anos / FEMENINO,0
+Beni,80101,Trinidad,2017,1,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,2,i. 50 - 59 anos / FEMENINO,0
+La Paz,20101,La Paz,2017,2,i. 50 - 59 anos / FEMENINO,1
+Beni,80801,Magdalena,2017,2,i. 50 - 59 anos / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,2,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,3,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,71104,San Julian,2017,3,i. 50 - 59 anos / FEMENINO,0
+Beni,80401,Santa Ana,2017,3,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,3,i. 50 - 59 anos / FEMENINO,1
+Beni,80101,Trinidad,2017,3,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,4,i. 50 - 59 anos / FEMENINO,0
+La Paz,20101,La Paz,2017,4,i. 50 - 59 anos / FEMENINO,0
+Beni,80701,San Joaquin,2017,4,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,4,i. 50 - 59 anos / FEMENINO,1
+Beni,80101,Trinidad,2017,4,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,5,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,6,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,8,i. 50 - 59 anos / FEMENINO,0
+Beni,80201,Riberalta,2017,11,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,11,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,12,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,1,j. 60 anos y mas / MASCULINO,0
+Beni,80202,Guayaramerin,2017,1,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,1,j. 60 anos y mas / MASCULINO,0
+Tarija,60101,Tarija,2017,1,j. 60 anos y mas / MASCULINO,0
+Beni,80101,Trinidad,2017,1,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,2,j. 60 anos y mas / MASCULINO,0
+La Paz,20101,La Paz,2017,2,j. 60 anos y mas / MASCULINO,0
+Beni,80801,Magdalena,2017,2,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,2,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,3,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,71104,San Julian,2017,3,j. 60 anos y mas / MASCULINO,0
+Beni,80401,Santa Ana,2017,3,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,3,j. 60 anos y mas / MASCULINO,0
+Beni,80101,Trinidad,2017,3,j. 60 anos y mas / MASCULINO,1
+Santa Cruz,70105,El Torno,2017,4,j. 60 anos y mas / MASCULINO,0
+La Paz,20101,La Paz,2017,4,j. 60 anos y mas / MASCULINO,0
+Beni,80701,San Joaquin,2017,4,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,4,j. 60 anos y mas / MASCULINO,1
+Beni,80101,Trinidad,2017,4,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,5,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,6,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,8,j. 60 anos y mas / MASCULINO,1
+Beni,80201,Riberalta,2017,11,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,11,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,12,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2017,1,j. 60 anos y mas / FEMENINO,0
+Beni,80202,Guayaramerin,2017,1,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,1,j. 60 anos y mas / FEMENINO,0
+Tarija,60101,Tarija,2017,1,j. 60 anos y mas / FEMENINO,0
+Beni,80101,Trinidad,2017,1,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,2,j. 60 anos y mas / FEMENINO,0
+La Paz,20101,La Paz,2017,2,j. 60 anos y mas / FEMENINO,0
+Beni,80801,Magdalena,2017,2,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,2,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,3,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,71104,San Julian,2017,3,j. 60 anos y mas / FEMENINO,1
+Beni,80401,Santa Ana,2017,3,j. 60 anos y mas / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,3,j. 60 anos y mas / FEMENINO,0
+Beni,80101,Trinidad,2017,3,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,4,j. 60 anos y mas / FEMENINO,0
+La Paz,20101,La Paz,2017,4,j. 60 anos y mas / FEMENINO,0
+Beni,80701,San Joaquin,2017,4,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,4,j. 60 anos y mas / FEMENINO,0
+Beni,80101,Trinidad,2017,4,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,5,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,6,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,8,j. 60 anos y mas / FEMENINO,0
+Beni,80201,Riberalta,2017,11,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,11,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,12,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2017,1,TOTALES / TOTAL-M,1
+Beni,80202,Guayaramerin,2017,1,TOTALES / TOTAL-M,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,1,TOTALES / TOTAL-M,1
+Tarija,60101,Tarija,2017,1,TOTALES / TOTAL-M,0
+Beni,80101,Trinidad,2017,1,TOTALES / TOTAL-M,1
+Santa Cruz,70105,El Torno,2017,2,TOTALES / TOTAL-M,1
+La Paz,20101,La Paz,2017,2,TOTALES / TOTAL-M,1
+Beni,80801,Magdalena,2017,2,TOTALES / TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,2,TOTALES / TOTAL-M,0
+Santa Cruz,70105,El Torno,2017,3,TOTALES / TOTAL-M,1
+Santa Cruz,71104,San Julian,2017,3,TOTALES / TOTAL-M,0
+Beni,80401,Santa Ana,2017,3,TOTALES / TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,3,TOTALES / TOTAL-M,2
+Beni,80101,Trinidad,2017,3,TOTALES / TOTAL-M,2
+Santa Cruz,70105,El Torno,2017,4,TOTALES / TOTAL-M,1
+La Paz,20101,La Paz,2017,4,TOTALES / TOTAL-M,0
+Beni,80701,San Joaquin,2017,4,TOTALES / TOTAL-M,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,4,TOTALES / TOTAL-M,2
+Beni,80101,Trinidad,2017,4,TOTALES / TOTAL-M,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,5,TOTALES / TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,6,TOTALES / TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,8,TOTALES / TOTAL-M,1
+Beni,80201,Riberalta,2017,11,TOTALES / TOTAL-M,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,11,TOTALES / TOTAL-M,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,12,TOTALES / TOTAL-M,1
+Santa Cruz,70105,El Torno,2017,1,TOTALES / TOTAL-F,0
+Beni,80202,Guayaramerin,2017,1,TOTALES / TOTAL-F,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,1,TOTALES / TOTAL-F,1
+Tarija,60101,Tarija,2017,1,TOTALES / TOTAL-F,1
+Beni,80101,Trinidad,2017,1,TOTALES / TOTAL-F,0
+Santa Cruz,70105,El Torno,2017,2,TOTALES / TOTAL-F,1
+La Paz,20101,La Paz,2017,2,TOTALES / TOTAL-F,1
+Beni,80801,Magdalena,2017,2,TOTALES / TOTAL-F,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,2,TOTALES / TOTAL-F,1
+Santa Cruz,70105,El Torno,2017,3,TOTALES / TOTAL-F,0
+Santa Cruz,71104,San Julian,2017,3,TOTALES / TOTAL-F,1
+Beni,80401,Santa Ana,2017,3,TOTALES / TOTAL-F,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,3,TOTALES / TOTAL-F,9
+Beni,80101,Trinidad,2017,3,TOTALES / TOTAL-F,1
+Santa Cruz,70105,El Torno,2017,4,TOTALES / TOTAL-F,0
+La Paz,20101,La Paz,2017,4,TOTALES / TOTAL-F,1
+Beni,80701,San Joaquin,2017,4,TOTALES / TOTAL-F,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,4,TOTALES / TOTAL-F,9
+Beni,80101,Trinidad,2017,4,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,5,TOTALES / TOTAL-F,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,6,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,8,TOTALES / TOTAL-F,0
+Beni,80201,Riberalta,2017,11,TOTALES / TOTAL-F,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,11,TOTALES / TOTAL-F,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,12,TOTALES / TOTAL-F,2
+Santa Cruz,70105,El Torno,2017,1,TOTALES / TOTAL,1
+Beni,80202,Guayaramerin,2017,1,TOTALES / TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,1,TOTALES / TOTAL,2
+Tarija,60101,Tarija,2017,1,TOTALES / TOTAL,1
+Beni,80101,Trinidad,2017,1,TOTALES / TOTAL,1
+Santa Cruz,70105,El Torno,2017,2,TOTALES / TOTAL,2
+La Paz,20101,La Paz,2017,2,TOTALES / TOTAL,2
+Beni,80801,Magdalena,2017,2,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,2,TOTALES / TOTAL,1
+Santa Cruz,70105,El Torno,2017,3,TOTALES / TOTAL,1
+Santa Cruz,71104,San Julian,2017,3,TOTALES / TOTAL,1
+Beni,80401,Santa Ana,2017,3,TOTALES / TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,3,TOTALES / TOTAL,11
+Beni,80101,Trinidad,2017,3,TOTALES / TOTAL,3
+Santa Cruz,70105,El Torno,2017,4,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2017,4,TOTALES / TOTAL,1
+Beni,80701,San Joaquin,2017,4,TOTALES / TOTAL,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,4,TOTALES / TOTAL,11
+Beni,80101,Trinidad,2017,4,TOTALES / TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,5,TOTALES / TOTAL,8
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,6,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,8,TOTALES / TOTAL,1
+Beni,80201,Riberalta,2017,11,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,11,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,12,TOTALES / TOTAL,3
