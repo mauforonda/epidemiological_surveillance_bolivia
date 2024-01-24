@@ -87,6 +87,16 @@ def get_municipalities():
     sheet = sheet[['MUN', 'COD_MUN']].dropna()
     municipalities['2022'] = format_sheet(sheet)
     
+    # 2023
+    sheet = pd.read_excel(
+        'supplements/ReporteDinamico_Establecimientos_2023.xls',
+        skiprows=3,
+        skipfooter=2,
+        usecols=['MUNICIPIO', 'COD_MUNICIPIO']
+    )
+    sheet = sheet[['MUNICIPIO', 'COD_MUNICIPIO']].dropna()
+    municipalities['2023'] = format_sheet(sheet)
+
     return municipalities
 
 def format_table(filename):

@@ -1,0 +1,760 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 m a menor de 1 año,b. 6 m a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+ACHOCALLA,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+AIQUILE,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+ARANI,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+BERMEJO,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,3
+BETANZOS,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CAIROMA,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CARAPARI,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHALLAPATA,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CHIMORE,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CHULUMANI (V. DE LA LIBERTAD),infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+CHUQUIHUTA AYLLU JUCUMANI,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CLIZA,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COBIJA,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,1,1,3,0,0,0,0,0,3,0,7,1,8
+COCHABAMBA,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,1,7,9,1,7,1,2,0,1,9,20,29
+COLCAPIRHUA,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+COLOMI,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COPACABANA,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COROICO,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+COTAGAITA,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COTOCA,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,6,6
+EL ALTO,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,1,1,0,7,3,3,0,2,0,2,0,15,4,19
+ENTRE RIOS CBBA,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+FILADELFIA,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+GUAYARAMERIN,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+HUANUNI,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA ASUNTA,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA PAZ,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,3,0,1,1,1,2,4,3,10,47,1,20,3,7,2,4,25,84,109
+MIZQUE,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+ORURO,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,0,0,4,0,4
+PADCAYA,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PAILON,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+POTOSI,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,2,1,3
+PUCARANI,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+PUERTO CARABUCO,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PUERTO VILLARROEL,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+QUILLACOLLO,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+RIBERALTA,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SACABA,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SAN BUENA VENTURA,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,1,0,1,0,0,0,1,4,5,14,0,5,1,0,0,0,9,23,32
+SANTIVAÑES,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SOPACHUY,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SUCRE,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,3,0,1,1,0,0,0,0,0,0,4,1,5
+TACACOMA,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+TARATA,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TARIJA,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,1,0,0,3,2,5
+TOCO,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+TORO TORO,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+TOTORA(CBBA),infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+TRINIDAD,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,4,4
+TUPIZA,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+VIACHA,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+VILLA TUNARI,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+YACUIBA,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+ZUDAÑEZ,infecc. de transmision sexual,ulcera genital,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ARANI,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+BERMEJO,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+BETANZOS,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BUENA VISTA,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+CAIROMA,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+CHALLAPATA,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CHAYANTA,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CHIMORE,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHULUMANI (V. DE LA LIBERTAD),infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+CHUQUIHUTA AYLLU JUCUMANI,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+COBIJA,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,3,1,4
+COCHABAMBA,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,1,0,0,0,2,4,12,0,3,1,0,1,1,6,19,25
+CORIPATA,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+CORQUE,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COTAGAITA,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COTOCA,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,1,0,0,0,0,0,5,5
+EL ALTO,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,5,1,0,0,0,0,0,1,4,2,1,0,3,0,0,0,13,4,17
+GENERAL SAAVEDRA,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GUANAY,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+INCAHUASI,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+LA ASUNTA,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+LA GUARDIA,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+LA PAZ,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,4,0,1,2,2,0,0,4,18,34,2,21,3,8,1,4,31,73,104
+MACHARETI,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+MINEROS,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+MONTERO,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+OCURI,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+ORURO,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,1,0,3,2,5
+PATACAMAYA,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+POROMA,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,0,0,0,0,2,3,5
+POTOSI,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+PUERTO VILLARROEL,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+QUILLACOLLO,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,2,2,4,6
+RAQAYPAMPA(ETA),infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+RIBERALTA,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SACABA,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SACACA,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN BORJA,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAN IGNACIO DE VELASCO,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAN LORENZO(TJA),infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,2,3
+SAN MIGUEL DE VELASCO,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,ulcera genital,2023-02-01,0,2,0,0,0,0,0,0,0,0,0,1,5,9,0,2,0,1,0,0,5,15,20
+SANTIVAÑES,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SHINAOTA,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+SUCRE,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,1,0,1,4,0,0,1,0,0,0,3,4,7
+TARIJA,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TARVITA,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+TEOPONTE,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TINGUIPAYA,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TIQUIPAYA,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+TIRAQUE (CBBA),infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+TORO TORO,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+TOTORA(CBBA),infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TUPIZA,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+URIONDO (A. CONCEPCION),infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+UYUNI,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,2,1,3
+VILLA TUNARI,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,2,3
+VILLAZON,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VINTO,infecc. de transmision sexual,ulcera genital,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,0,3
+APOLO,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,2,0,11,0,10,0,1,0,3,0,27,27
+AYATA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BERMEJO,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+BETANZOS,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,2,1,3
+BOLIVAR,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+CAIROMA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+CAMIRI,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+CAPINOTA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CARANAVI,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CARAPARI,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHALLAPATA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CHULUMANI (V. DE LA LIBERTAD),infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+COBIJA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,1,4,2,1,0,0,0,0,0,5,3,8
+COCHABAMBA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,3,11,12,3,2,1,2,1,0,16,19,35
+COLCAPIRHUA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,2,4
+"COLCHA ""K""",infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COPACABANA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+COTOCA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,4,4
+EL ALTO,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,2,0,3,5,0,0,3,1,0,0,8,6,14
+ENTRE RIOS CBBA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+GENERAL SAAVEDRA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GUAYARAMERIN,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,3,0,3
+IRUPANA (VILLA DE LANZA),infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+LA ASUNTA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+LA GUARDIA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,2,0,12,0,0,0,0,0,1,0,15,15
+LA PAZ,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,3,2,4,0,1,2,1,6,19,42,4,21,4,5,1,6,37,84,121
+LLALLAGUA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+MACHARETI,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MECAPACA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+MIZQUE,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+MONTERO,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,2,0,3,1,10,0,5,0,1,0,0,1,21,22
+MOROCHATA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+ORURO,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,3,0,7,2,2,1,0,0,0,0,12,3,15
+PAILON,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PALCA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,3,1,4
+PALOS BLANCOS,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+POCOATA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+POTOSI,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+PUCARANI,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+PUERTO ACOSTA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PUERTO GONZALO MORENO,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+PUERTO QUIJARRO,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PUERTO VILLARROEL,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+QUILLACOLLO,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,2,0,0,3,2,5
+SACABA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,1,1,0,0,0,1,7,8
+SAMAIPATA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN BUENA VENTURA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN LORENZO(TJA),infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SAN MATIAS,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN PEDRO DE BUENA VISTA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SAN PEDRO DE MACHA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,1,0,0,0,0,0,1,6,20,0,4,0,2,0,1,6,29,35
+SANTIAGO DE MACHACA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SHINAOTA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,1,1,1,4,0,0,0,0,0,0,2,5,7
+SICAYA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SIPE SIPE,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SUCRE,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,1,3,1,4,6,0,0,0,1,0,0,7,9,16
+TARATA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TARIJA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+TORO TORO,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,1,3,4
+TRINIDAD,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TUPIZA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+UNCIA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+UYUNI,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+VACAS,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+VALLEGRANDE,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+VIACHA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,3,3
+VILLA MONTES,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+VILLA TUNARI,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,2,1,3
+VILLAZON,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VINTO,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,0,4
+YACUIBA,infecc. de transmision sexual,ulcera genital,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1,3,1,4
+ACHACACHI,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+ACHOCALLA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+ANCORAIMES,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ARBIETO,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ARQUE,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+AYATA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BERMEJO,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+BETANZOS,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,1,0,0,3,1,4
+BUENA VISTA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+"CAIZA ""D""",infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CARANAVI,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CARAPARI,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+CHALLAPATA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CHAYANTA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CHULUMANI (V. DE LA LIBERTAD),infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+CHUQUIHUTA AYLLU JUCUMANI,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CLIZA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+COBIJA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,0,4
+COCAPATA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+COCHABAMBA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,1,5,6,0,0,0,0,0,1,5,8,13
+COLCAPIRHUA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+"COLCHA ""K""",infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COROICO,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COTOCA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,1,0,0,1,4,5
+DESAGUADERO,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+EL ALTO,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,1,0,0,1,5,1,6
+EL TORNO,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+ENTRE RIOS CBBA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GUANAY,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GUAYARAMERIN,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+HUAYLLAMARCA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+LA ASUNTA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,3,1,14,1,3,0,0,0,0,2,20,22
+LA PAZ,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,2,1,0,1,1,1,1,2,12,18,1,12,1,4,1,2,19,41,60
+LLALLAGUA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MAPIRI,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+MIZQUE,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+MONTERO,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,2,2,3,0,1,0,0,0,0,2,6,8
+OCURI,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ORURO,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,1,6,1,0,0,0,0,2,0,8,2,10
+PALCA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+PORTACHUELO,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+PUERTO ACOSTA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PUERTO GONZALO MORENO,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+PUERTO QUIJARRO,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PUERTO VILLARROEL,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,0,1,0,1,4,5
+QUILLACOLLO,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,1,0,0,3,2,5
+RIBERALTA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,2,1,3
+SACABA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,1,3,4
+SAN AGUSTIN,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+SAN BENITO,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN LORENZO(TJA),infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,3,1,2,1,1,0,0,0,0,0,4,4,9,1,3,1,1,1,2,9,25,34
+SIPE SIPE,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SUCRE,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,3,6,8,2,3,0,1,0,0,8,15,23
+TAPACARI,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TARACO,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+TARATA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+TARIJA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,1,2,3
+TARVITA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+TORO TORO,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,3
+TRINIDAD,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+TUPIZA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VIACHA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,2,3
+VILLA MONTES,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+VILLA TUNARI,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0,1,0,3,2,5
+VILLAZON,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VINTO,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,2,3
+YACUIBA,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+YAPACANI,infecc. de transmision sexual,ulcera genital,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ACHACACHI,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+BERMEJO,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+BETANZOS,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+"CAIZA ""D""",infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+CAPINOTA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+CARACOLLO,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+CARANAVI,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHIMORE,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CHULUMANI (V. DE LA LIBERTAD),infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COBIJA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,0,0,0,0,0,8,0,8
+COCAPATA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+COCHABAMBA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,2,1,15,12,0,3,0,0,4,2,21,18,39
+COMARAPA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CORIPATA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+CORQUE,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COTOCA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,4,5
+EL ALTO,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,2,4,2,1,1,1,0,0,0,6,5,11
+EL TORNO,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+ENTRE RIOS CBBA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+GUAYARAMERIN,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+IRUPANA (VILLA DE LANZA),infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA GUARDIA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,1,0,0,0,0,0,4,4
+LA PAZ,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,2,0,3,2,1,0,2,6,18,40,4,15,2,3,1,1,33,67,100
+MAIRANA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+MONTERO,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,1,0,0,0,0,0,3,0,5,0,4,0,0,0,0,0,13,13
+ORURO,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,1,1,2,0,0,5,5,10
+PATACAMAYA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PELECHUCO,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+PORTACHUELO,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+POTOSI,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,2,3,5
+PUERTO CARABUCO,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+PUERTO GONZALO MORENO,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+PUERTO RICO,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+PUERTO SUAREZ,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+PUERTO VILLARROEL,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+QUILLACOLLO,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,2
+RAVELO,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+RIBERALTA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SABAYA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SACABA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+SAN LORENZO(TJA),infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+SANTA ANA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,2,0,7,3,0,2,1,1,8,19,2,2,0,1,1,1,21,29,50
+SHINAOTA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+SORATA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+SUCRE,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,1,1,0,0,2,3,2,7,0,2,1,0,0,0,6,13,19
+TARIJA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,1,0,0,0,2,2,4
+TINGUIPAYA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+TIQUIPAYA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,2,2,4
+TOMINA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TORO TORO,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TOTORA(ORR),infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+TUPIZA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+UNCIA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+UYUNI,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VALLEGRANDE,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA CHARCAS,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+VILLA MONTES,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+VILLA TUNARI,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+VILLAZON,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+VINTO,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+YACUIBA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,3
+YOTALA,infecc. de transmision sexual,ulcera genital,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+ACHOCALLA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ARBIETO,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+AZURDUY,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BERMEJO,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+BETANZOS,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+"CAIZA ""D""",infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CAJUATA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CAPINOTA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CAQUIAVIRI,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CARANAVI,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,2,1,3
+CHAYANTA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CHIMORE,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CHULUMANI (V. DE LA LIBERTAD),infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COBIJA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,2,0,5,1,0,0,0,0,1,0,8,1,9
+COCAPATA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,1,0,5,7,1,2,1,0,0,0,8,9,17
+COLCAPIRHUA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COROICO,infecc. de transmision sexual,ulcera genital,2023-06-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COTOCA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+DESAGUADERO,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+EL ALTO,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,1,3,0,1,0,1,1,0,0,5,2,7
+ENTRE RIOS CBBA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+LA ASUNTA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+LA GUARDIA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,1,0,0,0,5,5
+LA PAZ,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,1,1,0,0,0,6,10,36,4,5,3,5,1,1,19,54,73
+MAPIRI,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,0,3
+MIZQUE,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+MONTEAGUDO,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+MONTERO,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,1,0,0,1,3,4
+MORO MORO,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ORURO,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,1,0,6,1,0,0,0,0,0,0,7,1,8
+PALOS BLANCOS,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+POCONA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+POROMA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,2,1,3
+POTOSI,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,1,0,0,0,0,0,0,0,3,2,2,2,0,1,0,0,6,5,11
+PUERTO QUIJARRO,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+PUERTO VILLARROEL,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+QUILLACOLLO,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,2,0,1,2,0,0,0,0,0,0,3,2,5
+RIBERALTA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SACABA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,2,1,3
+SACACA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO DE BUENA VISTA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,1,2,3
+SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,2,11,20,1,3,0,0,0,1,12,26,38
+SHINAOTA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,2,3
+SORATA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SUCRE,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,2,4,3,6,2,1,0,2,0,0,7,13,20
+TARIJA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,1,3,4
+TIQUIPAYA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,2,1,3
+VIACHA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+VILLA MONTES,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,2,1,3
+VILLA TUNARI,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLAZON,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+VINTO,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,3,0,3
+WARNES,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+YACUIBA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+YOTALA,infecc. de transmision sexual,ulcera genital,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+ARBIETO,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ARQUE,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+BATALLAS,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+BERMEJO,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,2,4
+CAJUATA,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+CARAPARI,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CHALLAPATA,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CHULUMANI (V. DE LA LIBERTAD),infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+COBIJA,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,1,0,0,1,0,6,2,8
+COCHABAMBA,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,1,0,5,5,0,2,0,1,0,0,6,8,14
+COROICO,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+COTOCA,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL ALTO,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,11,0,0,1,0,0,0,1,12,13
+EL TORNO,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,2,1,3
+ENTRE RIOS CBBA,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+FERNANDEZ ALONSO,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,2,3
+GENERAL SAAVEDRA,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GUANAY,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+GUAQUI,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,2,1,3
+GUAYARAMERIN,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+HUANUNI,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,1,0,0,0,0,0,12,12
+LA PAZ,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,4,3,6,1,0,2,3,4,16,33,9,22,1,7,1,11,40,83,123
+MAPIRI,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MIZQUE,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+MONTERO,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,3,0,1,0,0,1,8,9
+ORURO,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,9,2,1,0,1,0,0,1,11,3,14
+PALOS BLANCOS,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+POCONA,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+POTOSI,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,2,2,4
+PUCARANI,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO GONZALO MORENO,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO QUIJARRO,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PUERTO VILLARROEL,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,1,2,3,1,0,1,0,0,0,4,4,8
+PUNATA,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+QUILLACOLLO,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+RAVELO,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+RIBERALTA,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+RURRENABAQUE,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SACABA,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SACACA,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN LORENZO(TJA),infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,2,1,3
+SAN PEDRO DE BUENA VISTA,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,2,3
+SANTA ANA,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,1,0,1,0,2,0,5,11,2,5,1,0,6,0,18,16,34
+SANTIAGO DE HUATA,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SHINAOTA,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1,0,0,0,0,2,3,5
+SICA SICA (VILLA AROMA),infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SIPE SIPE,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SUCRE,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,3,3,3,1,2,1,0,0,0,5,8,13
+TARIJA,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,1,0,0,0,0,0,0,3,0,0,1,0,0,0,1,3,3,6
+TIPUANI,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TIQUIPAYA,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TORO TORO,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,2,2,4
+TRINIDAD,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,6,0,6
+UNCIA,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,1,0,2,3,5
+VILLA TUNARI,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+YACUIBA,infecc. de transmision sexual,ulcera genital,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+ACHACACHI,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+BETANZOS,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CAMIRI,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CAPINOTA,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CARACOLLO,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CARANAVI,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHALLAPATA,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CHAQUI,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CHIMORE,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+CLIZA,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+COBIJA,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,2,1,7,3,0,0,0,0,0,0,9,4,13
+COCHABAMBA,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,2,11,4,1,3,3,0,3,0,18,9,27
+COLCAPIRHUA,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+"COLCHA ""K""",infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COLOMI,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+COLPA BELGICA,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+COMARAPA,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CORIPATA,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+COTOCA,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,2
+DESAGUADERO,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL ALTO,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,2,1,1,4,1,0,2,1,0,0,6,6,12
+EL TORNO,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+ENTRE RIOS CBBA,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,5,5
+FERNANDEZ ALONSO,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+GUANAY,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ICLA,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+INCAHUASI,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,1,0,0,0,0,1,23,0,1,0,0,0,0,1,25,26
+LA PAZ,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,4,2,0,1,0,0,0,7,16,63,3,15,6,10,5,12,34,110,144
+LLALLAGUA,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MONTERO,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,5,0,1,0,0,0,0,2,6,8
+OCURI,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+ORURO,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,0,0,0,0,0,5,1,6
+PADILLA,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+PALOS BLANCOS,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+POJO (CBBA),infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+POTOSI,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+PUERTO VILLARROEL,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+PUNATA,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+QUILLACOLLO,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,2,2,4
+RIBERALTA,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SACABA,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,2,3,5
+SAN JOSE DE CHIQUITOS,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN LORENZO(TJA),infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+SAN PEDRO,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,4
+SANTA ANA,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,ulcera genital,2023-08-01,1,2,0,3,4,4,1,2,1,0,4,1,5,12,2,5,1,0,0,0,19,29,48
+SANTA ROSA DEL SARA,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+SHINAOTA,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,2,0,1,1,1,0,0,0,0,0,4,1,5
+SIPE SIPE,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SUCRE,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,1,0,0,2,0,0,0,0,2,3,5,7,0,0,0,0,0,0,8,12,20
+TARIJA,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,5,1,6
+TIQUIPAYA,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,2,3
+TOMAVE,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TORO TORO,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+TOTORA(CBBA),infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+TRINIDAD,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,0,4,3,7
+UNCIA,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,0,0,3,1,4
+VILLA TUNARI,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,1,3
+VILLAZON,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VINTO,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4,1,4,5
+YACUIBA,infecc. de transmision sexual,ulcera genital,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+ACHOCALLA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+ANTEQUERA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ARBIETO,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BERMEJO,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BOLPEBRA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+CAMIRI,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CARACOLLO,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CARANAVI,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3,0,3
+CHALLAPATA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHULUMANI (V. DE LA LIBERTAD),infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COBIJA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,2,3
+COCHABAMBA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,1,1,6,13,0,3,1,0,0,0,8,17,25
+COLOMI,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CORIPATA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+COTOCA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CUEVO,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+EL ALTO,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,3,6,3,0,1,0,2,0,9,6,15
+EL PUENTE(TJA),infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL TORNO,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ENTRE RIOS CBBA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,2,1,4,0,1,0,0,0,0,1,7,8
+FERNANDEZ ALONSO,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GENERAL SAAVEDRA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+JESUS DE MACHACA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+LA ASUNTA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA GUARDIA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,5,5
+LA PAZ,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,3,0,0,0,0,1,2,9,6,54,2,13,2,10,0,10,15,97,112
+LLALLAGUA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+MAPIRI,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+MECAPACA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+MOROCHATA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+OCURI,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+ORURO,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,2,1,0,1,0,5,4,9
+PADILLA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+PALOS BLANCOS,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,2
+POJO (CBBA),infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+POTOSI,infecc. de transmision sexual,ulcera genital,2023-09-01,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,2,2,4
+PUCARANI,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO QUIJARRO,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PUERTO VILLARROEL,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,0,3
+QUILLACOLLO,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,2,2,4
+RAVELO,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+RIBERALTA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+SACABA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SAMAIPATA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN BORJA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN CARLOS,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN JOSE DE CHIQUITOS,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2
+SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,ulcera genital,2023-09-01,1,0,0,0,3,0,2,0,0,0,2,1,6,14,2,6,0,0,1,0,17,21,38
+SANTA ROSA DEL SARA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SHINAOTA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,1,1,5,0,1,0,1,0,0,1,8,9
+SICA SICA (VILLA AROMA),infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SIPE SIPE,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SORATA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SUCRE,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,2,2,4,4,0,0,0,3,1,0,7,9,16
+TARIJA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,2,3,5
+TARVITA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TIQUIPAYA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,2,0,1,2,0,0,0,0,0,0,3,2,5
+TORO TORO,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+UNCIA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+UYUNI,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA MONTES,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,0,3
+VILLA TUNARI,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2,2,4
+VILLAZON,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+YACUIBA,infecc. de transmision sexual,ulcera genital,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+AIQUILE,infecc. de transmision sexual,ulcera genital,2023-10-01,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+AZURDUY,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BETANZOS,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CARANAVI,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+CHALLAPATA,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+CHULUMANI (V. DE LA LIBERTAD),infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+COBIJA,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,2,0,0,0,5,1,6
+COCHABAMBA,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,1,5,8,8,2,22,0,2,0,1,11,38,49
+COMARAPA,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+COROICO,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+COTOCA,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CULPINA,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL ALTO,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,2,2,5,4,0,2,1,1,0,9,8,17
+EL TORNO,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+ENTRE RIOS CBBA,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,2,2,3,0,0,0,0,0,0,2,5,7
+GRAL. J.J. PEREZ (CHARAZANI),infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+GUANAY,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ICLA,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+IRUPANA (VILLA DE LANZA),infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+IXIAMAS,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+LA ASUNTA,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+LA GUARDIA,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,1,1,11,0,1,0,1,0,0,1,14,15
+LA PAZ,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,4,0,3,0,0,3,1,3,12,42,2,14,3,6,0,6,25,74,99
+LLALLAGUA,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+MAIRANA,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+MONTERO,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+MORO MORO,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1,0,0,0,5,5
+ORURO,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,1,0,0,0,0,3,4,7
+PADILLA,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PALCA,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PALOS BLANCOS,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,3,1,4
+PATACAMAYA,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,2,3
+POTOSI,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,1,3,4
+PUCARANI,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PUERTO QUIJARRO,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+PUERTO VILLARROEL,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,2,0,0,0,6,2,8
+QUILLACOLLO,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+SACABA,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0,1,0,3,2,5
+SAN AGUSTIN,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+SAN ANDRES,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN LORENZO(TJA),infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN LUCAS,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN MIGUEL DE VELASCO,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SAN PEDRO DE BUENA VISTA,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,2,3
+SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,1,0,1,0,0,0,0,0,0,1,5,8,4,8,0,4,0,1,11,22,33
+SHINAOTA,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,1,0,0,0,1,0,1,1,2,0,2,0,0,0,0,1,7,8
+SICA SICA (VILLA AROMA),infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SIPE SIPE,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SORACACHI,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SUCRE,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,1,1,13,0,2,0,0,2,0,3,16,19
+TAPACARI,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+TARIJA,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,3,1,4
+TARVITA,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TOLEDO,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+VILLA TUNARI,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,2,1,3
+VILLAZON,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+YACUIBA,infecc. de transmision sexual,ulcera genital,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,2,1,3
+AIQUILE,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+BERMEJO,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+BOLIVAR,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+"CAIZA ""D""",infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CAMIRI,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+CARANAVI,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,2,1,3
+CHAYANTA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CHIMORE,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COBIJA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,2
+COCHABAMBA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,1,1,2,14,3,4,1,6,1,1,8,26,34
+COLCAPIRHUA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,1,2,3
+COLOMI,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+COMARAPA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CORIPATA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+COTAGAITA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+COTOCA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2,3
+EL ALTO,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,1,0,0,0,0,1,0,1,0,0,2,4,4,3,2,1,1,0,10,10,20
+EL TORNO,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+ENTRE RIOS CBBA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,8,1,1,0,0,0,1,1,11,12
+GAIOC JATUN AYLLU YURA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+GUANAY,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+HUAYLLAMARCA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2
+IRUPANA (VILLA DE LANZA),infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,8,0,2,0,0,0,0,0,11,11
+LA PAZ,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,2,0,0,1,2,3,0,0,1,3,15,40,5,12,2,5,2,6,29,70,99
+LLALLAGUA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MAPIRI,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,2
+MECAPACA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+MONTEAGUDO,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MONTERO,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+MORO MORO,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ORURO,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,2,1,2,3,1,0,3,0,1,0,9,4,13
+PAILON,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,2
+PALCA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PALOS BLANCOS,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+PELECHUCO,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+POTOSI,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,10,0,2,0,3,0,0,0,16,16
+PUERTO ACOSTA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PUERTO VILLARROEL,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,2,0,0,0,4,2,6
+QUILLACOLLO,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,1,0,2,1,0,6,0,1,0,0,1,8,4,12
+RIBERALTA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,3,0,3
+SACABA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,1,0,1,3,0,0,1,0,0,0,3,3,6
+SACACA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAMAIPATA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+SAN BENITO,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+SAN JOSE DE CHIQUITOS,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,2,0,0,0,0,0,1,1,1,0,1,0,0,0,0,1,5,6
+SAN LORENZO(PND),infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SAN MIGUEL DE VELASCO,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SANTA ANA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,1,0,1,0,0,0,3,4,12,18,3,9,3,3,2,0,25,34,59
+SHINAOTA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,7,0,2,0,0,0,1,2,10,12
+SICA SICA (VILLA AROMA),infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SIPE SIPE,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+SUCRE,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,2,3,5,15,0,1,0,1,1,0,8,20,28
+TACACOMA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,1,3
+TAPACARI,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TARIJA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,2,2,3,3,7,10
+TARVITA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+TIQUIPAYA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,4,0,4
+TRINIDAD,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+TUPIZA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VILA VILA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+VILLA MONTES,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+VILLA TUNARI,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,1,3
+VINTO,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+WARNES,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+YACUIBA,infecc. de transmision sexual,ulcera genital,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+ACHACACHI,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+APOLO,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+ATOCHA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+AYATA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+AYOPAYA (V. DE INDEPENDENCIA),infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+BERMEJO,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+BETANZOS,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CAIROMA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CAJUATA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CAMARGO,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CAPINOTA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+CHALLAPATA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHIMORE,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHULUMANI (V. DE LA LIBERTAD),infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+CLIZA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+COBIJA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,2,1,3
+COCHABAMBA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,1,1,13,8,0,6,0,2,2,1,16,18,34
+COLCAPIRHUA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+"COLCHA ""K""",infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COLOMI,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+COLPA BELGICA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COLQUIRI,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COMARAPA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,3,0,3
+COPACABANA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+CORIPATA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+COTAGAITA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL ALTO,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,1,0,0,0,0,0,0,3,6,0,0,2,0,1,0,6,7,13
+EL PUENTE(TJA),infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ENTRE RIOS CBBA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,1,0,0,0,3,0,17,0,2,0,1,0,0,0,24,24
+FILADELFIA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3
+GRAL. J.J. PEREZ (CHARAZANI),infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+HUACARETA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+IRUPANA (VILLA DE LANZA),infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA GUARDIA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,8,0,0,0,0,0,0,0,9,9
+LA PAZ,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,1,0,3,0,0,0,2,3,11,10,1,5,1,0,1,1,20,19,39
+MAPIRI,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MONTERO,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+ORURO,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,2,0,2,0,8,4,12
+PALCA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+PALOS BLANCOS,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,1,0,0,3,1,4
+PELECHUCO,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+POTOSI,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,1,3,4
+PUERTO ACOSTA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PUERTO VILLARROEL,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,1,0,3,3,6
+QUILLACOLLO,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,2,1,4,5
+RIBERALTA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2,1,3
+SACABA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+SAN LORENZO(PND),infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SANTA ANA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,2,1,3
+SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,1,0,0,1,1,4,5,2,5,1,0,0,1,8,13,21
+SHINAOTA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,2,0,7,0,4,0,0,0,1,0,14,14
+SUCRE,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,2,0,4,11,0,4,0,1,1,1,7,17,24
+TARIJA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+TIQUIPAYA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+TIRAQUE (CBBA),infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+VILLA MONTES,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+VILLA RIVERO,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA TUNARI,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+VINTO,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+WARNES,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+YACUIBA,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+ZUDAÑEZ,infecc. de transmision sexual,ulcera genital,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1

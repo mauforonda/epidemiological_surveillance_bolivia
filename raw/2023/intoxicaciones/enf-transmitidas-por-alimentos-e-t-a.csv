@@ -1,0 +1,888 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 m a menor de 1 año,b. 6 m a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,2,1,5,6
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,2,0,1,1,0,0,0,1,0,0,0,0,0,1,1,3,4,7
+CAPINOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,2,3
+CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2
+CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,1,0,2,3,9,11,3,8,1,1,0,1,1,3,1,0,0,3,1,1,19,31,50
+CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,1,1,1,0,1,1,0,0,1,0,0,0,0,0,1,2,5,7
+CHIMORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,1,0,3,2,14,11,20,13,8,2,1,1,1,2,1,2,0,4,2,2,51,39,90
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COMARAPA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,3
+CONCEPCION,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,1,0,1,1,1,0,0,0,1,3,2,0,2,5,0,0,1,0,9,9,18
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,1,1,3,4,7
+FERNANDEZ ALONSO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+GUTIERREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,5,3,4,3,2,0,0,0,4,5,1,3,0,3,0,0,16,17,33
+LAS CARRERAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,2,4,2,4,1,0,0,0,2,1,1,0,2,0,1,9,11,20
+OMEREQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,1,0,0,0,0,0,2,1,4,1,0,0,1,1,2,3,10,13
+PALOS BLANCOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,2,3
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,1,2,5,8,1,4,5,2,1,1,7,11,4,7,0,3,0,5,24,43,67
+PUERTO ACOSTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO RICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,0,1,1,0,2,4,6
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,3,2,5
+QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,2,0,0,2,2,0,0,1,0,1,0,1,1,1,0,0,1,0,1,1,7,7,14
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3,3
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,1,1,2,3,2,0,1,1,0,0,0,0,0,0,0,0,0,0,6,5,11
+SAN BENITO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,2
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,1,4,0,0,0,0,0,1,0,5,0,1,2,0,1,1,4,12,16
+SAN JULIAN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+SAN RAMON BENI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,2,1,3
+SANTA ANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,5,8,6,6,6,6,6,6,15,18,9,9,5,5,3,1,55,59,114
+SANTIAGO DE HUARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SHINAOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,3,3
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,1,2,3,8,9,18,8,5,1,0,1,3,4,1,1,2,0,0,2,39,30,69
+TARABUCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,1,6,5,9,3,1,4,3,3,7,0,4,2,1,0,2,18,33,51
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,3,0,0,0,0,1,0,2,0,0,0,0,0,0,3,3,6
+TOLATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TRIGAL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3,0,3
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,1,0,1,1,0,3,2,0,0,0,3,3,1,2,0,3,0,5,8,17,25
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,1,0,0,0,2,0,1,0,1,0,0,0,0,0,5,5
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,2,3,5
+VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,1,0,0,1,5,1,2,2,0,0,1,0,1,1,0,0,0,0,0,0,10,5,15
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,1,2,3,5
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,2,2,4
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2,3
+WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,2,1,0,1,0,0,0,2,0,3,4,1,0,0,0,0,0,8,6,14
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-01-01,0,0,0,0,5,2,11,13,8,12,6,12,13,25,5,8,4,6,2,3,54,81,135
+ACHACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+AYOPAYA (V. DE INDEPENDENCIA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,2,2,4
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,4,5
+CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,1,1,0,0,0,0,0,0,2,2,0,0,0,0,0,0,3,3,6
+CAPINOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2,1,3
+CARANAVI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,2,0,1,1,14,7,17,8,4,1,2,1,2,2,2,1,3,2,4,2,51,25,76
+CHARAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,3,1,4
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,1,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,1,1,4,5
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,4,1,20,12,19,11,9,7,1,2,4,7,1,1,0,4,0,1,58,46,104
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,1,0,0,1,0,0,1,0,1,3,5,0,0,3,0,3,8,10,18
+EL PUENTE(TJA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,1,1,3,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,6,2,8
+GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,6,5,6,6,5,5,1,1,6,4,3,2,0,4,1,2,28,29,57
+LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MAIRANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+MINEROS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,1,0,0,2,2,2,1,1,0,0,0,1,0,0,0,0,0,1,0,7,4,11
+OKINAWA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,1,2,0,1,2,6,8
+PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,2,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,4
+PALCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+POSTRER VALLE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,1,3,1,0,10,7,6,7,0,6,1,2,7,9,5,2,2,1,1,3,34,40,74
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,2,3,5
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,1,0,2,0,0,0,0,1,0,0,1,1,0,0,1,2,5,7
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,3,3
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,2,2,1,2,1,1,0,0,0,0,0,0,1,2,0,0,5,7,12
+SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,1,1,2,1,5,3,2,0,0,1,0,0,3,0,0,2,0,8,13,21
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN RAMON BENI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA ANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,1,1,1,5,5,10,12,3,3,5,6,13,15,6,8,1,0,3,4,47,55,102
+SIPE SIPE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2,3
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,1,2,2,4,5,5,11,11,3,1,0,0,4,3,0,3,0,0,1,1,27,30,57
+TARATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,7,3,4,9,8,3,1,2,3,22,2,4,2,6,5,3,32,52,84
+TARVITA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,1,4,6,2,3,4,0,4,0,8,0,2,2,4,1,6,13,34,47
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,1,0,0,1,1,1,0,0,0,0,0,1,0,2,0,1,0,0,0,1,2,7,9
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,1,0,3,1,6,4,1,4,1,2,0,0,1,3,0,0,0,0,1,0,14,14,28
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,0,0,3,0,0,0,0,2,3,0,0,0,0,1,0,3,6,9
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,1,0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,3,3,6
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,1,0,1,2,9,9,8,8,5,2,7,15,5,7,3,4,2,1,41,48,89
+ZUDAÑEZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ASCENCION DE GUARAYOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+AYOPAYA (V. DE INDEPENDENCIA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,3,1,4
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,1,1,4,5
+BUENA VISTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+CABEZAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CALAMARCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,1,0,2,0,1,1,0,0,0,0,1,1,1,1,0,0,0,1,6,4,10
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,1,0,1,0,2,1,0,1,0,2,1,0,0,0,0,0,0,4,5,9
+CAPINOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,1,0,2,2,4
+CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,1,0,0,11,6,4,9,1,2,0,1,5,5,1,2,0,1,4,4,26,31,57
+CHIMORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,2,2,3,3,1,3,0,0,0,0,0,0,0,0,0,2,6,10,16
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,2,0,1,1,0,0,0,1,0,1,0,0,0,1,0,0,3,4,7
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,7,4,8,9,33,32,28,15,16,15,5,5,5,19,3,3,0,2,2,5,107,109,216
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,1,0,0,0,0,0,4,4
+COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,1,0,0,1,2,3,2,2,3,2,0,0,1,1,0,0,0,0,0,0,9,9,18
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,1,0,1,0,0,0,2,0,0,1,0,0,0,1,0,2,4,6
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,1,1,0,2,0,0,0,0,0,3,0,1,0,0,1,2,2,9,11
+ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,1,3
+HUMANATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,4,11,5,17,10,3,4,3,1,8,8,3,5,2,1,2,2,49,40,89
+LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+MECAPACA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,2,2,4
+MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,1,0,1,3,0,0,1,0,0,0,0,2,0,2,1,3,0,2,4,12,16
+OKINAWA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,2,0,1,0,0,0,0,1,0,3,1,1,0,1,2,1,6,7,13
+PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,3,0,0,0,0,0,2,0,0,1,0,0,0,1,1,0,6,2,8
+PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,1,0,1,1,0,2,0,0,0,0,0,0,0,0,1,3,3,6
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,1,2,6,9,9,6,17,2,2,1,2,3,4,1,3,5,3,1,2,30,49,79
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,1,3,0,0,0,0,0,0,1,0,0,0,0,1,0,4,2,6
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,1,2,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,5,7
+QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3
+RAVELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,1,1,1,1,4,3,7
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,1,4,0,0,1,0,1,0,3,1,0,0,0,1,0,1,6,7,13
+SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,1,2,1,5,2,3,0,1,2,0,0,0,1,1,0,1,7,13,20
+SAN LORENZO(TJA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+SAN PEDRO DE MACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,1,1,0,2,7,6,4,9,3,2,1,5,13,21,13,11,1,9,14,14,57,80,137
+SHINAOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SIPE SIPE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,2,7,6,14,12,2,1,1,3,2,11,2,1,3,3,0,1,31,40,71
+TARABUCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TARATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,1,4,2,6,6,5,3,1,1,4,11,3,2,1,0,1,0,25,26,51
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+TOLATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TRIGAL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,1,0,3,1,2,0,2,2,1,1,3,6,0,3,3,2,2,4,17,19,36
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,1,1,3,0,1,1,0,1,0,1,0,2,1,0,0,0,6,6,12
+UNCIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,1,1,1,1,0,0,0,0,2,0,0,0,0,0,0,0,4,2,6
+VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,2,3,2,2,0,0,0,1,0,2,0,0,0,2,0,0,4,10,14
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2,1,3
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,1,0,2,1,1,0,1,2,0,1,0,0,0,0,5,4,9
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,1,0,0,1,1,0,3,1,0,0,0,0,0,1,0,0,0,0,0,1,5,4,9
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,0,0,0,1,0,0,0,0,3,4,0,3,0,2,0,1,3,11,14
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-03-01,0,0,0,0,3,4,6,9,7,5,0,5,7,18,1,5,4,0,2,3,30,49,79
+AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+ARBIETO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ASCENCION DE GUARAYOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,0,0,0,0,1,3,3,0,0,0,0,1,0,4,4,8
+AYOPAYA (V. DE INDEPENDENCIA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,2,1,0,1,1,0,0,0,1,0,2,2,0,0,0,0,6,4,10
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,1,4,5
+CAPINOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,1,0,0,3,1,4
+CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,1,0,4,4,2,4,1,2,0,1,2,6,0,1,0,0,2,0,12,18,30
+CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,2,2,4
+CHARAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,0,0,0,0,0,0,4,4
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,1,0,2,2,19,6,14,23,7,5,6,0,5,5,0,1,2,6,0,5,56,53,109
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+CORO CORO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+COTAGAITA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2,2
+COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,5,3,2,0,2,0,0,0,2,2,0,1,0,1,0,1,11,8,19
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,1,1,1,3,1,0,1,1,1,0,0,1,0,1,5,7,12
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,1,2,0,0,0,0,0,3,2,4,1,3,1,5,3,6,8,23,31
+ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,1,0,1,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,4,2,6
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+INCAHUASI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,1,2,2,0,1,0,0,0,1,0,0,0,0,0,0,2,5,7
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,2,2,6,8,4,3,0,0,1,1,0,2,0,0,1,2,14,18,32
+LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,3,3
+MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,2,1,3
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,2,0,0,0,4,1,1,2,0,2,0,0,1,2,0,1,0,1,2,1,10,10,20
+OMEREQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,1,0,2,3,3,6
+PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,0,1,0,2,3,5
+PALCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PALOS BLANCOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+PORONGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,1,0,4,4,11,12,1,2,1,4,2,4,1,1,4,1,1,2,26,30,56
+PUCARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,1,0,0,0,1,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,4,3,7
+QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,0,0,4,0,2,1,1,0,0,0,0,1,0,2,7,9
+QUIME,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,1,0,0,1,3,0,1,0,1,0,2,0,1,0,1,1,10,11
+ROBORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,2,1,3
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,1,3,1,1,1,1,2,1,4,0,0,0,0,0,0,6,9,15
+SAN BORJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,2,2,4
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,1,0,3,0,0,5,3,3,1,5,0,1,1,4,0,1,1,3,0,0,10,22,32
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,2,1,12,10,13,8,8,14,1,1,10,13,6,14,4,5,8,10,64,76,140
+SHINAOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SIPE SIPE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,1,1,3,0,3,7,15,5,1,0,3,0,4,3,0,3,2,1,0,2,32,22,54
+TACACOMA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,4,7,8,7,2,7,2,1,4,5,1,0,0,0,0,0,21,27,48
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TOLATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TOTORA(CBBA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,1,0,2,3,4,2,1,1,1,1,1,2,0,0,1,3,11,12,23
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,3,3
+UNCIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,2,1,3
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,1,0,0,2,3,1,2,1,1,0,0,0,0,0,0,4,7,11
+VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,1,1,0,0,0,0,0,0,0,2,1,1,0,0,0,0,2,4,6
+VILLA VACA GUZMAN (MUYUPAMPA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,1,0,1,0,1,2,1,1,0,2,1,0,0,0,1,0,6,5,11
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,2,3,5
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,2,1,3
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-04-01,0,0,0,0,2,1,7,7,4,7,1,11,5,11,5,6,1,2,1,1,26,46,72
+AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+ALCALA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ARANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ASCENCION DE GUARAYOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,1,0,0,1,1,2,10,6,2,0,1,2,0,0,15,11,26
+AYOPAYA (V. DE INDEPENDENCIA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,1,0,0,0,1,3,4
+BATALLAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,3
+BUENA VISTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,1,3,4
+CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2,3
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,1,0,1,1,2,0,0,0,0,0,1,0,0,2,0,3,5,8
+CAPINOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,1,1,1,1,2,5,0,1,0,1,1,0,0,2,0,1,0,0,5,12,17
+CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2,1,3
+CHARAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,2,3
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,1,3,1,25,23,22,23,15,16,1,0,7,6,0,1,0,3,4,5,77,79,156
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COLQUECHACA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CONCEPCION,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,3,0,0,3,2,0,2,2,1,1,0,0,0,0,0,0,8,6,14
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,1,1,2,1,0,1,0,1,0,3,4,0,1,1,0,1,2,9,10,19
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,1,0,0,0,1,2,0,4,4,0,3,3,2,1,9,10,20,30
+ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,2,0,0,1,0,0,0,1,2,0,1,2,0,0,0,4,5,9
+GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+HUACARETA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+IRUPANA (VILLA DE LANZA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,1,0,2,4,6
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,1,7,17,13,11,7,4,2,1,3,2,0,2,0,0,2,5,34,43,77
+LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+MAIRANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MAPIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MECAPACA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,1,1,1,1,1,0,0,0,0,0,0,2,1,0,0,0,0,0,4,4,8
+OKINAWA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,1,0,0,0,0,0,1,2,1,0,0,0,0,0,3,2,5
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0,0,1,0,0,0,3,3,6
+PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,1,1,5,2,1,1,1,0,0,0,0,1,0,1,0,0,2,2,10,8,18
+PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,3
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,1,3
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,1,1,2,2,10,14,9,15,5,11,3,5,3,1,5,4,2,2,9,4,49,59,108
+PUERTO ACOSTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,3,5
+QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,0,1,0,1,0,2,1,2,0,1,0,0,0,2,1,9,10
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,2,0,1,0,1,3,5,8
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,1,2,1,2,1,1,0,0,0,0,0,0,0,0,0,5,3,8
+SACABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN BENITO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,1,1,5,0,2,4,3,2,0,1,2,4,0,1,0,3,2,4,15,20,35
+SAN JULIAN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+SAN RAMON BENI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,2,2,4
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,1,0,1,0,7,10,10,8,14,17,8,6,10,9,6,5,6,2,4,6,67,63,130
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,1,8,1,5,2,2,2,2,2,1,5,1,5,2,2,0,3,21,23,44
+TARABUCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+TARATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,1,0,4,6,2,5,1,3,0,0,0,1,2,0,0,0,2,1,12,16,28
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,3,5
+TOCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+TOTORA(CBBA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2,3
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,4,2,4,2,3,0,1,5,6,0,6,1,0,1,3,11,27,38
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,3,0,3
+UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,1,0,0,2,4,1,1,0,1,2,0,0,0,1,0,0,7,6,13
+VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,4,4
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,1,0,2,1,0,1,0,0,1,2,1,0,0,0,5,4,9
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,0,0,2,0,1,1,0,0,1,0,0,0,2,0,2,1,8,9
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,3,2,5
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-05-01,0,0,1,0,3,4,5,9,3,13,5,17,13,24,6,12,3,3,8,3,47,85,132
+ACHACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ACHOCALLA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+AYOPAYA (V. DE INDEPENDENCIA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,2,3
+BATALLAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+BUENA VISTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+CABEZAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,1,0,0,0,1,1,0,0,2,2,0,0,0,1,0,1,4,5,9
+CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,1,0,0,0,4,2,3,1,1,1,1,2,1,2,2,1,1,2,1,0,15,11,26
+CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,1,1,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,4,5
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+COCAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,4,9,7,28,27,19,23,8,6,2,2,9,7,2,4,2,0,3,5,82,85,167
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,3,4
+CONCEPCION,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,2
+COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,3,4
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,1,0,1,0,0,1,1,0,0,1,1,2,0,1,3,0,0,0,7,5,12
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,0,2
+ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+ESCOMA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+IRUPANA (VILLA DE LANZA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,1,3,4
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,8,5,9,6,8,2,1,3,3,3,6,2,1,3,2,1,38,25,63
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,1,0,1,0,1,0,1,1,0,1,1,0,1,0,0,0,0,1,0,0,6,3,9
+OKINAWA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,1,0,1,1,2,2,7,9
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,1,0,2,0,0,0,0,1,3,1,0,2,3,3,2,7,11,18
+PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,2,1,0,2,1,0,1,0,4,0,1,0,2,1,1,4,12,16
+PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+POOPO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,2,7,8,20,20,6,5,3,3,7,10,4,6,2,3,4,4,53,61,114
+PUCARANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,1,0,3,3,1,1,0,0,0,0,0,1,0,0,0,0,0,0,5,5,10
+QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,1,1,0,1,1,0,1,2,1,0,0,0,0,2,0,6,4,10
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0,1,1,1,4,3,7
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,1,0,0,0,7,2,1,2,0,0,0,1,1,1,0,0,0,0,0,0,10,6,16
+SAN BENITO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAN BORJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN BUENA VENTURA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,1,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,2,4
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,1,0,4,3,2,5,2,0,0,1,1,1,0,0,0,2,1,1,11,13,24
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,1,0,1,1,4,10,11,6,4,7,3,1,12,13,8,6,2,1,1,1,47,46,93
+SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,2,3
+SORATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,1,0,3,0,5,6,8,1,2,0,1,1,4,3,1,0,0,1,1,6,26,18,44
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,2,2,4,8,1,4,1,0,2,0,0,0,0,0,1,0,11,14,25
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+TOCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+TOTORA(CBBA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2,3
+TRIGAL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,2,2,2,1,1,1,0,2,0,3,0,1,0,2,1,3,6,15,21
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+UNCIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,1,0,0,0,1,3,0,0,0,2,0,0,0,0,0,0,2,5,7
+VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,4,1,5
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,1,0,0,0,0,0,0,1,2,0,0,0,1,0,0,1,4,5
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,1,0,3,2,5
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,4,4
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,2,1,1,0,2,0,2,1,0,1,5,0,0,0,0,0,2,0,14,3,17
+YANACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,1,1,0,1,3,0,1,5,10,1,7,0,7,5,10,13,39,52
+ZUDAÑEZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2,1,3
+ANDAMARCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+AYOPAYA (V. DE INDEPENDENCIA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+BUENA VISTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,1,0,0,1,0,0,0,2,0,0,3,1,0,0,0,0,3,4,7,11
+CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,1,0,0,0,2,1,2,1,0,0,1,0,1,1,0,1,1,0,0,0,8,4,12
+CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CHIMORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,2,0,2,0,0,1,0,0,1,0,0,0,1,0,0,1,6,7
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,4,7,28,31,28,24,12,11,2,4,2,7,2,3,0,4,2,2,80,93,173
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+CONCEPCION,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,2,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,3,3,6
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,1,0,0,2,0,0,0,0,0,1,2,0,0,0,0,3,3,6,9
+ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,2,1,0,0,0,3,0,0,0,0,2,0,0,0,0,0,4,4,8
+GUANAY,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,1,0,0,0,0,0,1,0,1,2,0,0,0,0,0,0,3,2,5
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,1,1,0,0,0,2,4,6
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,7,8,12,12,4,4,0,2,1,5,0,2,1,2,5,6,30,41,71
+LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+MAGDALENA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2
+MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,0,2
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,1,0,1,1,0,0,1,1,4,3,0,0,0,0,1,0,8,5,13
+OKINAWA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,0,0,1,0,0,1,0,0,3,0,0,1,0,1,0,3,4,7
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,3,4,1,0,4,1,1,4,9,9,18
+PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,2,0,2,3,1,0,0,1,0,0,2,3,0,0,1,2,0,1,8,10,18
+PALCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+POOPO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+POSTRER VALLE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,1,0,0,0,6,5,10,10,5,3,3,4,2,3,3,4,1,0,1,4,32,33,65
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,2,1,0,0,1,2,0,0,2,0,0,0,1,1,0,1,6,5,11
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,3,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,4,8
+QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,1,1,2,0,0,0,0,0,3,0,0,0,0,0,0,0,6,1,7
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,1,1,0,1,0,0,2,1,3,1,2,1,0,0,2,5,10,15
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,1,0,0,0,3,1,1,2,1,0,1,1,0,1,0,0,0,0,0,2,7,7,14
+SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,1,1,0,2,2,5,4,2,1,0,0,0,5,4,1,0,2,3,4,17,20,37
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,3,3
+SAN RAMON BENI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,1,0,1,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4,5
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,3,0,4,5,8,3,3,4,1,0,11,15,6,6,2,2,4,4,42,39,81
+SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SHINAOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,1,1,1,1,1,1,0,0,0,0,1,0,1,0,0,0,0,3,5,8
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,3,1,11,8,8,4,2,1,0,0,10,5,1,2,1,1,2,4,38,26,64
+TARABUCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TARATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,1,0,1,1,5,2,2,1,1,0,4,6,0,0,0,0,1,0,15,10,25
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,1,0,0,0,2,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,6,7
+TOTORA(CBBA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,3,3
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+UNCIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2,3
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,2,1,3
+VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,1,1,5,1,1,1,1,1,0,0,1,2,0,1,0,1,1,2,10,10,20
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,3,4
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,1,0,0,2,3,5
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,1,0,0,0,0,1,1,0,0,0,1,2,0,0,1,0,0,1,4,4,8
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-07-01,0,0,1,1,4,1,15,11,5,9,7,5,4,30,1,16,3,13,9,7,49,93,142
+ACHACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,1,1,0,0,0,0,2,0,0,0,0,0,0,0,3,1,4
+ASCENCION DE GUARAYOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+AYOPAYA (V. DE INDEPENDENCIA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,2,0,1,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,6,6
+BATALLAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,1,2,0,0,0,0,1,0,0,0,0,1,0,0,2,3,5
+BUENA VISTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,4,0,0,0,0,1,0,0,1,0,0,2,0,0,1,1,6,4,10
+CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,2,1,0,2,0,0,2,0,0,1,2,0,2,1,0,1,8,6,14
+CAPINOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,2,0,0,0,0,0,1,1,0,0,0,0,0,1,3,2,5
+CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,2,0,0,3,5,1,0,1,1,1,0,3,1,0,0,0,2,0,0,9,11,20
+CHACARILLA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,2,1,3
+CHAQUI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CHARAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CHIMORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,1,0,2,2,2,0,0,1,0,0,0,0,0,0,0,0,5,3,8
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,1,1,2,39,26,33,40,17,17,1,5,2,7,0,2,2,7,1,1,96,108,204
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,1,3,0,0,0,1,0,1,0,0,0,0,0,0,1,5,6
+CONCEPCION,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+COTAGAITA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,1,1,1,0,2,0,0,1,3,1,0,2,1,2,1,0,9,7,16
+CUEVO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,1,1,2,0,0,0,1,2,1,2,1,0,1,1,0,1,7,7,14
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,1,1,3,1,0,0,0,0,0,3,0,0,1,0,0,1,5,6,11
+ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,2,0,0,1,1,0,0,0,1,2,0,1,0,0,0,2,4,6,10
+GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,2,3
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,1,0,0,0,0,0,1,2,1,0,1,0,1,0,0,2,5,7
+IRUPANA (VILLA DE LANZA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,1,1,3,0,0,0,1,2,1,1,2,5,1,0,1,0,2,3,12,12,24
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,2,1,9,5,13,15,9,13,4,3,6,8,3,0,1,2,1,6,48,53,101
+LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2,2,4
+MAGDALENA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,2,2,4
+MAPIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+MECAPACA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,3
+MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,2,0,3,2,4,1,2,3,1,1,1,4,0,1,0,3,1,2,14,17,31
+OKINAWA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,4,3,2,0,0,0,3,2,9,5,14
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,1,1,1,0,2,2,1,1,0,1,0,1,0,0,2,3,7,9,16
+PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,1,0,1,1,0,3,3,4,0,0,0,2,2,3,0,0,0,0,1,0,8,13,21
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+POSTRER VALLE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,4,1,6,8,11,17,6,5,2,4,9,10,5,1,3,2,3,4,49,52,101
+PUCARANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,1,0,0,0,2,0,1,0,0,1,1,0,0,0,2,0,7,1,8
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,3,4,3,2,0,0,0,0,0,0,0,0,0,0,0,0,6,6,12
+QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,1,0,2,2,1,0,0,0,0,0,1,0,0,0,0,2,1,1,6,5,11
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,1,3,4,1,1,3,0,0,1,1,4,0,0,1,1,1,1,10,13,23
+SAN BENITO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,2,2,4
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,6,1,0,3,0,1,1,2,4,4,5,2,0,3,3,4,19,20,39
+SAN JAVIER(STC),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN JUAN DE YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN JULIAN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,1,0,0,1,0,1,0,1,1,0,0,0,0,0,0,3,2,5
+SAN LORENZO(PND),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,4,2,1,3,2,5,7,9,1,1,4,1,2,0,0,0,21,21,42
+SAN LORENZO(TJA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN RAMON BENI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,1,0,0,0,9,7,16,6,5,4,2,6,12,10,8,7,3,7,2,1,58,48,106
+SANTA ROSA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+SHINAOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+SICA SICA (VILLA AROMA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SIPE SIPE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,2,3
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,3,7,33,26,40,22,10,5,2,0,8,11,1,4,3,1,3,2,103,78,181
+TACACOMA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TARABUCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+TARATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,1,0,4,4,7,10,3,4,1,0,1,5,0,1,1,0,3,2,21,26,47
+TINGUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,3,1,1,1,0,0,0,1,0,2,0,0,0,0,0,1,4,6,10
+TOLATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TOTORA(CBBA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,1,0,0,0,4,3,3,5,4,2,4,1,5,2,3,7,1,8,1,10,26,38,64
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,1,0,0,1,0,1,2,1,0,0,0,0,0,0,3,3,6
+UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,1,2,0,2,0,0,0,0,0,0,0,1,0,1,0,0,1,6,7
+VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,2,4,1,1,1,1,0,0,1,0,0,0,1,0,0,1,6,7,13
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,2,3,5
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,1,3,4
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,2,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,2,4
+WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,2,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,3,5
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,6,0,1,0,0,2,0,3,7,10
+YANACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-08-01,0,0,0,1,4,5,9,12,4,8,1,8,8,32,3,8,5,6,4,3,38,83,121
+AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+AYOPAYA (V. DE INDEPENDENCIA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,2,1,3
+BOLIVAR,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+BUENA VISTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,4,4
+CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,2,0,3,2,5
+CAPINOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,2,0,4,5,3,1,0,1,0,1,1,1,0,3,0,1,1,2,11,15,26
+CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,2,2,4
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,3,1,1,2,0,1,0,0,0,0,0,0,0,0,4,4,8
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,1,1,4,3,2,2,0,0,0,22,32,12,20,2,4,1,1,43,64,107
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,1,2,4,10,17,19,13,11,13,1,4,6,9,1,4,2,4,4,3,56,72,128
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+COMARAPA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+COPACABANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+CORQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,1,1,0,0,0,0,1,2,0,0,0,1,0,1,2,5,7
+CUEVO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,1,0,5,0,5
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,1,0,0,2,0,6,3,9
+ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,1,0,0,0,2,3,5
+GENERAL SAAVEDRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+HUACAYA (VILLA DE HUACAYA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,2,0,0,0,0,0,1,0,1,1,0,0,0,0,4,1,5
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,3
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,5,4,5,4,1,4,0,0,0,3,1,1,0,0,1,3,13,19,32
+LAGUNILLAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,1,7,4,0,0,0,0,0,0,0,0,0,0,0,1,7,6,13
+LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+MACHARETI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+MAIRANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,4,4
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,1,1,6,2,0,0,0,1,2,7,0,1,0,2,2,3,11,17,28
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,2,1,1,2,1,2,0,2,2,0,1,0,0,1,1,6,8,14,22
+PADILLA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,1,0,1,2,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,3,5,8
+PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,2,2,0,7,13,15,15,5,9,1,4,8,8,2,0,2,1,2,4,44,56,100
+PUCARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,1,1,0,0,0,1,0,0,0,4,0,0,0,0,0,0,1,6,7
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,4,4
+QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,0,1,1,0,1,0,0,3,0,1,1,2,2,0,5,7,12
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0,1,3,4
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,1,1,0,1,0,2,1,2,1,0,0,0,1,0,0,1,0,0,0,7,4,11
+SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,5,4,2,4,0,3,0,2,1,7,2,2,1,7,0,2,11,31,42
+SAN JOAQUIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SAN RAMON BENI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,2,2,4
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,1,0,3,2,6,13,5,5,5,3,10,8,7,4,1,4,3,1,41,40,81
+SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTIAGO DE MACHACA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,1,1,1,2,5,7
+SHINAOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,1,3,4
+SIPE SIPE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+SORACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,2,0,2,1,4,9,14,14,4,5,1,1,3,5,1,0,0,4,1,1,32,40,72
+TARATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,7,5,7,14,4,4,2,1,4,7,2,1,1,3,0,3,27,38,65
+TEOPONTE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,3,3
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,3,2,0,1,0,0,0,0,0,0,0,0,2,0,5,3,8
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,4
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,3,2,5
+VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,1,0,2,0,0,0,0,1,0,0,0,0,0,0,3,1,4
+VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,1,3,0,6,4,1,2,0,1,0,0,0,1,1,0,0,0,0,1,11,10,21
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,1,0,2,0,0,0,0,0,1,0,1,0,0,0,0,0,5,5
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,2,0,1,1,1,1,7,8
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,3
+WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,1,0,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,9
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,1,0,0,0,0,3,1,1,1,0,0,2,1,1,1,1,0,0,5,8,13
+YANACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,1,4,3,0,4,4,3,2,5,13,2,5,5,4,2,1,25,33,58
+ZUDAÑEZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+ACHACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,3,3
+AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,1,0,0,3,1,4
+ALTO BENI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BUENA VISTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,0,0,1,0,0,1,2,1,0,0,0,0,0,2,3,5
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,2
+CAPINOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,0,0,2,0,1,0,0,2,1,1,0,1,0,4,4,8
+CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,1,1,2,1,0,4,0,0,0,0,1,1,2,1,0,1,6,9,15
+CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,3
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,1,3,0,19,16,19,15,12,5,0,1,2,5,0,0,1,1,2,0,58,44,102
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,3,4
+COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,2,0,1,0,0,0,0,0,2,1,0,0,0,1,0,0,5,2,7
+CUATRO CAÑADAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,3,3,6
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,1,0,1,3,0,1,3,0,1,0,1,0,1,0,0,1,0,0,8,5,13
+ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,1,0,1,2,0,0,0,0,3,0,0,0,0,1,0,3,5,8
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,1,0,1,5,0,4,3,1,0,0,0,1,2,2,1,1,1,4,9,18,27
+LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MECAPACA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,1,2,1,3,3,0,2,0,0,2,1,0,0,0,2,2,1,9,11,20
+OKINAWA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,0,0,3,2,5
+OMEREQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,1,0,0,0,0,0,1,0,0,1,2,1,1,1,1,0,0,0,6,3,9
+PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,1,0,0,4,2,0,1,0,2,0,1,1,3,0,0,0,0,0,0,5,10,15
+PALCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,6,8,6,6,3,7,3,3,3,4,3,1,1,3,3,1,28,33,61
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,2,3,5
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,2,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,5,4,9
+QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,3,3,6
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,2,1,1,0,0,0,0,0,2,1,1,0,0,0,0,2,6,8
+SAN BENITO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN BUENA VENTURA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,1,3,2,1,0,2,0,0,0,1,1,0,0,0,0,0,4,7,11
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,1,1,1,4,3,1,2,2,0,3,6,0,2,0,0,3,1,14,16,30
+SAN RAMON BENI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,1,2,0,5,10,10,8,7,2,7,3,7,4,5,1,1,4,3,2,47,35,82
+SANTIAGO DE MACHACA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SIPE SIPE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,1,0,1,0,5,8,6,7,3,3,0,2,3,3,0,2,0,0,0,0,19,25,44
+TARATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,3,1,3,3,3,1,1,2,8,2,1,0,0,1,0,1,19,11,30
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,3,3
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,1,1,2,4,3,5,3,3,0,4,1,1,0,5,1,4,11,27,38
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+UNCIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+URIONDO (A. CONCEPCION),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2
+VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,2,2,4
+VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,1,2,0,1,6,2,0,0,1,0,1,2,0,0,0,0,1,0,1,7,11,18
+VILLA SERRANO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,2,3
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,1,0,0,0,1,0,0,2,0,1,0,0,0,0,0,0,0,1,0,0,2,4,6
+WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+YACO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,1,1,2,2,1,0,0,1,2,0,1,0,0,1,0,5,7,12
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,1,0,2,1,3,3,2,2,0,3,7,14,2,2,0,0,0,1,17,26,43
+YOTALA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+ACHACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+ACHOCALLA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+AYOPAYA (V. DE INDEPENDENCIA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+AZURDUY,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,2
+BOLIVAR,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+BUENA VISTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,3,1,4
+CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,1,2,3,0,3,0,1,0,0,0,1,0,2,0,0,0,0,2,11,13
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,2,1,3
+CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,2,2,4
+CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,1,1,2,1,1,1,2,0,1,0,2,3,1,1,0,0,1,1,0,8,11,19
+CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,3
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,1,0,1,1,0,0,0,0,0,2,0,0,0,0,0,2,2,5,7
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,1,3,12,30,17,23,11,18,0,0,6,11,0,3,0,0,5,8,52,96,148
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,2,2,4
+COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COMARAPA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,3,3
+CUATRO CAÑADAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,1,3,0,1,2,2,0,2,1,7,8,0,0,1,0,2,8,18,20,38
+ENTRE RIOS TRJ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+HUACARETA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,1,1,0,0,1,0,0,0,1,1,0,0,1,0,0,1,4,3,7
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,1,0,0,3,4,4,10,1,4,1,2,2,4,0,3,1,1,4,2,16,31,47
+LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MINEROS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,4,1,5
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,2,2,4
+MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,3,1,4
+MOROCHATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+OKINAWA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,2,0,4,1,5
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,1,0,0,0,1,0,1,0,1,0,1,3,2,2,1,0,2,4,0,1,10,10,20
+PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,2,0,0,0,3,5,0,5,2,0,3,2,0,2,0,0,0,2,1,2,11,18,29
+PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,1,1,0,0,2,4,4,5,2,6,0,3,7,12,2,3,4,2,3,2,25,38,63
+PUERTO SUAREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,1,0,1,0,1,0,1,1,1,0,1,0,0,0,0,1,6,7
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,3,0,0,4,0,1,0,1,0,1,0,1,1,0,0,0,0,1,4,9,13
+QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,3,1,4
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,3,3,3,5,1,0,1,2,0,0,0,0,0,0,8,10,18
+SAMAIPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,2
+SAN BUENA VENTURA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,4,4,3,3,0,1,0,0,0,1,0,0,0,0,0,0,7,9,16
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,1,0,1,2,1,1,2,1,5,8,1,0,0,2,0,2,11,16,27
+SAN JUAN DE YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN JULIAN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,2,1,3
+SAN LORENZO(TJA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SAN RAMON BENI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,3,1,4
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,4,9,6,5,6,7,1,2,10,11,2,8,3,2,0,0,32,44,76
+SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,2,3
+SHINAOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,2,2,1,1,2,1,0,0,0,1,0,1,0,0,0,0,5,6,11
+SIPE SIPE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,1,0,0,0,6,7,8,14,3,3,0,1,5,7,0,1,1,1,0,5,24,39,63
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,1,2,0,0,1,0,1,0,3,1,1,0,0,1,0,0,7,4,11
+TIPUANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+TOTORA(CBBA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+TOTORA(ORR),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,2,0,0,0,5,1,6
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+URIONDO (A. CONCEPCION),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,1,0,2,0,0,0,0,0,1,0,1,0,1,2,0,2,6,8
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,2,3
+VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,1,1,0,2,1,7,8
+VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,1,0,1,2,1,1,3,0,1,0,0,3,2,0,0,0,0,0,0,6,9,15
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,2,0,0,0,2,1,0,1,2,2,0,0,0,0,0,1,6,5,11
+VILLA VACA GUZMAN (MUYUPAMPA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,1,1,2,4,6
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,2,1,3
+WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,1,0,0,0,0,0,29,32,27,52,9,14,0,0,3,0,0,0,0,0,69,98,167
+YACO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,1,0,1,0,1,1,2,2,0,0,0,0,0,0,0,0,0,0,1,3,6,9
+YANACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-11-01,0,0,0,0,2,7,2,3,1,3,3,2,1,10,1,4,0,1,3,2,13,32,45
+ACHACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+AYO AYO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+AYOPAYA (V. DE INDEPENDENCIA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,2,4
+BOLIVAR,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+BUENA VISTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,1,1,4,3,7
+CAIROMA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,1,0,0,2,4,0,2,0,0,1,1,0,0,0,0,0,0,0,2,3,10,13
+CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,1,0,0,0,0,0,0,2,2,1,0,0,1,0,0,0,4,3,7
+CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,2,3
+CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,1,1,0,0,1,0,1,2,0,0,2,2,4,0,2,0,0,0,0,5,11,16
+CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CHARAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,3,3
+CHIMORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,3,4
+COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,1,2,4,19,12,26,7,12,2,1,0,2,4,0,2,0,0,2,1,64,33,97
+COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,2,1,3
+COMARAPA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,2,3
+CONCEPCION,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+COTAGAITA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,2,3
+EL PUENTE(STC),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,1,2,0,1,2,1,4,0,5,2,2,0,4,6,18,24
+ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,1,1,0,1,1,0,0,0,0,0,2,1,0,0,0,0,0,3,4,7
+GENERAL SAAVEDRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+HUACARETA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,1,0,1,3,2,0,0,0,0,0,3,0,0,0,0,0,0,1,7,4,11
+IRUPANA (VILLA DE LANZA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,2,2,4
+LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,2,0,2,0,3,6,2,0,0,1,2,1,2,1,1,0,0,1,14,10,24
+LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,2,3,5
+MAGDALENA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+MAIRANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MINEROS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,1,0,2,1,2,1,0,1,0,0,3,4,1,2,0,2,0,1,9,12,21
+MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2
+MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,4,4
+MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,3,1,4
+OKINAWA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,1,0,0,0,0,1,0,0,2,0,0,0,2,1,0,0,0,0,0,0,5,2,7
+PADILLA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,1,0,0,7,3,2,1,0,0,0,0,3,3,2,0,0,0,0,1,14,9,23
+PALOS BLANCOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PASORAPA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,2,3
+PORONGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,1,0,1,0,0,0,3,3,1,4,1,1,2,10,2,2,0,2,0,2,11,24,35
+PUCARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,1,0,0,0,2,2,0,0,0,0,1,2,0,0,0,0,0,0,4,4,8
+PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,3,1,2,1,0,1,1,0,0,2,0,0,0,1,0,1,6,7,13
+QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,2,1,0,0,0,1,1,0,0,0,0,0,0,1,3,3,6
+RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,1,1,2,1,1,0,2,0,1,1,1,1,1,1,0,0,2,5,11,16
+SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,1,0,0,3,0,1,2,0,0,1,0,0,0,0,1,0,4,5,9
+SAN BUENA VENTURA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,3,0,3
+SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,2,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,5,5
+SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,2,1,1,0,1,1,1,0,0,7,0,1,1,2,2,3,8,15,23
+SAN LORENZO(TJA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN PEDRO DE BUENA VISTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAN RAMON BENI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,1,1,4,5,0,4,4,3,4,12,9,7,4,0,1,4,1,36,28,64
+SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+SHINAOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,2,0,2,1,0,1,0,0,1,0,0,1,0,0,0,0,5,3,8
+SICA SICA (VILLA AROMA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,1,0,12,4,4,8,4,3,0,0,1,2,0,1,0,0,0,3,22,21,43
+TARATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,1,1,1,0,3,1,5,11,5,2,1,1,2,2,0,1,0,2,2,1,20,22,42
+TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,2,5,7
+TOMINA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,3,1,4
+TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,2,3
+UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,1,0,1,2,0,1,0,3,0,0,0,1,3,1,5,8,13
+VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,1,2,2,1,1,1,0,1,0,0,0,2,1,0,0,0,1,0,6,7,13
+VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,1,0,0,0,0,1,1,2,0,0,1,0,0,0,1,0,0,3,4,7
+VILLA VACA GUZMAN (MUYUPAMPA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,3,0,1,0,0,1,7,8
+VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,2,2,4
+WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,1,1,1,2,0,0,0,1,1,4,1,1,0,0,1,0,5,9,14
+YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,2,1,1,5,0,0,0,0,3,0,1,0,0,0,0,1,7,7,14
+YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2023-12-01,0,0,0,0,0,0,2,1,2,1,0,0,4,8,3,5,3,1,4,2,18,18,36

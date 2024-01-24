@@ -1,0 +1,86 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,21104,Palos Blancos,2023,1,TOTAL,14
+Tarija,60101,Tarija,2023,6,TOTAL,20
+La Paz,20304,Comanche,2023,7,TOTAL,6
+Cochabamba,31001,Sacaba,2023,7,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2023,7,TOTAL,1
+Oruro,41301,Totora(orr),2023,7,TOTAL,1
+La Paz,21103,Yanacachi,2023,7,TOTAL,1
+Chuquisaca,10701,Camargo,2023,8,TOTAL,5
+La Paz,21101,Chulumani (v. De La Libertad),2023,8,TOTAL,1
+La Paz,21401,Coroico,2023,8,TOTAL,3
+Chuquisaca,10703,Incahuasi,2023,8,TOTAL,11
+La Paz,21102,Irupana (villa De Lanza),2023,8,TOTAL,4
+La Paz,21105,La Asunta,2023,8,TOTAL,1
+Cochabamba,30302,Morochata,2023,8,TOTAL,4
+Santa Cruz,70503,Robore,2023,8,TOTAL,7
+Santa Cruz,70301,San Ignacio De Velasco,2023,8,TOTAL,6
+Santa Cruz,70501,San Jose De Chiquitos,2023,8,TOTAL,1
+Santa Cruz,70303,San Rafael,2023,8,TOTAL,1
+Santa Cruz,70602,Santa Rosa Del Sara,2023,8,TOTAL,1
+La Paz,20902,Sapahaqui,2023,8,TOTAL,1
+La Paz,20803,Tiahuanacu,2023,8,TOTAL,6
+Cochabamba,30904,Vinto,2023,8,TOTAL,2
+La Paz,21103,Yanacachi,2023,8,TOTAL,1
+La Paz,21003,Cajuata,2023,9,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2023,9,TOTAL,1
+Santa Cruz,70102,Cotoca,2023,9,TOTAL,17
+La Paz,21102,Irupana (villa De Lanza),2023,9,TOTAL,2
+La Paz,20101,La Paz,2023,9,TOTAL,1
+Santa Cruz,70701,Lagunillas,2023,9,TOTAL,2
+Chuquisaca,11003,Machareti,2023,9,TOTAL,11
+Santa Cruz,70903,Mairana,2023,9,TOTAL,2
+Cochabamba,31301,Mizque,2023,9,TOTAL,2
+Santa Cruz,70502,Pailon,2023,9,TOTAL,73
+Santa Cruz,70103,Porongo,2023,9,TOTAL,61
+La Paz,21002,Quime,2023,9,TOTAL,1
+Santa Cruz,70503,Robore,2023,9,TOTAL,3
+Cochabamba,31001,Sacaba,2023,9,TOTAL,3
+Santa Cruz,70301,San Ignacio De Velasco,2023,9,TOTAL,5
+Santa Cruz,70501,San Jose De Chiquitos,2023,9,TOTAL,2
+Tarija,60501,San Lorenzo(tja),2023,9,TOTAL,25
+Santa Cruz,70602,Santa Rosa Del Sara,2023,9,TOTAL,1
+La Paz,20608,Teoponte,2023,9,TOTAL,2
+La Paz,21103,Yanacachi,2023,9,TOTAL,3
+Chuquisaca,10102,Yotala,2023,9,TOTAL,1
+Santa Cruz,70401,Buena Vista,2023,10,TOTAL,7
+La Paz,22001,Caranavi,2023,10,TOTAL,10
+La Paz,21101,Chulumani (v. De La Libertad),2023,10,TOTAL,1
+Tarija,60601,Entre Rios Trj,2023,10,TOTAL,1
+Cochabamba,31206,Entre Rios Cbba,2023,10,TOTAL,1
+La Paz,21601,Gral. J.j. Perez (charazani),2023,10,TOTAL,2
+La Paz,20602,Guanay,2023,10,TOTAL,104
+La Paz,21105,La Asunta,2023,10,TOTAL,12
+La Paz,20101,La Paz,2023,10,TOTAL,1
+La Paz,20607,Mapiri,2023,10,TOTAL,3
+Chuquisaca,10501,Monteagudo,2023,10,TOTAL,3
+Chuquisaca,10401,Padilla,2023,10,TOTAL,1
+La Paz,21104,Palos Blancos,2023,10,TOTAL,22
+Chuquisaca,10302,Presto,2023,10,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2023,10,TOTAL,2
+Santa Cruz,70503,Robore,2023,10,TOTAL,122
+Beni,80302,San Borja,2023,10,TOTAL,551
+La Paz,21502,San Buena Ventura,2023,10,TOTAL,29
+Santa Cruz,70301,San Ignacio De Velasco,2023,10,TOTAL,1
+Cochabamba,31003,Villa Tunari,2023,10,TOTAL,87
+Santa Cruz,70403,Yapacani,2023,10,TOTAL,115
+Tarija,60202,Bermejo,2023,11,TOTAL,1
+Pando,90101,Cobija,2023,11,TOTAL,29
+Santa Cruz,71101,Concepcion,2023,11,TOTAL,6
+Tarija,60601,Entre Rios Trj,2023,11,TOTAL,1
+La Paz,21501,Ixiamas,2023,11,TOTAL,4
+Beni,80601,Loreto,2023,11,TOTAL,156
+La Paz,21104,Palos Blancos,2023,11,TOTAL,108
+Santa Cruz,70103,Porongo,2023,11,TOTAL,27
+Cochabamba,31205,Puerto Villarroel,2023,11,TOTAL,2
+Santa Cruz,70503,Robore,2023,11,TOTAL,39
+Beni,80304,Rurrenabaque,2023,11,TOTAL,861
+Beni,80302,San Borja,2023,11,TOTAL,157
+La Paz,21502,San Buena Ventura,2023,11,TOTAL,2975
+Santa Cruz,70301,San Ignacio De Velasco,2023,11,TOTAL,122
+Santa Cruz,70501,San Jose De Chiquitos,2023,11,TOTAL,2
+Santa Cruz,70602,Santa Rosa Del Sara,2023,11,TOTAL,1
+La Paz,20608,Teoponte,2023,11,TOTAL,3
+Cochabamba,31302,Vila Vila,2023,11,TOTAL,29
+Cochabamba,31003,Villa Tunari,2023,11,TOTAL,17
+Santa Cruz,70301,San Ignacio De Velasco,2023,12,TOTAL,48

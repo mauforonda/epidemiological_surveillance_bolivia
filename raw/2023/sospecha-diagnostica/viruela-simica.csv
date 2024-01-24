@@ -1,0 +1,58 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+COTOCA,sospecha diagnostica,viruela simica,2023-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+GUAYARAMERIN,sospecha diagnostica,viruela simica,2023-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+SACABA,sospecha diagnostica,viruela simica,2023-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,viruela simica,2023-01-01,0,0,0,0,0,0,0,1,2,1,0,0,5,2,0,0,0,1,1,0,8,5,13
+LA PAZ,sospecha diagnostica,viruela simica,2023-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+PORTACHUELO,sospecha diagnostica,viruela simica,2023-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,viruela simica,2023-02-01,0,0,0,0,0,0,0,0,0,0,1,1,3,0,2,0,0,0,0,1,6,2,8
+BUENA VISTA,sospecha diagnostica,viruela simica,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+COTOCA,sospecha diagnostica,viruela simica,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+EL ALTO,sospecha diagnostica,viruela simica,2023-03-01,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+HUANUNI,sospecha diagnostica,viruela simica,2023-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LA PAZ,sospecha diagnostica,viruela simica,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,2
+MONTERO,sospecha diagnostica,viruela simica,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+PORTACHUELO,sospecha diagnostica,viruela simica,2023-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+POTOSI,sospecha diagnostica,viruela simica,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+ROBORE,sospecha diagnostica,viruela simica,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SALINAS DE GARCI MENDOZA,sospecha diagnostica,viruela simica,2023-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,viruela simica,2023-03-01,0,0,0,0,0,0,0,0,0,3,2,0,3,1,0,0,0,0,1,0,6,4,10
+LA PAZ,sospecha diagnostica,viruela simica,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+PORVENIR,sospecha diagnostica,viruela simica,2023-04-01,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,viruela simica,2023-04-01,0,0,0,0,0,0,3,2,0,0,0,0,2,0,0,0,0,0,0,0,5,2,7
+LA PAZ,sospecha diagnostica,viruela simica,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,viruela simica,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SOPACHUY,sospecha diagnostica,viruela simica,2023-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+MINEROS,sospecha diagnostica,viruela simica,2023-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ORURO,sospecha diagnostica,viruela simica,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO,sospecha diagnostica,viruela simica,2023-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,viruela simica,2023-06-01,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,3,1,4
+VILLA TUNARI,sospecha diagnostica,viruela simica,2023-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL ALTO,sospecha diagnostica,viruela simica,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA PAZ,sospecha diagnostica,viruela simica,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,2,4
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,viruela simica,2023-07-01,0,0,0,0,0,0,0,0,0,1,1,0,3,0,0,0,0,0,0,0,4,1,5
+COCHABAMBA,sospecha diagnostica,viruela simica,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL TORNO,sospecha diagnostica,viruela simica,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PAILON,sospecha diagnostica,viruela simica,2023-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ROBORE,sospecha diagnostica,viruela simica,2023-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,viruela simica,2023-08-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,2,1,3
+COCHABAMBA,sospecha diagnostica,viruela simica,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL ALTO,sospecha diagnostica,viruela simica,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,viruela simica,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,3,4
+EL ALTO,sospecha diagnostica,viruela simica,2023-10-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+LA PAZ,sospecha diagnostica,viruela simica,2023-10-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+ROBORE,sospecha diagnostica,viruela simica,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,viruela simica,2023-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+COTOCA,sospecha diagnostica,viruela simica,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+LA PAZ,sospecha diagnostica,viruela simica,2023-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+ORURO,sospecha diagnostica,viruela simica,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN BORJA,sospecha diagnostica,viruela simica,2023-11-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,viruela simica,2023-11-01,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,2,2,4
+TARIJA,sospecha diagnostica,viruela simica,2023-11-01,0,0,0,0,0,1,2,4,7,0,2,1,2,1,0,0,0,0,0,0,13,7,20
+TRINIDAD,sospecha diagnostica,viruela simica,2023-11-01,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+VILLA MONTES,sospecha diagnostica,viruela simica,2023-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA PAZ,sospecha diagnostica,viruela simica,2023-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ORURO,sospecha diagnostica,viruela simica,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,viruela simica,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1

@@ -1,0 +1,79 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+CARANAVI,sospecha diagnostica,enfermedad por hanta virus,2023-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CARAPARI,sospecha diagnostica,enfermedad por hanta virus,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+PALOS BLANCOS,sospecha diagnostica,enfermedad por hanta virus,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+VILLA MONTES,sospecha diagnostica,enfermedad por hanta virus,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+LA GUARDIA,sospecha diagnostica,enfermedad por hanta virus,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PALOS BLANCOS,sospecha diagnostica,enfermedad por hanta virus,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,3,4,2,1,0,0,2,0,7,5,12
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+TARIJA,sospecha diagnostica,enfermedad por hanta virus,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+VILLA MONTES,sospecha diagnostica,enfermedad por hanta virus,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,enfermedad por hanta virus,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+LA PAZ,sospecha diagnostica,enfermedad por hanta virus,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,2,1,3
+PALOS BLANCOS,sospecha diagnostica,enfermedad por hanta virus,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,1,0,4,4
+SAN JOSE DE CHIQUITOS,sospecha diagnostica,enfermedad por hanta virus,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2023-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,0,2
+VILLA TUNARI,sospecha diagnostica,enfermedad por hanta virus,2023-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+BERMEJO,sospecha diagnostica,enfermedad por hanta virus,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+COCHABAMBA,sospecha diagnostica,enfermedad por hanta virus,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL ALTO,sospecha diagnostica,enfermedad por hanta virus,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+LA GUARDIA,sospecha diagnostica,enfermedad por hanta virus,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+MONTERO,sospecha diagnostica,enfermedad por hanta virus,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+PALOS BLANCOS,sospecha diagnostica,enfermedad por hanta virus,2023-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,2,3,1,0,0,1,1,6,4,10
+SAN JOSE DE CHIQUITOS,sospecha diagnostica,enfermedad por hanta virus,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2023-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2
+TARIJA,sospecha diagnostica,enfermedad por hanta virus,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+YACUIBA,sospecha diagnostica,enfermedad por hanta virus,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CARANAVI,sospecha diagnostica,enfermedad por hanta virus,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+PALOS BLANCOS,sospecha diagnostica,enfermedad por hanta virus,2023-05-01,0,0,0,0,0,0,0,0,0,0,1,1,1,1,3,0,1,3,3,0,9,5,14
+PUERTO VILLARROEL,sospecha diagnostica,enfermedad por hanta virus,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,3,0,3
+SANTA ROSA DEL SARA,sospecha diagnostica,enfermedad por hanta virus,2023-05-01,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,1,3
+BERMEJO,sospecha diagnostica,enfermedad por hanta virus,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+PALOS BLANCOS,sospecha diagnostica,enfermedad por hanta virus,2023-06-01,0,0,0,0,0,0,0,0,1,0,0,2,5,11,5,1,0,0,2,0,13,14,27
+SAN BUENA VENTURA,sospecha diagnostica,enfermedad por hanta virus,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+SAN IGNACIO,sospecha diagnostica,enfermedad por hanta virus,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,3,0,3
+YACUIBA,sospecha diagnostica,enfermedad por hanta virus,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BERMEJO,sospecha diagnostica,enfermedad por hanta virus,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,enfermedad por hanta virus,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,sospecha diagnostica,enfermedad por hanta virus,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PALOS BLANCOS,sospecha diagnostica,enfermedad por hanta virus,2023-07-01,0,0,0,0,0,1,2,0,2,0,1,1,8,10,0,0,0,3,1,0,14,15,29
+SAN PEDRO,sospecha diagnostica,enfermedad por hanta virus,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,0,2,0,0,0,10,0,10
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,3,0,3
+TARIJA,sospecha diagnostica,enfermedad por hanta virus,2023-07-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+TEOPONTE,sospecha diagnostica,enfermedad por hanta virus,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BERMEJO,sospecha diagnostica,enfermedad por hanta virus,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,2,1,3
+CARAPARI,sospecha diagnostica,enfermedad por hanta virus,2023-08-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+PALOS BLANCOS,sospecha diagnostica,enfermedad por hanta virus,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,0,3
+TRINIDAD,sospecha diagnostica,enfermedad por hanta virus,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+YACUIBA,sospecha diagnostica,enfermedad por hanta virus,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+BERMEJO,sospecha diagnostica,enfermedad por hanta virus,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+CARANAVI,sospecha diagnostica,enfermedad por hanta virus,2023-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,1,1,0,0,2,3,5
+COBIJA,sospecha diagnostica,enfermedad por hanta virus,2023-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,sospecha diagnostica,enfermedad por hanta virus,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PALOS BLANCOS,sospecha diagnostica,enfermedad por hanta virus,2023-09-01,0,0,0,1,1,0,0,0,0,2,0,2,7,11,2,5,1,4,4,2,15,27,42
+SAN PEDRO,sospecha diagnostica,enfermedad por hanta virus,2023-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CARANAVI,sospecha diagnostica,enfermedad por hanta virus,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+CONCEPCION,sospecha diagnostica,enfermedad por hanta virus,2023-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA PAZ,sospecha diagnostica,enfermedad por hanta virus,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PALOS BLANCOS,sospecha diagnostica,enfermedad por hanta virus,2023-10-01,0,0,0,0,0,0,0,0,0,0,2,0,1,1,1,0,0,0,0,2,4,3,7
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,2,0,4,1,5
+TRINIDAD,sospecha diagnostica,enfermedad por hanta virus,2023-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+ASCENCION DE GUARAYOS,sospecha diagnostica,enfermedad por hanta virus,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CARANAVI,sospecha diagnostica,enfermedad por hanta virus,2023-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+EL PUENTE(STC),sospecha diagnostica,enfermedad por hanta virus,2023-11-01,0,0,0,0,1,1,0,1,0,0,1,0,0,1,1,0,0,1,0,0,3,4,7
+LA GUARDIA,sospecha diagnostica,enfermedad por hanta virus,2023-11-01,0,0,0,0,1,0,0,0,0,0,0,1,4,10,1,0,2,1,0,0,8,12,20
+PALOS BLANCOS,sospecha diagnostica,enfermedad por hanta virus,2023-11-01,0,0,0,0,0,1,0,1,1,0,0,1,3,2,0,0,0,1,0,0,4,6,10
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2023-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,3,1,4
+TARIJA,sospecha diagnostica,enfermedad por hanta virus,2023-11-01,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,0,3
+YACUIBA,sospecha diagnostica,enfermedad por hanta virus,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+CARANAVI,sospecha diagnostica,enfermedad por hanta virus,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PALOS BLANCOS,sospecha diagnostica,enfermedad por hanta virus,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2,3
+SAN BUENA VENTURA,sospecha diagnostica,enfermedad por hanta virus,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,enfermedad por hanta virus,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,2
+YACUIBA,sospecha diagnostica,enfermedad por hanta virus,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1

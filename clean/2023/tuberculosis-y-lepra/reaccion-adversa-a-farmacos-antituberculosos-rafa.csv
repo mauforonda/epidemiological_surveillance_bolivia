@@ -1,0 +1,323 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,30903,Tiquipaya,2023,2,a. Menor de 6 meses / MASCULINO,0
+La Paz,22001,Caranavi,2023,4,a. Menor de 6 meses / MASCULINO,0
+La Paz,21701,Copacabana,2023,5,a. Menor de 6 meses / MASCULINO,0
+La Paz,20101,La Paz,2023,5,a. Menor de 6 meses / MASCULINO,0
+Chuquisaca,10101,Sucre,2023,5,a. Menor de 6 meses / MASCULINO,0
+Beni,80201,Riberalta,2023,6,a. Menor de 6 meses / MASCULINO,0
+Beni,80304,Rurrenabaque,2023,8,a. Menor de 6 meses / MASCULINO,0
+La Paz,20101,La Paz,2023,9,a. Menor de 6 meses / MASCULINO,0
+Cochabamba,30901,Quillacollo,2023,9,a. Menor de 6 meses / MASCULINO,0
+La Paz,20105,El Alto,2023,11,a. Menor de 6 meses / MASCULINO,0
+La Paz,21204,Puerto Perez,2023,11,a. Menor de 6 meses / MASCULINO,0
+Chuquisaca,10101,Sucre,2023,11,a. Menor de 6 meses / MASCULINO,0
+La Paz,20104,Achocalla,2023,12,a. Menor de 6 meses / MASCULINO,0
+Cochabamba,30904,Vinto,2023,12,a. Menor de 6 meses / MASCULINO,0
+Cochabamba,30903,Tiquipaya,2023,2,a. Menor de 6 meses / FEMENINO,0
+La Paz,22001,Caranavi,2023,4,a. Menor de 6 meses / FEMENINO,0
+La Paz,21701,Copacabana,2023,5,a. Menor de 6 meses / FEMENINO,0
+La Paz,20101,La Paz,2023,5,a. Menor de 6 meses / FEMENINO,0
+Chuquisaca,10101,Sucre,2023,5,a. Menor de 6 meses / FEMENINO,0
+Beni,80201,Riberalta,2023,6,a. Menor de 6 meses / FEMENINO,0
+Beni,80304,Rurrenabaque,2023,8,a. Menor de 6 meses / FEMENINO,0
+La Paz,20101,La Paz,2023,9,a. Menor de 6 meses / FEMENINO,0
+Cochabamba,30901,Quillacollo,2023,9,a. Menor de 6 meses / FEMENINO,0
+La Paz,20105,El Alto,2023,11,a. Menor de 6 meses / FEMENINO,0
+La Paz,21204,Puerto Perez,2023,11,a. Menor de 6 meses / FEMENINO,0
+Chuquisaca,10101,Sucre,2023,11,a. Menor de 6 meses / FEMENINO,0
+La Paz,20104,Achocalla,2023,12,a. Menor de 6 meses / FEMENINO,0
+Cochabamba,30904,Vinto,2023,12,a. Menor de 6 meses / FEMENINO,0
+Cochabamba,30903,Tiquipaya,2023,2,b. 6 m a menor de 1 ano / MASCULINO,0
+La Paz,22001,Caranavi,2023,4,b. 6 m a menor de 1 ano / MASCULINO,0
+La Paz,21701,Copacabana,2023,5,b. 6 m a menor de 1 ano / MASCULINO,0
+La Paz,20101,La Paz,2023,5,b. 6 m a menor de 1 ano / MASCULINO,0
+Chuquisaca,10101,Sucre,2023,5,b. 6 m a menor de 1 ano / MASCULINO,0
+Beni,80201,Riberalta,2023,6,b. 6 m a menor de 1 ano / MASCULINO,0
+Beni,80304,Rurrenabaque,2023,8,b. 6 m a menor de 1 ano / MASCULINO,0
+La Paz,20101,La Paz,2023,9,b. 6 m a menor de 1 ano / MASCULINO,0
+Cochabamba,30901,Quillacollo,2023,9,b. 6 m a menor de 1 ano / MASCULINO,0
+La Paz,20105,El Alto,2023,11,b. 6 m a menor de 1 ano / MASCULINO,0
+La Paz,21204,Puerto Perez,2023,11,b. 6 m a menor de 1 ano / MASCULINO,0
+Chuquisaca,10101,Sucre,2023,11,b. 6 m a menor de 1 ano / MASCULINO,0
+La Paz,20104,Achocalla,2023,12,b. 6 m a menor de 1 ano / MASCULINO,0
+Cochabamba,30904,Vinto,2023,12,b. 6 m a menor de 1 ano / MASCULINO,0
+Cochabamba,30903,Tiquipaya,2023,2,b. 6 m a menor de 1 ano / FEMENINO,0
+La Paz,22001,Caranavi,2023,4,b. 6 m a menor de 1 ano / FEMENINO,0
+La Paz,21701,Copacabana,2023,5,b. 6 m a menor de 1 ano / FEMENINO,0
+La Paz,20101,La Paz,2023,5,b. 6 m a menor de 1 ano / FEMENINO,0
+Chuquisaca,10101,Sucre,2023,5,b. 6 m a menor de 1 ano / FEMENINO,0
+Beni,80201,Riberalta,2023,6,b. 6 m a menor de 1 ano / FEMENINO,0
+Beni,80304,Rurrenabaque,2023,8,b. 6 m a menor de 1 ano / FEMENINO,0
+La Paz,20101,La Paz,2023,9,b. 6 m a menor de 1 ano / FEMENINO,0
+Cochabamba,30901,Quillacollo,2023,9,b. 6 m a menor de 1 ano / FEMENINO,0
+La Paz,20105,El Alto,2023,11,b. 6 m a menor de 1 ano / FEMENINO,0
+La Paz,21204,Puerto Perez,2023,11,b. 6 m a menor de 1 ano / FEMENINO,0
+Chuquisaca,10101,Sucre,2023,11,b. 6 m a menor de 1 ano / FEMENINO,0
+La Paz,20104,Achocalla,2023,12,b. 6 m a menor de 1 ano / FEMENINO,0
+Cochabamba,30904,Vinto,2023,12,b. 6 m a menor de 1 ano / FEMENINO,0
+Cochabamba,30903,Tiquipaya,2023,2,c. 1 - 4 anos / MASCULINO,0
+La Paz,22001,Caranavi,2023,4,c. 1 - 4 anos / MASCULINO,0
+La Paz,21701,Copacabana,2023,5,c. 1 - 4 anos / MASCULINO,0
+La Paz,20101,La Paz,2023,5,c. 1 - 4 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2023,5,c. 1 - 4 anos / MASCULINO,0
+Beni,80201,Riberalta,2023,6,c. 1 - 4 anos / MASCULINO,0
+Beni,80304,Rurrenabaque,2023,8,c. 1 - 4 anos / MASCULINO,0
+La Paz,20101,La Paz,2023,9,c. 1 - 4 anos / MASCULINO,0
+Cochabamba,30901,Quillacollo,2023,9,c. 1 - 4 anos / MASCULINO,0
+La Paz,20105,El Alto,2023,11,c. 1 - 4 anos / MASCULINO,0
+La Paz,21204,Puerto Perez,2023,11,c. 1 - 4 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2023,11,c. 1 - 4 anos / MASCULINO,0
+La Paz,20104,Achocalla,2023,12,c. 1 - 4 anos / MASCULINO,0
+Cochabamba,30904,Vinto,2023,12,c. 1 - 4 anos / MASCULINO,0
+Cochabamba,30903,Tiquipaya,2023,2,c. 1 - 4 anos / FEMENINO,0
+La Paz,22001,Caranavi,2023,4,c. 1 - 4 anos / FEMENINO,0
+La Paz,21701,Copacabana,2023,5,c. 1 - 4 anos / FEMENINO,0
+La Paz,20101,La Paz,2023,5,c. 1 - 4 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2023,5,c. 1 - 4 anos / FEMENINO,0
+Beni,80201,Riberalta,2023,6,c. 1 - 4 anos / FEMENINO,0
+Beni,80304,Rurrenabaque,2023,8,c. 1 - 4 anos / FEMENINO,0
+La Paz,20101,La Paz,2023,9,c. 1 - 4 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2023,9,c. 1 - 4 anos / FEMENINO,0
+La Paz,20105,El Alto,2023,11,c. 1 - 4 anos / FEMENINO,0
+La Paz,21204,Puerto Perez,2023,11,c. 1 - 4 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2023,11,c. 1 - 4 anos / FEMENINO,0
+La Paz,20104,Achocalla,2023,12,c. 1 - 4 anos / FEMENINO,0
+Cochabamba,30904,Vinto,2023,12,c. 1 - 4 anos / FEMENINO,0
+Cochabamba,30903,Tiquipaya,2023,2,d. 5 - 9 anos / MASCULINO,0
+La Paz,22001,Caranavi,2023,4,d. 5 - 9 anos / MASCULINO,0
+La Paz,21701,Copacabana,2023,5,d. 5 - 9 anos / MASCULINO,0
+La Paz,20101,La Paz,2023,5,d. 5 - 9 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2023,5,d. 5 - 9 anos / MASCULINO,0
+Beni,80201,Riberalta,2023,6,d. 5 - 9 anos / MASCULINO,0
+Beni,80304,Rurrenabaque,2023,8,d. 5 - 9 anos / MASCULINO,0
+La Paz,20101,La Paz,2023,9,d. 5 - 9 anos / MASCULINO,0
+Cochabamba,30901,Quillacollo,2023,9,d. 5 - 9 anos / MASCULINO,0
+La Paz,20105,El Alto,2023,11,d. 5 - 9 anos / MASCULINO,0
+La Paz,21204,Puerto Perez,2023,11,d. 5 - 9 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2023,11,d. 5 - 9 anos / MASCULINO,0
+La Paz,20104,Achocalla,2023,12,d. 5 - 9 anos / MASCULINO,0
+Cochabamba,30904,Vinto,2023,12,d. 5 - 9 anos / MASCULINO,0
+Cochabamba,30903,Tiquipaya,2023,2,d. 5 - 9 anos / FEMENINO,0
+La Paz,22001,Caranavi,2023,4,d. 5 - 9 anos / FEMENINO,0
+La Paz,21701,Copacabana,2023,5,d. 5 - 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2023,5,d. 5 - 9 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2023,5,d. 5 - 9 anos / FEMENINO,0
+Beni,80201,Riberalta,2023,6,d. 5 - 9 anos / FEMENINO,0
+Beni,80304,Rurrenabaque,2023,8,d. 5 - 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2023,9,d. 5 - 9 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2023,9,d. 5 - 9 anos / FEMENINO,0
+La Paz,20105,El Alto,2023,11,d. 5 - 9 anos / FEMENINO,0
+La Paz,21204,Puerto Perez,2023,11,d. 5 - 9 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2023,11,d. 5 - 9 anos / FEMENINO,0
+La Paz,20104,Achocalla,2023,12,d. 5 - 9 anos / FEMENINO,0
+Cochabamba,30904,Vinto,2023,12,d. 5 - 9 anos / FEMENINO,0
+Cochabamba,30903,Tiquipaya,2023,2,e. 10 - 14 anos / MASCULINO,0
+La Paz,22001,Caranavi,2023,4,e. 10 - 14 anos / MASCULINO,1
+La Paz,21701,Copacabana,2023,5,e. 10 - 14 anos / MASCULINO,0
+La Paz,20101,La Paz,2023,5,e. 10 - 14 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2023,5,e. 10 - 14 anos / MASCULINO,0
+Beni,80201,Riberalta,2023,6,e. 10 - 14 anos / MASCULINO,0
+Beni,80304,Rurrenabaque,2023,8,e. 10 - 14 anos / MASCULINO,0
+La Paz,20101,La Paz,2023,9,e. 10 - 14 anos / MASCULINO,0
+Cochabamba,30901,Quillacollo,2023,9,e. 10 - 14 anos / MASCULINO,0
+La Paz,20105,El Alto,2023,11,e. 10 - 14 anos / MASCULINO,0
+La Paz,21204,Puerto Perez,2023,11,e. 10 - 14 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2023,11,e. 10 - 14 anos / MASCULINO,0
+La Paz,20104,Achocalla,2023,12,e. 10 - 14 anos / MASCULINO,0
+Cochabamba,30904,Vinto,2023,12,e. 10 - 14 anos / MASCULINO,0
+Cochabamba,30903,Tiquipaya,2023,2,e. 10 - 14 anos / FEMENINO,0
+La Paz,22001,Caranavi,2023,4,e. 10 - 14 anos / FEMENINO,0
+La Paz,21701,Copacabana,2023,5,e. 10 - 14 anos / FEMENINO,0
+La Paz,20101,La Paz,2023,5,e. 10 - 14 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2023,5,e. 10 - 14 anos / FEMENINO,0
+Beni,80201,Riberalta,2023,6,e. 10 - 14 anos / FEMENINO,0
+Beni,80304,Rurrenabaque,2023,8,e. 10 - 14 anos / FEMENINO,0
+La Paz,20101,La Paz,2023,9,e. 10 - 14 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2023,9,e. 10 - 14 anos / FEMENINO,0
+La Paz,20105,El Alto,2023,11,e. 10 - 14 anos / FEMENINO,0
+La Paz,21204,Puerto Perez,2023,11,e. 10 - 14 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2023,11,e. 10 - 14 anos / FEMENINO,0
+La Paz,20104,Achocalla,2023,12,e. 10 - 14 anos / FEMENINO,0
+Cochabamba,30904,Vinto,2023,12,e. 10 - 14 anos / FEMENINO,0
+Cochabamba,30903,Tiquipaya,2023,2,f. 15 - 19 anos / MASCULINO,0
+La Paz,22001,Caranavi,2023,4,f. 15 - 19 anos / MASCULINO,0
+La Paz,21701,Copacabana,2023,5,f. 15 - 19 anos / MASCULINO,0
+La Paz,20101,La Paz,2023,5,f. 15 - 19 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2023,5,f. 15 - 19 anos / MASCULINO,0
+Beni,80201,Riberalta,2023,6,f. 15 - 19 anos / MASCULINO,0
+Beni,80304,Rurrenabaque,2023,8,f. 15 - 19 anos / MASCULINO,0
+La Paz,20101,La Paz,2023,9,f. 15 - 19 anos / MASCULINO,0
+Cochabamba,30901,Quillacollo,2023,9,f. 15 - 19 anos / MASCULINO,0
+La Paz,20105,El Alto,2023,11,f. 15 - 19 anos / MASCULINO,0
+La Paz,21204,Puerto Perez,2023,11,f. 15 - 19 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2023,11,f. 15 - 19 anos / MASCULINO,0
+La Paz,20104,Achocalla,2023,12,f. 15 - 19 anos / MASCULINO,0
+Cochabamba,30904,Vinto,2023,12,f. 15 - 19 anos / MASCULINO,0
+Cochabamba,30903,Tiquipaya,2023,2,f. 15 - 19 anos / FEMENINO,0
+La Paz,22001,Caranavi,2023,4,f. 15 - 19 anos / FEMENINO,0
+La Paz,21701,Copacabana,2023,5,f. 15 - 19 anos / FEMENINO,0
+La Paz,20101,La Paz,2023,5,f. 15 - 19 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2023,5,f. 15 - 19 anos / FEMENINO,0
+Beni,80201,Riberalta,2023,6,f. 15 - 19 anos / FEMENINO,0
+Beni,80304,Rurrenabaque,2023,8,f. 15 - 19 anos / FEMENINO,0
+La Paz,20101,La Paz,2023,9,f. 15 - 19 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2023,9,f. 15 - 19 anos / FEMENINO,0
+La Paz,20105,El Alto,2023,11,f. 15 - 19 anos / FEMENINO,0
+La Paz,21204,Puerto Perez,2023,11,f. 15 - 19 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2023,11,f. 15 - 19 anos / FEMENINO,0
+La Paz,20104,Achocalla,2023,12,f. 15 - 19 anos / FEMENINO,0
+Cochabamba,30904,Vinto,2023,12,f. 15 - 19 anos / FEMENINO,0
+Cochabamba,30903,Tiquipaya,2023,2,g. 20 - 39 anos / MASCULINO,1
+La Paz,22001,Caranavi,2023,4,g. 20 - 39 anos / MASCULINO,0
+La Paz,21701,Copacabana,2023,5,g. 20 - 39 anos / MASCULINO,0
+La Paz,20101,La Paz,2023,5,g. 20 - 39 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2023,5,g. 20 - 39 anos / MASCULINO,1
+Beni,80201,Riberalta,2023,6,g. 20 - 39 anos / MASCULINO,0
+Beni,80304,Rurrenabaque,2023,8,g. 20 - 39 anos / MASCULINO,0
+La Paz,20101,La Paz,2023,9,g. 20 - 39 anos / MASCULINO,0
+Cochabamba,30901,Quillacollo,2023,9,g. 20 - 39 anos / MASCULINO,0
+La Paz,20105,El Alto,2023,11,g. 20 - 39 anos / MASCULINO,0
+La Paz,21204,Puerto Perez,2023,11,g. 20 - 39 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2023,11,g. 20 - 39 anos / MASCULINO,1
+La Paz,20104,Achocalla,2023,12,g. 20 - 39 anos / MASCULINO,0
+Cochabamba,30904,Vinto,2023,12,g. 20 - 39 anos / MASCULINO,0
+Cochabamba,30903,Tiquipaya,2023,2,g. 20 - 39 anos / FEMENINO,0
+La Paz,22001,Caranavi,2023,4,g. 20 - 39 anos / FEMENINO,0
+La Paz,21701,Copacabana,2023,5,g. 20 - 39 anos / FEMENINO,0
+La Paz,20101,La Paz,2023,5,g. 20 - 39 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2023,5,g. 20 - 39 anos / FEMENINO,0
+Beni,80201,Riberalta,2023,6,g. 20 - 39 anos / FEMENINO,0
+Beni,80304,Rurrenabaque,2023,8,g. 20 - 39 anos / FEMENINO,0
+La Paz,20101,La Paz,2023,9,g. 20 - 39 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2023,9,g. 20 - 39 anos / FEMENINO,0
+La Paz,20105,El Alto,2023,11,g. 20 - 39 anos / FEMENINO,0
+La Paz,21204,Puerto Perez,2023,11,g. 20 - 39 anos / FEMENINO,1
+Chuquisaca,10101,Sucre,2023,11,g. 20 - 39 anos / FEMENINO,0
+La Paz,20104,Achocalla,2023,12,g. 20 - 39 anos / FEMENINO,0
+Cochabamba,30904,Vinto,2023,12,g. 20 - 39 anos / FEMENINO,0
+Cochabamba,30903,Tiquipaya,2023,2,h. 40 - 49 anos / MASCULINO,0
+La Paz,22001,Caranavi,2023,4,h. 40 - 49 anos / MASCULINO,0
+La Paz,21701,Copacabana,2023,5,h. 40 - 49 anos / MASCULINO,0
+La Paz,20101,La Paz,2023,5,h. 40 - 49 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2023,5,h. 40 - 49 anos / MASCULINO,0
+Beni,80201,Riberalta,2023,6,h. 40 - 49 anos / MASCULINO,0
+Beni,80304,Rurrenabaque,2023,8,h. 40 - 49 anos / MASCULINO,0
+La Paz,20101,La Paz,2023,9,h. 40 - 49 anos / MASCULINO,0
+Cochabamba,30901,Quillacollo,2023,9,h. 40 - 49 anos / MASCULINO,0
+La Paz,20105,El Alto,2023,11,h. 40 - 49 anos / MASCULINO,0
+La Paz,21204,Puerto Perez,2023,11,h. 40 - 49 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2023,11,h. 40 - 49 anos / MASCULINO,0
+La Paz,20104,Achocalla,2023,12,h. 40 - 49 anos / MASCULINO,0
+Cochabamba,30904,Vinto,2023,12,h. 40 - 49 anos / MASCULINO,0
+Cochabamba,30903,Tiquipaya,2023,2,h. 40 - 49 anos / FEMENINO,0
+La Paz,22001,Caranavi,2023,4,h. 40 - 49 anos / FEMENINO,0
+La Paz,21701,Copacabana,2023,5,h. 40 - 49 anos / FEMENINO,1
+La Paz,20101,La Paz,2023,5,h. 40 - 49 anos / FEMENINO,1
+Chuquisaca,10101,Sucre,2023,5,h. 40 - 49 anos / FEMENINO,0
+Beni,80201,Riberalta,2023,6,h. 40 - 49 anos / FEMENINO,0
+Beni,80304,Rurrenabaque,2023,8,h. 40 - 49 anos / FEMENINO,0
+La Paz,20101,La Paz,2023,9,h. 40 - 49 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2023,9,h. 40 - 49 anos / FEMENINO,0
+La Paz,20105,El Alto,2023,11,h. 40 - 49 anos / FEMENINO,0
+La Paz,21204,Puerto Perez,2023,11,h. 40 - 49 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2023,11,h. 40 - 49 anos / FEMENINO,0
+La Paz,20104,Achocalla,2023,12,h. 40 - 49 anos / FEMENINO,0
+Cochabamba,30904,Vinto,2023,12,h. 40 - 49 anos / FEMENINO,0
+Cochabamba,30903,Tiquipaya,2023,2,i. 50 - 59 anos / MASCULINO,0
+La Paz,22001,Caranavi,2023,4,i. 50 - 59 anos / MASCULINO,0
+La Paz,21701,Copacabana,2023,5,i. 50 - 59 anos / MASCULINO,0
+La Paz,20101,La Paz,2023,5,i. 50 - 59 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2023,5,i. 50 - 59 anos / MASCULINO,0
+Beni,80201,Riberalta,2023,6,i. 50 - 59 anos / MASCULINO,0
+Beni,80304,Rurrenabaque,2023,8,i. 50 - 59 anos / MASCULINO,0
+La Paz,20101,La Paz,2023,9,i. 50 - 59 anos / MASCULINO,0
+Cochabamba,30901,Quillacollo,2023,9,i. 50 - 59 anos / MASCULINO,0
+La Paz,20105,El Alto,2023,11,i. 50 - 59 anos / MASCULINO,0
+La Paz,21204,Puerto Perez,2023,11,i. 50 - 59 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2023,11,i. 50 - 59 anos / MASCULINO,0
+La Paz,20104,Achocalla,2023,12,i. 50 - 59 anos / MASCULINO,0
+Cochabamba,30904,Vinto,2023,12,i. 50 - 59 anos / MASCULINO,0
+Cochabamba,30903,Tiquipaya,2023,2,i. 50 - 59 anos / FEMENINO,0
+La Paz,22001,Caranavi,2023,4,i. 50 - 59 anos / FEMENINO,0
+La Paz,21701,Copacabana,2023,5,i. 50 - 59 anos / FEMENINO,0
+La Paz,20101,La Paz,2023,5,i. 50 - 59 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2023,5,i. 50 - 59 anos / FEMENINO,0
+Beni,80201,Riberalta,2023,6,i. 50 - 59 anos / FEMENINO,1
+Beni,80304,Rurrenabaque,2023,8,i. 50 - 59 anos / FEMENINO,0
+La Paz,20101,La Paz,2023,9,i. 50 - 59 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2023,9,i. 50 - 59 anos / FEMENINO,0
+La Paz,20105,El Alto,2023,11,i. 50 - 59 anos / FEMENINO,0
+La Paz,21204,Puerto Perez,2023,11,i. 50 - 59 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2023,11,i. 50 - 59 anos / FEMENINO,0
+La Paz,20104,Achocalla,2023,12,i. 50 - 59 anos / FEMENINO,0
+Cochabamba,30904,Vinto,2023,12,i. 50 - 59 anos / FEMENINO,0
+Cochabamba,30903,Tiquipaya,2023,2,j. 60 anos y mas / MASCULINO,0
+La Paz,22001,Caranavi,2023,4,j. 60 anos y mas / MASCULINO,0
+La Paz,21701,Copacabana,2023,5,j. 60 anos y mas / MASCULINO,0
+La Paz,20101,La Paz,2023,5,j. 60 anos y mas / MASCULINO,0
+Chuquisaca,10101,Sucre,2023,5,j. 60 anos y mas / MASCULINO,0
+Beni,80201,Riberalta,2023,6,j. 60 anos y mas / MASCULINO,0
+Beni,80304,Rurrenabaque,2023,8,j. 60 anos y mas / MASCULINO,1
+La Paz,20101,La Paz,2023,9,j. 60 anos y mas / MASCULINO,0
+Cochabamba,30901,Quillacollo,2023,9,j. 60 anos y mas / MASCULINO,1
+La Paz,20105,El Alto,2023,11,j. 60 anos y mas / MASCULINO,1
+La Paz,21204,Puerto Perez,2023,11,j. 60 anos y mas / MASCULINO,0
+Chuquisaca,10101,Sucre,2023,11,j. 60 anos y mas / MASCULINO,0
+La Paz,20104,Achocalla,2023,12,j. 60 anos y mas / MASCULINO,1
+Cochabamba,30904,Vinto,2023,12,j. 60 anos y mas / MASCULINO,0
+Cochabamba,30903,Tiquipaya,2023,2,j. 60 anos y mas / FEMENINO,0
+La Paz,22001,Caranavi,2023,4,j. 60 anos y mas / FEMENINO,0
+La Paz,21701,Copacabana,2023,5,j. 60 anos y mas / FEMENINO,0
+La Paz,20101,La Paz,2023,5,j. 60 anos y mas / FEMENINO,0
+Chuquisaca,10101,Sucre,2023,5,j. 60 anos y mas / FEMENINO,0
+Beni,80201,Riberalta,2023,6,j. 60 anos y mas / FEMENINO,0
+Beni,80304,Rurrenabaque,2023,8,j. 60 anos y mas / FEMENINO,0
+La Paz,20101,La Paz,2023,9,j. 60 anos y mas / FEMENINO,1
+Cochabamba,30901,Quillacollo,2023,9,j. 60 anos y mas / FEMENINO,0
+La Paz,20105,El Alto,2023,11,j. 60 anos y mas / FEMENINO,0
+La Paz,21204,Puerto Perez,2023,11,j. 60 anos y mas / FEMENINO,0
+Chuquisaca,10101,Sucre,2023,11,j. 60 anos y mas / FEMENINO,0
+La Paz,20104,Achocalla,2023,12,j. 60 anos y mas / FEMENINO,0
+Cochabamba,30904,Vinto,2023,12,j. 60 anos y mas / FEMENINO,1
+Cochabamba,30903,Tiquipaya,2023,2,TOTALES / DENTRO,1
+La Paz,22001,Caranavi,2023,4,TOTALES / DENTRO,1
+La Paz,21701,Copacabana,2023,5,TOTALES / DENTRO,0
+La Paz,20101,La Paz,2023,5,TOTALES / DENTRO,0
+Chuquisaca,10101,Sucre,2023,5,TOTALES / DENTRO,1
+Beni,80201,Riberalta,2023,6,TOTALES / DENTRO,0
+Beni,80304,Rurrenabaque,2023,8,TOTALES / DENTRO,1
+La Paz,20101,La Paz,2023,9,TOTALES / DENTRO,0
+Cochabamba,30901,Quillacollo,2023,9,TOTALES / DENTRO,1
+La Paz,20105,El Alto,2023,11,TOTALES / DENTRO,1
+La Paz,21204,Puerto Perez,2023,11,TOTALES / DENTRO,0
+Chuquisaca,10101,Sucre,2023,11,TOTALES / DENTRO,1
+La Paz,20104,Achocalla,2023,12,TOTALES / DENTRO,1
+Cochabamba,30904,Vinto,2023,12,TOTALES / DENTRO,0
+Cochabamba,30903,Tiquipaya,2023,2,TOTALES / FUERA,0
+La Paz,22001,Caranavi,2023,4,TOTALES / FUERA,0
+La Paz,21701,Copacabana,2023,5,TOTALES / FUERA,1
+La Paz,20101,La Paz,2023,5,TOTALES / FUERA,1
+Chuquisaca,10101,Sucre,2023,5,TOTALES / FUERA,0
+Beni,80201,Riberalta,2023,6,TOTALES / FUERA,1
+Beni,80304,Rurrenabaque,2023,8,TOTALES / FUERA,0
+La Paz,20101,La Paz,2023,9,TOTALES / FUERA,1
+Cochabamba,30901,Quillacollo,2023,9,TOTALES / FUERA,0
+La Paz,20105,El Alto,2023,11,TOTALES / FUERA,0
+La Paz,21204,Puerto Perez,2023,11,TOTALES / FUERA,1
+Chuquisaca,10101,Sucre,2023,11,TOTALES / FUERA,0
+La Paz,20104,Achocalla,2023,12,TOTALES / FUERA,0
+Cochabamba,30904,Vinto,2023,12,TOTALES / FUERA,1
+Cochabamba,30903,Tiquipaya,2023,2,TOTALES / TOTAL,1
+La Paz,22001,Caranavi,2023,4,TOTALES / TOTAL,1
+La Paz,21701,Copacabana,2023,5,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2023,5,TOTALES / TOTAL,1
+Chuquisaca,10101,Sucre,2023,5,TOTALES / TOTAL,1
+Beni,80201,Riberalta,2023,6,TOTALES / TOTAL,1
+Beni,80304,Rurrenabaque,2023,8,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2023,9,TOTALES / TOTAL,1
+Cochabamba,30901,Quillacollo,2023,9,TOTALES / TOTAL,1
+La Paz,20105,El Alto,2023,11,TOTALES / TOTAL,1
+La Paz,21204,Puerto Perez,2023,11,TOTALES / TOTAL,1
+Chuquisaca,10101,Sucre,2023,11,TOTALES / TOTAL,1
+La Paz,20104,Achocalla,2023,12,TOTALES / TOTAL,1
+Cochabamba,30904,Vinto,2023,12,TOTALES / TOTAL,1

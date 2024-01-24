@@ -1,0 +1,59 @@
+,group,variable,month,a. Menor de 6 meses - D,a. Menor de 6 meses - D,a. Menor de 6 meses - F,a. Menor de 6 meses - F,b. 6 m a menor de 1 año - D,b. 6 m a menor de 1 año - D,b. 6 m a menor de 1 año - F,b. 6 m a menor de 1 año - F,c. 1 - 4 años - D,c. 1 - 4 años - D,c. 1 - 4 años - F,c. 1 - 4 años - F,d. 5 - 9 años - D,d. 5 - 9 años - D,d. 5 - 9 años - F,d. 5 - 9 años - F,e. 10 a 14 años - D,e. 10 a 14 años - D,e. 10 a 14 años - F,e. 10 a 14 años - F,f. 15 - 19 años - D,f. 15 - 19 años - D,f. 15 - 19 años - F,f. 15 - 19 años - F,f. 15 - 19 años - F,f. 15 - 19 años - F,g. 20 - 39 años - D,g. 20 - 39 años - D,g. 20 - 39 años - F,g. 20 - 39 años - F,h. 40 - 49 años - D,h. 40 - 49 años - D,h. 40 - 49 años - F,h. 40 - 49 años - F,i. 50 - 59 años - D,i. 50 - 59 años - D,i. 50 - 59 años - F,i. 50 - 59 años - F,j. 60 años y más - D,j. 60 años y más - D,j. 60 años y más - F,j. 60 años y más - F,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO.1,FEMENINO.1,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MONTERO,mortalidad,sospecha de muerte por dengue,2023-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,3,0,0,0,0,2,4,6
+PORTACHUELO,mortalidad,sospecha de muerte por dengue,2023-01-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+RIBERALTA,mortalidad,sospecha de muerte por dengue,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,mortalidad,sospecha de muerte por dengue,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,mortalidad,sospecha de muerte por dengue,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2,4
+TRINIDAD,mortalidad,sospecha de muerte por dengue,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,mortalidad,sospecha de muerte por dengue,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+MONTERO,mortalidad,sospecha de muerte por dengue,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+RIBERALTA,mortalidad,sospecha de muerte por dengue,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ROBORE,mortalidad,sospecha de muerte por dengue,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN JAVIER(STC),mortalidad,sospecha de muerte por dengue,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,mortalidad,sospecha de muerte por dengue,2023-02-01,0,1,0,0,1,0,0,0,1,1,0,0,6,3,0,0,1,0,0,0,2,0,0,0,0,2,0,0,1,1,0,0,2,0,0,0,2,1,0,0,0,1,16,9,25
+TARIJA,mortalidad,sospecha de muerte por dengue,2023-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,mortalidad,sospecha de muerte por dengue,2023-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ENTRE RIOS TRJ,mortalidad,sospecha de muerte por dengue,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,2,0,0,2,3,5
+GUAYARAMERIN,mortalidad,sospecha de muerte por dengue,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,mortalidad,sospecha de muerte por dengue,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MAPIRI,mortalidad,sospecha de muerte por dengue,2023-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MONTERO,mortalidad,sospecha de muerte por dengue,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,mortalidad,sospecha de muerte por dengue,2023-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,mortalidad,sospecha de muerte por dengue,2023-03-01,0,0,0,0,1,0,0,0,1,1,0,0,1,2,0,0,2,0,0,0,0,0,0,0,2,5,0,0,0,1,0,0,1,0,0,0,3,2,0,0,0,0,11,11,22
+TARIJA,mortalidad,sospecha de muerte por dengue,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+TRINIDAD,mortalidad,sospecha de muerte por dengue,2023-03-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+YACUIBA,mortalidad,sospecha de muerte por dengue,2023-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+COTOCA,mortalidad,sospecha de muerte por dengue,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+EL ALTO,mortalidad,sospecha de muerte por dengue,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+EL TORNO,mortalidad,sospecha de muerte por dengue,2023-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LA GUARDIA,mortalidad,sospecha de muerte por dengue,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+MAPIRI,mortalidad,sospecha de muerte por dengue,2023-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,mortalidad,sospecha de muerte por dengue,2023-04-01,0,0,0,0,0,0,0,0,1,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+TARIJA,mortalidad,sospecha de muerte por dengue,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TRINIDAD,mortalidad,sospecha de muerte por dengue,2023-04-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+COCHABAMBA,mortalidad,sospecha de muerte por dengue,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,2,1,3
+COROICO,mortalidad,sospecha de muerte por dengue,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+MONTERO,mortalidad,sospecha de muerte por dengue,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,2,1,3
+RIBERALTA,mortalidad,sospecha de muerte por dengue,2023-05-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2
+SANTA CRUZ DE LA SIERRA,mortalidad,sospecha de muerte por dengue,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+TRINIDAD,mortalidad,sospecha de muerte por dengue,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CHARAGUA,mortalidad,sospecha de muerte por dengue,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,mortalidad,sospecha de muerte por dengue,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+TRINIDAD,mortalidad,sospecha de muerte por dengue,2023-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,mortalidad,sospecha de muerte por dengue,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+RIBERALTA,mortalidad,sospecha de muerte por dengue,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SAN JOSE DE CHIQUITOS,mortalidad,sospecha de muerte por dengue,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,3,3
+COBIJA,mortalidad,sospecha de muerte por dengue,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+LA PAZ,mortalidad,sospecha de muerte por dengue,2023-09-01,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+VILLA MONTES,mortalidad,sospecha de muerte por dengue,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+EL ALTO,mortalidad,sospecha de muerte por dengue,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,1,3
+SANTA CRUZ DE LA SIERRA,mortalidad,sospecha de muerte por dengue,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SANTA ROSA DEL SARA,mortalidad,sospecha de muerte por dengue,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+LA PAZ,mortalidad,sospecha de muerte por dengue,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+PALOS BLANCOS,mortalidad,sospecha de muerte por dengue,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO,mortalidad,sospecha de muerte por dengue,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,mortalidad,sospecha de muerte por dengue,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,2,3,5
+YAPACANI,mortalidad,sospecha de muerte por dengue,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+TINGUIPAYA,mortalidad,sospecha de muerte por dengue,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1

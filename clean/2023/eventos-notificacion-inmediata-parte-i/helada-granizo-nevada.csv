@@ -1,0 +1,88 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20201,Achacachi,2023,1,TOTAL,443
+Oruro,40201,Challapata,2023,1,TOTAL,61
+La Paz,20501,Chuma,2023,1,TOTAL,302
+Cochabamba,31002,Colomi,2023,1,TOTAL,1
+Chuquisaca,10103,Poroma,2023,1,TOTAL,23
+La Paz,21901,Santiago De Machaca,2023,1,TOTAL,1
+Chuquisaca,10101,Sucre,2023,1,TOTAL,90
+Santa Cruz,70802,Trigal,2023,1,TOTAL,21
+Cochabamba,30502,Vacas,2023,1,TOTAL,11
+Chuquisaca,10704,Villa Charcas,2023,1,TOTAL,109
+Chuquisaca,10301,Zudañez,2023,1,TOTAL,8
+Chuquisaca,10201,Azurduy,2023,2,TOTAL,5
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2023,2,TOTAL,153
+Potosí,51103,Ckochas,2023,2,TOTAL,1
+Chuquisaca,10703,Incahuasi,2023,2,TOTAL,181
+Chuquisaca,10903,Las Carreras,2023,2,TOTAL,369
+Chuquisaca,10702,San Lucas,2023,2,TOTAL,27
+Chuquisaca,10601,Tarabuco,2023,2,TOTAL,36
+Tarija,60402,Yunchara,2023,2,TOTAL,19
+Chuquisaca,10201,Azurduy,2023,3,TOTAL,105
+Chuquisaca,10903,Las Carreras,2023,3,TOTAL,1015
+Chuquisaca,10103,Poroma,2023,3,TOTAL,2
+Chuquisaca,10302,Presto,2023,3,TOTAL,182
+La Paz,20604,Quiabaya,2023,3,TOTAL,1
+Chuquisaca,10702,San Lucas,2023,3,TOTAL,241
+La Paz,20601,Sorata,2023,3,TOTAL,52
+La Paz,20803,Tiahuanacu,2023,3,TOTAL,36
+Cochabamba,30502,Vacas,2023,3,TOTAL,62
+Potosí,51501,Villazon,2023,3,TOTAL,138
+Chuquisaca,10201,Azurduy,2023,4,TOTAL,72
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2023,4,TOTAL,441
+Chuquisaca,10702,San Lucas,2023,4,TOTAL,92
+Chuquisaca,10202,Tarvita,2023,4,TOTAL,189
+Chuquisaca,10301,Zudañez,2023,4,TOTAL,1
+Cochabamba,30303,Cocapata,2023,5,TOTAL,1
+Chuquisaca,10103,Poroma,2023,5,TOTAL,90
+Chuquisaca,10302,Presto,2023,5,TOTAL,17
+Cochabamba,31304,Raqaypampa(eta),2023,5,TOTAL,6
+Cochabamba,31002,Colomi,2023,6,TOTAL,1
+Tarija,60601,Entre Rios Trj,2023,6,TOTAL,694
+Cochabamba,31301,Mizque,2023,6,TOTAL,5
+Santa Cruz,70902,Pampa Grande,2023,6,TOTAL,283
+Cochabamba,30202,Pasorapa,2023,6,TOTAL,1
+Chuquisaca,10103,Poroma,2023,6,TOTAL,16
+Santa Cruz,70804,Postrer Valle,2023,6,TOTAL,2
+Santa Cruz,70805,Pucara,2023,6,TOTAL,2
+Tarija,60101,Tarija,2023,6,TOTAL,81
+Chuquisaca,10202,Tarvita,2023,6,TOTAL,713
+Santa Cruz,70802,Trigal,2023,6,TOTAL,55
+Santa Cruz,70801,Vallegrande,2023,6,TOTAL,275
+Chuquisaca,10301,Zudañez,2023,6,TOTAL,16
+Chuquisaca,10404,Alcala,2023,9,TOTAL,1
+Chuquisaca,10202,Tarvita,2023,9,TOTAL,219
+Chuquisaca,10701,Camargo,2023,10,TOTAL,108
+Cochabamba,31002,Colomi,2023,10,TOTAL,1
+Potosí,50601,Cotagaita,2023,10,TOTAL,61
+Chuquisaca,10703,Incahuasi,2023,10,TOTAL,41
+Chuquisaca,10903,Las Carreras,2023,10,TOTAL,71
+Chuquisaca,10702,San Lucas,2023,10,TOTAL,81
+Chuquisaca,10202,Tarvita,2023,10,TOTAL,7
+Tarija,60402,Yunchara,2023,10,TOTAL,32
+Chuquisaca,10301,Zudañez,2023,10,TOTAL,42
+Chuquisaca,10404,Alcala,2023,11,TOTAL,2
+Chuquisaca,10201,Azurduy,2023,11,TOTAL,254
+Tarija,60202,Bermejo,2023,11,TOTAL,1
+Chuquisaca,10701,Camargo,2023,11,TOTAL,86
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2023,11,TOTAL,76
+Chuquisaca,10902,Culpina,2023,11,TOTAL,80
+Chuquisaca,10703,Incahuasi,2023,11,TOTAL,263
+Santa Cruz,70701,Lagunillas,2023,11,TOTAL,2
+Chuquisaca,10401,Padilla,2023,11,TOTAL,353
+Potosí,50402,Ravelo,2023,11,TOTAL,1
+Chuquisaca,10403,Sopachuy,2023,11,TOTAL,5
+Chuquisaca,10202,Tarvita,2023,11,TOTAL,51
+Chuquisaca,10704,Villa Charcas,2023,11,TOTAL,407
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2023,11,TOTAL,31
+Chuquisaca,10301,Zudañez,2023,11,TOTAL,247
+Cochabamba,30601,Arque,2023,12,TOTAL,1
+Potosí,50601,Cotagaita,2023,12,TOTAL,69
+Tarija,60502,El Puente(tja),2023,12,TOTAL,87
+Santa Cruz,70701,Lagunillas,2023,12,TOTAL,251
+Chuquisaca,10702,San Lucas,2023,12,TOTAL,203
+Potosí,50502,Toro Toro,2023,12,TOTAL,1
+Potosí,50801,Tupiza,2023,12,TOTAL,33
+Chuquisaca,10704,Villa Charcas,2023,12,TOTAL,1
+Chuquisaca,10102,Yotala,2023,12,TOTAL,201
+Tarija,60402,Yunchara,2023,12,TOTAL,78

@@ -1,0 +1,70 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,1,TOTALES / DENTRO,2
+Beni,80201,Riberalta,2023,2,TOTALES / DENTRO,1
+Santa Cruz,70301,San Ignacio De Velasco,2023,2,TOTALES / DENTRO,1
+Chuquisaca,10101,Sucre,2023,2,TOTALES / DENTRO,1
+Tarija,60101,Tarija,2023,2,TOTALES / DENTRO,1
+Pando,90502,Villa Nueva (loma Alta),2023,2,TOTALES / DENTRO,0
+Pando,90101,Cobija,2023,3,TOTALES / DENTRO,1
+Potosí,50404,Ocuri,2023,3,TOTALES / DENTRO,1
+Potosí,50101,Potosi,2023,3,TOTALES / DENTRO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,3,TOTALES / DENTRO,1
+Chuquisaca,10101,Sucre,2023,3,TOTALES / DENTRO,1
+Santa Cruz,70301,San Ignacio De Velasco,2023,4,TOTALES / DENTRO,1
+Chuquisaca,10101,Sucre,2023,4,TOTALES / DENTRO,1
+Cochabamba,30101,Cochabamba,2023,5,TOTALES / DENTRO,1
+Oruro,40101,Oruro,2023,5,TOTALES / DENTRO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,5,TOTALES / DENTRO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,6,TOTALES / DENTRO,1
+Chuquisaca,10101,Sucre,2023,6,TOTALES / DENTRO,1
+Santa Cruz,71501,Ascencion De Guarayos,2023,7,TOTALES / DENTRO,1
+Santa Cruz,70301,San Ignacio De Velasco,2023,7,TOTALES / DENTRO,0
+Cochabamba,30901,Quillacollo,2023,8,TOTALES / DENTRO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,8,TOTALES / DENTRO,1
+Beni,80101,Trinidad,2023,12,TOTALES / DENTRO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,1,TOTALES / FUERA,0
+Beni,80201,Riberalta,2023,2,TOTALES / FUERA,0
+Santa Cruz,70301,San Ignacio De Velasco,2023,2,TOTALES / FUERA,0
+Chuquisaca,10101,Sucre,2023,2,TOTALES / FUERA,0
+Tarija,60101,Tarija,2023,2,TOTALES / FUERA,0
+Pando,90502,Villa Nueva (loma Alta),2023,2,TOTALES / FUERA,1
+Pando,90101,Cobija,2023,3,TOTALES / FUERA,0
+Potosí,50404,Ocuri,2023,3,TOTALES / FUERA,0
+Potosí,50101,Potosi,2023,3,TOTALES / FUERA,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,3,TOTALES / FUERA,0
+Chuquisaca,10101,Sucre,2023,3,TOTALES / FUERA,0
+Santa Cruz,70301,San Ignacio De Velasco,2023,4,TOTALES / FUERA,1
+Chuquisaca,10101,Sucre,2023,4,TOTALES / FUERA,0
+Cochabamba,30101,Cochabamba,2023,5,TOTALES / FUERA,0
+Oruro,40101,Oruro,2023,5,TOTALES / FUERA,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,5,TOTALES / FUERA,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,6,TOTALES / FUERA,0
+Chuquisaca,10101,Sucre,2023,6,TOTALES / FUERA,0
+Santa Cruz,71501,Ascencion De Guarayos,2023,7,TOTALES / FUERA,0
+Santa Cruz,70301,San Ignacio De Velasco,2023,7,TOTALES / FUERA,1
+Cochabamba,30901,Quillacollo,2023,8,TOTALES / FUERA,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,8,TOTALES / FUERA,0
+Beni,80101,Trinidad,2023,12,TOTALES / FUERA,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,1,TOTALES / TOTAL,2
+Beni,80201,Riberalta,2023,2,TOTALES / TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2023,2,TOTALES / TOTAL,1
+Chuquisaca,10101,Sucre,2023,2,TOTALES / TOTAL,1
+Tarija,60101,Tarija,2023,2,TOTALES / TOTAL,1
+Pando,90502,Villa Nueva (loma Alta),2023,2,TOTALES / TOTAL,1
+Pando,90101,Cobija,2023,3,TOTALES / TOTAL,1
+Potosí,50404,Ocuri,2023,3,TOTALES / TOTAL,1
+Potosí,50101,Potosi,2023,3,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,3,TOTALES / TOTAL,1
+Chuquisaca,10101,Sucre,2023,3,TOTALES / TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2023,4,TOTALES / TOTAL,2
+Chuquisaca,10101,Sucre,2023,4,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2023,5,TOTALES / TOTAL,1
+Oruro,40101,Oruro,2023,5,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,5,TOTALES / TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,6,TOTALES / TOTAL,1
+Chuquisaca,10101,Sucre,2023,6,TOTALES / TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2023,7,TOTALES / TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2023,7,TOTALES / TOTAL,1
+Cochabamba,30901,Quillacollo,2023,8,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,8,TOTALES / TOTAL,1
+Beni,80101,Trinidad,2023,12,TOTALES / TOTAL,1

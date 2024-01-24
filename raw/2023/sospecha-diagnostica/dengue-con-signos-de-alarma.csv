@@ -1,0 +1,688 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+ASCENCION DE GUARAYOS,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,2,0,1,1,2,0,1,2,2,1,0,0,0,0,1,1,9,5,14
+BELLA FLOR,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+BERMEJO,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,1,2,0,2,0,0,0,1,4,4,0,0,1,1,0,1,6,11,17
+BUENA VISTA,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,1,2,11,0,5,13,2,7,0,4,0,0,19,26,45
+CABEZAS,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,1,1,0,1,0,2,0,1,0,1,0,1,0,1,0,1,1,9,10
+CAMIRI,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,2,3,3,1,1,1,0,2,1,2,2,0,1,0,0,0,1,9,11,20
+CARANAVI,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,1,0,1,1,1,0,3,2,0,0,1,1,0,0,0,0,0,0,7,4,11
+CHARAGUA,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,4,2,6
+COBIJA,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,3,2,1,3,4,1,1,0,0,7,1,1,1,0,1,0,12,14,26
+COCHABAMBA,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,1,1,1,0,0,1,3,1,3,0,1,0,1,0,10,3,13
+COLCAPIRHUA,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+COLOMI,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CONCEPCION,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+COTOCA,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,5,1,6,6,2,3,2,2,3,4,0,2,0,0,1,0,19,18,37
+CUATRO CAÑADAS,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,4,2,4,8,2,5,4,2,5,18,1,2,0,2,3,3,23,42,65
+CUEVO,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+EL ALTO,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+EL TORNO,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,6,4,7,9,5,7,5,7,4,13,6,0,2,1,5,0,40,41,81
+ENTRE RIOS CBBA,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,1,0,0,0,0,3,4,1,0,0,0,0,0,4,5,9
+EXALTACION,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+FERNANDEZ ALONSO,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,2,1,0,0,0,0,0,0,1,0,0,0,0,0,3,1,4
+GENERAL SAAVEDRA,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,2,1,1,0,0,0,0,3,0,0,0,0,0,0,3,4,7
+GUANAY,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,3,3
+GUAYARAMERIN,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,2,0,0,1,6,5,4,6,5,0,1,3,0,0,0,0,0,0,18,15,33
+HUACARAJE,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,1,1,0,2,5,7
+HUACARETA,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,2,1,2,1,0,0,0,1,0,0,1,1,0,1,0,1,5,6,11
+HUACAYA (VILLA DE HUACAYA),sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA ASUNTA,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,2,1,0,0,2,2,0,0,0,0,0,0,4,3,7
+LA GUARDIA,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,1,0,4,3,0,1,0,0,0,2,0,0,0,0,0,0,5,6,11
+LA PAZ,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MACHARETI,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MAGDALENA,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+MAIRANA,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,2,1,0,0,0,0,3,1,0,0,0,1,0,0,5,3,8
+MAPIRI,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,1,0,0,1,0,1,1,1,0,0,0,0,4,0,0,0,0,0,0,3,6,9
+MINEROS,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,1,0,2,0,2,3,4,4,0,1,0,8,0,0,2,2,2,1,13,19,32
+MONTERO,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,1,0,0,9,12,22,11,9,14,9,5,2,11,2,5,0,4,1,2,54,65,119
+OMEREQUE,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PALOS BLANCOS,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,1,2,3,5
+PAMPA GRANDE,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+PORTACHUELO,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,1,0,0,1,0,0,0,0,0,2,0,0,0,0,1,0,2,3,5
+PUERTO GONZALO MORENO,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PUERTO QUIJARRO,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,1,0,0,2,0,2,0,0,0,1,0,0,0,0,0,5,1,6
+QUILLACOLLO,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+ROBORE,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,2,1,3
+RURRENABAQUE,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,1,0,0,4,1,1,1,1,2,5,0,1,0,0,3,1,8,13,21
+SACABA,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+SAMAIPATA,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN ANDRES,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,3,0,5,3,2,2,3,2,4,5,0,0,1,0,0,1,18,13,31
+SAN BORJA,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+SAN BUENA VENTURA,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+SAN CARLOS,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN IGNACIO,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,2,0,1,1,0,2,1,1,4,0,0,1,1,0,1,5,10,15
+SAN JOAQUIN,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN JUAN DE YAPACANI,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SAN JULIAN,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,3,0,3
+SAN PEDRO,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,3,4,2,1,3,1,1,0,0,0,0,0,0,6,9,15
+SAN RAFAEL,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,2,3
+SANTA ANA,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,2,1,1,0,0,2,2,0,1,0,2,0,1,3,9,12
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue con signos de alarma,2023-01-01,2,3,10,8,114,116,290,242,199,152,85,88,229,325,55,81,36,63,38,67,1058,1145,2203
+SANTA ROSA,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA ROSA DEL SARA,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,1,1,0,1,0,0,0,0,3,1,0,0,0,0,0,0,4,3,7
+SUCRE,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TARIJA,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,1,1,0,1,1,4,4,8
+TEOPONTE,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TIQUIPAYA,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TIRAQUE (CBBA),sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TRINIDAD,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,1,0,10,9,16,17,18,25,3,2,14,3,1,2,2,1,0,0,65,59,124
+VALLEGRANDE,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0,1,0,0,0,0,4,1,5
+VILLA TUNARI,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+WARNES,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,2,2,0,2,4,4,0,5,1,8,1,6,0,2,1,2,0,31,9,40
+YACUIBA,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,1,0,1,0,0,0,2,0,0,0,0,0,0,1,4,1,5
+YAPACANI,sospecha diagnostica,dengue con signos de alarma,2023-01-01,1,0,2,1,6,6,15,9,6,7,5,6,6,16,4,3,0,3,6,1,51,52,103
+YOTALA,sospecha diagnostica,dengue con signos de alarma,2023-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+AIQUILE,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,1,0,0,0,0,0,0,1,2,0,0,0,0,1,1,2,4,6
+ARBIETO,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+ASCENCION DE GUARAYOS,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,1,1,3,0,1,0,0,0,0,0,0,0,0,0,0,1,5,6
+BERMEJO,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,1,1,1,5,0,2,5,5,12,0,2,1,2,0,3,14,26,40
+BOYUIBE,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,1,1,2,0,2,2,1,3,3,1,1,0,2,1,3,8,15,23
+BUENA VISTA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,1,1,0,1,0,1,1,0,4,8,0,0,0,0,0,0,6,11,17
+CABEZAS,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,0,1,0,2,4,6
+CAMIRI,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,4,4,23,15,8,8,4,3,3,6,1,1,0,0,2,1,45,38,83
+CARANAVI,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,1,0,7,4,4,0,1,1,5,11,0,2,0,1,0,3,18,22,40
+CARAPARI,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,2,0,0,0,0,1,1,1,1,0,0,0,0,2,4,6
+CHARAGUA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,2,1,1,1,2,0,2,0,1,10,1,2,2,0,1,0,12,14,26
+CHIMORE,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+CHULUMANI (V. DE LA LIBERTAD),sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+COBIJA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,1,0,0,0,4,3,4,4,5,2,0,0,3,8,3,1,0,2,0,2,20,22,42
+COCHABAMBA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,1,2,2,3,0,1,1,8,5,0,2,2,1,1,1,17,13,30
+COLCAPIRHUA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,1,0,0,0,0,0,0,4,1,0,0,0,0,0,0,4,2,6
+COLOMI,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+COMARAPA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+CONCEPCION,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,3
+COROICO,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+COTOCA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,1,0,1,2,11,9,15,11,15,10,5,5,7,15,0,4,2,2,1,3,58,61,119
+CUATRO CAÑADAS,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,2,0,1,1,3,4,2,9,2,0,0,1,0,1,10,16,26
+CUEVO,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,3,1,4
+EL ALTO,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,0,0,1,1,0,4,3,7
+EL TORNO,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,2,0,22,23,45,41,24,27,15,12,23,48,10,4,5,6,7,11,153,172,325
+EL VILLAR,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+ENTRE RIOS TRJ,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,1,1,4,5
+ENTRE RIOS CBBA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,1,4,1,3,0,0,0,4,6,1,1,0,3,1,1,13,13,26
+EXALTACION,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,0,2
+FERNANDEZ ALONSO,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,3,2,0,1,0,0,0,4,0,0,0,1,0,0,3,8,11
+GENERAL SAAVEDRA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,1,4,2,6,1,3,7,1,7,1,3,2,1,0,0,17,22,39
+GUANAY,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+GUAYARAMERIN,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,2,1,3,5,5,5,11,11,2,1,2,1,1,1,0,0,0,1,26,26,52
+GUTIERREZ,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,2,0,0,3,4,7
+HUACARAJE,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,1,2,0,0,0,1,2,1,0,1,0,2,2,2,5,9,14
+HUACARETA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,1,1,1,1,0,2,1,1,2,3,1,0,0,0,3,1,9,9,18
+HUACAYA (VILLA DE HUACAYA),sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2
+LA ASUNTA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,1,0,4,3,1,4,1,2,6,8,3,1,0,2,3,3,19,23,42
+LA GUARDIA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,1,0,9,1,12,16,5,8,4,5,8,8,1,0,0,2,1,1,41,41,82
+LA PAZ,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,1,0,0,1,0,3,0,2,0,2,0,1,1,9,10
+LAGUNILLAS,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,1,0,4,4,2,2,2,1,0,3,0,1,1,1,0,0,10,12,22
+MACHARETI,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,1,3,1,0,0,1,1,2,1,0,0,1,0,1,4,8,12
+MAIRANA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,1,2,1,2,1,1,0,1,2,7,0,0,1,1,0,0,6,14,20
+MAPIRI,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,1,0,3,0,0,0,1,0,3,0,1,0,0,0,0,0,9,9
+MINEROS,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,1,0,3,1,2,4,0,0,0,0,2,5,0,1,0,0,0,0,8,11,19
+MOJOCOYA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+MONTEAGUDO,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,1,5,4,6,5,3,3,3,2,6,14,2,3,1,4,2,5,28,41,69
+MONTERO,sospecha diagnostica,dengue con signos de alarma,2023-02-01,3,0,1,4,12,15,47,39,19,24,6,13,14,26,0,4,3,2,4,5,109,132,241
+MORO MORO,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+NUEVO MANOA (NUEVA ESPERANZA),sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+ORURO,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PADCAYA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,3,2,5
+PADILLA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,1,1,0,0,1,3,4,7
+PALOS BLANCOS,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,1,0,1,0,0,0,0,4,0,0,0,0,1,0,3,4,7
+PAMPA GRANDE,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,1,0,0,0,1,0,1,0,0,2,0,0,0,0,0,1,1,1,4,4,8
+POROMA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+PORONGO,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,1,1,1,0,2,0,0,0,1,0,0,0,0,1,5,6
+PORTACHUELO,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,2,1,2,1,1,0,0,0,1,0,0,0,1,0,7,2,9
+PUERTO GONZALO MORENO,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,1,3,4
+PUERTO QUIJARRO,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,1,1,0,0,1,0,0,0,2,0,0,0,1,0,0,1,5,6
+PUERTO SUAREZ,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+PUERTO VILLARROEL,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,3,0,3
+PUNATA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,1,0,0,2,1,0,0,2,0,1,0,0,0,0,2,5,7
+QUILLACOLLO,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,1,0,0,0,2,3,0,0,0,1,1,1,4,5,9
+QUIRUSILLAS,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+ROBORE,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,3
+RURRENABAQUE,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,1,0,1,0,0,1,2,1,1,2,5,4,1,1,0,0,0,3,11,12,23
+SACABA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,3,0,0,2,0,2,1,1,1,3,0,1,5,9,14
+SAMAIPATA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,1,1,2,2,1,1,0,1,2,3,0,0,1,0,0,1,7,9,16
+SAN ANDRES,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,3,1,0,1,0,1,0,1,0,0,2,0,5,4,9
+SAN ANTONIO DE LOMERIO,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,3,0,3
+SAN BORJA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,3,0,1,0,0,2,1,0,1,1,0,0,0,3,6,9
+SAN BUENA VENTURA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,3,1,0,1,1,1,1,1,0,0,2,0,0,0,0,4,7,11
+SAN CARLOS,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,1,0,0,0,0,1,2,0,0,0,0,0,0,1,3,4
+SAN IGNACIO,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,9,1,5,8,3,7,5,6,3,20,2,4,0,6,1,1,28,53,81
+SAN JAVIER(BNI),sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,1,0,2,0,0,0,0,0,0,2,0,0,0,0,0,2,3,5
+SAN JULIAN,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+SAN LORENZO(TJA),sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN MIGUEL DE VELASCO,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,1,2,1,1,1,0,5,0,1,0,0,0,0,3,9,12
+SAN PEDRO,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,1,4,5,5,8,9,6,7,11,9,9,6,8,2,1,2,5,44,54,98
+SAN RAFAEL,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,1,3,1,1,1,0,0,3,0,0,0,1,0,0,3,8,11
+SAN RAMON SCZ,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA ANA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,1,0,0,6,2,7,7,6,4,4,5,3,9,0,5,1,0,2,2,29,35,64
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,19,13,23,39,274,295,634,603,397,382,205,258,489,747,146,228,90,149,84,148,2361,2862,5223
+SANTA ROSA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SANTA ROSA DEL SARA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,1,1,0,0,1,0,0,2,3,2,0,0,0,0,0,1,5,6,11
+SHINAOTA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,1,0,0,1,0,0,0,1,0,1,2,2,3,0,0,3,0,1,6,9,15
+TARIJA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,3,2,1,0,5,1,1,0,5,1,1,2,1,1,1,0,18,7,25
+TEOPONTE,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,3,3
+TOMINA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,1,0,4,2,21,26,23,5,4,3,7,7,3,4,1,1,4,3,68,51,119
+VACAS,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+VALLEGRANDE,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,1,1,0,0,5,1,3,4,3,0,1,0,1,0,0,6,14,20
+VILLA MONTES,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,1,0,1,0,2,1,3,3,1,3,0,0,1,1,9,8,17
+VILLA TUNARI,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,1,1,1,0,1,2,2,0,0,0,1,1,0,4,6,10
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,1,0,0,2,3,0,0,0,1,0,1,2,6,8
+VINTO,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+WARNES,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,1,1,3,5,14,16,16,19,18,17,21,36,19,12,11,5,3,5,106,116,222
+YACUIBA,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,7,2,8,12,20,20,16,8,15,7,28,40,10,14,3,7,6,9,113,119,232
+YAPACANI,sospecha diagnostica,dengue con signos de alarma,2023-02-01,2,0,4,2,6,10,8,6,9,1,1,4,6,10,0,5,3,6,2,3,41,47,88
+ZUDAÑEZ,sospecha diagnostica,dengue con signos de alarma,2023-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+AIQUILE,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,1,2,0,0,1,4,5,9
+APOLO,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+ARBIETO,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ASCENCION DE GUARAYOS,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+BERMEJO,sospecha diagnostica,dengue con signos de alarma,2023-03-01,1,1,2,0,2,9,14,11,11,10,6,7,25,60,14,21,7,10,2,16,84,145,229
+BOYUIBE,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,1,1,0,6,4,4,1,1,2,4,6,4,2,0,1,2,0,22,17,39
+BUENA VISTA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,1,0,0,0,0,1,1,1,0,2,1,1,2,1,0,0,1,0,6,6,12
+CABEZAS,sospecha diagnostica,dengue con signos de alarma,2023-03-01,1,0,0,0,2,4,6,11,7,4,1,2,2,5,2,0,0,1,2,2,23,29,52
+CAMIRI,sospecha diagnostica,dengue con signos de alarma,2023-03-01,1,0,0,0,13,15,19,20,14,11,6,5,8,16,2,2,0,1,4,5,67,75,142
+CARANAVI,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,3,6,10,11,2,4,9,6,12,17,1,4,1,3,1,2,39,53,92
+CARAPARI,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,1,0,1,3,2,2,1,3,1,2,3,8,0,0,1,0,0,1,10,19,29
+CARMEN RIVERO TORREZ,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,1,3,0,0,1,0,0,0,0,0,0,0,0,0,2,3,5
+CHARAGUA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,3,4,5,5,4,6,8,4,4,8,1,1,1,3,1,1,27,32,59
+CHIMORE,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,1,1,0,0,0,0,2,0,0,0,0,0,0,0,3,1,4
+CHULUMANI (V. DE LA LIBERTAD),sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,1,0,0,1,1,1,0,0,0,2,0,2,1,1,1,0,4,7,11
+COBIJA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,1,1,2,3,7,3,1,1,0,0,0,4,2,0,1,1,0,3,14,16,30
+COCHABAMBA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,1,1,0,3,2,3,4,3,4,3,3,7,6,4,0,1,3,0,4,25,27,52
+COLCAPIRHUA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,3
+COROICO,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,1,0,0,0,1,2,0,1,2,0,0,0,0,1,0,2,4,6,10
+COTOCA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,1,1,10,5,14,12,12,7,6,7,5,17,0,2,2,3,2,0,52,54,106
+CUATRO CAÑADAS,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,2,3,2,0,2,0,1,1,2,0,0,1,0,0,9,5,14
+CUEVO,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,1,1,0,1,2,0,0,0,0,0,0,0,0,1,3,3,6
+EL ALTO,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,2,1,3
+EL TORNO,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,3,1,31,10,52,54,30,35,10,14,25,29,11,18,8,10,10,18,180,189,369
+EL VILLAR,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+ENTRE RIOS TRJ,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,1,0,0,0,3,3,0,1,2,1,0,0,0,0,0,0,6,5,11
+ENTRE RIOS CBBA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,1,0,1,0,1,2,3,3,1,2,0,4,3,2,0,1,1,0,11,14,25
+FERNANDEZ ALONSO,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,1,0,1,0,2,1,1,2,0,1,1,2,1,1,0,0,1,1,8,8,16
+GENERAL SAAVEDRA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,3,1,3,1,7,3,1,5,5,5,0,2,0,3,1,0,20,20,40
+GUANAY,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,1,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,3,3,6
+GUAYARAMERIN,sospecha diagnostica,dengue con signos de alarma,2023-03-01,1,0,0,0,3,4,7,11,1,5,0,1,3,2,0,2,0,1,0,1,15,27,42
+GUTIERREZ,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,0,3,3,0,0,3,1,0,0,0,0,0,0,6,4,10
+HUACARAJE,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,1,0,2,0,0,0,1,1,0,2,0,0,0,1,1,4,5,9
+HUACARETA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,1,3,1,1,1,3,3,2,3,1,0,2,0,12,9,21
+HUACAYA (VILLA DE HUACAYA),sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+INCAHUASI,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA ASUNTA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,1,1,2,2,1,1,2,6,6,0,0,1,1,2,1,13,14,27
+LA GUARDIA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,1,0,1,3,9,10,20,14,14,7,6,12,9,19,4,9,0,2,1,7,65,83,148
+LA PAZ,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,2,0,0,1,0,1,1,5,0,1,1,0,0,0,4,8,12
+LAGUNILLAS,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,1,0,1,4,6,5,1,2,4,2,8,8,0,1,1,3,1,1,23,26,49
+MACHARETI,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,1,0,1,0,2,2,2,0,0,1,1,6,1,2,1,1,1,2,10,14,24
+MAIRANA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,2,1,3,5,2,5,1,4,6,14,1,4,3,1,0,3,18,37,55
+MAPIRI,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+MINEROS,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,2,0,1,1,1,1,1,1,0,0,0,0,0,0,0,1,5,4,9
+MONTEAGUDO,sospecha diagnostica,dengue con signos de alarma,2023-03-01,1,0,1,2,4,2,17,11,12,13,5,11,14,37,8,11,13,8,6,18,81,113,194
+MONTERO,sospecha diagnostica,dengue con signos de alarma,2023-03-01,1,0,1,1,13,6,13,16,14,11,7,6,6,20,1,7,2,1,3,3,61,71,132
+MORO MORO,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+OKINAWA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,2,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,4,5
+OMEREQUE,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+ORURO,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+PADCAYA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,1,0,0,0,1,1,2,1,3,2,0,0,0,3,0,7,7,14
+PADILLA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,2,3
+PAILON,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,1,0,4,4,3,0,0,1,1,8,2,2,0,0,0,0,11,15,26
+PALOS BLANCOS,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,2,1,0,0,0,1,0,1,2,2,0,0,0,0,0,1,4,6,10
+PAMPA GRANDE,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,4,0,1,2,0,1,0,2,1,4,0,1,3,2,0,1,9,13,22
+PORONGO,sospecha diagnostica,dengue con signos de alarma,2023-03-01,1,0,0,0,6,3,1,3,1,0,2,0,0,2,0,0,2,0,0,2,13,10,23
+PORTACHUELO,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,2,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,2,4,4,8
+PUERTO SUAREZ,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+PUERTO VILLARROEL,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,2,0,0,1,0,0,1,0,0,0,1,2,1,0,1,0,0,0,6,3,9
+PUNATA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,1,0,1,3,3,6
+QUILLACOLLO,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,1,1,0,0,0,0,2,2,0,0,0,0,0,0,3,3,6
+QUIRUSILLAS,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+RIBERALTA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,1,2,0,2,2,0,0,2,0,0,0,0,1,0,0,0,4,6,10
+ROBORE,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,3,0,1,5,4,3,5,1,4,1,3,2,0,1,1,0,21,13,34
+RURRENABAQUE,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,1,0,1,0,0,1,0,2,1,2,0,0,0,0,1,0,4,5,9
+SACABA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,1,0,0,0,0,0,3,1,1,2,0,2,0,0,5,5,10
+SAIPINA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+SAMAIPATA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,1,2,4,4,3,1,1,0,1,2,1,0,1,1,0,1,12,11,23
+SAN ANDRES,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+SAN ANTONIO DE LOMERIO,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,2,1,1,0,0,1,1,0,1,0,1,0,0,2,6,8
+SAN BORJA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,1,0,2,2,1,0,2,1,2,1,0,1,0,0,0,0,8,5,13
+SAN BUENA VENTURA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,2,0,0,0,0,3,3,6
+SAN CARLOS,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,1,0,1,0,1,0,0,2,0,2,0,0,0,1,0,0,3,5,8
+SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue con signos de alarma,2023-03-01,6,1,4,5,6,5,11,13,20,15,9,7,26,41,5,5,5,8,10,16,102,116,218
+SAN JAVIER(BNI),sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2
+SAN JAVIER(STC),sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+SAN JULIAN,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,2,2,1,0,3,3,0,3,2,1,1,3,0,2,9,14,23
+SAN MIGUEL DE VELASCO,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,1,0,2,3,1,7,1,2,1,1,2,6,0,1,2,1,0,1,10,22,32
+SAN PEDRO,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,2,6,7,6,3,3,2,8,5,3,3,1,1,1,2,28,25,53
+SAN RAFAEL,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,4,1,4,4,2,1,0,1,0,0,0,1,1,0,11,8,19
+SAN RAMON BENI,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,2
+SANTA ANA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,1,0,1,2,6,0,1,4,2,4,0,4,1,0,2,0,14,14,28
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,8,15,29,19,210,184,381,447,287,262,126,176,339,640,91,173,73,114,80,135,1624,2165,3789
+SANTA ROSA DEL SARA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,3,1,4
+SUCRE,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,1,0,1,0,1,0,1,1,3,2,1,0,0,0,0,0,8,3,11
+TARABUCO,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TARIJA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,1,3,2,4,5,4,1,4,3,13,24,2,4,1,5,3,0,34,45,79
+TEOPONTE,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TIPUANI,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TIQUIPAYA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,dengue con signos de alarma,2023-03-01,1,0,0,0,7,5,13,6,4,8,2,1,5,7,5,4,4,8,7,7,48,46,94
+UNCIA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+URUBICHA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VALLEGRANDE,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,1,2,2,0,2,1,1,1,4,5,0,1,0,1,0,1,10,12,22
+VILLA MONTES,sospecha diagnostica,dengue con signos de alarma,2023-03-01,3,0,0,0,4,4,3,11,5,3,7,3,1,11,3,1,1,1,0,0,27,34,61
+VILLA TUNARI,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,2,2,4
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,2,1,3,2,1,0,1,7,0,0,0,1,1,1,8,12,20
+VINTO,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+WARNES,sospecha diagnostica,dengue con signos de alarma,2023-03-01,0,0,0,0,1,3,17,8,18,11,19,8,16,16,11,11,10,6,6,3,98,66,164
+YACUIBA,sospecha diagnostica,dengue con signos de alarma,2023-03-01,1,0,1,6,14,35,47,45,52,36,17,21,46,112,18,36,15,18,12,25,223,334,557
+YAPACANI,sospecha diagnostica,dengue con signos de alarma,2023-03-01,3,0,3,1,8,8,5,11,8,1,3,4,8,12,2,2,0,8,6,5,46,52,98
+AIQUILE,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,2,2,4
+ALTO BENI,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BELLA FLOR,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+BERMEJO,sospecha diagnostica,dengue con signos de alarma,2023-04-01,2,1,3,0,12,24,22,20,28,26,7,18,54,123,10,54,15,35,18,32,171,333,504
+BOYUIBE,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,2
+BUENA VISTA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,1,0,1,1,2,0,0,2,2,0,0,0,0,0,6,3,9
+CABEZAS,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,1,1,1,0,4,1,1,0,2,1,0,0,0,0,0,0,9,3,12
+CAMIRI,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,1,1,3,10,6,5,3,1,2,0,2,0,1,0,2,1,1,18,21,39
+CARANAVI,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,2,4,3,8,5,1,8,2,4,8,1,1,2,2,0,2,25,28,53
+CARAPARI,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,1,0,0,1,1,2,1,0,0,0,6,5,0,1,0,1,0,1,9,11,20
+CARMEN RIVERO TORREZ,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHARAGUA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,2,0,6,7,5,4,0,3,3,2,1,2,0,2,0,2,17,22,39
+CHULUMANI (V. DE LA LIBERTAD),sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,2,3
+COBIJA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,2,3,1,4,4,2,3,2,1,0,1,0,2,0,0,1,0,12,14,26
+COCHABAMBA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,1,0,5,3,1,1,0,1,1,3,0,0,0,1,1,1,9,10,19
+COROICO,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,3
+COTOCA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,4,1,6,1,3,2,1,4,5,7,1,0,0,1,0,0,20,16,36
+EL TORNO,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,1,6,9,22,29,6,13,5,10,16,29,2,10,3,2,0,3,60,106,166
+ENTRE RIOS TRJ,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+ENTRE RIOS CBBA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,1,0,0,0,0,2,1,3,1,2,1,2,1,1,5,10,15
+FERNANDEZ ALONSO,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,1,4,1,3,1,0,0,1,1,0,0,0,0,0,4,8,12
+GENERAL SAAVEDRA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,2,1,6,1,4,4,3,2,6,8,1,3,1,1,0,0,23,20,43
+GUANAY,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,1,0,0,0,0,0,0,1,3,0,0,0,0,0,0,1,4,5
+GUAYARAMERIN,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,2,3,1,1,3,0,0,0,0,0,0,0,0,0,0,4,6,10
+GUTIERREZ,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,1,0,0,0,0,0,1,3,1,0,0,0,0,1,3,4,7
+HUACARAJE,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+HUACARETA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,3,1,3,3,2,5,13,3,2,3,7,4,4,19,34,53
+HUACAYA (VILLA DE HUACAYA),sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+INCAHUASI,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA ASUNTA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,1,1,1,2,0,2,4,7,0,6,3,1,0,0,9,19,28
+LA GUARDIA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,1,1,1,0,4,5,14,6,15,4,6,3,9,9,3,4,6,3,1,4,60,39,99
+LA PAZ,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,2,2,0,0,0,2,0,0,0,0,1,0,0,4,3,7
+LAGUNILLAS,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+MACHARETI,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,1,2,1,3,2,2,4,0,3,0,2,0,0,1,2,8,15,23
+MAIRANA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,2,0,3,5,3,2,0,1,4,2,0,0,0,1,0,3,12,14,26
+MAPIRI,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,1,1,0,4,0,0,0,0,0,2,0,0,0,0,0,0,1,7,8
+MINEROS,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,1,0,2,5,0,2,1,2,0,3,0,1,0,0,0,0,4,13,17
+MONTEAGUDO,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,1,0,0,2,7,13,18,11,13,3,13,12,33,3,16,8,10,7,22,59,133,192
+MONTERO,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,1,1,5,6,3,3,2,1,1,5,0,2,0,0,0,1,12,19,31
+OKINAWA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+OMEREQUE,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+PADCAYA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,1,0,1,1,0,1,0,0,1,1,2,0,0,0,1,3,6,9
+PAILON,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,1,1,0,2,0,0,1,0,0,1,1,0,0,0,0,0,3,4,7
+PALOS BLANCOS,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,1,1,1,0,1,2,6,0,0,0,1,0,1,3,11,14
+PAMPA GRANDE,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,1,2,2,0,3,0,1,0,3,0,0,2,1,4,11,15
+PORONGO,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,1,0,0,1,0,2,4,6
+PORTACHUELO,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO VILLARROEL,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,1,0,0,0,0,0,1,3,0,3,0,1,0,0,2,7,9
+PUNATA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,3,1,4
+QUILLACOLLO,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,1,4,2,6
+RIBERALTA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,1,0,4,1,5
+ROBORE,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,1,2,0,1,0,1,1,3,3,1,1,1,1,1,0,10,7,17
+RURRENABAQUE,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,2,1,2,0,0,2,0,2,0,0,0,0,0,0,4,5,9
+SACABA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,2,3
+SAMAIPATA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,1,3,1,1,0,0,1,1,0,0,0,3,0,1,3,9,12
+SAN ANTONIO DE LOMERIO,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,0,1,3,4
+SAN BORJA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,1,0,0,0,2,0,1,0,0,0,0,0,0,0,4,4
+SAN BUENA VENTURA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+SAN CARLOS,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,2
+SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,2,1,6,3,6,5,1,12,7,14,20,24,5,12,6,7,10,12,63,90,153
+SAN JAVIER(BNI),sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,1,3,1,0,0,1,0,0,0,0,0,0,0,1,0,5,2,7
+SAN JULIAN,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,0,1,2,1,0,2,1,0,1,0,1,1,5,5,10
+SAN MATIAS,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,0,1,0,0,2,4,6
+SAN MIGUEL DE VELASCO,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,2,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,5,1,6
+SAN PEDRO,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,1,2,2,2,2,2,4,3,1,4,0,0,2,0,12,13,25
+SAN RAFAEL,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,0,1,0,0,1,4,5
+SANTA ANA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,1,0,0,1,1,2,1,1,2,1,0,1,1,0,0,6,6,12
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,10,9,13,7,131,125,257,228,179,142,51,76,156,272,53,73,29,60,52,68,931,1060,1991
+SANTA ROSA DEL SARA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SICA SICA (VILLA AROMA),sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SUCRE,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,3,2,5,7
+TARIJA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,1,0,2,2,1,4,3,3,5,11,2,4,1,3,1,3,16,30,46
+TEOPONTE,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TIPUANI,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+TIQUIPAYA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,2,0,0,0,1,2,3,0,0,0,1,1,4,3,4,3,4,3,19,12,31
+VALLEGRANDE,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,2,1,1,1,1,3,0,0,1,0,0,0,1,5,6,11
+VILLA MONTES,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,1,3,5,11,18,5,9,5,6,6,23,5,7,3,0,1,1,39,70,109
+VILLA TUNARI,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,2,0,1,0,0,0,2,1,1,0,0,0,0,0,6,1,7
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,2,1,1,1,0,2,0,2,1,1,0,0,4,7,11
+WARNES,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,1,0,1,2,4,1,5,5,5,10,4,7,11,5,1,7,1,0,0,37,33,70
+YACUIBA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,1,0,7,4,18,17,12,11,7,8,24,41,12,17,11,5,9,12,101,115,216
+YAPACANI,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,1,6,2,1,1,5,3,1,3,5,9,3,4,1,1,5,2,27,26,53
+YOTALA,sospecha diagnostica,dengue con signos de alarma,2023-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+AIQUILE,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,1,0,1,0,3,3,6
+BERMEJO,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,1,0,0,0,1,5,6,11,3,6,5,7,25,6,9,3,5,3,8,41,63,104
+CAMIRI,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,1,0,2,1,4,3,2,2,0,0,0,1,0,0,0,1,0,0,9,8,17
+CAPINOTA,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CARANAVI,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,1,0,0,0,1,1,1,0,0,6,0,0,0,0,0,0,3,7,10
+CARAPARI,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,1,1,1,0,4,3,0,1,2,0,0,0,0,0,0,5,8,13
+CHARAGUA,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,1,1,1,1,0,1,0,0,1,0,0,0,0,1,0,4,3,7
+CHULUMANI (V. DE LA LIBERTAD),sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+COBIJA,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,1,1,1,0,0,1,0,1,1,0,1,1,0,1,0,5,4,9
+COCHABAMBA,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COROICO,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+COTOCA,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,3,2,2,0,1,0,2,0,0,0,0,0,0,0,8,2,10
+CUEVO,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,1,0,0,0,0,2,0,1,2,1,0,1,0,0,0,1,3,6,9
+EL ALTO,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+EL TORNO,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,2,4,8,9,4,1,2,1,8,9,0,0,3,4,2,3,29,31,60
+ENTRE RIOS TRJ,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+ENTRE RIOS CBBA,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,2,1,4,5
+GENERAL SAAVEDRA,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,1,0,1,0,0,0,2,0,1,0,1,0,0,0,0,0,0,0,6,0,6
+GUANAY,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,4
+GUAYARAMERIN,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+GUTIERREZ,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+HUACARAJE,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HUACARETA,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,1,0,0,1,0,1,0,0,2,2,0,0,0,2,0,6,3,9
+LA GUARDIA,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,2,1,6,4,0,2,1,3,3,2,0,0,0,1,1,0,13,13,26
+LA PAZ,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,3,3
+LAGUNILLAS,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MACHARETI,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,0,0,0,2,1,1,1,1,1,0,0,0,0,1,3,5,8
+MAIRANA,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,2,4,4,1,5,0,1,1,4,0,3,0,2,0,1,6,22,28
+MAPIRI,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+MINEROS,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,2,1,1,1,0,0,2,2,1,0,0,0,0,1,6,5,11
+MONTEAGUDO,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,1,1,3,2,1,1,1,2,10,11,4,1,1,4,4,6,25,28,53
+MONTERO,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,1,0,1,0,1,0,1,0,2,0,4,2,0,2,0,0,0,0,10,4,14
+NUEVO MANOA (NUEVA ESPERANZA),sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PADCAYA,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+PAILON,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,1,1,2,0,0,1,1,0,0,0,0,0,0,0,4,2,6
+PALOS BLANCOS,sospecha diagnostica,dengue con signos de alarma,2023-05-01,1,0,0,0,2,0,1,2,1,3,2,2,0,3,0,0,2,1,1,2,10,13,23
+PAMPA GRANDE,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+PORONGO,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,4,0,2,2,0,0,1,1,0,0,1,0,1,0,9,3,12
+PORTACHUELO,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,3
+PUERTO GONZALO MORENO,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PUERTO VILLARROEL,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,1,0,0,0,0,0,0,1,2,0,0,0,0,0,2,1,5,6
+PUNATA,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+QUILLACOLLO,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+QUIRUSILLAS,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+RIBERALTA,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,2,1,2,2,3,3,0,0,0,0,0,0,0,0,0,0,7,6,13
+ROBORE,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,2,0,1,1,3,3,2,1,2,1,0,0,3,0,13,6,19
+RURRENABAQUE,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,2,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,3,2,5
+SACABA,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAMAIPATA,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,1,1,1,0,1,0,1,1,0,0,0,0,0,0,4,2,6
+SAN BORJA,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,1,0,11,5,4,6,8,7,3,6,5,12,3,7,2,6,7,5,44,54,98
+SAN JAVIER(BNI),sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN JUAN DE YAPACANI,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN JULIAN,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,3,3
+SAN MIGUEL DE VELASCO,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,1,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,0,1,0,3,4,7
+SAN PEDRO,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,1,1,2,1,1,0,1,0,0,0,0,0,0,0,5,2,7
+SAN RAFAEL,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,1,0,0,1,0,5,2,7
+SANTA ANA,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,5,1,3,0,1,2,4,3,2,6,2,1,0,0,17,13,30
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue con signos de alarma,2023-05-01,3,2,7,6,43,42,79,84,54,46,16,26,60,93,25,40,16,28,24,38,327,405,732
+SIPE SIPE,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,1,3,4
+TACACOMA,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+TARIJA,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,0,0,1,1,1,5,3,8
+TIPUANI,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,0,0,1,0,0,2,4,6
+TRINIDAD,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,0,0,2,2,0,2,0,0,1,1,0,4,3,5,3,3,9,17,26
+VALLEGRANDE,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,1,3
+VILLA MONTES,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,2,1,6,7,2,2,1,1,4,9,1,4,0,3,0,0,16,27,43
+WARNES,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,1,1,2,3,2,1,0,1,2,2,0,1,0,2,0,0,7,11,18
+YACUIBA,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,0,0,1,1,6,0,5,1,0,1,4,5,3,2,2,3,1,4,22,17,39
+YAPACANI,sospecha diagnostica,dengue con signos de alarma,2023-05-01,0,0,1,1,1,0,4,1,0,1,2,1,4,7,0,3,1,0,2,0,15,14,29
+AIQUILE,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BERMEJO,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,1,0,0,1,1,3,2,7,10,0,5,4,4,2,4,17,27,44
+CARANAVI,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,0,0,0,0,0,3,2,5
+CARAPARI,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,1,0,1,0,0,2,0,1,2,2,0,1,0,0,0,0,4,6,10
+CHARAGUA,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,1,0,0,0,4,2,6
+COBIJA,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,3,1,4
+COCHABAMBA,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2
+CONCEPCION,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,0,2,2,4
+COTOCA,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,3,0,0,0,0,1,0,2,0,0,0,0,0,1,3,4,7
+CUEVO,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+EL TORNO,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,1,0,1,2,0,1,0,1,1,1,0,0,0,0,0,1,3,6,9
+ENTRE RIOS CBBA,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+FILADELFIA,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+GENERAL SAAVEDRA,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+GUTIERREZ,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+HUACARAJE,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+HUACARETA,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,1,0,0,2,0,1,1,0,0,1,0,0,0,0,0,4,2,6
+LA ASUNTA,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+LA GUARDIA,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,4,1,5
+LA PAZ,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+MACHARETI,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,0,0,2,0,1,2,0,0,1,0,0,0,0,2,4,6
+MAIRANA,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+MAPIRI,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+MINEROS,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+MONTEAGUDO,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,1,2,1,0,0,1,1,1,1,0,0,1,3,0,7,5,12
+MONTERO,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,1,1,0,1,0,0,1,0,0,0,1,0,0,2,0,1,0,0,3,5,8
+PALOS BLANCOS,sospecha diagnostica,dengue con signos de alarma,2023-06-01,2,0,0,0,0,0,1,0,2,2,0,0,5,3,0,0,0,0,2,0,12,5,17
+PAMPA GRANDE,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,2,1,3
+PORONGO,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,3,1,4
+RIBERALTA,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,1,0,5,1,6,7,4,2,1,0,0,0,0,0,1,0,0,1,18,11,29
+ROBORE,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+RURRENABAQUE,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,1,0,1,0,0,1,0,0,2,1,0,0,0,0,0,0,4,2,6
+SACABA,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SAN BORJA,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,2,0,0,1,0,2,0,1,0,1,0,6,0,5,1,2,1,2,4,20,24
+SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN JULIAN,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+SAN PEDRO,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN RAFAEL,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,1,0,0,1,3,4
+SANTA ANA,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,1,7,10,15,16,8,5,7,2,10,28,7,5,8,1,11,11,73,79,152
+SANTA ROSA DEL SARA,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+TARIJA,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,3,3
+TIPUANI,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+TRINIDAD,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,2,2,2,3,3,9,7,16
+VILLA MONTES,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,1,1,1,0,0,3,4,7
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+WARNES,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,2,1,3
+YACUIBA,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,0,0,1,2,0,0,0,0,1,5,2,1,2,0,0,1,6,9,15
+YAPACANI,sospecha diagnostica,dengue con signos de alarma,2023-06-01,0,0,0,0,2,1,0,0,2,0,1,0,3,5,0,1,1,2,0,0,9,9,18
+BERMEJO,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,3,1,1,0,0,0,0,2,4,6
+CARANAVI,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,0,0,0,0,1,0,0,0,0,0,1,2,0,0,1,1,1,0,4,3,7
+CHARAGUA,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+CHIMORE,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,2,1,3
+COBIJA,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,3,2,5
+COTOCA,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,2,2,4
+EL TORNO,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,0,0,0,0,0,1,0,0,0,0,4,2,3,1,0,0,0,1,7,5,12
+ENTRE RIOS CBBA,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+GUANAY,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+HUACARETA,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA PAZ,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+MAPIRI,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+MONTERO,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,2
+PAILON,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+PALOS BLANCOS,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+PUERTO GONZALO MORENO,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+RIBERALTA,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,2,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5
+ROBORE,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+RURRENABAQUE,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+SAN IGNACIO,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,2,3
+SAN RAFAEL,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,4,1,5,4,8,10,6,2,3,6,12,21,3,2,0,4,4,6,45,56,101
+VILLA MONTES,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+WARNES,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+YACUIBA,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+YAPACANI,sospecha diagnostica,dengue con signos de alarma,2023-07-01,0,0,0,0,0,1,1,0,2,0,0,0,3,1,0,0,1,0,0,0,7,2,9
+BERMEJO,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0,1,3,4
+CARANAVI,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,0,0,0,0,0,0,0,0,0,2,0,1,4,0,0,1,0,0,0,4,4,8
+CARAPARI,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COBIJA,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,3
+COTOCA,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+EL TORNO,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,0,0,0,0,0,1,1,0,0,0,0,0,5,2,1,0,0,1,0,4,7,11
+ENTRE RIOS CBBA,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+FILADELFIA,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HUACARETA,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LA GUARDIA,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+MINEROS,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+MONTEAGUDO,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+MONTERO,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PADILLA,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PALOS BLANCOS,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,2,3,5
+RIBERALTA,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+ROBORE,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+RURRENABAQUE,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+SAN IGNACIO,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,1,0,0,14,5,20,8,10,6,3,8,11,30,3,9,1,5,4,4,66,76,142
+SANTA ROSA DEL SARA,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SENA,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,3,3
+VILLA MONTES,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+WARNES,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2
+YAPACANI,sospecha diagnostica,dengue con signos de alarma,2023-08-01,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,1,0,0,4,2,6
+ASCENCION DE GUARAYOS,sospecha diagnostica,dengue con signos de alarma,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,3,3
+CAMIRI,sospecha diagnostica,dengue con signos de alarma,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+CARANAVI,sospecha diagnostica,dengue con signos de alarma,2023-09-01,1,0,0,0,1,0,0,0,1,0,2,0,1,0,0,1,0,0,0,0,6,1,7
+COBIJA,sospecha diagnostica,dengue con signos de alarma,2023-09-01,0,0,0,0,7,3,2,1,1,2,1,1,3,1,0,0,0,0,0,1,14,9,23
+COCHABAMBA,sospecha diagnostica,dengue con signos de alarma,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+CONCEPCION,sospecha diagnostica,dengue con signos de alarma,2023-09-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,1,3
+COTOCA,sospecha diagnostica,dengue con signos de alarma,2023-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+EL TORNO,sospecha diagnostica,dengue con signos de alarma,2023-09-01,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,4,4
+FERNANDEZ ALONSO,sospecha diagnostica,dengue con signos de alarma,2023-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+GUAYARAMERIN,sospecha diagnostica,dengue con signos de alarma,2023-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA ASUNTA,sospecha diagnostica,dengue con signos de alarma,2023-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,1,2,3
+LA GUARDIA,sospecha diagnostica,dengue con signos de alarma,2023-09-01,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,3
+MAPIRI,sospecha diagnostica,dengue con signos de alarma,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MONTEAGUDO,sospecha diagnostica,dengue con signos de alarma,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,3
+PALOS BLANCOS,sospecha diagnostica,dengue con signos de alarma,2023-09-01,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,2,3
+PAMPA GRANDE,sospecha diagnostica,dengue con signos de alarma,2023-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+RIBERALTA,sospecha diagnostica,dengue con signos de alarma,2023-09-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,2,3
+ROBORE,sospecha diagnostica,dengue con signos de alarma,2023-09-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,3
+SAN BUENA VENTURA,sospecha diagnostica,dengue con signos de alarma,2023-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN LORENZO(PND),sospecha diagnostica,dengue con signos de alarma,2023-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN RAFAEL,sospecha diagnostica,dengue con signos de alarma,2023-09-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue con signos de alarma,2023-09-01,0,0,1,0,13,5,20,10,2,11,2,7,3,16,4,6,2,5,4,4,51,64,115
+VILLA MONTES,sospecha diagnostica,dengue con signos de alarma,2023-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,2
+WARNES,sospecha diagnostica,dengue con signos de alarma,2023-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2
+YAPACANI,sospecha diagnostica,dengue con signos de alarma,2023-09-01,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,1,1,0,0,3,3,6
+ASCENCION DE GUARAYOS,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,2
+BERMEJO,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,1,3,4
+CARANAVI,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,0,1,2,0,1,0,0,4,4,1,0,0,0,0,0,6,7,13
+COBIJA,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,1,0,3,6,3,1,1,3,2,3,0,1,1,0,0,1,0,0,11,15,26
+COCHABAMBA,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+COTOCA,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL ALTO,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL TORNO,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,1,0,2,0,0,2,1,0,2,0,1,0,0,0,0,0,0,2,7,4,11
+ENTRE RIOS CBBA,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,2
+HUACARETA,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+INGAVI (HUMAITA),sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+LA ASUNTA,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+LA GUARDIA,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+MAPIRI,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+MONTEAGUDO,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+MONTERO,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+PAILON,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+PALOS BLANCOS,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,0,0,1,0,2,1,0,3,2,1,0,1,0,0,1,6,6,12
+PAMPA GRANDE,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PUERTO QUIJARRO,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PUNATA,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+RIBERALTA,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,2,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+RURRENABAQUE,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SACABA,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN RAFAEL,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,1,2,4,2,9,15,3,4,4,6,7,7,0,1,0,3,5,9,33,49,82
+SUCRE,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+TARIJA,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TRINIDAD,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,3,2,5
+VILLA MONTES,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,0,2
+WARNES,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,2
+YACUIBA,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+YAPACANI,sospecha diagnostica,dengue con signos de alarma,2023-10-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+BELLA FLOR,sospecha diagnostica,dengue con signos de alarma,2023-11-01,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,2,3
+CAMIRI,sospecha diagnostica,dengue con signos de alarma,2023-11-01,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,2,3
+CARANAVI,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,4,0,1,3,3,1,4,5,1,1,2,1,0,1,15,12,27
+CARMEN RIVERO TORREZ,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CHIMORE,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,3,0,3
+COBIJA,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,2,2,2,2,0,2,1,0,0,0,0,2,1,1,2,3,8,12,20
+COLCAPIRHUA,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+COROICO,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,1,0,0,0,0,3,2,5
+EL TORNO,sospecha diagnostica,dengue con signos de alarma,2023-11-01,1,0,0,0,1,2,3,1,2,0,1,1,4,5,1,0,0,0,2,0,15,9,24
+ENTRE RIOS CBBA,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+GUANAY,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+GUTIERREZ,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+HUACARETA,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+INGAVI (HUMAITA),sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LA ASUNTA,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1,0,0,0,0,2,3,5
+LA GUARDIA,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+LA PAZ,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MAIRANA,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+MONTEAGUDO,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,0,1,0,1,0,2,4,6
+MONTERO,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,0,0,0,1,4,5
+PALOS BLANCOS,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,1,0,0,0,0,1,0,1,0,0,0,1,1,0,1,1,0,1,0,5,3,8
+PAMPA GRANDE,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PUERTO VILLARROEL,sospecha diagnostica,dengue con signos de alarma,2023-11-01,1,0,0,0,0,0,0,1,0,0,0,0,2,1,0,0,0,0,1,0,4,2,6
+RIBERALTA,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,3,3
+ROBORE,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+RURRENABAQUE,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SACABA,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAMAIPATA,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN MIGUEL DE VELASCO,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue con signos de alarma,2023-11-01,1,0,1,1,7,8,13,7,8,6,3,7,15,14,5,1,2,1,3,4,58,49,107
+SHINAOTA,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+SUCRE,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TARIJA,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TIPUANI,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,3,0,3
+TRINIDAD,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+VILLA MONTES,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+VILLA TUNARI,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,1,0,1,0,2,0,0,4,0,1,0,0,0,0,4,5,9
+WARNES,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,2,3
+YACUIBA,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,3,0,3
+YAPACANI,sospecha diagnostica,dengue con signos de alarma,2023-11-01,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,2,3
+BERMEJO,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,1,3,4
+BUENA VISTA,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+CARANAVI,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,1,3,1,5,2,2,1,1,1,3,8,0,1,2,1,1,1,17,17,34
+CHIMORE,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,1,0,0,1,1,1,3,0,1,0,0,0,0,2,6,8
+CHULUMANI (V. DE LA LIBERTAD),sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,1,1,1,2,0,6,3,9
+COBIJA,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,1,0,2,1,1,2,0,3,1,0,3,3,3,0,0,0,0,5,11,14,25
+COCHABAMBA,sospecha diagnostica,dengue con signos de alarma,2023-12-01,1,0,0,2,0,0,0,1,1,1,0,0,1,2,0,0,0,0,0,0,3,6,9
+COROICO,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,1,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1,4,2,6
+COTOCA,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CUATRO CAÑADAS,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+EL TORNO,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,0,0,1,1,0,0,3,0,0,0,0,0,2,1,6,7
+ENTRE RIOS CBBA,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,2,0,0,1,3,4
+GUANAY,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,2,2,4
+GUAYARAMERIN,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+HUACARETA,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LA ASUNTA,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,1,0,1,0,1,1,0,5,3,2,0,1,0,0,1,9,7,16
+LA GUARDIA,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+LA PAZ,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MINEROS,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+MONTEAGUDO,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,6,0,1,0,0,0,1,1,8,9
+MONTERO,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,2,2,4
+NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+PALOS BLANCOS,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,1,1,1,0,0,0,1,0,0,1,1,0,1,1,0,3,5,6,11
+PAMPA GRANDE,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3,3
+PUERTO VILLARROEL,sospecha diagnostica,dengue con signos de alarma,2023-12-01,1,0,0,0,0,0,2,0,2,1,1,0,0,2,0,0,2,2,1,0,9,5,14
+PUNATA,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+RIBERALTA,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+ROBORE,sospecha diagnostica,dengue con signos de alarma,2023-12-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SACABA,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,1,3,2,5
+SAN ANDRES,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,0,0,2,1,1,0,2,1,0,0,0,2,0,4,5,9
+SAN BORJA,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN BUENA VENTURA,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SAN PEDRO,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,0,0,1,0,1,0,2,1,1,0,0,0,2,1,7,8
+SAN RAFAEL,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA ANA,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,2,1,3
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue con signos de alarma,2023-12-01,2,0,1,0,4,4,3,3,6,3,3,0,13,19,6,12,3,10,8,7,49,58,107
+SHINAOTA,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,1,0,1,0,1,0,3,1,1,1,0,1,1,1,8,4,12
+TARIJA,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+TIPUANI,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,1,0,0,0,0,1,3,1,1,0,3,0,0,1,1,0,0,0,9,3,12
+TRINIDAD,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+VILLA TUNARI,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,1,0,1,0,2,5,4,0,1,5,4,0,2,0,0,0,0,10,15,25
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+WARNES,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,1,3,4
+YACUIBA,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,2,1,3
+YAPACANI,sospecha diagnostica,dengue con signos de alarma,2023-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
