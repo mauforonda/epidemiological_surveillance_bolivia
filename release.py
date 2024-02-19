@@ -40,8 +40,12 @@ def create_release(index_rows, filename):
         'disease_group':'category', 'disease':'category', 'department': 'category', 'municipality_id': int, 'municipality': 'category', 'year':int, 'month':int, 'population':str, 'value':float
     })
     
-    complete.to_parquet(
-        filename
+    complete.sort_values(['year', 'month', 'department', 'disease_group', 'disease', 'population', 'municipality_id']).to_parquet(
+        filename,
+        engine='pyarrow',
+        compression='zstd',
+        index=False,
+        row_group_size=1e7
     )
 
 # Make a release for each year.

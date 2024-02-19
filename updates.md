@@ -11,4 +11,5 @@ To add data for a new year
 - Run [variables.py](variables.py) to construct the [inventory of available datasets](indexes/variables.csv).
 - Run [data.py](data.py) to download all data in the inventory. These data will be saved under `raw`. This download may take many hours or fail completely if the server refuses our connections, but `data.py` will pick up where it left off any time it's retried until it finishes
 - Run [format.py](format.py) to make `raw` data tidy and save it under the `clean` directory.
+- And finally run [release.py](release.py) to package data in parquet files ready to publish under [releases](https://github.com/mauforonda/epidemiological_surveillance_bolivia/releases/latest).
 
