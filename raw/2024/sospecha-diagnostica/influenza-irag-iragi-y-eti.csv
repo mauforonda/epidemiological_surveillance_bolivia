@@ -1,0 +1,437 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+CARMEN RIVERO TORREZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CHUQUIHUTA AYLLU JUCUMANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-01-01,1,0,0,0,0,0,0,0,0,0,0,1,3,0,1,0,1,0,2,1,8,2,10
+EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-01-01,0,0,0,1,0,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,7,7
+EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+GUAYARAMERIN,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-01-01,0,0,0,2,2,1,4,1,1,0,0,0,0,0,0,0,0,0,0,0,7,4,11
+LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+MONTEAGUDO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-01-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2
+ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-01-01,3,1,4,0,2,1,2,1,1,0,0,0,3,0,0,0,0,0,0,3,15,6,21
+SAN ANDRES DE MACHACA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN RAFAEL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-01-01,4,1,7,7,13,7,5,3,0,0,0,2,10,17,5,6,3,5,9,6,56,54,110
+TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-01-01,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-01-01,0,0,0,0,1,1,1,1,0,0,0,2,1,5,1,2,1,2,2,1,7,14,21
+VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,3,3
+VILLA MONTES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,2
+YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-02-01,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,2,2,4,6
+EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-02-01,3,1,0,0,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,10
+LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-02-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-02-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2,1,3
+LAJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-02-01,0,0,0,0,3,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,4,1,5
+ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-02-01,2,0,0,0,3,1,2,0,2,2,1,0,2,2,0,0,2,0,1,3,15,8,23
+SACABA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-02-01,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+SAN RAFAEL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-02-01,4,3,9,6,18,9,13,7,8,3,6,2,12,14,4,2,2,3,5,4,81,53,134
+TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+WARNES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-02-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3,0,3
+YACUIBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+CAMIRI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CHARAGUA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,2,0,0,0,3,5,13,6,4,7,4,1,1,4,1,2,1,3,6,8,35,36,71
+COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,1,1,0,0,7,3,3,0,1,1,2,0,2,6,0,1,2,1,0,2,18,15,33
+EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,3,2,0,2,13,4,4,4,0,2,1,0,2,2,0,1,0,1,0,1,23,19,42
+EL PUENTE(STC),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2,4
+EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,1,0,0,1,0,1,0,0,0,2,0,1,0,3,2,1,0,0,1,1,4,10,14
+HUARINA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,1,1,8,5,21,18,26,19,31,18,14,13,15,33,7,6,0,1,4,11,127,125,252
+LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,1,0,0,4,10,9,13,14,9,3,2,3,11,9,5,6,3,1,3,5,57,54,111
+MACHARETI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,0,0,0,0,0,3,4,1,8,9,7,10,6,1,1,0,0,0,1,24,27,51
+MAIRANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+MONTEAGUDO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,1,1,0,1,2,0,1,2,1,2,0,1,2,2,1,0,0,3,1,0,9,12,21
+ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,1,1,0,6,2,2,1,1,0,0,0,1,1,0,1,0,1,1,1,12,8,20
+PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+PAMPA GRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+PORONGO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,1,0,0,0,2,0,1,4,2,7,2,3,1,4,3,0,0,2,0,2,12,22,34
+POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,0,0,0,0,0,0,0,0,0,24,5,4,3,0,2,0,1,1,0,29,11,40
+SACABA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,0,1,0,1,3,1,1,0,0,0,0,0,0,0,0,0,0,0,1,3,5,8
+SAN ANTONIO DE LOMERIO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,0,0,0,0,0,0,2,0,1,0,0,0,1,0,0,0,0,0,0,0,4,4
+SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+SAN JOSE DE CHIQUITOS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN RAFAEL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,3
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,20,16,39,36,246,196,296,247,217,229,184,150,396,605,105,167,66,91,85,120,1654,1857,3511
+SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,0,0,0,0,0,0,1,0,0,0,0,1,2,0,1,1,0,1,1,3,5,8
+TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,0,0,1,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,2,3,5
+TITO YUPANQUI (PARQUIPUJIO),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,0,0,0,0,0,0,2,0,0,0,0,4,3,3,3,1,2,2,1,10,11,21
+VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,0,0,1,2,4,7,3,5,9,8,6,4,13,5,2,1,1,4,0,36,39,75
+VILLA MONTES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,3,0,3
+WARNES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+YACUIBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,0,1,1,4,4,6,2,4,5,4,1,4,8,2,3,0,2,4,5,29,31,60
+YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-03-01,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,3,1,4
+ASCENCION DE GUARAYOS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,4,0,4
+BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,5,0,5
+BOYUIBE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,0,1,0,0,2,0,1,0,0,1,0,0,0,2,3,5
+BUENA VISTA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,1,0,0,0,0,3,0,1,1,3,1,0,0,0,0,0,1,7,4,11
+CABEZAS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,2,1,1,4,3,3,1,1,3,2,1,0,0,0,1,1,12,12,24
+CAMIRI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,1,0,4,4,9,8,8,9,3,9,9,10,0,2,1,2,1,2,36,46,82
+CHARAGUA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,1,0,0,1,0,0,2,1,2,1,0,0,0,1,0,2,5,6,11
+CKOCHAS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+COBIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,1,1,4,5,9
+COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,2,4,21,8,12,19,16,21,7,6,30,39,6,17,3,14,17,24,114,152,266
+COLCAPIRHUA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+COMARAPA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,3,1,4
+CONCEPCION,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,1,0,0,0,0,0,0,1,3,0,1,0,0,0,0,1,5,6
+COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,2,0,1,0,5,4,6,3,7,1,3,3,7,10,2,1,0,3,4,6,37,31,68
+CUATRO CAÑADAS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,2,3,1,4,3,4,2,0,4,6,0,0,0,0,1,0,13,17,30
+CUEVO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,4,4
+EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,4,3,4,5,16,11,7,12,4,2,0,0,3,3,1,2,1,0,2,6,42,44,86
+EL PUENTE(STC),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,12,4,8,5,6,4,7,7,9,12,5,2,1,2,1,2,49,38,87
+EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,2,1,3,2,22,22,24,24,15,32,10,15,27,61,8,7,8,5,12,10,131,179,310
+GENERAL SAAVEDRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GUTIERREZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+HUACAYA (VILLA DE HUACAYA),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,6,6,21,7,74,58,73,63,38,31,33,25,44,78,7,15,9,8,9,15,314,306,620
+LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,3,1,2,1,14,14,3,5,2,3,2,4,5,7,3,10,1,0,13,20,48,65,113
+LAGUNILLAS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,1,7,4,0,2,2,1,7,7,2,1,1,1,3,2,22,19,41
+MACHARETI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,1,4,4,3,1,5,11,1,5,13,27,4,3,5,1,2,2,37,55,92
+MAIRANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,1,3,4,1,2,0,0,0,1,4,0,0,1,0,1,0,10,8,18
+MALLA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+MINEROS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,0,4,1,3,0,1,3,0,0,0,0,0,0,8,4,12
+MONTEAGUDO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,2,3,0,0,0,2,4,0,1,2,0,2,1,9,8,17
+MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,1,3,15,6,14,12,15,16,6,8,15,18,5,7,1,3,2,7,74,80,154
+MORO MORO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,2,2,4,3,0,0,1,0,1,0,0,0,1,1,9,6,15
+OKINAWA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,1,0,0,0,1,1,4,5
+ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,6,1,1,0,8,4,7,3,5,0,0,1,1,4,0,0,1,0,3,2,32,15,47
+PADILLA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,2,0,1,0,2,4,0,1,2,3,0,1,0,0,0,0,7,9,16
+PALCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PAMPA GRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PORONGO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,9,4,8,4,5,5,5,6,16,12,5,4,0,2,4,4,52,41,93
+POSTRER VALLE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,0,5,0,1,0,0,2,0,0,0,0,0,0,6,2,8
+POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,1,1,1,2,9,2,3,0,0,0,1,5,1,2,1,2,1,0,18,14,32
+PUCARA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PUERTO QUIJARRO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,3,3
+PUERTO SUAREZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,2
+QUILLACOLLO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+QUIRUSILLAS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,1,0,0,2,0,2,1,0,0,0,1,0,0,1,3,5,8
+RIBERALTA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ROBORE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,1,3,4,0,4,0,2,0,1,2,5,0,1,0,0,0,0,5,18,23
+SACABA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,1,0,3,8,1,2,3,3,0,0,0,2,1,0,0,4,1,3,10,22,32
+SAIPINA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,1,2,4,1,1,0,2,0,1,0,0,0,0,3,9,12
+SAMAIPATA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+SAN CARLOS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,2
+SAN IGNACIO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,1,0,0,0,1,0,2,0,0,7,0,0,1,0,0,3,5,10,15
+SAN JOSE DE CHIQUITOS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN MIGUEL DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+SAN PEDRO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,1,2,0,5,3,9,5,4,3,4,8,2,0,1,0,1,2,28,22,50
+SAN RAFAEL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,3,3,5,9,14,6,5,10,6,11,3,6,1,0,2,1,39,46,85
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,51,41,74,61,514,395,541,498,424,339,314,318,951,1313,216,303,138,216,263,325,3486,3809,7295
+SANTA ROSA DEL SARA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,0,1,0,4,5,1,1,0,0,0,0,0,0,6,6,12
+SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,1,2,0,17,6,14,11,9,5,8,12,21,38,7,9,5,4,4,9,87,95,182
+TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,5,3,9,5,9,8,4,8,26,24,1,6,1,2,7,14,62,70,132
+TINGUIPAYA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+TITO YUPANQUI (PARQUIPUJIO),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+TRIGAL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,1,1,8,3,7,9,8,6,8,11,4,14,1,6,4,4,4,2,45,56,101
+TUPIZA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,1,0,0,1,0,0,0,0,2,0,0,0,1,0,0,1,4,5
+UYUNI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,3,0,1,3,9,8,12,9,10,8,6,4,13,20,3,8,4,8,7,7,68,75,143
+VILLA MONTES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,0,0,0,1,0,0,1,1,5,3,1,1,0,0,1,2,8,8,16
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,2,0,5,1,13,7,4,11,10,19,4,6,0,3,4,4,42,51,93
+VINTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+WARNES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,3,1,1,2,5,7,7,11,24,32,18,14,18,15,7,5,6,1,2,2,91,90,181
+YACUIBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,0,0,6,13,15,9,8,7,2,7,7,26,8,18,5,10,8,20,59,110,169
+YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-04-01,0,0,3,1,4,4,5,2,2,3,0,3,3,6,0,0,0,1,1,0,18,20,38
+BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,1,0,0,0,3,0,2,3,1,1,0,0,1,0,0,1,0,1,1,3,9,9,18
+BETANZOS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+BUENA VISTA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,3,4
+CABEZAS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,3,1,0,0,0,0,2,0,0,3,0,0,0,1,0,0,5,5,10
+CAMIRI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,1,2,1,1,0,0,1,0,2,0,0,0,0,2,2,5,7,12
+CARAPARI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,0,1,0,2,1,0,0,4,0,0,0,0,0,0,1,7,2,9
+CARMEN RIVERO TORREZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+CHARAGUA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+COBIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,1,0,0,1,1,0,0,1,0,0,2,0,2,0,0,1,2,0,1,3,9,12
+COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,5,1,2,14,9,19,15,13,13,11,16,30,31,7,10,8,8,11,42,114,151,265
+COLCAPIRHUA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,1,2,1,1,1,0,0,0,1,1,0,0,0,0,3,2,7,6,13
+CONCEPCION,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,1,0,0,1,0,2,0,1,0,0,0,2,3,0,1,1,1,0,1,7,7,14
+COPACABANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,1,0,1,3,4,3,2,1,1,0,1,2,7,3,2,0,0,5,3,17,22,39
+CUATRO CAÑADAS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,1,0,1,0,5,7,5,4,1,4,7,4,0,1,1,0,2,1,23,21,44
+CUEVO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,5,2,11,5,22,18,3,8,2,1,0,0,4,2,1,4,3,10,25,29,76,79,155
+EL PUENTE(STC),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0,0,1,3,4
+EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,2,0,1,4,9,0,0,2,1,0,3,4,4,2,1,1,2,4,3,17,26,43
+GENERAL SAAVEDRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+HUACAYA (VILLA DE HUACAYA),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,2,3
+LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,2,3,5,3,20,17,8,11,4,5,5,5,6,16,2,4,1,4,7,3,60,71,131
+LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,3,5,0,1,3,5,1,1,3,0,1,0,6,8,2,5,2,4,6,6,27,35,62
+LAGUNILLAS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,1,0,0,0,1,0,0,0,1,0,2,0,0,3,0,0,0,1,0,1,5,5,10
+MACHARETI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MAIRANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,1,1,0,0,1,0,2,1,2,0,1,0,0,0,0,0,0,1,0,0,7,3,10
+MINEROS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,0,0,0,1,0,0,2,1,1,0,0,0,0,0,0,2,3,5
+MONTEAGUDO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,1,2,0,1,1,1,0,1,2,0,0,0,4,4,2,9,10,19
+MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,3,0,1,8,6,6,5,2,4,2,2,1,4,3,6,1,4,2,2,25,37,62
+OKINAWA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,7,3,3,1,20,3,10,8,3,6,0,0,2,9,2,1,1,2,5,2,53,35,88
+PADILLA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,1,0,2,1,1,0,0,0,0,0,0,0,0,0,0,1,4,5
+PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,2,0,0,0,1,2,1,3,1,0,1,0,2,4,0,0,1,1,0,1,9,11,20
+PAMPA GRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,1,1,1,1,4,0,2,2,0,0,1,2,0,1,0,0,0,0,9,7,16
+PORONGO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,1,1,3,1,0,3,0,2,2,1,7,8,1,1,1,1,1,0,16,18,34
+POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,2,1,1,2,1,1,0,0,0,5,0,0,0,1,0,2,4,12,16
+PUERTO SUAREZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+QUILLACOLLO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+ROBORE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,1,0,2,1,1,1,0,7,2,0,6,0,0,0,0,0,0,0,12,9,21
+SACABA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,4,1,1,2,3,3,2,3,1,1,0,0,1,7,1,1,2,4,0,2,15,24,39
+SAIPINA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2
+SAMAIPATA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,1,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,4,6
+SAN BORJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,1,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,2,3,5
+SAN CARLOS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,1,0,1,1,2,1,1,4,6,0,0,1,3,1,2,8,16,24
+SAN JAVIER(BNI),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,4,0,1,1,2,0,2,0,0,0,0,0,0,0,0,1,9,10
+SAN JOSE DE CHIQUITOS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN JUAN DE YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,0,0,0,1,0,0,0,2,3,0,0,0,0,0,0,3,3,6
+SAN JULIAN,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,1,2,3
+SAN MATIAS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+SAN MIGUEL DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,0,0,0,0,3,2,5,1,4,0,0,2,0,3,0,8,12,20
+SAN PEDRO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,0,0,0,1,0,1,1,3,1,0,1,0,0,0,1,5,4,9
+SAN RAFAEL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,1,0,0,4,0,4,3,5,7,2,3,4,15,3,1,1,0,0,1,23,31,54
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,45,56,41,42,246,142,139,124,94,82,82,88,309,456,87,142,54,120,152,215,1249,1467,2716
+SANTA ROSA DEL SARA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SORACACHI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,2,3,6,2,15,13,12,8,3,1,8,5,14,46,7,14,3,6,16,11,86,109,195
+TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,3,0,15,7,5,9,4,1,7,11,1,3,0,1,9,10,44,42,86
+TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,1,0,1,3,5,2,6,1,3,6,3,4,4,10,0,8,1,3,6,1,30,38,68
+VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,1,1,1,2,1,2,1,0,0,1,0,2,6,0,2,1,4,0,1,9,17,26
+VILLA MONTES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,1,0,1,1,4,5
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,1,1,3,1,3,2,2,1,3,6,0,1,0,1,1,1,13,14,27
+VINTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,3,5
+WARNES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,0,0,0,0,0,0,2,3,3,1,2,2,2,2,1,1,0,2,2,0,12,11,23
+YACUIBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,1,0,0,0,2,3,2,6,0,0,0,0,0,10,2,2,2,3,7,6,16,30,46
+YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-05-01,1,0,1,1,0,0,1,1,0,0,0,2,1,0,0,0,0,0,0,2,4,6,10
+BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,1,0,0,1,1,0,1,0,0,0,0,2,0,2,1,0,2,2,6,7,13
+CABEZAS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,2,2,4
+CARAPARI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+COBIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,1,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2,0,0,1,0,2,5,7
+COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,3,0,0,0,3,4,5,1,5,9,4,6,17,21,4,11,6,4,13,22,60,78,138
+CONCEPCION,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,2,2,4
+COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,2,2,2,0,2,1,1,0,1,1,0,0,2,4,1,2,2,1,5,1,18,12,30
+EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,2,5,4,3,8,5,1,1,2,1,0,0,1,3,2,3,3,3,13,16,36,40,76
+EL PUENTE(STC),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,2,3
+EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,2,0,0,0,0,0,0,1,1,2,0,0,0,0,0,2,3,5,8
+HUANUNI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,1,0,1,0,1,1,0,1,1,0,0,0,1,5,0,0,0,0,1,1,6,8,14
+LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,2,2,2,0,2,1,1,0,0,0,0,1,3,2,0,0,3,2,6,11,19,19,38
+MAIRANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,2,2,4
+MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,2,0,1,5,6,1,1,0,0,0,0,0,1,1,1,0,1,0,3,7,16,23
+ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,5,0,6,2,6,4,1,3,1,4,0,0,0,4,1,3,1,1,5,2,26,23,49
+PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,3,0,0,0,2,0,0,0,0,0,1,1,2,2,0,0,0,0,0,0,8,3,11
+PAMPA GRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+POOPO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PORONGO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,3,4,7
+REYES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,2,3,5
+RIBERALTA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+ROBORE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,1,1,4,5
+SACABA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,1,1,2,0,0,0,0,0,1,1,0,0,0,1,0,0,4,3,7
+SAMAIPATA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,1,0,0,0,0,0,1,2,0,0,0,0,1,5,0,0,0,2,4,1,7,10,17
+SAN JAVIER(BNI),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+SAN JOSE DE CHIQUITOS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,3,3
+SAN JUAN DE YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN MIGUEL DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,3,1,5,3,8
+SAN PEDRO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN RAFAEL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,1,0,0,2,0,0,1,0,1,2,3,0,0,0,0,0,1,4,7,11
+SANTA ANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,38,35,18,22,56,53,43,35,13,22,13,23,95,122,44,54,36,44,65,90,421,500,921
+SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,10,5,9,1,13,10,5,1,1,2,2,2,6,4,1,2,1,3,6,2,54,32,86
+TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,3,0,4,2,1,1,1,1,2,3,0,0,2,0,8,9,21,16,37
+TITO YUPANQUI (PARQUIPUJIO),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+TOTORA(ORR),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3
+VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA MONTES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+VINTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,3,2,5
+WARNES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+YACO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+YACUIBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,3,1,1,2,1,2,0,0,2,0,0,0,1,0,1,1,0,2,1,3,10,11,21
+YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,1,3,4
+YOTALA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-06-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CAMIRI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CHARAGUA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+COBIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,2,2,4
+COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,2,1,3,3,2,0,6,6,55,50,14,17,7,11,17,32,106,120,226
+COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,2,1,0,0,2,1,3,0,1,0,0,4,2,1,0,1,1,0,7,8,18,26
+EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,4,5,1,4,11,10,1,2,1,0,1,0,3,3,1,1,0,4,7,15,30,44,74
+EL PUENTE(STC),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,1,0,1,2,0,6,2,8
+GENERAL SAAVEDRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,0,0,1,0,0,0,0,0,3,3,0,1,0,1,2,3,6,8,14
+LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,1,0,0,0,2,0,2,0,0,0,3,8,2,3,2,4,8,9,20,24,44
+MACHARETI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+MAIRANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+MONTEAGUDO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3,0,3,2,5
+MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,1,1,0,1,0,1,1,1,0,0,0,0,2,2,0,0,0,0,0,1,4,7,11
+ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,2,2,1,0,6,3,9,3,4,3,0,0,1,3,1,1,1,2,4,4,29,21,50
+PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0,1,3,4
+PAMPA GRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+PORONGO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO SUAREZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SACABA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,3,3
+SAMAIPATA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4,0,4,2,6
+SAN MIGUEL DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SAN PEDRO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN RAFAEL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,17,17,7,8,38,40,16,17,13,8,12,19,65,111,28,24,29,24,62,70,287,338,625
+SHINAOTA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SORATA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,2,1,2,3,9,6,4,6,0,0,0,0,3,6,0,2,4,1,4,10,28,35,63
+TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,2,0,0,1,2,0,1,0,2,2,0,1,2,0,0,0,9,4,13
+TOTORA(ORR),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TUPIZA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+VIACHA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+VILLA MONTES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+VINTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,2,1,2,2,6,8
+WARNES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,4,2,6
+YACUIBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,1,0,0,0,0,2,0,0,0,0,0,1,1,0,0,1,2,1,1,5,5,10
+YOTALA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-07-01,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+CAMIRI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,2,3
+CHARAGUA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COBIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,1,0,0,0,2,1,1,0,4,1,3,2,10,21,3,4,4,3,11,10,39,42,81
+COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,4,3,7,4,11
+EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,0,0,2,1,2,1,3,0,1,2,1,0,2,6,5,1,1,1,5,10,22,22,44
+EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,0,1,0,0,0,1,1,0,1,1,0,0,0,1,0,2,0,0,0,0,2,6,8
+HUANUNI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,0,0,0,0,2,1,1,1,1,1,1,0,1,0,0,0,0,0,1,0,7,3,10
+LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,0,0,0,0,2,2,4,6,7,11,7,4,16,15,2,8,2,3,11,8,51,57,108
+MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,3,1,5,1,6,2,5,6,2,0,0,0,2,4,0,0,1,0,2,1,26,15,41
+PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,0,1,2,3,6,4,10
+SAN JOSE DE CHIQUITOS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SAN MIGUEL DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,2
+SAN RAFAEL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,12,5,6,2,6,25,27,16,24,20,12,19,54,82,25,43,22,25,42,35,230,272,502
+SANTA ROSA DEL SARA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,1,0,2,3,7,4,2,8,2,1,0,0,4,1,0,0,0,0,4,1,22,18,40
+TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,0,0,0,0,5,0,7,14,6,0,0,0,3,3,0,2,0,1,3,1,24,21,45
+TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,3,0,0,0,1,1,5,6
+VILLA MONTES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,0,0,0,0,0,0,0,0,1,0,2,0,1,0,0,1,0,0,0,0,4,1,5
+YACUIBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+ALCALA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,0,0,0,1,0,3,2,5
+BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,3,1,4
+CARAPARI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CARMEN RIVERO TORREZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,2,2,4
+COBIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,0,2,1,0,0,0,0,0,0,1,1,3,6,12,2,5,1,1,7,5,18,29,47
+CONCEPCION,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,2,3,3,6
+EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,1,0,0,1,8,4,2,3,5,2,1,0,3,0,3,8,2,2,10,11,35,31,66
+EL PUENTE(STC),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,0,1,1,0,1,2,1,1,0,2,0,1,0,2,0,0,1,0,0,1,4,10,14
+LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,0,2,0,1,1,3,2,0,1,1,4,0,0,1,0,1,0,0,0,1,8,10,18
+LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,1,0,0,0,6,1,3,4,1,7,4,3,9,19,3,6,0,3,7,10,34,53,87
+MONTEAGUDO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,0,0,1,0,2,1,0,1,0,0,1,0,1,2,0,0,1,0,1,0,7,4,11
+ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,1,3,1,3,5,1,6,2,1,0,1,0,3,1,0,0,1,2,5,1,24,13,37
+PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PORONGO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,0,0,0,0,0,2,0,3,1,0,0,1,3,1,0,2,0,0,2,1,6,10,16
+POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,1,1,2,0,4,2,4,0,2,4,0,0,3,1,0,1,0,1,0,3,16,13,29
+SACABA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+SAMAIPATA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,4,2,6,8
+SAN JUAN DE YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,0,0,0,0,0,0,2,1,0,0,0,0,0,0,1,0,0,0,0,0,3,1,4
+SAN MIGUEL DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN RAFAEL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,10,4,11,5,26,18,28,15,27,26,22,22,63,72,28,30,15,16,42,37,272,245,517
+SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,1,0,1,1,6,6,10,4,3,1,1,1,6,8,3,4,1,3,1,3,33,31,64
+TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,1,0,0,0,3,0,4,2,4,3,0,0,1,1,0,0,0,0,0,1,13,7,20
+TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,2,1,0,0,1,3,5,8
+VILLA MONTES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,0,2
+YACUIBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,0,0,0,0,0,1,5,2,3,0,0,0,1,1,0,0,2,3,0,1,11,8,19
+YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CAMIRI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+CARAPARI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-10-01,0,0,0,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,3,3,6
+CARMEN RIVERO TORREZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-10-01,0,0,0,0,0,0,1,0,2,0,0,0,3,6,4,1,2,1,2,3,14,11,25
+COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-10-01,2,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,3,1,6,3,9
+EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-10-01,2,1,1,0,2,4,1,0,1,0,0,0,1,1,6,3,1,2,12,9,27,20,47
+EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-10-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-10-01,1,0,0,0,0,0,3,2,0,1,0,0,3,4,2,2,0,0,2,3,11,12,23
+MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-10-01,1,2,0,0,2,1,1,0,1,0,1,0,0,0,2,1,0,1,3,1,11,6,17
+ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-10-01,5,2,5,1,8,5,5,6,1,2,0,0,1,1,1,1,0,0,0,0,26,18,44
+PAMPA GRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-10-01,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,3,4
+RIBERALTA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SACABA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-10-01,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3
+SAN RAFAEL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-10-01,8,4,10,3,27,31,25,19,13,19,22,26,48,67,24,24,35,23,46,39,258,255,513
+SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-10-01,0,3,2,0,5,8,7,6,2,4,0,2,5,0,0,0,0,3,1,0,22,26,48
+TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-10-01,0,0,0,0,2,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,4,1,5
+TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-10-01,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,4,4
+YACUIBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-10-01,0,0,1,0,2,3,9,6,2,2,1,0,1,8,0,2,1,1,1,0,18,22,40
+BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,0,0,0,0,1,0,0,2,0,0,0,0,2,1,0,0,0,0,0,1,3,4,7
+CABEZAS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CAMIRI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,0,1,4,5
+CARAPARI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CARMEN RIVERO TORREZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+COBIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,0,0,0,0,0,0,1,0,0,0,0,0,3,0,2,2,1,1,1,2,8,5,13
+COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,3,1,4
+EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,2,0,0,1,3,2,0,0,1,0,0,0,3,0,1,1,0,1,3,4,13,9,22
+EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,0,0,0,0,0,0,0,0,1,1,3,2,1,1,0,1,0,0,0,0,5,5,10
+LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,1,4,1,8,9
+LLALLAGUA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,3
+MAIRANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,2,1,0,1,1,0,1,0,2,1,0,0,0,0,0,0,0,0,0,1,6,4,10
+ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,3,0,1,2,8,8,3,4,2,3,0,0,1,1,1,0,0,0,1,2,20,20,40
+PORONGO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3,0,3
+POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,2,2,3,5
+RIBERALTA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SACABA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,3
+SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN RAFAEL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,10,6,4,4,21,31,16,14,9,11,6,15,24,35,12,19,13,13,25,23,140,171,311
+SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,0,1,0,1,5,2,2,1,0,0,1,1,0,0,0,0,0,0,0,0,8,6,14
+TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+YACUIBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,0,0,2,0,3,0,1,0,1,0,0,0,2,2,2,1,1,0,0,0,12,3,15
+YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CAMIRI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+CARAPARI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-12-01,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-12-01,0,0,0,0,0,0,1,0,0,0,0,2,4,2,0,2,0,4,2,4,7,14,21
+COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,2,3
+EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-12-01,1,0,1,0,3,3,1,1,0,0,0,0,0,0,1,1,2,0,2,4,11,9,20
+EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-12-01,0,0,1,1,0,0,2,0,1,0,0,0,1,3,0,0,0,0,1,1,6,5,11
+LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-12-01,0,0,0,0,0,0,0,0,1,0,1,0,3,2,0,1,0,0,1,2,6,5,11
+LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-12-01,2,0,0,0,2,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,4,3,7
+MAIRANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MONTEAGUDO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-12-01,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-12-01,1,1,5,0,3,4,5,3,1,1,0,0,0,1,1,1,1,0,1,1,18,12,30
+PORONGO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,2,3
+RIBERALTA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-12-01,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,3
+SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SAN RAFAEL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-12-01,0,0,1,0,0,0,0,0,0,0,0,1,4,2,1,1,1,2,2,2,9,8,17
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-12-01,7,8,6,6,32,21,12,18,18,13,15,14,57,104,23,37,29,40,58,65,257,326,583
+SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-12-01,3,0,3,1,6,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,13,3,16
+VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,3,4
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+VINTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+WARNES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,3,0,3
+YACUIBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2024-12-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,2,4

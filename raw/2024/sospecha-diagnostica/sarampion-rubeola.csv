@@ -1,0 +1,183 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+CLIZA,sospecha diagnostica,sarampion / rubeola,2024-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2024-01-01,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+COPACABANA,sospecha diagnostica,sarampion / rubeola,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+EL TORNO,sospecha diagnostica,sarampion / rubeola,2024-01-01,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+HUACARETA,sospecha diagnostica,sarampion / rubeola,2024-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ICLA,sospecha diagnostica,sarampion / rubeola,2024-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA PAZ,sospecha diagnostica,sarampion / rubeola,2024-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ORURO,sospecha diagnostica,sarampion / rubeola,2024-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+PADILLA,sospecha diagnostica,sarampion / rubeola,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2024-01-01,2,1,1,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,10
+SIPE SIPE,sospecha diagnostica,sarampion / rubeola,2024-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,sarampion / rubeola,2024-01-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+TARIJA,sospecha diagnostica,sarampion / rubeola,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+VILLAZON,sospecha diagnostica,sarampion / rubeola,2024-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+BERMEJO,sospecha diagnostica,sarampion / rubeola,2024-02-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2024-02-01,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,4,1,5
+EL ALTO,sospecha diagnostica,sarampion / rubeola,2024-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+LA PAZ,sospecha diagnostica,sarampion / rubeola,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MIZQUE,sospecha diagnostica,sarampion / rubeola,2024-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ORURO,sospecha diagnostica,sarampion / rubeola,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+POTOSI,sospecha diagnostica,sarampion / rubeola,2024-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SACABA,sospecha diagnostica,sarampion / rubeola,2024-02-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2024-02-01,0,1,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5
+SIPE SIPE,sospecha diagnostica,sarampion / rubeola,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+TARIJA,sospecha diagnostica,sarampion / rubeola,2024-02-01,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+VILLA MONTES,sospecha diagnostica,sarampion / rubeola,2024-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,sarampion / rubeola,2024-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+VINTO,sospecha diagnostica,sarampion / rubeola,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+AYOPAYA (V. DE INDEPENDENCIA),sospecha diagnostica,sarampion / rubeola,2024-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+BERMEJO,sospecha diagnostica,sarampion / rubeola,2024-03-01,0,0,0,0,0,1,1,0,0,0,2,0,0,0,0,0,0,0,0,2,3,3,6
+CLIZA,sospecha diagnostica,sarampion / rubeola,2024-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2024-03-01,0,0,1,3,1,0,3,0,3,0,0,0,1,1,0,1,0,1,0,0,9,6,15
+COLCAPIRHUA,sospecha diagnostica,sarampion / rubeola,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COROICO,sospecha diagnostica,sarampion / rubeola,2024-03-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EL ALTO,sospecha diagnostica,sarampion / rubeola,2024-03-01,1,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,1,1,0,4,5,9
+EL PUENTE(STC),sospecha diagnostica,sarampion / rubeola,2024-03-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ENTRE RIOS TRJ,sospecha diagnostica,sarampion / rubeola,2024-03-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+HUACAYA (VILLA DE HUACAYA),sospecha diagnostica,sarampion / rubeola,2024-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HUANUNI,sospecha diagnostica,sarampion / rubeola,2024-03-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+INCAHUASI,sospecha diagnostica,sarampion / rubeola,2024-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LA GUARDIA,sospecha diagnostica,sarampion / rubeola,2024-03-01,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+LA PAZ,sospecha diagnostica,sarampion / rubeola,2024-03-01,0,0,0,0,1,1,0,1,0,1,0,0,0,1,0,1,0,0,0,0,1,5,6
+ORURO,sospecha diagnostica,sarampion / rubeola,2024-03-01,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,0,1,0,0,2,4,6
+PORONGO,sospecha diagnostica,sarampion / rubeola,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+POTOSI,sospecha diagnostica,sarampion / rubeola,2024-03-01,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+PUERTO VILLARROEL,sospecha diagnostica,sarampion / rubeola,2024-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SACABA,sospecha diagnostica,sarampion / rubeola,2024-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2024-03-01,1,1,1,0,0,0,2,1,1,0,0,1,0,0,0,0,0,0,0,0,5,3,8
+SUCRE,sospecha diagnostica,sarampion / rubeola,2024-03-01,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+TARIJA,sospecha diagnostica,sarampion / rubeola,2024-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TARVITA,sospecha diagnostica,sarampion / rubeola,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+URIONDO (A. CONCEPCION),sospecha diagnostica,sarampion / rubeola,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,3,0,3
+VALLEGRANDE,sospecha diagnostica,sarampion / rubeola,2024-03-01,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+VILLA MONTES,sospecha diagnostica,sarampion / rubeola,2024-03-01,0,0,0,0,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,1,4,4,8
+VINTO,sospecha diagnostica,sarampion / rubeola,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,2
+BERMEJO,sospecha diagnostica,sarampion / rubeola,2024-04-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CAMARGO,sospecha diagnostica,sarampion / rubeola,2024-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COBIJA,sospecha diagnostica,sarampion / rubeola,2024-04-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2024-04-01,0,0,0,1,0,0,0,1,2,0,0,0,1,1,1,0,0,0,0,0,4,3,7
+EL ALTO,sospecha diagnostica,sarampion / rubeola,2024-04-01,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+LA GUARDIA,sospecha diagnostica,sarampion / rubeola,2024-04-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+LA PAZ,sospecha diagnostica,sarampion / rubeola,2024-04-01,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+ORURO,sospecha diagnostica,sarampion / rubeola,2024-04-01,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,3
+PATACAMAYA,sospecha diagnostica,sarampion / rubeola,2024-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+POTOSI,sospecha diagnostica,sarampion / rubeola,2024-04-01,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+SACABA,sospecha diagnostica,sarampion / rubeola,2024-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO DE TIQUINA,sospecha diagnostica,sarampion / rubeola,2024-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2024-04-01,2,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,3,4,7
+SIPE SIPE,sospecha diagnostica,sarampion / rubeola,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SUCRE,sospecha diagnostica,sarampion / rubeola,2024-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+TARATA,sospecha diagnostica,sarampion / rubeola,2024-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TARIJA,sospecha diagnostica,sarampion / rubeola,2024-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TRINIDAD,sospecha diagnostica,sarampion / rubeola,2024-04-01,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+COBIJA,sospecha diagnostica,sarampion / rubeola,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2024-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+COTOCA,sospecha diagnostica,sarampion / rubeola,2024-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+EL ALTO,sospecha diagnostica,sarampion / rubeola,2024-05-01,1,0,0,1,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,4,2,6
+LA GUARDIA,sospecha diagnostica,sarampion / rubeola,2024-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA PAZ,sospecha diagnostica,sarampion / rubeola,2024-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+MIZQUE,sospecha diagnostica,sarampion / rubeola,2024-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+ORURO,sospecha diagnostica,sarampion / rubeola,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+PRESTO,sospecha diagnostica,sarampion / rubeola,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2024-05-01,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5
+SUCRE,sospecha diagnostica,sarampion / rubeola,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLAZON,sospecha diagnostica,sarampion / rubeola,2024-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2024-06-01,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5
+EL ALTO,sospecha diagnostica,sarampion / rubeola,2024-06-01,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,2,3
+FILADELFIA,sospecha diagnostica,sarampion / rubeola,2024-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,sospecha diagnostica,sarampion / rubeola,2024-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LA PAZ,sospecha diagnostica,sarampion / rubeola,2024-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ORURO,sospecha diagnostica,sarampion / rubeola,2024-06-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+POTOSI,sospecha diagnostica,sarampion / rubeola,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2024-06-01,1,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,2,3,5
+TARIJA,sospecha diagnostica,sarampion / rubeola,2024-06-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+BERMEJO,sospecha diagnostica,sarampion / rubeola,2024-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2024-07-01,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+COTOCA,sospecha diagnostica,sarampion / rubeola,2024-07-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+EL ALTO,sospecha diagnostica,sarampion / rubeola,2024-07-01,1,1,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,4,2,6
+HUANUNI,sospecha diagnostica,sarampion / rubeola,2024-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,sospecha diagnostica,sarampion / rubeola,2024-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA PAZ,sospecha diagnostica,sarampion / rubeola,2024-07-01,0,0,0,0,1,0,0,0,4,0,0,0,0,0,0,1,0,0,0,0,5,1,6
+MONTEAGUDO,sospecha diagnostica,sarampion / rubeola,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+ORURO,sospecha diagnostica,sarampion / rubeola,2024-07-01,1,0,2,2,1,1,0,1,0,0,1,1,0,1,1,0,0,0,0,0,6,6,12
+QUILLACOLLO,sospecha diagnostica,sarampion / rubeola,2024-07-01,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2024-07-01,2,1,1,1,2,1,2,1,1,1,0,0,0,0,0,0,0,0,0,0,8,5,13
+SUCRE,sospecha diagnostica,sarampion / rubeola,2024-07-01,0,0,1,0,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,2,5
+TAPACARI,sospecha diagnostica,sarampion / rubeola,2024-07-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TARIJA,sospecha diagnostica,sarampion / rubeola,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TIRAQUE (CBBA),sospecha diagnostica,sarampion / rubeola,2024-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VALLEGRANDE,sospecha diagnostica,sarampion / rubeola,2024-07-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA MONTES,sospecha diagnostica,sarampion / rubeola,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,sarampion / rubeola,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+VINTO,sospecha diagnostica,sarampion / rubeola,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2024-08-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+EL ALTO,sospecha diagnostica,sarampion / rubeola,2024-08-01,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+LA GUARDIA,sospecha diagnostica,sarampion / rubeola,2024-08-01,0,0,1,0,2,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,3,3,6
+LA PAZ,sospecha diagnostica,sarampion / rubeola,2024-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LAJA,sospecha diagnostica,sarampion / rubeola,2024-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+ORURO,sospecha diagnostica,sarampion / rubeola,2024-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN PEDRO,sospecha diagnostica,sarampion / rubeola,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+SAN RAFAEL,sospecha diagnostica,sarampion / rubeola,2024-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2024-08-01,0,0,0,0,2,0,2,2,0,0,0,0,3,1,0,0,0,0,0,0,7,3,10
+SUCRE,sospecha diagnostica,sarampion / rubeola,2024-08-01,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+TARABUCO,sospecha diagnostica,sarampion / rubeola,2024-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+TARIJA,sospecha diagnostica,sarampion / rubeola,2024-08-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+VALLEGRANDE,sospecha diagnostica,sarampion / rubeola,2024-08-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2024-09-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+EL ALTO,sospecha diagnostica,sarampion / rubeola,2024-09-01,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+LA GUARDIA,sospecha diagnostica,sarampion / rubeola,2024-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+LA PAZ,sospecha diagnostica,sarampion / rubeola,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ORURO,sospecha diagnostica,sarampion / rubeola,2024-09-01,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+PAILON,sospecha diagnostica,sarampion / rubeola,2024-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+PUERTO SUAREZ,sospecha diagnostica,sarampion / rubeola,2024-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ROBORE,sospecha diagnostica,sarampion / rubeola,2024-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN ANTONIO DE LOMERIO,sospecha diagnostica,sarampion / rubeola,2024-09-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SAN PEDRO,sospecha diagnostica,sarampion / rubeola,2024-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2024-09-01,0,0,1,0,3,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,6,0,6
+SUCRE,sospecha diagnostica,sarampion / rubeola,2024-09-01,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+CHULUMANI (V. DE LA LIBERTAD),sospecha diagnostica,sarampion / rubeola,2024-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CLIZA,sospecha diagnostica,sarampion / rubeola,2024-10-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2024-10-01,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+EL ALTO,sospecha diagnostica,sarampion / rubeola,2024-10-01,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,2,2,4
+EL TORNO,sospecha diagnostica,sarampion / rubeola,2024-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LA PAZ,sospecha diagnostica,sarampion / rubeola,2024-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,3,0,3
+MAIRANA,sospecha diagnostica,sarampion / rubeola,2024-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ORURO,sospecha diagnostica,sarampion / rubeola,2024-10-01,0,0,0,0,1,0,0,2,0,2,0,0,1,1,1,0,0,0,0,0,3,5,8
+POTOSI,sospecha diagnostica,sarampion / rubeola,2024-10-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+RAQAYPAMPA(ETA),sospecha diagnostica,sarampion / rubeola,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SACABA,sospecha diagnostica,sarampion / rubeola,2024-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN BORJA,sospecha diagnostica,sarampion / rubeola,2024-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2024-10-01,1,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5
+SOPACHUY,sospecha diagnostica,sarampion / rubeola,2024-10-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,sarampion / rubeola,2024-10-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TARIJA,sospecha diagnostica,sarampion / rubeola,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+WARNES,sospecha diagnostica,sarampion / rubeola,2024-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+BERMEJO,sospecha diagnostica,sarampion / rubeola,2024-11-01,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+CAMIRI,sospecha diagnostica,sarampion / rubeola,2024-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CLIZA,sospecha diagnostica,sarampion / rubeola,2024-11-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+COBIJA,sospecha diagnostica,sarampion / rubeola,2024-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+COTAGAITA,sospecha diagnostica,sarampion / rubeola,2024-11-01,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+LA GUARDIA,sospecha diagnostica,sarampion / rubeola,2024-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA PAZ,sospecha diagnostica,sarampion / rubeola,2024-11-01,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+LLALLAGUA,sospecha diagnostica,sarampion / rubeola,2024-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ORURO,sospecha diagnostica,sarampion / rubeola,2024-11-01,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+PORONGO,sospecha diagnostica,sarampion / rubeola,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+POTOSI,sospecha diagnostica,sarampion / rubeola,2024-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ROBORE,sospecha diagnostica,sarampion / rubeola,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,sarampion / rubeola,2024-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2024-11-01,0,0,1,1,1,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,2,6,8
+SUCRE,sospecha diagnostica,sarampion / rubeola,2024-11-01,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+YOTALA,sospecha diagnostica,sarampion / rubeola,2024-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2024-12-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,sospecha diagnostica,sarampion / rubeola,2024-12-01,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+LLALLAGUA,sospecha diagnostica,sarampion / rubeola,2024-12-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+ORURO,sospecha diagnostica,sarampion / rubeola,2024-12-01,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2024-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SUCRE,sospecha diagnostica,sarampion / rubeola,2024-12-01,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+TUPIZA,sospecha diagnostica,sarampion / rubeola,2024-12-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+WARNES,sospecha diagnostica,sarampion / rubeola,2024-12-01,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+YACUIBA,sospecha diagnostica,sarampion / rubeola,2024-12-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1

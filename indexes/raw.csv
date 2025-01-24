@@ -1378,3 +1378,113 @@ raw/2023/enfermedades-transmitidas-por-vectores-etv/chagas-agudo.csv,2023,17,enf
 raw/2023/enfermedades-transmitidas-por-vectores-etv/malaria.csv,2023,17,enfermedades transmitidas por vectores (etv),04,malaria
 raw/2023/mortalidad-materna/muerte-materna-notificada.csv,2023,18,mortalidad materna,01,muerte materna notificada
 raw/2023/mortalidad-materna/muerte-materna-confirmada.csv,2023,18,mortalidad materna,02,muerte materna confirmada
+raw/2024/sospecha-diagnostica/sarampion-rubeola.csv,2024,01,sospecha diagnostica,11,sarampion / rubeola
+raw/2024/sospecha-diagnostica/sindrome-de-rubeola-congenita.csv,2024,01,sospecha diagnostica,12,sindrome de rubeola congenita
+raw/2024/sospecha-diagnostica/tos-ferina-coqueluche.csv,2024,01,sospecha diagnostica,13,tos ferina/coqueluche
+raw/2024/sospecha-diagnostica/difteria.csv,2024,01,sospecha diagnostica,14,difteria
+raw/2024/sospecha-diagnostica/paralisis-flacida-aguda-polio.csv,2024,01,sospecha diagnostica,15,paralisis flacida aguda (polio)
+raw/2024/sospecha-diagnostica/fiebre-amarilla.csv,2024,01,sospecha diagnostica,16,fiebre amarilla
+raw/2024/sospecha-diagnostica/dengue-grave.csv,2024,01,sospecha diagnostica,17,dengue grave
+raw/2024/sospecha-diagnostica/fiebre-hemorragica.csv,2024,01,sospecha diagnostica,18,fiebre hemorragica
+raw/2024/sospecha-diagnostica/peste.csv,2024,01,sospecha diagnostica,19,peste
+raw/2024/sospecha-diagnostica/enfermedad-meningococica.csv,2024,01,sospecha diagnostica,20,enfermedad meningococica
+raw/2024/sospecha-diagnostica/colera.csv,2024,01,sospecha diagnostica,21,colera
+raw/2024/sospecha-diagnostica/enfermedad-por-hanta-virus.csv,2024,01,sospecha diagnostica,22,enfermedad por hanta virus
+raw/2024/sospecha-diagnostica/rabia-canina.csv,2024,01,sospecha diagnostica,23,rabia canina
+raw/2024/sospecha-diagnostica/rabia-humana.csv,2024,01,sospecha diagnostica,24,rabia humana
+raw/2024/sospecha-diagnostica/influenza-irag-iragi-y-eti.csv,2024,01,sospecha diagnostica,25,"influenza  (irag ,iragi y eti)"
+raw/2024/sospecha-diagnostica/leptospirosis.csv,2024,01,sospecha diagnostica,26,leptospirosis
+raw/2024/sospecha-diagnostica/chikungunya.csv,2024,01,sospecha diagnostica,27,chikungunya
+raw/2024/sospecha-diagnostica/zika.csv,2024,01,sospecha diagnostica,28,zika
+raw/2024/sospecha-diagnostica/dengue-con-signos-de-alarma.csv,2024,01,sospecha diagnostica,29,dengue con signos de alarma
+raw/2024/sospecha-diagnostica/dengue-sin-signos-de-alarma.csv,2024,01,sospecha diagnostica,30,dengue sin signos de alarma
+raw/2024/sospecha-diagnostica/otras-meningitis.csv,2024,01,sospecha diagnostica,31,otras meningitis
+raw/2024/sospecha-diagnostica/sindrome-hemolitico-uremico.csv,2024,01,sospecha diagnostica,32,sindrome hemolitico uremico
+raw/2024/sospecha-diagnostica/covid-19.csv,2024,01,sospecha diagnostica,33,covid-19
+raw/2024/sospecha-diagnostica/sindrome-inflamatorio-multisistemico-asociado-con-covid-19.csv,2024,01,sospecha diagnostica,34,sindrome inflamatorio multisistemico asociado con covid-19
+raw/2024/sospecha-diagnostica/esavi-eventos-supuestamente-atribuidos-a-la-vacunacion-y-o-inmunizacion.csv,2024,01,sospecha diagnostica,35,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion)
+raw/2024/sospecha-diagnostica/mpox-viruela-simica.csv,2024,01,sospecha diagnostica,36,mpox (viruela simica)
+raw/2024/sospecha-diagnostica/oropouche.csv,2024,01,sospecha diagnostica,37,oropouche
+raw/2024/inmunoprevenibles/tetanos-neonatal-adulto.csv,2024,04,inmunoprevenibles,05,tetanos neonatal / adulto
+raw/2024/inmunoprevenibles/hepatitis-viral-a.csv,2024,04,inmunoprevenibles,06,hepatitis viral a*
+raw/2024/inmunoprevenibles/hepatitis-viral-b.csv,2024,04,inmunoprevenibles,07,hepatitis viral b*
+raw/2024/inmunoprevenibles/parotiditis.csv,2024,04,inmunoprevenibles,08,parotiditis
+raw/2024/inmunoprevenibles/varicela.csv,2024,04,inmunoprevenibles,09,varicela
+raw/2024/inmunoprevenibles/otras-hepatitis-virales.csv,2024,04,inmunoprevenibles,10,otras hepatitis virales
+raw/2024/inmunoprevenibles/hepatitis-viral-c.csv,2024,04,inmunoprevenibles,11,hepatitis viral c*
+raw/2024/infecc-de-transmision-sexual/ulcera-genital.csv,2024,05,infecc. de transmision sexual,08,ulcera genital
+raw/2024/infecc-de-transmision-sexual/sifilis-congenita.csv,2024,05,infecc. de transmision sexual,09,sifilis congenita
+raw/2024/infecc-de-transmision-sexual/sifilis-en-la-mujer-embarazada.csv,2024,05,infecc. de transmision sexual,10,sifilis en la mujer embarazada*
+raw/2024/infecc-de-transmision-sexual/flujo-uretral-vaginal.csv,2024,05,infecc. de transmision sexual,11,flujo uretral/vaginal
+raw/2024/infecc-de-transmision-sexual/gonorrea.csv,2024,05,infecc. de transmision sexual,12,gonorrea
+raw/2024/infecc-de-transmision-sexual/verruga-genital.csv,2024,05,infecc. de transmision sexual,13,verruga genital
+raw/2024/infecc-de-transmision-sexual/prueba-rapida-reactiva-de-vih-en-mujer-embarazada.csv,2024,05,infecc. de transmision sexual,14,prueba rapida reactiva de vih en  mujer embarazada
+raw/2024/infecc-de-transmision-sexual/prueba-rapida-reactiva-de-vih-en-poblacion-en-general.csv,2024,05,infecc. de transmision sexual,15,prueba rapida reactiva de vih en poblacion en general
+raw/2024/otras-infecciones/enfermedad-diarreica-aguda.csv,2024,06,otras infecciones,10,enfermedad diarreica aguda
+raw/2024/otras-infecciones/ira-sin-neumonia.csv,2024,06,otras infecciones,11,ira sin neumonia
+raw/2024/otras-infecciones/neumonia.csv,2024,06,otras infecciones,12,neumonia
+raw/2024/otras-infecciones/no-de-personas-expuestas-al-virus-rabico.csv,2024,06,otras infecciones,13,no de personas expuestas al virus rabico
+raw/2024/otras-infecciones/n-de-personas-con-evenenamiento-por-mordedura-de-serpientes-venenosas.csv,2024,06,otras infecciones,14,n de personas con evenenamiento por mordedura de serpientes venenosas
+raw/2024/otras-infecciones/n-de-personas-con-envenenamiento-por-aracnidos.csv,2024,06,otras infecciones,15,n de personas con envenenamiento por aracnidos
+raw/2024/tuberculosis-y-lepra/tuberculosis-meningea.csv,2024,07,tuberculosis y lepra,12,tuberculosis meningea
+raw/2024/tuberculosis-y-lepra/reaccion-adversa-a-farmacos-antituberculosos-rafa.csv,2024,07,tuberculosis y lepra,13,reaccion adversa  a farmacos antituberculosos (rafa)
+raw/2024/tuberculosis-y-lepra/reaccion-adversa-a-farmacos-antituberculosos-rafa-graves.csv,2024,07,tuberculosis y lepra,14,reaccion  adversa a farmacos antituberculosos rafa (graves)
+raw/2024/tuberculosis-y-lepra/lepra-paucibacilar.csv,2024,07,tuberculosis y lepra,15,lepra paucibacilar
+raw/2024/tuberculosis-y-lepra/lepra-multibacilar.csv,2024,07,tuberculosis y lepra,16,lepra multibacilar
+raw/2024/violencia-hechos-de-transito-y-accidentes/violencia-en-la-familia.csv,2024,08,"violencia, hechos de transito y accidentes",05,violencia en la familia
+raw/2024/violencia-hechos-de-transito-y-accidentes/violencia-sexual-familiar.csv,2024,08,"violencia, hechos de transito y accidentes",06,violencia sexual familiar
+raw/2024/violencia-hechos-de-transito-y-accidentes/otras-violencias-por-lesiones-autoinflingidas.csv,2024,08,"violencia, hechos de transito y accidentes",07,otras violencias por lesiones autoinflingidas
+raw/2024/violencia-hechos-de-transito-y-accidentes/no-de-casos-presentados-por-hechos-de-transito.csv,2024,08,"violencia, hechos de transito y accidentes",08,no de casos presentados por hechos de transito
+raw/2024/violencia-hechos-de-transito-y-accidentes/no-de-casos-presentados-por-otros-accidentes.csv,2024,08,"violencia, hechos de transito y accidentes",09,no de casos presentados por otros accidentes
+raw/2024/violencia-hechos-de-transito-y-accidentes/violencia-fisica-en-otros-contextos.csv,2024,08,"violencia, hechos de transito y accidentes",10,violencia fisica en otros contextos
+raw/2024/violencia-hechos-de-transito-y-accidentes/violencia-sexual-en-otros-contextos.csv,2024,08,"violencia, hechos de transito y accidentes",11,violencia sexual en otros contextos
+raw/2024/violencia-hechos-de-transito-y-accidentes/violencia-por-negligencia-o-abandono.csv,2024,08,"violencia, hechos de transito y accidentes",12,violencia por negligencia o abandono
+raw/2024/violencia-hechos-de-transito-y-accidentes/violencia-en-la-mujer-embarazada-familiar-y-en-otros-contextos.csv,2024,08,"violencia, hechos de transito y accidentes",13,violencia en la mujer embarazada (familiar y en otros contextos)
+raw/2024/violencia-hechos-de-transito-y-accidentes/violencia-en-persona-con-discapacidad-familiar-y-en-otros-contextos.csv,2024,08,"violencia, hechos de transito y accidentes",14,violencia en persona con discapacidad (familiar y en otros contextos)
+raw/2024/violencia-hechos-de-transito-y-accidentes/otras-violencias-por-lesiones-colectivas.csv,2024,08,"violencia, hechos de transito y accidentes",15,otras violencias por lesiones colectivas
+raw/2024/violencia-hechos-de-transito-y-accidentes/numero-de-casos-presentados-por-accidentes-laborales.csv,2024,08,"violencia, hechos de transito y accidentes",16,numero de casos presentados por accidentes laborales
+raw/2024/mortalidad/muerte-menor-de-5-anos-por-diarrea.csv,2024,09,mortalidad,09,muerte menor de 5 anos por diarrea
+raw/2024/mortalidad/muerte-menor-de-5-anos-por-neumonia.csv,2024,09,mortalidad,10,muerte menor de 5 anos por neumonia
+raw/2024/mortalidad/muerte-menor-de-5-anos-por-desnutricion-aguda-grave.csv,2024,09,mortalidad,11,muerte menor de 5 anos por desnutricion aguda grave
+raw/2024/mortalidad/muerte-menor-de-5-anos-por-otras-causas.csv,2024,09,mortalidad,12,muerte menor de 5 anos por otras causas
+raw/2024/mortalidad/otras-muertes-en-mayores-de-5-anos.csv,2024,09,mortalidad,13,otras muertes en mayores de 5 anos
+raw/2024/mortalidad/sospecha-de-muerte-por-dengue.csv,2024,09,mortalidad,14,sospecha de muerte por dengue
+raw/2024/mortalidad/sospecha-de-muerte-por-covid-19.csv,2024,09,mortalidad,15,sospecha de muerte por covid-19
+raw/2024/salud-sexual-y-reproductiva/hemorragia-de-la-primera-mitad-del-embarazo-22-sem-aborto.csv,2024,10,salud sexual y reproductiva,05,hemorragia de la primera mitad del embarazo (< 22 sem) aborto
+raw/2024/salud-sexual-y-reproductiva/sepsis-obstetrica.csv,2024,10,salud sexual y reproductiva,06,sepsis obstetrica
+raw/2024/salud-sexual-y-reproductiva/preeclampsia-severa.csv,2024,10,salud sexual y reproductiva,07,preeclampsia severa
+raw/2024/salud-sexual-y-reproductiva/eclampsia.csv,2024,10,salud sexual y reproductiva,08,eclampsia
+raw/2024/salud-sexual-y-reproductiva/hemorragia-de-la-primera-mitad-del-embarazo-22-sem-termino-en-aborto.csv,2024,10,salud sexual y reproductiva,09,hemorragia de la primera mitad del embarazo (< 22 sem) termino en aborto
+raw/2024/intoxicaciones/enf-transmitidas-por-alimentos-e-t-a.csv,2024,13,intoxicaciones,05,enf. transmitidas por alimentos (e.t.a.)
+raw/2024/intoxicaciones/otras-intoxicaciones-drogas-farmacos-alcohol-etc.csv,2024,13,intoxicaciones,06,"otras intoxicaciones (drogas, farmacos, alcohol etc.)"
+raw/2024/intoxicaciones/organofosforados-carbamatos.csv,2024,13,intoxicaciones,07,"organofosforados , carbamatos"
+raw/2024/intoxicaciones/halogenados.csv,2024,13,intoxicaciones,08,halogenados
+raw/2024/intoxicaciones/herbicida-y-fungicida.csv,2024,13,intoxicaciones,09,herbicida y fungicida
+raw/2024/intoxicaciones/otros-plaguicidas-insecticidas.csv,2024,13,intoxicaciones,10,otros plaguicidas/insecticidas
+raw/2024/eventos-notificacion-inmediata-parte-i/riada.csv,2024,15,eventos - notificacion inmediata parte i,01,riada
+raw/2024/eventos-notificacion-inmediata-parte-i/granizo.csv,2024,15,eventos - notificacion inmediata parte i,02,granizo
+raw/2024/eventos-notificacion-inmediata-parte-i/incendio.csv,2024,15,eventos - notificacion inmediata parte i,03,incendio
+raw/2024/eventos-notificacion-inmediata-parte-i/nevada.csv,2024,15,eventos - notificacion inmediata parte i,04,nevada
+raw/2024/eventos-notificacion-inmediata-parte-ii/deslizamiento.csv,2024,16,eventos - notificacion inmediata parte ii,01,deslizamiento
+raw/2024/eventos-notificacion-inmediata-parte-ii/inundacion.csv,2024,16,eventos - notificacion inmediata parte ii,02,inundacion
+raw/2024/eventos-notificacion-inmediata-parte-ii/otros-de-excepcion.csv,2024,16,eventos - notificacion inmediata parte ii,03,otros de excepcion
+raw/2024/eventos-notificacion-inmediata-parte-ii/sismo-terremoto.csv,2024,16,eventos - notificacion inmediata parte ii,04,sismo/terremoto
+raw/2024/enfermedades-transmitidas-por-vectores-etv/leishmaniasis-cutanea.csv,2024,17,enfermedades transmitidas por vectores (etv),01,leishmaniasis cutanea
+raw/2024/enfermedades-transmitidas-por-vectores-etv/chagas-agudo-congenito.csv,2024,17,enfermedades transmitidas por vectores (etv),02,chagas agudo congenito
+raw/2024/enfermedades-transmitidas-por-vectores-etv/malaria.csv,2024,17,enfermedades transmitidas por vectores (etv),04,malaria
+raw/2024/enfermedades-transmitidas-por-vectores-etv/leishmaniasis-mucocutanea.csv,2024,17,enfermedades transmitidas por vectores (etv),05,leishmaniasis mucocutanea
+raw/2024/enfermedades-transmitidas-por-vectores-etv/leishmaniasis-viseral.csv,2024,17,enfermedades transmitidas por vectores (etv),06,leishmaniasis viseral
+raw/2024/enfermedades-transmitidas-por-vectores-etv/chagas-agudo-por-otros-mecanismos-de-transmision.csv,2024,17,enfermedades transmitidas por vectores (etv),07,chagas agudo por otros mecanismos de transmision
+raw/2024/mortalidad-materna/muerte-materna-notificada.csv,2024,18,mortalidad materna,01,muerte materna notificada
+raw/2024/mortalidad-materna/muerte-materna-confirmada.csv,2024,18,mortalidad materna,02,muerte materna confirmada
+raw/2024/mortalidad-perinatal-neonatal-e-infantil/muerte-fetal-obito-confirmada.csv,2024,19,"mortalidad perinatal, neonatal e infantil",01,muerte fetal (obito) confirmada
+raw/2024/mortalidad-perinatal-neonatal-e-infantil/muerte-neonatal-temprana-0-6-dias-confirmada.csv,2024,19,"mortalidad perinatal, neonatal e infantil",02,muerte neonatal  temprana (0-6 dias) confirmada
+raw/2024/mortalidad-perinatal-neonatal-e-infantil/muerte-neonatal-tardia-7-27-dias-confirmada.csv,2024,19,"mortalidad perinatal, neonatal e infantil",03,muerte neonatal  tardia (7-27 dias) confirmada
+raw/2024/mortalidad-perinatal-neonatal-e-infantil/muerte-menor-de-28-dias-por-sepsis.csv,2024,19,"mortalidad perinatal, neonatal e infantil",04,muerte menor de 28 dias por sepsis
+raw/2024/mortalidad-perinatal-neonatal-e-infantil/muerte-menor-de-28-dias-por-asfixia-perinatal.csv,2024,19,"mortalidad perinatal, neonatal e infantil",05,muerte menor de 28 dias por asfixia perinatal
+raw/2024/mortalidad-perinatal-neonatal-e-infantil/muerte-de-28-dias-a-menor-de-1-ano.csv,2024,19,"mortalidad perinatal, neonatal e infantil",06,muerte de 28 dias a menor de 1 ano
+raw/2024/mortalidad-perinatal-neonatal-e-infantil/muerte-menos-de-28-dias-por-prematurez-extrema.csv,2024,19,"mortalidad perinatal, neonatal e infantil",07,muerte menos de 28 dias por prematurez extrema
+raw/2024/sospecha-de-enfermedades-del-metabolismo/hipotiroidismo.csv,2024,20,sospecha de enfermedades del metabolismo,01,hipotiroidismo
+raw/2024/sospecha-de-enfermedades-del-metabolismo/hiperplasia-suprarrenal-congenita.csv,2024,20,sospecha de enfermedades del metabolismo,02,hiperplasia suprarrenal congenita
+raw/2024/sospecha-de-enfermedades-del-metabolismo/fibrosis-quistica.csv,2024,20,sospecha de enfermedades del metabolismo,03,fibrosis quistica
+raw/2024/sospecha-de-enfermedades-del-metabolismo/fenilcetonuria.csv,2024,20,sospecha de enfermedades del metabolismo,04,fenilcetonuria

@@ -1378,3 +1378,113 @@ year,group_id,group,variable_id,variable
 2023,17,enfermedades transmitidas por vectores (etv),04,malaria
 2023,18,mortalidad materna,01,muerte materna notificada
 2023,18,mortalidad materna,02,muerte materna confirmada
+2024,01,sospecha diagnostica,11,sarampion / rubeola
+2024,01,sospecha diagnostica,12,sindrome de rubeola congenita
+2024,01,sospecha diagnostica,13,tos ferina/coqueluche
+2024,01,sospecha diagnostica,14,difteria
+2024,01,sospecha diagnostica,15,paralisis flacida aguda (polio)
+2024,01,sospecha diagnostica,16,fiebre amarilla
+2024,01,sospecha diagnostica,17,dengue grave
+2024,01,sospecha diagnostica,18,fiebre hemorragica
+2024,01,sospecha diagnostica,19,peste
+2024,01,sospecha diagnostica,20,enfermedad meningococica
+2024,01,sospecha diagnostica,21,colera
+2024,01,sospecha diagnostica,22,enfermedad por hanta virus
+2024,01,sospecha diagnostica,23,rabia canina
+2024,01,sospecha diagnostica,24,rabia humana
+2024,01,sospecha diagnostica,25,"influenza  (irag ,iragi y eti)"
+2024,01,sospecha diagnostica,26,leptospirosis
+2024,01,sospecha diagnostica,27,chikungunya
+2024,01,sospecha diagnostica,28,zika
+2024,01,sospecha diagnostica,29,dengue con signos de alarma
+2024,01,sospecha diagnostica,30,dengue sin signos de alarma
+2024,01,sospecha diagnostica,31,otras meningitis
+2024,01,sospecha diagnostica,32,sindrome hemolitico uremico
+2024,01,sospecha diagnostica,33,covid-19
+2024,01,sospecha diagnostica,34,sindrome inflamatorio multisistemico asociado con covid-19
+2024,01,sospecha diagnostica,35,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion)
+2024,01,sospecha diagnostica,36,mpox (viruela simica)
+2024,01,sospecha diagnostica,37,oropouche
+2024,04,inmunoprevenibles,05,tetanos neonatal / adulto
+2024,04,inmunoprevenibles,06,hepatitis viral a*
+2024,04,inmunoprevenibles,07,hepatitis viral b*
+2024,04,inmunoprevenibles,08,parotiditis
+2024,04,inmunoprevenibles,09,varicela
+2024,04,inmunoprevenibles,10,otras hepatitis virales
+2024,04,inmunoprevenibles,11,hepatitis viral c*
+2024,05,infecc. de transmision sexual,08,ulcera genital
+2024,05,infecc. de transmision sexual,09,sifilis congenita
+2024,05,infecc. de transmision sexual,10,sifilis en la mujer embarazada*
+2024,05,infecc. de transmision sexual,11,flujo uretral/vaginal
+2024,05,infecc. de transmision sexual,12,gonorrea
+2024,05,infecc. de transmision sexual,13,verruga genital
+2024,05,infecc. de transmision sexual,14,prueba rapida reactiva de vih en  mujer embarazada
+2024,05,infecc. de transmision sexual,15,prueba rapida reactiva de vih en poblacion en general
+2024,06,otras infecciones,10,enfermedad diarreica aguda
+2024,06,otras infecciones,11,ira sin neumonia
+2024,06,otras infecciones,12,neumonia
+2024,06,otras infecciones,13,no de personas expuestas al virus rabico
+2024,06,otras infecciones,14,n de personas con evenenamiento por mordedura de serpientes venenosas
+2024,06,otras infecciones,15,n de personas con envenenamiento por aracnidos
+2024,07,tuberculosis y lepra,12,tuberculosis meningea
+2024,07,tuberculosis y lepra,13,reaccion adversa  a farmacos antituberculosos (rafa)
+2024,07,tuberculosis y lepra,14,reaccion  adversa a farmacos antituberculosos rafa (graves)
+2024,07,tuberculosis y lepra,15,lepra paucibacilar
+2024,07,tuberculosis y lepra,16,lepra multibacilar
+2024,08,"violencia, hechos de transito y accidentes",05,violencia en la familia
+2024,08,"violencia, hechos de transito y accidentes",06,violencia sexual familiar
+2024,08,"violencia, hechos de transito y accidentes",07,otras violencias por lesiones autoinflingidas
+2024,08,"violencia, hechos de transito y accidentes",08,no de casos presentados por hechos de transito
+2024,08,"violencia, hechos de transito y accidentes",09,no de casos presentados por otros accidentes
+2024,08,"violencia, hechos de transito y accidentes",10,violencia fisica en otros contextos
+2024,08,"violencia, hechos de transito y accidentes",11,violencia sexual en otros contextos
+2024,08,"violencia, hechos de transito y accidentes",12,violencia por negligencia o abandono
+2024,08,"violencia, hechos de transito y accidentes",13,violencia en la mujer embarazada (familiar y en otros contextos)
+2024,08,"violencia, hechos de transito y accidentes",14,violencia en persona con discapacidad (familiar y en otros contextos)
+2024,08,"violencia, hechos de transito y accidentes",15,otras violencias por lesiones colectivas
+2024,08,"violencia, hechos de transito y accidentes",16,numero de casos presentados por accidentes laborales
+2024,09,mortalidad,09,muerte menor de 5 anos por diarrea
+2024,09,mortalidad,10,muerte menor de 5 anos por neumonia
+2024,09,mortalidad,11,muerte menor de 5 anos por desnutricion aguda grave
+2024,09,mortalidad,12,muerte menor de 5 anos por otras causas
+2024,09,mortalidad,13,otras muertes en mayores de 5 anos
+2024,09,mortalidad,14,sospecha de muerte por dengue
+2024,09,mortalidad,15,sospecha de muerte por covid-19
+2024,10,salud sexual y reproductiva,05,hemorragia de la primera mitad del embarazo (< 22 sem) aborto
+2024,10,salud sexual y reproductiva,06,sepsis obstetrica
+2024,10,salud sexual y reproductiva,07,preeclampsia severa
+2024,10,salud sexual y reproductiva,08,eclampsia
+2024,10,salud sexual y reproductiva,09,hemorragia de la primera mitad del embarazo (< 22 sem) termino en aborto
+2024,13,intoxicaciones,05,enf. transmitidas por alimentos (e.t.a.)
+2024,13,intoxicaciones,06,"otras intoxicaciones (drogas, farmacos, alcohol etc.)"
+2024,13,intoxicaciones,07,"organofosforados , carbamatos"
+2024,13,intoxicaciones,08,halogenados
+2024,13,intoxicaciones,09,herbicida y fungicida
+2024,13,intoxicaciones,10,otros plaguicidas/insecticidas
+2024,15,eventos - notificacion inmediata parte i,01,riada
+2024,15,eventos - notificacion inmediata parte i,02,granizo
+2024,15,eventos - notificacion inmediata parte i,03,incendio
+2024,15,eventos - notificacion inmediata parte i,04,nevada
+2024,16,eventos - notificacion inmediata parte ii,01,deslizamiento
+2024,16,eventos - notificacion inmediata parte ii,02,inundacion
+2024,16,eventos - notificacion inmediata parte ii,03,otros de excepcion
+2024,16,eventos - notificacion inmediata parte ii,04,sismo/terremoto
+2024,17,enfermedades transmitidas por vectores (etv),01,leishmaniasis cutanea
+2024,17,enfermedades transmitidas por vectores (etv),02,chagas agudo congenito
+2024,17,enfermedades transmitidas por vectores (etv),04,malaria
+2024,17,enfermedades transmitidas por vectores (etv),05,leishmaniasis mucocutanea
+2024,17,enfermedades transmitidas por vectores (etv),06,leishmaniasis viseral
+2024,17,enfermedades transmitidas por vectores (etv),07,chagas agudo por otros mecanismos de transmision
+2024,18,mortalidad materna,01,muerte materna notificada
+2024,18,mortalidad materna,02,muerte materna confirmada
+2024,19,"mortalidad perinatal, neonatal e infantil",01,muerte fetal (obito) confirmada
+2024,19,"mortalidad perinatal, neonatal e infantil",02,muerte neonatal  temprana (0-6 dias) confirmada
+2024,19,"mortalidad perinatal, neonatal e infantil",03,muerte neonatal  tardia (7-27 dias) confirmada
+2024,19,"mortalidad perinatal, neonatal e infantil",04,muerte menor de 28 dias por sepsis
+2024,19,"mortalidad perinatal, neonatal e infantil",05,muerte menor de 28 dias por asfixia perinatal
+2024,19,"mortalidad perinatal, neonatal e infantil",06,muerte de 28 dias a menor de 1 ano
+2024,19,"mortalidad perinatal, neonatal e infantil",07,muerte menos de 28 dias por prematurez extrema
+2024,20,sospecha de enfermedades del metabolismo,01,hipotiroidismo
+2024,20,sospecha de enfermedades del metabolismo,02,hiperplasia suprarrenal congenita
+2024,20,sospecha de enfermedades del metabolismo,03,fibrosis quistica
+2024,20,sospecha de enfermedades del metabolismo,04,fenilcetonuria

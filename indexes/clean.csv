@@ -1378,3 +1378,113 @@ year,disease_group,disease,municipalities,values,file
 2023,enfermedades transmitidas por vectores (etv),malaria,80,14559,clean/2023/enfermedades-transmitidas-por-vectores-etv/malaria.csv
 2023,mortalidad materna,muerte materna notificada,38,246,clean/2023/mortalidad-materna/muerte-materna-notificada.csv
 2023,mortalidad materna,muerte materna confirmada,14,69,clean/2023/mortalidad-materna/muerte-materna-confirmada.csv
+2024,sospecha diagnostica,sarampion / rubeola,70,4140,clean/2024/sospecha-diagnostica/sarampion-rubeola.csv
+2024,sospecha diagnostica,sindrome de rubeola congenita,7,552,clean/2024/sospecha-diagnostica/sindrome-de-rubeola-congenita.csv
+2024,sospecha diagnostica,tos ferina/coqueluche,30,2254,clean/2024/sospecha-diagnostica/tos-ferina-coqueluche.csv
+2024,sospecha diagnostica,difteria,5,115,clean/2024/sospecha-diagnostica/difteria.csv
+2024,sospecha diagnostica,paralisis flacida aguda (polio),21,1012,clean/2024/sospecha-diagnostica/paralisis-flacida-aguda-polio.csv
+2024,sospecha diagnostica,fiebre amarilla,20,851,clean/2024/sospecha-diagnostica/fiebre-amarilla.csv
+2024,sospecha diagnostica,dengue grave,29,1495,clean/2024/sospecha-diagnostica/dengue-grave.csv
+2024,sospecha diagnostica,fiebre hemorragica,11,690,clean/2024/sospecha-diagnostica/fiebre-hemorragica.csv
+2024,sospecha diagnostica,peste,2,46,clean/2024/sospecha-diagnostica/peste.csv
+2024,sospecha diagnostica,enfermedad meningococica,13,644,clean/2024/sospecha-diagnostica/enfermedad-meningococica.csv
+2024,sospecha diagnostica,colera,9,253,clean/2024/sospecha-diagnostica/colera.csv
+2024,sospecha diagnostica,enfermedad por hanta virus,30,2070,clean/2024/sospecha-diagnostica/enfermedad-por-hanta-virus.csv
+2024,sospecha diagnostica,rabia canina,21,1357,clean/2024/sospecha-diagnostica/rabia-canina.csv
+2024,sospecha diagnostica,rabia humana,6,207,clean/2024/sospecha-diagnostica/rabia-humana.csv
+2024,sospecha diagnostica,"influenza  (irag ,iragi y eti)",103,9982,clean/2024/sospecha-diagnostica/influenza-irag-iragi-y-eti.csv
+2024,sospecha diagnostica,leptospirosis,37,2438,clean/2024/sospecha-diagnostica/leptospirosis.csv
+2024,sospecha diagnostica,chikungunya,28,2484,clean/2024/sospecha-diagnostica/chikungunya.csv
+2024,sospecha diagnostica,zika,17,1564,clean/2024/sospecha-diagnostica/zika.csv
+2024,sospecha diagnostica,dengue con signos de alarma,123,14743,clean/2024/sospecha-diagnostica/dengue-con-signos-de-alarma.csv
+2024,sospecha diagnostica,dengue sin signos de alarma,170,28934,clean/2024/sospecha-diagnostica/dengue-sin-signos-de-alarma.csv
+2024,sospecha diagnostica,otras meningitis,34,2392,clean/2024/sospecha-diagnostica/otras-meningitis.csv
+2024,sospecha diagnostica,sindrome hemolitico uremico,28,1334,clean/2024/sospecha-diagnostica/sindrome-hemolitico-uremico.csv
+2024,sospecha diagnostica,covid-19,292,37812,clean/2024/sospecha-diagnostica/covid-19.csv
+2024,sospecha diagnostica,sindrome inflamatorio multisistemico asociado con covid-19,40,1771,clean/2024/sospecha-diagnostica/sindrome-inflamatorio-multisistemico-asociado-con-covid-19.csv
+2024,sospecha diagnostica,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),17,1012,clean/2024/sospecha-diagnostica/esavi-eventos-supuestamente-atribuidos-a-la-vacunacion-y-o-inmunizacion.csv
+2024,sospecha diagnostica,mpox (viruela simica),22,1173,clean/2024/sospecha-diagnostica/mpox-viruela-simica.csv
+2024,sospecha diagnostica,oropouche,19,1311,clean/2024/sospecha-diagnostica/oropouche.csv
+2024,inmunoprevenibles,tetanos neonatal / adulto,26,989,clean/2024/inmunoprevenibles/tetanos-neonatal-adulto.csv
+2024,inmunoprevenibles,hepatitis viral a*,196,23805,clean/2024/inmunoprevenibles/hepatitis-viral-a.csv
+2024,inmunoprevenibles,hepatitis viral b*,84,6417,clean/2024/inmunoprevenibles/hepatitis-viral-b.csv
+2024,inmunoprevenibles,parotiditis,203,14743,clean/2024/inmunoprevenibles/parotiditis.csv
+2024,inmunoprevenibles,varicela,276,42780,clean/2024/inmunoprevenibles/varicela.csv
+2024,inmunoprevenibles,otras hepatitis virales,99,9177,clean/2024/inmunoprevenibles/otras-hepatitis-virales.csv
+2024,inmunoprevenibles,hepatitis viral c*,28,1955,clean/2024/inmunoprevenibles/hepatitis-viral-c.csv
+2024,infecc. de transmision sexual,ulcera genital,200,17710,clean/2024/infecc-de-transmision-sexual/ulcera-genital.csv
+2024,infecc. de transmision sexual,sifilis congenita,44,2553,clean/2024/infecc-de-transmision-sexual/sifilis-congenita.csv
+2024,infecc. de transmision sexual,sifilis en la mujer embarazada*,107,5796,clean/2024/infecc-de-transmision-sexual/sifilis-en-la-mujer-embarazada.csv
+2024,infecc. de transmision sexual,flujo uretral/vaginal,334,81466,clean/2024/infecc-de-transmision-sexual/flujo-uretral-vaginal.csv
+2024,infecc. de transmision sexual,gonorrea,197,16583,clean/2024/infecc-de-transmision-sexual/gonorrea.csv
+2024,infecc. de transmision sexual,verruga genital,144,12719,clean/2024/infecc-de-transmision-sexual/verruga-genital.csv
+2024,infecc. de transmision sexual,prueba rapida reactiva de vih en  mujer embarazada,64,3910,clean/2024/infecc-de-transmision-sexual/prueba-rapida-reactiva-de-vih-en-mujer-embarazada.csv
+2024,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,103,8257,clean/2024/infecc-de-transmision-sexual/prueba-rapida-reactiva-de-vih-en-poblacion-en-general.csv
+2024,otras infecciones,enfermedad diarreica aguda,343,94507,clean/2024/otras-infecciones/enfermedad-diarreica-aguda.csv
+2024,otras infecciones,ira sin neumonia,343,94645,clean/2024/otras-infecciones/ira-sin-neumonia.csv
+2024,otras infecciones,neumonia,328,69115,clean/2024/otras-infecciones/neumonia.csv
+2024,otras infecciones,no de personas expuestas al virus rabico,317,65757,clean/2024/otras-infecciones/no-de-personas-expuestas-al-virus-rabico.csv
+2024,otras infecciones,n de personas con evenenamiento por mordedura de serpientes venenosas,144,12811,clean/2024/otras-infecciones/n-de-personas-con-evenenamiento-por-mordedura-de-serpientes-venenosas.csv
+2024,otras infecciones,n de personas con envenenamiento por aracnidos,232,33764,clean/2024/otras-infecciones/n-de-personas-con-envenenamiento-por-aracnidos.csv
+2024,tuberculosis y lepra,tuberculosis meningea,17,759,clean/2024/tuberculosis-y-lepra/tuberculosis-meningea.csv
+2024,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),1,23,clean/2024/tuberculosis-y-lepra/reaccion-adversa-a-farmacos-antituberculosos-rafa.csv
+2024,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),19,1265,clean/2024/tuberculosis-y-lepra/reaccion-adversa-a-farmacos-antituberculosos-rafa-graves.csv
+2024,tuberculosis y lepra,lepra paucibacilar,6,207,clean/2024/tuberculosis-y-lepra/lepra-paucibacilar.csv
+2024,tuberculosis y lepra,lepra multibacilar,17,621,clean/2024/tuberculosis-y-lepra/lepra-multibacilar.csv
+2024,"violencia, hechos de transito y accidentes",violencia en la familia,167,15962,clean/2024/violencia-hechos-de-transito-y-accidentes/violencia-en-la-familia.csv
+2024,"violencia, hechos de transito y accidentes",violencia sexual familiar,109,6486,clean/2024/violencia-hechos-de-transito-y-accidentes/violencia-sexual-familiar.csv
+2024,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas,179,17595,clean/2024/violencia-hechos-de-transito-y-accidentes/otras-violencias-por-lesiones-autoinflingidas.csv
+2024,"violencia, hechos de transito y accidentes",no de casos presentados por hechos de transito,257,36846,clean/2024/violencia-hechos-de-transito-y-accidentes/no-de-casos-presentados-por-hechos-de-transito.csv
+2024,"violencia, hechos de transito y accidentes",no de casos presentados por otros accidentes,275,40572,clean/2024/violencia-hechos-de-transito-y-accidentes/no-de-casos-presentados-por-otros-accidentes.csv
+2024,"violencia, hechos de transito y accidentes",violencia fisica en otros contextos,66,5106,clean/2024/violencia-hechos-de-transito-y-accidentes/violencia-fisica-en-otros-contextos.csv
+2024,"violencia, hechos de transito y accidentes",violencia sexual en otros contextos,77,3979,clean/2024/violencia-hechos-de-transito-y-accidentes/violencia-sexual-en-otros-contextos.csv
+2024,"violencia, hechos de transito y accidentes",violencia por negligencia o abandono,7,713,clean/2024/violencia-hechos-de-transito-y-accidentes/violencia-por-negligencia-o-abandono.csv
+2024,"violencia, hechos de transito y accidentes",violencia en la mujer embarazada (familiar y en otros contextos),17,966,clean/2024/violencia-hechos-de-transito-y-accidentes/violencia-en-la-mujer-embarazada-familiar-y-en-otros-contextos.csv
+2024,"violencia, hechos de transito y accidentes",violencia en persona con discapacidad (familiar y en otros contextos),12,437,clean/2024/violencia-hechos-de-transito-y-accidentes/violencia-en-persona-con-discapacidad-familiar-y-en-otros-contextos.csv
+2024,"violencia, hechos de transito y accidentes",otras violencias por lesiones colectivas,113,9315,clean/2024/violencia-hechos-de-transito-y-accidentes/otras-violencias-por-lesiones-colectivas.csv
+2024,"violencia, hechos de transito y accidentes",numero de casos presentados por accidentes laborales,80,8142,clean/2024/violencia-hechos-de-transito-y-accidentes/numero-de-casos-presentados-por-accidentes-laborales.csv
+2024,mortalidad,muerte menor de 5 anos por diarrea,36,2475,clean/2024/mortalidad/muerte-menor-de-5-anos-por-diarrea.csv
+2024,mortalidad,muerte menor de 5 anos por neumonia,38,2835,clean/2024/mortalidad/muerte-menor-de-5-anos-por-neumonia.csv
+2024,mortalidad,muerte menor de 5 anos por desnutricion aguda grave,14,900,clean/2024/mortalidad/muerte-menor-de-5-anos-por-desnutricion-aguda-grave.csv
+2024,mortalidad,muerte menor de 5 anos por otras causas,136,14760,clean/2024/mortalidad/muerte-menor-de-5-anos-por-otras-causas.csv
+2024,mortalidad,otras muertes en mayores de 5 anos,311,126855,clean/2024/mortalidad/otras-muertes-en-mayores-de-5-anos.csv
+2024,mortalidad,sospecha de muerte por dengue,18,1305,clean/2024/mortalidad/sospecha-de-muerte-por-dengue.csv
+2024,mortalidad,sospecha de muerte por covid-19,14,990,clean/2024/mortalidad/sospecha-de-muerte-por-covid-19.csv
+2024,salud sexual y reproductiva,hemorragia de la primera mitad del embarazo (< 22 sem) aborto,150,10322,clean/2024/salud-sexual-y-reproductiva/hemorragia-de-la-primera-mitad-del-embarazo-22-sem-aborto.csv
+2024,salud sexual y reproductiva,sepsis obstetrica,39,1183,clean/2024/salud-sexual-y-reproductiva/sepsis-obstetrica.csv
+2024,salud sexual y reproductiva,preeclampsia severa,120,5434,clean/2024/salud-sexual-y-reproductiva/preeclampsia-severa.csv
+2024,salud sexual y reproductiva,eclampsia,27,1222,clean/2024/salud-sexual-y-reproductiva/eclampsia.csv
+2024,salud sexual y reproductiva,hemorragia de la primera mitad del embarazo (< 22 sem) termino en aborto,86,6331,clean/2024/salud-sexual-y-reproductiva/hemorragia-de-la-primera-mitad-del-embarazo-22-sem-termino-en-aborto.csv
+2024,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),155,19964,clean/2024/intoxicaciones/enf-transmitidas-por-alimentos-e-t-a.csv
+2024,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",207,19182,clean/2024/intoxicaciones/otras-intoxicaciones-drogas-farmacos-alcohol-etc.csv
+2024,intoxicaciones,"organofosforados , carbamatos",131,7728,clean/2024/intoxicaciones/organofosforados-carbamatos.csv
+2024,intoxicaciones,halogenados,15,437,clean/2024/intoxicaciones/halogenados.csv
+2024,intoxicaciones,herbicida y fungicida,69,3542,clean/2024/intoxicaciones/herbicida-y-fungicida.csv
+2024,intoxicaciones,otros plaguicidas/insecticidas,101,6509,clean/2024/intoxicaciones/otros-plaguicidas-insecticidas.csv
+2024,eventos - notificacion inmediata parte i,riada,36,208,clean/2024/eventos-notificacion-inmediata-parte-i/riada.csv
+2024,eventos - notificacion inmediata parte i,granizo,37,220,clean/2024/eventos-notificacion-inmediata-parte-i/granizo.csv
+2024,eventos - notificacion inmediata parte i,incendio,72,436,clean/2024/eventos-notificacion-inmediata-parte-i/incendio.csv
+2024,eventos - notificacion inmediata parte i,nevada,5,24,clean/2024/eventos-notificacion-inmediata-parte-i/nevada.csv
+2024,eventos - notificacion inmediata parte ii,deslizamiento,14,84,clean/2024/eventos-notificacion-inmediata-parte-ii/deslizamiento.csv
+2024,eventos - notificacion inmediata parte ii,inundacion,26,140,clean/2024/eventos-notificacion-inmediata-parte-ii/inundacion.csv
+2024,eventos - notificacion inmediata parte ii,otros de excepcion,32,156,clean/2024/eventos-notificacion-inmediata-parte-ii/otros-de-excepcion.csv
+2024,eventos - notificacion inmediata parte ii,sismo/terremoto,1,4,clean/2024/eventos-notificacion-inmediata-parte-ii/sismo-terremoto.csv
+2024,enfermedades transmitidas por vectores (etv),leishmaniasis cutanea,166,14766,clean/2024/enfermedades-transmitidas-por-vectores-etv/leishmaniasis-cutanea.csv
+2024,enfermedades transmitidas por vectores (etv),chagas agudo congenito,18,1334,clean/2024/enfermedades-transmitidas-por-vectores-etv/chagas-agudo-congenito.csv
+2024,enfermedades transmitidas por vectores (etv),malaria,91,14628,clean/2024/enfermedades-transmitidas-por-vectores-etv/malaria.csv
+2024,enfermedades transmitidas por vectores (etv),leishmaniasis mucocutanea,129,6325,clean/2024/enfermedades-transmitidas-por-vectores-etv/leishmaniasis-mucocutanea.csv
+2024,enfermedades transmitidas por vectores (etv),leishmaniasis viseral,27,920,clean/2024/enfermedades-transmitidas-por-vectores-etv/leishmaniasis-viseral.csv
+2024,enfermedades transmitidas por vectores (etv),chagas agudo por otros mecanismos de transmision,40,3128,clean/2024/enfermedades-transmitidas-por-vectores-etv/chagas-agudo-por-otros-mecanismos-de-transmision.csv
+2024,mortalidad materna,muerte materna notificada,41,213,clean/2024/mortalidad-materna/muerte-materna-notificada.csv
+2024,mortalidad materna,muerte materna confirmada,21,87,clean/2024/mortalidad-materna/muerte-materna-confirmada.csv
+2024,"mortalidad perinatal, neonatal e infantil",muerte fetal (obito) confirmada,118,2653,clean/2024/mortalidad-perinatal-neonatal-e-infantil/muerte-fetal-obito-confirmada.csv
+2024,"mortalidad perinatal, neonatal e infantil",muerte neonatal  temprana (0-6 dias) confirmada,65,1519,clean/2024/mortalidad-perinatal-neonatal-e-infantil/muerte-neonatal-temprana-0-6-dias-confirmada.csv
+2024,"mortalidad perinatal, neonatal e infantil",muerte neonatal  tardia (7-27 dias) confirmada,73,1218,clean/2024/mortalidad-perinatal-neonatal-e-infantil/muerte-neonatal-tardia-7-27-dias-confirmada.csv
+2024,"mortalidad perinatal, neonatal e infantil",muerte menor de 28 dias por sepsis,17,462,clean/2024/mortalidad-perinatal-neonatal-e-infantil/muerte-menor-de-28-dias-por-sepsis.csv
+2024,"mortalidad perinatal, neonatal e infantil",muerte menor de 28 dias por asfixia perinatal,37,651,clean/2024/mortalidad-perinatal-neonatal-e-infantil/muerte-menor-de-28-dias-por-asfixia-perinatal.csv
+2024,"mortalidad perinatal, neonatal e infantil",muerte de 28 dias a menor de 1 ano,68,994,clean/2024/mortalidad-perinatal-neonatal-e-infantil/muerte-de-28-dias-a-menor-de-1-ano.csv
+2024,"mortalidad perinatal, neonatal e infantil",muerte menos de 28 dias por prematurez extrema,9,161,clean/2024/mortalidad-perinatal-neonatal-e-infantil/muerte-menos-de-28-dias-por-prematurez-extrema.csv
+2024,sospecha de enfermedades del metabolismo,hipotiroidismo,14,168,clean/2024/sospecha-de-enfermedades-del-metabolismo/hipotiroidismo.csv
+2024,sospecha de enfermedades del metabolismo,hiperplasia suprarrenal congenita,4,98,clean/2024/sospecha-de-enfermedades-del-metabolismo/hiperplasia-suprarrenal-congenita.csv
+2024,sospecha de enfermedades del metabolismo,fibrosis quistica,2,70,clean/2024/sospecha-de-enfermedades-del-metabolismo/fibrosis-quistica.csv
+2024,sospecha de enfermedades del metabolismo,fenilcetonuria,2,70,clean/2024/sospecha-de-enfermedades-del-metabolismo/fenilcetonuria.csv

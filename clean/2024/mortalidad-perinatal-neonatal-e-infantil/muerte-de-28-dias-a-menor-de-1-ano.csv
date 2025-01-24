@@ -1,0 +1,995 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,71501,Ascencion De Guarayos,2024,1,Dentro / MASCULINO,0
+Chuquisaca,10201,Azurduy,2024,1,Dentro / MASCULINO,0
+Potosí,50702,Caripuyo,2024,1,Dentro / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,1,Dentro / MASCULINO,0
+La Paz,21306,Colquencha,2024,1,Dentro / MASCULINO,0
+La Paz,21402,Coripata,2024,1,Dentro / MASCULINO,1
+La Paz,21105,La Asunta,2024,1,Dentro / MASCULINO,0
+La Paz,20101,La Paz,2024,1,Dentro / MASCULINO,2
+Cochabamba,31301,Mizque,2024,1,Dentro / MASCULINO,0
+Oruro,40101,Oruro,2024,1,Dentro / MASCULINO,1
+Beni,80302,San Borja,2024,1,Dentro / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,Dentro / MASCULINO,2
+Chuquisaca,10403,Sopachuy,2024,1,Dentro / MASCULINO,0
+Potosí,51501,Villazon,2024,1,Dentro / MASCULINO,0
+Chuquisaca,10301,Zudañez,2024,1,Dentro / MASCULINO,0
+La Paz,20701,Apolo,2024,2,Dentro / MASCULINO,0
+Santa Cruz,71501,Ascencion De Guarayos,2024,2,Dentro / MASCULINO,2
+Potosí,51102,"Caiza ""d""",2024,2,Dentro / MASCULINO,0
+Cochabamba,31204,Chimore,2024,2,Dentro / MASCULINO,0
+La Paz,21101,Chulumani (v. De La Libertad),2024,2,Dentro / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,2,Dentro / MASCULINO,0
+La Paz,20105,El Alto,2024,2,Dentro / MASCULINO,0
+La Paz,20101,La Paz,2024,2,Dentro / MASCULINO,1
+Oruro,40702,Machacamarca,2024,2,Dentro / MASCULINO,0
+Potosí,50101,Potosi,2024,2,Dentro / MASCULINO,0
+Cochabamba,31205,Puerto Villarroel,2024,2,Dentro / MASCULINO,0
+Chuquisaca,10702,San Lucas,2024,2,Dentro / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,Dentro / MASCULINO,5
+Oruro,40102,Caracollo,2024,3,Dentro / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,3,Dentro / MASCULINO,0
+La Paz,21306,Colquencha,2024,3,Dentro / MASCULINO,0
+La Paz,21402,Coripata,2024,3,Dentro / MASCULINO,0
+La Paz,20105,El Alto,2024,3,Dentro / MASCULINO,0
+La Paz,20101,La Paz,2024,3,Dentro / MASCULINO,2
+Potosí,50203,Llallagua,2024,3,Dentro / MASCULINO,1
+Cochabamba,31301,Mizque,2024,3,Dentro / MASCULINO,0
+Oruro,40101,Oruro,2024,3,Dentro / MASCULINO,0
+Beni,80302,San Borja,2024,3,Dentro / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,Dentro / MASCULINO,3
+Tarija,60101,Tarija,2024,3,Dentro / MASCULINO,0
+Potosí,50702,Caripuyo,2024,4,Dentro / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,4,Dentro / MASCULINO,1
+Potosí,50401,Colquechaca,2024,4,Dentro / MASCULINO,0
+La Paz,20105,El Alto,2024,4,Dentro / MASCULINO,0
+Cochabamba,31206,Entre Rios Cbba,2024,4,Dentro / MASCULINO,0
+La Paz,20101,La Paz,2024,4,Dentro / MASCULINO,1
+Potosí,50404,Ocuri,2024,4,Dentro / MASCULINO,0
+Potosí,51101,Puna,2024,4,Dentro / MASCULINO,0
+Cochabamba,31001,Sacaba,2024,4,Dentro / MASCULINO,1
+Chuquisaca,10702,San Lucas,2024,4,Dentro / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,4,Dentro / MASCULINO,3
+La Paz,20202,Ancoraimes,2024,5,Dentro / MASCULINO,0
+Potosí,51103,Ckochas,2024,5,Dentro / MASCULINO,0
+Potosí,50401,Colquechaca,2024,5,Dentro / MASCULINO,0
+La Paz,20105,El Alto,2024,5,Dentro / MASCULINO,2
+La Paz,20101,La Paz,2024,5,Dentro / MASCULINO,0
+Santa Cruz,70601,Portachuelo,2024,5,Dentro / MASCULINO,0
+Potosí,50701,Sacaca,2024,5,Dentro / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,Dentro / MASCULINO,3
+Tarija,60101,Tarija,2024,5,Dentro / MASCULINO,1
+Cochabamba,31003,Villa Tunari,2024,5,Dentro / MASCULINO,0
+La Paz,22001,Caranavi,2024,6,Dentro / MASCULINO,0
+Potosí,50401,Colquechaca,2024,6,Dentro / MASCULINO,0
+La Paz,21306,Colquencha,2024,6,Dentro / MASCULINO,0
+La Paz,20105,El Alto,2024,6,Dentro / MASCULINO,0
+La Paz,20101,La Paz,2024,6,Dentro / MASCULINO,1
+Potosí,51002,Mojinete,2024,6,Dentro / MASCULINO,0
+Oruro,40101,Oruro,2024,6,Dentro / MASCULINO,2
+Oruro,40601,Poopo,2024,6,Dentro / MASCULINO,0
+Potosí,50701,Sacaca,2024,6,Dentro / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,Dentro / MASCULINO,2
+Tarija,60101,Tarija,2024,6,Dentro / MASCULINO,1
+Chuquisaca,10402,Tomina,2024,6,Dentro / MASCULINO,0
+Potosí,50301,Betanzos,2024,7,Dentro / MASCULINO,0
+La Paz,21304,Calamarca,2024,7,Dentro / MASCULINO,0
+Oruro,40102,Caracollo,2024,7,Dentro / MASCULINO,0
+La Paz,20105,El Alto,2024,7,Dentro / MASCULINO,0
+La Paz,20101,La Paz,2024,7,Dentro / MASCULINO,2
+Santa Cruz,71003,Mineros,2024,7,Dentro / MASCULINO,0
+Oruro,40101,Oruro,2024,7,Dentro / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,Dentro / MASCULINO,3
+Chuquisaca,10202,Tarvita,2024,7,Dentro / MASCULINO,0
+La Paz,20803,Tiahuanacu,2024,7,Dentro / MASCULINO,0
+Oruro,41001,Toledo,2024,7,Dentro / MASCULINO,0
+La Paz,20105,El Alto,2024,8,Dentro / MASCULINO,0
+La Paz,20101,La Paz,2024,8,Dentro / MASCULINO,1
+Potosí,50403,Pocoata,2024,8,Dentro / MASCULINO,0
+Potosí,51203,Porco,2024,8,Dentro / MASCULINO,0
+Beni,80302,San Borja,2024,8,Dentro / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,8,Dentro / MASCULINO,1
+Potosí,51201,Uyuni,2024,8,Dentro / MASCULINO,0
+Potosí,50602,Vitichi,2024,8,Dentro / MASCULINO,0
+Cochabamba,30303,Cocapata,2024,9,Dentro / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,9,Dentro / MASCULINO,0
+Santa Cruz,70603,Colpa Belgica,2024,9,Dentro / MASCULINO,0
+Oruro,40301,Corque,2024,9,Dentro / MASCULINO,0
+La Paz,20105,El Alto,2024,9,Dentro / MASCULINO,3
+Chuquisaca,10703,Incahuasi,2024,9,Dentro / MASCULINO,0
+La Paz,21105,La Asunta,2024,9,Dentro / MASCULINO,0
+La Paz,20101,La Paz,2024,9,Dentro / MASCULINO,1
+Oruro,40101,Oruro,2024,9,Dentro / MASCULINO,1
+Cochabamba,31001,Sacaba,2024,9,Dentro / MASCULINO,0
+Beni,80302,San Borja,2024,9,Dentro / MASCULINO,0
+La Paz,21502,San Buena Ventura,2024,9,Dentro / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,Dentro / MASCULINO,1
+Chuquisaca,10101,Sucre,2024,9,Dentro / MASCULINO,1
+Tarija,60101,Tarija,2024,9,Dentro / MASCULINO,2
+Potosí,51201,Uyuni,2024,9,Dentro / MASCULINO,0
+Oruro,40603,Antequera,2024,10,Dentro / MASCULINO,0
+Cochabamba,31204,Chimore,2024,10,Dentro / MASCULINO,0
+La Paz,20105,El Alto,2024,10,Dentro / MASCULINO,1
+La Paz,20101,La Paz,2024,10,Dentro / MASCULINO,1
+La Paz,21202,Laja,2024,10,Dentro / MASCULINO,0
+Potosí,50403,Pocoata,2024,10,Dentro / MASCULINO,0
+Oruro,40601,Poopo,2024,10,Dentro / MASCULINO,0
+Potosí,50101,Potosi,2024,10,Dentro / MASCULINO,0
+Cochabamba,31205,Puerto Villarroel,2024,10,Dentro / MASCULINO,0
+Beni,80301,Reyes,2024,10,Dentro / MASCULINO,0
+Santa Cruz,70301,San Ignacio De Velasco,2024,10,Dentro / MASCULINO,0
+Chuquisaca,10702,San Lucas,2024,10,Dentro / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,Dentro / MASCULINO,3
+Oruro,41401,Santiago De Huari,2024,10,Dentro / MASCULINO,0
+Chuquisaca,10101,Sucre,2024,10,Dentro / MASCULINO,1
+Cochabamba,30602,Tacopaya,2024,10,Dentro / MASCULINO,0
+Chuquisaca,10601,Tarabuco,2024,10,Dentro / MASCULINO,0
+Tarija,60101,Tarija,2024,10,Dentro / MASCULINO,1
+La Paz,20101,La Paz,2024,11,Dentro / MASCULINO,0
+Oruro,40101,Oruro,2024,11,Dentro / MASCULINO,0
+Beni,80302,San Borja,2024,11,Dentro / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,Dentro / MASCULINO,2
+Tarija,60101,Tarija,2024,11,Dentro / MASCULINO,1
+Potosí,50103,Yocalla,2024,11,Dentro / MASCULINO,0
+Oruro,40102,Caracollo,2024,12,Dentro / MASCULINO,0
+Potosí,50401,Colquechaca,2024,12,Dentro / MASCULINO,0
+La Paz,21004,Colquiri,2024,12,Dentro / MASCULINO,0
+Santa Cruz,70102,Cotoca,2024,12,Dentro / MASCULINO,0
+La Paz,20105,El Alto,2024,12,Dentro / MASCULINO,0
+La Paz,20101,La Paz,2024,12,Dentro / MASCULINO,1
+Oruro,40101,Oruro,2024,12,Dentro / MASCULINO,0
+Potosí,50402,Ravelo,2024,12,Dentro / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,12,Dentro / MASCULINO,4
+Chuquisaca,10101,Sucre,2024,12,Dentro / MASCULINO,1
+Santa Cruz,71501,Ascencion De Guarayos,2024,1,Dentro / FEMENINO,1
+Chuquisaca,10201,Azurduy,2024,1,Dentro / FEMENINO,0
+Potosí,50702,Caripuyo,2024,1,Dentro / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,1,Dentro / FEMENINO,2
+La Paz,21306,Colquencha,2024,1,Dentro / FEMENINO,0
+La Paz,21402,Coripata,2024,1,Dentro / FEMENINO,0
+La Paz,21105,La Asunta,2024,1,Dentro / FEMENINO,0
+La Paz,20101,La Paz,2024,1,Dentro / FEMENINO,1
+Cochabamba,31301,Mizque,2024,1,Dentro / FEMENINO,0
+Oruro,40101,Oruro,2024,1,Dentro / FEMENINO,0
+Beni,80302,San Borja,2024,1,Dentro / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,Dentro / FEMENINO,3
+Chuquisaca,10403,Sopachuy,2024,1,Dentro / FEMENINO,0
+Potosí,51501,Villazon,2024,1,Dentro / FEMENINO,0
+Chuquisaca,10301,Zudañez,2024,1,Dentro / FEMENINO,0
+La Paz,20701,Apolo,2024,2,Dentro / FEMENINO,0
+Santa Cruz,71501,Ascencion De Guarayos,2024,2,Dentro / FEMENINO,0
+Potosí,51102,"Caiza ""d""",2024,2,Dentro / FEMENINO,0
+Cochabamba,31204,Chimore,2024,2,Dentro / FEMENINO,0
+La Paz,21101,Chulumani (v. De La Libertad),2024,2,Dentro / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,2,Dentro / FEMENINO,1
+La Paz,20105,El Alto,2024,2,Dentro / FEMENINO,0
+La Paz,20101,La Paz,2024,2,Dentro / FEMENINO,1
+Oruro,40702,Machacamarca,2024,2,Dentro / FEMENINO,0
+Potosí,50101,Potosi,2024,2,Dentro / FEMENINO,1
+Cochabamba,31205,Puerto Villarroel,2024,2,Dentro / FEMENINO,0
+Chuquisaca,10702,San Lucas,2024,2,Dentro / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,Dentro / FEMENINO,3
+Oruro,40102,Caracollo,2024,3,Dentro / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,3,Dentro / FEMENINO,1
+La Paz,21306,Colquencha,2024,3,Dentro / FEMENINO,0
+La Paz,21402,Coripata,2024,3,Dentro / FEMENINO,0
+La Paz,20105,El Alto,2024,3,Dentro / FEMENINO,0
+La Paz,20101,La Paz,2024,3,Dentro / FEMENINO,0
+Potosí,50203,Llallagua,2024,3,Dentro / FEMENINO,0
+Cochabamba,31301,Mizque,2024,3,Dentro / FEMENINO,0
+Oruro,40101,Oruro,2024,3,Dentro / FEMENINO,1
+Beni,80302,San Borja,2024,3,Dentro / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,Dentro / FEMENINO,4
+Tarija,60101,Tarija,2024,3,Dentro / FEMENINO,1
+Potosí,50702,Caripuyo,2024,4,Dentro / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,4,Dentro / FEMENINO,1
+Potosí,50401,Colquechaca,2024,4,Dentro / FEMENINO,0
+La Paz,20105,El Alto,2024,4,Dentro / FEMENINO,0
+Cochabamba,31206,Entre Rios Cbba,2024,4,Dentro / FEMENINO,0
+La Paz,20101,La Paz,2024,4,Dentro / FEMENINO,0
+Potosí,50404,Ocuri,2024,4,Dentro / FEMENINO,0
+Potosí,51101,Puna,2024,4,Dentro / FEMENINO,0
+Cochabamba,31001,Sacaba,2024,4,Dentro / FEMENINO,0
+Chuquisaca,10702,San Lucas,2024,4,Dentro / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,4,Dentro / FEMENINO,3
+La Paz,20202,Ancoraimes,2024,5,Dentro / FEMENINO,0
+Potosí,51103,Ckochas,2024,5,Dentro / FEMENINO,0
+Potosí,50401,Colquechaca,2024,5,Dentro / FEMENINO,0
+La Paz,20105,El Alto,2024,5,Dentro / FEMENINO,0
+La Paz,20101,La Paz,2024,5,Dentro / FEMENINO,0
+Santa Cruz,70601,Portachuelo,2024,5,Dentro / FEMENINO,1
+Potosí,50701,Sacaca,2024,5,Dentro / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,Dentro / FEMENINO,2
+Tarija,60101,Tarija,2024,5,Dentro / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2024,5,Dentro / FEMENINO,0
+La Paz,22001,Caranavi,2024,6,Dentro / FEMENINO,0
+Potosí,50401,Colquechaca,2024,6,Dentro / FEMENINO,0
+La Paz,21306,Colquencha,2024,6,Dentro / FEMENINO,0
+La Paz,20105,El Alto,2024,6,Dentro / FEMENINO,1
+La Paz,20101,La Paz,2024,6,Dentro / FEMENINO,1
+Potosí,51002,Mojinete,2024,6,Dentro / FEMENINO,0
+Oruro,40101,Oruro,2024,6,Dentro / FEMENINO,0
+Oruro,40601,Poopo,2024,6,Dentro / FEMENINO,0
+Potosí,50701,Sacaca,2024,6,Dentro / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,Dentro / FEMENINO,1
+Tarija,60101,Tarija,2024,6,Dentro / FEMENINO,0
+Chuquisaca,10402,Tomina,2024,6,Dentro / FEMENINO,0
+Potosí,50301,Betanzos,2024,7,Dentro / FEMENINO,0
+La Paz,21304,Calamarca,2024,7,Dentro / FEMENINO,0
+Oruro,40102,Caracollo,2024,7,Dentro / FEMENINO,0
+La Paz,20105,El Alto,2024,7,Dentro / FEMENINO,0
+La Paz,20101,La Paz,2024,7,Dentro / FEMENINO,0
+Santa Cruz,71003,Mineros,2024,7,Dentro / FEMENINO,0
+Oruro,40101,Oruro,2024,7,Dentro / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,Dentro / FEMENINO,2
+Chuquisaca,10202,Tarvita,2024,7,Dentro / FEMENINO,0
+La Paz,20803,Tiahuanacu,2024,7,Dentro / FEMENINO,0
+Oruro,41001,Toledo,2024,7,Dentro / FEMENINO,0
+La Paz,20105,El Alto,2024,8,Dentro / FEMENINO,1
+La Paz,20101,La Paz,2024,8,Dentro / FEMENINO,0
+Potosí,50403,Pocoata,2024,8,Dentro / FEMENINO,0
+Potosí,51203,Porco,2024,8,Dentro / FEMENINO,0
+Beni,80302,San Borja,2024,8,Dentro / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,8,Dentro / FEMENINO,0
+Potosí,51201,Uyuni,2024,8,Dentro / FEMENINO,0
+Potosí,50602,Vitichi,2024,8,Dentro / FEMENINO,0
+Cochabamba,30303,Cocapata,2024,9,Dentro / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,9,Dentro / FEMENINO,1
+Santa Cruz,70603,Colpa Belgica,2024,9,Dentro / FEMENINO,0
+Oruro,40301,Corque,2024,9,Dentro / FEMENINO,0
+La Paz,20105,El Alto,2024,9,Dentro / FEMENINO,0
+Chuquisaca,10703,Incahuasi,2024,9,Dentro / FEMENINO,0
+La Paz,21105,La Asunta,2024,9,Dentro / FEMENINO,0
+La Paz,20101,La Paz,2024,9,Dentro / FEMENINO,2
+Oruro,40101,Oruro,2024,9,Dentro / FEMENINO,0
+Cochabamba,31001,Sacaba,2024,9,Dentro / FEMENINO,0
+Beni,80302,San Borja,2024,9,Dentro / FEMENINO,1
+La Paz,21502,San Buena Ventura,2024,9,Dentro / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,Dentro / FEMENINO,0
+Chuquisaca,10101,Sucre,2024,9,Dentro / FEMENINO,0
+Tarija,60101,Tarija,2024,9,Dentro / FEMENINO,4
+Potosí,51201,Uyuni,2024,9,Dentro / FEMENINO,0
+Oruro,40603,Antequera,2024,10,Dentro / FEMENINO,0
+Cochabamba,31204,Chimore,2024,10,Dentro / FEMENINO,0
+La Paz,20105,El Alto,2024,10,Dentro / FEMENINO,0
+La Paz,20101,La Paz,2024,10,Dentro / FEMENINO,3
+La Paz,21202,Laja,2024,10,Dentro / FEMENINO,0
+Potosí,50403,Pocoata,2024,10,Dentro / FEMENINO,0
+Oruro,40601,Poopo,2024,10,Dentro / FEMENINO,0
+Potosí,50101,Potosi,2024,10,Dentro / FEMENINO,1
+Cochabamba,31205,Puerto Villarroel,2024,10,Dentro / FEMENINO,0
+Beni,80301,Reyes,2024,10,Dentro / FEMENINO,0
+Santa Cruz,70301,San Ignacio De Velasco,2024,10,Dentro / FEMENINO,0
+Chuquisaca,10702,San Lucas,2024,10,Dentro / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,Dentro / FEMENINO,5
+Oruro,41401,Santiago De Huari,2024,10,Dentro / FEMENINO,0
+Chuquisaca,10101,Sucre,2024,10,Dentro / FEMENINO,0
+Cochabamba,30602,Tacopaya,2024,10,Dentro / FEMENINO,0
+Chuquisaca,10601,Tarabuco,2024,10,Dentro / FEMENINO,0
+Tarija,60101,Tarija,2024,10,Dentro / FEMENINO,0
+La Paz,20101,La Paz,2024,11,Dentro / FEMENINO,0
+Oruro,40101,Oruro,2024,11,Dentro / FEMENINO,0
+Beni,80302,San Borja,2024,11,Dentro / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,Dentro / FEMENINO,0
+Tarija,60101,Tarija,2024,11,Dentro / FEMENINO,0
+Potosí,50103,Yocalla,2024,11,Dentro / FEMENINO,0
+Oruro,40102,Caracollo,2024,12,Dentro / FEMENINO,0
+Potosí,50401,Colquechaca,2024,12,Dentro / FEMENINO,0
+La Paz,21004,Colquiri,2024,12,Dentro / FEMENINO,0
+Santa Cruz,70102,Cotoca,2024,12,Dentro / FEMENINO,0
+La Paz,20105,El Alto,2024,12,Dentro / FEMENINO,0
+La Paz,20101,La Paz,2024,12,Dentro / FEMENINO,1
+Oruro,40101,Oruro,2024,12,Dentro / FEMENINO,1
+Potosí,50402,Ravelo,2024,12,Dentro / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,12,Dentro / FEMENINO,4
+Chuquisaca,10101,Sucre,2024,12,Dentro / FEMENINO,1
+Santa Cruz,71501,Ascencion De Guarayos,2024,1,Fuera / MASCULINO,0
+Chuquisaca,10201,Azurduy,2024,1,Fuera / MASCULINO,0
+Potosí,50702,Caripuyo,2024,1,Fuera / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,1,Fuera / MASCULINO,0
+La Paz,21306,Colquencha,2024,1,Fuera / MASCULINO,1
+La Paz,21402,Coripata,2024,1,Fuera / MASCULINO,0
+La Paz,21105,La Asunta,2024,1,Fuera / MASCULINO,1
+La Paz,20101,La Paz,2024,1,Fuera / MASCULINO,0
+Cochabamba,31301,Mizque,2024,1,Fuera / MASCULINO,0
+Oruro,40101,Oruro,2024,1,Fuera / MASCULINO,0
+Beni,80302,San Borja,2024,1,Fuera / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,Fuera / MASCULINO,0
+Chuquisaca,10403,Sopachuy,2024,1,Fuera / MASCULINO,0
+Potosí,51501,Villazon,2024,1,Fuera / MASCULINO,1
+Chuquisaca,10301,Zudañez,2024,1,Fuera / MASCULINO,0
+La Paz,20701,Apolo,2024,2,Fuera / MASCULINO,0
+Santa Cruz,71501,Ascencion De Guarayos,2024,2,Fuera / MASCULINO,0
+Potosí,51102,"Caiza ""d""",2024,2,Fuera / MASCULINO,1
+Cochabamba,31204,Chimore,2024,2,Fuera / MASCULINO,0
+La Paz,21101,Chulumani (v. De La Libertad),2024,2,Fuera / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,2,Fuera / MASCULINO,0
+La Paz,20105,El Alto,2024,2,Fuera / MASCULINO,0
+La Paz,20101,La Paz,2024,2,Fuera / MASCULINO,0
+Oruro,40702,Machacamarca,2024,2,Fuera / MASCULINO,1
+Potosí,50101,Potosi,2024,2,Fuera / MASCULINO,0
+Cochabamba,31205,Puerto Villarroel,2024,2,Fuera / MASCULINO,0
+Chuquisaca,10702,San Lucas,2024,2,Fuera / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,Fuera / MASCULINO,0
+Oruro,40102,Caracollo,2024,3,Fuera / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,3,Fuera / MASCULINO,0
+La Paz,21306,Colquencha,2024,3,Fuera / MASCULINO,1
+La Paz,21402,Coripata,2024,3,Fuera / MASCULINO,1
+La Paz,20105,El Alto,2024,3,Fuera / MASCULINO,0
+La Paz,20101,La Paz,2024,3,Fuera / MASCULINO,1
+Potosí,50203,Llallagua,2024,3,Fuera / MASCULINO,0
+Cochabamba,31301,Mizque,2024,3,Fuera / MASCULINO,1
+Oruro,40101,Oruro,2024,3,Fuera / MASCULINO,0
+Beni,80302,San Borja,2024,3,Fuera / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,Fuera / MASCULINO,0
+Tarija,60101,Tarija,2024,3,Fuera / MASCULINO,0
+Potosí,50702,Caripuyo,2024,4,Fuera / MASCULINO,1
+Cochabamba,30101,Cochabamba,2024,4,Fuera / MASCULINO,0
+Potosí,50401,Colquechaca,2024,4,Fuera / MASCULINO,0
+La Paz,20105,El Alto,2024,4,Fuera / MASCULINO,2
+Cochabamba,31206,Entre Rios Cbba,2024,4,Fuera / MASCULINO,1
+La Paz,20101,La Paz,2024,4,Fuera / MASCULINO,1
+Potosí,50404,Ocuri,2024,4,Fuera / MASCULINO,0
+Potosí,51101,Puna,2024,4,Fuera / MASCULINO,0
+Cochabamba,31001,Sacaba,2024,4,Fuera / MASCULINO,0
+Chuquisaca,10702,San Lucas,2024,4,Fuera / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,4,Fuera / MASCULINO,0
+La Paz,20202,Ancoraimes,2024,5,Fuera / MASCULINO,0
+Potosí,51103,Ckochas,2024,5,Fuera / MASCULINO,1
+Potosí,50401,Colquechaca,2024,5,Fuera / MASCULINO,0
+La Paz,20105,El Alto,2024,5,Fuera / MASCULINO,1
+La Paz,20101,La Paz,2024,5,Fuera / MASCULINO,1
+Santa Cruz,70601,Portachuelo,2024,5,Fuera / MASCULINO,0
+Potosí,50701,Sacaca,2024,5,Fuera / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,Fuera / MASCULINO,0
+Tarija,60101,Tarija,2024,5,Fuera / MASCULINO,0
+Cochabamba,31003,Villa Tunari,2024,5,Fuera / MASCULINO,1
+La Paz,22001,Caranavi,2024,6,Fuera / MASCULINO,0
+Potosí,50401,Colquechaca,2024,6,Fuera / MASCULINO,0
+La Paz,21306,Colquencha,2024,6,Fuera / MASCULINO,1
+La Paz,20105,El Alto,2024,6,Fuera / MASCULINO,1
+La Paz,20101,La Paz,2024,6,Fuera / MASCULINO,0
+Potosí,51002,Mojinete,2024,6,Fuera / MASCULINO,1
+Oruro,40101,Oruro,2024,6,Fuera / MASCULINO,0
+Oruro,40601,Poopo,2024,6,Fuera / MASCULINO,0
+Potosí,50701,Sacaca,2024,6,Fuera / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,Fuera / MASCULINO,0
+Tarija,60101,Tarija,2024,6,Fuera / MASCULINO,0
+Chuquisaca,10402,Tomina,2024,6,Fuera / MASCULINO,0
+Potosí,50301,Betanzos,2024,7,Fuera / MASCULINO,1
+La Paz,21304,Calamarca,2024,7,Fuera / MASCULINO,1
+Oruro,40102,Caracollo,2024,7,Fuera / MASCULINO,1
+La Paz,20105,El Alto,2024,7,Fuera / MASCULINO,0
+La Paz,20101,La Paz,2024,7,Fuera / MASCULINO,2
+Santa Cruz,71003,Mineros,2024,7,Fuera / MASCULINO,1
+Oruro,40101,Oruro,2024,7,Fuera / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,Fuera / MASCULINO,0
+Chuquisaca,10202,Tarvita,2024,7,Fuera / MASCULINO,0
+La Paz,20803,Tiahuanacu,2024,7,Fuera / MASCULINO,1
+Oruro,41001,Toledo,2024,7,Fuera / MASCULINO,1
+La Paz,20105,El Alto,2024,8,Fuera / MASCULINO,1
+La Paz,20101,La Paz,2024,8,Fuera / MASCULINO,0
+Potosí,50403,Pocoata,2024,8,Fuera / MASCULINO,0
+Potosí,51203,Porco,2024,8,Fuera / MASCULINO,1
+Beni,80302,San Borja,2024,8,Fuera / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,8,Fuera / MASCULINO,0
+Potosí,51201,Uyuni,2024,8,Fuera / MASCULINO,1
+Potosí,50602,Vitichi,2024,8,Fuera / MASCULINO,0
+Cochabamba,30303,Cocapata,2024,9,Fuera / MASCULINO,1
+Cochabamba,30101,Cochabamba,2024,9,Fuera / MASCULINO,0
+Santa Cruz,70603,Colpa Belgica,2024,9,Fuera / MASCULINO,0
+Oruro,40301,Corque,2024,9,Fuera / MASCULINO,0
+La Paz,20105,El Alto,2024,9,Fuera / MASCULINO,0
+Chuquisaca,10703,Incahuasi,2024,9,Fuera / MASCULINO,0
+La Paz,21105,La Asunta,2024,9,Fuera / MASCULINO,1
+La Paz,20101,La Paz,2024,9,Fuera / MASCULINO,0
+Oruro,40101,Oruro,2024,9,Fuera / MASCULINO,0
+Cochabamba,31001,Sacaba,2024,9,Fuera / MASCULINO,0
+Beni,80302,San Borja,2024,9,Fuera / MASCULINO,0
+La Paz,21502,San Buena Ventura,2024,9,Fuera / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,Fuera / MASCULINO,0
+Chuquisaca,10101,Sucre,2024,9,Fuera / MASCULINO,0
+Tarija,60101,Tarija,2024,9,Fuera / MASCULINO,0
+Potosí,51201,Uyuni,2024,9,Fuera / MASCULINO,0
+Oruro,40603,Antequera,2024,10,Fuera / MASCULINO,1
+Cochabamba,31204,Chimore,2024,10,Fuera / MASCULINO,0
+La Paz,20105,El Alto,2024,10,Fuera / MASCULINO,0
+La Paz,20101,La Paz,2024,10,Fuera / MASCULINO,0
+La Paz,21202,Laja,2024,10,Fuera / MASCULINO,1
+Potosí,50403,Pocoata,2024,10,Fuera / MASCULINO,2
+Oruro,40601,Poopo,2024,10,Fuera / MASCULINO,1
+Potosí,50101,Potosi,2024,10,Fuera / MASCULINO,0
+Cochabamba,31205,Puerto Villarroel,2024,10,Fuera / MASCULINO,1
+Beni,80301,Reyes,2024,10,Fuera / MASCULINO,1
+Santa Cruz,70301,San Ignacio De Velasco,2024,10,Fuera / MASCULINO,1
+Chuquisaca,10702,San Lucas,2024,10,Fuera / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,Fuera / MASCULINO,1
+Oruro,41401,Santiago De Huari,2024,10,Fuera / MASCULINO,0
+Chuquisaca,10101,Sucre,2024,10,Fuera / MASCULINO,0
+Cochabamba,30602,Tacopaya,2024,10,Fuera / MASCULINO,0
+Chuquisaca,10601,Tarabuco,2024,10,Fuera / MASCULINO,0
+Tarija,60101,Tarija,2024,10,Fuera / MASCULINO,0
+La Paz,20101,La Paz,2024,11,Fuera / MASCULINO,0
+Oruro,40101,Oruro,2024,11,Fuera / MASCULINO,1
+Beni,80302,San Borja,2024,11,Fuera / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,Fuera / MASCULINO,0
+Tarija,60101,Tarija,2024,11,Fuera / MASCULINO,0
+Potosí,50103,Yocalla,2024,11,Fuera / MASCULINO,0
+Oruro,40102,Caracollo,2024,12,Fuera / MASCULINO,1
+Potosí,50401,Colquechaca,2024,12,Fuera / MASCULINO,2
+La Paz,21004,Colquiri,2024,12,Fuera / MASCULINO,0
+Santa Cruz,70102,Cotoca,2024,12,Fuera / MASCULINO,0
+La Paz,20105,El Alto,2024,12,Fuera / MASCULINO,1
+La Paz,20101,La Paz,2024,12,Fuera / MASCULINO,0
+Oruro,40101,Oruro,2024,12,Fuera / MASCULINO,0
+Potosí,50402,Ravelo,2024,12,Fuera / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,12,Fuera / MASCULINO,0
+Chuquisaca,10101,Sucre,2024,12,Fuera / MASCULINO,1
+Santa Cruz,71501,Ascencion De Guarayos,2024,1,Fuera / FEMENINO,1
+Chuquisaca,10201,Azurduy,2024,1,Fuera / FEMENINO,1
+Potosí,50702,Caripuyo,2024,1,Fuera / FEMENINO,1
+Cochabamba,30101,Cochabamba,2024,1,Fuera / FEMENINO,0
+La Paz,21306,Colquencha,2024,1,Fuera / FEMENINO,0
+La Paz,21402,Coripata,2024,1,Fuera / FEMENINO,0
+La Paz,21105,La Asunta,2024,1,Fuera / FEMENINO,0
+La Paz,20101,La Paz,2024,1,Fuera / FEMENINO,0
+Cochabamba,31301,Mizque,2024,1,Fuera / FEMENINO,1
+Oruro,40101,Oruro,2024,1,Fuera / FEMENINO,0
+Beni,80302,San Borja,2024,1,Fuera / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,Fuera / FEMENINO,0
+Chuquisaca,10403,Sopachuy,2024,1,Fuera / FEMENINO,1
+Potosí,51501,Villazon,2024,1,Fuera / FEMENINO,0
+Chuquisaca,10301,Zudañez,2024,1,Fuera / FEMENINO,1
+La Paz,20701,Apolo,2024,2,Fuera / FEMENINO,1
+Santa Cruz,71501,Ascencion De Guarayos,2024,2,Fuera / FEMENINO,0
+Potosí,51102,"Caiza ""d""",2024,2,Fuera / FEMENINO,0
+Cochabamba,31204,Chimore,2024,2,Fuera / FEMENINO,1
+La Paz,21101,Chulumani (v. De La Libertad),2024,2,Fuera / FEMENINO,1
+Cochabamba,30101,Cochabamba,2024,2,Fuera / FEMENINO,0
+La Paz,20105,El Alto,2024,2,Fuera / FEMENINO,1
+La Paz,20101,La Paz,2024,2,Fuera / FEMENINO,0
+Oruro,40702,Machacamarca,2024,2,Fuera / FEMENINO,0
+Potosí,50101,Potosi,2024,2,Fuera / FEMENINO,0
+Cochabamba,31205,Puerto Villarroel,2024,2,Fuera / FEMENINO,1
+Chuquisaca,10702,San Lucas,2024,2,Fuera / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,Fuera / FEMENINO,0
+Oruro,40102,Caracollo,2024,3,Fuera / FEMENINO,1
+Cochabamba,30101,Cochabamba,2024,3,Fuera / FEMENINO,0
+La Paz,21306,Colquencha,2024,3,Fuera / FEMENINO,0
+La Paz,21402,Coripata,2024,3,Fuera / FEMENINO,0
+La Paz,20105,El Alto,2024,3,Fuera / FEMENINO,1
+La Paz,20101,La Paz,2024,3,Fuera / FEMENINO,0
+Potosí,50203,Llallagua,2024,3,Fuera / FEMENINO,0
+Cochabamba,31301,Mizque,2024,3,Fuera / FEMENINO,0
+Oruro,40101,Oruro,2024,3,Fuera / FEMENINO,0
+Beni,80302,San Borja,2024,3,Fuera / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,Fuera / FEMENINO,0
+Tarija,60101,Tarija,2024,3,Fuera / FEMENINO,0
+Potosí,50702,Caripuyo,2024,4,Fuera / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,4,Fuera / FEMENINO,0
+Potosí,50401,Colquechaca,2024,4,Fuera / FEMENINO,1
+La Paz,20105,El Alto,2024,4,Fuera / FEMENINO,0
+Cochabamba,31206,Entre Rios Cbba,2024,4,Fuera / FEMENINO,0
+La Paz,20101,La Paz,2024,4,Fuera / FEMENINO,2
+Potosí,50404,Ocuri,2024,4,Fuera / FEMENINO,1
+Potosí,51101,Puna,2024,4,Fuera / FEMENINO,1
+Cochabamba,31001,Sacaba,2024,4,Fuera / FEMENINO,0
+Chuquisaca,10702,San Lucas,2024,4,Fuera / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,4,Fuera / FEMENINO,0
+La Paz,20202,Ancoraimes,2024,5,Fuera / FEMENINO,1
+Potosí,51103,Ckochas,2024,5,Fuera / FEMENINO,0
+Potosí,50401,Colquechaca,2024,5,Fuera / FEMENINO,1
+La Paz,20105,El Alto,2024,5,Fuera / FEMENINO,2
+La Paz,20101,La Paz,2024,5,Fuera / FEMENINO,0
+Santa Cruz,70601,Portachuelo,2024,5,Fuera / FEMENINO,0
+Potosí,50701,Sacaca,2024,5,Fuera / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,Fuera / FEMENINO,0
+Tarija,60101,Tarija,2024,5,Fuera / FEMENINO,0
+Cochabamba,31003,Villa Tunari,2024,5,Fuera / FEMENINO,0
+La Paz,22001,Caranavi,2024,6,Fuera / FEMENINO,1
+Potosí,50401,Colquechaca,2024,6,Fuera / FEMENINO,1
+La Paz,21306,Colquencha,2024,6,Fuera / FEMENINO,0
+La Paz,20105,El Alto,2024,6,Fuera / FEMENINO,1
+La Paz,20101,La Paz,2024,6,Fuera / FEMENINO,1
+Potosí,51002,Mojinete,2024,6,Fuera / FEMENINO,0
+Oruro,40101,Oruro,2024,6,Fuera / FEMENINO,0
+Oruro,40601,Poopo,2024,6,Fuera / FEMENINO,1
+Potosí,50701,Sacaca,2024,6,Fuera / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,Fuera / FEMENINO,0
+Tarija,60101,Tarija,2024,6,Fuera / FEMENINO,0
+Chuquisaca,10402,Tomina,2024,6,Fuera / FEMENINO,1
+Potosí,50301,Betanzos,2024,7,Fuera / FEMENINO,0
+La Paz,21304,Calamarca,2024,7,Fuera / FEMENINO,0
+Oruro,40102,Caracollo,2024,7,Fuera / FEMENINO,0
+La Paz,20105,El Alto,2024,7,Fuera / FEMENINO,2
+La Paz,20101,La Paz,2024,7,Fuera / FEMENINO,0
+Santa Cruz,71003,Mineros,2024,7,Fuera / FEMENINO,0
+Oruro,40101,Oruro,2024,7,Fuera / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,Fuera / FEMENINO,1
+Chuquisaca,10202,Tarvita,2024,7,Fuera / FEMENINO,1
+La Paz,20803,Tiahuanacu,2024,7,Fuera / FEMENINO,0
+Oruro,41001,Toledo,2024,7,Fuera / FEMENINO,0
+La Paz,20105,El Alto,2024,8,Fuera / FEMENINO,1
+La Paz,20101,La Paz,2024,8,Fuera / FEMENINO,0
+Potosí,50403,Pocoata,2024,8,Fuera / FEMENINO,1
+Potosí,51203,Porco,2024,8,Fuera / FEMENINO,0
+Beni,80302,San Borja,2024,8,Fuera / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,8,Fuera / FEMENINO,0
+Potosí,51201,Uyuni,2024,8,Fuera / FEMENINO,1
+Potosí,50602,Vitichi,2024,8,Fuera / FEMENINO,1
+Cochabamba,30303,Cocapata,2024,9,Fuera / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,9,Fuera / FEMENINO,0
+Santa Cruz,70603,Colpa Belgica,2024,9,Fuera / FEMENINO,1
+Oruro,40301,Corque,2024,9,Fuera / FEMENINO,1
+La Paz,20105,El Alto,2024,9,Fuera / FEMENINO,0
+Chuquisaca,10703,Incahuasi,2024,9,Fuera / FEMENINO,1
+La Paz,21105,La Asunta,2024,9,Fuera / FEMENINO,0
+La Paz,20101,La Paz,2024,9,Fuera / FEMENINO,0
+Oruro,40101,Oruro,2024,9,Fuera / FEMENINO,1
+Cochabamba,31001,Sacaba,2024,9,Fuera / FEMENINO,1
+Beni,80302,San Borja,2024,9,Fuera / FEMENINO,1
+La Paz,21502,San Buena Ventura,2024,9,Fuera / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,Fuera / FEMENINO,0
+Chuquisaca,10101,Sucre,2024,9,Fuera / FEMENINO,0
+Tarija,60101,Tarija,2024,9,Fuera / FEMENINO,0
+Potosí,51201,Uyuni,2024,9,Fuera / FEMENINO,1
+Oruro,40603,Antequera,2024,10,Fuera / FEMENINO,0
+Cochabamba,31204,Chimore,2024,10,Fuera / FEMENINO,1
+La Paz,20105,El Alto,2024,10,Fuera / FEMENINO,1
+La Paz,20101,La Paz,2024,10,Fuera / FEMENINO,1
+La Paz,21202,Laja,2024,10,Fuera / FEMENINO,0
+Potosí,50403,Pocoata,2024,10,Fuera / FEMENINO,0
+Oruro,40601,Poopo,2024,10,Fuera / FEMENINO,0
+Potosí,50101,Potosi,2024,10,Fuera / FEMENINO,0
+Cochabamba,31205,Puerto Villarroel,2024,10,Fuera / FEMENINO,0
+Beni,80301,Reyes,2024,10,Fuera / FEMENINO,0
+Santa Cruz,70301,San Ignacio De Velasco,2024,10,Fuera / FEMENINO,0
+Chuquisaca,10702,San Lucas,2024,10,Fuera / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,Fuera / FEMENINO,0
+Oruro,41401,Santiago De Huari,2024,10,Fuera / FEMENINO,1
+Chuquisaca,10101,Sucre,2024,10,Fuera / FEMENINO,0
+Cochabamba,30602,Tacopaya,2024,10,Fuera / FEMENINO,1
+Chuquisaca,10601,Tarabuco,2024,10,Fuera / FEMENINO,1
+Tarija,60101,Tarija,2024,10,Fuera / FEMENINO,0
+La Paz,20101,La Paz,2024,11,Fuera / FEMENINO,1
+Oruro,40101,Oruro,2024,11,Fuera / FEMENINO,0
+Beni,80302,San Borja,2024,11,Fuera / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,Fuera / FEMENINO,0
+Tarija,60101,Tarija,2024,11,Fuera / FEMENINO,0
+Potosí,50103,Yocalla,2024,11,Fuera / FEMENINO,1
+Oruro,40102,Caracollo,2024,12,Fuera / FEMENINO,0
+Potosí,50401,Colquechaca,2024,12,Fuera / FEMENINO,0
+La Paz,21004,Colquiri,2024,12,Fuera / FEMENINO,1
+Santa Cruz,70102,Cotoca,2024,12,Fuera / FEMENINO,1
+La Paz,20105,El Alto,2024,12,Fuera / FEMENINO,0
+La Paz,20101,La Paz,2024,12,Fuera / FEMENINO,0
+Oruro,40101,Oruro,2024,12,Fuera / FEMENINO,0
+Potosí,50402,Ravelo,2024,12,Fuera / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,12,Fuera / FEMENINO,0
+Chuquisaca,10101,Sucre,2024,12,Fuera / FEMENINO,0
+Santa Cruz,71501,Ascencion De Guarayos,2024,1,TOTALES / DENTRO,0
+Chuquisaca,10201,Azurduy,2024,1,TOTALES / DENTRO,0
+Potosí,50702,Caripuyo,2024,1,TOTALES / DENTRO,0
+Cochabamba,30101,Cochabamba,2024,1,TOTALES / DENTRO,0
+La Paz,21306,Colquencha,2024,1,TOTALES / DENTRO,1
+La Paz,21402,Coripata,2024,1,TOTALES / DENTRO,1
+La Paz,21105,La Asunta,2024,1,TOTALES / DENTRO,1
+La Paz,20101,La Paz,2024,1,TOTALES / DENTRO,2
+Cochabamba,31301,Mizque,2024,1,TOTALES / DENTRO,0
+Oruro,40101,Oruro,2024,1,TOTALES / DENTRO,1
+Beni,80302,San Borja,2024,1,TOTALES / DENTRO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,TOTALES / DENTRO,2
+Chuquisaca,10403,Sopachuy,2024,1,TOTALES / DENTRO,0
+Potosí,51501,Villazon,2024,1,TOTALES / DENTRO,1
+Chuquisaca,10301,Zudañez,2024,1,TOTALES / DENTRO,0
+La Paz,20701,Apolo,2024,2,TOTALES / DENTRO,0
+Santa Cruz,71501,Ascencion De Guarayos,2024,2,TOTALES / DENTRO,2
+Potosí,51102,"Caiza ""d""",2024,2,TOTALES / DENTRO,1
+Cochabamba,31204,Chimore,2024,2,TOTALES / DENTRO,0
+La Paz,21101,Chulumani (v. De La Libertad),2024,2,TOTALES / DENTRO,0
+Cochabamba,30101,Cochabamba,2024,2,TOTALES / DENTRO,0
+La Paz,20105,El Alto,2024,2,TOTALES / DENTRO,0
+La Paz,20101,La Paz,2024,2,TOTALES / DENTRO,1
+Oruro,40702,Machacamarca,2024,2,TOTALES / DENTRO,1
+Potosí,50101,Potosi,2024,2,TOTALES / DENTRO,0
+Cochabamba,31205,Puerto Villarroel,2024,2,TOTALES / DENTRO,0
+Chuquisaca,10702,San Lucas,2024,2,TOTALES / DENTRO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,TOTALES / DENTRO,5
+Oruro,40102,Caracollo,2024,3,TOTALES / DENTRO,0
+Cochabamba,30101,Cochabamba,2024,3,TOTALES / DENTRO,0
+La Paz,21306,Colquencha,2024,3,TOTALES / DENTRO,1
+La Paz,21402,Coripata,2024,3,TOTALES / DENTRO,1
+La Paz,20105,El Alto,2024,3,TOTALES / DENTRO,0
+La Paz,20101,La Paz,2024,3,TOTALES / DENTRO,3
+Potosí,50203,Llallagua,2024,3,TOTALES / DENTRO,1
+Cochabamba,31301,Mizque,2024,3,TOTALES / DENTRO,1
+Oruro,40101,Oruro,2024,3,TOTALES / DENTRO,0
+Beni,80302,San Borja,2024,3,TOTALES / DENTRO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,TOTALES / DENTRO,3
+Tarija,60101,Tarija,2024,3,TOTALES / DENTRO,0
+Potosí,50702,Caripuyo,2024,4,TOTALES / DENTRO,1
+Cochabamba,30101,Cochabamba,2024,4,TOTALES / DENTRO,1
+Potosí,50401,Colquechaca,2024,4,TOTALES / DENTRO,0
+La Paz,20105,El Alto,2024,4,TOTALES / DENTRO,2
+Cochabamba,31206,Entre Rios Cbba,2024,4,TOTALES / DENTRO,1
+La Paz,20101,La Paz,2024,4,TOTALES / DENTRO,2
+Potosí,50404,Ocuri,2024,4,TOTALES / DENTRO,0
+Potosí,51101,Puna,2024,4,TOTALES / DENTRO,0
+Cochabamba,31001,Sacaba,2024,4,TOTALES / DENTRO,1
+Chuquisaca,10702,San Lucas,2024,4,TOTALES / DENTRO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,4,TOTALES / DENTRO,3
+La Paz,20202,Ancoraimes,2024,5,TOTALES / DENTRO,0
+Potosí,51103,Ckochas,2024,5,TOTALES / DENTRO,1
+Potosí,50401,Colquechaca,2024,5,TOTALES / DENTRO,0
+La Paz,20105,El Alto,2024,5,TOTALES / DENTRO,3
+La Paz,20101,La Paz,2024,5,TOTALES / DENTRO,1
+Santa Cruz,70601,Portachuelo,2024,5,TOTALES / DENTRO,0
+Potosí,50701,Sacaca,2024,5,TOTALES / DENTRO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,TOTALES / DENTRO,3
+Tarija,60101,Tarija,2024,5,TOTALES / DENTRO,1
+Cochabamba,31003,Villa Tunari,2024,5,TOTALES / DENTRO,1
+La Paz,22001,Caranavi,2024,6,TOTALES / DENTRO,0
+Potosí,50401,Colquechaca,2024,6,TOTALES / DENTRO,0
+La Paz,21306,Colquencha,2024,6,TOTALES / DENTRO,1
+La Paz,20105,El Alto,2024,6,TOTALES / DENTRO,1
+La Paz,20101,La Paz,2024,6,TOTALES / DENTRO,1
+Potosí,51002,Mojinete,2024,6,TOTALES / DENTRO,1
+Oruro,40101,Oruro,2024,6,TOTALES / DENTRO,2
+Oruro,40601,Poopo,2024,6,TOTALES / DENTRO,0
+Potosí,50701,Sacaca,2024,6,TOTALES / DENTRO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,TOTALES / DENTRO,2
+Tarija,60101,Tarija,2024,6,TOTALES / DENTRO,1
+Chuquisaca,10402,Tomina,2024,6,TOTALES / DENTRO,0
+Potosí,50301,Betanzos,2024,7,TOTALES / DENTRO,1
+La Paz,21304,Calamarca,2024,7,TOTALES / DENTRO,1
+Oruro,40102,Caracollo,2024,7,TOTALES / DENTRO,1
+La Paz,20105,El Alto,2024,7,TOTALES / DENTRO,0
+La Paz,20101,La Paz,2024,7,TOTALES / DENTRO,4
+Santa Cruz,71003,Mineros,2024,7,TOTALES / DENTRO,1
+Oruro,40101,Oruro,2024,7,TOTALES / DENTRO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,TOTALES / DENTRO,3
+Chuquisaca,10202,Tarvita,2024,7,TOTALES / DENTRO,0
+La Paz,20803,Tiahuanacu,2024,7,TOTALES / DENTRO,1
+Oruro,41001,Toledo,2024,7,TOTALES / DENTRO,1
+La Paz,20105,El Alto,2024,8,TOTALES / DENTRO,1
+La Paz,20101,La Paz,2024,8,TOTALES / DENTRO,1
+Potosí,50403,Pocoata,2024,8,TOTALES / DENTRO,0
+Potosí,51203,Porco,2024,8,TOTALES / DENTRO,1
+Beni,80302,San Borja,2024,8,TOTALES / DENTRO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,8,TOTALES / DENTRO,1
+Potosí,51201,Uyuni,2024,8,TOTALES / DENTRO,1
+Potosí,50602,Vitichi,2024,8,TOTALES / DENTRO,0
+Cochabamba,30303,Cocapata,2024,9,TOTALES / DENTRO,1
+Cochabamba,30101,Cochabamba,2024,9,TOTALES / DENTRO,0
+Santa Cruz,70603,Colpa Belgica,2024,9,TOTALES / DENTRO,0
+Oruro,40301,Corque,2024,9,TOTALES / DENTRO,0
+La Paz,20105,El Alto,2024,9,TOTALES / DENTRO,3
+Chuquisaca,10703,Incahuasi,2024,9,TOTALES / DENTRO,0
+La Paz,21105,La Asunta,2024,9,TOTALES / DENTRO,1
+La Paz,20101,La Paz,2024,9,TOTALES / DENTRO,1
+Oruro,40101,Oruro,2024,9,TOTALES / DENTRO,1
+Cochabamba,31001,Sacaba,2024,9,TOTALES / DENTRO,0
+Beni,80302,San Borja,2024,9,TOTALES / DENTRO,0
+La Paz,21502,San Buena Ventura,2024,9,TOTALES / DENTRO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,TOTALES / DENTRO,1
+Chuquisaca,10101,Sucre,2024,9,TOTALES / DENTRO,1
+Tarija,60101,Tarija,2024,9,TOTALES / DENTRO,2
+Potosí,51201,Uyuni,2024,9,TOTALES / DENTRO,0
+Oruro,40603,Antequera,2024,10,TOTALES / DENTRO,1
+Cochabamba,31204,Chimore,2024,10,TOTALES / DENTRO,0
+La Paz,20105,El Alto,2024,10,TOTALES / DENTRO,1
+La Paz,20101,La Paz,2024,10,TOTALES / DENTRO,1
+La Paz,21202,Laja,2024,10,TOTALES / DENTRO,1
+Potosí,50403,Pocoata,2024,10,TOTALES / DENTRO,2
+Oruro,40601,Poopo,2024,10,TOTALES / DENTRO,1
+Potosí,50101,Potosi,2024,10,TOTALES / DENTRO,0
+Cochabamba,31205,Puerto Villarroel,2024,10,TOTALES / DENTRO,1
+Beni,80301,Reyes,2024,10,TOTALES / DENTRO,1
+Santa Cruz,70301,San Ignacio De Velasco,2024,10,TOTALES / DENTRO,1
+Chuquisaca,10702,San Lucas,2024,10,TOTALES / DENTRO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,TOTALES / DENTRO,4
+Oruro,41401,Santiago De Huari,2024,10,TOTALES / DENTRO,0
+Chuquisaca,10101,Sucre,2024,10,TOTALES / DENTRO,1
+Cochabamba,30602,Tacopaya,2024,10,TOTALES / DENTRO,0
+Chuquisaca,10601,Tarabuco,2024,10,TOTALES / DENTRO,0
+Tarija,60101,Tarija,2024,10,TOTALES / DENTRO,1
+La Paz,20101,La Paz,2024,11,TOTALES / DENTRO,0
+Oruro,40101,Oruro,2024,11,TOTALES / DENTRO,1
+Beni,80302,San Borja,2024,11,TOTALES / DENTRO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,TOTALES / DENTRO,2
+Tarija,60101,Tarija,2024,11,TOTALES / DENTRO,1
+Potosí,50103,Yocalla,2024,11,TOTALES / DENTRO,0
+Oruro,40102,Caracollo,2024,12,TOTALES / DENTRO,1
+Potosí,50401,Colquechaca,2024,12,TOTALES / DENTRO,2
+La Paz,21004,Colquiri,2024,12,TOTALES / DENTRO,0
+Santa Cruz,70102,Cotoca,2024,12,TOTALES / DENTRO,0
+La Paz,20105,El Alto,2024,12,TOTALES / DENTRO,1
+La Paz,20101,La Paz,2024,12,TOTALES / DENTRO,1
+Oruro,40101,Oruro,2024,12,TOTALES / DENTRO,0
+Potosí,50402,Ravelo,2024,12,TOTALES / DENTRO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,12,TOTALES / DENTRO,4
+Chuquisaca,10101,Sucre,2024,12,TOTALES / DENTRO,2
+Santa Cruz,71501,Ascencion De Guarayos,2024,1,TOTALES / FUERA,2
+Chuquisaca,10201,Azurduy,2024,1,TOTALES / FUERA,1
+Potosí,50702,Caripuyo,2024,1,TOTALES / FUERA,1
+Cochabamba,30101,Cochabamba,2024,1,TOTALES / FUERA,2
+La Paz,21306,Colquencha,2024,1,TOTALES / FUERA,0
+La Paz,21402,Coripata,2024,1,TOTALES / FUERA,0
+La Paz,21105,La Asunta,2024,1,TOTALES / FUERA,0
+La Paz,20101,La Paz,2024,1,TOTALES / FUERA,1
+Cochabamba,31301,Mizque,2024,1,TOTALES / FUERA,1
+Oruro,40101,Oruro,2024,1,TOTALES / FUERA,0
+Beni,80302,San Borja,2024,1,TOTALES / FUERA,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,TOTALES / FUERA,3
+Chuquisaca,10403,Sopachuy,2024,1,TOTALES / FUERA,1
+Potosí,51501,Villazon,2024,1,TOTALES / FUERA,0
+Chuquisaca,10301,Zudañez,2024,1,TOTALES / FUERA,1
+La Paz,20701,Apolo,2024,2,TOTALES / FUERA,1
+Santa Cruz,71501,Ascencion De Guarayos,2024,2,TOTALES / FUERA,0
+Potosí,51102,"Caiza ""d""",2024,2,TOTALES / FUERA,0
+Cochabamba,31204,Chimore,2024,2,TOTALES / FUERA,1
+La Paz,21101,Chulumani (v. De La Libertad),2024,2,TOTALES / FUERA,1
+Cochabamba,30101,Cochabamba,2024,2,TOTALES / FUERA,1
+La Paz,20105,El Alto,2024,2,TOTALES / FUERA,1
+La Paz,20101,La Paz,2024,2,TOTALES / FUERA,1
+Oruro,40702,Machacamarca,2024,2,TOTALES / FUERA,0
+Potosí,50101,Potosi,2024,2,TOTALES / FUERA,1
+Cochabamba,31205,Puerto Villarroel,2024,2,TOTALES / FUERA,1
+Chuquisaca,10702,San Lucas,2024,2,TOTALES / FUERA,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,TOTALES / FUERA,3
+Oruro,40102,Caracollo,2024,3,TOTALES / FUERA,1
+Cochabamba,30101,Cochabamba,2024,3,TOTALES / FUERA,1
+La Paz,21306,Colquencha,2024,3,TOTALES / FUERA,0
+La Paz,21402,Coripata,2024,3,TOTALES / FUERA,0
+La Paz,20105,El Alto,2024,3,TOTALES / FUERA,1
+La Paz,20101,La Paz,2024,3,TOTALES / FUERA,0
+Potosí,50203,Llallagua,2024,3,TOTALES / FUERA,0
+Cochabamba,31301,Mizque,2024,3,TOTALES / FUERA,0
+Oruro,40101,Oruro,2024,3,TOTALES / FUERA,1
+Beni,80302,San Borja,2024,3,TOTALES / FUERA,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,TOTALES / FUERA,4
+Tarija,60101,Tarija,2024,3,TOTALES / FUERA,1
+Potosí,50702,Caripuyo,2024,4,TOTALES / FUERA,0
+Cochabamba,30101,Cochabamba,2024,4,TOTALES / FUERA,1
+Potosí,50401,Colquechaca,2024,4,TOTALES / FUERA,1
+La Paz,20105,El Alto,2024,4,TOTALES / FUERA,0
+Cochabamba,31206,Entre Rios Cbba,2024,4,TOTALES / FUERA,0
+La Paz,20101,La Paz,2024,4,TOTALES / FUERA,2
+Potosí,50404,Ocuri,2024,4,TOTALES / FUERA,1
+Potosí,51101,Puna,2024,4,TOTALES / FUERA,1
+Cochabamba,31001,Sacaba,2024,4,TOTALES / FUERA,0
+Chuquisaca,10702,San Lucas,2024,4,TOTALES / FUERA,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,4,TOTALES / FUERA,3
+La Paz,20202,Ancoraimes,2024,5,TOTALES / FUERA,1
+Potosí,51103,Ckochas,2024,5,TOTALES / FUERA,0
+Potosí,50401,Colquechaca,2024,5,TOTALES / FUERA,1
+La Paz,20105,El Alto,2024,5,TOTALES / FUERA,2
+La Paz,20101,La Paz,2024,5,TOTALES / FUERA,0
+Santa Cruz,70601,Portachuelo,2024,5,TOTALES / FUERA,1
+Potosí,50701,Sacaca,2024,5,TOTALES / FUERA,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,TOTALES / FUERA,2
+Tarija,60101,Tarija,2024,5,TOTALES / FUERA,0
+Cochabamba,31003,Villa Tunari,2024,5,TOTALES / FUERA,0
+La Paz,22001,Caranavi,2024,6,TOTALES / FUERA,1
+Potosí,50401,Colquechaca,2024,6,TOTALES / FUERA,1
+La Paz,21306,Colquencha,2024,6,TOTALES / FUERA,0
+La Paz,20105,El Alto,2024,6,TOTALES / FUERA,2
+La Paz,20101,La Paz,2024,6,TOTALES / FUERA,2
+Potosí,51002,Mojinete,2024,6,TOTALES / FUERA,0
+Oruro,40101,Oruro,2024,6,TOTALES / FUERA,0
+Oruro,40601,Poopo,2024,6,TOTALES / FUERA,1
+Potosí,50701,Sacaca,2024,6,TOTALES / FUERA,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,TOTALES / FUERA,1
+Tarija,60101,Tarija,2024,6,TOTALES / FUERA,0
+Chuquisaca,10402,Tomina,2024,6,TOTALES / FUERA,1
+Potosí,50301,Betanzos,2024,7,TOTALES / FUERA,0
+La Paz,21304,Calamarca,2024,7,TOTALES / FUERA,0
+Oruro,40102,Caracollo,2024,7,TOTALES / FUERA,0
+La Paz,20105,El Alto,2024,7,TOTALES / FUERA,2
+La Paz,20101,La Paz,2024,7,TOTALES / FUERA,0
+Santa Cruz,71003,Mineros,2024,7,TOTALES / FUERA,0
+Oruro,40101,Oruro,2024,7,TOTALES / FUERA,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,TOTALES / FUERA,3
+Chuquisaca,10202,Tarvita,2024,7,TOTALES / FUERA,1
+La Paz,20803,Tiahuanacu,2024,7,TOTALES / FUERA,0
+Oruro,41001,Toledo,2024,7,TOTALES / FUERA,0
+La Paz,20105,El Alto,2024,8,TOTALES / FUERA,2
+La Paz,20101,La Paz,2024,8,TOTALES / FUERA,0
+Potosí,50403,Pocoata,2024,8,TOTALES / FUERA,1
+Potosí,51203,Porco,2024,8,TOTALES / FUERA,0
+Beni,80302,San Borja,2024,8,TOTALES / FUERA,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,8,TOTALES / FUERA,0
+Potosí,51201,Uyuni,2024,8,TOTALES / FUERA,1
+Potosí,50602,Vitichi,2024,8,TOTALES / FUERA,1
+Cochabamba,30303,Cocapata,2024,9,TOTALES / FUERA,0
+Cochabamba,30101,Cochabamba,2024,9,TOTALES / FUERA,1
+Santa Cruz,70603,Colpa Belgica,2024,9,TOTALES / FUERA,1
+Oruro,40301,Corque,2024,9,TOTALES / FUERA,1
+La Paz,20105,El Alto,2024,9,TOTALES / FUERA,0
+Chuquisaca,10703,Incahuasi,2024,9,TOTALES / FUERA,1
+La Paz,21105,La Asunta,2024,9,TOTALES / FUERA,0
+La Paz,20101,La Paz,2024,9,TOTALES / FUERA,2
+Oruro,40101,Oruro,2024,9,TOTALES / FUERA,1
+Cochabamba,31001,Sacaba,2024,9,TOTALES / FUERA,1
+Beni,80302,San Borja,2024,9,TOTALES / FUERA,2
+La Paz,21502,San Buena Ventura,2024,9,TOTALES / FUERA,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,TOTALES / FUERA,0
+Chuquisaca,10101,Sucre,2024,9,TOTALES / FUERA,0
+Tarija,60101,Tarija,2024,9,TOTALES / FUERA,4
+Potosí,51201,Uyuni,2024,9,TOTALES / FUERA,1
+Oruro,40603,Antequera,2024,10,TOTALES / FUERA,0
+Cochabamba,31204,Chimore,2024,10,TOTALES / FUERA,1
+La Paz,20105,El Alto,2024,10,TOTALES / FUERA,1
+La Paz,20101,La Paz,2024,10,TOTALES / FUERA,4
+La Paz,21202,Laja,2024,10,TOTALES / FUERA,0
+Potosí,50403,Pocoata,2024,10,TOTALES / FUERA,0
+Oruro,40601,Poopo,2024,10,TOTALES / FUERA,0
+Potosí,50101,Potosi,2024,10,TOTALES / FUERA,1
+Cochabamba,31205,Puerto Villarroel,2024,10,TOTALES / FUERA,0
+Beni,80301,Reyes,2024,10,TOTALES / FUERA,0
+Santa Cruz,70301,San Ignacio De Velasco,2024,10,TOTALES / FUERA,0
+Chuquisaca,10702,San Lucas,2024,10,TOTALES / FUERA,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,TOTALES / FUERA,5
+Oruro,41401,Santiago De Huari,2024,10,TOTALES / FUERA,1
+Chuquisaca,10101,Sucre,2024,10,TOTALES / FUERA,0
+Cochabamba,30602,Tacopaya,2024,10,TOTALES / FUERA,1
+Chuquisaca,10601,Tarabuco,2024,10,TOTALES / FUERA,1
+Tarija,60101,Tarija,2024,10,TOTALES / FUERA,0
+La Paz,20101,La Paz,2024,11,TOTALES / FUERA,1
+Oruro,40101,Oruro,2024,11,TOTALES / FUERA,0
+Beni,80302,San Borja,2024,11,TOTALES / FUERA,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,TOTALES / FUERA,0
+Tarija,60101,Tarija,2024,11,TOTALES / FUERA,0
+Potosí,50103,Yocalla,2024,11,TOTALES / FUERA,1
+Oruro,40102,Caracollo,2024,12,TOTALES / FUERA,0
+Potosí,50401,Colquechaca,2024,12,TOTALES / FUERA,0
+La Paz,21004,Colquiri,2024,12,TOTALES / FUERA,1
+Santa Cruz,70102,Cotoca,2024,12,TOTALES / FUERA,1
+La Paz,20105,El Alto,2024,12,TOTALES / FUERA,0
+La Paz,20101,La Paz,2024,12,TOTALES / FUERA,1
+Oruro,40101,Oruro,2024,12,TOTALES / FUERA,1
+Potosí,50402,Ravelo,2024,12,TOTALES / FUERA,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,12,TOTALES / FUERA,4
+Chuquisaca,10101,Sucre,2024,12,TOTALES / FUERA,1
+Santa Cruz,71501,Ascencion De Guarayos,2024,1,TOTALES / TOTAL,2
+Chuquisaca,10201,Azurduy,2024,1,TOTALES / TOTAL,1
+Potosí,50702,Caripuyo,2024,1,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2024,1,TOTALES / TOTAL,2
+La Paz,21306,Colquencha,2024,1,TOTALES / TOTAL,1
+La Paz,21402,Coripata,2024,1,TOTALES / TOTAL,1
+La Paz,21105,La Asunta,2024,1,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2024,1,TOTALES / TOTAL,3
+Cochabamba,31301,Mizque,2024,1,TOTALES / TOTAL,1
+Oruro,40101,Oruro,2024,1,TOTALES / TOTAL,1
+Beni,80302,San Borja,2024,1,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,TOTALES / TOTAL,5
+Chuquisaca,10403,Sopachuy,2024,1,TOTALES / TOTAL,1
+Potosí,51501,Villazon,2024,1,TOTALES / TOTAL,1
+Chuquisaca,10301,Zudañez,2024,1,TOTALES / TOTAL,1
+La Paz,20701,Apolo,2024,2,TOTALES / TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2024,2,TOTALES / TOTAL,2
+Potosí,51102,"Caiza ""d""",2024,2,TOTALES / TOTAL,1
+Cochabamba,31204,Chimore,2024,2,TOTALES / TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2024,2,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2024,2,TOTALES / TOTAL,1
+La Paz,20105,El Alto,2024,2,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2024,2,TOTALES / TOTAL,2
+Oruro,40702,Machacamarca,2024,2,TOTALES / TOTAL,1
+Potosí,50101,Potosi,2024,2,TOTALES / TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2024,2,TOTALES / TOTAL,1
+Chuquisaca,10702,San Lucas,2024,2,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,TOTALES / TOTAL,8
+Oruro,40102,Caracollo,2024,3,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2024,3,TOTALES / TOTAL,1
+La Paz,21306,Colquencha,2024,3,TOTALES / TOTAL,1
+La Paz,21402,Coripata,2024,3,TOTALES / TOTAL,1
+La Paz,20105,El Alto,2024,3,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2024,3,TOTALES / TOTAL,3
+Potosí,50203,Llallagua,2024,3,TOTALES / TOTAL,1
+Cochabamba,31301,Mizque,2024,3,TOTALES / TOTAL,1
+Oruro,40101,Oruro,2024,3,TOTALES / TOTAL,1
+Beni,80302,San Borja,2024,3,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,TOTALES / TOTAL,7
+Tarija,60101,Tarija,2024,3,TOTALES / TOTAL,1
+Potosí,50702,Caripuyo,2024,4,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2024,4,TOTALES / TOTAL,2
+Potosí,50401,Colquechaca,2024,4,TOTALES / TOTAL,1
+La Paz,20105,El Alto,2024,4,TOTALES / TOTAL,2
+Cochabamba,31206,Entre Rios Cbba,2024,4,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2024,4,TOTALES / TOTAL,4
+Potosí,50404,Ocuri,2024,4,TOTALES / TOTAL,1
+Potosí,51101,Puna,2024,4,TOTALES / TOTAL,1
+Cochabamba,31001,Sacaba,2024,4,TOTALES / TOTAL,1
+Chuquisaca,10702,San Lucas,2024,4,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,4,TOTALES / TOTAL,6
+La Paz,20202,Ancoraimes,2024,5,TOTALES / TOTAL,1
+Potosí,51103,Ckochas,2024,5,TOTALES / TOTAL,1
+Potosí,50401,Colquechaca,2024,5,TOTALES / TOTAL,1
+La Paz,20105,El Alto,2024,5,TOTALES / TOTAL,5
+La Paz,20101,La Paz,2024,5,TOTALES / TOTAL,1
+Santa Cruz,70601,Portachuelo,2024,5,TOTALES / TOTAL,1
+Potosí,50701,Sacaca,2024,5,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,TOTALES / TOTAL,5
+Tarija,60101,Tarija,2024,5,TOTALES / TOTAL,1
+Cochabamba,31003,Villa Tunari,2024,5,TOTALES / TOTAL,1
+La Paz,22001,Caranavi,2024,6,TOTALES / TOTAL,1
+Potosí,50401,Colquechaca,2024,6,TOTALES / TOTAL,1
+La Paz,21306,Colquencha,2024,6,TOTALES / TOTAL,1
+La Paz,20105,El Alto,2024,6,TOTALES / TOTAL,3
+La Paz,20101,La Paz,2024,6,TOTALES / TOTAL,3
+Potosí,51002,Mojinete,2024,6,TOTALES / TOTAL,1
+Oruro,40101,Oruro,2024,6,TOTALES / TOTAL,2
+Oruro,40601,Poopo,2024,6,TOTALES / TOTAL,1
+Potosí,50701,Sacaca,2024,6,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,TOTALES / TOTAL,3
+Tarija,60101,Tarija,2024,6,TOTALES / TOTAL,1
+Chuquisaca,10402,Tomina,2024,6,TOTALES / TOTAL,1
+Potosí,50301,Betanzos,2024,7,TOTALES / TOTAL,1
+La Paz,21304,Calamarca,2024,7,TOTALES / TOTAL,1
+Oruro,40102,Caracollo,2024,7,TOTALES / TOTAL,1
+La Paz,20105,El Alto,2024,7,TOTALES / TOTAL,2
+La Paz,20101,La Paz,2024,7,TOTALES / TOTAL,4
+Santa Cruz,71003,Mineros,2024,7,TOTALES / TOTAL,1
+Oruro,40101,Oruro,2024,7,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,TOTALES / TOTAL,6
+Chuquisaca,10202,Tarvita,2024,7,TOTALES / TOTAL,1
+La Paz,20803,Tiahuanacu,2024,7,TOTALES / TOTAL,1
+Oruro,41001,Toledo,2024,7,TOTALES / TOTAL,1
+La Paz,20105,El Alto,2024,8,TOTALES / TOTAL,3
+La Paz,20101,La Paz,2024,8,TOTALES / TOTAL,1
+Potosí,50403,Pocoata,2024,8,TOTALES / TOTAL,1
+Potosí,51203,Porco,2024,8,TOTALES / TOTAL,1
+Beni,80302,San Borja,2024,8,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,8,TOTALES / TOTAL,1
+Potosí,51201,Uyuni,2024,8,TOTALES / TOTAL,2
+Potosí,50602,Vitichi,2024,8,TOTALES / TOTAL,1
+Cochabamba,30303,Cocapata,2024,9,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2024,9,TOTALES / TOTAL,1
+Santa Cruz,70603,Colpa Belgica,2024,9,TOTALES / TOTAL,1
+Oruro,40301,Corque,2024,9,TOTALES / TOTAL,1
+La Paz,20105,El Alto,2024,9,TOTALES / TOTAL,3
+Chuquisaca,10703,Incahuasi,2024,9,TOTALES / TOTAL,1
+La Paz,21105,La Asunta,2024,9,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2024,9,TOTALES / TOTAL,3
+Oruro,40101,Oruro,2024,9,TOTALES / TOTAL,2
+Cochabamba,31001,Sacaba,2024,9,TOTALES / TOTAL,1
+Beni,80302,San Borja,2024,9,TOTALES / TOTAL,2
+La Paz,21502,San Buena Ventura,2024,9,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,TOTALES / TOTAL,1
+Chuquisaca,10101,Sucre,2024,9,TOTALES / TOTAL,1
+Tarija,60101,Tarija,2024,9,TOTALES / TOTAL,6
+Potosí,51201,Uyuni,2024,9,TOTALES / TOTAL,1
+Oruro,40603,Antequera,2024,10,TOTALES / TOTAL,1
+Cochabamba,31204,Chimore,2024,10,TOTALES / TOTAL,1
+La Paz,20105,El Alto,2024,10,TOTALES / TOTAL,2
+La Paz,20101,La Paz,2024,10,TOTALES / TOTAL,5
+La Paz,21202,Laja,2024,10,TOTALES / TOTAL,1
+Potosí,50403,Pocoata,2024,10,TOTALES / TOTAL,2
+Oruro,40601,Poopo,2024,10,TOTALES / TOTAL,1
+Potosí,50101,Potosi,2024,10,TOTALES / TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2024,10,TOTALES / TOTAL,1
+Beni,80301,Reyes,2024,10,TOTALES / TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2024,10,TOTALES / TOTAL,1
+Chuquisaca,10702,San Lucas,2024,10,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,TOTALES / TOTAL,9
+Oruro,41401,Santiago De Huari,2024,10,TOTALES / TOTAL,1
+Chuquisaca,10101,Sucre,2024,10,TOTALES / TOTAL,1
+Cochabamba,30602,Tacopaya,2024,10,TOTALES / TOTAL,1
+Chuquisaca,10601,Tarabuco,2024,10,TOTALES / TOTAL,1
+Tarija,60101,Tarija,2024,10,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2024,11,TOTALES / TOTAL,1
+Oruro,40101,Oruro,2024,11,TOTALES / TOTAL,1
+Beni,80302,San Borja,2024,11,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,TOTALES / TOTAL,2
+Tarija,60101,Tarija,2024,11,TOTALES / TOTAL,1
+Potosí,50103,Yocalla,2024,11,TOTALES / TOTAL,1
+Oruro,40102,Caracollo,2024,12,TOTALES / TOTAL,1
+Potosí,50401,Colquechaca,2024,12,TOTALES / TOTAL,2
+La Paz,21004,Colquiri,2024,12,TOTALES / TOTAL,1
+Santa Cruz,70102,Cotoca,2024,12,TOTALES / TOTAL,1
+La Paz,20105,El Alto,2024,12,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2024,12,TOTALES / TOTAL,2
+Oruro,40101,Oruro,2024,12,TOTALES / TOTAL,1
+Potosí,50402,Ravelo,2024,12,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,12,TOTALES / TOTAL,8
+Chuquisaca,10101,Sucre,2024,12,TOTALES / TOTAL,3

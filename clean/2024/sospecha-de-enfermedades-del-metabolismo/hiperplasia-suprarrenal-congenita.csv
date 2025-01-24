@@ -1,0 +1,99 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,< 7 dias / MASCULINO,109
+La Paz,20101,La Paz,2024,2,< 7 dias / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,< 7 dias / MASCULINO,103
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,< 7 dias / MASCULINO,107
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,4,< 7 dias / MASCULINO,128
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,< 7 dias / MASCULINO,95
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,< 7 dias / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,< 7 dias / MASCULINO,1
+Chuquisaca,10101,Sucre,2024,7,< 7 dias / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,< 7 dias / MASCULINO,2
+Chuquisaca,11003,Machareti,2024,10,< 7 dias / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,< 7 dias / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,< 7 dias / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,12,< 7 dias / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,< 7 dias / FEMENINO,122
+La Paz,20101,La Paz,2024,2,< 7 dias / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,< 7 dias / FEMENINO,111
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,< 7 dias / FEMENINO,118
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,4,< 7 dias / FEMENINO,91
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,< 7 dias / FEMENINO,99
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,< 7 dias / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,< 7 dias / FEMENINO,4
+Chuquisaca,10101,Sucre,2024,7,< 7 dias / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,< 7 dias / FEMENINO,1
+Chuquisaca,11003,Machareti,2024,10,< 7 dias / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,< 7 dias / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,< 7 dias / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,12,< 7 dias / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,7 a 28 dias / MASCULINO,1
+La Paz,20101,La Paz,2024,2,7 a 28 dias / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,7 a 28 dias / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,7 a 28 dias / MASCULINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,4,7 a 28 dias / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,7 a 28 dias / MASCULINO,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,7 a 28 dias / MASCULINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,7 a 28 dias / MASCULINO,1
+Chuquisaca,10101,Sucre,2024,7,7 a 28 dias / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,7 a 28 dias / MASCULINO,0
+Chuquisaca,11003,Machareti,2024,10,7 a 28 dias / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,7 a 28 dias / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,7 a 28 dias / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,12,7 a 28 dias / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,7 a 28 dias / FEMENINO,2
+La Paz,20101,La Paz,2024,2,7 a 28 dias / FEMENINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,7 a 28 dias / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,7 a 28 dias / FEMENINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,4,7 a 28 dias / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,7 a 28 dias / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,7 a 28 dias / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,7 a 28 dias / FEMENINO,0
+Chuquisaca,10101,Sucre,2024,7,7 a 28 dias / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,7 a 28 dias / FEMENINO,1
+Chuquisaca,11003,Machareti,2024,10,7 a 28 dias / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,7 a 28 dias / FEMENINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,7 a 28 dias / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,12,7 a 28 dias / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,TOTALES / DENTRO,110
+La Paz,20101,La Paz,2024,2,TOTALES / DENTRO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,TOTALES / DENTRO,104
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,TOTALES / DENTRO,109
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,4,TOTALES / DENTRO,128
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,TOTALES / DENTRO,98
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,TOTALES / DENTRO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,TOTALES / DENTRO,2
+Chuquisaca,10101,Sucre,2024,7,TOTALES / DENTRO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,TOTALES / DENTRO,2
+Chuquisaca,11003,Machareti,2024,10,TOTALES / DENTRO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,TOTALES / DENTRO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,TOTALES / DENTRO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,12,TOTALES / DENTRO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,TOTALES / FUERA,124
+La Paz,20101,La Paz,2024,2,TOTALES / FUERA,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,TOTALES / FUERA,112
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,TOTALES / FUERA,120
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,4,TOTALES / FUERA,91
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,TOTALES / FUERA,99
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,TOTALES / FUERA,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,TOTALES / FUERA,4
+Chuquisaca,10101,Sucre,2024,7,TOTALES / FUERA,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,TOTALES / FUERA,2
+Chuquisaca,11003,Machareti,2024,10,TOTALES / FUERA,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,TOTALES / FUERA,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,TOTALES / FUERA,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,12,TOTALES / FUERA,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,TOTALES / TOTAL,234
+La Paz,20101,La Paz,2024,2,TOTALES / TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,TOTALES / TOTAL,216
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,TOTALES / TOTAL,229
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,4,TOTALES / TOTAL,219
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,TOTALES / TOTAL,197
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,TOTALES / TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,TOTALES / TOTAL,6
+Chuquisaca,10101,Sucre,2024,7,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,TOTALES / TOTAL,4
+Chuquisaca,11003,Machareti,2024,10,TOTALES / TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,TOTALES / TOTAL,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,12,TOTALES / TOTAL,1

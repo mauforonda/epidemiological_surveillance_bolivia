@@ -1,0 +1,852 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,a. Menor de 6 meses / MASCULINO,0
+La Paz,20105,El Alto,2024,4,a. Menor de 6 meses / MASCULINO,0
+La Paz,22001,Caranavi,2024,5,a. Menor de 6 meses / MASCULINO,0
+Pando,90101,Cobija,2024,5,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70104,La Guardia,2024,5,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,a. Menor de 6 meses / MASCULINO,0
+La Paz,22001,Caranavi,2024,6,a. Menor de 6 meses / MASCULINO,0
+La Paz,20602,Guanay,2024,6,a. Menor de 6 meses / MASCULINO,0
+Oruro,40101,Oruro,2024,6,a. Menor de 6 meses / MASCULINO,0
+La Paz,22001,Caranavi,2024,7,a. Menor de 6 meses / MASCULINO,0
+Pando,90101,Cobija,2024,7,a. Menor de 6 meses / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,7,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,a. Menor de 6 meses / MASCULINO,0
+La Paz,22001,Caranavi,2024,8,a. Menor de 6 meses / MASCULINO,0
+La Paz,20101,La Paz,2024,8,a. Menor de 6 meses / MASCULINO,0
+La Paz,21104,Palos Blancos,2024,8,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70103,Porongo,2024,8,a. Menor de 6 meses / MASCULINO,0
+Cochabamba,30901,Quillacollo,2024,8,a. Menor de 6 meses / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,9,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70103,Porongo,2024,9,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70503,Robore,2024,9,a. Menor de 6 meses / MASCULINO,0
+Beni,80302,San Borja,2024,9,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70105,El Torno,2024,10,a. Menor de 6 meses / MASCULINO,0
+La Paz,21001,Inquisivi,2024,10,a. Menor de 6 meses / MASCULINO,0
+La Paz,21105,La Asunta,2024,10,a. Menor de 6 meses / MASCULINO,0
+La Paz,20101,La Paz,2024,10,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,a. Menor de 6 meses / MASCULINO,0
+Chuquisaca,10101,Sucre,2024,10,a. Menor de 6 meses / MASCULINO,0
+La Paz,21105,La Asunta,2024,11,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,a. Menor de 6 meses / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,12,a. Menor de 6 meses / MASCULINO,0
+La Paz,20101,La Paz,2024,12,a. Menor de 6 meses / MASCULINO,0
+La Paz,21502,San Buena Ventura,2024,12,a. Menor de 6 meses / MASCULINO,0
+Chuquisaca,10101,Sucre,2024,12,a. Menor de 6 meses / MASCULINO,0
+Tarija,60101,Tarija,2024,12,a. Menor de 6 meses / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,a. Menor de 6 meses / FEMENINO,0
+La Paz,20105,El Alto,2024,4,a. Menor de 6 meses / FEMENINO,0
+La Paz,22001,Caranavi,2024,5,a. Menor de 6 meses / FEMENINO,0
+Pando,90101,Cobija,2024,5,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70104,La Guardia,2024,5,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,a. Menor de 6 meses / FEMENINO,0
+La Paz,22001,Caranavi,2024,6,a. Menor de 6 meses / FEMENINO,0
+La Paz,20602,Guanay,2024,6,a. Menor de 6 meses / FEMENINO,0
+Oruro,40101,Oruro,2024,6,a. Menor de 6 meses / FEMENINO,0
+La Paz,22001,Caranavi,2024,7,a. Menor de 6 meses / FEMENINO,0
+Pando,90101,Cobija,2024,7,a. Menor de 6 meses / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,7,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,a. Menor de 6 meses / FEMENINO,0
+La Paz,22001,Caranavi,2024,8,a. Menor de 6 meses / FEMENINO,0
+La Paz,20101,La Paz,2024,8,a. Menor de 6 meses / FEMENINO,0
+La Paz,21104,Palos Blancos,2024,8,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70103,Porongo,2024,8,a. Menor de 6 meses / FEMENINO,0
+Cochabamba,30901,Quillacollo,2024,8,a. Menor de 6 meses / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,9,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70103,Porongo,2024,9,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70503,Robore,2024,9,a. Menor de 6 meses / FEMENINO,0
+Beni,80302,San Borja,2024,9,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70105,El Torno,2024,10,a. Menor de 6 meses / FEMENINO,0
+La Paz,21001,Inquisivi,2024,10,a. Menor de 6 meses / FEMENINO,0
+La Paz,21105,La Asunta,2024,10,a. Menor de 6 meses / FEMENINO,0
+La Paz,20101,La Paz,2024,10,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,a. Menor de 6 meses / FEMENINO,0
+Chuquisaca,10101,Sucre,2024,10,a. Menor de 6 meses / FEMENINO,0
+La Paz,21105,La Asunta,2024,11,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,a. Menor de 6 meses / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,12,a. Menor de 6 meses / FEMENINO,0
+La Paz,20101,La Paz,2024,12,a. Menor de 6 meses / FEMENINO,0
+La Paz,21502,San Buena Ventura,2024,12,a. Menor de 6 meses / FEMENINO,0
+Chuquisaca,10101,Sucre,2024,12,a. Menor de 6 meses / FEMENINO,0
+Tarija,60101,Tarija,2024,12,a. Menor de 6 meses / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,b. 6 meses a menor de 1 ano / MASCULINO,0
+La Paz,20105,El Alto,2024,4,b. 6 meses a menor de 1 ano / MASCULINO,0
+La Paz,22001,Caranavi,2024,5,b. 6 meses a menor de 1 ano / MASCULINO,0
+Pando,90101,Cobija,2024,5,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70104,La Guardia,2024,5,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,b. 6 meses a menor de 1 ano / MASCULINO,0
+La Paz,22001,Caranavi,2024,6,b. 6 meses a menor de 1 ano / MASCULINO,0
+La Paz,20602,Guanay,2024,6,b. 6 meses a menor de 1 ano / MASCULINO,0
+Oruro,40101,Oruro,2024,6,b. 6 meses a menor de 1 ano / MASCULINO,0
+La Paz,22001,Caranavi,2024,7,b. 6 meses a menor de 1 ano / MASCULINO,0
+Pando,90101,Cobija,2024,7,b. 6 meses a menor de 1 ano / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,7,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,b. 6 meses a menor de 1 ano / MASCULINO,0
+La Paz,22001,Caranavi,2024,8,b. 6 meses a menor de 1 ano / MASCULINO,0
+La Paz,20101,La Paz,2024,8,b. 6 meses a menor de 1 ano / MASCULINO,0
+La Paz,21104,Palos Blancos,2024,8,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70103,Porongo,2024,8,b. 6 meses a menor de 1 ano / MASCULINO,0
+Cochabamba,30901,Quillacollo,2024,8,b. 6 meses a menor de 1 ano / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,9,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70103,Porongo,2024,9,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70503,Robore,2024,9,b. 6 meses a menor de 1 ano / MASCULINO,0
+Beni,80302,San Borja,2024,9,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70105,El Torno,2024,10,b. 6 meses a menor de 1 ano / MASCULINO,0
+La Paz,21001,Inquisivi,2024,10,b. 6 meses a menor de 1 ano / MASCULINO,0
+La Paz,21105,La Asunta,2024,10,b. 6 meses a menor de 1 ano / MASCULINO,0
+La Paz,20101,La Paz,2024,10,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,b. 6 meses a menor de 1 ano / MASCULINO,0
+Chuquisaca,10101,Sucre,2024,10,b. 6 meses a menor de 1 ano / MASCULINO,0
+La Paz,21105,La Asunta,2024,11,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,b. 6 meses a menor de 1 ano / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,12,b. 6 meses a menor de 1 ano / MASCULINO,0
+La Paz,20101,La Paz,2024,12,b. 6 meses a menor de 1 ano / MASCULINO,0
+La Paz,21502,San Buena Ventura,2024,12,b. 6 meses a menor de 1 ano / MASCULINO,0
+Chuquisaca,10101,Sucre,2024,12,b. 6 meses a menor de 1 ano / MASCULINO,0
+Tarija,60101,Tarija,2024,12,b. 6 meses a menor de 1 ano / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,b. 6 meses a menor de 1 ano / FEMENINO,0
+La Paz,20105,El Alto,2024,4,b. 6 meses a menor de 1 ano / FEMENINO,0
+La Paz,22001,Caranavi,2024,5,b. 6 meses a menor de 1 ano / FEMENINO,0
+Pando,90101,Cobija,2024,5,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70104,La Guardia,2024,5,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,b. 6 meses a menor de 1 ano / FEMENINO,0
+La Paz,22001,Caranavi,2024,6,b. 6 meses a menor de 1 ano / FEMENINO,0
+La Paz,20602,Guanay,2024,6,b. 6 meses a menor de 1 ano / FEMENINO,0
+Oruro,40101,Oruro,2024,6,b. 6 meses a menor de 1 ano / FEMENINO,0
+La Paz,22001,Caranavi,2024,7,b. 6 meses a menor de 1 ano / FEMENINO,0
+Pando,90101,Cobija,2024,7,b. 6 meses a menor de 1 ano / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,7,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,b. 6 meses a menor de 1 ano / FEMENINO,0
+La Paz,22001,Caranavi,2024,8,b. 6 meses a menor de 1 ano / FEMENINO,0
+La Paz,20101,La Paz,2024,8,b. 6 meses a menor de 1 ano / FEMENINO,0
+La Paz,21104,Palos Blancos,2024,8,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70103,Porongo,2024,8,b. 6 meses a menor de 1 ano / FEMENINO,0
+Cochabamba,30901,Quillacollo,2024,8,b. 6 meses a menor de 1 ano / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,9,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70103,Porongo,2024,9,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70503,Robore,2024,9,b. 6 meses a menor de 1 ano / FEMENINO,0
+Beni,80302,San Borja,2024,9,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70105,El Torno,2024,10,b. 6 meses a menor de 1 ano / FEMENINO,0
+La Paz,21001,Inquisivi,2024,10,b. 6 meses a menor de 1 ano / FEMENINO,0
+La Paz,21105,La Asunta,2024,10,b. 6 meses a menor de 1 ano / FEMENINO,0
+La Paz,20101,La Paz,2024,10,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,b. 6 meses a menor de 1 ano / FEMENINO,0
+Chuquisaca,10101,Sucre,2024,10,b. 6 meses a menor de 1 ano / FEMENINO,0
+La Paz,21105,La Asunta,2024,11,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,b. 6 meses a menor de 1 ano / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,12,b. 6 meses a menor de 1 ano / FEMENINO,0
+La Paz,20101,La Paz,2024,12,b. 6 meses a menor de 1 ano / FEMENINO,0
+La Paz,21502,San Buena Ventura,2024,12,b. 6 meses a menor de 1 ano / FEMENINO,0
+Chuquisaca,10101,Sucre,2024,12,b. 6 meses a menor de 1 ano / FEMENINO,0
+Tarija,60101,Tarija,2024,12,b. 6 meses a menor de 1 ano / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,c. 1 - 4 anos / MASCULINO,0
+La Paz,20105,El Alto,2024,4,c. 1 - 4 anos / MASCULINO,0
+La Paz,22001,Caranavi,2024,5,c. 1 - 4 anos / MASCULINO,0
+Pando,90101,Cobija,2024,5,c. 1 - 4 anos / MASCULINO,1
+Santa Cruz,70104,La Guardia,2024,5,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,c. 1 - 4 anos / MASCULINO,0
+La Paz,22001,Caranavi,2024,6,c. 1 - 4 anos / MASCULINO,0
+La Paz,20602,Guanay,2024,6,c. 1 - 4 anos / MASCULINO,0
+Oruro,40101,Oruro,2024,6,c. 1 - 4 anos / MASCULINO,0
+La Paz,22001,Caranavi,2024,7,c. 1 - 4 anos / MASCULINO,0
+Pando,90101,Cobija,2024,7,c. 1 - 4 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,7,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,c. 1 - 4 anos / MASCULINO,0
+La Paz,22001,Caranavi,2024,8,c. 1 - 4 anos / MASCULINO,0
+La Paz,20101,La Paz,2024,8,c. 1 - 4 anos / MASCULINO,0
+La Paz,21104,Palos Blancos,2024,8,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70103,Porongo,2024,8,c. 1 - 4 anos / MASCULINO,0
+Cochabamba,30901,Quillacollo,2024,8,c. 1 - 4 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,9,c. 1 - 4 anos / MASCULINO,1
+Santa Cruz,70103,Porongo,2024,9,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70503,Robore,2024,9,c. 1 - 4 anos / MASCULINO,0
+Beni,80302,San Borja,2024,9,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2024,10,c. 1 - 4 anos / MASCULINO,1
+La Paz,21001,Inquisivi,2024,10,c. 1 - 4 anos / MASCULINO,0
+La Paz,21105,La Asunta,2024,10,c. 1 - 4 anos / MASCULINO,0
+La Paz,20101,La Paz,2024,10,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,c. 1 - 4 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2024,10,c. 1 - 4 anos / MASCULINO,0
+La Paz,21105,La Asunta,2024,11,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,c. 1 - 4 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,12,c. 1 - 4 anos / MASCULINO,0
+La Paz,20101,La Paz,2024,12,c. 1 - 4 anos / MASCULINO,0
+La Paz,21502,San Buena Ventura,2024,12,c. 1 - 4 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2024,12,c. 1 - 4 anos / MASCULINO,0
+Tarija,60101,Tarija,2024,12,c. 1 - 4 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,c. 1 - 4 anos / FEMENINO,0
+La Paz,20105,El Alto,2024,4,c. 1 - 4 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,5,c. 1 - 4 anos / FEMENINO,0
+Pando,90101,Cobija,2024,5,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70104,La Guardia,2024,5,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,c. 1 - 4 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,6,c. 1 - 4 anos / FEMENINO,0
+La Paz,20602,Guanay,2024,6,c. 1 - 4 anos / FEMENINO,0
+Oruro,40101,Oruro,2024,6,c. 1 - 4 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,7,c. 1 - 4 anos / FEMENINO,0
+Pando,90101,Cobija,2024,7,c. 1 - 4 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,7,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,c. 1 - 4 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,8,c. 1 - 4 anos / FEMENINO,0
+La Paz,20101,La Paz,2024,8,c. 1 - 4 anos / FEMENINO,0
+La Paz,21104,Palos Blancos,2024,8,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70103,Porongo,2024,8,c. 1 - 4 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2024,8,c. 1 - 4 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,9,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70103,Porongo,2024,9,c. 1 - 4 anos / FEMENINO,1
+Santa Cruz,70503,Robore,2024,9,c. 1 - 4 anos / FEMENINO,0
+Beni,80302,San Borja,2024,9,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2024,10,c. 1 - 4 anos / FEMENINO,0
+La Paz,21001,Inquisivi,2024,10,c. 1 - 4 anos / FEMENINO,0
+La Paz,21105,La Asunta,2024,10,c. 1 - 4 anos / FEMENINO,0
+La Paz,20101,La Paz,2024,10,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,c. 1 - 4 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2024,10,c. 1 - 4 anos / FEMENINO,0
+La Paz,21105,La Asunta,2024,11,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,c. 1 - 4 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,12,c. 1 - 4 anos / FEMENINO,0
+La Paz,20101,La Paz,2024,12,c. 1 - 4 anos / FEMENINO,0
+La Paz,21502,San Buena Ventura,2024,12,c. 1 - 4 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2024,12,c. 1 - 4 anos / FEMENINO,0
+Tarija,60101,Tarija,2024,12,c. 1 - 4 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,d. 5 - 9 anos / MASCULINO,0
+La Paz,20105,El Alto,2024,4,d. 5 - 9 anos / MASCULINO,0
+La Paz,22001,Caranavi,2024,5,d. 5 - 9 anos / MASCULINO,0
+Pando,90101,Cobija,2024,5,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70104,La Guardia,2024,5,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,d. 5 - 9 anos / MASCULINO,0
+La Paz,22001,Caranavi,2024,6,d. 5 - 9 anos / MASCULINO,0
+La Paz,20602,Guanay,2024,6,d. 5 - 9 anos / MASCULINO,0
+Oruro,40101,Oruro,2024,6,d. 5 - 9 anos / MASCULINO,0
+La Paz,22001,Caranavi,2024,7,d. 5 - 9 anos / MASCULINO,0
+Pando,90101,Cobija,2024,7,d. 5 - 9 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,7,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,d. 5 - 9 anos / MASCULINO,0
+La Paz,22001,Caranavi,2024,8,d. 5 - 9 anos / MASCULINO,0
+La Paz,20101,La Paz,2024,8,d. 5 - 9 anos / MASCULINO,0
+La Paz,21104,Palos Blancos,2024,8,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70103,Porongo,2024,8,d. 5 - 9 anos / MASCULINO,0
+Cochabamba,30901,Quillacollo,2024,8,d. 5 - 9 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,9,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70103,Porongo,2024,9,d. 5 - 9 anos / MASCULINO,3
+Santa Cruz,70503,Robore,2024,9,d. 5 - 9 anos / MASCULINO,0
+Beni,80302,San Borja,2024,9,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,d. 5 - 9 anos / MASCULINO,1
+Santa Cruz,70105,El Torno,2024,10,d. 5 - 9 anos / MASCULINO,0
+La Paz,21001,Inquisivi,2024,10,d. 5 - 9 anos / MASCULINO,0
+La Paz,21105,La Asunta,2024,10,d. 5 - 9 anos / MASCULINO,0
+La Paz,20101,La Paz,2024,10,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,d. 5 - 9 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2024,10,d. 5 - 9 anos / MASCULINO,0
+La Paz,21105,La Asunta,2024,11,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,d. 5 - 9 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,12,d. 5 - 9 anos / MASCULINO,1
+La Paz,20101,La Paz,2024,12,d. 5 - 9 anos / MASCULINO,0
+La Paz,21502,San Buena Ventura,2024,12,d. 5 - 9 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2024,12,d. 5 - 9 anos / MASCULINO,0
+Tarija,60101,Tarija,2024,12,d. 5 - 9 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,d. 5 - 9 anos / FEMENINO,0
+La Paz,20105,El Alto,2024,4,d. 5 - 9 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,5,d. 5 - 9 anos / FEMENINO,0
+Pando,90101,Cobija,2024,5,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70104,La Guardia,2024,5,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,d. 5 - 9 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,6,d. 5 - 9 anos / FEMENINO,0
+La Paz,20602,Guanay,2024,6,d. 5 - 9 anos / FEMENINO,1
+Oruro,40101,Oruro,2024,6,d. 5 - 9 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,7,d. 5 - 9 anos / FEMENINO,0
+Pando,90101,Cobija,2024,7,d. 5 - 9 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,7,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,d. 5 - 9 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,8,d. 5 - 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2024,8,d. 5 - 9 anos / FEMENINO,0
+La Paz,21104,Palos Blancos,2024,8,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70103,Porongo,2024,8,d. 5 - 9 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2024,8,d. 5 - 9 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,9,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70103,Porongo,2024,9,d. 5 - 9 anos / FEMENINO,1
+Santa Cruz,70503,Robore,2024,9,d. 5 - 9 anos / FEMENINO,0
+Beni,80302,San Borja,2024,9,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2024,10,d. 5 - 9 anos / FEMENINO,0
+La Paz,21001,Inquisivi,2024,10,d. 5 - 9 anos / FEMENINO,0
+La Paz,21105,La Asunta,2024,10,d. 5 - 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2024,10,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,d. 5 - 9 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2024,10,d. 5 - 9 anos / FEMENINO,0
+La Paz,21105,La Asunta,2024,11,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,d. 5 - 9 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,12,d. 5 - 9 anos / FEMENINO,0
+La Paz,20101,La Paz,2024,12,d. 5 - 9 anos / FEMENINO,0
+La Paz,21502,San Buena Ventura,2024,12,d. 5 - 9 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2024,12,d. 5 - 9 anos / FEMENINO,0
+Tarija,60101,Tarija,2024,12,d. 5 - 9 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,e. 10 - 14 anos / MASCULINO,0
+La Paz,20105,El Alto,2024,4,e. 10 - 14 anos / MASCULINO,0
+La Paz,22001,Caranavi,2024,5,e. 10 - 14 anos / MASCULINO,1
+Pando,90101,Cobija,2024,5,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70104,La Guardia,2024,5,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,e. 10 - 14 anos / MASCULINO,0
+La Paz,22001,Caranavi,2024,6,e. 10 - 14 anos / MASCULINO,0
+La Paz,20602,Guanay,2024,6,e. 10 - 14 anos / MASCULINO,0
+Oruro,40101,Oruro,2024,6,e. 10 - 14 anos / MASCULINO,0
+La Paz,22001,Caranavi,2024,7,e. 10 - 14 anos / MASCULINO,0
+Pando,90101,Cobija,2024,7,e. 10 - 14 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,7,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,e. 10 - 14 anos / MASCULINO,0
+La Paz,22001,Caranavi,2024,8,e. 10 - 14 anos / MASCULINO,0
+La Paz,20101,La Paz,2024,8,e. 10 - 14 anos / MASCULINO,0
+La Paz,21104,Palos Blancos,2024,8,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70103,Porongo,2024,8,e. 10 - 14 anos / MASCULINO,0
+Cochabamba,30901,Quillacollo,2024,8,e. 10 - 14 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,9,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70103,Porongo,2024,9,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70503,Robore,2024,9,e. 10 - 14 anos / MASCULINO,0
+Beni,80302,San Borja,2024,9,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2024,10,e. 10 - 14 anos / MASCULINO,0
+La Paz,21001,Inquisivi,2024,10,e. 10 - 14 anos / MASCULINO,0
+La Paz,21105,La Asunta,2024,10,e. 10 - 14 anos / MASCULINO,0
+La Paz,20101,La Paz,2024,10,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,e. 10 - 14 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2024,10,e. 10 - 14 anos / MASCULINO,0
+La Paz,21105,La Asunta,2024,11,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,e. 10 - 14 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,12,e. 10 - 14 anos / MASCULINO,0
+La Paz,20101,La Paz,2024,12,e. 10 - 14 anos / MASCULINO,0
+La Paz,21502,San Buena Ventura,2024,12,e. 10 - 14 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2024,12,e. 10 - 14 anos / MASCULINO,0
+Tarija,60101,Tarija,2024,12,e. 10 - 14 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,e. 10 - 14 anos / FEMENINO,0
+La Paz,20105,El Alto,2024,4,e. 10 - 14 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,5,e. 10 - 14 anos / FEMENINO,0
+Pando,90101,Cobija,2024,5,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70104,La Guardia,2024,5,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,e. 10 - 14 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,6,e. 10 - 14 anos / FEMENINO,0
+La Paz,20602,Guanay,2024,6,e. 10 - 14 anos / FEMENINO,0
+Oruro,40101,Oruro,2024,6,e. 10 - 14 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,7,e. 10 - 14 anos / FEMENINO,0
+Pando,90101,Cobija,2024,7,e. 10 - 14 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,7,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,e. 10 - 14 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,8,e. 10 - 14 anos / FEMENINO,0
+La Paz,20101,La Paz,2024,8,e. 10 - 14 anos / FEMENINO,0
+La Paz,21104,Palos Blancos,2024,8,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70103,Porongo,2024,8,e. 10 - 14 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2024,8,e. 10 - 14 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,9,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70103,Porongo,2024,9,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70503,Robore,2024,9,e. 10 - 14 anos / FEMENINO,0
+Beni,80302,San Borja,2024,9,e. 10 - 14 anos / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2024,10,e. 10 - 14 anos / FEMENINO,0
+La Paz,21001,Inquisivi,2024,10,e. 10 - 14 anos / FEMENINO,0
+La Paz,21105,La Asunta,2024,10,e. 10 - 14 anos / FEMENINO,0
+La Paz,20101,La Paz,2024,10,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,e. 10 - 14 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2024,10,e. 10 - 14 anos / FEMENINO,0
+La Paz,21105,La Asunta,2024,11,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,e. 10 - 14 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,12,e. 10 - 14 anos / FEMENINO,0
+La Paz,20101,La Paz,2024,12,e. 10 - 14 anos / FEMENINO,0
+La Paz,21502,San Buena Ventura,2024,12,e. 10 - 14 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2024,12,e. 10 - 14 anos / FEMENINO,0
+Tarija,60101,Tarija,2024,12,e. 10 - 14 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,f. 15 - 19 anos / MASCULINO,0
+La Paz,20105,El Alto,2024,4,f. 15 - 19 anos / MASCULINO,0
+La Paz,22001,Caranavi,2024,5,f. 15 - 19 anos / MASCULINO,0
+Pando,90101,Cobija,2024,5,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70104,La Guardia,2024,5,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,f. 15 - 19 anos / MASCULINO,0
+La Paz,22001,Caranavi,2024,6,f. 15 - 19 anos / MASCULINO,1
+La Paz,20602,Guanay,2024,6,f. 15 - 19 anos / MASCULINO,1
+Oruro,40101,Oruro,2024,6,f. 15 - 19 anos / MASCULINO,0
+La Paz,22001,Caranavi,2024,7,f. 15 - 19 anos / MASCULINO,0
+Pando,90101,Cobija,2024,7,f. 15 - 19 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,7,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,f. 15 - 19 anos / MASCULINO,0
+La Paz,22001,Caranavi,2024,8,f. 15 - 19 anos / MASCULINO,0
+La Paz,20101,La Paz,2024,8,f. 15 - 19 anos / MASCULINO,0
+La Paz,21104,Palos Blancos,2024,8,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70103,Porongo,2024,8,f. 15 - 19 anos / MASCULINO,0
+Cochabamba,30901,Quillacollo,2024,8,f. 15 - 19 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,9,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70103,Porongo,2024,9,f. 15 - 19 anos / MASCULINO,1
+Santa Cruz,70503,Robore,2024,9,f. 15 - 19 anos / MASCULINO,0
+Beni,80302,San Borja,2024,9,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,f. 15 - 19 anos / MASCULINO,1
+Santa Cruz,70105,El Torno,2024,10,f. 15 - 19 anos / MASCULINO,1
+La Paz,21001,Inquisivi,2024,10,f. 15 - 19 anos / MASCULINO,0
+La Paz,21105,La Asunta,2024,10,f. 15 - 19 anos / MASCULINO,0
+La Paz,20101,La Paz,2024,10,f. 15 - 19 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,f. 15 - 19 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2024,10,f. 15 - 19 anos / MASCULINO,0
+La Paz,21105,La Asunta,2024,11,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,f. 15 - 19 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,12,f. 15 - 19 anos / MASCULINO,0
+La Paz,20101,La Paz,2024,12,f. 15 - 19 anos / MASCULINO,0
+La Paz,21502,San Buena Ventura,2024,12,f. 15 - 19 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2024,12,f. 15 - 19 anos / MASCULINO,0
+Tarija,60101,Tarija,2024,12,f. 15 - 19 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,f. 15 - 19 anos / FEMENINO,0
+La Paz,20105,El Alto,2024,4,f. 15 - 19 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,5,f. 15 - 19 anos / FEMENINO,0
+Pando,90101,Cobija,2024,5,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70104,La Guardia,2024,5,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,f. 15 - 19 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,6,f. 15 - 19 anos / FEMENINO,0
+La Paz,20602,Guanay,2024,6,f. 15 - 19 anos / FEMENINO,0
+Oruro,40101,Oruro,2024,6,f. 15 - 19 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,7,f. 15 - 19 anos / FEMENINO,0
+Pando,90101,Cobija,2024,7,f. 15 - 19 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,7,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,f. 15 - 19 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,8,f. 15 - 19 anos / FEMENINO,0
+La Paz,20101,La Paz,2024,8,f. 15 - 19 anos / FEMENINO,0
+La Paz,21104,Palos Blancos,2024,8,f. 15 - 19 anos / FEMENINO,1
+Santa Cruz,70103,Porongo,2024,8,f. 15 - 19 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2024,8,f. 15 - 19 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,9,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70103,Porongo,2024,9,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70503,Robore,2024,9,f. 15 - 19 anos / FEMENINO,0
+Beni,80302,San Borja,2024,9,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70105,El Torno,2024,10,f. 15 - 19 anos / FEMENINO,0
+La Paz,21001,Inquisivi,2024,10,f. 15 - 19 anos / FEMENINO,1
+La Paz,21105,La Asunta,2024,10,f. 15 - 19 anos / FEMENINO,1
+La Paz,20101,La Paz,2024,10,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,f. 15 - 19 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2024,10,f. 15 - 19 anos / FEMENINO,0
+La Paz,21105,La Asunta,2024,11,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,f. 15 - 19 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,12,f. 15 - 19 anos / FEMENINO,0
+La Paz,20101,La Paz,2024,12,f. 15 - 19 anos / FEMENINO,0
+La Paz,21502,San Buena Ventura,2024,12,f. 15 - 19 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2024,12,f. 15 - 19 anos / FEMENINO,0
+Tarija,60101,Tarija,2024,12,f. 15 - 19 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,g. 20 - 39 anos / MASCULINO,1
+La Paz,20105,El Alto,2024,4,g. 20 - 39 anos / MASCULINO,1
+La Paz,22001,Caranavi,2024,5,g. 20 - 39 anos / MASCULINO,2
+Pando,90101,Cobija,2024,5,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70104,La Guardia,2024,5,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,g. 20 - 39 anos / MASCULINO,0
+La Paz,22001,Caranavi,2024,6,g. 20 - 39 anos / MASCULINO,0
+La Paz,20602,Guanay,2024,6,g. 20 - 39 anos / MASCULINO,2
+Oruro,40101,Oruro,2024,6,g. 20 - 39 anos / MASCULINO,0
+La Paz,22001,Caranavi,2024,7,g. 20 - 39 anos / MASCULINO,0
+Pando,90101,Cobija,2024,7,g. 20 - 39 anos / MASCULINO,1
+Cochabamba,30101,Cochabamba,2024,7,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,g. 20 - 39 anos / MASCULINO,1
+La Paz,22001,Caranavi,2024,8,g. 20 - 39 anos / MASCULINO,0
+La Paz,20101,La Paz,2024,8,g. 20 - 39 anos / MASCULINO,0
+La Paz,21104,Palos Blancos,2024,8,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70103,Porongo,2024,8,g. 20 - 39 anos / MASCULINO,1
+Cochabamba,30901,Quillacollo,2024,8,g. 20 - 39 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,9,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70103,Porongo,2024,9,g. 20 - 39 anos / MASCULINO,4
+Santa Cruz,70503,Robore,2024,9,g. 20 - 39 anos / MASCULINO,0
+Beni,80302,San Borja,2024,9,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,g. 20 - 39 anos / MASCULINO,1
+Santa Cruz,70105,El Torno,2024,10,g. 20 - 39 anos / MASCULINO,0
+La Paz,21001,Inquisivi,2024,10,g. 20 - 39 anos / MASCULINO,1
+La Paz,21105,La Asunta,2024,10,g. 20 - 39 anos / MASCULINO,0
+La Paz,20101,La Paz,2024,10,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,g. 20 - 39 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2024,10,g. 20 - 39 anos / MASCULINO,0
+La Paz,21105,La Asunta,2024,11,g. 20 - 39 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,g. 20 - 39 anos / MASCULINO,1
+Cochabamba,30101,Cochabamba,2024,12,g. 20 - 39 anos / MASCULINO,0
+La Paz,20101,La Paz,2024,12,g. 20 - 39 anos / MASCULINO,2
+La Paz,21502,San Buena Ventura,2024,12,g. 20 - 39 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2024,12,g. 20 - 39 anos / MASCULINO,1
+Tarija,60101,Tarija,2024,12,g. 20 - 39 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,g. 20 - 39 anos / FEMENINO,1
+La Paz,20105,El Alto,2024,4,g. 20 - 39 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,5,g. 20 - 39 anos / FEMENINO,0
+Pando,90101,Cobija,2024,5,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70104,La Guardia,2024,5,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,g. 20 - 39 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,6,g. 20 - 39 anos / FEMENINO,0
+La Paz,20602,Guanay,2024,6,g. 20 - 39 anos / FEMENINO,4
+Oruro,40101,Oruro,2024,6,g. 20 - 39 anos / FEMENINO,1
+La Paz,22001,Caranavi,2024,7,g. 20 - 39 anos / FEMENINO,1
+Pando,90101,Cobija,2024,7,g. 20 - 39 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,7,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,g. 20 - 39 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,8,g. 20 - 39 anos / FEMENINO,0
+La Paz,20101,La Paz,2024,8,g. 20 - 39 anos / FEMENINO,1
+La Paz,21104,Palos Blancos,2024,8,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70103,Porongo,2024,8,g. 20 - 39 anos / FEMENINO,1
+Cochabamba,30901,Quillacollo,2024,8,g. 20 - 39 anos / FEMENINO,1
+Cochabamba,30101,Cochabamba,2024,9,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70103,Porongo,2024,9,g. 20 - 39 anos / FEMENINO,6
+Santa Cruz,70503,Robore,2024,9,g. 20 - 39 anos / FEMENINO,0
+Beni,80302,San Borja,2024,9,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,g. 20 - 39 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2024,10,g. 20 - 39 anos / FEMENINO,0
+La Paz,21001,Inquisivi,2024,10,g. 20 - 39 anos / FEMENINO,0
+La Paz,21105,La Asunta,2024,10,g. 20 - 39 anos / FEMENINO,2
+La Paz,20101,La Paz,2024,10,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,g. 20 - 39 anos / FEMENINO,1
+Chuquisaca,10101,Sucre,2024,10,g. 20 - 39 anos / FEMENINO,0
+La Paz,21105,La Asunta,2024,11,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,g. 20 - 39 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,12,g. 20 - 39 anos / FEMENINO,0
+La Paz,20101,La Paz,2024,12,g. 20 - 39 anos / FEMENINO,0
+La Paz,21502,San Buena Ventura,2024,12,g. 20 - 39 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2024,12,g. 20 - 39 anos / FEMENINO,0
+Tarija,60101,Tarija,2024,12,g. 20 - 39 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,h. 40 - 49 anos / MASCULINO,1
+La Paz,20105,El Alto,2024,4,h. 40 - 49 anos / MASCULINO,0
+La Paz,22001,Caranavi,2024,5,h. 40 - 49 anos / MASCULINO,0
+Pando,90101,Cobija,2024,5,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70104,La Guardia,2024,5,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,h. 40 - 49 anos / MASCULINO,0
+La Paz,22001,Caranavi,2024,6,h. 40 - 49 anos / MASCULINO,1
+La Paz,20602,Guanay,2024,6,h. 40 - 49 anos / MASCULINO,0
+Oruro,40101,Oruro,2024,6,h. 40 - 49 anos / MASCULINO,0
+La Paz,22001,Caranavi,2024,7,h. 40 - 49 anos / MASCULINO,0
+Pando,90101,Cobija,2024,7,h. 40 - 49 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,7,h. 40 - 49 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,h. 40 - 49 anos / MASCULINO,0
+La Paz,22001,Caranavi,2024,8,h. 40 - 49 anos / MASCULINO,0
+La Paz,20101,La Paz,2024,8,h. 40 - 49 anos / MASCULINO,0
+La Paz,21104,Palos Blancos,2024,8,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70103,Porongo,2024,8,h. 40 - 49 anos / MASCULINO,0
+Cochabamba,30901,Quillacollo,2024,8,h. 40 - 49 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,9,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70103,Porongo,2024,9,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70503,Robore,2024,9,h. 40 - 49 anos / MASCULINO,0
+Beni,80302,San Borja,2024,9,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2024,10,h. 40 - 49 anos / MASCULINO,0
+La Paz,21001,Inquisivi,2024,10,h. 40 - 49 anos / MASCULINO,1
+La Paz,21105,La Asunta,2024,10,h. 40 - 49 anos / MASCULINO,0
+La Paz,20101,La Paz,2024,10,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,h. 40 - 49 anos / MASCULINO,2
+Chuquisaca,10101,Sucre,2024,10,h. 40 - 49 anos / MASCULINO,1
+La Paz,21105,La Asunta,2024,11,h. 40 - 49 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,h. 40 - 49 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,12,h. 40 - 49 anos / MASCULINO,0
+La Paz,20101,La Paz,2024,12,h. 40 - 49 anos / MASCULINO,0
+La Paz,21502,San Buena Ventura,2024,12,h. 40 - 49 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2024,12,h. 40 - 49 anos / MASCULINO,0
+Tarija,60101,Tarija,2024,12,h. 40 - 49 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,h. 40 - 49 anos / FEMENINO,1
+La Paz,20105,El Alto,2024,4,h. 40 - 49 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,5,h. 40 - 49 anos / FEMENINO,0
+Pando,90101,Cobija,2024,5,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70104,La Guardia,2024,5,h. 40 - 49 anos / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,h. 40 - 49 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,6,h. 40 - 49 anos / FEMENINO,0
+La Paz,20602,Guanay,2024,6,h. 40 - 49 anos / FEMENINO,0
+Oruro,40101,Oruro,2024,6,h. 40 - 49 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,7,h. 40 - 49 anos / FEMENINO,0
+Pando,90101,Cobija,2024,7,h. 40 - 49 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,7,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,h. 40 - 49 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,8,h. 40 - 49 anos / FEMENINO,0
+La Paz,20101,La Paz,2024,8,h. 40 - 49 anos / FEMENINO,0
+La Paz,21104,Palos Blancos,2024,8,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70103,Porongo,2024,8,h. 40 - 49 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2024,8,h. 40 - 49 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,9,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70103,Porongo,2024,9,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70503,Robore,2024,9,h. 40 - 49 anos / FEMENINO,0
+Beni,80302,San Borja,2024,9,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,h. 40 - 49 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2024,10,h. 40 - 49 anos / FEMENINO,0
+La Paz,21001,Inquisivi,2024,10,h. 40 - 49 anos / FEMENINO,0
+La Paz,21105,La Asunta,2024,10,h. 40 - 49 anos / FEMENINO,1
+La Paz,20101,La Paz,2024,10,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,h. 40 - 49 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2024,10,h. 40 - 49 anos / FEMENINO,0
+La Paz,21105,La Asunta,2024,11,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,h. 40 - 49 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,12,h. 40 - 49 anos / FEMENINO,0
+La Paz,20101,La Paz,2024,12,h. 40 - 49 anos / FEMENINO,0
+La Paz,21502,San Buena Ventura,2024,12,h. 40 - 49 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2024,12,h. 40 - 49 anos / FEMENINO,0
+Tarija,60101,Tarija,2024,12,h. 40 - 49 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,i. 50 - 59 anos / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,i. 50 - 59 anos / MASCULINO,0
+La Paz,20105,El Alto,2024,4,i. 50 - 59 anos / MASCULINO,0
+La Paz,22001,Caranavi,2024,5,i. 50 - 59 anos / MASCULINO,0
+Pando,90101,Cobija,2024,5,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70104,La Guardia,2024,5,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,i. 50 - 59 anos / MASCULINO,0
+La Paz,22001,Caranavi,2024,6,i. 50 - 59 anos / MASCULINO,0
+La Paz,20602,Guanay,2024,6,i. 50 - 59 anos / MASCULINO,1
+Oruro,40101,Oruro,2024,6,i. 50 - 59 anos / MASCULINO,0
+La Paz,22001,Caranavi,2024,7,i. 50 - 59 anos / MASCULINO,0
+Pando,90101,Cobija,2024,7,i. 50 - 59 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,7,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,i. 50 - 59 anos / MASCULINO,2
+La Paz,22001,Caranavi,2024,8,i. 50 - 59 anos / MASCULINO,1
+La Paz,20101,La Paz,2024,8,i. 50 - 59 anos / MASCULINO,0
+La Paz,21104,Palos Blancos,2024,8,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70103,Porongo,2024,8,i. 50 - 59 anos / MASCULINO,0
+Cochabamba,30901,Quillacollo,2024,8,i. 50 - 59 anos / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,9,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70103,Porongo,2024,9,i. 50 - 59 anos / MASCULINO,2
+Santa Cruz,70503,Robore,2024,9,i. 50 - 59 anos / MASCULINO,0
+Beni,80302,San Borja,2024,9,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70105,El Torno,2024,10,i. 50 - 59 anos / MASCULINO,0
+La Paz,21001,Inquisivi,2024,10,i. 50 - 59 anos / MASCULINO,0
+La Paz,21105,La Asunta,2024,10,i. 50 - 59 anos / MASCULINO,0
+La Paz,20101,La Paz,2024,10,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,i. 50 - 59 anos / MASCULINO,1
+Chuquisaca,10101,Sucre,2024,10,i. 50 - 59 anos / MASCULINO,0
+La Paz,21105,La Asunta,2024,11,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,i. 50 - 59 anos / MASCULINO,1
+Cochabamba,30101,Cochabamba,2024,12,i. 50 - 59 anos / MASCULINO,0
+La Paz,20101,La Paz,2024,12,i. 50 - 59 anos / MASCULINO,0
+La Paz,21502,San Buena Ventura,2024,12,i. 50 - 59 anos / MASCULINO,0
+Chuquisaca,10101,Sucre,2024,12,i. 50 - 59 anos / MASCULINO,0
+Tarija,60101,Tarija,2024,12,i. 50 - 59 anos / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,i. 50 - 59 anos / FEMENINO,0
+La Paz,20105,El Alto,2024,4,i. 50 - 59 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,5,i. 50 - 59 anos / FEMENINO,0
+Pando,90101,Cobija,2024,5,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70104,La Guardia,2024,5,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,i. 50 - 59 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,6,i. 50 - 59 anos / FEMENINO,0
+La Paz,20602,Guanay,2024,6,i. 50 - 59 anos / FEMENINO,0
+Oruro,40101,Oruro,2024,6,i. 50 - 59 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,7,i. 50 - 59 anos / FEMENINO,0
+Pando,90101,Cobija,2024,7,i. 50 - 59 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,7,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,i. 50 - 59 anos / FEMENINO,0
+La Paz,22001,Caranavi,2024,8,i. 50 - 59 anos / FEMENINO,0
+La Paz,20101,La Paz,2024,8,i. 50 - 59 anos / FEMENINO,0
+La Paz,21104,Palos Blancos,2024,8,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70103,Porongo,2024,8,i. 50 - 59 anos / FEMENINO,0
+Cochabamba,30901,Quillacollo,2024,8,i. 50 - 59 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,9,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70103,Porongo,2024,9,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70503,Robore,2024,9,i. 50 - 59 anos / FEMENINO,0
+Beni,80302,San Borja,2024,9,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,i. 50 - 59 anos / FEMENINO,1
+Santa Cruz,70105,El Torno,2024,10,i. 50 - 59 anos / FEMENINO,0
+La Paz,21001,Inquisivi,2024,10,i. 50 - 59 anos / FEMENINO,0
+La Paz,21105,La Asunta,2024,10,i. 50 - 59 anos / FEMENINO,1
+La Paz,20101,La Paz,2024,10,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,i. 50 - 59 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2024,10,i. 50 - 59 anos / FEMENINO,0
+La Paz,21105,La Asunta,2024,11,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,i. 50 - 59 anos / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,12,i. 50 - 59 anos / FEMENINO,0
+La Paz,20101,La Paz,2024,12,i. 50 - 59 anos / FEMENINO,0
+La Paz,21502,San Buena Ventura,2024,12,i. 50 - 59 anos / FEMENINO,0
+Chuquisaca,10101,Sucre,2024,12,i. 50 - 59 anos / FEMENINO,0
+Tarija,60101,Tarija,2024,12,i. 50 - 59 anos / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,j. 60 anos y mas / MASCULINO,0
+La Paz,20105,El Alto,2024,4,j. 60 anos y mas / MASCULINO,0
+La Paz,22001,Caranavi,2024,5,j. 60 anos y mas / MASCULINO,4
+Pando,90101,Cobija,2024,5,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70104,La Guardia,2024,5,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,j. 60 anos y mas / MASCULINO,0
+La Paz,22001,Caranavi,2024,6,j. 60 anos y mas / MASCULINO,0
+La Paz,20602,Guanay,2024,6,j. 60 anos y mas / MASCULINO,1
+Oruro,40101,Oruro,2024,6,j. 60 anos y mas / MASCULINO,0
+La Paz,22001,Caranavi,2024,7,j. 60 anos y mas / MASCULINO,0
+Pando,90101,Cobija,2024,7,j. 60 anos y mas / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,7,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,j. 60 anos y mas / MASCULINO,0
+La Paz,22001,Caranavi,2024,8,j. 60 anos y mas / MASCULINO,0
+La Paz,20101,La Paz,2024,8,j. 60 anos y mas / MASCULINO,0
+La Paz,21104,Palos Blancos,2024,8,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70103,Porongo,2024,8,j. 60 anos y mas / MASCULINO,0
+Cochabamba,30901,Quillacollo,2024,8,j. 60 anos y mas / MASCULINO,0
+Cochabamba,30101,Cochabamba,2024,9,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70103,Porongo,2024,9,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70503,Robore,2024,9,j. 60 anos y mas / MASCULINO,1
+Beni,80302,San Borja,2024,9,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70105,El Torno,2024,10,j. 60 anos y mas / MASCULINO,0
+La Paz,21001,Inquisivi,2024,10,j. 60 anos y mas / MASCULINO,0
+La Paz,21105,La Asunta,2024,10,j. 60 anos y mas / MASCULINO,2
+La Paz,20101,La Paz,2024,10,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,j. 60 anos y mas / MASCULINO,0
+Chuquisaca,10101,Sucre,2024,10,j. 60 anos y mas / MASCULINO,1
+La Paz,21105,La Asunta,2024,11,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,j. 60 anos y mas / MASCULINO,2
+Cochabamba,30101,Cochabamba,2024,12,j. 60 anos y mas / MASCULINO,0
+La Paz,20101,La Paz,2024,12,j. 60 anos y mas / MASCULINO,0
+La Paz,21502,San Buena Ventura,2024,12,j. 60 anos y mas / MASCULINO,0
+Chuquisaca,10101,Sucre,2024,12,j. 60 anos y mas / MASCULINO,0
+Tarija,60101,Tarija,2024,12,j. 60 anos y mas / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,j. 60 anos y mas / FEMENINO,0
+La Paz,20105,El Alto,2024,4,j. 60 anos y mas / FEMENINO,0
+La Paz,22001,Caranavi,2024,5,j. 60 anos y mas / FEMENINO,1
+Pando,90101,Cobija,2024,5,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70104,La Guardia,2024,5,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,j. 60 anos y mas / FEMENINO,1
+La Paz,22001,Caranavi,2024,6,j. 60 anos y mas / FEMENINO,0
+La Paz,20602,Guanay,2024,6,j. 60 anos y mas / FEMENINO,0
+Oruro,40101,Oruro,2024,6,j. 60 anos y mas / FEMENINO,0
+La Paz,22001,Caranavi,2024,7,j. 60 anos y mas / FEMENINO,0
+Pando,90101,Cobija,2024,7,j. 60 anos y mas / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,7,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,j. 60 anos y mas / FEMENINO,0
+La Paz,22001,Caranavi,2024,8,j. 60 anos y mas / FEMENINO,0
+La Paz,20101,La Paz,2024,8,j. 60 anos y mas / FEMENINO,0
+La Paz,21104,Palos Blancos,2024,8,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70103,Porongo,2024,8,j. 60 anos y mas / FEMENINO,0
+Cochabamba,30901,Quillacollo,2024,8,j. 60 anos y mas / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,9,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70103,Porongo,2024,9,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70503,Robore,2024,9,j. 60 anos y mas / FEMENINO,0
+Beni,80302,San Borja,2024,9,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70105,El Torno,2024,10,j. 60 anos y mas / FEMENINO,0
+La Paz,21001,Inquisivi,2024,10,j. 60 anos y mas / FEMENINO,0
+La Paz,21105,La Asunta,2024,10,j. 60 anos y mas / FEMENINO,0
+La Paz,20101,La Paz,2024,10,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,j. 60 anos y mas / FEMENINO,0
+Chuquisaca,10101,Sucre,2024,10,j. 60 anos y mas / FEMENINO,0
+La Paz,21105,La Asunta,2024,11,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,j. 60 anos y mas / FEMENINO,0
+Cochabamba,30101,Cochabamba,2024,12,j. 60 anos y mas / FEMENINO,0
+La Paz,20101,La Paz,2024,12,j. 60 anos y mas / FEMENINO,0
+La Paz,21502,San Buena Ventura,2024,12,j. 60 anos y mas / FEMENINO,1
+Chuquisaca,10101,Sucre,2024,12,j. 60 anos y mas / FEMENINO,0
+Tarija,60101,Tarija,2024,12,j. 60 anos y mas / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,TOTALES / DENTRO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,TOTALES / DENTRO,2
+La Paz,20105,El Alto,2024,4,TOTALES / DENTRO,1
+La Paz,22001,Caranavi,2024,5,TOTALES / DENTRO,7
+Pando,90101,Cobija,2024,5,TOTALES / DENTRO,1
+Santa Cruz,70104,La Guardia,2024,5,TOTALES / DENTRO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,TOTALES / DENTRO,0
+La Paz,22001,Caranavi,2024,6,TOTALES / DENTRO,2
+La Paz,20602,Guanay,2024,6,TOTALES / DENTRO,5
+Oruro,40101,Oruro,2024,6,TOTALES / DENTRO,0
+La Paz,22001,Caranavi,2024,7,TOTALES / DENTRO,0
+Pando,90101,Cobija,2024,7,TOTALES / DENTRO,1
+Cochabamba,30101,Cochabamba,2024,7,TOTALES / DENTRO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,TOTALES / DENTRO,3
+La Paz,22001,Caranavi,2024,8,TOTALES / DENTRO,1
+La Paz,20101,La Paz,2024,8,TOTALES / DENTRO,0
+La Paz,21104,Palos Blancos,2024,8,TOTALES / DENTRO,0
+Santa Cruz,70103,Porongo,2024,8,TOTALES / DENTRO,1
+Cochabamba,30901,Quillacollo,2024,8,TOTALES / DENTRO,0
+Cochabamba,30101,Cochabamba,2024,9,TOTALES / DENTRO,1
+Santa Cruz,70103,Porongo,2024,9,TOTALES / DENTRO,10
+Santa Cruz,70503,Robore,2024,9,TOTALES / DENTRO,1
+Beni,80302,San Borja,2024,9,TOTALES / DENTRO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,TOTALES / DENTRO,3
+Santa Cruz,70105,El Torno,2024,10,TOTALES / DENTRO,2
+La Paz,21001,Inquisivi,2024,10,TOTALES / DENTRO,2
+La Paz,21105,La Asunta,2024,10,TOTALES / DENTRO,2
+La Paz,20101,La Paz,2024,10,TOTALES / DENTRO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,TOTALES / DENTRO,3
+Chuquisaca,10101,Sucre,2024,10,TOTALES / DENTRO,2
+La Paz,21105,La Asunta,2024,11,TOTALES / DENTRO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,TOTALES / DENTRO,4
+Cochabamba,30101,Cochabamba,2024,12,TOTALES / DENTRO,1
+La Paz,20101,La Paz,2024,12,TOTALES / DENTRO,2
+La Paz,21502,San Buena Ventura,2024,12,TOTALES / DENTRO,0
+Chuquisaca,10101,Sucre,2024,12,TOTALES / DENTRO,1
+Tarija,60101,Tarija,2024,12,TOTALES / DENTRO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,TOTALES / FUERA,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,TOTALES / FUERA,2
+La Paz,20105,El Alto,2024,4,TOTALES / FUERA,0
+La Paz,22001,Caranavi,2024,5,TOTALES / FUERA,1
+Pando,90101,Cobija,2024,5,TOTALES / FUERA,0
+Santa Cruz,70104,La Guardia,2024,5,TOTALES / FUERA,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,TOTALES / FUERA,1
+La Paz,22001,Caranavi,2024,6,TOTALES / FUERA,0
+La Paz,20602,Guanay,2024,6,TOTALES / FUERA,5
+Oruro,40101,Oruro,2024,6,TOTALES / FUERA,1
+La Paz,22001,Caranavi,2024,7,TOTALES / FUERA,1
+Pando,90101,Cobija,2024,7,TOTALES / FUERA,0
+Cochabamba,30101,Cochabamba,2024,7,TOTALES / FUERA,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,TOTALES / FUERA,0
+La Paz,22001,Caranavi,2024,8,TOTALES / FUERA,0
+La Paz,20101,La Paz,2024,8,TOTALES / FUERA,1
+La Paz,21104,Palos Blancos,2024,8,TOTALES / FUERA,1
+Santa Cruz,70103,Porongo,2024,8,TOTALES / FUERA,1
+Cochabamba,30901,Quillacollo,2024,8,TOTALES / FUERA,1
+Cochabamba,30101,Cochabamba,2024,9,TOTALES / FUERA,0
+Santa Cruz,70103,Porongo,2024,9,TOTALES / FUERA,8
+Santa Cruz,70503,Robore,2024,9,TOTALES / FUERA,0
+Beni,80302,San Borja,2024,9,TOTALES / FUERA,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,TOTALES / FUERA,3
+Santa Cruz,70105,El Torno,2024,10,TOTALES / FUERA,0
+La Paz,21001,Inquisivi,2024,10,TOTALES / FUERA,1
+La Paz,21105,La Asunta,2024,10,TOTALES / FUERA,5
+La Paz,20101,La Paz,2024,10,TOTALES / FUERA,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,TOTALES / FUERA,1
+Chuquisaca,10101,Sucre,2024,10,TOTALES / FUERA,0
+La Paz,21105,La Asunta,2024,11,TOTALES / FUERA,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,TOTALES / FUERA,0
+Cochabamba,30101,Cochabamba,2024,12,TOTALES / FUERA,0
+La Paz,20101,La Paz,2024,12,TOTALES / FUERA,0
+La Paz,21502,San Buena Ventura,2024,12,TOTALES / FUERA,1
+Chuquisaca,10101,Sucre,2024,12,TOTALES / FUERA,0
+Tarija,60101,Tarija,2024,12,TOTALES / FUERA,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,TOTALES / TOTAL,4
+La Paz,20105,El Alto,2024,4,TOTALES / TOTAL,1
+La Paz,22001,Caranavi,2024,5,TOTALES / TOTAL,8
+Pando,90101,Cobija,2024,5,TOTALES / TOTAL,1
+Santa Cruz,70104,La Guardia,2024,5,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,TOTALES / TOTAL,1
+La Paz,22001,Caranavi,2024,6,TOTALES / TOTAL,2
+La Paz,20602,Guanay,2024,6,TOTALES / TOTAL,10
+Oruro,40101,Oruro,2024,6,TOTALES / TOTAL,1
+La Paz,22001,Caranavi,2024,7,TOTALES / TOTAL,1
+Pando,90101,Cobija,2024,7,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2024,7,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,TOTALES / TOTAL,3
+La Paz,22001,Caranavi,2024,8,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2024,8,TOTALES / TOTAL,1
+La Paz,21104,Palos Blancos,2024,8,TOTALES / TOTAL,1
+Santa Cruz,70103,Porongo,2024,8,TOTALES / TOTAL,2
+Cochabamba,30901,Quillacollo,2024,8,TOTALES / TOTAL,1
+Cochabamba,30101,Cochabamba,2024,9,TOTALES / TOTAL,1
+Santa Cruz,70103,Porongo,2024,9,TOTALES / TOTAL,18
+Santa Cruz,70503,Robore,2024,9,TOTALES / TOTAL,1
+Beni,80302,San Borja,2024,9,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,TOTALES / TOTAL,6
+Santa Cruz,70105,El Torno,2024,10,TOTALES / TOTAL,2
+La Paz,21001,Inquisivi,2024,10,TOTALES / TOTAL,3
+La Paz,21105,La Asunta,2024,10,TOTALES / TOTAL,7
+La Paz,20101,La Paz,2024,10,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,TOTALES / TOTAL,4
+Chuquisaca,10101,Sucre,2024,10,TOTALES / TOTAL,2
+La Paz,21105,La Asunta,2024,11,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,TOTALES / TOTAL,4
+Cochabamba,30101,Cochabamba,2024,12,TOTALES / TOTAL,1
+La Paz,20101,La Paz,2024,12,TOTALES / TOTAL,2
+La Paz,21502,San Buena Ventura,2024,12,TOTALES / TOTAL,1
+Chuquisaca,10101,Sucre,2024,12,TOTALES / TOTAL,1
+Tarija,60101,Tarija,2024,12,TOTALES / TOTAL,1

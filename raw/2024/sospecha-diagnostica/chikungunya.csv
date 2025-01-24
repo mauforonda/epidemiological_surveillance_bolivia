@@ -1,0 +1,111 @@
+,group,variable,month,a. Menor de 6 meses,a. Menor de 6 meses,b. 6 meses a menor de 1 año,b. 6 meses a menor de 1 año,c. 1 - 4 años,c. 1 - 4 años,d. 5 - 9 años,d. 5 - 9 años,e. 10 - 14 años,e. 10 - 14 años,f. 15 - 19 años,f. 15 - 19 años,g. 20 - 39 años,g. 20 - 39 años,h. 40 - 49 años,h. 40 - 49 años,i. 50 - 59 años,i. 50 - 59 años,j. 60 años y más,j. 60 años y más,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+CAMIRI,sospecha diagnostica,chikungunya,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+COBIJA,sospecha diagnostica,chikungunya,2024-01-01,0,0,0,0,0,0,0,0,0,0,1,1,0,4,0,0,0,1,0,0,1,6,7
+COCHABAMBA,sospecha diagnostica,chikungunya,2024-01-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+EL TORNO,sospecha diagnostica,chikungunya,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,1,1,3,1,1,1,1,0,1,3,7,10
+LA GUARDIA,sospecha diagnostica,chikungunya,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,sospecha diagnostica,chikungunya,2024-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,0,1,0,0,1,2,4,6
+PUERTO VILLARROEL,sospecha diagnostica,chikungunya,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2024-01-01,0,0,1,0,3,5,2,4,1,1,1,1,10,13,0,4,0,1,3,3,21,32,53
+SUCRE,sospecha diagnostica,chikungunya,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+TARIJA,sospecha diagnostica,chikungunya,2024-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,chikungunya,2024-01-01,1,0,0,0,1,0,0,0,0,0,0,0,2,0,1,0,1,0,2,0,8,0,8
+YACUIBA,sospecha diagnostica,chikungunya,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+COBIJA,sospecha diagnostica,chikungunya,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+EL TORNO,sospecha diagnostica,chikungunya,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,2,1,3
+LA GUARDIA,sospecha diagnostica,chikungunya,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+MONTEAGUDO,sospecha diagnostica,chikungunya,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,0,0,0,1,1,4,3,7
+MONTERO,sospecha diagnostica,chikungunya,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PUERTO VILLARROEL,sospecha diagnostica,chikungunya,2024-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+RIBERALTA,sospecha diagnostica,chikungunya,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2024-02-01,1,1,2,1,2,2,2,3,0,2,1,3,2,7,1,1,0,1,1,1,12,22,34
+SUCRE,sospecha diagnostica,chikungunya,2024-02-01,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,2,1,3
+TARIJA,sospecha diagnostica,chikungunya,2024-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,chikungunya,2024-02-01,0,0,0,0,0,0,0,2,0,0,0,0,3,1,0,0,0,0,0,0,3,3,6
+COBIJA,sospecha diagnostica,chikungunya,2024-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,0,1,1,0,1,5,6
+EL TORNO,sospecha diagnostica,chikungunya,2024-03-01,0,0,0,0,0,0,0,0,0,0,1,1,0,3,1,0,0,0,0,0,2,4,6
+LA GUARDIA,sospecha diagnostica,chikungunya,2024-03-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+MONTEAGUDO,sospecha diagnostica,chikungunya,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,1,1,2,5,7
+PORONGO,sospecha diagnostica,chikungunya,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+RIBERALTA,sospecha diagnostica,chikungunya,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2024-03-01,0,0,1,0,4,0,2,3,4,2,1,1,7,11,0,5,0,0,3,3,22,25,47
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,chikungunya,2024-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,0,2
+YACUIBA,sospecha diagnostica,chikungunya,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+COBIJA,sospecha diagnostica,chikungunya,2024-04-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+COCHABAMBA,sospecha diagnostica,chikungunya,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+CUEVO,sospecha diagnostica,chikungunya,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL TORNO,sospecha diagnostica,chikungunya,2024-04-01,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2
+LA GUARDIA,sospecha diagnostica,chikungunya,2024-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,2,3
+LA PAZ,sospecha diagnostica,chikungunya,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,sospecha diagnostica,chikungunya,2024-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,2,1,1,0,2,1,1,4,6,10
+PORONGO,sospecha diagnostica,chikungunya,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,3,3
+RIBERALTA,sospecha diagnostica,chikungunya,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,2,2,4
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2024-04-01,0,0,0,0,1,1,4,2,1,6,0,3,5,11,1,2,2,0,0,1,14,26,40
+SUCRE,sospecha diagnostica,chikungunya,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,1,3,4
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,chikungunya,2024-04-01,0,0,0,0,0,0,0,0,0,1,0,1,2,4,1,1,0,0,0,0,3,7,10
+COBIJA,sospecha diagnostica,chikungunya,2024-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+COCHABAMBA,sospecha diagnostica,chikungunya,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL ALTO,sospecha diagnostica,chikungunya,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+LA GUARDIA,sospecha diagnostica,chikungunya,2024-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,sospecha diagnostica,chikungunya,2024-05-01,0,0,0,0,0,0,1,0,2,0,0,2,1,1,1,1,2,0,1,4,8,8,16
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2024-05-01,0,0,0,1,0,0,0,1,1,0,0,2,1,5,1,3,0,0,1,0,4,12,16
+SUCRE,sospecha diagnostica,chikungunya,2024-05-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+TARIJA,sospecha diagnostica,chikungunya,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,chikungunya,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,2,3
+YACUIBA,sospecha diagnostica,chikungunya,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+MONTEAGUDO,sospecha diagnostica,chikungunya,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,1,3,4
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2024-06-01,1,0,1,0,0,1,1,0,0,1,1,0,0,2,0,0,0,1,0,0,4,5,9
+COBIJA,sospecha diagnostica,chikungunya,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+EL TORNO,sospecha diagnostica,chikungunya,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MAIRANA,sospecha diagnostica,chikungunya,2024-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,sospecha diagnostica,chikungunya,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAN BORJA,sospecha diagnostica,chikungunya,2024-07-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2024-07-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2024-07-01,1,0,0,1,0,0,0,0,0,0,1,1,1,2,0,1,0,1,0,0,3,6,9
+SUCRE,sospecha diagnostica,chikungunya,2024-07-01,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,2,3
+TRINIDAD,sospecha diagnostica,chikungunya,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+VILLA MONTES,sospecha diagnostica,chikungunya,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,chikungunya,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+EL TORNO,sospecha diagnostica,chikungunya,2024-08-01,0,1,0,0,0,0,0,0,0,2,0,0,0,1,1,0,0,0,0,0,1,4,5
+LA GUARDIA,sospecha diagnostica,chikungunya,2024-08-01,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+LA PAZ,sospecha diagnostica,chikungunya,2024-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,2
+PORONGO,sospecha diagnostica,chikungunya,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2024-08-01,0,0,0,0,0,0,0,1,0,0,0,1,1,5,0,0,0,1,0,0,1,8,9
+YAPACANI,sospecha diagnostica,chikungunya,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+ENTRE RIOS CBBA,sospecha diagnostica,chikungunya,2024-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA PAZ,sospecha diagnostica,chikungunya,2024-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,sospecha diagnostica,chikungunya,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+PORONGO,sospecha diagnostica,chikungunya,2024-09-01,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,2,1,3
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2024-09-01,0,0,0,0,0,1,0,0,1,0,1,1,3,2,0,0,0,1,2,1,7,6,13
+CAMIRI,sospecha diagnostica,chikungunya,2024-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+COBIJA,sospecha diagnostica,chikungunya,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MONTEAGUDO,sospecha diagnostica,chikungunya,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+PORONGO,sospecha diagnostica,chikungunya,2024-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2024-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2024-10-01,0,0,0,0,0,1,0,3,1,1,1,3,3,6,2,1,0,1,1,0,8,16,24
+SUCRE,sospecha diagnostica,chikungunya,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,chikungunya,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,2,3
+BUENA VISTA,sospecha diagnostica,chikungunya,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CAMIRI,sospecha diagnostica,chikungunya,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COCHABAMBA,sospecha diagnostica,chikungunya,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+LA PAZ,sospecha diagnostica,chikungunya,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+MAIRANA,sospecha diagnostica,chikungunya,2024-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+MONTEAGUDO,sospecha diagnostica,chikungunya,2024-11-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2024-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2024-11-01,0,0,0,0,3,1,1,0,0,1,0,0,2,0,1,0,0,0,1,2,8,4,12
+SUCRE,sospecha diagnostica,chikungunya,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,chikungunya,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+BERMEJO,sospecha diagnostica,chikungunya,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+BUENA VISTA,sospecha diagnostica,chikungunya,2024-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CARAPARI,sospecha diagnostica,chikungunya,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+COBIJA,sospecha diagnostica,chikungunya,2024-12-01,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,3
+LA GUARDIA,sospecha diagnostica,chikungunya,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+LA PAZ,sospecha diagnostica,chikungunya,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+MONTEAGUDO,sospecha diagnostica,chikungunya,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2024-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,3,3
+SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2024-12-01,0,0,0,1,0,2,1,5,0,1,1,0,7,5,1,2,0,2,4,2,14,20,34
+SUCRE,sospecha diagnostica,chikungunya,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,chikungunya,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3

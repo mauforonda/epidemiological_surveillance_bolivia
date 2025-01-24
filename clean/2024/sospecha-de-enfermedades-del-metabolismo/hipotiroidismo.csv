@@ -1,0 +1,169 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,< 7 dias / MASCULINO,109
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,< 7 dias / MASCULINO,103
+La Paz,20101,La Paz,2024,3,< 7 dias / MASCULINO,0
+Santa Cruz,70904,Quirusillas,2024,3,< 7 dias / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,< 7 dias / MASCULINO,107
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,4,< 7 dias / MASCULINO,128
+Chuquisaca,10101,Sucre,2024,4,< 7 dias / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,< 7 dias / MASCULINO,95
+La Paz,20603,Tacacoma,2024,5,< 7 dias / MASCULINO,1
+La Paz,21306,Colquencha,2024,6,< 7 dias / MASCULINO,33
+Santa Cruz,71101,Concepcion,2024,6,< 7 dias / MASCULINO,8
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,< 7 dias / MASCULINO,0
+Beni,80101,Trinidad,2024,6,< 7 dias / MASCULINO,0
+Santa Cruz,71001,Montero,2024,7,< 7 dias / MASCULINO,0
+Santa Cruz,71104,San Julian,2024,7,< 7 dias / MASCULINO,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,< 7 dias / MASCULINO,2
+Chuquisaca,10101,Sucre,2024,7,< 7 dias / MASCULINO,0
+Oruro,40101,Oruro,2024,8,< 7 dias / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,< 7 dias / MASCULINO,2
+Chuquisaca,11003,Machareti,2024,10,< 7 dias / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,< 7 dias / MASCULINO,1
+La Paz,21801,San Pedro De Curahuara,2024,11,< 7 dias / MASCULINO,1
+Potosí,50202,Chayanta,2024,12,< 7 dias / MASCULINO,21
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,12,< 7 dias / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,< 7 dias / FEMENINO,122
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,< 7 dias / FEMENINO,111
+La Paz,20101,La Paz,2024,3,< 7 dias / FEMENINO,0
+Santa Cruz,70904,Quirusillas,2024,3,< 7 dias / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,< 7 dias / FEMENINO,118
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,4,< 7 dias / FEMENINO,91
+Chuquisaca,10101,Sucre,2024,4,< 7 dias / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,< 7 dias / FEMENINO,100
+La Paz,20603,Tacacoma,2024,5,< 7 dias / FEMENINO,0
+La Paz,21306,Colquencha,2024,6,< 7 dias / FEMENINO,0
+Santa Cruz,71101,Concepcion,2024,6,< 7 dias / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,< 7 dias / FEMENINO,0
+Beni,80101,Trinidad,2024,6,< 7 dias / FEMENINO,0
+Santa Cruz,71001,Montero,2024,7,< 7 dias / FEMENINO,0
+Santa Cruz,71104,San Julian,2024,7,< 7 dias / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,< 7 dias / FEMENINO,4
+Chuquisaca,10101,Sucre,2024,7,< 7 dias / FEMENINO,1
+Oruro,40101,Oruro,2024,8,< 7 dias / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,< 7 dias / FEMENINO,1
+Chuquisaca,11003,Machareti,2024,10,< 7 dias / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,< 7 dias / FEMENINO,1
+La Paz,21801,San Pedro De Curahuara,2024,11,< 7 dias / FEMENINO,0
+Potosí,50202,Chayanta,2024,12,< 7 dias / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,12,< 7 dias / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,7 a 28 dias / MASCULINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,7 a 28 dias / MASCULINO,1
+La Paz,20101,La Paz,2024,3,7 a 28 dias / MASCULINO,1
+Santa Cruz,70904,Quirusillas,2024,3,7 a 28 dias / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,7 a 28 dias / MASCULINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,4,7 a 28 dias / MASCULINO,0
+Chuquisaca,10101,Sucre,2024,4,7 a 28 dias / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,7 a 28 dias / MASCULINO,3
+La Paz,20603,Tacacoma,2024,5,7 a 28 dias / MASCULINO,0
+La Paz,21306,Colquencha,2024,6,7 a 28 dias / MASCULINO,0
+Santa Cruz,71101,Concepcion,2024,6,7 a 28 dias / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,7 a 28 dias / MASCULINO,2
+Beni,80101,Trinidad,2024,6,7 a 28 dias / MASCULINO,1
+Santa Cruz,71001,Montero,2024,7,7 a 28 dias / MASCULINO,1
+Santa Cruz,71104,San Julian,2024,7,7 a 28 dias / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,7 a 28 dias / MASCULINO,1
+Chuquisaca,10101,Sucre,2024,7,7 a 28 dias / MASCULINO,0
+Oruro,40101,Oruro,2024,8,7 a 28 dias / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,7 a 28 dias / MASCULINO,0
+Chuquisaca,11003,Machareti,2024,10,7 a 28 dias / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,7 a 28 dias / MASCULINO,1
+La Paz,21801,San Pedro De Curahuara,2024,11,7 a 28 dias / MASCULINO,0
+Potosí,50202,Chayanta,2024,12,7 a 28 dias / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,12,7 a 28 dias / MASCULINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,7 a 28 dias / FEMENINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,7 a 28 dias / FEMENINO,1
+La Paz,20101,La Paz,2024,3,7 a 28 dias / FEMENINO,0
+Santa Cruz,70904,Quirusillas,2024,3,7 a 28 dias / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,7 a 28 dias / FEMENINO,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,4,7 a 28 dias / FEMENINO,0
+Chuquisaca,10101,Sucre,2024,4,7 a 28 dias / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,7 a 28 dias / FEMENINO,1
+La Paz,20603,Tacacoma,2024,5,7 a 28 dias / FEMENINO,0
+La Paz,21306,Colquencha,2024,6,7 a 28 dias / FEMENINO,0
+Santa Cruz,71101,Concepcion,2024,6,7 a 28 dias / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,7 a 28 dias / FEMENINO,1
+Beni,80101,Trinidad,2024,6,7 a 28 dias / FEMENINO,0
+Santa Cruz,71001,Montero,2024,7,7 a 28 dias / FEMENINO,0
+Santa Cruz,71104,San Julian,2024,7,7 a 28 dias / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,7 a 28 dias / FEMENINO,0
+Chuquisaca,10101,Sucre,2024,7,7 a 28 dias / FEMENINO,0
+Oruro,40101,Oruro,2024,8,7 a 28 dias / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,7 a 28 dias / FEMENINO,1
+Chuquisaca,11003,Machareti,2024,10,7 a 28 dias / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,7 a 28 dias / FEMENINO,2
+La Paz,21801,San Pedro De Curahuara,2024,11,7 a 28 dias / FEMENINO,0
+Potosí,50202,Chayanta,2024,12,7 a 28 dias / FEMENINO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,12,7 a 28 dias / FEMENINO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,TOTALES / DENTRO,110
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,TOTALES / DENTRO,104
+La Paz,20101,La Paz,2024,3,TOTALES / DENTRO,1
+Santa Cruz,70904,Quirusillas,2024,3,TOTALES / DENTRO,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,TOTALES / DENTRO,109
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,4,TOTALES / DENTRO,128
+Chuquisaca,10101,Sucre,2024,4,TOTALES / DENTRO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,TOTALES / DENTRO,98
+La Paz,20603,Tacacoma,2024,5,TOTALES / DENTRO,1
+La Paz,21306,Colquencha,2024,6,TOTALES / DENTRO,33
+Santa Cruz,71101,Concepcion,2024,6,TOTALES / DENTRO,8
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,TOTALES / DENTRO,2
+Beni,80101,Trinidad,2024,6,TOTALES / DENTRO,1
+Santa Cruz,71001,Montero,2024,7,TOTALES / DENTRO,1
+Santa Cruz,71104,San Julian,2024,7,TOTALES / DENTRO,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,TOTALES / DENTRO,3
+Chuquisaca,10101,Sucre,2024,7,TOTALES / DENTRO,0
+Oruro,40101,Oruro,2024,8,TOTALES / DENTRO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,TOTALES / DENTRO,2
+Chuquisaca,11003,Machareti,2024,10,TOTALES / DENTRO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,TOTALES / DENTRO,2
+La Paz,21801,San Pedro De Curahuara,2024,11,TOTALES / DENTRO,1
+Potosí,50202,Chayanta,2024,12,TOTALES / DENTRO,21
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,12,TOTALES / DENTRO,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,TOTALES / FUERA,124
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,TOTALES / FUERA,112
+La Paz,20101,La Paz,2024,3,TOTALES / FUERA,0
+Santa Cruz,70904,Quirusillas,2024,3,TOTALES / FUERA,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,TOTALES / FUERA,120
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,4,TOTALES / FUERA,91
+Chuquisaca,10101,Sucre,2024,4,TOTALES / FUERA,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,TOTALES / FUERA,101
+La Paz,20603,Tacacoma,2024,5,TOTALES / FUERA,0
+La Paz,21306,Colquencha,2024,6,TOTALES / FUERA,0
+Santa Cruz,71101,Concepcion,2024,6,TOTALES / FUERA,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,TOTALES / FUERA,1
+Beni,80101,Trinidad,2024,6,TOTALES / FUERA,0
+Santa Cruz,71001,Montero,2024,7,TOTALES / FUERA,0
+Santa Cruz,71104,San Julian,2024,7,TOTALES / FUERA,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,TOTALES / FUERA,4
+Chuquisaca,10101,Sucre,2024,7,TOTALES / FUERA,1
+Oruro,40101,Oruro,2024,8,TOTALES / FUERA,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,TOTALES / FUERA,2
+Chuquisaca,11003,Machareti,2024,10,TOTALES / FUERA,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,TOTALES / FUERA,3
+La Paz,21801,San Pedro De Curahuara,2024,11,TOTALES / FUERA,0
+Potosí,50202,Chayanta,2024,12,TOTALES / FUERA,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,12,TOTALES / FUERA,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,TOTALES / TOTAL,234
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,TOTALES / TOTAL,216
+La Paz,20101,La Paz,2024,3,TOTALES / TOTAL,1
+Santa Cruz,70904,Quirusillas,2024,3,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,TOTALES / TOTAL,229
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,4,TOTALES / TOTAL,219
+Chuquisaca,10101,Sucre,2024,4,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,TOTALES / TOTAL,199
+La Paz,20603,Tacacoma,2024,5,TOTALES / TOTAL,1
+La Paz,21306,Colquencha,2024,6,TOTALES / TOTAL,33
+Santa Cruz,71101,Concepcion,2024,6,TOTALES / TOTAL,8
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,TOTALES / TOTAL,3
+Beni,80101,Trinidad,2024,6,TOTALES / TOTAL,1
+Santa Cruz,71001,Montero,2024,7,TOTALES / TOTAL,1
+Santa Cruz,71104,San Julian,2024,7,TOTALES / TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,TOTALES / TOTAL,7
+Chuquisaca,10101,Sucre,2024,7,TOTALES / TOTAL,1
+Oruro,40101,Oruro,2024,8,TOTALES / TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,TOTALES / TOTAL,4
+Chuquisaca,11003,Machareti,2024,10,TOTALES / TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,TOTALES / TOTAL,5
+La Paz,21801,San Pedro De Curahuara,2024,11,TOTALES / TOTAL,1
+Potosí,50202,Chayanta,2024,12,TOTALES / TOTAL,21
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,12,TOTALES / TOTAL,1

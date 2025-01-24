@@ -1,0 +1,141 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70105,El Torno,2024,1,a. Nro. Eventos,2
+La Paz,20606,Tipuani,2024,1,a. Nro. Eventos,1
+La Paz,20701,Apolo,2024,2,a. Nro. Eventos,1
+Tarija,60202,Bermejo,2024,2,a. Nro. Eventos,1
+Pando,90103,Bolpebra,2024,2,a. Nro. Eventos,2
+Potosí,51103,Ckochas,2024,2,a. Nro. Eventos,1
+Pando,90101,Cobija,2024,2,a. Nro. Eventos,4
+Cochabamba,30905,Colcapirhua,2024,2,a. Nro. Eventos,1
+Potosí,50901,"Colcha ""k""",2024,2,a. Nro. Eventos,1
+La Paz,21602,Curva,2024,2,a. Nro. Eventos,1
+Oruro,40101,Oruro,2024,2,a. Nro. Eventos,2
+Pando,90102,Porvenir,2024,2,a. Nro. Eventos,1
+Cochabamba,31205,Puerto Villarroel,2024,2,a. Nro. Eventos,1
+Oruro,40104,Soracachi,2024,2,a. Nro. Eventos,1
+La Paz,20606,Tipuani,2024,2,a. Nro. Eventos,2
+Cochabamba,31303,Alalay,2024,3,a. Nro. Eventos,22
+Cochabamba,30403,Arbieto,2024,3,a. Nro. Eventos,0
+La Paz,21203,Batallas,2024,3,a. Nro. Eventos,1
+Pando,90104,Bella Flor,2024,3,a. Nro. Eventos,1
+Tarija,60202,Bermejo,2024,3,a. Nro. Eventos,2
+Oruro,40201,Challapata,2024,3,a. Nro. Eventos,6
+Potosí,51103,Ckochas,2024,3,a. Nro. Eventos,1
+Cochabamba,30801,Cliza,2024,3,a. Nro. Eventos,1
+Cochabamba,30101,Cochabamba,2024,3,a. Nro. Eventos,4
+Cochabamba,30905,Colcapirhua,2024,3,a. Nro. Eventos,2
+La Paz,21202,Laja,2024,3,a. Nro. Eventos,2
+Cochabamba,31301,Mizque,2024,3,a. Nro. Eventos,1
+Tarija,60202,Bermejo,2024,4,a. Nro. Eventos,2
+Cochabamba,31003,Villa Tunari,2024,4,a. Nro. Eventos,1
+Cochabamba,31205,Puerto Villarroel,2024,5,a. Nro. Eventos,1
+Chuquisaca,10903,Las Carreras,2024,10,a. Nro. Eventos,1
+Cochabamba,31204,Chimore,2024,12,a. Nro. Eventos,1
+Cochabamba,30905,Colcapirhua,2024,12,a. Nro. Eventos,2
+La Paz,20606,Tipuani,2024,12,a. Nro. Eventos,1
+Cochabamba,31003,Villa Tunari,2024,12,a. Nro. Eventos,1
+Santa Cruz,70105,El Torno,2024,1,b. Nro. Personas afectadas,1
+La Paz,20606,Tipuani,2024,1,b. Nro. Personas afectadas,480
+La Paz,20701,Apolo,2024,2,b. Nro. Personas afectadas,48
+Tarija,60202,Bermejo,2024,2,b. Nro. Personas afectadas,7
+Pando,90103,Bolpebra,2024,2,b. Nro. Personas afectadas,54
+Potosí,51103,Ckochas,2024,2,b. Nro. Personas afectadas,36
+Pando,90101,Cobija,2024,2,b. Nro. Personas afectadas,359
+Cochabamba,30905,Colcapirhua,2024,2,b. Nro. Personas afectadas,40
+Potosí,50901,"Colcha ""k""",2024,2,b. Nro. Personas afectadas,20
+La Paz,21602,Curva,2024,2,b. Nro. Personas afectadas,19
+Oruro,40101,Oruro,2024,2,b. Nro. Personas afectadas,325
+Pando,90102,Porvenir,2024,2,b. Nro. Personas afectadas,13
+Cochabamba,31205,Puerto Villarroel,2024,2,b. Nro. Personas afectadas,41
+Oruro,40104,Soracachi,2024,2,b. Nro. Personas afectadas,19
+La Paz,20606,Tipuani,2024,2,b. Nro. Personas afectadas,70
+Cochabamba,31303,Alalay,2024,3,b. Nro. Personas afectadas,0
+Cochabamba,30403,Arbieto,2024,3,b. Nro. Personas afectadas,21
+La Paz,21203,Batallas,2024,3,b. Nro. Personas afectadas,6
+Pando,90104,Bella Flor,2024,3,b. Nro. Personas afectadas,55
+Tarija,60202,Bermejo,2024,3,b. Nro. Personas afectadas,10
+Oruro,40201,Challapata,2024,3,b. Nro. Personas afectadas,16
+Potosí,51103,Ckochas,2024,3,b. Nro. Personas afectadas,36
+Cochabamba,30801,Cliza,2024,3,b. Nro. Personas afectadas,15
+Cochabamba,30101,Cochabamba,2024,3,b. Nro. Personas afectadas,10
+Cochabamba,30905,Colcapirhua,2024,3,b. Nro. Personas afectadas,57
+La Paz,21202,Laja,2024,3,b. Nro. Personas afectadas,0
+Cochabamba,31301,Mizque,2024,3,b. Nro. Personas afectadas,5
+Tarija,60202,Bermejo,2024,4,b. Nro. Personas afectadas,86
+Cochabamba,31003,Villa Tunari,2024,4,b. Nro. Personas afectadas,10
+Cochabamba,31205,Puerto Villarroel,2024,5,b. Nro. Personas afectadas,100
+Chuquisaca,10903,Las Carreras,2024,10,b. Nro. Personas afectadas,104
+Cochabamba,31204,Chimore,2024,12,b. Nro. Personas afectadas,24
+Cochabamba,30905,Colcapirhua,2024,12,b. Nro. Personas afectadas,730
+La Paz,20606,Tipuani,2024,12,b. Nro. Personas afectadas,6
+Cochabamba,31003,Villa Tunari,2024,12,b. Nro. Personas afectadas,53
+Santa Cruz,70105,El Torno,2024,1,c. Nro. Personas fallecidas,1
+La Paz,20606,Tipuani,2024,1,c. Nro. Personas fallecidas,5
+La Paz,20701,Apolo,2024,2,c. Nro. Personas fallecidas,0
+Tarija,60202,Bermejo,2024,2,c. Nro. Personas fallecidas,0
+Pando,90103,Bolpebra,2024,2,c. Nro. Personas fallecidas,0
+Potosí,51103,Ckochas,2024,2,c. Nro. Personas fallecidas,0
+Pando,90101,Cobija,2024,2,c. Nro. Personas fallecidas,0
+Cochabamba,30905,Colcapirhua,2024,2,c. Nro. Personas fallecidas,0
+Potosí,50901,"Colcha ""k""",2024,2,c. Nro. Personas fallecidas,0
+La Paz,21602,Curva,2024,2,c. Nro. Personas fallecidas,0
+Oruro,40101,Oruro,2024,2,c. Nro. Personas fallecidas,0
+Pando,90102,Porvenir,2024,2,c. Nro. Personas fallecidas,0
+Cochabamba,31205,Puerto Villarroel,2024,2,c. Nro. Personas fallecidas,0
+Oruro,40104,Soracachi,2024,2,c. Nro. Personas fallecidas,0
+La Paz,20606,Tipuani,2024,2,c. Nro. Personas fallecidas,0
+Cochabamba,31303,Alalay,2024,3,c. Nro. Personas fallecidas,0
+Cochabamba,30403,Arbieto,2024,3,c. Nro. Personas fallecidas,0
+La Paz,21203,Batallas,2024,3,c. Nro. Personas fallecidas,0
+Pando,90104,Bella Flor,2024,3,c. Nro. Personas fallecidas,0
+Tarija,60202,Bermejo,2024,3,c. Nro. Personas fallecidas,0
+Oruro,40201,Challapata,2024,3,c. Nro. Personas fallecidas,0
+Potosí,51103,Ckochas,2024,3,c. Nro. Personas fallecidas,0
+Cochabamba,30801,Cliza,2024,3,c. Nro. Personas fallecidas,0
+Cochabamba,30101,Cochabamba,2024,3,c. Nro. Personas fallecidas,0
+Cochabamba,30905,Colcapirhua,2024,3,c. Nro. Personas fallecidas,0
+La Paz,21202,Laja,2024,3,c. Nro. Personas fallecidas,0
+Cochabamba,31301,Mizque,2024,3,c. Nro. Personas fallecidas,0
+Tarija,60202,Bermejo,2024,4,c. Nro. Personas fallecidas,0
+Cochabamba,31003,Villa Tunari,2024,4,c. Nro. Personas fallecidas,0
+Cochabamba,31205,Puerto Villarroel,2024,5,c. Nro. Personas fallecidas,0
+Chuquisaca,10903,Las Carreras,2024,10,c. Nro. Personas fallecidas,0
+Cochabamba,31204,Chimore,2024,12,c. Nro. Personas fallecidas,0
+Cochabamba,30905,Colcapirhua,2024,12,c. Nro. Personas fallecidas,0
+La Paz,20606,Tipuani,2024,12,c. Nro. Personas fallecidas,0
+Cochabamba,31003,Villa Tunari,2024,12,c. Nro. Personas fallecidas,0
+Santa Cruz,70105,El Torno,2024,1,TOTAL,4
+La Paz,20606,Tipuani,2024,1,TOTAL,486
+La Paz,20701,Apolo,2024,2,TOTAL,49
+Tarija,60202,Bermejo,2024,2,TOTAL,8
+Pando,90103,Bolpebra,2024,2,TOTAL,56
+Potosí,51103,Ckochas,2024,2,TOTAL,37
+Pando,90101,Cobija,2024,2,TOTAL,363
+Cochabamba,30905,Colcapirhua,2024,2,TOTAL,41
+Potosí,50901,"Colcha ""k""",2024,2,TOTAL,21
+La Paz,21602,Curva,2024,2,TOTAL,20
+Oruro,40101,Oruro,2024,2,TOTAL,327
+Pando,90102,Porvenir,2024,2,TOTAL,14
+Cochabamba,31205,Puerto Villarroel,2024,2,TOTAL,42
+Oruro,40104,Soracachi,2024,2,TOTAL,20
+La Paz,20606,Tipuani,2024,2,TOTAL,72
+Cochabamba,31303,Alalay,2024,3,TOTAL,22
+Cochabamba,30403,Arbieto,2024,3,TOTAL,21
+La Paz,21203,Batallas,2024,3,TOTAL,7
+Pando,90104,Bella Flor,2024,3,TOTAL,56
+Tarija,60202,Bermejo,2024,3,TOTAL,12
+Oruro,40201,Challapata,2024,3,TOTAL,22
+Potosí,51103,Ckochas,2024,3,TOTAL,37
+Cochabamba,30801,Cliza,2024,3,TOTAL,16
+Cochabamba,30101,Cochabamba,2024,3,TOTAL,14
+Cochabamba,30905,Colcapirhua,2024,3,TOTAL,59
+La Paz,21202,Laja,2024,3,TOTAL,2
+Cochabamba,31301,Mizque,2024,3,TOTAL,6
+Tarija,60202,Bermejo,2024,4,TOTAL,88
+Cochabamba,31003,Villa Tunari,2024,4,TOTAL,11
+Cochabamba,31205,Puerto Villarroel,2024,5,TOTAL,101
+Chuquisaca,10903,Las Carreras,2024,10,TOTAL,105
+Cochabamba,31204,Chimore,2024,12,TOTAL,25
+Cochabamba,30905,Colcapirhua,2024,12,TOTAL,732
+La Paz,20606,Tipuani,2024,12,TOTAL,7
+Cochabamba,31003,Villa Tunari,2024,12,TOTAL,54

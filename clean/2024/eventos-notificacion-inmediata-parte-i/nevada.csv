@@ -1,0 +1,25 @@
+department,municipality_id,municipality,year,month,population,value
+Tarija,60601,Entre Rios Trj,2024,7,Nevada,1
+Santa Cruz,70804,Postrer Valle,2024,7,Nevada,2
+Santa Cruz,71301,Comarapa,2024,8,Nevada,1
+Chuquisaca,10401,Padilla,2024,8,Nevada,1
+Santa Cruz,70902,Pampa Grande,2024,8,Nevada,2
+Santa Cruz,70804,Postrer Valle,2024,10,Nevada,1
+Tarija,60601,Entre Rios Trj,2024,7,Nevada1,0
+Santa Cruz,70804,Postrer Valle,2024,7,Nevada1,0
+Santa Cruz,71301,Comarapa,2024,8,Nevada1,56
+Chuquisaca,10401,Padilla,2024,8,Nevada1,0
+Santa Cruz,70902,Pampa Grande,2024,8,Nevada1,50
+Santa Cruz,70804,Postrer Valle,2024,10,Nevada1,0
+Tarija,60601,Entre Rios Trj,2024,7,Nevada2,0
+Santa Cruz,70804,Postrer Valle,2024,7,Nevada2,0
+Santa Cruz,71301,Comarapa,2024,8,Nevada2,0
+Chuquisaca,10401,Padilla,2024,8,Nevada2,0
+Santa Cruz,70902,Pampa Grande,2024,8,Nevada2,0
+Santa Cruz,70804,Postrer Valle,2024,10,Nevada2,0
+Tarija,60601,Entre Rios Trj,2024,7,TOTAL,1
+Santa Cruz,70804,Postrer Valle,2024,7,TOTAL,2
+Santa Cruz,71301,Comarapa,2024,8,TOTAL,57
+Chuquisaca,10401,Padilla,2024,8,TOTAL,1
+Santa Cruz,70902,Pampa Grande,2024,8,TOTAL,52
+Santa Cruz,70804,Postrer Valle,2024,10,TOTAL,1

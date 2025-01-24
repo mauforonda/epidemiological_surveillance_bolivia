@@ -1,0 +1,157 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70702,Charagua,2024,2,a. Nro. Eventos,1
+La Paz,20101,La Paz,2024,2,a. Nro. Eventos,1
+Cochabamba,31001,Sacaba,2024,2,a. Nro. Eventos,1
+Oruro,40101,Oruro,2024,3,a. Nro. Eventos,1
+Chuquisaca,10702,San Lucas,2024,3,a. Nro. Eventos,1
+Potosí,51402,Tahua,2024,4,a. Nro. Eventos,1
+Chuquisaca,10903,Las Carreras,2024,5,a. Nro. Eventos,0
+Santa Cruz,70803,Moro Moro,2024,5,a. Nro. Eventos,4
+Chuquisaca,10401,Padilla,2024,5,a. Nro. Eventos,1
+Santa Cruz,70805,Pucara,2024,5,a. Nro. Eventos,1
+Chuquisaca,10702,San Lucas,2024,6,a. Nro. Eventos,1
+Santa Cruz,70302,San Miguel De Velasco,2024,6,a. Nro. Eventos,1
+Beni,80401,Santa Ana,2024,6,a. Nro. Eventos,0
+Santa Cruz,70802,Trigal,2024,6,a. Nro. Eventos,1
+Potosí,51103,Ckochas,2024,7,a. Nro. Eventos,3
+Santa Cruz,70803,Moro Moro,2024,7,a. Nro. Eventos,1
+Tarija,60201,Padcaya,2024,7,a. Nro. Eventos,1
+Santa Cruz,70805,Pucara,2024,7,a. Nro. Eventos,1
+Santa Cruz,71501,Ascencion De Guarayos,2024,8,a. Nro. Eventos,1
+Santa Cruz,71101,Concepcion,2024,8,a. Nro. Eventos,1
+Beni,80102,San Javier(bni),2024,8,a. Nro. Eventos,1
+Santa Cruz,70404,San Juan De Yapacani,2024,8,a. Nro. Eventos,0
+Santa Cruz,70802,Trigal,2024,8,a. Nro. Eventos,2
+La Paz,21202,Laja,2024,9,a. Nro. Eventos,1
+Beni,80301,Reyes,2024,9,a. Nro. Eventos,1
+Santa Cruz,71502,Urubicha,2024,9,a. Nro. Eventos,3
+Tarija,60202,Bermejo,2024,10,a. Nro. Eventos,1
+La Paz,21101,Chulumani (v. De La Libertad),2024,10,a. Nro. Eventos,0
+Chuquisaca,10101,Sucre,2024,10,a. Nro. Eventos,1
+Santa Cruz,71502,Urubicha,2024,10,a. Nro. Eventos,3
+Chuquisaca,10201,Azurduy,2024,11,a. Nro. Eventos,1
+Chuquisaca,10703,Incahuasi,2024,11,a. Nro. Eventos,0
+La Paz,20101,La Paz,2024,11,a. Nro. Eventos,1
+Potosí,51101,Puna,2024,11,a. Nro. Eventos,0
+Chuquisaca,10702,San Lucas,2024,11,a. Nro. Eventos,1
+Potosí,50602,Vitichi,2024,11,a. Nro. Eventos,1
+Potosí,50702,Caripuyo,2024,12,a. Nro. Eventos,0
+Chuquisaca,10501,Monteagudo,2024,12,a. Nro. Eventos,1
+Oruro,40402,Turco,2024,12,a. Nro. Eventos,0
+Santa Cruz,70702,Charagua,2024,2,b. Nro. Personas afectadas,4
+La Paz,20101,La Paz,2024,2,b. Nro. Personas afectadas,0
+Cochabamba,31001,Sacaba,2024,2,b. Nro. Personas afectadas,5
+Oruro,40101,Oruro,2024,3,b. Nro. Personas afectadas,17
+Chuquisaca,10702,San Lucas,2024,3,b. Nro. Personas afectadas,300
+Potosí,51402,Tahua,2024,4,b. Nro. Personas afectadas,64
+Chuquisaca,10903,Las Carreras,2024,5,b. Nro. Personas afectadas,0
+Santa Cruz,70803,Moro Moro,2024,5,b. Nro. Personas afectadas,0
+Chuquisaca,10401,Padilla,2024,5,b. Nro. Personas afectadas,5
+Santa Cruz,70805,Pucara,2024,5,b. Nro. Personas afectadas,0
+Chuquisaca,10702,San Lucas,2024,6,b. Nro. Personas afectadas,30
+Santa Cruz,70302,San Miguel De Velasco,2024,6,b. Nro. Personas afectadas,1000
+Beni,80401,Santa Ana,2024,6,b. Nro. Personas afectadas,3
+Santa Cruz,70802,Trigal,2024,6,b. Nro. Personas afectadas,15
+Potosí,51103,Ckochas,2024,7,b. Nro. Personas afectadas,5
+Santa Cruz,70803,Moro Moro,2024,7,b. Nro. Personas afectadas,0
+Tarija,60201,Padcaya,2024,7,b. Nro. Personas afectadas,0
+Santa Cruz,70805,Pucara,2024,7,b. Nro. Personas afectadas,0
+Santa Cruz,71501,Ascencion De Guarayos,2024,8,b. Nro. Personas afectadas,62
+Santa Cruz,71101,Concepcion,2024,8,b. Nro. Personas afectadas,69
+Beni,80102,San Javier(bni),2024,8,b. Nro. Personas afectadas,40
+Santa Cruz,70404,San Juan De Yapacani,2024,8,b. Nro. Personas afectadas,5
+Santa Cruz,70802,Trigal,2024,8,b. Nro. Personas afectadas,27
+La Paz,21202,Laja,2024,9,b. Nro. Personas afectadas,11
+Beni,80301,Reyes,2024,9,b. Nro. Personas afectadas,5
+Santa Cruz,71502,Urubicha,2024,9,b. Nro. Personas afectadas,0
+Tarija,60202,Bermejo,2024,10,b. Nro. Personas afectadas,0
+La Paz,21101,Chulumani (v. De La Libertad),2024,10,b. Nro. Personas afectadas,0
+Chuquisaca,10101,Sucre,2024,10,b. Nro. Personas afectadas,1
+Santa Cruz,71502,Urubicha,2024,10,b. Nro. Personas afectadas,0
+Chuquisaca,10201,Azurduy,2024,11,b. Nro. Personas afectadas,3
+Chuquisaca,10703,Incahuasi,2024,11,b. Nro. Personas afectadas,0
+La Paz,20101,La Paz,2024,11,b. Nro. Personas afectadas,135
+Potosí,51101,Puna,2024,11,b. Nro. Personas afectadas,0
+Chuquisaca,10702,San Lucas,2024,11,b. Nro. Personas afectadas,2
+Potosí,50602,Vitichi,2024,11,b. Nro. Personas afectadas,0
+Potosí,50702,Caripuyo,2024,12,b. Nro. Personas afectadas,1
+Chuquisaca,10501,Monteagudo,2024,12,b. Nro. Personas afectadas,2
+Oruro,40402,Turco,2024,12,b. Nro. Personas afectadas,0
+Santa Cruz,70702,Charagua,2024,2,c. Nro. Personas fallecidas,0
+La Paz,20101,La Paz,2024,2,c. Nro. Personas fallecidas,0
+Cochabamba,31001,Sacaba,2024,2,c. Nro. Personas fallecidas,0
+Oruro,40101,Oruro,2024,3,c. Nro. Personas fallecidas,0
+Chuquisaca,10702,San Lucas,2024,3,c. Nro. Personas fallecidas,0
+Potosí,51402,Tahua,2024,4,c. Nro. Personas fallecidas,0
+Chuquisaca,10903,Las Carreras,2024,5,c. Nro. Personas fallecidas,1
+Santa Cruz,70803,Moro Moro,2024,5,c. Nro. Personas fallecidas,0
+Chuquisaca,10401,Padilla,2024,5,c. Nro. Personas fallecidas,0
+Santa Cruz,70805,Pucara,2024,5,c. Nro. Personas fallecidas,0
+Chuquisaca,10702,San Lucas,2024,6,c. Nro. Personas fallecidas,0
+Santa Cruz,70302,San Miguel De Velasco,2024,6,c. Nro. Personas fallecidas,0
+Beni,80401,Santa Ana,2024,6,c. Nro. Personas fallecidas,7
+Santa Cruz,70802,Trigal,2024,6,c. Nro. Personas fallecidas,0
+Potosí,51103,Ckochas,2024,7,c. Nro. Personas fallecidas,0
+Santa Cruz,70803,Moro Moro,2024,7,c. Nro. Personas fallecidas,0
+Tarija,60201,Padcaya,2024,7,c. Nro. Personas fallecidas,0
+Santa Cruz,70805,Pucara,2024,7,c. Nro. Personas fallecidas,0
+Santa Cruz,71501,Ascencion De Guarayos,2024,8,c. Nro. Personas fallecidas,0
+Santa Cruz,71101,Concepcion,2024,8,c. Nro. Personas fallecidas,240
+Beni,80102,San Javier(bni),2024,8,c. Nro. Personas fallecidas,0
+Santa Cruz,70404,San Juan De Yapacani,2024,8,c. Nro. Personas fallecidas,0
+Santa Cruz,70802,Trigal,2024,8,c. Nro. Personas fallecidas,0
+La Paz,21202,Laja,2024,9,c. Nro. Personas fallecidas,0
+Beni,80301,Reyes,2024,9,c. Nro. Personas fallecidas,0
+Santa Cruz,71502,Urubicha,2024,9,c. Nro. Personas fallecidas,0
+Tarija,60202,Bermejo,2024,10,c. Nro. Personas fallecidas,0
+La Paz,21101,Chulumani (v. De La Libertad),2024,10,c. Nro. Personas fallecidas,1
+Chuquisaca,10101,Sucre,2024,10,c. Nro. Personas fallecidas,1
+Santa Cruz,71502,Urubicha,2024,10,c. Nro. Personas fallecidas,0
+Chuquisaca,10201,Azurduy,2024,11,c. Nro. Personas fallecidas,0
+Chuquisaca,10703,Incahuasi,2024,11,c. Nro. Personas fallecidas,1
+La Paz,20101,La Paz,2024,11,c. Nro. Personas fallecidas,1
+Potosí,51101,Puna,2024,11,c. Nro. Personas fallecidas,1
+Chuquisaca,10702,San Lucas,2024,11,c. Nro. Personas fallecidas,2
+Potosí,50602,Vitichi,2024,11,c. Nro. Personas fallecidas,0
+Potosí,50702,Caripuyo,2024,12,c. Nro. Personas fallecidas,0
+Chuquisaca,10501,Monteagudo,2024,12,c. Nro. Personas fallecidas,1
+Oruro,40402,Turco,2024,12,c. Nro. Personas fallecidas,1
+Santa Cruz,70702,Charagua,2024,2,TOTAL,5
+La Paz,20101,La Paz,2024,2,TOTAL,1
+Cochabamba,31001,Sacaba,2024,2,TOTAL,6
+Oruro,40101,Oruro,2024,3,TOTAL,18
+Chuquisaca,10702,San Lucas,2024,3,TOTAL,301
+Potosí,51402,Tahua,2024,4,TOTAL,65
+Chuquisaca,10903,Las Carreras,2024,5,TOTAL,1
+Santa Cruz,70803,Moro Moro,2024,5,TOTAL,4
+Chuquisaca,10401,Padilla,2024,5,TOTAL,6
+Santa Cruz,70805,Pucara,2024,5,TOTAL,1
+Chuquisaca,10702,San Lucas,2024,6,TOTAL,31
+Santa Cruz,70302,San Miguel De Velasco,2024,6,TOTAL,1001
+Beni,80401,Santa Ana,2024,6,TOTAL,10
+Santa Cruz,70802,Trigal,2024,6,TOTAL,16
+Potosí,51103,Ckochas,2024,7,TOTAL,8
+Santa Cruz,70803,Moro Moro,2024,7,TOTAL,1
+Tarija,60201,Padcaya,2024,7,TOTAL,1
+Santa Cruz,70805,Pucara,2024,7,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2024,8,TOTAL,63
+Santa Cruz,71101,Concepcion,2024,8,TOTAL,310
+Beni,80102,San Javier(bni),2024,8,TOTAL,41
+Santa Cruz,70404,San Juan De Yapacani,2024,8,TOTAL,5
+Santa Cruz,70802,Trigal,2024,8,TOTAL,29
+La Paz,21202,Laja,2024,9,TOTAL,12
+Beni,80301,Reyes,2024,9,TOTAL,6
+Santa Cruz,71502,Urubicha,2024,9,TOTAL,3
+Tarija,60202,Bermejo,2024,10,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2024,10,TOTAL,1
+Chuquisaca,10101,Sucre,2024,10,TOTAL,3
+Santa Cruz,71502,Urubicha,2024,10,TOTAL,3
+Chuquisaca,10201,Azurduy,2024,11,TOTAL,4
+Chuquisaca,10703,Incahuasi,2024,11,TOTAL,1
+La Paz,20101,La Paz,2024,11,TOTAL,137
+Potosí,51101,Puna,2024,11,TOTAL,1
+Chuquisaca,10702,San Lucas,2024,11,TOTAL,5
+Potosí,50602,Vitichi,2024,11,TOTAL,1
+Potosí,50702,Caripuyo,2024,12,TOTAL,1
+Chuquisaca,10501,Monteagudo,2024,12,TOTAL,4
+Oruro,40402,Turco,2024,12,TOTAL,1

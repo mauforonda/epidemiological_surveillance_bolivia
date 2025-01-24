@@ -1,0 +1,437 @@
+department,municipality_id,municipality,year,month,population,value
+Pando,90203,Filadelfia,2024,2,Nevada,1
+Tarija,60301,Yacuiba,2024,2,Nevada,1
+Cochabamba,31301,Mizque,2024,5,Nevada,1
+Santa Cruz,70403,Yapacani,2024,5,Nevada,2
+Cochabamba,30403,Arbieto,2024,6,Nevada,2
+Santa Cruz,71402,Puerto Quijarro,2024,6,Nevada,1
+Santa Cruz,71401,Puerto Suarez,2024,6,Nevada,2
+Santa Cruz,70503,Robore,2024,6,Nevada,2
+Chuquisaca,10202,Tarvita,2024,6,Nevada,2
+Santa Cruz,70706,Camiri,2024,7,Nevada,1
+Santa Cruz,71403,Carmen Rivero Torrez,2024,7,Nevada,2
+La Paz,21401,Coroico,2024,7,Nevada,1
+Cochabamba,31203,Pocona,2024,7,Nevada,1
+Santa Cruz,70503,Robore,2024,7,Nevada,7
+Cochabamba,31001,Sacaba,2024,7,Nevada,2
+Tarija,60501,San Lorenzo(tja),2024,7,Nevada,1
+Santa Cruz,71201,San Matias,2024,7,Nevada,1
+Santa Cruz,70302,San Miguel De Velasco,2024,7,Nevada,1
+Santa Cruz,70303,San Rafael,2024,7,Nevada,2
+Tarija,60101,Tarija,2024,7,Nevada,1
+Santa Cruz,70403,Yapacani,2024,7,Nevada,2
+Santa Cruz,71403,Carmen Rivero Torrez,2024,8,Nevada,0
+Cochabamba,31002,Colomi,2024,8,Nevada,2
+Santa Cruz,71101,Concepcion,2024,8,Nevada,5
+Potosí,50601,Cotagaita,2024,8,Nevada,1
+Santa Cruz,71503,El Puente(stc),2024,8,Nevada,1
+Beni,80801,Magdalena,2024,8,Nevada,1
+Cochabamba,31301,Mizque,2024,8,Nevada,2
+Cochabamba,30302,Morochata,2024,8,Nevada,1
+Santa Cruz,71401,Puerto Suarez,2024,8,Nevada,1
+Beni,80201,Riberalta,2024,8,Nevada,5
+Santa Cruz,70503,Robore,2024,8,Nevada,2
+Cochabamba,31001,Sacaba,2024,8,Nevada,1
+Santa Cruz,70901,Samaipata,2024,8,Nevada,1
+Santa Cruz,71105,San Antonio De Lomerio,2024,8,Nevada,3
+Santa Cruz,70301,San Ignacio De Velasco,2024,8,Nevada,11
+Chuquisaca,10101,Sucre,2024,8,Nevada,2
+Tarija,60101,Tarija,2024,8,Nevada,1
+Tarija,60401,Uriondo (a. Concepcion),2024,8,Nevada,1
+Santa Cruz,71502,Urubicha,2024,8,Nevada,4
+Chuquisaca,10704,Villa Charcas,2024,8,Nevada,2
+Tarija,60303,Villa Montes,2024,8,Nevada,1
+Cochabamba,30402,Anzaldo,2024,9,Nevada,1
+Cochabamba,30601,Arque,2024,9,Nevada,1
+Santa Cruz,71501,Ascencion De Guarayos,2024,9,Nevada,9
+Potosí,50301,Betanzos,2024,9,Nevada,1
+Cochabamba,31002,Colomi,2024,9,Nevada,1
+La Paz,20304,Comanche,2024,9,Nevada,1
+Santa Cruz,71301,Comarapa,2024,9,Nevada,2
+Santa Cruz,71101,Concepcion,2024,9,Nevada,1
+La Paz,21401,Coroico,2024,9,Nevada,1
+Chuquisaca,10902,Culpina,2024,9,Nevada,1
+Tarija,60601,Entre Rios Trj,2024,9,Nevada,1
+Beni,80202,Guayaramerin,2024,9,Nevada,1
+La Paz,21102,Irupana (villa De Lanza),2024,9,Nevada,1
+La Paz,21202,Laja,2024,9,Nevada,1
+Beni,80801,Magdalena,2024,9,Nevada,2
+Santa Cruz,70903,Mairana,2024,9,Nevada,2
+Santa Cruz,70502,Pailon,2024,9,Nevada,2
+Santa Cruz,70902,Pampa Grande,2024,9,Nevada,1
+Santa Cruz,70804,Postrer Valle,2024,9,Nevada,1
+Beni,80301,Reyes,2024,9,Nevada,1
+Santa Cruz,70503,Robore,2024,9,Nevada,1
+Santa Cruz,70901,Samaipata,2024,9,Nevada,1
+Santa Cruz,71105,San Antonio De Lomerio,2024,9,Nevada,1
+La Paz,21502,San Buena Ventura,2024,9,Nevada,1
+Santa Cruz,70301,San Ignacio De Velasco,2024,9,Nevada,6
+Pando,90302,San Lorenzo(pnd),2024,9,Nevada,1
+Santa Cruz,71201,San Matias,2024,9,Nevada,5
+Santa Cruz,70302,San Miguel De Velasco,2024,9,Nevada,1
+Santa Cruz,70602,Santa Rosa Del Sara,2024,9,Nevada,5
+Chuquisaca,10601,Tarabuco,2024,9,Nevada,1
+Cochabamba,31201,Totora(cbba),2024,9,Nevada,1
+Beni,80101,Trinidad,2024,9,Nevada,1
+Santa Cruz,71502,Urubicha,2024,9,Nevada,2
+Tarija,60301,Yacuiba,2024,9,Nevada,1
+La Paz,21103,Yanacachi,2024,9,Nevada,1
+Chuquisaca,10301,Zudañez,2024,9,Nevada,1
+Santa Cruz,71501,Ascencion De Guarayos,2024,10,Nevada,3
+Santa Cruz,70703,Cabezas,2024,10,Nevada,1
+La Paz,21003,Cajuata,2024,10,Nevada,1
+Santa Cruz,70706,Camiri,2024,10,Nevada,1
+Cochabamba,31002,Colomi,2024,10,Nevada,3
+La Paz,21401,Coroico,2024,10,Nevada,1
+La Paz,21102,Irupana (villa De Lanza),2024,10,Nevada,1
+La Paz,21501,Ixiamas,2024,10,Nevada,6
+La Paz,20806,Jesus De Machaca,2024,10,Nevada,1
+Santa Cruz,70701,Lagunillas,2024,10,Nevada,1
+Santa Cruz,70903,Mairana,2024,10,Nevada,1
+Chuquisaca,10401,Padilla,2024,10,Nevada,1
+Chuquisaca,10103,Poroma,2024,10,Nevada,1
+Santa Cruz,70804,Postrer Valle,2024,10,Nevada,2
+Pando,90301,Puerto Gonzalo Moreno,2024,10,Nevada,3
+Santa Cruz,71401,Puerto Suarez,2024,10,Nevada,1
+La Paz,21002,Quime,2024,10,Nevada,1
+Santa Cruz,70503,Robore,2024,10,Nevada,4
+Cochabamba,31001,Sacaba,2024,10,Nevada,3
+Santa Cruz,70901,Samaipata,2024,10,Nevada,2
+Santa Cruz,70301,San Ignacio De Velasco,2024,10,Nevada,2
+Pando,90202,San Pedro(pnd),2024,10,Nevada,2
+Santa Cruz,70602,Santa Rosa Del Sara,2024,10,Nevada,1
+Chuquisaca,10202,Tarvita,2024,10,Nevada,1
+Cochabamba,31201,Totora(cbba),2024,10,Nevada,1
+Beni,80101,Trinidad,2024,10,Nevada,5
+Cochabamba,30502,Vacas,2024,10,Nevada,1
+Santa Cruz,70801,Vallegrande,2024,10,Nevada,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2024,10,Nevada,1
+Santa Cruz,71501,Ascencion De Guarayos,2024,11,Nevada,1
+Santa Cruz,70702,Charagua,2024,11,Nevada,1
+Pando,90203,Filadelfia,2024,2,Nevada1,14
+Tarija,60301,Yacuiba,2024,2,Nevada1,7
+Cochabamba,31301,Mizque,2024,5,Nevada1,0
+Santa Cruz,70403,Yapacani,2024,5,Nevada1,0
+Cochabamba,30403,Arbieto,2024,6,Nevada1,0
+Santa Cruz,71402,Puerto Quijarro,2024,6,Nevada1,0
+Santa Cruz,71401,Puerto Suarez,2024,6,Nevada1,0
+Santa Cruz,70503,Robore,2024,6,Nevada1,0
+Chuquisaca,10202,Tarvita,2024,6,Nevada1,14
+Santa Cruz,70706,Camiri,2024,7,Nevada1,0
+Santa Cruz,71403,Carmen Rivero Torrez,2024,7,Nevada1,23
+La Paz,21401,Coroico,2024,7,Nevada1,0
+Cochabamba,31203,Pocona,2024,7,Nevada1,39
+Santa Cruz,70503,Robore,2024,7,Nevada1,160
+Cochabamba,31001,Sacaba,2024,7,Nevada1,0
+Tarija,60501,San Lorenzo(tja),2024,7,Nevada1,0
+Santa Cruz,71201,San Matias,2024,7,Nevada1,200
+Santa Cruz,70302,San Miguel De Velasco,2024,7,Nevada1,1
+Santa Cruz,70303,San Rafael,2024,7,Nevada1,0
+Tarija,60101,Tarija,2024,7,Nevada1,15
+Santa Cruz,70403,Yapacani,2024,7,Nevada1,0
+Santa Cruz,71403,Carmen Rivero Torrez,2024,8,Nevada1,3
+Cochabamba,31002,Colomi,2024,8,Nevada1,0
+Santa Cruz,71101,Concepcion,2024,8,Nevada1,356
+Potosí,50601,Cotagaita,2024,8,Nevada1,3
+Santa Cruz,71503,El Puente(stc),2024,8,Nevada1,31
+Beni,80801,Magdalena,2024,8,Nevada1,0
+Cochabamba,31301,Mizque,2024,8,Nevada1,3
+Cochabamba,30302,Morochata,2024,8,Nevada1,3
+Santa Cruz,71401,Puerto Suarez,2024,8,Nevada1,14
+Beni,80201,Riberalta,2024,8,Nevada1,0
+Santa Cruz,70503,Robore,2024,8,Nevada1,0
+Cochabamba,31001,Sacaba,2024,8,Nevada1,0
+Santa Cruz,70901,Samaipata,2024,8,Nevada1,0
+Santa Cruz,71105,San Antonio De Lomerio,2024,8,Nevada1,0
+Santa Cruz,70301,San Ignacio De Velasco,2024,8,Nevada1,0
+Chuquisaca,10101,Sucre,2024,8,Nevada1,0
+Tarija,60101,Tarija,2024,8,Nevada1,3
+Tarija,60401,Uriondo (a. Concepcion),2024,8,Nevada1,10
+Santa Cruz,71502,Urubicha,2024,8,Nevada1,0
+Chuquisaca,10704,Villa Charcas,2024,8,Nevada1,40
+Tarija,60303,Villa Montes,2024,8,Nevada1,10
+Cochabamba,30402,Anzaldo,2024,9,Nevada1,5
+Cochabamba,30601,Arque,2024,9,Nevada1,1
+Santa Cruz,71501,Ascencion De Guarayos,2024,9,Nevada1,98
+Potosí,50301,Betanzos,2024,9,Nevada1,0
+Cochabamba,31002,Colomi,2024,9,Nevada1,0
+La Paz,20304,Comanche,2024,9,Nevada1,5
+Santa Cruz,71301,Comarapa,2024,9,Nevada1,2
+Santa Cruz,71101,Concepcion,2024,9,Nevada1,710
+La Paz,21401,Coroico,2024,9,Nevada1,0
+Chuquisaca,10902,Culpina,2024,9,Nevada1,0
+Tarija,60601,Entre Rios Trj,2024,9,Nevada1,0
+Beni,80202,Guayaramerin,2024,9,Nevada1,23
+La Paz,21102,Irupana (villa De Lanza),2024,9,Nevada1,0
+La Paz,21202,Laja,2024,9,Nevada1,8
+Beni,80801,Magdalena,2024,9,Nevada1,0
+Santa Cruz,70903,Mairana,2024,9,Nevada1,63
+Santa Cruz,70502,Pailon,2024,9,Nevada1,27
+Santa Cruz,70902,Pampa Grande,2024,9,Nevada1,10
+Santa Cruz,70804,Postrer Valle,2024,9,Nevada1,0
+Beni,80301,Reyes,2024,9,Nevada1,50
+Santa Cruz,70503,Robore,2024,9,Nevada1,0
+Santa Cruz,70901,Samaipata,2024,9,Nevada1,0
+Santa Cruz,71105,San Antonio De Lomerio,2024,9,Nevada1,0
+La Paz,21502,San Buena Ventura,2024,9,Nevada1,0
+Santa Cruz,70301,San Ignacio De Velasco,2024,9,Nevada1,3
+Pando,90302,San Lorenzo(pnd),2024,9,Nevada1,0
+Santa Cruz,71201,San Matias,2024,9,Nevada1,35
+Santa Cruz,70302,San Miguel De Velasco,2024,9,Nevada1,10
+Santa Cruz,70602,Santa Rosa Del Sara,2024,9,Nevada1,0
+Chuquisaca,10601,Tarabuco,2024,9,Nevada1,0
+Cochabamba,31201,Totora(cbba),2024,9,Nevada1,0
+Beni,80101,Trinidad,2024,9,Nevada1,48
+Santa Cruz,71502,Urubicha,2024,9,Nevada1,0
+Tarija,60301,Yacuiba,2024,9,Nevada1,0
+La Paz,21103,Yanacachi,2024,9,Nevada1,0
+Chuquisaca,10301,Zudañez,2024,9,Nevada1,0
+Santa Cruz,71501,Ascencion De Guarayos,2024,10,Nevada1,0
+Santa Cruz,70703,Cabezas,2024,10,Nevada1,30
+La Paz,21003,Cajuata,2024,10,Nevada1,0
+Santa Cruz,70706,Camiri,2024,10,Nevada1,0
+Cochabamba,31002,Colomi,2024,10,Nevada1,0
+La Paz,21401,Coroico,2024,10,Nevada1,0
+La Paz,21102,Irupana (villa De Lanza),2024,10,Nevada1,0
+La Paz,21501,Ixiamas,2024,10,Nevada1,75
+La Paz,20806,Jesus De Machaca,2024,10,Nevada1,3
+Santa Cruz,70701,Lagunillas,2024,10,Nevada1,0
+Santa Cruz,70903,Mairana,2024,10,Nevada1,1
+Chuquisaca,10401,Padilla,2024,10,Nevada1,0
+Chuquisaca,10103,Poroma,2024,10,Nevada1,1
+Santa Cruz,70804,Postrer Valle,2024,10,Nevada1,0
+Pando,90301,Puerto Gonzalo Moreno,2024,10,Nevada1,2
+Santa Cruz,71401,Puerto Suarez,2024,10,Nevada1,0
+La Paz,21002,Quime,2024,10,Nevada1,0
+Santa Cruz,70503,Robore,2024,10,Nevada1,1177
+Cochabamba,31001,Sacaba,2024,10,Nevada1,0
+Santa Cruz,70901,Samaipata,2024,10,Nevada1,15
+Santa Cruz,70301,San Ignacio De Velasco,2024,10,Nevada1,0
+Pando,90202,San Pedro(pnd),2024,10,Nevada1,25
+Santa Cruz,70602,Santa Rosa Del Sara,2024,10,Nevada1,0
+Chuquisaca,10202,Tarvita,2024,10,Nevada1,10
+Cochabamba,31201,Totora(cbba),2024,10,Nevada1,0
+Beni,80101,Trinidad,2024,10,Nevada1,0
+Cochabamba,30502,Vacas,2024,10,Nevada1,1
+Santa Cruz,70801,Vallegrande,2024,10,Nevada1,7
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2024,10,Nevada1,30
+Santa Cruz,71501,Ascencion De Guarayos,2024,11,Nevada1,41
+Santa Cruz,70702,Charagua,2024,11,Nevada1,0
+Pando,90203,Filadelfia,2024,2,Nevada2,0
+Tarija,60301,Yacuiba,2024,2,Nevada2,0
+Cochabamba,31301,Mizque,2024,5,Nevada2,0
+Santa Cruz,70403,Yapacani,2024,5,Nevada2,0
+Cochabamba,30403,Arbieto,2024,6,Nevada2,0
+Santa Cruz,71402,Puerto Quijarro,2024,6,Nevada2,0
+Santa Cruz,71401,Puerto Suarez,2024,6,Nevada2,0
+Santa Cruz,70503,Robore,2024,6,Nevada2,0
+Chuquisaca,10202,Tarvita,2024,6,Nevada2,0
+Santa Cruz,70706,Camiri,2024,7,Nevada2,0
+Santa Cruz,71403,Carmen Rivero Torrez,2024,7,Nevada2,0
+La Paz,21401,Coroico,2024,7,Nevada2,0
+Cochabamba,31203,Pocona,2024,7,Nevada2,0
+Santa Cruz,70503,Robore,2024,7,Nevada2,0
+Cochabamba,31001,Sacaba,2024,7,Nevada2,0
+Tarija,60501,San Lorenzo(tja),2024,7,Nevada2,0
+Santa Cruz,71201,San Matias,2024,7,Nevada2,0
+Santa Cruz,70302,San Miguel De Velasco,2024,7,Nevada2,0
+Santa Cruz,70303,San Rafael,2024,7,Nevada2,0
+Tarija,60101,Tarija,2024,7,Nevada2,0
+Santa Cruz,70403,Yapacani,2024,7,Nevada2,0
+Santa Cruz,71403,Carmen Rivero Torrez,2024,8,Nevada2,0
+Cochabamba,31002,Colomi,2024,8,Nevada2,0
+Santa Cruz,71101,Concepcion,2024,8,Nevada2,700
+Potosí,50601,Cotagaita,2024,8,Nevada2,0
+Santa Cruz,71503,El Puente(stc),2024,8,Nevada2,0
+Beni,80801,Magdalena,2024,8,Nevada2,0
+Cochabamba,31301,Mizque,2024,8,Nevada2,0
+Cochabamba,30302,Morochata,2024,8,Nevada2,0
+Santa Cruz,71401,Puerto Suarez,2024,8,Nevada2,0
+Beni,80201,Riberalta,2024,8,Nevada2,0
+Santa Cruz,70503,Robore,2024,8,Nevada2,0
+Cochabamba,31001,Sacaba,2024,8,Nevada2,0
+Santa Cruz,70901,Samaipata,2024,8,Nevada2,0
+Santa Cruz,71105,San Antonio De Lomerio,2024,8,Nevada2,0
+Santa Cruz,70301,San Ignacio De Velasco,2024,8,Nevada2,0
+Chuquisaca,10101,Sucre,2024,8,Nevada2,0
+Tarija,60101,Tarija,2024,8,Nevada2,0
+Tarija,60401,Uriondo (a. Concepcion),2024,8,Nevada2,0
+Santa Cruz,71502,Urubicha,2024,8,Nevada2,0
+Chuquisaca,10704,Villa Charcas,2024,8,Nevada2,0
+Tarija,60303,Villa Montes,2024,8,Nevada2,0
+Cochabamba,30402,Anzaldo,2024,9,Nevada2,0
+Cochabamba,30601,Arque,2024,9,Nevada2,0
+Santa Cruz,71501,Ascencion De Guarayos,2024,9,Nevada2,0
+Potosí,50301,Betanzos,2024,9,Nevada2,0
+Cochabamba,31002,Colomi,2024,9,Nevada2,0
+La Paz,20304,Comanche,2024,9,Nevada2,0
+Santa Cruz,71301,Comarapa,2024,9,Nevada2,0
+Santa Cruz,71101,Concepcion,2024,9,Nevada2,0
+La Paz,21401,Coroico,2024,9,Nevada2,0
+Chuquisaca,10902,Culpina,2024,9,Nevada2,0
+Tarija,60601,Entre Rios Trj,2024,9,Nevada2,0
+Beni,80202,Guayaramerin,2024,9,Nevada2,0
+La Paz,21102,Irupana (villa De Lanza),2024,9,Nevada2,0
+La Paz,21202,Laja,2024,9,Nevada2,0
+Beni,80801,Magdalena,2024,9,Nevada2,0
+Santa Cruz,70903,Mairana,2024,9,Nevada2,0
+Santa Cruz,70502,Pailon,2024,9,Nevada2,0
+Santa Cruz,70902,Pampa Grande,2024,9,Nevada2,0
+Santa Cruz,70804,Postrer Valle,2024,9,Nevada2,0
+Beni,80301,Reyes,2024,9,Nevada2,0
+Santa Cruz,70503,Robore,2024,9,Nevada2,0
+Santa Cruz,70901,Samaipata,2024,9,Nevada2,0
+Santa Cruz,71105,San Antonio De Lomerio,2024,9,Nevada2,0
+La Paz,21502,San Buena Ventura,2024,9,Nevada2,0
+Santa Cruz,70301,San Ignacio De Velasco,2024,9,Nevada2,0
+Pando,90302,San Lorenzo(pnd),2024,9,Nevada2,0
+Santa Cruz,71201,San Matias,2024,9,Nevada2,0
+Santa Cruz,70302,San Miguel De Velasco,2024,9,Nevada2,0
+Santa Cruz,70602,Santa Rosa Del Sara,2024,9,Nevada2,0
+Chuquisaca,10601,Tarabuco,2024,9,Nevada2,0
+Cochabamba,31201,Totora(cbba),2024,9,Nevada2,0
+Beni,80101,Trinidad,2024,9,Nevada2,0
+Santa Cruz,71502,Urubicha,2024,9,Nevada2,0
+Tarija,60301,Yacuiba,2024,9,Nevada2,0
+La Paz,21103,Yanacachi,2024,9,Nevada2,0
+Chuquisaca,10301,Zudañez,2024,9,Nevada2,0
+Santa Cruz,71501,Ascencion De Guarayos,2024,10,Nevada2,0
+Santa Cruz,70703,Cabezas,2024,10,Nevada2,0
+La Paz,21003,Cajuata,2024,10,Nevada2,0
+Santa Cruz,70706,Camiri,2024,10,Nevada2,0
+Cochabamba,31002,Colomi,2024,10,Nevada2,0
+La Paz,21401,Coroico,2024,10,Nevada2,0
+La Paz,21102,Irupana (villa De Lanza),2024,10,Nevada2,0
+La Paz,21501,Ixiamas,2024,10,Nevada2,0
+La Paz,20806,Jesus De Machaca,2024,10,Nevada2,0
+Santa Cruz,70701,Lagunillas,2024,10,Nevada2,0
+Santa Cruz,70903,Mairana,2024,10,Nevada2,0
+Chuquisaca,10401,Padilla,2024,10,Nevada2,0
+Chuquisaca,10103,Poroma,2024,10,Nevada2,1
+Santa Cruz,70804,Postrer Valle,2024,10,Nevada2,0
+Pando,90301,Puerto Gonzalo Moreno,2024,10,Nevada2,0
+Santa Cruz,71401,Puerto Suarez,2024,10,Nevada2,0
+La Paz,21002,Quime,2024,10,Nevada2,0
+Santa Cruz,70503,Robore,2024,10,Nevada2,0
+Cochabamba,31001,Sacaba,2024,10,Nevada2,0
+Santa Cruz,70901,Samaipata,2024,10,Nevada2,0
+Santa Cruz,70301,San Ignacio De Velasco,2024,10,Nevada2,0
+Pando,90202,San Pedro(pnd),2024,10,Nevada2,0
+Santa Cruz,70602,Santa Rosa Del Sara,2024,10,Nevada2,0
+Chuquisaca,10202,Tarvita,2024,10,Nevada2,0
+Cochabamba,31201,Totora(cbba),2024,10,Nevada2,0
+Beni,80101,Trinidad,2024,10,Nevada2,0
+Cochabamba,30502,Vacas,2024,10,Nevada2,0
+Santa Cruz,70801,Vallegrande,2024,10,Nevada2,7
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2024,10,Nevada2,0
+Santa Cruz,71501,Ascencion De Guarayos,2024,11,Nevada2,0
+Santa Cruz,70702,Charagua,2024,11,Nevada2,0
+Pando,90203,Filadelfia,2024,2,TOTAL,15
+Tarija,60301,Yacuiba,2024,2,TOTAL,8
+Cochabamba,31301,Mizque,2024,5,TOTAL,1
+Santa Cruz,70403,Yapacani,2024,5,TOTAL,2
+Cochabamba,30403,Arbieto,2024,6,TOTAL,2
+Santa Cruz,71402,Puerto Quijarro,2024,6,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2024,6,TOTAL,2
+Santa Cruz,70503,Robore,2024,6,TOTAL,2
+Chuquisaca,10202,Tarvita,2024,6,TOTAL,16
+Santa Cruz,70706,Camiri,2024,7,TOTAL,1
+Santa Cruz,71403,Carmen Rivero Torrez,2024,7,TOTAL,25
+La Paz,21401,Coroico,2024,7,TOTAL,1
+Cochabamba,31203,Pocona,2024,7,TOTAL,40
+Santa Cruz,70503,Robore,2024,7,TOTAL,167
+Cochabamba,31001,Sacaba,2024,7,TOTAL,2
+Tarija,60501,San Lorenzo(tja),2024,7,TOTAL,1
+Santa Cruz,71201,San Matias,2024,7,TOTAL,201
+Santa Cruz,70302,San Miguel De Velasco,2024,7,TOTAL,2
+Santa Cruz,70303,San Rafael,2024,7,TOTAL,2
+Tarija,60101,Tarija,2024,7,TOTAL,16
+Santa Cruz,70403,Yapacani,2024,7,TOTAL,2
+Santa Cruz,71403,Carmen Rivero Torrez,2024,8,TOTAL,3
+Cochabamba,31002,Colomi,2024,8,TOTAL,2
+Santa Cruz,71101,Concepcion,2024,8,TOTAL,1061
+Potosí,50601,Cotagaita,2024,8,TOTAL,4
+Santa Cruz,71503,El Puente(stc),2024,8,TOTAL,32
+Beni,80801,Magdalena,2024,8,TOTAL,1
+Cochabamba,31301,Mizque,2024,8,TOTAL,5
+Cochabamba,30302,Morochata,2024,8,TOTAL,4
+Santa Cruz,71401,Puerto Suarez,2024,8,TOTAL,15
+Beni,80201,Riberalta,2024,8,TOTAL,5
+Santa Cruz,70503,Robore,2024,8,TOTAL,2
+Cochabamba,31001,Sacaba,2024,8,TOTAL,1
+Santa Cruz,70901,Samaipata,2024,8,TOTAL,1
+Santa Cruz,71105,San Antonio De Lomerio,2024,8,TOTAL,3
+Santa Cruz,70301,San Ignacio De Velasco,2024,8,TOTAL,11
+Chuquisaca,10101,Sucre,2024,8,TOTAL,2
+Tarija,60101,Tarija,2024,8,TOTAL,4
+Tarija,60401,Uriondo (a. Concepcion),2024,8,TOTAL,11
+Santa Cruz,71502,Urubicha,2024,8,TOTAL,4
+Chuquisaca,10704,Villa Charcas,2024,8,TOTAL,42
+Tarija,60303,Villa Montes,2024,8,TOTAL,11
+Cochabamba,30402,Anzaldo,2024,9,TOTAL,6
+Cochabamba,30601,Arque,2024,9,TOTAL,2
+Santa Cruz,71501,Ascencion De Guarayos,2024,9,TOTAL,107
+Potosí,50301,Betanzos,2024,9,TOTAL,1
+Cochabamba,31002,Colomi,2024,9,TOTAL,1
+La Paz,20304,Comanche,2024,9,TOTAL,6
+Santa Cruz,71301,Comarapa,2024,9,TOTAL,4
+Santa Cruz,71101,Concepcion,2024,9,TOTAL,711
+La Paz,21401,Coroico,2024,9,TOTAL,1
+Chuquisaca,10902,Culpina,2024,9,TOTAL,1
+Tarija,60601,Entre Rios Trj,2024,9,TOTAL,1
+Beni,80202,Guayaramerin,2024,9,TOTAL,24
+La Paz,21102,Irupana (villa De Lanza),2024,9,TOTAL,1
+La Paz,21202,Laja,2024,9,TOTAL,9
+Beni,80801,Magdalena,2024,9,TOTAL,2
+Santa Cruz,70903,Mairana,2024,9,TOTAL,65
+Santa Cruz,70502,Pailon,2024,9,TOTAL,29
+Santa Cruz,70902,Pampa Grande,2024,9,TOTAL,11
+Santa Cruz,70804,Postrer Valle,2024,9,TOTAL,1
+Beni,80301,Reyes,2024,9,TOTAL,51
+Santa Cruz,70503,Robore,2024,9,TOTAL,1
+Santa Cruz,70901,Samaipata,2024,9,TOTAL,1
+Santa Cruz,71105,San Antonio De Lomerio,2024,9,TOTAL,1
+La Paz,21502,San Buena Ventura,2024,9,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2024,9,TOTAL,9
+Pando,90302,San Lorenzo(pnd),2024,9,TOTAL,1
+Santa Cruz,71201,San Matias,2024,9,TOTAL,40
+Santa Cruz,70302,San Miguel De Velasco,2024,9,TOTAL,11
+Santa Cruz,70602,Santa Rosa Del Sara,2024,9,TOTAL,5
+Chuquisaca,10601,Tarabuco,2024,9,TOTAL,1
+Cochabamba,31201,Totora(cbba),2024,9,TOTAL,1
+Beni,80101,Trinidad,2024,9,TOTAL,49
+Santa Cruz,71502,Urubicha,2024,9,TOTAL,2
+Tarija,60301,Yacuiba,2024,9,TOTAL,1
+La Paz,21103,Yanacachi,2024,9,TOTAL,1
+Chuquisaca,10301,Zudañez,2024,9,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2024,10,TOTAL,3
+Santa Cruz,70703,Cabezas,2024,10,TOTAL,31
+La Paz,21003,Cajuata,2024,10,TOTAL,1
+Santa Cruz,70706,Camiri,2024,10,TOTAL,1
+Cochabamba,31002,Colomi,2024,10,TOTAL,3
+La Paz,21401,Coroico,2024,10,TOTAL,1
+La Paz,21102,Irupana (villa De Lanza),2024,10,TOTAL,1
+La Paz,21501,Ixiamas,2024,10,TOTAL,81
+La Paz,20806,Jesus De Machaca,2024,10,TOTAL,4
+Santa Cruz,70701,Lagunillas,2024,10,TOTAL,1
+Santa Cruz,70903,Mairana,2024,10,TOTAL,2
+Chuquisaca,10401,Padilla,2024,10,TOTAL,1
+Chuquisaca,10103,Poroma,2024,10,TOTAL,3
+Santa Cruz,70804,Postrer Valle,2024,10,TOTAL,2
+Pando,90301,Puerto Gonzalo Moreno,2024,10,TOTAL,5
+Santa Cruz,71401,Puerto Suarez,2024,10,TOTAL,1
+La Paz,21002,Quime,2024,10,TOTAL,1
+Santa Cruz,70503,Robore,2024,10,TOTAL,1181
+Cochabamba,31001,Sacaba,2024,10,TOTAL,3
+Santa Cruz,70901,Samaipata,2024,10,TOTAL,17
+Santa Cruz,70301,San Ignacio De Velasco,2024,10,TOTAL,2
+Pando,90202,San Pedro(pnd),2024,10,TOTAL,27
+Santa Cruz,70602,Santa Rosa Del Sara,2024,10,TOTAL,1
+Chuquisaca,10202,Tarvita,2024,10,TOTAL,11
+Cochabamba,31201,Totora(cbba),2024,10,TOTAL,1
+Beni,80101,Trinidad,2024,10,TOTAL,5
+Cochabamba,30502,Vacas,2024,10,TOTAL,2
+Santa Cruz,70801,Vallegrande,2024,10,TOTAL,15
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2024,10,TOTAL,31
+Santa Cruz,71501,Ascencion De Guarayos,2024,11,TOTAL,42
+Santa Cruz,70702,Charagua,2024,11,TOTAL,1

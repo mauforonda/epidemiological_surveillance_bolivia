@@ -1,0 +1,221 @@
+department,municipality_id,municipality,year,month,population,value
+Potosí,50301,Betanzos,2024,1,Nevada,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2024,1,Nevada,1
+Potosí,50702,Caripuyo,2024,1,Nevada,2
+Oruro,40201,Challapata,2024,1,Nevada,1
+La Paz,20501,Chuma,2024,1,Nevada,1
+Potosí,50601,Cotagaita,2024,1,Nevada,1
+Santa Cruz,70701,Lagunillas,2024,1,Nevada,1
+Chuquisaca,10903,Las Carreras,2024,1,Nevada,1
+Potosí,50701,Sacaca,2024,1,Nevada,3
+Chuquisaca,10702,San Lucas,2024,1,Nevada,1
+Chuquisaca,10602,Yamparaez,2024,1,Nevada,2
+Chuquisaca,10102,Yotala,2024,1,Nevada,1
+Chuquisaca,10201,Azurduy,2024,2,Nevada,1
+Potosí,50702,Caripuyo,2024,2,Nevada,1
+Potosí,50901,"Colcha ""k""",2024,2,Nevada,1
+Cochabamba,31304,Raqaypampa(eta),2024,2,Nevada,1
+Tarija,60502,El Puente(tja),2024,3,Nevada,1
+Chuquisaca,10103,Poroma,2024,3,Nevada,1
+Chuquisaca,10302,Presto,2024,3,Nevada,3
+Chuquisaca,10702,San Lucas,2024,3,Nevada,2
+Potosí,50501,San Pedro De Buena Vista,2024,3,Nevada,3
+Chuquisaca,10601,Tarabuco,2024,3,Nevada,1
+Potosí,50502,Toro Toro,2024,3,Nevada,1
+Potosí,50801,Tupiza,2024,3,Nevada,1
+La Paz,21202,Laja,2024,4,Nevada,50
+Chuquisaca,10101,Sucre,2024,4,Nevada,1
+Tarija,60202,Bermejo,2024,7,Nevada,1
+Tarija,60601,Entre Rios Trj,2024,7,Nevada,6
+Chuquisaca,10702,San Lucas,2024,9,Nevada,1
+Cochabamba,31303,Alalay,2024,10,Nevada,2
+Chuquisaca,10701,Camargo,2024,10,Nevada,6
+Chuquisaca,10902,Culpina,2024,10,Nevada,3
+Tarija,60502,El Puente(tja),2024,10,Nevada,1
+Chuquisaca,10703,Incahuasi,2024,10,Nevada,1
+Chuquisaca,10903,Las Carreras,2024,10,Nevada,3
+Chuquisaca,10401,Padilla,2024,10,Nevada,1
+Chuquisaca,10302,Presto,2024,10,Nevada,2
+Chuquisaca,10702,San Lucas,2024,10,Nevada,6
+Potosí,50801,Tupiza,2024,10,Nevada,2
+Tarija,60401,Uriondo (a. Concepcion),2024,10,Nevada,2
+Chuquisaca,10704,Villa Charcas,2024,10,Nevada,1
+Potosí,51501,Villazon,2024,10,Nevada,2
+Chuquisaca,10602,Yamparaez,2024,10,Nevada,1
+Cochabamba,31303,Alalay,2024,11,Nevada,1
+Cochabamba,30402,Anzaldo,2024,11,Nevada,1
+Cochabamba,30601,Arque,2024,11,Nevada,1
+Potosí,50601,Cotagaita,2024,11,Nevada,1
+Chuquisaca,10703,Incahuasi,2024,11,Nevada,1
+Chuquisaca,10702,San Lucas,2024,11,Nevada,1
+Potosí,50801,Tupiza,2024,11,Nevada,1
+Cochabamba,31303,Alalay,2024,12,Nevada,2
+Chuquisaca,10701,Camargo,2024,12,Nevada,1
+Potosí,50702,Caripuyo,2024,12,Nevada,1
+Chuquisaca,10902,Culpina,2024,12,Nevada,1
+Potosí,51101,Puna,2024,12,Nevada,1
+Potosí,50301,Betanzos,2024,1,Nevada1,0
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2024,1,Nevada1,35
+Potosí,50702,Caripuyo,2024,1,Nevada1,140
+Oruro,40201,Challapata,2024,1,Nevada1,160
+La Paz,20501,Chuma,2024,1,Nevada1,76
+Potosí,50601,Cotagaita,2024,1,Nevada1,68
+Santa Cruz,70701,Lagunillas,2024,1,Nevada1,20
+Chuquisaca,10903,Las Carreras,2024,1,Nevada1,380
+Potosí,50701,Sacaca,2024,1,Nevada1,0
+Chuquisaca,10702,San Lucas,2024,1,Nevada1,200
+Chuquisaca,10602,Yamparaez,2024,1,Nevada1,117
+Chuquisaca,10102,Yotala,2024,1,Nevada1,20
+Chuquisaca,10201,Azurduy,2024,2,Nevada1,32
+Potosí,50702,Caripuyo,2024,2,Nevada1,50
+Potosí,50901,"Colcha ""k""",2024,2,Nevada1,20
+Cochabamba,31304,Raqaypampa(eta),2024,2,Nevada1,124
+Tarija,60502,El Puente(tja),2024,3,Nevada1,54
+Chuquisaca,10103,Poroma,2024,3,Nevada1,45
+Chuquisaca,10302,Presto,2024,3,Nevada1,41
+Chuquisaca,10702,San Lucas,2024,3,Nevada1,284
+Potosí,50501,San Pedro De Buena Vista,2024,3,Nevada1,30
+Chuquisaca,10601,Tarabuco,2024,3,Nevada1,0
+Potosí,50502,Toro Toro,2024,3,Nevada1,30
+Potosí,50801,Tupiza,2024,3,Nevada1,12
+La Paz,21202,Laja,2024,4,Nevada1,0
+Chuquisaca,10101,Sucre,2024,4,Nevada1,12
+Tarija,60202,Bermejo,2024,7,Nevada1,16
+Tarija,60601,Entre Rios Trj,2024,7,Nevada1,806
+Chuquisaca,10702,San Lucas,2024,9,Nevada1,216
+Cochabamba,31303,Alalay,2024,10,Nevada1,0
+Chuquisaca,10701,Camargo,2024,10,Nevada1,1016
+Chuquisaca,10902,Culpina,2024,10,Nevada1,507
+Tarija,60502,El Puente(tja),2024,10,Nevada1,0
+Chuquisaca,10703,Incahuasi,2024,10,Nevada1,132
+Chuquisaca,10903,Las Carreras,2024,10,Nevada1,245
+Chuquisaca,10401,Padilla,2024,10,Nevada1,335
+Chuquisaca,10302,Presto,2024,10,Nevada1,218
+Chuquisaca,10702,San Lucas,2024,10,Nevada1,783
+Potosí,50801,Tupiza,2024,10,Nevada1,27
+Tarija,60401,Uriondo (a. Concepcion),2024,10,Nevada1,530
+Chuquisaca,10704,Villa Charcas,2024,10,Nevada1,35
+Potosí,51501,Villazon,2024,10,Nevada1,177
+Chuquisaca,10602,Yamparaez,2024,10,Nevada1,121
+Cochabamba,31303,Alalay,2024,11,Nevada1,0
+Cochabamba,30402,Anzaldo,2024,11,Nevada1,9
+Cochabamba,30601,Arque,2024,11,Nevada1,0
+Potosí,50601,Cotagaita,2024,11,Nevada1,25
+Chuquisaca,10703,Incahuasi,2024,11,Nevada1,150
+Chuquisaca,10702,San Lucas,2024,11,Nevada1,30
+Potosí,50801,Tupiza,2024,11,Nevada1,122
+Cochabamba,31303,Alalay,2024,12,Nevada1,0
+Chuquisaca,10701,Camargo,2024,12,Nevada1,12
+Potosí,50702,Caripuyo,2024,12,Nevada1,23
+Chuquisaca,10902,Culpina,2024,12,Nevada1,26
+Potosí,51101,Puna,2024,12,Nevada1,0
+Potosí,50301,Betanzos,2024,1,Nevada2,0
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2024,1,Nevada2,0
+Potosí,50702,Caripuyo,2024,1,Nevada2,0
+Oruro,40201,Challapata,2024,1,Nevada2,0
+La Paz,20501,Chuma,2024,1,Nevada2,0
+Potosí,50601,Cotagaita,2024,1,Nevada2,0
+Santa Cruz,70701,Lagunillas,2024,1,Nevada2,0
+Chuquisaca,10903,Las Carreras,2024,1,Nevada2,0
+Potosí,50701,Sacaca,2024,1,Nevada2,0
+Chuquisaca,10702,San Lucas,2024,1,Nevada2,0
+Chuquisaca,10602,Yamparaez,2024,1,Nevada2,0
+Chuquisaca,10102,Yotala,2024,1,Nevada2,0
+Chuquisaca,10201,Azurduy,2024,2,Nevada2,0
+Potosí,50702,Caripuyo,2024,2,Nevada2,0
+Potosí,50901,"Colcha ""k""",2024,2,Nevada2,0
+Cochabamba,31304,Raqaypampa(eta),2024,2,Nevada2,0
+Tarija,60502,El Puente(tja),2024,3,Nevada2,0
+Chuquisaca,10103,Poroma,2024,3,Nevada2,0
+Chuquisaca,10302,Presto,2024,3,Nevada2,0
+Chuquisaca,10702,San Lucas,2024,3,Nevada2,0
+Potosí,50501,San Pedro De Buena Vista,2024,3,Nevada2,0
+Chuquisaca,10601,Tarabuco,2024,3,Nevada2,0
+Potosí,50502,Toro Toro,2024,3,Nevada2,0
+Potosí,50801,Tupiza,2024,3,Nevada2,0
+La Paz,21202,Laja,2024,4,Nevada2,0
+Chuquisaca,10101,Sucre,2024,4,Nevada2,0
+Tarija,60202,Bermejo,2024,7,Nevada2,0
+Tarija,60601,Entre Rios Trj,2024,7,Nevada2,0
+Chuquisaca,10702,San Lucas,2024,9,Nevada2,0
+Cochabamba,31303,Alalay,2024,10,Nevada2,0
+Chuquisaca,10701,Camargo,2024,10,Nevada2,0
+Chuquisaca,10902,Culpina,2024,10,Nevada2,0
+Tarija,60502,El Puente(tja),2024,10,Nevada2,0
+Chuquisaca,10703,Incahuasi,2024,10,Nevada2,0
+Chuquisaca,10903,Las Carreras,2024,10,Nevada2,0
+Chuquisaca,10401,Padilla,2024,10,Nevada2,0
+Chuquisaca,10302,Presto,2024,10,Nevada2,0
+Chuquisaca,10702,San Lucas,2024,10,Nevada2,0
+Potosí,50801,Tupiza,2024,10,Nevada2,0
+Tarija,60401,Uriondo (a. Concepcion),2024,10,Nevada2,0
+Chuquisaca,10704,Villa Charcas,2024,10,Nevada2,0
+Potosí,51501,Villazon,2024,10,Nevada2,0
+Chuquisaca,10602,Yamparaez,2024,10,Nevada2,0
+Cochabamba,31303,Alalay,2024,11,Nevada2,0
+Cochabamba,30402,Anzaldo,2024,11,Nevada2,0
+Cochabamba,30601,Arque,2024,11,Nevada2,0
+Potosí,50601,Cotagaita,2024,11,Nevada2,0
+Chuquisaca,10703,Incahuasi,2024,11,Nevada2,0
+Chuquisaca,10702,San Lucas,2024,11,Nevada2,0
+Potosí,50801,Tupiza,2024,11,Nevada2,0
+Cochabamba,31303,Alalay,2024,12,Nevada2,0
+Chuquisaca,10701,Camargo,2024,12,Nevada2,0
+Potosí,50702,Caripuyo,2024,12,Nevada2,0
+Chuquisaca,10902,Culpina,2024,12,Nevada2,0
+Potosí,51101,Puna,2024,12,Nevada2,0
+Potosí,50301,Betanzos,2024,1,TOTAL,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2024,1,TOTAL,36
+Potosí,50702,Caripuyo,2024,1,TOTAL,142
+Oruro,40201,Challapata,2024,1,TOTAL,161
+La Paz,20501,Chuma,2024,1,TOTAL,77
+Potosí,50601,Cotagaita,2024,1,TOTAL,69
+Santa Cruz,70701,Lagunillas,2024,1,TOTAL,21
+Chuquisaca,10903,Las Carreras,2024,1,TOTAL,381
+Potosí,50701,Sacaca,2024,1,TOTAL,3
+Chuquisaca,10702,San Lucas,2024,1,TOTAL,201
+Chuquisaca,10602,Yamparaez,2024,1,TOTAL,119
+Chuquisaca,10102,Yotala,2024,1,TOTAL,21
+Chuquisaca,10201,Azurduy,2024,2,TOTAL,33
+Potosí,50702,Caripuyo,2024,2,TOTAL,51
+Potosí,50901,"Colcha ""k""",2024,2,TOTAL,21
+Cochabamba,31304,Raqaypampa(eta),2024,2,TOTAL,125
+Tarija,60502,El Puente(tja),2024,3,TOTAL,55
+Chuquisaca,10103,Poroma,2024,3,TOTAL,46
+Chuquisaca,10302,Presto,2024,3,TOTAL,44
+Chuquisaca,10702,San Lucas,2024,3,TOTAL,286
+Potosí,50501,San Pedro De Buena Vista,2024,3,TOTAL,33
+Chuquisaca,10601,Tarabuco,2024,3,TOTAL,1
+Potosí,50502,Toro Toro,2024,3,TOTAL,31
+Potosí,50801,Tupiza,2024,3,TOTAL,13
+La Paz,21202,Laja,2024,4,TOTAL,50
+Chuquisaca,10101,Sucre,2024,4,TOTAL,13
+Tarija,60202,Bermejo,2024,7,TOTAL,17
+Tarija,60601,Entre Rios Trj,2024,7,TOTAL,812
+Chuquisaca,10702,San Lucas,2024,9,TOTAL,217
+Cochabamba,31303,Alalay,2024,10,TOTAL,2
+Chuquisaca,10701,Camargo,2024,10,TOTAL,1022
+Chuquisaca,10902,Culpina,2024,10,TOTAL,510
+Tarija,60502,El Puente(tja),2024,10,TOTAL,1
+Chuquisaca,10703,Incahuasi,2024,10,TOTAL,133
+Chuquisaca,10903,Las Carreras,2024,10,TOTAL,248
+Chuquisaca,10401,Padilla,2024,10,TOTAL,336
+Chuquisaca,10302,Presto,2024,10,TOTAL,220
+Chuquisaca,10702,San Lucas,2024,10,TOTAL,789
+Potosí,50801,Tupiza,2024,10,TOTAL,29
+Tarija,60401,Uriondo (a. Concepcion),2024,10,TOTAL,532
+Chuquisaca,10704,Villa Charcas,2024,10,TOTAL,36
+Potosí,51501,Villazon,2024,10,TOTAL,179
+Chuquisaca,10602,Yamparaez,2024,10,TOTAL,122
+Cochabamba,31303,Alalay,2024,11,TOTAL,1
+Cochabamba,30402,Anzaldo,2024,11,TOTAL,10
+Cochabamba,30601,Arque,2024,11,TOTAL,1
+Potosí,50601,Cotagaita,2024,11,TOTAL,26
+Chuquisaca,10703,Incahuasi,2024,11,TOTAL,151
+Chuquisaca,10702,San Lucas,2024,11,TOTAL,31
+Potosí,50801,Tupiza,2024,11,TOTAL,123
+Cochabamba,31303,Alalay,2024,12,TOTAL,2
+Chuquisaca,10701,Camargo,2024,12,TOTAL,13
+Potosí,50702,Caripuyo,2024,12,TOTAL,24
+Chuquisaca,10902,Culpina,2024,12,TOTAL,27
+Potosí,51101,Puna,2024,12,TOTAL,1
